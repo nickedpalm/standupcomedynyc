@@ -157,7 +157,7 @@
  },
  {
   "event_id": "richard-perez-2026-09-15-2200",
-  "src": "/assets/posters/richard-perez-2026-09-15-2200.jpg",
+  "src": "/assets/posters/archive/richard-perez-2026-09-15-2200.jpg",
   "width": 2160,
   "height": 1080,
   "source_url": "https://www.eventbrite.com/e/richard-perez-for-one-night-okay-tickets-1999224599595",
@@ -168,7 +168,8 @@
   "retrieved_at": "2026-09-11",
   "bytes": 329854,
   "sha256": "b9a5b21767f22dfee274888ba510fd7979a24307f5e152c6d41c7f3aa524cb88",
-  "reuse_status": "Official promotional artwork; no separate reuse license identified. Local review draft only."
+  "reuse_status": "Official promotional artwork; no separate reuse license identified. Local review draft only.",
+  "archived": true
  },
  {
   "event_id": "invisible-architecture-2026-09-16-1930",
@@ -217,7 +218,7 @@
  },
  {
   "event_id": "laugh-union-hall-2026-09-15",
-  "src": "/assets/posters/laugh-union-hall-2026-09-15.jpg",
+  "src": "/assets/posters/archive/laugh-union-hall-2026-09-15.jpg",
   "width": 940,
   "height": 470,
   "source_url": "https://www.eventbrite.com/e/laugh-tickets-1996257168930",
@@ -228,7 +229,8 @@
   "retrieved_at": "2026-09-14",
   "bytes": 92212,
   "sha256": "30ad191854872fb8d4621a72e6dff33e8845dfc7df732c6f6f730f7a1eab00c5",
-  "reuse_status": "Official promotional artwork from the show's Eventbrite page; no separate reuse license identified. Site display with credit only."
+  "reuse_status": "Official promotional artwork from the show's Eventbrite page; no separate reuse license identified. Site display with credit only.",
+  "archived": true
  },
  {
   "event_id": "fun-in-moderation-2026-09-19",
@@ -307,7 +309,7 @@
  },
  {
   "event_id": "stamptown-2026-09-15",
-  "src": "/assets/posters/stamptown-2026-09-15.jpg",
+  "src": "/assets/posters/archive/stamptown-2026-09-15.jpg",
   "width": 640,
   "height": 427,
   "source_url": "https://www.thebellhouseny.com/",
@@ -318,7 +320,8 @@
   "retrieved_at": "2026-09-14",
   "bytes": 48522,
   "sha256": "38518bd8367e88fe8d5b45b6ac15dce519392c8ba93bcb3c3bb7c84249aab43d",
-  "reuse_status": "Official promotional artwork from the show's public listing; no separate reuse license identified. Site display with credit only."
+  "reuse_status": "Official promotional artwork from the show's public listing; no separate reuse license identified. Site display with credit only.",
+  "archived": true
  },
  {
   "event_id": "jenny-tian-2026-09-17",
@@ -657,7 +660,7 @@
   "height": 427,
   "source_url": "https://www.ticketmaster.com/poly-diaz-en-espanol-brooklyn-new-york-10-09-2026/event/300064E804C8B732",
   "credit": "Artwork: The Bell House / show organizer",
-  "alt": "Poly D\u00edaz (En Espa\u00f1ol) promotional artwork.",
+  "alt": "Poly Díaz (En Español) promotional artwork.",
   "kind": "dated event flyer",
   "original_image_url": "https://s1.ticketm.net/dam/a/46b/b02509bd-4380-43c8-b78d-f269a917446b_RETINA_PORTRAIT_3_2.jpg",
   "retrieved_at": "2026-09-15",

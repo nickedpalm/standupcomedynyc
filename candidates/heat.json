@@ -1,26 +1,24 @@
 {
- "generated_at": "2026-09-15T11:11:56.423Z",
+ "generated_at": "2026-09-16T09:28:07.936Z",
  "note": "Demand signals for the editor. Only availability and second shows set the public demand tag.",
  "picks": [
   {
-   "id": "richard-perez-2026-09-15-2200",
-   "title": "Richard Perez: For One Night Okay",
+   "id": "sophie-buddle-2026-09-18",
+   "title": "Sophie Buddle",
    "venue": "Union Hall",
-   "date": "2026-09-15",
+   "date": "2026-09-18",
    "heat": 100,
    "demand": "sold_out",
    "availability": "SoldOut",
    "second_show": false,
-   "performer": "Richard Perez",
-   "wikipedia": null,
-   "reddit": {
-    "phrase": "Richard Perez",
-    "posts_30d": 0,
-    "upvotes": 0,
-    "comments": 0,
-    "subreddits": [],
-    "top": null
+   "performer": "Sophie Buddle",
+   "wikipedia": {
+    "title": "Sophie Buddle",
+    "views_30d": 701,
+    "views_prior_30d": 1319,
+    "change": -47
    },
+   "reddit": null,
    "reasons": [
     "sold out on the ticket page"
    ]
@@ -37,35 +35,16 @@
    "performer": "Taylor Tomlinson",
    "wikipedia": {
     "title": "Taylor Tomlinson",
-    "views_30d": 36594,
-    "views_prior_30d": 31575,
-    "change": 16
+    "views_30d": 40041,
+    "views_prior_30d": 31674,
+    "change": 26
    },
-   "reddit": {
-    "phrase": "Taylor Tomlinson",
-    "posts_30d": 5,
-    "upvotes": 1948,
-    "comments": 55,
-    "subreddits": [
-     "dropout",
-     "ladyladyboners",
-     "leatherwearingCelebs",
-     "Downside",
-     "nycComedy"
-    ],
-    "top": {
-     "title": "Great to see Taylor Tomlinson live the same day as her Crowd Control episode. What a gifted comedian!",
-     "subreddit": "dropout",
-     "score": 1507,
-     "url": "https://www.reddit.com/r/dropout/comments/1vrpfx0/great_to_see_taylor_tomlinson_live_the_same_day/"
-    }
-   },
+   "reddit": null,
    "reasons": [
     "sold out on the ticket page",
     "a second show the same night at the same room",
     "6 listings this month",
-    "Wikipedia: 1220 views a day",
-    "Reddit: 5 posts in 30 days, 1948 upvotes (top: r/dropout)"
+    "Wikipedia: 1335 views a day"
    ]
   },
   {
@@ -80,108 +59,361 @@
    "performer": "Taylor Tomlinson",
    "wikipedia": {
     "title": "Taylor Tomlinson",
-    "views_30d": 36594,
-    "views_prior_30d": 31575,
-    "change": 16
+    "views_30d": 40041,
+    "views_prior_30d": 31674,
+    "change": 26
    },
-   "reddit": {
-    "phrase": "Taylor Tomlinson",
-    "posts_30d": 5,
-    "upvotes": 1952,
-    "comments": 55,
-    "subreddits": [
-     "dropout",
-     "ladyladyboners",
-     "leatherwearingCelebs",
-     "Downside",
-     "nycComedy"
-    ],
-    "top": {
-     "title": "Great to see Taylor Tomlinson live the same day as her Crowd Control episode. What a gifted comedian!",
-     "subreddit": "dropout",
-     "score": 1506,
-     "url": "https://www.reddit.com/r/dropout/comments/1vrpfx0/great_to_see_taylor_tomlinson_live_the_same_day/"
-    }
-   },
+   "reddit": null,
    "reasons": [
     "sold out on the ticket page",
     "a second show the same night at the same room",
     "6 listings this month",
-    "Wikipedia: 1220 views a day",
-    "Reddit: 5 posts in 30 days, 1952 upvotes (top: r/dropout)"
+    "Wikipedia: 1335 views a day"
    ]
   },
   {
-   "id": "beth-stelling-let-me-get-loose-2026-09-26",
-   "title": "Beth Stelling: Let Me Get Loose",
+   "id": "kanan-gill-not-this-again-town-hall-2026-10-03-1600",
+   "title": "Kanan Gill: Not This Again (Matinee)",
+   "venue": "The Town Hall",
+   "date": "2026-10-03",
+   "heat": 35,
+   "demand": "going_fast",
+   "availability": null,
+   "second_show": true,
+   "performer": "Kanan Gill",
+   "wikipedia": {
+    "title": "Kanan Gill",
+    "views_30d": 6458,
+    "views_prior_30d": 5536,
+    "change": 17
+   },
+   "reddit": null,
+   "reasons": [
+    "a second show the same night at the same room",
+    "Wikipedia: 215 views a day"
+   ]
+  },
+  {
+   "id": "kanan-gill-not-this-again-town-hall-2026-10-03-1900",
+   "title": "Kanan Gill: Not This Again (Evening)",
+   "venue": "The Town Hall",
+   "date": "2026-10-03",
+   "heat": 35,
+   "demand": "going_fast",
+   "availability": null,
+   "second_show": true,
+   "performer": "Kanan Gill",
+   "wikipedia": {
+    "title": "Kanan Gill",
+    "views_30d": 6458,
+    "views_prior_30d": 5536,
+    "change": 17
+   },
+   "reddit": null,
+   "reasons": [
+    "a second show the same night at the same room",
+    "Wikipedia: 215 views a day"
+   ]
+  },
+  {
+   "id": "michelle-buteau-2026-09-29",
+   "title": "Michelle Buteau",
    "venue": "The Bell House",
-   "date": "2026-09-26",
-   "heat": 25,
+   "date": "2026-09-29",
+   "heat": 20,
    "demand": null,
    "availability": null,
    "second_show": false,
-   "performer": "Beth Stelling",
+   "performer": "Michelle Buteau",
    "wikipedia": {
-    "title": "Beth Stelling",
-    "views_30d": 2995,
-    "views_prior_30d": 3394,
-    "change": -12
+    "title": "Michelle Buteau",
+    "views_30d": 41231,
+    "views_prior_30d": 55853,
+    "change": -26
    },
-   "reddit": {
-    "phrase": "Beth Stelling",
-    "posts_30d": 5,
-    "upvotes": 678,
-    "comments": 12,
-    "subreddits": [
-     "StandUpComedy"
-    ],
-    "top": {
-     "title": "“It’s what’s up here that they hate” - Beth Stelling",
-     "subreddit": "StandUpComedy",
-     "score": 506,
-     "url": "https://www.reddit.com/r/StandUpComedy/comments/1vykuln/its_whats_up_here_that_they_hate_beth_stelling/"
-    }
-   },
+   "reddit": null,
    "reasons": [
-    "Reddit: 5 posts in 30 days, 678 upvotes (top: r/StandUpComedy)"
+    "Wikipedia: 1374 views a day"
    ]
   },
   {
-   "id": "jamie-wolf-2026-09-16-2200",
-   "title": "Jamie Wolf: Psycho",
-   "venue": "Union Hall",
-   "date": "2026-09-16",
+   "id": "michelle-buteau-2026-10-19",
+   "title": "Michelle Buteau",
+   "venue": "The Bell House",
+   "date": "2026-10-19",
    "heat": 20,
    "demand": null,
-   "availability": "InStock",
+   "availability": null,
    "second_show": false,
-   "performer": "Jamie Wolf",
-   "wikipedia": null,
-   "reddit": {
-    "phrase": "Jamie Wolf",
-    "posts_30d": 1,
-    "upvotes": 758,
-    "comments": 4,
-    "subreddits": [
-     "StandUpComedy"
-    ],
-    "top": {
-     "title": "First Dates | Jamie Wolf",
-     "subreddit": "StandUpComedy",
-     "score": 758,
-     "url": "https://www.reddit.com/r/StandUpComedy/comments/1w9b00h/first_dates_jamie_wolf/"
-    }
+   "performer": "Michelle Buteau",
+   "wikipedia": {
+    "title": "Michelle Buteau",
+    "views_30d": 41231,
+    "views_prior_30d": 55853,
+    "change": -26
    },
+   "reddit": null,
    "reasons": [
-    "tickets available",
-    "Reddit: 1 post in 30 days, 758 upvotes (top: r/StandUpComedy)"
+    "Wikipedia: 1374 views a day"
    ]
   },
   {
-   "id": "laugh-union-hall-2026-09-15",
-   "title": "LAUGH",
+   "id": "chelsea-handler-beacon-2026-09-25",
+   "title": "Chelsea Handler: The High and Mighty Tour",
+   "venue": "Beacon Theatre",
+   "date": "2026-09-25",
+   "heat": 20,
+   "demand": null,
+   "availability": null,
+   "second_show": false,
+   "performer": "Chelsea Handler",
+   "wikipedia": {
+    "title": "Chelsea Handler",
+    "views_30d": 48781,
+    "views_prior_30d": 53513,
+    "change": -9
+   },
+   "reddit": null,
+   "reasons": [
+    "Wikipedia: 1626 views a day"
+   ]
+  },
+  {
+   "id": "nycf-marc-maron-beacon-2026-11-08",
+   "title": "Marc Maron: Yammering Into the Void Tour",
+   "venue": "Beacon Theatre",
+   "date": "2026-11-08",
+   "heat": 20,
+   "demand": null,
+   "availability": null,
+   "second_show": false,
+   "performer": "Marc Maron",
+   "wikipedia": {
+    "title": "Marc Maron",
+    "views_30d": 32962,
+    "views_prior_30d": 29661,
+    "change": 11
+   },
+   "reddit": null,
+   "reasons": [
+    "Wikipedia: 1099 views a day"
+   ]
+  },
+  {
+   "id": "nycf-ilana-glazer-beacon-2026-11-13",
+   "title": "Ilana Glazer Live!",
+   "venue": "Beacon Theatre",
+   "date": "2026-11-13",
+   "heat": 20,
+   "demand": null,
+   "availability": null,
+   "second_show": false,
+   "performer": "Ilana Glazer",
+   "wikipedia": {
+    "title": "Ilana Glazer",
+    "views_30d": 30336,
+    "views_prior_30d": 28989,
+    "change": 5
+   },
+   "reddit": null,
+   "reasons": [
+    "Wikipedia: 1011 views a day"
+   ]
+  },
+  {
+   "id": "nycf-joanne-mcnally-town-hall-2026-11-07",
+   "title": "Joanne McNally: Pinotphile",
+   "venue": "The Town Hall",
+   "date": "2026-11-07",
+   "heat": 20,
+   "demand": null,
+   "availability": null,
+   "second_show": false,
+   "performer": "Joanne McNally",
+   "wikipedia": {
+    "title": "Joanne McNally",
+    "views_30d": 39214,
+    "views_prior_30d": 26900,
+    "change": 46
+   },
+   "reddit": null,
+   "reasons": [
+    "Wikipedia: 1307 views a day"
+   ]
+  },
+  {
+   "id": "maria-bamford-2026-10-10",
+   "title": "Maria Bamford: Live",
+   "venue": "The Bell House",
+   "date": "2026-10-10",
+   "heat": 10,
+   "demand": null,
+   "availability": null,
+   "second_show": false,
+   "performer": "Maria Bamford",
+   "wikipedia": {
+    "title": "Maria Bamford",
+    "views_30d": 25047,
+    "views_prior_30d": 20933,
+    "change": 20
+   },
+   "reddit": null,
+   "reasons": [
+    "Wikipedia: 835 views a day"
+   ]
+  },
+  {
+   "id": "asif-ali-2026-10-17",
+   "title": "Asif Ali Live!",
+   "venue": "The Bell House",
+   "date": "2026-10-17",
+   "heat": 10,
+   "demand": null,
+   "availability": null,
+   "second_show": false,
+   "performer": "Asif Ali",
+   "wikipedia": {
+    "title": "Asif Ali (comedian)",
+    "views_30d": 8512,
+    "views_prior_30d": 5903,
+    "change": 44
+   },
+   "reddit": null,
+   "reasons": [
+    "Wikipedia: 284 views a day"
+   ]
+  },
+  {
+   "id": "johnny-pemberton-2026-10-18",
+   "title": "Johnny Pemberton",
+   "venue": "The Bell House",
+   "date": "2026-10-18",
+   "heat": 10,
+   "demand": null,
+   "availability": null,
+   "second_show": false,
+   "performer": "Johnny Pemberton",
+   "wikipedia": {
+    "title": "Johnny Pemberton",
+    "views_30d": 23154,
+    "views_prior_30d": 19472,
+    "change": 19
+   },
+   "reddit": null,
+   "reasons": [
+    "Wikipedia: 772 views a day"
+   ]
+  },
+  {
+   "id": "brad-williams-tall-tales-tour-town-hall-2026-09-19",
+   "title": "Brad Williams: The Tall Tales Tour",
+   "venue": "The Town Hall",
+   "date": "2026-09-19",
+   "heat": 10,
+   "demand": null,
+   "availability": null,
+   "second_show": false,
+   "performer": "Brad Williams",
+   "wikipedia": {
+    "title": "Brad Williams (comedian)",
+    "views_30d": 13109,
+    "views_prior_30d": 15294,
+    "change": -14
+   },
+   "reddit": null,
+   "reasons": [
+    "Wikipedia: 437 views a day"
+   ]
+  },
+  {
+   "id": "kathy-griffin-new-face-new-tour-town-hall-2026-10-16",
+   "title": "Kathy Griffin: New Face, New Tour",
+   "venue": "The Town Hall",
+   "date": "2026-10-16",
+   "heat": 10,
+   "demand": null,
+   "availability": null,
+   "second_show": false,
+   "performer": "Kathy Griffin",
+   "wikipedia": {
+    "title": "Kathy Griffin",
+    "views_30d": 29725,
+    "views_prior_30d": 30364,
+    "change": -2
+   },
+   "reddit": null,
+   "reasons": [
+    "Wikipedia: 991 views a day"
+   ]
+  },
+  {
+   "id": "nycf-daniel-sloss-beacon-2026-11-14",
+   "title": "Daniel Sloss: Bitter",
+   "venue": "Beacon Theatre",
+   "date": "2026-11-14",
+   "heat": 10,
+   "demand": null,
+   "availability": null,
+   "second_show": false,
+   "performer": "Daniel Sloss",
+   "wikipedia": {
+    "title": "Daniel Sloss",
+    "views_30d": 19337,
+    "views_prior_30d": 17681,
+    "change": 9
+   },
+   "reddit": null,
+   "reasons": [
+    "Wikipedia: 645 views a day"
+   ]
+  },
+  {
+   "id": "nycf-adam-ray-gramercy-2026-11-06",
+   "title": "Adam Ray",
+   "venue": "Gramercy Theatre",
+   "date": "2026-11-06",
+   "heat": 10,
+   "demand": null,
+   "availability": null,
+   "second_show": false,
+   "performer": "Adam Ray",
+   "wikipedia": {
+    "title": "Adam Ray",
+    "views_30d": 18271,
+    "views_prior_30d": 20219,
+    "change": -10
+   },
+   "reddit": null,
+   "reasons": [
+    "Wikipedia: 609 views a day"
+   ]
+  },
+  {
+   "id": "nycf-jess-hilarious-hard-rock-2026-11-13",
+   "title": "Jess Hilarious: The Don t Play Wit Me Tour",
+   "venue": "Hard Rock Hotel New York - The Venue on Music Row",
+   "date": "2026-11-13",
+   "heat": 10,
+   "demand": null,
+   "availability": null,
+   "second_show": false,
+   "performer": "Jess Hilarious",
+   "wikipedia": {
+    "title": "Jess Hilarious",
+    "views_30d": 9387,
+    "views_prior_30d": 12164,
+    "change": -23
+   },
+   "reddit": null,
+   "reasons": [
+    "Wikipedia: 313 views a day"
+   ]
+  },
+  {
+   "id": "invisible-architecture-2026-09-16-1930",
+   "title": "Invisible Architecture: An Evening of Comedy with Charlie Flynn",
    "venue": "Union Hall",
-   "date": "2026-09-15",
+   "date": "2026-09-16",
    "heat": 0,
    "demand": null,
    "availability": "InStock",
@@ -194,29 +426,15 @@
    ]
   },
   {
-   "id": "stamptown-2026-09-15",
-   "title": "Stamptown",
-   "venue": "The Bell House",
-   "date": "2026-09-15",
-   "heat": 0,
-   "demand": null,
-   "availability": null,
-   "second_show": false,
-   "performer": null,
-   "wikipedia": null,
-   "reddit": null,
-   "reasons": []
-  },
-  {
-   "id": "invisible-architecture-2026-09-16-1930",
-   "title": "Invisible Architecture: An Evening of Comedy with Charlie Flynn",
+   "id": "jamie-wolf-2026-09-16-2200",
+   "title": "Jamie Wolf: Psycho",
    "venue": "Union Hall",
    "date": "2026-09-16",
    "heat": 0,
    "demand": null,
    "availability": "InStock",
    "second_show": false,
-   "performer": null,
+   "performer": "Jamie Wolf",
    "wikipedia": null,
    "reddit": null,
    "reasons": [
@@ -249,18 +467,11 @@
    "performer": "Jenny Tian",
    "wikipedia": {
     "title": "Jenny Tian",
-    "views_30d": 3381,
-    "views_prior_30d": 4447,
-    "change": -24
+    "views_30d": 3378,
+    "views_prior_30d": 4301,
+    "change": -21
    },
-   "reddit": {
-    "phrase": "Jenny Tian",
-    "posts_30d": 0,
-    "upvotes": 0,
-    "comments": 0,
-    "subreddits": [],
-    "top": null
-   },
+   "reddit": null,
    "reasons": []
   },
   {
@@ -318,43 +529,8 @@
    "second_show": false,
    "performer": "Leonard Ouzts",
    "wikipedia": null,
-   "reddit": {
-    "phrase": "Leonard Ouzts",
-    "posts_30d": 0,
-    "upvotes": 0,
-    "comments": 0,
-    "subreddits": [],
-    "top": null
-   },
+   "reddit": null,
    "reasons": []
-  },
-  {
-   "id": "sophie-buddle-2026-09-18",
-   "title": "Sophie Buddle",
-   "venue": "Union Hall",
-   "date": "2026-09-18",
-   "heat": 0,
-   "demand": null,
-   "availability": "InStock",
-   "second_show": false,
-   "performer": "Sophie Buddle",
-   "wikipedia": {
-    "title": "Sophie Buddle",
-    "views_30d": 757,
-    "views_prior_30d": 1269,
-    "change": -40
-   },
-   "reddit": {
-    "phrase": "Sophie Buddle",
-    "posts_30d": 0,
-    "upvotes": 0,
-    "comments": 0,
-    "subreddits": [],
-    "top": null
-   },
-   "reasons": [
-    "tickets available"
-   ]
   },
   {
    "id": "jokes-and-jranks-justin-lamar-comedy-in-harlem-2026-09-19",
@@ -381,14 +557,7 @@
    "second_show": false,
    "performer": "Sam Taggart",
    "wikipedia": null,
-   "reddit": {
-    "phrase": "Sam Taggart",
-    "posts_30d": 0,
-    "upvotes": 0,
-    "comments": 0,
-    "subreddits": [],
-    "top": null
-   },
+   "reddit": null,
    "reasons": []
   },
   {
@@ -435,18 +604,11 @@
    "performer": "Josh Sharp",
    "wikipedia": {
     "title": "Josh Sharp",
-    "views_30d": 1128,
-    "views_prior_30d": 1090,
-    "change": 3
+    "views_30d": 1131,
+    "views_prior_30d": 1074,
+    "change": 5
    },
-   "reddit": {
-    "phrase": "Josh Sharp",
-    "posts_30d": 0,
-    "upvotes": 0,
-    "comments": 0,
-    "subreddits": [],
-    "top": null
-   },
+   "reddit": null,
    "reasons": []
   },
   {
@@ -506,14 +668,7 @@
    "second_show": false,
    "performer": "David Nihill",
    "wikipedia": null,
-   "reddit": {
-    "phrase": "David Nihill",
-    "posts_30d": 0,
-    "upvotes": 0,
-    "comments": 0,
-    "subreddits": [],
-    "top": null
-   },
+   "reddit": null,
    "reasons": []
   },
   {
@@ -541,14 +696,7 @@
    "second_show": false,
    "performer": "Vidura Bandara Rajapaksa",
    "wikipedia": null,
-   "reddit": {
-    "phrase": "Vidura Bandara Rajapaksa",
-    "posts_30d": 0,
-    "upvotes": 0,
-    "comments": 0,
-    "subreddits": [],
-    "top": null
-   },
+   "reddit": null,
    "reasons": []
   },
   {
@@ -566,6 +714,25 @@
    "reasons": []
   },
   {
+   "id": "beth-stelling-let-me-get-loose-2026-09-26",
+   "title": "Beth Stelling: Let Me Get Loose",
+   "venue": "The Bell House",
+   "date": "2026-09-26",
+   "heat": 0,
+   "demand": null,
+   "availability": null,
+   "second_show": false,
+   "performer": "Beth Stelling",
+   "wikipedia": {
+    "title": "Beth Stelling",
+    "views_30d": 2984,
+    "views_prior_30d": 3390,
+    "change": -12
+   },
+   "reddit": null,
+   "reasons": []
+  },
+  {
    "id": "kevin-sullivan-2026-09-27",
    "title": "Kevin Sullivan",
    "venue": "The Bell House",
@@ -576,14 +743,7 @@
    "second_show": false,
    "performer": "Kevin Sullivan",
    "wikipedia": null,
-   "reddit": {
-    "phrase": "Kevin Sullivan",
-    "posts_30d": 0,
-    "upvotes": 0,
-    "comments": 0,
-    "subreddits": [],
-    "top": null
-   },
+   "reddit": null,
    "reasons": []
   },
   {
@@ -617,6 +777,806 @@
    "reasons": [
     "tickets available"
    ]
+  },
+  {
+   "id": "the-moth-storyslam-2026-09-30",
+   "title": "The Moth StorySLAM",
+   "venue": "The Bell House",
+   "date": "2026-09-30",
+   "heat": 0,
+   "demand": null,
+   "availability": null,
+   "second_show": false,
+   "performer": null,
+   "wikipedia": null,
+   "reddit": null,
+   "reasons": []
+  },
+  {
+   "id": "brendan-scannell-abyss-2026-10-01",
+   "title": "Brendan Scannell: The Abyss",
+   "venue": "The Bell House",
+   "date": "2026-10-01",
+   "heat": 0,
+   "demand": null,
+   "availability": null,
+   "second_show": false,
+   "performer": "Brendan Scannell",
+   "wikipedia": {
+    "title": "Brendan Scannell",
+    "views_30d": 1532,
+    "views_prior_30d": 1396,
+    "change": 10
+   },
+   "reddit": null,
+   "reasons": []
+  },
+  {
+   "id": "nate-varrone-2026-10-01",
+   "title": "Nate Varrone",
+   "venue": "The Bell House",
+   "date": "2026-10-01",
+   "heat": 0,
+   "demand": null,
+   "availability": null,
+   "second_show": false,
+   "performer": "Nate Varrone",
+   "wikipedia": null,
+   "reddit": null,
+   "reasons": []
+  },
+  {
+   "id": "phoebe-robinson-2026-10-02",
+   "title": "Phoebe Robinson: Feral & Fired Up!",
+   "venue": "The Bell House",
+   "date": "2026-10-02",
+   "heat": 0,
+   "demand": null,
+   "availability": null,
+   "second_show": false,
+   "performer": "Phoebe Robinson",
+   "wikipedia": {
+    "title": "Phoebe Robinson",
+    "views_30d": 3154,
+    "views_prior_30d": 3490,
+    "change": -10
+   },
+   "reddit": null,
+   "reasons": []
+  },
+  {
+   "id": "two-dykes-and-a-mic-2026-10-03",
+   "title": "Two Dykes and a Mic: Soaking Wet Tour",
+   "venue": "The Bell House",
+   "date": "2026-10-03",
+   "heat": 0,
+   "demand": null,
+   "availability": null,
+   "second_show": false,
+   "performer": null,
+   "wikipedia": null,
+   "reddit": null,
+   "reasons": []
+  },
+  {
+   "id": "comedy-girl-autumn-2026-10-04",
+   "title": "Comedy Girl Autumn: A Live Comedy Show Hosted by Larry Owens",
+   "venue": "The Bell House",
+   "date": "2026-10-04",
+   "heat": 0,
+   "demand": null,
+   "availability": null,
+   "second_show": false,
+   "performer": null,
+   "wikipedia": null,
+   "reddit": null,
+   "reasons": []
+  },
+  {
+   "id": "hot-butter-train-2026-10-05",
+   "title": "Hot Butter Train",
+   "venue": "The Bell House",
+   "date": "2026-10-05",
+   "heat": 0,
+   "demand": null,
+   "availability": null,
+   "second_show": false,
+   "performer": "Hot Butter Train",
+   "wikipedia": null,
+   "reddit": null,
+   "reasons": []
+  },
+  {
+   "id": "laughs-in-the-east-eastville-2026-09-30",
+   "title": "Laughs In The East",
+   "venue": "Eastville Comedy Club",
+   "date": "2026-09-30",
+   "heat": 0,
+   "demand": null,
+   "availability": null,
+   "second_show": false,
+   "performer": null,
+   "wikipedia": null,
+   "reddit": null,
+   "reasons": []
+  },
+  {
+   "id": "joe-mande-2026-10-07",
+   "title": "Joe Mande Con Amici",
+   "venue": "The Bell House",
+   "date": "2026-10-07",
+   "heat": 0,
+   "demand": null,
+   "availability": null,
+   "second_show": false,
+   "performer": null,
+   "wikipedia": null,
+   "reddit": null,
+   "reasons": []
+  },
+  {
+   "id": "molly-kearney-2026-10-08",
+   "title": "Molly Kearney",
+   "venue": "The Bell House",
+   "date": "2026-10-08",
+   "heat": 0,
+   "demand": null,
+   "availability": null,
+   "second_show": false,
+   "performer": "Molly Kearney",
+   "wikipedia": {
+    "title": "Molly Kearney",
+    "views_30d": 4824,
+    "views_prior_30d": 5565,
+    "change": -13
+   },
+   "reddit": null,
+   "reasons": []
+  },
+  {
+   "id": "lisa-wallen-headlines-eastville-2026-10-08",
+   "title": "Lisa Wallen Headlines",
+   "venue": "Eastville Comedy Club",
+   "date": "2026-10-08",
+   "heat": 0,
+   "demand": null,
+   "availability": null,
+   "second_show": false,
+   "performer": "Lisa Wallen Headlines",
+   "wikipedia": null,
+   "reddit": null,
+   "reasons": []
+  },
+  {
+   "id": "poly-diaz-2026-10-09",
+   "title": "Poly Díaz (En Español)",
+   "venue": "The Bell House",
+   "date": "2026-10-09",
+   "heat": 0,
+   "demand": null,
+   "availability": null,
+   "second_show": false,
+   "performer": null,
+   "wikipedia": null,
+   "reddit": null,
+   "reasons": []
+  },
+  {
+   "id": "brooklyn-power-hour-eastville-2026-10-09",
+   "title": "Brooklyn Power Hour",
+   "venue": "Eastville Comedy Club",
+   "date": "2026-10-09",
+   "heat": 0,
+   "demand": null,
+   "availability": null,
+   "second_show": false,
+   "performer": null,
+   "wikipedia": null,
+   "reddit": null,
+   "reasons": []
+  },
+  {
+   "id": "bechdel-cast-2026-10-12",
+   "title": "The Bechdel Cast 10 Year Anniversary Tour",
+   "venue": "The Bell House",
+   "date": "2026-10-12",
+   "heat": 0,
+   "demand": null,
+   "availability": null,
+   "second_show": false,
+   "performer": null,
+   "wikipedia": null,
+   "reddit": null,
+   "reasons": []
+  },
+  {
+   "id": "wait-whats-sri-lanka-eastville-2026-10-11",
+   "title": "Wait, What's Sri Lanka? — Comedy Special Taping",
+   "venue": "Eastville Comedy Club",
+   "date": "2026-10-11",
+   "heat": 0,
+   "demand": null,
+   "availability": null,
+   "second_show": false,
+   "performer": null,
+   "wikipedia": null,
+   "reddit": null,
+   "reasons": []
+  },
+  {
+   "id": "laughs-in-the-east-eastville-2026-10-07",
+   "title": "Laughs In The East",
+   "venue": "Eastville Comedy Club",
+   "date": "2026-10-07",
+   "heat": 0,
+   "demand": null,
+   "availability": null,
+   "second_show": false,
+   "performer": null,
+   "wikipedia": null,
+   "reddit": null,
+   "reasons": []
+  },
+  {
+   "id": "josh-aaron-improv-2026-10-14",
+   "title": "Josh & Aaron Do Improv (Feat. Hayden Johnson)",
+   "venue": "The Bell House",
+   "date": "2026-10-14",
+   "heat": 0,
+   "demand": null,
+   "availability": null,
+   "second_show": false,
+   "performer": null,
+   "wikipedia": null,
+   "reddit": null,
+   "reasons": []
+  },
+  {
+   "id": "laughs-in-the-east-eastville-2026-10-14",
+   "title": "Laughs In The East",
+   "venue": "Eastville Comedy Club",
+   "date": "2026-10-14",
+   "heat": 0,
+   "demand": null,
+   "availability": null,
+   "second_show": false,
+   "performer": null,
+   "wikipedia": null,
+   "reddit": null,
+   "reasons": []
+  },
+  {
+   "id": "francesca-mattlieb-2026-10-15",
+   "title": "Francesca Fiorentini and Matt Lieb",
+   "venue": "The Bell House",
+   "date": "2026-10-15",
+   "heat": 0,
+   "demand": null,
+   "availability": null,
+   "second_show": false,
+   "performer": null,
+   "wikipedia": null,
+   "reddit": null,
+   "reasons": []
+  },
+  {
+   "id": "stand-up-shenanigans-eastville-2026-10-15",
+   "title": "Stand Up Shenanigans",
+   "venue": "Eastville Comedy Club",
+   "date": "2026-10-15",
+   "heat": 0,
+   "demand": null,
+   "availability": null,
+   "second_show": false,
+   "performer": null,
+   "wikipedia": null,
+   "reddit": null,
+   "reasons": []
+  },
+  {
+   "id": "blank-check-live-2026-10-16",
+   "title": "Blank Check Live",
+   "venue": "The Bell House",
+   "date": "2026-10-16",
+   "heat": 0,
+   "demand": null,
+   "availability": null,
+   "second_show": false,
+   "performer": null,
+   "wikipedia": null,
+   "reddit": null,
+   "reasons": []
+  },
+  {
+   "id": "my-cousin-vlad-eastville-2026-10-17",
+   "title": "My Cousin Vlad & Balkan Comedy Night",
+   "venue": "Eastville Comedy Club",
+   "date": "2026-10-17",
+   "heat": 0,
+   "demand": null,
+   "availability": null,
+   "second_show": false,
+   "performer": null,
+   "wikipedia": null,
+   "reddit": null,
+   "reasons": []
+  },
+  {
+   "id": "headlining-alex-giampapa-eastville-2026-10-17",
+   "title": "Headlining Alex Giampapa",
+   "venue": "Eastville Comedy Club",
+   "date": "2026-10-17",
+   "heat": 0,
+   "demand": null,
+   "availability": null,
+   "second_show": false,
+   "performer": "Headlining Alex Giampapa",
+   "wikipedia": null,
+   "reddit": null,
+   "reasons": []
+  },
+  {
+   "id": "david-cross-benefit-2026-10-20",
+   "title": "A Benefit for Little Essentials with David Cross & Friends",
+   "venue": "The Bell House",
+   "date": "2026-10-20",
+   "heat": 0,
+   "demand": null,
+   "availability": null,
+   "second_show": false,
+   "performer": null,
+   "wikipedia": null,
+   "reddit": null,
+   "reasons": []
+  },
+  {
+   "id": "laughs-in-the-east-eastville-2026-10-21",
+   "title": "Laughs In The East",
+   "venue": "Eastville Comedy Club",
+   "date": "2026-10-21",
+   "heat": 0,
+   "demand": null,
+   "availability": null,
+   "second_show": false,
+   "performer": null,
+   "wikipedia": null,
+   "reddit": null,
+   "reasons": []
+  },
+  {
+   "id": "brett-goldstein-2026-10-21",
+   "title": "Brett Goldstein Runs His Hour Before His Tour",
+   "venue": "The Bell House",
+   "date": "2026-10-21",
+   "heat": 0,
+   "demand": null,
+   "availability": null,
+   "second_show": false,
+   "performer": null,
+   "wikipedia": null,
+   "reddit": null,
+   "reasons": []
+  },
+  {
+   "id": "stand-up-shenanigans-eastville-2026-10-22",
+   "title": "Stand Up Shenanigans",
+   "venue": "Eastville Comedy Club",
+   "date": "2026-10-22",
+   "heat": 0,
+   "demand": null,
+   "availability": null,
+   "second_show": false,
+   "performer": null,
+   "wikipedia": null,
+   "reddit": null,
+   "reasons": []
+  },
+  {
+   "id": "brooklyn-power-hour-eastville-2026-10-23",
+   "title": "Brooklyn Power Hour",
+   "venue": "Eastville Comedy Club",
+   "date": "2026-10-23",
+   "heat": 0,
+   "demand": null,
+   "availability": null,
+   "second_show": false,
+   "performer": null,
+   "wikipedia": null,
+   "reddit": null,
+   "reasons": []
+  },
+  {
+   "id": "sydnee-washington-2026-10-23",
+   "title": "Sydnee Washington: My Black Barbie Story",
+   "venue": "The Bell House",
+   "date": "2026-10-23",
+   "heat": 0,
+   "demand": null,
+   "availability": null,
+   "second_show": false,
+   "performer": "Sydnee Washington",
+   "wikipedia": {
+    "title": "Sydnee Washington",
+    "views_30d": 1898,
+    "views_prior_30d": 1905,
+    "change": 0
+   },
+   "reddit": null,
+   "reasons": []
+  },
+  {
+   "id": "saturday-night-live-comedy-eastville-2026-10-24",
+   "title": "Saturday Night Live Comedy",
+   "venue": "Eastville Comedy Club",
+   "date": "2026-10-24",
+   "heat": 0,
+   "demand": null,
+   "availability": null,
+   "second_show": false,
+   "performer": null,
+   "wikipedia": null,
+   "reddit": null,
+   "reasons": []
+  },
+  {
+   "id": "sunday-night-comedy-eastville-2026-10-25",
+   "title": "Sunday Night Comedy",
+   "venue": "Eastville Comedy Club",
+   "date": "2026-10-25",
+   "heat": 0,
+   "demand": null,
+   "availability": null,
+   "second_show": false,
+   "performer": null,
+   "wikipedia": null,
+   "reddit": null,
+   "reasons": []
+  },
+  {
+   "id": "comedy-idol-wscc-2026-10-03",
+   "title": "Comedy Idol (WSCC)",
+   "venue": "West Side Comedy Club",
+   "date": "2026-10-03",
+   "heat": 0,
+   "demand": null,
+   "availability": null,
+   "second_show": false,
+   "performer": null,
+   "wikipedia": null,
+   "reddit": null,
+   "reasons": []
+  },
+  {
+   "id": "the-next-elton-and-friends-wscc-2026-10-14",
+   "title": "The Next Elton and Friends",
+   "venue": "West Side Comedy Club",
+   "date": "2026-10-14",
+   "heat": 0,
+   "demand": null,
+   "availability": null,
+   "second_show": false,
+   "performer": null,
+   "wikipedia": null,
+   "reddit": null,
+   "reasons": []
+  },
+  {
+   "id": "jaime-ferraro-wscc-2026-10-21",
+   "title": "Jaime Ferraro en New York",
+   "venue": "West Side Comedy Club",
+   "date": "2026-10-21",
+   "heat": 0,
+   "demand": null,
+   "availability": null,
+   "second_show": false,
+   "performer": null,
+   "wikipedia": null,
+   "reddit": null,
+   "reasons": []
+  },
+  {
+   "id": "laugh-charity-ms-wscc-2026-10-22",
+   "title": "Laugh! It's for Charity! — A Comedy Benefit for the National MS Society",
+   "venue": "West Side Comedy Club",
+   "date": "2026-10-22",
+   "heat": 0,
+   "demand": null,
+   "availability": null,
+   "second_show": false,
+   "performer": null,
+   "wikipedia": null,
+   "reddit": null,
+   "reasons": []
+  },
+  {
+   "id": "robyn-and-friends-wscc-2026-10-25",
+   "title": "ROBYN & \"FRIENDS\" Comedy Show",
+   "venue": "West Side Comedy Club",
+   "date": "2026-10-25",
+   "heat": 0,
+   "demand": null,
+   "availability": null,
+   "second_show": false,
+   "performer": null,
+   "wikipedia": null,
+   "reddit": null,
+   "reasons": []
+  },
+  {
+   "id": "ben-schwartz-friends-beacon-2026-09-19-1900",
+   "title": "Ben Schwartz & Friends",
+   "venue": "Beacon Theatre",
+   "date": "2026-09-19",
+   "heat": 0,
+   "demand": null,
+   "availability": null,
+   "second_show": false,
+   "performer": null,
+   "wikipedia": null,
+   "reddit": null,
+   "reasons": []
+  },
+  {
+   "id": "ben-schwartz-friends-beacon-2026-09-19-2200",
+   "title": "Ben Schwartz & Friends (Late Show)",
+   "venue": "Beacon Theatre",
+   "date": "2026-09-19",
+   "heat": 0,
+   "demand": null,
+   "availability": null,
+   "second_show": false,
+   "performer": null,
+   "wikipedia": null,
+   "reddit": null,
+   "reasons": []
+  },
+  {
+   "id": "john-oliver-seth-meyers-beacon-2026-09-27",
+   "title": "John Oliver & Seth Meyers",
+   "venue": "Beacon Theatre",
+   "date": "2026-09-27",
+   "heat": 0,
+   "demand": null,
+   "availability": null,
+   "second_show": false,
+   "performer": null,
+   "wikipedia": null,
+   "reddit": null,
+   "reasons": []
+  },
+  {
+   "id": "yang-mengen-youngmoon-renegade-town-hall-2026-10-22",
+   "title": "Yang Mengen (youngmoon): Stand Up Comedy Special — Renegade",
+   "venue": "The Town Hall",
+   "date": "2026-10-22",
+   "heat": 0,
+   "demand": null,
+   "availability": null,
+   "second_show": false,
+   "performer": null,
+   "wikipedia": null,
+   "reddit": null,
+   "reasons": []
+  },
+  {
+   "id": "difficult-people-the-movie-town-hall-2026-11-03",
+   "title": "Difficult People: The Movie — A Live Table Read",
+   "venue": "The Town Hall",
+   "date": "2026-11-03",
+   "heat": 0,
+   "demand": null,
+   "availability": null,
+   "second_show": false,
+   "performer": "Difficult People",
+   "wikipedia": {
+    "title": "Difficult People",
+    "views_30d": 5618,
+    "views_prior_30d": 5638,
+    "change": 0
+   },
+   "reddit": null,
+   "reasons": []
+  },
+  {
+   "id": "mike-nasty-no-filter-lpr-2026-09-26",
+   "title": "Mike Nasty Presents: NO FILTER!",
+   "venue": "Le Poisson Rouge",
+   "date": "2026-09-26",
+   "heat": 0,
+   "demand": null,
+   "availability": null,
+   "second_show": false,
+   "performer": null,
+   "wikipedia": null,
+   "reddit": null,
+   "reasons": []
+  },
+  {
+   "id": "nycf-jordan-jensen-beacon-2026-11-12",
+   "title": "Jordan Jensen",
+   "venue": "Beacon Theatre",
+   "date": "2026-11-12",
+   "heat": 0,
+   "demand": null,
+   "availability": null,
+   "second_show": false,
+   "performer": "Jordan Jensen",
+   "wikipedia": null,
+   "reddit": null,
+   "reasons": []
+  },
+  {
+   "id": "nycf-mojo-brookzz-beacon-2026-11-15",
+   "title": "Mojo Brookzz: Outta Pocket Comedy Tour",
+   "venue": "Beacon Theatre",
+   "date": "2026-11-15",
+   "heat": 0,
+   "demand": null,
+   "availability": null,
+   "second_show": false,
+   "performer": "Mojo Brookzz",
+   "wikipedia": null,
+   "reddit": null,
+   "reasons": []
+  },
+  {
+   "id": "nycf-ziwe-town-hall-2026-11-06",
+   "title": "Ziwe",
+   "venue": "The Town Hall",
+   "date": "2026-11-06",
+   "heat": 0,
+   "demand": null,
+   "availability": null,
+   "second_show": false,
+   "performer": null,
+   "wikipedia": null,
+   "reddit": null,
+   "reasons": []
+  },
+  {
+   "id": "nycf-sarah-sherman-patti-harrison-town-hall-2026-11-08",
+   "title": "Sarah Sherman & Patti Harrison",
+   "venue": "The Town Hall",
+   "date": "2026-11-08",
+   "heat": 0,
+   "demand": null,
+   "availability": null,
+   "second_show": false,
+   "performer": null,
+   "wikipedia": null,
+   "reddit": null,
+   "reasons": []
+  },
+  {
+   "id": "nycf-moth-comic-relief-town-hall-2026-11-14",
+   "title": "The Moth x Comic Relief: Funny Story",
+   "venue": "The Town Hall",
+   "date": "2026-11-14",
+   "heat": 0,
+   "demand": null,
+   "availability": null,
+   "second_show": false,
+   "performer": null,
+   "wikipedia": null,
+   "reddit": null,
+   "reasons": []
+  },
+  {
+   "id": "nycf-jordan-klepper-town-hall-2026-11-14",
+   "title": "SH&T Show hosted by Jordan Klepper",
+   "venue": "The Town Hall",
+   "date": "2026-11-14",
+   "heat": 0,
+   "demand": null,
+   "availability": null,
+   "second_show": false,
+   "performer": null,
+   "wikipedia": null,
+   "reddit": null,
+   "reasons": []
+  },
+  {
+   "id": "nycf-dropout-improv-kings-2026-11-13",
+   "title": "Dropout Improv",
+   "venue": "Kings Theatre",
+   "date": "2026-11-13",
+   "heat": 0,
+   "demand": null,
+   "availability": null,
+   "second_show": false,
+   "performer": "Dropout Improv",
+   "wikipedia": null,
+   "reddit": null,
+   "reasons": []
+  },
+  {
+   "id": "nycf-gayme-show-bmcc-2026-11-06",
+   "title": "Gayme Show! starring Matt Rogers and Dave Mizzoni",
+   "venue": "BMCC Tribeca Performing Arts Center",
+   "date": "2026-11-06",
+   "heat": 0,
+   "demand": null,
+   "availability": null,
+   "second_show": false,
+   "performer": null,
+   "wikipedia": null,
+   "reddit": null,
+   "reasons": []
+  },
+  {
+   "id": "nycf-stand-up-for-heroes-geffen-2026-11-09",
+   "title": "Stand Up for Heroes (NYCF)",
+   "venue": "David Geffen Hall (Lincoln Center)",
+   "date": "2026-11-09",
+   "heat": 0,
+   "demand": null,
+   "availability": null,
+   "second_show": false,
+   "performer": null,
+   "wikipedia": null,
+   "reddit": null,
+   "reasons": []
+  },
+  {
+   "id": "nycf-ms-pat-hard-rock-2026-11-06",
+   "title": "Ms. Pat",
+   "venue": "Hard Rock Hotel New York - The Venue on Music Row",
+   "date": "2026-11-06",
+   "heat": 0,
+   "demand": null,
+   "availability": null,
+   "second_show": false,
+   "performer": null,
+   "wikipedia": null,
+   "reddit": null,
+   "reasons": []
+  },
+  {
+   "id": "nycf-rainbow-riot-bcc-2026-11-08",
+   "title": "Rainbow Riot",
+   "venue": "Brooklyn Comedy Collective",
+   "date": "2026-11-08",
+   "heat": 0,
+   "demand": null,
+   "availability": null,
+   "second_show": false,
+   "performer": "Rainbow Riot",
+   "wikipedia": null,
+   "reddit": null,
+   "reasons": []
+  },
+  {
+   "id": "nycf-eddie-pepitone-union-hall-2026-11-10",
+   "title": "Eddie Pepitone Headlining Union Hall (night one)",
+   "venue": "Union Hall",
+   "date": "2026-11-10",
+   "heat": 0,
+   "demand": null,
+   "availability": null,
+   "second_show": false,
+   "performer": null,
+   "wikipedia": null,
+   "reddit": null,
+   "reasons": []
+  },
+  {
+   "id": "nycf-josh-sharp-bell-house-2026-11-08",
+   "title": "Josh Sharp: An Hour of Crowd Work in the Round",
+   "venue": "The Bell House",
+   "date": "2026-11-08",
+   "heat": 0,
+   "demand": null,
+   "availability": null,
+   "second_show": false,
+   "performer": "Josh Sharp",
+   "wikipedia": {
+    "title": "Josh Sharp",
+    "views_30d": 1131,
+    "views_prior_30d": 1074,
+    "change": 5
+   },
+   "reddit": null,
+   "reasons": []
   }
  ]
 }
