@@ -311,3 +311,18 @@ Per editorial policy ("Anything borderline is not published; it goes to Nick wit
 - **Ben Bankas @ The Town Hall (Nov 12)** — 2022 confrontation with Hank Azaria at a comedy club led to accusations of ethnic stereotyping; public conduct is mixed. Link: https://nycomedyfestival.com/schedule/.
 
 Each gets a Telegram sentence from the cron job with the link and a one-line reason.
+
+## Daily edition — 2026-09-16
+- **Eventbrite leads**: 4 new picks added, each opened and read before adding; official artwork saved to `web/assets/posters/` and recorded in POSTER-SOURCES.json:
+  - `comedians-interview-experts-caveat-2026-09-20` — Asher Perlman interviews NYU's Weiji Ma on consciousness, $24.41.
+  - `facts-machine-caveat-2026-09-17` — three science-day comics pair trivia with a drinking-game round, $18.76.
+  - `spell-checc-littlefield-2026-09-20` — spelling bee vs try-not-to-laugh with SNL/Dropout/Netflix/AGT comics, $24.36.
+  - `james-tom-union-hall-2026-09-20` — James Tom works out new material on starting over in your 30s with Youngmi Mayer, $15.92.
+- **Just Laff Laff (Caveat, Sep 18)** held out — Eventbrite page confirms it's an "ASL Improv night" rather than stand-up; same rule that kept the BCC improv shows out.
+- **Hunger Games: Catching Fire Entirely From Memory (Littlefield, Sep 17)** held out — Ten Bones Theatre improv series, not stand-up.
+- **Sorry We're Here (Caveat, Sep 16)** held out — original sketch comedy, not stand-up.
+- **Major Fix (Caveat, Sep 17)** not added today; PowerPoint lecture series fits closer to variety than stand-up and the Eventbrite page does not list anyone pitching stand-up material.
+- **WSCC calendar**: opened westsidecomedyclub.com/calendar and saw Oct's full grid; per-show pages don't link out, so individual shows can't be sourced. The room's existing picks (next Elton, Jaime Ferraro, Laugh! It's for Charity, Robyn & "Friends") are already on the board from earlier sessions.
+
+## Improvement today
+Eventbrite cover artwork for new picks now sources through the `_next/image` proxy at eventbrite.com rather than the raw `img.evbuc.com` URL — the raw CDN signatures were returning `sig_invalid` for the four new images, while the proxy returned the same image data with valid headers. The `original_image_url` in POSTER-SOURCES.json still records the canonical cdn.evbuc.com source for provenance.

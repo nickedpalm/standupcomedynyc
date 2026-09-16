@@ -1,18 +1,34 @@
 {
- "generated_at": "2026-09-15T13:02:23.765Z",
- "performers_considered": 12,
+ "generated_at": "2026-09-16T11:07:44.923Z",
+ "performers_considered": 39,
  "shortlist": [
   {
-   "name": "Richard Perez",
+   "name": "Sophie Buddle",
    "priority": 135
   },
   {
    "name": "Taylor Tomlinson",
-   "priority": 120
+   "priority": 135
+  },
+  {
+   "name": "Chelsea Handler",
+   "priority": 59
   },
   {
    "name": "Jamie Wolf",
    "priority": 55
+  },
+  {
+   "name": "Beth Stelling",
+   "priority": 45
+  },
+  {
+   "name": "Brad Williams",
+   "priority": 40
+  },
+  {
+   "name": "Marc Maron",
+   "priority": 40
   },
   {
    "name": "Jenny Tian",
@@ -23,27 +39,46 @@
    "priority": 35
   },
   {
-   "name": "Sophie Buddle",
-   "priority": 35
-  },
-  {
-   "name": "Beth Stelling",
-   "priority": 30
-  },
-  {
    "name": "Sam Taggart",
-   "priority": 20
-  },
-  {
-   "name": "Josh Sharp",
-   "priority": 20
-  },
-  {
-   "name": "David Nihill",
-   "priority": 20
+   "priority": 35
   }
  ],
  "run": [
+  {
+   "name": "Chelsea Handler",
+   "priority": 59,
+   "next": {
+    "id": "chelsea-handler-beacon-2026-09-25",
+    "date": "2026-09-25",
+    "venue": "Beacon Theatre",
+    "days": 9,
+    "featured": false,
+    "poster": false,
+    "demand": null
+   },
+   "cheap_signals": [
+    "Wikipedia: 1626 views a day",
+    "Reddit: 1 post in 30 days, 966 upvotes (top: r/Standup)"
+   ],
+   "reason": "in the decision window and not yet decided"
+  },
+  {
+   "name": "Brad Williams",
+   "priority": 40,
+   "next": {
+    "id": "brad-williams-tall-tales-tour-town-hall-2026-09-19",
+    "date": "2026-09-19",
+    "venue": "The Town Hall",
+    "days": 3,
+    "featured": false,
+    "poster": false,
+    "demand": null
+   },
+   "cheap_signals": [
+    "Wikipedia: 437 views a day"
+   ],
+   "reason": "show within 3 days and not yet decided"
+  },
   {
    "name": "Jenny Tian",
    "priority": 35,
@@ -51,7 +86,7 @@
     "id": "jenny-tian-2026-09-17",
     "date": "2026-09-17",
     "venue": "The Bell House",
-    "days": 2,
+    "days": 1,
     "featured": false,
     "poster": true,
     "demand": null
@@ -66,22 +101,7 @@
     "id": "leonard-ouzts-comedy-in-harlem-2026-09-18",
     "date": "2026-09-18",
     "venue": "Comedy In Harlem",
-    "days": 3,
-    "featured": false,
-    "poster": true,
-    "demand": null
-   },
-   "cheap_signals": [],
-   "reason": "show within 3 days and not yet decided"
-  },
-  {
-   "name": "Sophie Buddle",
-   "priority": 35,
-   "next": {
-    "id": "sophie-buddle-2026-09-18",
-    "date": "2026-09-18",
-    "venue": "Union Hall",
-    "days": 3,
+    "days": 2,
     "featured": false,
     "poster": true,
     "demand": null
@@ -91,48 +111,18 @@
   },
   {
    "name": "Sam Taggart",
-   "priority": 20,
+   "priority": 35,
    "next": {
     "id": "sam-taggart-2026-09-19",
     "date": "2026-09-19",
     "venue": "The Bell House",
-    "days": 4,
+    "days": 3,
     "featured": false,
     "poster": true,
     "demand": null
    },
    "cheap_signals": [],
-   "reason": "in the decision window and not yet decided"
-  },
-  {
-   "name": "Josh Sharp",
-   "priority": 20,
-   "next": {
-    "id": "josh-sharp-2026-09-20",
-    "date": "2026-09-20",
-    "venue": "The Bell House",
-    "days": 5,
-    "featured": false,
-    "poster": true,
-    "demand": null
-   },
-   "cheap_signals": [],
-   "reason": "in the decision window and not yet decided"
-  },
-  {
-   "name": "David Nihill",
-   "priority": 20,
-   "next": {
-    "id": "david-nihill-2026-09-23",
-    "date": "2026-09-23",
-    "venue": "The Bell House",
-    "days": 8,
-    "featured": false,
-    "poster": true,
-    "demand": null
-   },
-   "cheap_signals": [],
-   "reason": "in the decision window and not yet decided"
+   "reason": "show within 3 days and not yet decided"
   }
  ],
  "reuse": [
@@ -141,17 +131,17 @@
    "priority": 55,
    "cached": {
     "at": "2026-09-15T13:02:23.737Z",
-    "age_days": 0,
+    "age_days": 0.9,
     "fresh": true,
     "note": "First Dates clip topped r/StandUpComedy on Sep 6 with 757 upvotes; Union Hall Sep 16 at 10pm."
    }
   },
   {
    "name": "Beth Stelling",
-   "priority": 30,
+   "priority": 45,
    "cached": {
     "at": "2026-09-15T13:02:23.710Z",
-    "age_days": 0,
+    "age_days": 0.9,
     "fresh": true,
     "note": "Seven r/StandUpComedy threads in 30 days (1,782 upvotes); the Boyfriends Kids clip is still climbing. Bell House Sep 26."
    }
@@ -159,14 +149,49 @@
  ],
  "skip": [
   {
-   "name": "Richard Perez",
+   "name": "Sophie Buddle",
    "priority": 135,
    "reason": "already sold out; research cannot change the call"
   },
   {
    "name": "Taylor Tomlinson",
-   "priority": 120,
+   "priority": 135,
    "reason": "already sold out; research cannot change the call"
+  },
+  {
+   "name": "Marc Maron",
+   "priority": 40,
+   "reason": "next show in 53 days, outside the 10-day window"
+  },
+  {
+   "name": "Kanan Gill",
+   "priority": 35,
+   "reason": "outside the top 10 by cheap ranking"
+  },
+  {
+   "name": "Asif Ali",
+   "priority": 30,
+   "reason": "outside the top 10 by cheap ranking"
+  },
+  {
+   "name": "Maria Bamford",
+   "priority": 26,
+   "reason": "outside the top 10 by cheap ranking"
+  },
+  {
+   "name": "Michelle Buteau",
+   "priority": 25,
+   "reason": "outside the top 10 by cheap ranking"
+  },
+  {
+   "name": "Josh Sharp",
+   "priority": 20,
+   "reason": "outside the top 10 by cheap ranking"
+  },
+  {
+   "name": "David Nihill",
+   "priority": 20,
+   "reason": "outside the top 10 by cheap ranking"
   },
   {
    "name": "Vidura Bandara Rajapaksa",
@@ -174,19 +199,121 @@
    "reason": "outside the top 10 by cheap ranking"
   },
   {
+   "name": "Ilana Glazer",
+   "priority": 20,
+   "reason": "outside the top 10 by cheap ranking"
+  },
+  {
+   "name": "Joanne McNally",
+   "priority": 20,
+   "reason": "outside the top 10 by cheap ranking"
+  },
+  {
+   "name": "Adam Ray",
+   "priority": 19,
+   "reason": "outside the top 10 by cheap ranking"
+  },
+  {
+   "name": "Johnny Pemberton",
+   "priority": 15,
+   "reason": "outside the top 10 by cheap ranking"
+  },
+  {
+   "name": "Daniel Sloss",
+   "priority": 15,
+   "reason": "outside the top 10 by cheap ranking"
+  },
+  {
+   "name": "Kathy Griffin",
+   "priority": 10,
+   "reason": "outside the top 10 by cheap ranking"
+  },
+  {
+   "name": "Jess Hilarious",
+   "priority": 10,
+   "reason": "outside the top 10 by cheap ranking"
+  },
+  {
    "name": "Kevin Sullivan",
    "priority": 5,
    "reason": "outside the top 10 by cheap ranking"
+  },
+  {
+   "name": "Brendan Scannell",
+   "priority": 5,
+   "reason": "outside the top 10 by cheap ranking"
+  },
+  {
+   "name": "Nate Varrone",
+   "priority": 5,
+   "reason": "outside the top 10 by cheap ranking"
+  },
+  {
+   "name": "Phoebe Robinson",
+   "priority": 5,
+   "reason": "outside the top 10 by cheap ranking"
+  },
+  {
+   "name": "Hot Butter Train",
+   "priority": 5,
+   "reason": "outside the top 10 by cheap ranking"
+  },
+  {
+   "name": "Molly Kearney",
+   "priority": 5,
+   "reason": "outside the top 10 by cheap ranking"
+  },
+  {
+   "name": "Sydnee Washington",
+   "priority": 5,
+   "reason": "outside the top 10 by cheap ranking"
+  },
+  {
+   "name": "Jordan Jensen",
+   "priority": 5,
+   "reason": "outside the top 10 by cheap ranking"
+  },
+  {
+   "name": "Dancehall Forever",
+   "priority": 5,
+   "reason": "outside the top 10 by cheap ranking"
+  },
+  {
+   "name": "Lisa Wallen Headlines",
+   "priority": 0,
+   "reason": "outside the top 10 by cheap ranking"
+  },
+  {
+   "name": "Headlining Alex Giampapa",
+   "priority": 0,
+   "reason": "outside the top 10 by cheap ranking"
+  },
+  {
+   "name": "Difficult People",
+   "priority": 0,
+   "reason": "outside the top 10 by cheap ranking"
+  },
+  {
+   "name": "Mojo Brookzz",
+   "priority": 0,
+   "reason": "outside the top 10 by cheap ranking"
+  },
+  {
+   "name": "Dropout Improv",
+   "priority": 0,
+   "reason": "outside the top 10 by cheap ranking"
+  },
+  {
+   "name": "Rainbow Riot",
+   "priority": 0,
+   "reason": "outside the top 10 by cheap ranking"
   }
  ],
- "estimated_tokens_saved": 54000,
- "estimate_basis": "9000 tokens per last30days run, 6 runs avoided out of 12",
+ "estimated_tokens_saved": 306000,
+ "estimate_basis": "9000 tokens per last30days run, 34 runs avoided out of 39",
  "no_recent_data": [
   "Jenny Tian",
   "Leonard Ouzts",
-  "Sophie Buddle",
-  "Sam Taggart",
-  "Josh Sharp",
-  "David Nihill"
+  "Sam Taggart"
  ]
 }

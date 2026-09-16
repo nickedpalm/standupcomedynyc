@@ -1,5 +1,5 @@
 {
- "retrieved_at": "2026-09-15T13:25:14.000Z",
+ "retrieved_at": "2026-09-16T11:01:31.639Z",
  "note": "Leads from Eventbrite organizer pages of registered rooms. Open the event page before adding a pick; artwork needs a POSTER-SOURCES record.",
  "organizers": [
   {
@@ -37,101 +37,6 @@
  ],
  "events": [
   {
-   "venue": "Caveat",
-   "neighborhood": "Lower East Side",
-   "organizer": "https://www.eventbrite.com/o/caveat-13580085802",
-   "title": "The Jewish Dating Game!",
-   "date": "2026-09-15",
-   "time": "7pm",
-   "starts_at": "2026-09-15T19:00:00-04:00",
-   "ends_at": "2026-09-15T20:30:00-04:00",
-   "location_name": "Caveat",
-   "location_address": "21 A Clinton Street, New York, NY 10002, New York",
-   "price_from": 24.41,
-   "url": "https://www.eventbrite.com/e/the-jewish-dating-game-tickets-1998065018256",
-   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1191130216%2F207096185123%2F1%2Foriginal.20260815-075734?w=940&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C1200%2C600&s=ec790847f8a936796f2312c6374293cf",
-   "description": "Got Chutzpah? Blind date live for the chance to win dinner dates all over the city, or just come watch people fall in love!",
-   "venue_name_matches": true,
-   "already_a_pick": false,
-   "seen_before": true
-  },
-  {
-   "venue": "Union Hall",
-   "neighborhood": "Park Slope",
-   "organizer": "https://www.eventbrite.com/o/union-hall-17899496497",
-   "title": "LAUGH",
-   "date": "2026-09-15",
-   "time": "7:30pm",
-   "starts_at": "2026-09-15T19:30:00-04:00",
-   "ends_at": "2026-09-15T21:00:00-04:00",
-   "location_name": "Union Hall",
-   "location_address": "702 Union St., Brooklyn, NY 11215, Brooklyn",
-   "price_from": 15.92,
-   "url": "https://www.eventbrite.com/e/laugh-tickets-1996257168930",
-   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1190064347%2F282041210522%2F1%2Foriginal.20260731-204533?crop=focalpoint&fit=crop&w=940&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=e4280f07b00eb1568a9d20692cf502f7",
-   "description": "LAUGH - Tuesday, September 15 - 7:00pm Doors / 7:30pm Show",
-   "venue_name_matches": true,
-   "already_a_pick": true,
-   "seen_before": true
-  },
-  {
-   "venue": "Comic Strip Live",
-   "neighborhood": "Upper East Side",
-   "organizer": "https://www.eventbrite.com/o/comic-strip-live-comedy-club-8100188167",
-   "title": "Jim Mendrinos, Jack Barth, Mia Jackson, Nick Tilleli, Feraz Shere!",
-   "date": "2026-09-15",
-   "time": "8pm",
-   "starts_at": "2026-09-15T20:00:00-04:00",
-   "ends_at": "2026-09-15",
-   "location_name": "Comic Strip Live",
-   "location_address": "1568 2nd Ave, New York, NY 10028, New York",
-   "price_from": 25.71,
-   "url": "https://www.eventbrite.com/e/jim-mendrinos-jack-barth-mia-jackson-nick-tilleli-feraz-shere-tickets-1998675505239",
-   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1191706576%2F136153380524%2F1%2Foriginal.20260823-182118?crop=focalpoint&fit=crop&w=940&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.506&fp-y=0.261&s=270389e93e6a7f8c26f5b686c7929dd5",
-   "description": "Be part of history, celebrating 50 years of Comedy at the World Comic Strip! Comedians from, HBO, The Tonight Show, SNL & More ~",
-   "venue_name_matches": true,
-   "already_a_pick": false,
-   "seen_before": false
-  },
-  {
-   "venue": "Caveat",
-   "neighborhood": "Lower East Side",
-   "organizer": "https://www.eventbrite.com/o/caveat-13580085802",
-   "title": "Story-oke: Sing and Tell",
-   "date": "2026-09-15",
-   "time": "9:30pm",
-   "starts_at": "2026-09-15T21:30:00-04:00",
-   "ends_at": "2026-09-15T23:00:00-04:00",
-   "location_name": "Caveat",
-   "location_address": "21 A Clinton Street, New York, NY 10002, New York",
-   "price_from": 18.76,
-   "url": "https://www.eventbrite.com/e/story-oke-sing-and-tell-tickets-1998065242928",
-   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1193334695%2F207096185123%2F1%2Foriginal.20260912-153031?w=940&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C1920%2C960&s=8d83093a1be43b218ecb435dfbe85950",
-   "description": "Part karaoke, part confessional. Share a story about a song… then sing the hell out of it.",
-   "venue_name_matches": true,
-   "already_a_pick": false,
-   "seen_before": true
-  },
-  {
-   "venue": "Union Hall",
-   "neighborhood": "Park Slope",
-   "organizer": "https://www.eventbrite.com/o/union-hall-17899496497",
-   "title": "Richard Perez: For One Night Okay",
-   "date": "2026-09-15",
-   "time": "10pm",
-   "starts_at": "2026-09-15T22:00:00-04:00",
-   "ends_at": "2026-09-15T23:30:00-04:00",
-   "location_name": "Union Hall",
-   "location_address": "702 Union St., Brooklyn, NY 11215, Brooklyn",
-   "price_from": 19.26,
-   "url": "https://www.eventbrite.com/e/richard-perez-for-one-night-okay-tickets-1999224599595",
-   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F718609499%2F282041210522%2F1%2Foriginal.20240313-155725?w=940&auto=format%2Ccompress&q=75&sharp=10&s=8b10d9cbc1686d946e5b4cc3d93269bd",
-   "description": "Richard Perez: For One Night Okay - Tuesday, September 15 - 9:30pm Doors / 10:00pm Show",
-   "venue_name_matches": true,
-   "already_a_pick": true,
-   "seen_before": true
-  },
-  {
    "venue": "Union Hall",
    "neighborhood": "Park Slope",
    "organizer": "https://www.eventbrite.com/o/union-hall-17899496497",
@@ -167,7 +72,7 @@
    "description": "Be part of history, celebrating 50 years of Comedy at the World Comic Strip! Comedians from, HBO, The Tonight Show, SNL & More ~",
    "venue_name_matches": true,
    "already_a_pick": false,
-   "seen_before": false
+   "seen_before": true
   },
   {
    "venue": "Caveat",
@@ -224,7 +129,7 @@
    "description": "NYC’s Best Comics Take Over Kellogg’s Diner — Every Wednesday Night at 11PM!",
    "venue_name_matches": false,
    "already_a_pick": false,
-   "seen_before": false
+   "seen_before": true
   },
   {
    "venue": "Caveat",
@@ -300,7 +205,7 @@
    "description": "Be part of history, celebrating 50 years of Comedy at the World Comic Strip! Comedians from, HBO, The Tonight Show, SNL & More ~",
    "venue_name_matches": true,
    "already_a_pick": false,
-   "seen_before": false
+   "seen_before": true
   },
   {
    "venue": "Caveat",
@@ -319,25 +224,6 @@
    "description": "A PowerPoint lecture series where NYC’s brightest creative minds share a presentation on a personal obsession, followed by an audience Q&A.",
    "venue_name_matches": true,
    "already_a_pick": false,
-   "seen_before": true
-  },
-  {
-   "venue": "Union Hall",
-   "neighborhood": "Park Slope",
-   "organizer": "https://www.eventbrite.com/o/union-hall-17899496497",
-   "title": "Sophie Buddle",
-   "date": "2026-09-17",
-   "time": "10pm",
-   "starts_at": "2026-09-17T22:00:00-04:00",
-   "ends_at": "2026-09-17T23:30:00-04:00",
-   "location_name": "Union Hall",
-   "location_address": "702 Union St., Brooklyn, NY 11215, Brooklyn",
-   "price_from": 25.69,
-   "url": "https://www.eventbrite.com/e/sophie-buddle-tickets-2000526416364",
-   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1193213563%2F282041210522%2F1%2Foriginal.20260910-224958?crop=focalpoint&fit=crop&w=940&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=91251df9370610dca1fb827d7fc015b6",
-   "description": "Sophie Buddle - Thursday, September 17 - 9:30pm Doors / 10:00pm Show",
-   "venue_name_matches": true,
-   "already_a_pick": true,
    "seen_before": true
   },
   {
@@ -414,7 +300,7 @@
    "description": "Be part of history, celebrating 50 years of Comedy at the World Comic Strip! Comedians from, HBO, The Tonight Show, SNL & More ~",
    "venue_name_matches": true,
    "already_a_pick": false,
-   "seen_before": false
+   "seen_before": true
   },
   {
    "venue": "Caveat",
@@ -547,7 +433,7 @@
    "description": "Be part of history, celebrating 50 years of Comedy at the World Comic Strip! Comedians from, HBO, The Tonight Show, SNL & More ~",
    "venue_name_matches": true,
    "already_a_pick": false,
-   "seen_before": false
+   "seen_before": true
   },
   {
    "venue": "Caveat",
@@ -569,6 +455,25 @@
    "seen_before": true
   },
   {
+   "venue": "Union Hall",
+   "neighborhood": "Park Slope",
+   "organizer": "https://www.eventbrite.com/o/union-hall-17899496497",
+   "title": "Sophie Buddle",
+   "date": "2026-09-19",
+   "time": "10pm",
+   "starts_at": "2026-09-19T22:00:00-04:00",
+   "ends_at": "2026-09-19T23:30:00-04:00",
+   "location_name": "Union Hall",
+   "location_address": "702 Union St., Brooklyn, NY 11215, Brooklyn",
+   "price_from": 25.69,
+   "url": "https://www.eventbrite.com/e/sophie-buddle-tickets-2000526829600",
+   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1193213563%2F282041210522%2F1%2Foriginal.20260910-224958?crop=focalpoint&fit=crop&w=940&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=91251df9370610dca1fb827d7fc015b6",
+   "description": "Sophie Buddle - Saturday, September 19 - 9:30pm Doors / 10:00pm Show",
+   "venue_name_matches": true,
+   "already_a_pick": false,
+   "seen_before": false
+  },
+  {
    "venue": "Comic Strip Live",
    "neighborhood": "Upper East Side",
    "organizer": "https://www.eventbrite.com/o/comic-strip-live-comedy-club-8100188167",
@@ -585,7 +490,7 @@
    "description": "Be part of history, celebrating 50 years of Comedy at the World Comic Strip! Comedians from, HBO, The Tonight Show, SNL & More ~",
    "venue_name_matches": true,
    "already_a_pick": false,
-   "seen_before": false
+   "seen_before": true
   },
   {
    "venue": "Caveat",
@@ -605,6 +510,25 @@
    "venue_name_matches": true,
    "already_a_pick": true,
    "seen_before": true
+  },
+  {
+   "venue": "Union Hall",
+   "neighborhood": "Park Slope",
+   "organizer": "https://www.eventbrite.com/o/union-hall-17899496497",
+   "title": "James Tom Does A New Show, Casual Style",
+   "date": "2026-09-20",
+   "time": "5pm",
+   "starts_at": "2026-09-20T17:00:00-04:00",
+   "ends_at": "2026-09-20T18:30:00-04:00",
+   "location_name": "Union Hall",
+   "location_address": "702 Union St., Brooklyn, NY 11215, Brooklyn",
+   "price_from": 15.92,
+   "url": "https://www.eventbrite.com/e/james-tom-does-a-new-show-casual-style-tickets-1998670718923",
+   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1191695096%2F282041210522%2F1%2Foriginal.20260823-132120?crop=focalpoint&fit=crop&w=940&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=c906f4657c2810e34bde7e3e0f6f6f02",
+   "description": "James Tom Does A New Show, Casual Style - Sunday, September 20 - 4:30pm Doors / 5:00pm Show",
+   "venue_name_matches": true,
+   "already_a_pick": false,
+   "seen_before": false
   },
   {
    "venue": "Caveat",
@@ -661,7 +585,7 @@
    "description": "Be part of history, celebrating 50 years of Comedy at the World Comic Strip! Comedians from, HBO, The Tonight Show, SNL & More ~",
    "venue_name_matches": true,
    "already_a_pick": false,
-   "seen_before": false
+   "seen_before": true
   },
   {
    "venue": "Caveat",
@@ -718,6 +642,44 @@
    "description": "Be part of history, celebrating 50 years of Comedy at the World Comic Strip! Comedians from, HBO, The Tonight Show, SNL & More ~",
    "venue_name_matches": true,
    "already_a_pick": false,
+   "seen_before": true
+  },
+  {
+   "venue": "Caveat",
+   "neighborhood": "Lower East Side",
+   "organizer": "https://www.eventbrite.com/o/caveat-13580085802",
+   "title": "Marcel Lucont's Whine List",
+   "date": "2026-09-21",
+   "time": "9:30pm",
+   "starts_at": "2026-09-21T21:30:00-04:00",
+   "ends_at": "2026-09-21T22:50:00-04:00",
+   "location_name": "Caveat",
+   "location_address": "21 A Clinton Street, New York, NY 10002, New York",
+   "price_from": 31.21,
+   "url": "https://www.eventbrite.com/e/marcel-luconts-whine-list-tickets-1997063611020",
+   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1190498415%2F207096185123%2F1%2Foriginal.20260806-211150?w=940&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C3000%2C1500&s=236598b18427cfbdf02390e15cc6a8d0",
+   "description": "The multi-award-deserving deadpan Frenchman brings his acclaimed interactive show to NYC for one night only.",
+   "venue_name_matches": true,
+   "already_a_pick": true,
+   "seen_before": false
+  },
+  {
+   "venue": "Caveat",
+   "neighborhood": "Lower East Side",
+   "organizer": "https://www.eventbrite.com/o/caveat-13580085802",
+   "title": "The Bisque: Comedy for Charity.",
+   "date": "2026-09-22",
+   "time": "7pm",
+   "starts_at": "2026-09-22T19:00:00-04:00",
+   "ends_at": "2026-09-22T20:15:00-04:00",
+   "location_name": "Caveat",
+   "location_address": "21 A Clinton Street, New York, NY 10002, New York",
+   "price_from": 15.67,
+   "url": "https://www.eventbrite.com/e/the-bisque-comedy-for-charity-tickets-1991777231316",
+   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1186760940%2F207096185123%2F1%2Foriginal.20260612-135845?w=940&auto=format%2Ccompress&q=75&sharp=10&s=88625b40edda231d11dd79519964e5b7",
+   "description": "A three-course meal of some of the best improv and stand up in NYC - raising money for abortion access!",
+   "venue_name_matches": true,
+   "already_a_pick": true,
    "seen_before": false
   },
   {
@@ -756,7 +718,7 @@
    "description": "Be part of history, celebrating 50 years of Comedy at the World Comic Strip! Comedians from, HBO, The Tonight Show, SNL & More ~",
    "venue_name_matches": true,
    "already_a_pick": false,
-   "seen_before": false
+   "seen_before": true
   },
   {
    "venue": "Littlefield",
@@ -794,7 +756,7 @@
    "description": "Be part of history, celebrating 50 years of Comedy at the World Comic Strip! Comedians from, HBO, The Tonight Show, SNL & More ~",
    "venue_name_matches": true,
    "already_a_pick": false,
-   "seen_before": false
+   "seen_before": true
   },
   {
    "venue": "Comic Strip Live",
@@ -813,7 +775,7 @@
    "description": "Be part of history, celebrating 50 years of Comedy at the World Comic Strip! Comedians from, HBO, The Tonight Show, SNL & More ~",
    "venue_name_matches": true,
    "already_a_pick": false,
-   "seen_before": false
+   "seen_before": true
   },
   {
    "venue": "Littlefield",
@@ -851,6 +813,25 @@
    "description": "Be part of history, celebrating 50 years of Comedy at the World Comic Strip! Comedians from, HBO, The Tonight Show, SNL & More ~",
    "venue_name_matches": true,
    "already_a_pick": false,
+   "seen_before": true
+  },
+  {
+   "venue": "Comic Strip Live",
+   "neighborhood": "Upper East Side",
+   "organizer": "https://www.eventbrite.com/o/comic-strip-live-comedy-club-8100188167",
+   "title": "TONIO SKITS HOSTS THE FALL STAND UP late night SHOW Date friday September 2",
+   "date": "2026-09-25",
+   "time": "10:30pm",
+   "starts_at": "2026-09-25T22:30:00-04:00",
+   "ends_at": "2026-09-30",
+   "location_name": "Comic Strip Live",
+   "location_address": "1568 2nd Ave, New York, NY 10028, New York",
+   "price_from": 25.71,
+   "url": "https://www.eventbrite.com/e/tonio-skits-hosts-the-fall-stand-up-late-night-show-date-friday-september-2-tickets-1998600742622",
+   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1192245127%2F136153380524%2F1%2Foriginal.20260831-002814?crop=focalpoint&fit=crop&w=940&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=0f708bd7e5d1cf9da0f37753bbe96489",
+   "description": "Be part of history, celebrating 50 years of Comedy at the World Comic Strip! Comedians from, HBO, The Tonight Show, SNL & More ~",
+   "venue_name_matches": true,
+   "already_a_pick": false,
    "seen_before": false
   },
   {
@@ -871,6 +852,25 @@
    "venue_name_matches": true,
    "already_a_pick": true,
    "seen_before": true
+  },
+  {
+   "venue": "Littlefield",
+   "neighborhood": "Gowanus",
+   "organizer": "https://www.eventbrite.com/o/littlefield-18046024060",
+   "title": "Dancehall Forever",
+   "date": "2026-09-26",
+   "time": "11pm",
+   "starts_at": "2026-09-26T23:00:00-04:00",
+   "ends_at": "2026-09-27",
+   "location_name": "littlefield",
+   "location_address": "635 Sackett Street, Brooklyn, NY 11217, Brooklyn",
+   "price_from": 0,
+   "url": "https://www.eventbrite.com/e/dancehall-forever-tickets-1999810633438",
+   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1192721642%2F404652903161%2F1%2Foriginal.20260904-212412?crop=focalpoint&fit=crop&w=940&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=5cd9062bdeab3ea3aaebb9f9b0fa0179",
+   "description": "This is a party for Dancehall lovers, bringing together the energy, music and dances behind the movement. 90% Dancehall 10% everything else.",
+   "venue_name_matches": true,
+   "already_a_pick": false,
+   "seen_before": false
   }
  ],
  "errors": []
