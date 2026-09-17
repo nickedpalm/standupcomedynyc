@@ -173,7 +173,7 @@
  },
  {
   "event_id": "invisible-architecture-2026-09-16-1930",
-  "src": "/assets/posters/invisible-architecture-2026-09-16-1930.jpg",
+  "src": "/assets/posters/archive/invisible-architecture-2026-09-16-1930.jpg",
   "width": 940,
   "height": 470,
   "source_url": "https://www.eventbrite.com/e/invisible-architecture-an-evening-of-comedy-with-charlie-flynn-tickets-1998670466167",
@@ -184,11 +184,12 @@
   "retrieved_at": "2026-09-14",
   "bytes": 66138,
   "sha256": "8032304242b94f556f6f57ee45ccfb850184c9f3fffe88bf97acf98c035ae3d4",
-  "reuse_status": "Official promotional artwork from the show's Eventbrite page; no separate reuse license identified. Site display with credit only."
+  "reuse_status": "Official promotional artwork from the show's Eventbrite page; no separate reuse license identified. Site display with credit only.",
+  "archived": true
  },
  {
   "event_id": "jamie-wolf-2026-09-16-2200",
-  "src": "/assets/posters/jamie-wolf-2026-09-16-2200.jpg",
+  "src": "/assets/posters/archive/jamie-wolf-2026-09-16-2200.jpg",
   "width": 940,
   "height": 470,
   "source_url": "https://www.eventbrite.com/e/jamie-wolf-psycho-tickets-1999521890801",
@@ -199,7 +200,8 @@
   "retrieved_at": "2026-09-14",
   "bytes": 58474,
   "sha256": "d235586eff80198c9942b4afc0d496eb722c26c192287d4f977fa96638fe4bf5",
-  "reuse_status": "Official promotional artwork from the show's Eventbrite page; no separate reuse license identified. Site display with credit only."
+  "reuse_status": "Official promotional artwork from the show's Eventbrite page; no separate reuse license identified. Site display with credit only.",
+  "archived": true
  },
  {
   "event_id": "sophie-buddle-2026-09-18",
