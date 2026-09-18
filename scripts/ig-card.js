@@ -1,6 +1,7 @@
 #!/usr/bin/env node
 // Render Instagram cards (1080x1350 JPEG) for picks, in the site's bulletin-board style.
 //   node scripts/ig-card.js --tonight [--date=YYYY-MM-DD]   cover card + one card per pick that day
+//   --no-mix  with --tonight, skip the per-venue cap and house interleaving (raw start-time order)
 //   node scripts/ig-card.js --weekend [--date=YYYY-MM-DD]   cover card + one card per pick Fri-Sun
 //   node scripts/ig-card.js --pick <id> [--pick <id> ...]  cards for specific picks
 //   --out=DIR (default web/assets/ig)  --json (print a manifest instead of prose)
@@ -56,6 +57,9 @@ const posters = JSON.parse(fs.readFileSync(path.join(root, 'POSTER-SOURCES.json'
 const reusable = new Set(posters.filter((p) => p.reuse === 'granted').map((p) => p.src));
 const venuesByName = new Map(JSON.parse(fs.readFileSync(path.join(web, 'data', 'venues.json'), 'utf8')).map((v) => [v.name, v]));
 const hoodOf = (p) => venuesByName.get(p.venue)?.neighborhood || p.neighborhood || '';
+const { soldOut, selectTonight } = require('./tonight-set.js');
+// Full-bleed image for a pick: its own poster, or (when there's no artwork) a credited photo of the venue itself.
+const heroImage = (p) => (p.poster && p.poster.src) ? p.poster : (venuesByName.get(p.venue)?.photo || null);
 
 function weekendDays(day) {
   const d = new Date(day + 'T12:00:00Z'); const wd = d.getUTCDay();
@@ -128,39 +132,41 @@ function pickCard(p) {
 
 const clock = (p) => { const t = p.time_label.split(' · ')[0]; return t.includes(':') ? t.replace(/\s*(am|pm)$/i, '') : t; };
 const splitTitle = (t) => { const m = t.match(/^([A-Z][\w.'\-]+(?:\s[A-Z][\w.'\-]+){0,3}):\s+(.{4,})$/); return m ? { who: m[1], what: m[2] } : { who: '', what: t }; };
-// Sold-out shows stay on the site board but are not a pick anyone can act on tonight, so they leave the Tonight set.
-const soldOut = (p) => p.demand === 'sold_out' && !p.walkup_note;
 const hlSize = (t) => t.length > 48 ? 66 : t.length > 32 ? 76 : t.length > 20 ? 92 : 108;
 function photoCard(p) {
-  const src = path.join(web, p.poster.src.replace(/^\//, ''));
-  const bg = dataUrl(src, 'image/' + p.poster.src.split('.').pop().replace('jpg', 'jpeg'));
+  const img = heroImage(p);
+  const src = path.join(web, img.src.replace(/^\//, ''));
+  const bg = dataUrl(src, 'image/' + img.src.split('.').pop().replace('jpg', 'jpeg'));
   const tag = p.demand === 'sold_out' ? '<div class="tag2">Sold out</div>' : p.demand === 'going_fast' ? '<div class="tag2 gold">Going fast</div>' : p.sponsored ? '<div class="tag2 gold">Paid listing</div>' : '';
   const when = (p.date === nyDate() ? 'Tonight' : shortDate(p.date)) + ' · ' + clock(p);
   const t = splitTitle(p.title);
   return `${base}<div class="photo" style="background-image:url(${bg})"></div><div class="pw"><div class="lock">Stand Up <span>Comedy NYC</span></div>${tag}
 <div class="hl" style="--hs:${hlSize(t.what)}px"><i class="gold">${esc(when)}</i><br><i>${esc(t.what)}</i></div>
 <p class="dek">${t.who && !dek(p).includes(t.who) ? esc(t.who) + ' · ' : ''}${esc(dek(p))}</p>
-<div class="pill">Tickets · link in bio</div><div class="credit2">${esc(p.poster.credit || '')}</div></div>`;
+<div class="pill">Tickets · link in bio</div><div class="credit2">${esc(img.credit || '')}</div></div>`;
 }
 function photoCover(label, day, list) {
-  const area = (p) => Number(p.poster.width) * Number(p.poster.height);
-  const rank = (p) => (p.cover_art ? 16 : 0) + (p.sponsored ? 8 : 0) + (p.featured ? 4 : 0) + (p.demand === 'sold_out' ? 2 : p.demand === 'going_fast' ? 3 : 0) + (p.big_stage ? 1 : 0);
-  const hero = [...list].filter((p) => p.poster).sort((a, b) => rank(b) - rank(a) || area(b) - area(a))[0];
+  const area = (img) => Number(img.width || 0) * Number(img.height || 0);
+  // A real show poster always outranks a venue-photo fallback, regardless of the other scoring.
+  const rank = (p) => (p.poster ? 100 : 0) + (p.cover_art ? 16 : 0) + (p.sponsored ? 8 : 0) + (p.featured ? 4 : 0) + (p.demand === 'sold_out' ? 2 : p.demand === 'going_fast' ? 3 : 0) + (p.big_stage ? 1 : 0);
+  const hero = [...list].filter((p) => heroImage(p)).sort((a, b) => rank(b) - rank(a) || area(heroImage(b)) - area(heroImage(a)))[0];
   if (!hero) return coverCard(label, day, list);
-  const bg = dataUrl(path.join(web, hero.poster.src.replace(/^\//, '')), 'image/' + hero.poster.src.split('.').pop().replace('jpg', 'jpeg'));
+  const img = heroImage(hero);
+  const bg = dataUrl(path.join(web, img.src.replace(/^\//, '')), 'image/' + img.src.split('.').pop().replace('jpg', 'jpeg'));
   const n = list.length;
   const weekday = new Intl.DateTimeFormat('en-US', { timeZone: 'America/New_York', weekday: 'long' }).format(new Date(day + 'T12:00:00-04:00'));
   const head = label === 'Tonight' ? `${n} show${n === 1 ? '' : 's'} worth your ${weekday}` : `${n} show${n === 1 ? '' : 's'} worth the train this weekend`;
   const stack = list.slice(0, 5).map((p) => `<div>${esc(splitTitle(p.title).who || p.title.split(':')[0])}<span>${esc(clock(p))}${p.demand === 'sold_out' ? ' · sold out' : ''}</span></div>`).join('') + (n > 5 ? `<div>+${n - 5} more</div>` : '');
   return `${base}<div class="photo" style="background-image:url(${bg})"></div><div class="pw"><div class="lock">Stand Up <span>Comedy NYC</span></div>
 <div class="hl" style="--hs:${hlSize(head)}px"><i class="gold">${esc(shortDate(day))}</i><br><i>${esc(head)}</i></div>
-<div class="stack">${stack}</div><div class="pill">Swipe for the picks</div><div class="credit2">${esc(hero.poster.credit || '')}</div></div>`;
+<div class="stack">${stack}</div><div class="pill">Swipe for the picks</div><div class="credit2">${esc(img.credit || '')}</div></div>`;
 }
 function storyCard(day, list) {
-  const area = (p) => Number(p.poster.width) * Number(p.poster.height);
-  const rank = (p) => (p.cover_art ? 16 : 0) + (p.sponsored ? 8 : 0) + (p.featured ? 4 : 0) + (p.demand === 'going_fast' ? 3 : 0) + (p.big_stage ? 1 : 0);
-  const hero = [...list].filter((p) => p.poster).sort((a, b) => rank(b) - rank(a) || area(b) - area(a))[0];
-  const bg = hero ? dataUrl(path.join(web, hero.poster.src.replace(/^\//, '')), 'image/' + hero.poster.src.split('.').pop().replace('jpg', 'jpeg')) : '';
+  const area = (img) => Number(img.width || 0) * Number(img.height || 0);
+  const rank = (p) => (p.poster ? 100 : 0) + (p.cover_art ? 16 : 0) + (p.sponsored ? 8 : 0) + (p.featured ? 4 : 0) + (p.demand === 'going_fast' ? 3 : 0) + (p.big_stage ? 1 : 0);
+  const hero = [...list].filter((p) => heroImage(p)).sort((a, b) => rank(b) - rank(a) || area(heroImage(b)) - area(heroImage(a)))[0];
+  const img = hero ? heroImage(hero) : null;
+  const bg = img ? dataUrl(path.join(web, img.src.replace(/^\//, '')), 'image/' + img.src.split('.').pop().replace('jpg', 'jpeg')) : '';
   const weekday = new Intl.DateTimeFormat('en-US', { timeZone: 'America/New_York', weekday: 'long' }).format(new Date(day + 'T12:00:00-04:00'));
   const rows = list.slice(0, 5).map((p) => `<div class="srow"><b>${esc(clock(p))}</b><div><strong>${esc(p.title)}</strong><span>${esc(p.venue)} · ${esc(hoodOf(p))}${p.demand === 'going_fast' ? ' · going fast' : ''}${p.sponsored ? ' · paid listing' : ''}</span></div></div>`).join('');
   return `${base}<style>html,body{height:1920px}.photo{background-position:center 25%}.photo:after{background:linear-gradient(180deg,#000000a6 0%,#00000040 12%,#0000 24%,#0000 40%,#000000d0 55%,#000000f4 68%,#000000fa 100%)}
@@ -172,7 +178,7 @@ function storyCard(day, list) {
 .credit2{bottom:60px;left:64px}</style>
 ${hero ? `<div class="photo" style="background-image:url(${bg})"></div>` : ''}<div class="sw"><div class="lock">Stand Up <span>Comedy NYC</span></div>
 <div class="shead"><i>Tonight</i><small>${esc(new Intl.DateTimeFormat('en-US', { timeZone: 'America/New_York', weekday: 'long', month: 'long', day: 'numeric' }).format(new Date(day + 'T12:00:00-04:00')))}</small></div>${rows}
-<div class="spill">Full board + tickets · standupcomedynyc.com/links</div>${hero ? `<div class="credit2">${esc(hero.poster.credit || '')}</div>` : ''}</div>`;
+<div class="spill">Full board + tickets · standupcomedynyc.com/links</div>${img ? `<div class="credit2">${esc(img.credit || '')}</div>` : ''}</div>`;
 }
 function coverCard(label, day, list) {
   const n = Math.min(list.length, 5); const maxLen = Math.max(...list.slice(0, n).map((p) => p.title.length));
@@ -187,10 +193,11 @@ function coverCard(label, day, list) {
   const day = args.date || nyDate();
   const jobs = [];
   if (args.tonight) {
-    const list = picks.filter((p) => p.date === day && !soldOut(p)).sort((a, b) => a.starts_at.localeCompare(b.starts_at));
+    // Same selection ig-post.js uses for the carousel, so the rendered cards and the posted set agree.
+    const list = selectTonight(picks, venuesByName, day, { mix: !args['no-mix'] });
     if (!list.length) { console.error(`ig-card: no picks with tickets left on ${day}`); process.exit(1); }
     jobs.push({ kind: 'cover', id: 'tonight-' + day, html: (args.photo ? photoCover : coverCard)('Tonight', day, list), picks: list.map((p) => p.id) });
-    list.forEach((p) => jobs.push({ kind: 'pick', id: p.id, html: (args.photo && p.poster) ? photoCard(p) : pickCard(p), picks: [p.id] }));
+    list.forEach((p) => jobs.push({ kind: 'pick', id: p.id, html: (args.photo && heroImage(p)) ? photoCard(p) : pickCard(p), picks: [p.id] }));
   }
   if (args.story) {
     const list = picks.filter((p) => p.date === day && !soldOut(p)).sort((a, b) => a.starts_at.localeCompare(b.starts_at));
@@ -202,12 +209,12 @@ function coverCard(label, day, list) {
     const list = picks.filter((p) => days.includes(p.date) && p.date >= day).sort((a, b) => a.starts_at.localeCompare(b.starts_at));
     if (!list.length) { console.error('ig-card: no weekend picks'); process.exit(1); }
     jobs.push({ kind: 'cover', id: 'weekend-' + days[0], html: (args.photo ? photoCover : coverCard)('This weekend', days[0], list), picks: list.map((p) => p.id) });
-    list.forEach((p) => jobs.push({ kind: 'pick', id: p.id, html: (args.photo && p.poster) ? photoCard(p) : pickCard(p), picks: [p.id] }));
+    list.forEach((p) => jobs.push({ kind: 'pick', id: p.id, html: (args.photo && heroImage(p)) ? photoCard(p) : pickCard(p), picks: [p.id] }));
   }
   for (const id of args.pick) {
     const p = picks.find((r) => r.id === id);
     if (!p) { console.error(`ig-card: unknown pick ${id}`); process.exit(1); }
-    jobs.push({ kind: 'pick', id: p.id, html: (args.photo && p.poster) ? photoCard(p) : pickCard(p), picks: [p.id] });
+    jobs.push({ kind: 'pick', id: p.id, html: (args.photo && heroImage(p)) ? photoCard(p) : pickCard(p), picks: [p.id] });
   }
   if (!jobs.length) { console.error('ig-card: nothing to do (use --tonight, --weekend or --pick <id>)'); process.exit(2); }
 

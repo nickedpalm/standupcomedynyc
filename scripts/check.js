@@ -87,7 +87,9 @@ checkCommon('clubs', readJson('clubs.json'), ['id', 'name', 'neighborhood', 'add
 // Venue registry: every venue named in the data must match its registered neighborhood.
 const venues = readJson('venues.json');
 const byVenue = new Map(venues.map((v) => [v.name, v]));
-venues.forEach((v, i) => { for (const k of ['name', 'address', 'neighborhood', 'borough']) if (!v[k]) fail(`venues[${i}]: missing ${k}`); if (v.calendar_url !== undefined && !https(v.calendar_url)) fail(`venues[${i}] ${v.name}: calendar_url must be https`); if (v.website !== undefined && !https(v.website)) fail(`venues[${i}] ${v.name}: website must be https`); if (v.eventbrite_organizer !== undefined && !/^https:\/\/www\.eventbrite\.com\/o\//.test(v.eventbrite_organizer)) fail(`venues[${i}] ${v.name}: eventbrite_organizer must be an eventbrite.com/o/ URL`); });
+venues.forEach((v, i) => { for (const k of ['name', 'address', 'neighborhood', 'borough']) if (!v[k]) fail(`venues[${i}]: missing ${k}`); if (v.calendar_url !== undefined && !https(v.calendar_url)) fail(`venues[${i}] ${v.name}: calendar_url must be https`); if (v.website !== undefined && !https(v.website)) fail(`venues[${i}] ${v.name}: website must be https`); if (v.eventbrite_organizer !== undefined && !/^https:\/\/www\.eventbrite\.com\/o\//.test(v.eventbrite_organizer)) fail(`venues[${i}] ${v.name}: eventbrite_organizer must be an eventbrite.com/o/ URL`);
+  if (v.photo) { if (!v.photo.src || !fs.existsSync(path.join(web, String(v.photo.src).replace(/^\//, '')))) fail(`venues[${i}] ${v.name}: photo file missing: ${v.photo.src}`); if (!v.photo.credit) fail(`venues[${i}] ${v.name}: photo needs a credit`); if (!v.photo.alt) fail(`venues[${i}] ${v.name}: photo needs alt text`); if (!https(v.photo.source_url)) fail(`venues[${i}] ${v.name}: photo source_url must be https`); }
+});
 const review = venues.filter((v) => v.needs_review).length;
 if (review) warn(`venues: ${review} registered from listings still need review (neighborhood, website, events page)`);
 const venueCheck = (file, rows) => rows.forEach((r) => {
@@ -139,6 +141,20 @@ for (let w = 0; w < 6; w++) {
 const expired = picks.length - upcoming.length;
 if (expired) warn(`freshness: ${expired} expired pick(s) still in picks.json; run npm run rotate`);
 if (picks.some((r) => r.verified_at > today)) fail('picks: verified_at is in the future');
+
+// Venue mix: the board (and the Tonight carousel) shouldn't lean on one room. Venues sharing a "group" count together.
+{
+  const houseOf = (r) => { const v = byVenue.get(r.venue); return (v && v.group) || r.venue; };
+  const soon = upcoming.filter((r) => r.date >= today && r.date <= horizon);
+  if (soon.length) {
+    const counts = new Map();
+    soon.forEach((r) => counts.set(houseOf(r), (counts.get(houseOf(r)) || 0) + 1));
+    for (const [house, n] of counts) if (n / soon.length > 0.35) warn(`venue mix: ${house} holds ${n} of ${soon.length} picks in the next 7 days (${Math.round((n / soon.length) * 100)}%)`);
+    const byDay = new Map();
+    soon.forEach((r) => { if (!byDay.has(r.date)) byDay.set(r.date, []); byDay.get(r.date).push(r); });
+    for (const [day, rows] of byDay) if (rows.length >= 2 && new Set(rows.map(houseOf)).size === 1) warn(`venue mix: every pick on ${day} is from ${houseOf(rows[0])}`);
+  }
+}
 
 // Archive files must stay valid.
 const archiveDir = path.join(web, 'data', 'archive');

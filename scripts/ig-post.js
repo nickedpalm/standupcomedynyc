@@ -1,6 +1,7 @@
 #!/usr/bin/env node
 // Publish cards to Instagram through the Instagram API with Instagram Login.
 //   node scripts/ig-post.js --tonight [--date=YYYY-MM-DD]     carousel: cover + up to 9 pick cards, one post
+//   --no-mix  skip the per-venue cap and house interleaving (raw start-time order)
 //   node scripts/ig-post.js --pick <id> [--caption="..."]      single image post for one pick
 //   node scripts/ig-post.js --image=URL --caption="..."        any hosted JPEG
 //   --story                                                    post as a story instead of a feed post
@@ -32,6 +33,8 @@ if (!dryRun && (!token || !userId)) { console.error('ig-post: IG_ACCESS_TOKEN an
 const nyDate = (d = new Date()) => new Intl.DateTimeFormat('en-CA', { timeZone: 'America/New_York', year: 'numeric', month: '2-digit', day: '2-digit' }).format(d);
 const longDate = (day) => new Intl.DateTimeFormat('en-US', { timeZone: 'America/New_York', weekday: 'long', month: 'long', day: 'numeric' }).format(new Date(day + 'T12:00:00-04:00'));
 const picks = JSON.parse(fs.readFileSync(path.join(root, 'web', 'data', 'picks.json'), 'utf8'));
+const venuesByName = new Map(JSON.parse(fs.readFileSync(path.join(root, 'web', 'data', 'venues.json'), 'utf8')).map((v) => [v.name, v]));
+const { selectTonight } = require('./tonight-set.js');
 const log = fs.existsSync(logFile) ? JSON.parse(fs.readFileSync(logFile, 'utf8')) : [];
 // The URL carries a content hash so Instagram and the CDN never reuse a cached copy of an older render.
 const crypto = require('crypto');
@@ -104,7 +107,8 @@ const credits = (list) => { const c = [...new Set(list.filter((p) => p.poster &&
   }
   const day = args.date || nyDate();
   if (args.tonight) {
-    const list = picks.filter((p) => p.date === day && !(p.demand === 'sold_out' && !p.walkup_note)).sort((a, b) => a.starts_at.localeCompare(b.starts_at));
+    // Same selection ig-card.js uses to render, so the posted carousel matches the cards on disk.
+    const list = selectTonight(picks, venuesByName, day, { mix: !args['no-mix'] });
     if (!list.length) { console.error(`ig-post: no picks with tickets left on ${day}`); process.exit(1); }
     const storyId = 'story-' + day;
     const ids = args.story && cardExists(storyId) ? [storyId] : ['tonight-' + day, ...list.slice(0, 9).map((p) => p.id)];
