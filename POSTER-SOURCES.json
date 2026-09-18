@@ -896,5 +896,50 @@
   "bytes": 44892,
   "sha256": "TBD",
   "reuse_status": "Official promotional artwork from the show's Eventbrite listing; no separate reuse license identified. Site display with credit only."
+ },
+ {
+  "event_id": "good-god-union-hall-2026-09-20",
+  "src": "/assets/posters/good-god-union-hall-2026-09-20.jpg",
+  "width": 940,
+  "height": 470,
+  "source_url": "https://www.eventbrite.com/e/good-god-tickets-2000726305237",
+  "credit": "Artwork: Union Hall / show organizer",
+  "alt": "Good God promotional artwork.",
+  "kind": "dated event flyer",
+  "original_image_url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1193332179%2F282041210522%2F1%2Foriginal.20260912-143016",
+  "retrieved_at": "2026-09-17",
+  "bytes": 45001,
+  "sha256": "TBD",
+  "reuse_status": "Official promotional artwork from the show's Eventbrite listing; no separate reuse license identified. Site display with credit only."
+ },
+ {
+  "event_id": "frankensteins-baby-union-hall-2026-09-21",
+  "src": "/assets/posters/frankensteins-baby-union-hall-2026-09-21.jpg",
+  "width": 940,
+  "height": 470,
+  "source_url": "https://www.eventbrite.com/e/frankensteins-baby-tickets-1998360574272",
+  "credit": "Artwork: Union Hall / show organizer",
+  "alt": "Frankenstein's Baby promotional artwork.",
+  "kind": "dated event flyer",
+  "original_image_url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1189497798%2F282041210522%2F1%2Foriginal.20260723-192215",
+  "retrieved_at": "2026-09-17",
+  "bytes": 11587,
+  "sha256": "TBD",
+  "reuse_status": "Official promotional artwork from the show's Eventbrite listing; no separate reuse license identified. Site display with credit only."
+ },
+ {
+  "event_id": "pretty-major-union-hall-2026-09-22",
+  "src": "/assets/posters/pretty-major-union-hall-2026-09-22.jpg",
+  "width": 940,
+  "height": 470,
+  "source_url": "https://www.eventbrite.com/e/pretty-major-hosted-by-jay-jurden-tickets-1995504568883",
+  "credit": "Artwork: Union Hall / show organizer",
+  "alt": "PRETTY MAJOR Hosted by Jay Jurden promotional artwork.",
+  "kind": "dated event flyer",
+  "original_image_url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1127766923%2F282041210522%2F1%2Foriginal.20250918-031114",
+  "retrieved_at": "2026-09-17",
+  "bytes": 37934,
+  "sha256": "TBD",
+  "reuse_status": "Official promotional artwork from the show's Eventbrite listing; no separate reuse license identified. Site display with credit only."
  }
 ]

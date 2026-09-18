@@ -1,22 +1,19 @@
-# Heat notes — 2026-09-16
+# Heat notes — 2026-09-17
 
-Five performers on the shortlist this edition, synthesized from Reddit and Hacker News via the last30days skill. Editorial paraphrase only — never paste the raw feed into the site.
+Generated from `npm run heat` + `npm run research-plan` (last30days for the two names under `run`; reuse cached notes for the six under `reuse`).
 
-## Chelsea Handler
-Seven Reddit threads in 30 days (2,226 upvotes, 567 comments). Chatter splits between a r/Tickets trade thread and a couple r/Standup recaps of the High and Mighty Tour; the top post sits at 1,500+ upvotes. No HN hits. The threads are mostly people working out logistics for the Beacon Theatre Sep 25 date, which is a sign the room is filling from real demand rather than hype.
+## Rankings
+- 39 performers ranked from static data
+- Run 2 (Sophie Buddle, Josh Sharp), reuse 6 cached, skip 31
+- ~333,000 tokens saved from the research-plan
 
-## Brad Williams
-Eight Reddit threads in 30 days (3,892 upvotes, 718 comments) — but the bulk of those upvotes belong to Brad Williams the Carolina Panthers linebacker, not the comic. The Brad Williams the comedian threads do exist and they cluster around the Tall Tales Tour dates, with a couple of fan-shot clips reposted to r/Standup. No HN hits. Town Hall Sep 19 is the NYC stop the comedian-specific threads are pointing at.
+## Run notes
+- **Sophie Buddle** (Union Hall Sep 18, late show): one Reddit thread (r/taskmaster, 388 upvotes, 391 comments) in 30 days; limited recent data; she's on Taskmaster Australia and that thread drives all the signal — rely on room and bill rather than recent buzz.
+- **Josh Sharp** (Bell House Sep 20): twelve Reddit threads (3,295 upvotes) and one HN story in 30 days, but the loudest threads are r/Torontobluejays / r/NYYankees / r/Mariners — that's the Josh Sharp baseball player, not the comic; the comic's recent Bell House show isn't driving online chatter. Decide on the room, the format and the crowd-work draw, not on buzz.
 
-## Jenny Tian
-Two Reddit threads (1,017 upvotes) and one HN story. Most chatter is around her Taskmaster Australia Series 6 appearances and an OpenAussie Q&A, not the NYC Bell House date specifically. Limited recent data, only one of three dated items in the last week — treat as low-signal, decide on the room and the format, not on the buzz.
+## Reuse notes (already cached under 7d)
+- Chelsea Handler, Beth Stelling, Brad Williams, Jenny Tian, Leonard Ouzts, Sam Taggart — all cached within 1.9 days; notes reused.
 
-## Leonard Ouzts
-One Reddit thread (31 upvotes) and one HN story in 30 days. Almost no buzz either way; the single Reddit hit is a Seahawks fan post unrelated to the comic. Comedy In Harlem Sep 18 — treat as low-signal, decide on the room and the bill.
-
-## Sam Taggart
-Two Reddit threads (36 upvotes) and six HN stories in 30 days. Sam Taggart has no real comedian-shaped footprint online; the HN and Reddit hits are the D&D creature / fnaftheories namesake. Bell House Sep 19 special taping — pick on the room and the recording, not on buzz.
-
-## Reused from cache (no new run)
-- **Jamie Wolf**: cached 0.9d ago — first Dates clip topped r/StandUpComedy on Sep 6 with 757 upvotes; Union Hall Sep 16 at 10pm.
-- **Beth Stelling**: cached 0.9d ago — seven r/StandUpComedy threads in 30 days (1,782 upvotes); the Boyfriends Kids clip is still climbing. Bell House Sep 26.
+## Ranked on schedule alone (no recent data)
+- Sophie Buddle, Josh Sharp (above).
+- Good God is a show, not a performer; research-plan ran per-performer so the show didn't get its own row.

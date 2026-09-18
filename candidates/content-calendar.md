@@ -11,7 +11,7 @@ Six weeks ahead from the board. Regenerated on every build; edit the data, not t
 
 ## Research plan today
 
-Ranked 39; run 5, reuse 2, skip 32; ~306,000 tokens saved. No recent data: Jenny Tian, Leonard Ouzts, Sam Taggart.
+Ranked 39; run 2, reuse 6, skip 31; ~333,000 tokens saved. No recent data: Sophie Buddle, Josh Sharp.
 
 ## Week 1: Sep 18 to Sep 24 — 25 picks — 5 without artwork · 19 Eventbrite leads not yet reviewed
 
@@ -33,10 +33,13 @@ Ranked 39; run 5, reuse 2, skip 32; ~306,000 tokens saved. No recent data: Jenny
 - Sun Sep 20 5pm — **James Tom Does A New Show, Casual Style** at Union Hall · SOLD OUT · heat 100
 - Sun Sep 20 7:30pm — **Comedians Interview Experts: Consciousness with Asher Perlman and Weiji Ma** at Caveat
 - Sun Sep 20 7:30pm — **Spell Checc: A Spelling Bee Gameshow!** at Littlefield
+- Sun Sep 20 7:30pm · doors 7pm — **Good God** at Union Hall
 - Mon Sep 21 7pm — **And Scene** at Caveat
 - Mon Sep 21 7:30pm — **Climate Town & Amy Westervelt Live** at The Bell House
+- Mon Sep 21 7:30pm · doors 7pm — **Frankenstein's Baby** at Union Hall
 - Mon Sep 21 9:30pm · doors 9pm — **Marcel Lucont's Whine List** at Caveat
 - Tue Sep 22 7pm · doors 6:30pm — **The Bisque: Comedy for Charity** at Caveat
+- Tue Sep 22 7:30pm · doors 7pm — **PRETTY MAJOR Hosted by Jay Jurden** at Union Hall
 - Wed Sep 23 7pm — **David Nihill: Taking Tangents Tour** at The Bell House
 - Wed Sep 23 8pm · doors 7pm — **WITS END: Jay Jurden vs. Chloe Radcliffe | Comedy Trivia Gameshow** at Littlefield · NO ARTWORK
 - Thu Sep 24 7:30pm — **Vidura Bandara Rajapaksa: The Paradise Gothic Tour** at The Bell House
@@ -55,7 +58,7 @@ Ranked 39; run 5, reuse 2, skip 32; ~306,000 tokens saved. No recent data: Jenny
 
 - Fri Sep 25 8pm — **Chelsea Handler: The High and Mighty Tour** at Beacon Theatre · NO ARTWORK · heat 20
 - Fri Sep 25 9:45pm — **The Bell House Stand Up Showcase** at The Bell House
-- Sat Sep 26 7pm — **Beth Stelling: Let Me Get Loose** at The Bell House
+- Sat Sep 26 7pm — **Beth Stelling: Let Me Get Loose** at The Bell House · heat 25
 - Sat Sep 26 7pm — **We Just Find It Funny Presents: Good Grief!** at Littlefield
 - Sat Sep 26 11pm — **Mike Nasty Presents: NO FILTER!** at Le Poisson Rouge · NO ARTWORK
 - Sun Sep 27 7:30pm — **Kevin Sullivan** at The Bell House
@@ -70,6 +73,7 @@ Ranked 39; run 5, reuse 2, skip 32; ~306,000 tokens saved. No recent data: Jenny
   - Fri Sep 25 7:30pm — LPR Presents: Sean Hayes at Littlefield · from $0 · has artwork
   - Fri Sep 25 8pm — Tobin Miller, Caroline Hanes, Don Jamieson, Nick Griffin, & JJ Ramirez! at Comic Strip Live · from $25.71 · has artwork
   - Fri Sep 25 10:30pm — TONIO SKITS HOSTS THE FALL STAND UP late night SHOW Date friday September 2 at Comic Strip Live · from $25.71 · has artwork
+  - Sat Sep 26 8pm — Tom Van Horn, Subhah Agarwal, Don Jamieson, Connor O'Brien, & JJ Ramirez! at Comic Strip Live · from $25.71 · has artwork
   - Sat Sep 26 11pm — Dancehall Forever at Littlefield · from $0 · has artwork
 
 ## Week 3: Oct 2 to Oct 8 — 11 picks — 5 without artwork
@@ -90,7 +94,7 @@ Ranked 39; run 5, reuse 2, skip 32; ~306,000 tokens saved. No recent data: Jenny
 
 - Fri Oct 9 6pm — **Brooklyn Power Hour** at Eastville Comedy Club · NO ARTWORK
 - Fri Oct 9 7:30pm — **Poly Díaz (En Español)** at The Bell House
-- Sat Oct 10 6pm — **Maria Bamford: Live** at The Bell House
+- Sat Oct 10 6pm — **Maria Bamford: Live** at The Bell House · heat 21
 - Sun Oct 11 6pm — **Wait, What's Sri Lanka? — Comedy Special Taping** at Eastville Comedy Club · NO ARTWORK
 - Mon Oct 12 7:30pm — **The Bechdel Cast 10 Year Anniversary Tour** at The Bell House
 - Wed Oct 14 7pm — **The Next Elton and Friends** at West Side Comedy Club · NO ARTWORK
@@ -104,7 +108,7 @@ Ranked 39; run 5, reuse 2, skip 32; ~306,000 tokens saved. No recent data: Jenny
 - Fri Oct 16 7pm — **Kathy Griffin: New Face, New Tour** at The Town Hall · NO ARTWORK
 - Fri Oct 16 7:30pm — **Blank Check Live** at The Bell House
 - Sat Oct 17 6pm — **My Cousin Vlad & Balkan Comedy Night** at Eastville Comedy Club · NO ARTWORK
-- Sat Oct 17 7:30pm — **Asif Ali Live!** at The Bell House
+- Sat Oct 17 7:30pm — **Asif Ali Live!** at The Bell House · heat 25
 - Sat Oct 17 10pm — **Headlining Alex Giampapa** at Eastville Comedy Club · NO ARTWORK
 - Sun Oct 18 7:30pm — **Johnny Pemberton** at The Bell House
 - Mon Oct 19 7:30pm — **Michelle Buteau** at The Bell House · heat 20

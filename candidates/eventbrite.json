@@ -1,5 +1,5 @@
 {
- "retrieved_at": "2026-09-16T11:01:31.639Z",
+ "retrieved_at": "2026-09-17T11:01:05.109Z",
  "note": "Leads from Eventbrite organizer pages of registered rooms. Open the event page before adding a pick; artwork needs a POSTER-SOURCES record.",
  "organizers": [
   {
@@ -37,101 +37,6 @@
  ],
  "events": [
   {
-   "venue": "Union Hall",
-   "neighborhood": "Park Slope",
-   "organizer": "https://www.eventbrite.com/o/union-hall-17899496497",
-   "title": "Invisible Architecture: An Evening of Comedy with Charlie Flynn",
-   "date": "2026-09-16",
-   "time": "7:30pm",
-   "starts_at": "2026-09-16T19:30:00-04:00",
-   "ends_at": "2026-09-16T21:00:00-04:00",
-   "location_name": "Union Hall",
-   "location_address": "702 Union St., Brooklyn, NY 11215, Brooklyn",
-   "price_from": 15.92,
-   "url": "https://www.eventbrite.com/e/invisible-architecture-an-evening-of-comedy-with-charlie-flynn-tickets-1998670466167",
-   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1191694781%2F282041210522%2F1%2Foriginal.20260823-130818?w=940&auto=format%2Ccompress&q=75&sharp=10&s=6b8bce0ca4e2e3be00af9c70b030fe62",
-   "description": "Invisible Architecture: An Evening of Comedy with Charlie Flynn - Wednesday, September 16 - 7:00pm Doors / 7:30pm Show",
-   "venue_name_matches": true,
-   "already_a_pick": true,
-   "seen_before": true
-  },
-  {
-   "venue": "Comic Strip Live",
-   "neighborhood": "Upper East Side",
-   "organizer": "https://www.eventbrite.com/o/comic-strip-live-comedy-club-8100188167",
-   "title": "Sheba Mason, Caroline Hanes, Jason Salmon, Nick Griffin, Mike Yard, more!",
-   "date": "2026-09-16",
-   "time": "8pm",
-   "starts_at": "2026-09-16T20:00:00-04:00",
-   "ends_at": "2026-09-16",
-   "location_name": "Comic Strip Live",
-   "location_address": "1568 2nd Ave, New York, NY 10028, New York",
-   "price_from": 25.71,
-   "url": "https://www.eventbrite.com/e/sheba-mason-caroline-hanes-jason-salmon-nick-griffin-mike-yard-more-tickets-1998675514266",
-   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1191706604%2F136153380524%2F1%2Foriginal.20260823-182137?crop=focalpoint&fit=crop&w=940&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.506&fp-y=0.247&s=dbb9bae0ccd1ea53a9bcbdeeebc6633c",
-   "description": "Be part of history, celebrating 50 years of Comedy at the World Comic Strip! Comedians from, HBO, The Tonight Show, SNL & More ~",
-   "venue_name_matches": true,
-   "already_a_pick": false,
-   "seen_before": true
-  },
-  {
-   "venue": "Caveat",
-   "neighborhood": "Lower East Side",
-   "organizer": "https://www.eventbrite.com/o/caveat-13580085802",
-   "title": "Sorry We're Here",
-   "date": "2026-09-16",
-   "time": "9:30pm",
-   "starts_at": "2026-09-16T21:30:00-04:00",
-   "ends_at": "2026-09-16T23:00:00-04:00",
-   "location_name": "Caveat",
-   "location_address": "21 A Clinton Street, New York, NY 10002, New York",
-   "price_from": 12.58,
-   "url": "https://www.eventbrite.com/e/sorry-were-here-tickets-1997979335978",
-   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1191078695%2F207096185123%2F1%2Foriginal.20260814-154427?w=940&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2637%2C1318&s=3f26f4202946b4dc6c53d9529d9671f6",
-   "description": "Sorry We're Here presents an original sketch comedy show",
-   "venue_name_matches": true,
-   "already_a_pick": false,
-   "seen_before": true
-  },
-  {
-   "venue": "Union Hall",
-   "neighborhood": "Park Slope",
-   "organizer": "https://www.eventbrite.com/o/union-hall-17899496497",
-   "title": "Jamie Wolf: Psycho",
-   "date": "2026-09-16",
-   "time": "10pm",
-   "starts_at": "2026-09-16T22:00:00-04:00",
-   "ends_at": "2026-09-16T23:30:00-04:00",
-   "location_name": "Union Hall",
-   "location_address": "702 Union St., Brooklyn, NY 11215, Brooklyn",
-   "price_from": 19.26,
-   "url": "https://www.eventbrite.com/e/jamie-wolf-psycho-tickets-1999521890801",
-   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1044356643%2F282041210522%2F1%2Foriginal.20250603-001441?crop=focalpoint&fit=crop&w=940&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.005&fp-y=0.005&s=b23fdb1adb5181b0f649336ee3ed0fff",
-   "description": "Jamie Wolf: Psycho - Wednesday, September 16 - 9:30pm Doors / 10:00pm Show",
-   "venue_name_matches": true,
-   "already_a_pick": true,
-   "seen_before": true
-  },
-  {
-   "venue": "Kellogg's Diner",
-   "neighborhood": "Williamsburg",
-   "organizer": "https://www.eventbrite.com/o/danny-metz-jackson-colvin-108104564651",
-   "title": "Standup Comedy (After Dark) at Kellogg's Diner",
-   "date": "2026-09-16",
-   "time": "11pm",
-   "starts_at": "2026-09-16T23:00:00-04:00",
-   "ends_at": "2026-09-17T00:00:00-04:00",
-   "location_name": "Kellogg’s Diner",
-   "location_address": "518 Metropolitan Avenue, Brooklyn, NY 11211, Brooklyn",
-   "price_from": 10,
-   "url": "https://www.eventbrite.com/e/standup-comedy-after-dark-at-kelloggs-diner-tickets-1999800514171",
-   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1192096645%2F2660386777661%2F1%2Foriginal.20260828-052349?crop=focalpoint&fit=crop&w=940&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.477&fp-y=0.237&s=3f6b107e8ef44bbdd30d50ed05b9fe18",
-   "description": "NYC’s Best Comics Take Over Kellogg’s Diner — Every Wednesday Night at 11PM!",
-   "venue_name_matches": false,
-   "already_a_pick": false,
-   "seen_before": true
-  },
-  {
    "venue": "Caveat",
    "neighborhood": "Lower East Side",
    "organizer": "https://www.eventbrite.com/o/caveat-13580085802",
@@ -147,7 +52,7 @@
    "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1181644724%2F207096185123%2F1%2Foriginal.20260407-223629?w=940&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2876%2C1438&s=1811aa961d498d61210e445a3c1fb7d9",
    "description": "A science comedy show + trivia showdown by and for people who are curious about everything – but especially the things that make them laugh!",
    "venue_name_matches": true,
-   "already_a_pick": false,
+   "already_a_pick": true,
    "seen_before": true
   },
   {
@@ -471,7 +376,7 @@
    "description": "Sophie Buddle - Saturday, September 19 - 9:30pm Doors / 10:00pm Show",
    "venue_name_matches": true,
    "already_a_pick": false,
-   "seen_before": false
+   "seen_before": true
   },
   {
    "venue": "Comic Strip Live",
@@ -527,8 +432,8 @@
    "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1191695096%2F282041210522%2F1%2Foriginal.20260823-132120?crop=focalpoint&fit=crop&w=940&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=c906f4657c2810e34bde7e3e0f6f6f02",
    "description": "James Tom Does A New Show, Casual Style - Sunday, September 20 - 4:30pm Doors / 5:00pm Show",
    "venue_name_matches": true,
-   "already_a_pick": false,
-   "seen_before": false
+   "already_a_pick": true,
+   "seen_before": true
   },
   {
    "venue": "Caveat",
@@ -546,7 +451,7 @@
    "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1190369619%2F207096185123%2F1%2Foriginal.20260805-132214?w=940&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2000%2C1000&s=a0d435991ddf2016139ac18a0564b005",
    "description": "Don't miss your favorite comedians interviewing experts on topics they've always wanted to ask someone about.",
    "venue_name_matches": true,
-   "already_a_pick": false,
+   "already_a_pick": true,
    "seen_before": true
   },
   {
@@ -565,8 +470,27 @@
    "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1187282620%2F400863417153%2F1%2Foriginal.20260619-172856?crop=focalpoint&fit=crop&w=940&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.359&fp-y=0.452&s=8d26f4f3779a99ae4a6139257355909b",
    "description": "Watch New York’s funniest comedians compete in a spelling bee meets try-not-to-laugh showdown!",
    "venue_name_matches": true,
-   "already_a_pick": false,
+   "already_a_pick": true,
    "seen_before": true
+  },
+  {
+   "venue": "Union Hall",
+   "neighborhood": "Park Slope",
+   "organizer": "https://www.eventbrite.com/o/union-hall-17899496497",
+   "title": "Good God",
+   "date": "2026-09-20",
+   "time": "7:30pm",
+   "starts_at": "2026-09-20T19:30:00-04:00",
+   "ends_at": "2026-09-20T21:00:00-04:00",
+   "location_name": "Union Hall",
+   "location_address": "702 Union St., Brooklyn, NY 11215, Brooklyn",
+   "price_from": 13.61,
+   "url": "https://www.eventbrite.com/e/good-god-tickets-2000726305237",
+   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1193332179%2F282041210522%2F1%2Foriginal.20260912-143016?crop=focalpoint&fit=crop&w=940&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=3dea32660c12a4212d0b40ff46d06936",
+   "description": "Good God - Sunday, September 20 - 7:00pm Doors / 7:30pm Show",
+   "venue_name_matches": true,
+   "already_a_pick": false,
+   "seen_before": false
   },
   {
    "venue": "Comic Strip Live",
@@ -626,6 +550,25 @@
    "seen_before": true
   },
   {
+   "venue": "Union Hall",
+   "neighborhood": "Park Slope",
+   "organizer": "https://www.eventbrite.com/o/union-hall-17899496497",
+   "title": "Frankenstein's Baby",
+   "date": "2026-09-21",
+   "time": "7:30pm",
+   "starts_at": "2026-09-21T19:30:00-04:00",
+   "ends_at": "2026-09-21T21:00:00-04:00",
+   "location_name": "Union Hall",
+   "location_address": "702 Union St., Brooklyn, NY 11215, Brooklyn",
+   "price_from": 15.92,
+   "url": "https://www.eventbrite.com/e/frankensteins-baby-tickets-1998360574272",
+   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1189497798%2F282041210522%2F1%2Foriginal.20260723-192215?crop=focalpoint&fit=crop&w=940&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=d9cfd3ac8a1c7a998da8ef308df137a7",
+   "description": "Frankenstein’s Baby - Monday, September 21 - 7:00pm Doors / 7:30pm Show",
+   "venue_name_matches": true,
+   "already_a_pick": false,
+   "seen_before": false
+  },
+  {
    "venue": "Comic Strip Live",
    "neighborhood": "Upper East Side",
    "organizer": "https://www.eventbrite.com/o/comic-strip-live-comedy-club-8100188167",
@@ -661,7 +604,7 @@
    "description": "The multi-award-deserving deadpan Frenchman brings his acclaimed interactive show to NYC for one night only.",
    "venue_name_matches": true,
    "already_a_pick": true,
-   "seen_before": false
+   "seen_before": true
   },
   {
    "venue": "Caveat",
@@ -680,6 +623,25 @@
    "description": "A three-course meal of some of the best improv and stand up in NYC - raising money for abortion access!",
    "venue_name_matches": true,
    "already_a_pick": true,
+   "seen_before": true
+  },
+  {
+   "venue": "Union Hall",
+   "neighborhood": "Park Slope",
+   "organizer": "https://www.eventbrite.com/o/union-hall-17899496497",
+   "title": "PRETTY  MAJOR Hosted by Jay Jurden",
+   "date": "2026-09-22",
+   "time": "7:30pm",
+   "starts_at": "2026-09-22T19:30:00-04:00",
+   "ends_at": "2026-09-22T21:00:00-04:00",
+   "location_name": "Union Hall",
+   "location_address": "702 Union St., Brooklyn, NY 11215, Brooklyn",
+   "price_from": 15.92,
+   "url": "https://www.eventbrite.com/e/pretty-major-hosted-by-jay-jurden-tickets-1995504568883",
+   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1127766923%2F282041210522%2F1%2Foriginal.20250918-031114?crop=focalpoint&fit=crop&w=940&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=947b2715fe8cfa0ac5ab18e8ce99319c",
+   "description": "PRETTY MAJOR - Tuesday, September 22 - 7:00pm Doors / 7:30pm Show",
+   "venue_name_matches": true,
+   "already_a_pick": false,
    "seen_before": false
   },
   {
@@ -719,6 +681,25 @@
    "venue_name_matches": true,
    "already_a_pick": false,
    "seen_before": true
+  },
+  {
+   "venue": "Caveat",
+   "neighborhood": "Lower East Side",
+   "organizer": "https://www.eventbrite.com/o/caveat-13580085802",
+   "title": "Impossible New York Stories",
+   "date": "2026-09-22",
+   "time": "9:30pm",
+   "starts_at": "2026-09-22T21:30:00-04:00",
+   "ends_at": "2026-09-22T22:50:00-04:00",
+   "location_name": "Caveat",
+   "location_address": "21 A Clinton Street, New York, NY 10002, New York",
+   "price_from": 24.41,
+   "url": "https://www.eventbrite.com/e/impossible-new-york-stories-tickets-1998066062379",
+   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1191132357%2F207096185123%2F1%2Foriginal.20260815-084428?w=940&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2160%2C1080&s=17e39df38a3007c87d440b6d4837230f",
+   "description": "Comedians and storytellers share their wild, improbable, yet totally true Impossible New York Stories",
+   "venue_name_matches": true,
+   "already_a_pick": false,
+   "seen_before": false
   },
   {
    "venue": "Littlefield",
@@ -832,7 +813,7 @@
    "description": "Be part of history, celebrating 50 years of Comedy at the World Comic Strip! Comedians from, HBO, The Tonight Show, SNL & More ~",
    "venue_name_matches": true,
    "already_a_pick": false,
-   "seen_before": false
+   "seen_before": true
   },
   {
    "venue": "Littlefield",
@@ -854,6 +835,25 @@
    "seen_before": true
   },
   {
+   "venue": "Comic Strip Live",
+   "neighborhood": "Upper East Side",
+   "organizer": "https://www.eventbrite.com/o/comic-strip-live-comedy-club-8100188167",
+   "title": "Tom Van Horn, Subhah Agarwal, Don Jamieson, Connor O'Brien, & JJ Ramirez!",
+   "date": "2026-09-26",
+   "time": "8pm",
+   "starts_at": "2026-09-26T20:00:00-04:00",
+   "ends_at": "2026-09-26",
+   "location_name": "Comic Strip Live",
+   "location_address": "1568 2nd Ave, New York, NY 10028, New York",
+   "price_from": 25.71,
+   "url": "https://www.eventbrite.com/e/tom-van-horn-subhah-agarwal-don-jamieson-connor-obrien-jj-ramirez-tickets-1998677897394",
+   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1191707759%2F136153380524%2F1%2Foriginal.20260823-184208?crop=focalpoint&fit=crop&w=940&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.478&fp-y=0.325&s=df10b4d24797960dde9216d63e1b4bb5",
+   "description": "Be part of history, celebrating 50 years of Comedy at the World Comic Strip! Comedians from, HBO, The Tonight Show, SNL & More ~",
+   "venue_name_matches": true,
+   "already_a_pick": false,
+   "seen_before": false
+  },
+  {
    "venue": "Littlefield",
    "neighborhood": "Gowanus",
    "organizer": "https://www.eventbrite.com/o/littlefield-18046024060",
@@ -870,7 +870,7 @@
    "description": "This is a party for Dancehall lovers, bringing together the energy, music and dances behind the movement. 90% Dancehall 10% everything else.",
    "venue_name_matches": true,
    "already_a_pick": false,
-   "seen_before": false
+   "seen_before": true
   }
  ],
  "errors": []

@@ -198,5 +198,25 @@
   "source_label": "Eventbrite event listing (Comic Strip organizer page)",
   "verified_at": "2026-09-15",
   "verification_note": "Policy and price text came from the Comic Strip's own Eventbrite event listing: 'must be 17 or older to watch a show', 'two item minimum inside the show room', $25.71 starting ticket for the upcoming Wed Sep 17 Jim Mendrinos show. Schedule lists 50th-anniversary lineup nights through the week."
+ },
+ {
+  "id": "fear-city-comedy-club",
+  "tier": "club",
+  "name": "The Fear City Comedy Club",
+  "rooms": "60-seat dry 'killbox' room in a former boxing gym on the Chinatown/LES border",
+  "address": "17 Essex St, Manhattan",
+  "neighborhood": "Lower East Side",
+  "price_label": "$20 online · $25 at the door (per current show listings)",
+  "price_low": 20,
+  "price_high": 25,
+  "minimum": "None — the club is dry, with non-alcoholic beverages and no drink minimum",
+  "age": "Not stated on the venue site; confirm on the show page",
+  "reservations": "Online through the club's WooCommerce store; door sales if the show hasn't sold out",
+  "character": "A small dry room on the LES, with hour-long shows most nights mixing established New York comics, touring headliners and producers' showcases (Big Red, Max-Out, Magic City, Pure Chaos). The name comes from the 1975 'Welcome to Fear City' NYPD pamphlet; Jonezy Karona opened the club after decades in the city's music scene.",
+  "calendar_url": "https://www.thefearcitycomedyclub.com/shows-shop",
+  "source_url": "https://www.thefearcitycomedyclub.com/origin-story",
+  "source_label": "Origin Story (no drink minimum, dry room, 60 seats) + a current show listing (Boston's Funniest, $20 online / $25 door)",
+  "verified_at": "2026-09-17",
+  "verification_note": "Read from the club's own Origin Story block ('No bartenders, no servers, no drink minimums - no distractions'; '60 seat killbox comedy club serving non-alcoholic beverages') and one current WooCommerce show listing that lists the price. Address '17 Essex Street, New York, NY 10002' confirmed in the Google Maps embed on the same page. Hours on the shows page footer: Monday–Sunday 4:00pm–midnight."
  }
 ]

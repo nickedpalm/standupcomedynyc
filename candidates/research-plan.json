@@ -1,33 +1,25 @@
 {
- "generated_at": "2026-09-16T11:07:44.923Z",
+ "generated_at": "2026-09-17T11:07:55.035Z",
  "performers_considered": 39,
  "shortlist": [
-  {
-   "name": "Sophie Buddle",
-   "priority": 135
-  },
   {
    "name": "Taylor Tomlinson",
    "priority": 135
   },
   {
    "name": "Chelsea Handler",
-   "priority": 59
-  },
-  {
-   "name": "Jamie Wolf",
-   "priority": 55
+   "priority": 60
   },
   {
    "name": "Beth Stelling",
    "priority": 45
   },
   {
-   "name": "Brad Williams",
-   "priority": 40
+   "name": "Marc Maron",
+   "priority": 41
   },
   {
-   "name": "Marc Maron",
+   "name": "Brad Williams",
    "priority": 40
   },
   {
@@ -39,53 +31,26 @@
    "priority": 35
   },
   {
+   "name": "Sophie Buddle",
+   "priority": 35
+  },
+  {
    "name": "Sam Taggart",
+   "priority": 35
+  },
+  {
+   "name": "Josh Sharp",
    "priority": 35
   }
  ],
  "run": [
   {
-   "name": "Chelsea Handler",
-   "priority": 59,
-   "next": {
-    "id": "chelsea-handler-beacon-2026-09-25",
-    "date": "2026-09-25",
-    "venue": "Beacon Theatre",
-    "days": 9,
-    "featured": false,
-    "poster": false,
-    "demand": null
-   },
-   "cheap_signals": [
-    "Wikipedia: 1626 views a day",
-    "Reddit: 1 post in 30 days, 966 upvotes (top: r/Standup)"
-   ],
-   "reason": "in the decision window and not yet decided"
-  },
-  {
-   "name": "Brad Williams",
-   "priority": 40,
-   "next": {
-    "id": "brad-williams-tall-tales-tour-town-hall-2026-09-19",
-    "date": "2026-09-19",
-    "venue": "The Town Hall",
-    "days": 3,
-    "featured": false,
-    "poster": false,
-    "demand": null
-   },
-   "cheap_signals": [
-    "Wikipedia: 437 views a day"
-   ],
-   "reason": "show within 3 days and not yet decided"
-  },
-  {
-   "name": "Jenny Tian",
+   "name": "Sophie Buddle",
    "priority": 35,
    "next": {
-    "id": "jenny-tian-2026-09-17",
-    "date": "2026-09-17",
-    "venue": "The Bell House",
+    "id": "sophie-buddle-2026-09-18",
+    "date": "2026-09-18",
+    "venue": "Union Hall",
     "days": 1,
     "featured": false,
     "poster": true,
@@ -95,26 +60,11 @@
    "reason": "show within 3 days and not yet decided"
   },
   {
-   "name": "Leonard Ouzts",
+   "name": "Josh Sharp",
    "priority": 35,
    "next": {
-    "id": "leonard-ouzts-comedy-in-harlem-2026-09-18",
-    "date": "2026-09-18",
-    "venue": "Comedy In Harlem",
-    "days": 2,
-    "featured": false,
-    "poster": true,
-    "demand": null
-   },
-   "cheap_signals": [],
-   "reason": "show within 3 days and not yet decided"
-  },
-  {
-   "name": "Sam Taggart",
-   "priority": 35,
-   "next": {
-    "id": "sam-taggart-2026-09-19",
-    "date": "2026-09-19",
+    "id": "josh-sharp-2026-09-20",
+    "date": "2026-09-20",
     "venue": "The Bell House",
     "days": 3,
     "featured": false,
@@ -127,13 +77,13 @@
  ],
  "reuse": [
   {
-   "name": "Jamie Wolf",
-   "priority": 55,
+   "name": "Chelsea Handler",
+   "priority": 60,
    "cached": {
-    "at": "2026-09-15T13:02:23.737Z",
-    "age_days": 0.9,
+    "at": "2026-09-16T11:13:57.217Z",
+    "age_days": 1,
     "fresh": true,
-    "note": "First Dates clip topped r/StandUpComedy on Sep 6 with 757 upvotes; Union Hall Sep 16 at 10pm."
+    "note": "Seven Reddit threads in 30 days (2,226 upvotes, 567 comments) — most chatter around the High and Mighty Tour dates, with a r/Tickets trade thread and a couple r/Standup recaps; top post sits at 1,500+ upvotes. No HN hits. Beacon Theatre Sep 25 is the date the threads are pointing at."
    }
   },
   {
@@ -141,18 +91,53 @@
    "priority": 45,
    "cached": {
     "at": "2026-09-15T13:02:23.710Z",
-    "age_days": 0.9,
+    "age_days": 1.9,
     "fresh": true,
     "note": "Seven r/StandUpComedy threads in 30 days (1,782 upvotes); the Boyfriends Kids clip is still climbing. Bell House Sep 26."
+   }
+  },
+  {
+   "name": "Brad Williams",
+   "priority": 40,
+   "cached": {
+    "at": "2026-09-16T11:13:57.391Z",
+    "age_days": 1,
+    "fresh": true,
+    "note": "Eight Reddit threads in 30 days (3,892 upvotes, 718 comments) — r/NASCAR and r/panthers dominate (Brad Williams the linebacker, not the comic), but the comic-specific threads cluster around the Tall Tales Tour dates. No HN hits. Town Hall Sep 19 is the NYC stop the threads are watching."
+   }
+  },
+  {
+   "name": "Jenny Tian",
+   "priority": 35,
+   "cached": {
+    "at": "2026-09-16T11:13:57.538Z",
+    "age_days": 1,
+    "fresh": true,
+    "note": "Two Reddit threads (1,017 upvotes) and one HN story — chatter is mostly around her Taskmaster Australia Series 6 appearances and an OpenAussie Q&A, not the NYC Bell House date specifically. Limited recent data; rely on the room and the format."
+   }
+  },
+  {
+   "name": "Leonard Ouzts",
+   "priority": 35,
+   "cached": {
+    "at": "2026-09-16T11:13:57.701Z",
+    "age_days": 1,
+    "fresh": true,
+    "note": "One Reddit thread (31 upvotes) and one HN story in 30 days — almost no buzz either way; the comedian-by-that-name thread is a Seahawks fan post unrelated to the comic. Comedy In Harlem Sep 18; treat as low-signal, decide on room + bill."
+   }
+  },
+  {
+   "name": "Sam Taggart",
+   "priority": 35,
+   "cached": {
+    "at": "2026-09-16T11:13:57.853Z",
+    "age_days": 1,
+    "fresh": true,
+    "note": "Two Reddit threads (36 upvotes) and six HN stories in 30 days — Sam Taggart has no real comedian-shaped footprint online; the HN and Reddit hits are the D&D creature / fnaftheories namesake. Bell House Sep 19 special taping; pick on the room and the recording, not on buzz."
    }
   }
  ],
  "skip": [
-  {
-   "name": "Sophie Buddle",
-   "priority": 135,
-   "reason": "already sold out; research cannot change the call"
-  },
   {
    "name": "Taylor Tomlinson",
    "priority": 135,
@@ -160,8 +145,8 @@
   },
   {
    "name": "Marc Maron",
-   "priority": 40,
-   "reason": "next show in 53 days, outside the 10-day window"
+   "priority": 41,
+   "reason": "next show in 52 days, outside the 10-day window"
   },
   {
    "name": "Kanan Gill",
@@ -169,7 +154,17 @@
    "reason": "outside the top 10 by cheap ranking"
   },
   {
+   "name": "Good God",
+   "priority": 35,
+   "reason": "outside the top 10 by cheap ranking"
+  },
+  {
    "name": "Asif Ali",
+   "priority": 30,
+   "reason": "outside the top 10 by cheap ranking"
+  },
+  {
+   "name": "Daniel Sloss",
    "priority": 30,
    "reason": "outside the top 10 by cheap ranking"
   },
@@ -184,17 +179,17 @@
    "reason": "outside the top 10 by cheap ranking"
   },
   {
-   "name": "Josh Sharp",
-   "priority": 20,
-   "reason": "outside the top 10 by cheap ranking"
-  },
-  {
    "name": "David Nihill",
    "priority": 20,
    "reason": "outside the top 10 by cheap ranking"
   },
   {
    "name": "Vidura Bandara Rajapaksa",
+   "priority": 20,
+   "reason": "outside the top 10 by cheap ranking"
+  },
+  {
+   "name": "Kevin Sullivan",
    "priority": 20,
    "reason": "outside the top 10 by cheap ranking"
   },
@@ -219,11 +214,6 @@
    "reason": "outside the top 10 by cheap ranking"
   },
   {
-   "name": "Daniel Sloss",
-   "priority": 15,
-   "reason": "outside the top 10 by cheap ranking"
-  },
-  {
    "name": "Kathy Griffin",
    "priority": 10,
    "reason": "outside the top 10 by cheap ranking"
@@ -231,11 +221,6 @@
   {
    "name": "Jess Hilarious",
    "priority": 10,
-   "reason": "outside the top 10 by cheap ranking"
-  },
-  {
-   "name": "Kevin Sullivan",
-   "priority": 5,
    "reason": "outside the top 10 by cheap ranking"
   },
   {
@@ -309,11 +294,10 @@
    "reason": "outside the top 10 by cheap ranking"
   }
  ],
- "estimated_tokens_saved": 306000,
- "estimate_basis": "9000 tokens per last30days run, 34 runs avoided out of 39",
+ "estimated_tokens_saved": 333000,
+ "estimate_basis": "9000 tokens per last30days run, 37 runs avoided out of 39",
  "no_recent_data": [
-  "Jenny Tian",
-  "Leonard Ouzts",
-  "Sam Taggart"
+  "Sophie Buddle",
+  "Josh Sharp"
  ]
 }
