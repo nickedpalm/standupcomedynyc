@@ -327,7 +327,7 @@
  },
  {
   "event_id": "jenny-tian-2026-09-17",
-  "src": "/assets/posters/jenny-tian-2026-09-17.jpg",
+  "src": "/assets/posters/archive/jenny-tian-2026-09-17.jpg",
   "width": 640,
   "height": 427,
   "source_url": "https://www.thebellhouseny.com/",
@@ -338,7 +338,8 @@
   "retrieved_at": "2026-09-14",
   "bytes": 22679,
   "sha256": "fab0192400d95c42f29372ec10d5e60ae235c873663e30bd28a2f1e8986e6d57",
-  "reuse_status": "Official promotional artwork from the show's public listing; no separate reuse license identified. Site display with credit only."
+  "reuse_status": "Official promotional artwork from the show's public listing; no separate reuse license identified. Site display with credit only.",
+  "archived": true
  },
  {
   "event_id": "a-drinking-game-nyc-2026-09-18",
@@ -852,7 +853,7 @@
  },
  {
   "event_id": "facts-machine-caveat-2026-09-17",
-  "src": "/assets/posters/facts-machine-caveat-2026-09-17.jpg",
+  "src": "/assets/posters/archive/facts-machine-caveat-2026-09-17.jpg",
   "width": 940,
   "height": 470,
   "source_url": "https://www.eventbrite.com/e/facts-machine-science-comedy-trivia-tickets-1987082512285",
@@ -863,7 +864,8 @@
   "retrieved_at": "2026-09-16",
   "bytes": 34498,
   "sha256": "TBD",
-  "reuse_status": "Official promotional artwork from the show's Eventbrite listing; no separate reuse license identified. Site display with credit only."
+  "reuse_status": "Official promotional artwork from the show's Eventbrite listing; no separate reuse license identified. Site display with credit only.",
+  "archived": true
  },
  {
   "event_id": "spell-checc-littlefield-2026-09-20",

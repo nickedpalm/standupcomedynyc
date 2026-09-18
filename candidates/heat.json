@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-17T09:28:56.999Z",
+ "generated_at": "2026-09-18T09:27:35.559Z",
  "note": "Demand signals for the editor. Only availability and second shows set the public demand tag.",
  "picks": [
   {
@@ -14,16 +14,16 @@
    "performer": "Taylor Tomlinson",
    "wikipedia": {
     "title": "Taylor Tomlinson",
-    "views_30d": 42324,
-    "views_prior_30d": 31544,
-    "change": 34
+    "views_30d": 44383,
+    "views_prior_30d": 31305,
+    "change": 42
    },
    "reddit": null,
    "reasons": [
     "sold out on the ticket page",
     "a second show the same night at the same room",
     "6 listings this month",
-    "Wikipedia: 1411 views a day"
+    "Wikipedia: 1479 views a day"
    ]
   },
   {
@@ -38,16 +38,16 @@
    "performer": "Taylor Tomlinson",
    "wikipedia": {
     "title": "Taylor Tomlinson",
-    "views_30d": 42324,
-    "views_prior_30d": 31544,
-    "change": 34
+    "views_30d": 44383,
+    "views_prior_30d": 31305,
+    "change": 42
    },
    "reddit": null,
    "reasons": [
     "sold out on the ticket page",
     "a second show the same night at the same room",
     "6 listings this month",
-    "Wikipedia: 1411 views a day"
+    "Wikipedia: 1479 views a day"
    ]
   },
   {
@@ -78,14 +78,14 @@
    "performer": "Kanan Gill",
    "wikipedia": {
     "title": "Kanan Gill",
-    "views_30d": 6335,
-    "views_prior_30d": 5643,
-    "change": 12
+    "views_30d": 6261,
+    "views_prior_30d": 5681,
+    "change": 10
    },
    "reddit": null,
    "reasons": [
     "a second show the same night at the same room",
-    "Wikipedia: 211 views a day"
+    "Wikipedia: 209 views a day"
    ]
   },
   {
@@ -100,14 +100,36 @@
    "performer": "Kanan Gill",
    "wikipedia": {
     "title": "Kanan Gill",
-    "views_30d": 6335,
-    "views_prior_30d": 5643,
-    "change": 12
+    "views_30d": 6261,
+    "views_prior_30d": 5681,
+    "change": 10
    },
    "reddit": null,
    "reasons": [
     "a second show the same night at the same room",
-    "Wikipedia: 211 views a day"
+    "Wikipedia: 209 views a day"
+   ]
+  },
+  {
+   "id": "nycf-joanne-mcnally-town-hall-2026-11-07",
+   "title": "Joanne McNally: Pinotphile",
+   "venue": "The Town Hall",
+   "date": "2026-11-07",
+   "heat": 35,
+   "demand": null,
+   "availability": null,
+   "second_show": false,
+   "performer": "Joanne McNally",
+   "wikipedia": {
+    "title": "Joanne McNally",
+    "views_30d": 40629,
+    "views_prior_30d": 27075,
+    "change": 50
+   },
+   "reddit": null,
+   "reasons": [
+    "Wikipedia: 1354 views a day",
+    "Wikipedia views up 50% over the prior month"
    ]
   },
   {
@@ -122,13 +144,13 @@
    "performer": "Michelle Buteau",
    "wikipedia": {
     "title": "Michelle Buteau",
-    "views_30d": 40342,
-    "views_prior_30d": 55158,
-    "change": -27
+    "views_30d": 38839,
+    "views_prior_30d": 55108,
+    "change": -30
    },
    "reddit": null,
    "reasons": [
-    "Wikipedia: 1345 views a day"
+    "Wikipedia: 1295 views a day"
    ]
   },
   {
@@ -143,13 +165,13 @@
    "performer": "Michelle Buteau",
    "wikipedia": {
     "title": "Michelle Buteau",
-    "views_30d": 40342,
-    "views_prior_30d": 55158,
-    "change": -27
+    "views_30d": 38839,
+    "views_prior_30d": 55108,
+    "change": -30
    },
    "reddit": null,
    "reasons": [
-    "Wikipedia: 1345 views a day"
+    "Wikipedia: 1295 views a day"
    ]
   },
   {
@@ -164,13 +186,13 @@
    "performer": "Chelsea Handler",
    "wikipedia": {
     "title": "Chelsea Handler",
-    "views_30d": 48212,
-    "views_prior_30d": 54454,
-    "change": -11
+    "views_30d": 51439,
+    "views_prior_30d": 54982,
+    "change": -6
    },
    "reddit": null,
    "reasons": [
-    "Wikipedia: 1607 views a day"
+    "Wikipedia: 1715 views a day"
    ]
   },
   {
@@ -185,13 +207,13 @@
    "performer": "Marc Maron",
    "wikipedia": {
     "title": "Marc Maron",
-    "views_30d": 32886,
-    "views_prior_30d": 29654,
+    "views_30d": 33012,
+    "views_prior_30d": 29615,
     "change": 11
    },
    "reddit": null,
    "reasons": [
-    "Wikipedia: 1096 views a day"
+    "Wikipedia: 1100 views a day"
    ]
   },
   {
@@ -206,34 +228,13 @@
    "performer": "Ilana Glazer",
    "wikipedia": {
     "title": "Ilana Glazer",
-    "views_30d": 30400,
-    "views_prior_30d": 29196,
-    "change": 4
+    "views_30d": 30169,
+    "views_prior_30d": 29279,
+    "change": 3
    },
    "reddit": null,
    "reasons": [
-    "Wikipedia: 1013 views a day"
-   ]
-  },
-  {
-   "id": "nycf-joanne-mcnally-town-hall-2026-11-07",
-   "title": "Joanne McNally: Pinotphile",
-   "venue": "The Town Hall",
-   "date": "2026-11-07",
-   "heat": 20,
-   "demand": null,
-   "availability": null,
-   "second_show": false,
-   "performer": "Joanne McNally",
-   "wikipedia": {
-    "title": "Joanne McNally",
-    "views_30d": 39953,
-    "views_prior_30d": 26986,
-    "change": 48
-   },
-   "reddit": null,
-   "reasons": [
-    "Wikipedia: 1332 views a day"
+    "Wikipedia: 1006 views a day"
    ]
   },
   {
@@ -248,13 +249,13 @@
    "performer": "Maria Bamford",
    "wikipedia": {
     "title": "Maria Bamford",
-    "views_30d": 24984,
-    "views_prior_30d": 21160,
+    "views_30d": 24968,
+    "views_prior_30d": 21243,
     "change": 18
    },
    "reddit": null,
    "reasons": [
-    "Wikipedia: 833 views a day"
+    "Wikipedia: 832 views a day"
    ]
   },
   {
@@ -269,13 +270,13 @@
    "performer": "Asif Ali",
    "wikipedia": {
     "title": "Asif Ali (comedian)",
-    "views_30d": 8395,
-    "views_prior_30d": 6087,
-    "change": 38
+    "views_30d": 8258,
+    "views_prior_30d": 6212,
+    "change": 33
    },
    "reddit": null,
    "reasons": [
-    "Wikipedia: 280 views a day"
+    "Wikipedia: 275 views a day"
    ]
   },
   {
@@ -290,13 +291,13 @@
    "performer": "Johnny Pemberton",
    "wikipedia": {
     "title": "Johnny Pemberton",
-    "views_30d": 23133,
-    "views_prior_30d": 19143,
-    "change": 21
+    "views_30d": 23189,
+    "views_prior_30d": 18835,
+    "change": 23
    },
    "reddit": null,
    "reasons": [
-    "Wikipedia: 771 views a day"
+    "Wikipedia: 773 views a day"
    ]
   },
   {
@@ -311,13 +312,13 @@
    "performer": "Brad Williams",
    "wikipedia": {
     "title": "Brad Williams (comedian)",
-    "views_30d": 12846,
-    "views_prior_30d": 15493,
-    "change": -17
+    "views_30d": 12786,
+    "views_prior_30d": 15507,
+    "change": -18
    },
    "reddit": null,
    "reasons": [
-    "Wikipedia: 428 views a day"
+    "Wikipedia: 426 views a day"
    ]
   },
   {
@@ -332,13 +333,13 @@
    "performer": "Kathy Griffin",
    "wikipedia": {
     "title": "Kathy Griffin",
-    "views_30d": 29519,
-    "views_prior_30d": 30091,
-    "change": -2
+    "views_30d": 29447,
+    "views_prior_30d": 29674,
+    "change": -1
    },
    "reddit": null,
    "reasons": [
-    "Wikipedia: 984 views a day"
+    "Wikipedia: 982 views a day"
    ]
   },
   {
@@ -353,13 +354,13 @@
    "performer": "Daniel Sloss",
    "wikipedia": {
     "title": "Daniel Sloss",
-    "views_30d": 19344,
-    "views_prior_30d": 17969,
-    "change": 8
+    "views_30d": 19488,
+    "views_prior_30d": 18172,
+    "change": 7
    },
    "reddit": null,
    "reasons": [
-    "Wikipedia: 645 views a day"
+    "Wikipedia: 650 views a day"
    ]
   },
   {
@@ -374,13 +375,13 @@
    "performer": "Adam Ray",
    "wikipedia": {
     "title": "Adam Ray",
-    "views_30d": 17931,
-    "views_prior_30d": 20539,
-    "change": -13
+    "views_30d": 17566,
+    "views_prior_30d": 20693,
+    "change": -15
    },
    "reddit": null,
    "reasons": [
-    "Wikipedia: 598 views a day"
+    "Wikipedia: 586 views a day"
    ]
   },
   {
@@ -395,47 +396,14 @@
    "performer": "Jess Hilarious",
    "wikipedia": {
     "title": "Jess Hilarious",
-    "views_30d": 9477,
-    "views_prior_30d": 11901,
-    "change": -20
+    "views_30d": 9485,
+    "views_prior_30d": 11713,
+    "change": -19
    },
    "reddit": null,
    "reasons": [
     "Wikipedia: 316 views a day"
    ]
-  },
-  {
-   "id": "it-is-good-to-be-here-wscc-2026-09-17",
-   "title": "It Is Good To Be Here: Alyssa Wolff and Noah Savage",
-   "venue": "West Side Comedy Club",
-   "date": "2026-09-17",
-   "heat": 0,
-   "demand": null,
-   "availability": null,
-   "second_show": false,
-   "performer": null,
-   "wikipedia": null,
-   "reddit": null,
-   "reasons": []
-  },
-  {
-   "id": "jenny-tian-2026-09-17",
-   "title": "Jenny Tian: Ripe",
-   "venue": "The Bell House",
-   "date": "2026-09-17",
-   "heat": 0,
-   "demand": null,
-   "availability": null,
-   "second_show": false,
-   "performer": "Jenny Tian",
-   "wikipedia": {
-    "title": "Jenny Tian",
-    "views_30d": 3378,
-    "views_prior_30d": 4211,
-    "change": -20
-   },
-   "reddit": null,
-   "reasons": []
   },
   {
    "id": "looking-for-laughs-caveat-2026-09-18",
@@ -507,9 +475,9 @@
    "performer": "Sophie Buddle",
    "wikipedia": {
     "title": "Sophie Buddle",
-    "views_30d": 686,
-    "views_prior_30d": 1343,
-    "change": -49
+    "views_30d": 672,
+    "views_prior_30d": 1367,
+    "change": -51
    },
    "reddit": null,
    "reasons": []
@@ -586,9 +554,9 @@
    "performer": "Josh Sharp",
    "wikipedia": {
     "title": "Josh Sharp",
-    "views_30d": 1148,
-    "views_prior_30d": 1062,
-    "change": 8
+    "views_30d": 1136,
+    "views_prior_30d": 1067,
+    "change": 6
    },
    "reddit": null,
    "reasons": []
@@ -707,9 +675,9 @@
    "performer": "Beth Stelling",
    "wikipedia": {
     "title": "Beth Stelling",
-    "views_30d": 3011,
-    "views_prior_30d": 3377,
-    "change": -11
+    "views_30d": 3481,
+    "views_prior_30d": 3373,
+    "change": 3
    },
    "reddit": null,
    "reasons": []
@@ -786,9 +754,9 @@
    "performer": "Brendan Scannell",
    "wikipedia": {
     "title": "Brendan Scannell",
-    "views_30d": 1514,
-    "views_prior_30d": 1393,
-    "change": 9
+    "views_30d": 1503,
+    "views_prior_30d": 1397,
+    "change": 8
    },
    "reddit": null,
    "reasons": []
@@ -819,9 +787,9 @@
    "performer": "Phoebe Robinson",
    "wikipedia": {
     "title": "Phoebe Robinson",
-    "views_30d": 3129,
-    "views_prior_30d": 3479,
-    "change": -10
+    "views_30d": 3084,
+    "views_prior_30d": 3494,
+    "change": -12
    },
    "reddit": null,
    "reasons": []
@@ -908,9 +876,9 @@
    "performer": "Molly Kearney",
    "wikipedia": {
     "title": "Molly Kearney",
-    "views_30d": 4919,
-    "views_prior_30d": 5442,
-    "change": -10
+    "views_30d": 5037,
+    "views_prior_30d": 5430,
+    "change": -7
    },
    "reddit": null,
    "reasons": []
@@ -1179,9 +1147,9 @@
    "performer": "Sydnee Washington",
    "wikipedia": {
     "title": "Sydnee Washington",
-    "views_30d": 1895,
-    "views_prior_30d": 1866,
-    "change": 2
+    "views_30d": 1897,
+    "views_prior_30d": 1837,
+    "change": 3
    },
    "reddit": null,
    "reasons": []
@@ -1352,9 +1320,9 @@
    "performer": "Difficult People",
    "wikipedia": {
     "title": "Difficult People",
-    "views_30d": 5508,
-    "views_prior_30d": 5679,
-    "change": -3
+    "views_30d": 5443,
+    "views_prior_30d": 5687,
+    "change": -4
    },
    "reddit": null,
    "reasons": []
@@ -1553,9 +1521,9 @@
    "performer": "Josh Sharp",
    "wikipedia": {
     "title": "Josh Sharp",
-    "views_30d": 1148,
-    "views_prior_30d": 1062,
-    "change": 8
+    "views_30d": 1136,
+    "views_prior_30d": 1067,
+    "change": 6
    },
    "reddit": null,
    "reasons": []
@@ -1565,22 +1533,6 @@
    "title": "Comedians Interview Experts: Consciousness with Asher Perlman and Weiji Ma",
    "venue": "Caveat",
    "date": "2026-09-20",
-   "heat": 0,
-   "demand": null,
-   "availability": "InStock",
-   "second_show": false,
-   "performer": null,
-   "wikipedia": null,
-   "reddit": null,
-   "reasons": [
-    "tickets available"
-   ]
-  },
-  {
-   "id": "facts-machine-caveat-2026-09-17",
-   "title": "Facts Machine: Science, Comedy & Trivia!",
-   "venue": "Caveat",
-   "date": "2026-09-17",
    "heat": 0,
    "demand": null,
    "availability": "InStock",
