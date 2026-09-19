@@ -13,7 +13,7 @@ Six weeks ahead from the board. Regenerated on every build; edit the data, not t
 
 Ranked 39; run 2, reuse 6, skip 31; ~333,000 tokens saved. No recent data: Sophie Buddle, Josh Sharp.
 
-## Week 1: Sep 19 to Sep 25 — 22 picks — 5 without artwork · 19 Eventbrite leads not yet reviewed
+## Week 1: Sep 19 to Sep 25 — 27 picks — 5 without artwork · 22 Eventbrite leads not yet reviewed
 
 - Sat Sep 19 5pm · doors 4pm — **Jokes & Jranks Live with Justin Lamar** at Comedy In Harlem
 - Sat Sep 19 5pm · doors 4:30pm — **Taylor Tomlinson: Tries Out New Ideas** at Union Hall · SOLD OUT · heat 100
@@ -28,11 +28,16 @@ Ranked 39; run 2, reuse 6, skip 31; ~333,000 tokens saved. No recent data: Sophi
 - Sun Sep 20 5pm — **James Tom Does A New Show, Casual Style** at Union Hall · SOLD OUT · heat 100
 - Sun Sep 20 7:30pm — **Comedians Interview Experts: Consciousness with Asher Perlman and Weiji Ma** at Caveat
 - Sun Sep 20 7:30pm — **Spell Checc: A Spelling Bee Gameshow!** at Littlefield
+- Sun Sep 20 7:30pm · doors 7pm — **Good God** at Union Hall
 - Mon Sep 21 7pm — **And Scene** at Caveat
 - Mon Sep 21 7:30pm — **Climate Town & Amy Westervelt Live** at The Bell House
+- Mon Sep 21 7:30pm · doors 7pm — **Frankenstein's Baby** at Union Hall
 - Mon Sep 21 9:30pm · doors 9pm — **Marcel Lucont's Whine List** at Caveat
 - Tue Sep 22 7pm · doors 6:30pm — **The Bisque: Comedy for Charity** at Caveat
+- Tue Sep 22 7:30pm · doors 7pm — **PRETTY MAJOR Hosted by Jay Jurden** at Union Hall
+- Tue Sep 22 8pm · doors 7pm — **Let's Not Die: Climate Week Edition** at Littlefield
 - Wed Sep 23 7pm — **David Nihill: Taking Tangents Tour** at The Bell House
+- Wed Sep 23 7:30pm · doors 7pm — **Pizzazz with Gary Gulman** at Union Hall
 - Wed Sep 23 8pm · doors 7pm — **WITS END: Jay Jurden vs. Chloe Radcliffe | Comedy Trivia Gameshow** at Littlefield · NO ARTWORK
 - Thu Sep 24 7:30pm — **Vidura Bandara Rajapaksa: The Paradise Gothic Tour** at The Bell House
 - Fri Sep 25 8pm — **Chelsea Handler: The High and Mighty Tour** at Beacon Theatre · NO ARTWORK · heat 20
@@ -44,15 +49,16 @@ Ranked 39; run 2, reuse 6, skip 31; ~333,000 tokens saved. No recent data: Sophi
   - Sat Sep 19 8pm — Tom Van Horn, Elyse Delucci, Connor O'Brien, Mike Yard, & Joe Matarese! at Comic Strip Live · from $25.71 · has artwork
   - Sat Sep 19 10pm — Sophie Buddle at Union Hall · from $25.69 · has artwork
   - Sat Sep 19 10:30pm — Tom Van Horn, Elyse Delucci, Connor O'Brien, Mike Yard, & Joe Matarese! at Comic Strip Live · from $25.71 · has artwork
-  - Sun Sep 20 7:30pm — Good God at Union Hall · from $13.61 · has artwork
   - Sun Sep 20 8pm — DF Sweedler, Jason Choi, Caroline Hanes, Feraz Shere, & Kyle Mara! at Comic Strip Live · from $25.71 · has artwork
   - Mon Sep 21 7:30pm — Slick: The Release Party at Littlefield · from $24.36 · has artwork
+  - Mon Sep 21 8pm — Christian Finnegan! at Comic Strip Live · from $25.71 · has artwork
 
-## Week 2: Sep 26 to Oct 2 — 11 picks — 3 without artwork · 2 Eventbrite leads not yet reviewed
+## Week 2: Sep 26 to Oct 2 — 12 picks — 3 without artwork · 5 Eventbrite leads not yet reviewed
 
 - Sat Sep 26 7pm — **Beth Stelling: Let Me Get Loose** at The Bell House
 - Sat Sep 26 7pm — **We Just Find It Funny Presents: Good Grief!** at Littlefield
 - Sat Sep 26 11pm — **Mike Nasty Presents: NO FILTER!** at Le Poisson Rouge · NO ARTWORK
+- Sun Sep 27 6pm — **Mindy Raf - A (very) Nervous System Special Taping** at Littlefield
 - Sun Sep 27 7:30pm — **Kevin Sullivan** at The Bell House
 - Sun Sep 27 7:30pm — **John Oliver & Seth Meyers** at Beacon Theatre · NO ARTWORK
 - Tue Sep 29 7:30pm — **Michelle Buteau** at The Bell House · heat 20
@@ -65,8 +71,11 @@ Ranked 39; run 2, reuse 6, skip 31; ~333,000 tokens saved. No recent data: Sophi
   Leads to review:
   - Sat Sep 26 8pm — Tom Van Horn, Subhah Agarwal, Don Jamieson, Connor O'Brien, & JJ Ramirez! at Comic Strip Live · from $25.71 · has artwork
   - Sat Sep 26 11pm — Dancehall Forever at Littlefield · from $0 · has artwork
+  - Sun Sep 27 8pm — Upcoming Event! at Comic Strip Live · from $25.71
+  - Sun Sep 27 8:30pm — Mindy Raf - Stand up Special Taping at Littlefield · from $18.71 · has artwork
+  - Wed Sep 30 11pm — Standup Comedy (After Dark) at Kellogg's Diner at Kellogg's Diner · from $5 · has artwork
 
-## Week 3: Oct 3 to Oct 9 — 12 picks — 6 without artwork
+## Week 3: Oct 3 to Oct 9 — 12 picks — 6 without artwork · 1 Eventbrite lead not yet reviewed
 
 - Sat Oct 3 4pm — **Kanan Gill: Not This Again (Matinee)** at The Town Hall · NO ARTWORK · going fast · heat 35
 - Sat Oct 3 6pm — **Comedy Idol (WSCC)** at West Side Comedy Club · NO ARTWORK
@@ -80,6 +89,9 @@ Ranked 39; run 2, reuse 6, skip 31; ~333,000 tokens saved. No recent data: Sophi
 - Thu Oct 8 8pm — **Lisa Wallen Headlines** at Eastville Comedy Club · NO ARTWORK
 - Fri Oct 9 6pm — **Brooklyn Power Hour** at Eastville Comedy Club · NO ARTWORK
 - Fri Oct 9 7:30pm — **Poly Díaz (En Español)** at The Bell House
+
+  Leads to review:
+  - Wed Oct 7 11pm — Standup Comedy (After Dark) at Kellogg's Diner at Kellogg's Diner · from $5 · has artwork
 
 ## Week 4: Oct 10 to Oct 16 — 10 picks — 5 without artwork
 
@@ -111,9 +123,10 @@ Ranked 39; run 2, reuse 6, skip 31; ~333,000 tokens saved. No recent data: Sophi
 - Fri Oct 23 6pm — **Brooklyn Power Hour** at Eastville Comedy Club · NO ARTWORK
 - Fri Oct 23 7:30pm — **Sydnee Washington: My Black Barbie Story** at The Bell House
 
-## Week 6: Oct 24 to Oct 30 — 3 picks — only 3 picks; target 8 · 3 without artwork · weekend is thin
+## Week 6: Oct 24 to Oct 30 — 4 picks — only 4 picks; target 8 · 3 without artwork · weekend is thin
 
 - Sat Oct 24 6pm — **Saturday Night Live Comedy** at Eastville Comedy Club · NO ARTWORK
 - Sun Oct 25 7pm — **ROBYN & "FRIENDS" Comedy Show** at West Side Comedy Club · NO ARTWORK
 - Sun Oct 25 7:30pm — **Sunday Night Comedy** at Eastville Comedy Club · NO ARTWORK
+- Mon Oct 26 7pm — **An Evening with Sarah Silverman: Finding Jewish Joy** at Temple Emanu-El Streicker Center
 
