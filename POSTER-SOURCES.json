@@ -205,7 +205,7 @@
  },
  {
   "event_id": "sophie-buddle-2026-09-18",
-  "src": "/assets/posters/sophie-buddle-2026-09-18.jpg",
+  "src": "/assets/posters/archive/sophie-buddle-2026-09-18.jpg",
   "width": 940,
   "height": 470,
   "source_url": "https://www.eventbrite.com/e/sophie-buddle-tickets-2000526416364",
@@ -216,7 +216,8 @@
   "retrieved_at": "2026-09-14",
   "bytes": 26021,
   "sha256": "49bbbeac0dbfd5c23451868ec907d8854af6e8aaa0d10220d087136dfd8bbf2e",
-  "reuse_status": "Official promotional artwork from the show's Eventbrite page; no separate reuse license identified. Site display with credit only."
+  "reuse_status": "Official promotional artwork from the show's Eventbrite page; no separate reuse license identified. Site display with credit only.",
+  "archived": true
  },
  {
   "event_id": "laugh-union-hall-2026-09-15",
@@ -296,7 +297,7 @@
  },
  {
   "event_id": "looking-for-laughs-caveat-2026-09-18",
-  "src": "/assets/posters/looking-for-laughs-caveat-2026-09-18.jpg",
+  "src": "/assets/posters/archive/looking-for-laughs-caveat-2026-09-18.jpg",
   "width": 940,
   "height": 470,
   "source_url": "https://www.eventbrite.com/e/looking-for-laughs-tickets-1988623047066",
@@ -307,7 +308,8 @@
   "retrieved_at": "2026-09-14",
   "bytes": 43390,
   "sha256": "951eb8530bf4f3d8946196838b7b786b14e28dd93df4d58c17e10c3f2aaab74b",
-  "reuse_status": "Official promotional artwork from the show's public listing; no separate reuse license identified. Site display with credit only."
+  "reuse_status": "Official promotional artwork from the show's public listing; no separate reuse license identified. Site display with credit only.",
+  "archived": true
  },
  {
   "event_id": "stamptown-2026-09-15",
@@ -343,7 +345,7 @@
  },
  {
   "event_id": "a-drinking-game-nyc-2026-09-18",
-  "src": "/assets/posters/a-drinking-game-nyc-2026-09-18.jpg",
+  "src": "/assets/posters/archive/a-drinking-game-nyc-2026-09-18.jpg",
   "width": 640,
   "height": 427,
   "source_url": "https://www.thebellhouseny.com/",
@@ -354,7 +356,8 @@
   "retrieved_at": "2026-09-14",
   "bytes": 38209,
   "sha256": "634508b4d26ea25b03088379996c45ad424bc7470550970e3e898b6add9630c7",
-  "reuse_status": "Official promotional artwork from the show's public listing; no separate reuse license identified. Site display with credit only."
+  "reuse_status": "Official promotional artwork from the show's public listing; no separate reuse license identified. Site display with credit only.",
+  "archived": true
  },
  {
   "event_id": "sam-taggart-2026-09-19",
@@ -478,7 +481,7 @@
  },
  {
   "event_id": "leonard-ouzts-comedy-in-harlem-2026-09-18",
-  "src": "/assets/posters/leonard-ouzts-comedy-in-harlem-2026-09-18.png",
+  "src": "/assets/posters/archive/leonard-ouzts-comedy-in-harlem-2026-09-18.png",
   "width": 600,
   "height": 600,
   "source_url": "https://www.comedyinharlem.com/events/140313",
@@ -489,7 +492,8 @@
   "retrieved_at": "2026-09-14",
   "bytes": 476243,
   "sha256": "f5b2f380e87a5a8fb2150d5d2f9dfb5f29973b75157ac0ec7919772a0fbb1c9c",
-  "reuse_status": "Performer headshot published on the club's event page; no separate reuse license identified. Site display with credit only."
+  "reuse_status": "Performer headshot published on the club's event page; no separate reuse license identified. Site display with credit only.",
+  "archived": true
  },
  {
   "event_id": "jokes-and-jranks-justin-lamar-comedy-in-harlem-2026-09-19",
