@@ -13,7 +13,7 @@ const root = path.join(__dirname, '..');
 const out = path.join(root, 'candidates', 'perplexity-leads.json');
 const read = (f) => JSON.parse(fs.readFileSync(path.join(root, 'web', 'data', f), 'utf8'));
 const venues = read('venues.json'), picks = read('picks.json'), rooms = read('recurring.json'), mics = read('open-mics.json');
-const holdouts = JSON.stringify(JSON.parse(fs.readFileSync(path.join(root, 'editorial', 'holdouts.json'), 'utf8'))).toLowerCase();
+const holdouts = JSON.parse(fs.readFileSync(path.join(root, 'editorial', 'holdouts.json'), 'utf8')).holdouts.map((h) => h.name.toLowerCase());
 const month = new Intl.DateTimeFormat('en-US', { timeZone: 'America/New_York', month: 'long', year: 'numeric' }).format(new Date());
 const SHAPE = 'Return JSON only, no prose: an array of objects {"name","kind","where","handle_or_url","detail","evidence_url","source_year"}. "kind" is one of producer, comic, show, venue, newsletter, account, event. "where" is the venue and neighborhood if known, else null. "detail" is one sentence of fact from the source (day of week, price, date, what they book). "evidence_url" is the article or page you took it from. "source_year" is the year that page was published or last updated (a number, or null if unknown). Name the specific show, person or account, never the general programming of a venue. Leave out anything you cannot tie to a source. New York City only.';
 const QUESTIONS = [
@@ -27,7 +27,7 @@ const norm = (s) => String(s || '').toLowerCase().replace(/[^a-z0-9 ]+/g, ' ').r
 const known = { venue: venues.map((v) => norm(v.name)), show: [...rooms, ...mics, ...picks].map((r) => norm(r.title)), text: norm(JSON.stringify(picks.map((p) => [p.title, p.description]))) };
 function status(lead) {
   const n = norm(lead.name); if (!n) return 'unnamed';
-  if (holdouts.includes(String(lead.name).toLowerCase())) return 'holdout';
+  const all = [lead.name, lead.detail, lead.where, lead.handle_or_url].join(' ').toLowerCase(); if (holdouts.some((h) => all.includes(h))) return 'holdout';
   if (lead.source_year && Number(lead.source_year) < 2025) return 'stale source';
   if (/\b(closed|closing|shut|shuttered)\b/i.test(lead.detail || '')) return 'closed';
   if (known.venue.some((v) => v && n.replace(/ (shows?|comedy shows?)$/, '') === v)) return 'known venue';
@@ -55,6 +55,7 @@ async function ask(q) {
   }
   const seen = new Set(); const unique = leads.filter((l) => { const k = norm(l.name); if (seen.has(k)) return false; seen.add(k); return true; });
   const order = { new: 0, 'at known venue': 1, 'named in a pick': 2, 'known venue': 3, 'already listed': 4, 'stale source': 5, closed: 5, unnamed: 6, holdout: 7 };
+  for (const l of unique) if (l.status === 'holdout') { l.detail = null; l.handle_or_url = null; }
   unique.sort((a, b) => order[a.status] - order[b.status]);
   fs.writeFileSync(out, JSON.stringify({ retrieved_at: new Date().toISOString(), note: 'Perplexity Sonar round-up leads. Unverified and sometimes wrong: confirm on the venue, ticket or producer page before use. Holdout names are flagged, never listed.', estimated_cost_usd: Number(cost.toFixed(4)), leads: unique, sources, errors }, null, 1) + '\n');
   const count = (s) => unique.filter((l) => l.status === s).length;

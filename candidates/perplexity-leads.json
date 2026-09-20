@@ -394,10 +394,10 @@
    "kind": "show",
    "where": "The Town Hall, Midtown",
    "handle_or_url": null,
-   "detail": "Ben Bankas headlines a stand-up show at Town Hall on Thursday, November 12, 2026 at 7:00 PM as part of the New York Comedy Festival.",
+   "detail": null,
    "evidence_url": "https://abc7ny.com/post/2026-new-york-comedy-festival-returns-nyc-200-comedians-100-shows-november/19499323/",
    "source_year": 2026,
-   "status": "new"
+   "status": "holdout"
   },
   {
    "question": "announced-dates",
@@ -405,10 +405,10 @@
    "kind": "show",
    "where": "The Town Hall, Midtown",
    "handle_or_url": null,
-   "detail": "Adam Friedland headlines Town Hall on Friday, November 13, 2026 at 7:00 PM as part of the New York Comedy Festival.",
+   "detail": null,
    "evidence_url": "https://abc7ny.com/post/2026-new-york-comedy-festival-returns-nyc-200-comedians-100-shows-november/19499323/",
    "source_year": 2026,
-   "status": "new"
+   "status": "holdout"
   },
   {
    "question": "announced-dates",

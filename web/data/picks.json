@@ -2523,5 +2523,26 @@
   "tier": "special",
   "demand": null,
   "demand_checked": "2026-09-20"
+ },
+ {
+  "id": "mark-simmons-jest-to-impress-soho-playhouse-2026-10-27",
+  "title": "Mark Simmons: Jest to Impress",
+  "date": "2026-10-27",
+  "starts_at": "2026-10-27T19:00:00-04:00",
+  "ends_at": "2026-10-27T20:00:00-04:00",
+  "end_time_confirmed": true,
+  "time_label": "7pm · 60 minutes",
+  "venue": "SoHo Playhouse",
+  "neighborhood": "SoHo",
+  "price_amount": null,
+  "price_label": "$34.50 with fees",
+  "ticket_url": "https://ci.ovationtix.com/35583/production/1280299",
+  "source_url": "https://www.sohoplayhouse.com/see-a-show/mark-simmons-jest-to-impress",
+  "verified_at": "2026-09-20",
+  "description": "Mark Simmons, the British one-liner comic whose gag won Dave’s Funniest Joke of the Fringe in 2024, brings a new hour to SoHo Playhouse for a short run through Oct 28. Go for sixty minutes of built jokes from one writer instead of a showcase, and you are out by 8.",
+  "featured": false,
+  "tier": "special",
+  "demand": null,
+  "demand_checked": "2026-09-20"
  }
 ]
