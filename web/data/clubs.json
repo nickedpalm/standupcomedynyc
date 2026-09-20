@@ -16,7 +16,7 @@
   "calendar_url": "https://www.comedycellar.com/reservations-newyork/",
   "source_url": "https://www.comedycellar.com/reservations-newyork/",
   "source_label": "Reservations page",
-  "verified_at": "2026-09-11",
+  "verified_at": "2026-09-20",
   "verification_note": "Prices, minimum, age and party limits from the reservations page; addresses from the contact page."
  },
  {
@@ -56,7 +56,7 @@
   "calendar_url": "https://newyorkcomedyclub.com/",
   "source_url": "https://newyorkcomedyclub.com/pages/faq",
   "source_label": "FAQ",
-  "verified_at": "2026-09-11",
+  "verified_at": "2026-09-20",
   "verification_note": "Minimum, age and seating from the club FAQ. Ticket prices not stated there."
  },
  {
@@ -76,7 +76,7 @@
   "calendar_url": "https://gothamcomedyclub.com/calendar/",
   "source_url": "https://gothamcomedyclub.com/purchase-policy/",
   "source_label": "Purchase policy",
-  "verified_at": "2026-09-11",
+  "verified_at": "2026-09-20",
   "verification_note": "Minimum, age, arrival and ID rules from the purchase policy page. Price range from one listed event; varies."
  },
  {
@@ -96,7 +96,7 @@
   "calendar_url": "https://standupny.com/",
   "source_url": "https://standupny.com/faq/",
   "source_label": "FAQ",
-  "verified_at": "2026-09-11",
+  "verified_at": "2026-09-20",
   "verification_note": "Minimum, age, arrival and ticket tiers from the FAQ. Ticket prices not stated there."
  },
  {
@@ -136,7 +136,7 @@
   "calendar_url": "https://www.broadwaycomedyclub.com/",
   "source_url": "https://www.broadwaycomedyclub.com/about",
   "source_label": "About page",
-  "verified_at": "2026-09-11",
+  "verified_at": "2026-09-20",
   "verification_note": "Address and rooms from the site; no policy page found. Minimum seen only on individual show flyers."
  },
  {

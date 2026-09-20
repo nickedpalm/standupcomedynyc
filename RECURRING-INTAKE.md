@@ -386,3 +386,15 @@ All 24 remaining rows stamped 2026-09-14 were re-read on their pages (headless C
 - **Crash Landing Comedy (Red Eye)**: source was a stale Jan 12 event page; now the venue's events page, which still lists it under Mondays with host Ashley Ryan. No dated listing, so treat as lightly confirmed.
 - **Pulled, pending proof**: Third Thursdays with Smokey Suarez (Comedy In Harlem) has no listing anywhere on the club's site through Nov 28, and its old event URL now serves a different show. Sunday Open Mic at Brooklyn Art Haus is not on the Shows & Events page the row cited (it is on Badslava, which is a lead, not a source). Re-add either only from a current page that names it.
 - **Standing lesson**: Comedy In Harlem recycles numeric /events/{id} URLs, and BK Made and Red Eye event pages are per-date. For recurring rows, cite the series or calendar page, read the list of upcoming dates rather than a tagline, and credit a host only if a current page names them.
+
+## 2026-09-20 — audit of the Sep 11–12 rows (Claude, at Nick's request)
+
+19 rows re-read on their pages: 5 recurring, 9 open mics, 5 clubs. 17 matched on day, time, price, minimum, age and address and are re-stamped, including Comedy Cellar, NYCC, Gotham, Stand Up NY and Broadway Comedy Club policy facts, all three SoHo Playhouse mics, both NYCC mic rows, QED and both Bomb Shelter nights.
+
+- **Weirdos: A Character Mic (BCC)** is monthly, not weekly: the schedule through Oct 27 lists it once, Fri Oct 9, four weeks after Sep 11. Cadence changed; watch whether November lands on the second Friday before writing "2nd Friday".
+- **Tiny Cupboard mics** are not uniformly 11pm: the Weekly Host Schedule shows 11pm Sun–Wed, 11:15pm Thu, 11:59pm Fri and Sat.
+- **Bitches' Brew** is free on its Eventbrite listing; price filled in.
+- Faculty Lounge and Eiffel Tower Mic cited single dated BCC pages; all three BCC rows now cite the show schedule.
+- For awareness: NYCC's FAQ now mentions a fourth room in Stamford, CT. Out of scope for the site; the "three clubs" line stands for New York.
+
+Every recurring, open-mic and club row is now stamped 2026-09-15 or later.

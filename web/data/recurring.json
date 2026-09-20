@@ -13,9 +13,9 @@
   "price_amount": null,
   "format": "Stand-up",
   "description": "BCC's Sunday-night stand-up: a rotating lineup of house favorites plus one wild-card spot for a past regular. 35 seats, then standing room. 21+.",
-  "source_url": "https://www.brooklyncc.com/show-schedule/facultylounge-9-20",
-  "source_label": "BCC show page",
-  "verified_at": "2026-09-12",
+  "source_url": "https://www.brooklyncc.com/show-schedule",
+  "source_label": "BCC show schedule",
+  "verified_at": "2026-09-20",
   "verification_note": "Show page (facultylounge-9-20) is authoritative: Sundays, doors 8:15pm, show 8:30pm at Eris Deep Space. BCC's overview page still files it under Thursdays; that listing is stale, not the show."
  },
  {
@@ -110,7 +110,7 @@
   "description": "Free Wednesday stand-up in the back room at Young Ethel's, hosted by Zach Sims and Dan Wilbur. Get there for doors; the room fills.",
   "source_url": "https://www.eventbrite.com/e/we-have-fun-a-weekly-stand-up-show-tickets-208767317667",
   "source_label": "Eventbrite listing",
-  "verified_at": "2026-09-11",
+  "verified_at": "2026-09-20",
   "verification_note": "Eventbrite listing states weekly on Wednesdays, doors 7:15pm, free. Brooklyn Paper listing corroborates through Dec 16."
  },
  {
@@ -186,7 +186,7 @@
   "description": "No cover, no minimum, in a Hell's Kitchen bar that books comics with TV credits more often than a free show has any right to. Twice a week: Thursday at 8, Saturday at 9.",
   "source_url": "https://www.eventbrite.com/e/bomb-shelter-comedy-no-cover-tickets-147931259379",
   "source_label": "Eventbrite listing",
-  "verified_at": "2026-09-11",
+  "verified_at": "2026-09-20",
   "verification_note": "Eventbrite listing states Thursdays 8pm and Saturdays 9pm, free, no minimum. Specific upcoming dates not shown on the listing."
  },
  {
@@ -256,13 +256,13 @@
   "venue": "Halyard's",
   "address": "406 3rd Ave, Brooklyn",
   "neighborhood": "Gowanus",
-  "price_label": "See listing for price",
-  "price_amount": null,
+  "price_label": "Free",
+  "price_amount": 0,
   "format": "Stand-up",
   "description": "Five years of Friday nights in Halyard's back room. Naomi Karavani, Sabeen Sadiq, Blair Dawson and Andrea Allan produce a lineup that leans on working comics.",
   "source_url": "https://www.eventbrite.com/o/bitches-brew-32323184465",
   "source_label": "Organizer page",
-  "verified_at": "2026-09-11",
+  "verified_at": "2026-09-20",
   "verification_note": "Organizer page states every Friday 8:30pm at Halyard's. Price not shown; confirm on the dated listing."
  },
  {
@@ -376,7 +376,7 @@
   "description": "No cover, no minimum, in a Hell's Kitchen bar that books comics with TV credits more often than a free show has any right to. Twice a week: Thursday at 8, Saturday at 9.",
   "source_url": "https://www.eventbrite.com/e/bomb-shelter-comedy-no-cover-tickets-147931259379",
   "source_label": "Eventbrite listing",
-  "verified_at": "2026-09-11",
+  "verified_at": "2026-09-20",
   "verification_note": "Eventbrite listing states Thursdays 8pm and Saturdays 9pm, free, no minimum. Specific upcoming dates not shown on the listing."
  },
  {

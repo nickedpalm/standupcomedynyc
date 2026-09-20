@@ -15,16 +15,16 @@
   "formats": "Stand-up, characters, clown, music",
   "age": "21+",
   "notes": "Hosted by Audrey Garrett, Ben Jenkins and Jack Walz. No bigoted material.",
-  "source_url": "https://www.brooklyncc.com/show-schedule/eiffel-tower-mic-9-15",
-  "source_label": "BCC page",
-  "verified_at": "2026-09-11"
+  "source_url": "https://www.brooklyncc.com/show-schedule",
+  "source_label": "BCC show schedule",
+  "verified_at": "2026-09-20"
  },
  {
   "id": "weirdos-character-mic",
   "tier": "open-mic",
   "title": "Weirdos: A Character Mic",
   "weekday": 5,
-  "cadence": "Fridays (check calendar)",
+  "cadence": "Monthly on a Friday · next Oct 9 (check calendar)",
   "time_label": "7pm · doors 6:45pm",
   "venue": "BCC Pig Pen",
   "address": "144 Boerum St, Brooklyn",
@@ -35,9 +35,9 @@
   "formats": "Character pieces only",
   "age": "18+",
   "notes": "Hosted by Alise Morales and Jetta Juriansz. BCC's pages disagree on the weekday; the mic's own page says Friday.",
-  "source_url": "https://www.brooklyncc.com/show-schedule/pigpen/weirdosmic-9-11",
-  "source_label": "BCC page",
-  "verified_at": "2026-09-11"
+  "source_url": "https://www.brooklyncc.com/show-schedule",
+  "source_label": "BCC show schedule",
+  "verified_at": "2026-09-20"
  },
  {
   "id": "cuckoos-soho-playhouse",
@@ -57,7 +57,7 @@
   "notes": null,
   "source_url": "https://www.sohoplayhouse.com/open-mics",
   "source_label": "Venue page",
-  "verified_at": "2026-09-11"
+  "verified_at": "2026-09-20"
  },
  {
   "id": "thursday-night-mic-soho-playhouse",
@@ -77,7 +77,7 @@
   "notes": null,
   "source_url": "https://www.sohoplayhouse.com/open-mics",
   "source_label": "Venue page",
-  "verified_at": "2026-09-11"
+  "verified_at": "2026-09-20"
  },
  {
   "id": "lifeboat-mic-soho-playhouse",
@@ -97,7 +97,7 @@
   "notes": "A daytime mic.",
   "source_url": "https://www.sohoplayhouse.com/open-mics",
   "source_label": "Venue page",
-  "verified_at": "2026-09-11"
+  "verified_at": "2026-09-20"
  },
  {
   "id": "nycc-midtown-mics",
@@ -117,7 +117,7 @@
   "notes": "The club calls this location Midtown. Updates on Instagram @openmicsnewyorkcomedyclub.",
   "source_url": "https://newyorkcomedyclub.com/open-mic",
   "source_label": "Club page",
-  "verified_at": "2026-09-11"
+  "verified_at": "2026-09-20"
  },
  {
   "id": "nycc-east-village-mics",
@@ -137,7 +137,7 @@
   "notes": null,
   "source_url": "https://newyorkcomedyclub.com/open-mic",
   "source_label": "Club page",
-  "verified_at": "2026-09-11"
+  "verified_at": "2026-09-20"
  },
  {
   "id": "qed-astoria-mics",
@@ -157,15 +157,15 @@
   "notes": "Also a Ladies' Mic on Sundays 8:30pm and a poetry mic the first Saturday at 3pm.",
   "source_url": "https://qedastoria.com/collections/open-mic-nights",
   "source_label": "Venue page",
-  "verified_at": "2026-09-11"
+  "verified_at": "2026-09-20"
  },
  {
   "id": "tiny-cupboard-mics",
   "tier": "open-mic",
   "title": "The Tiny Cupboard late mics",
   "weekday": 1,
-  "cadence": "Nightly, around 11pm",
-  "time_label": "11pm–midnight",
+  "cadence": "Nightly · 11pm Sun–Wed · 11:15pm Thu · 11:59pm Fri & Sat",
+  "time_label": null,
   "venue": "The Tiny Cupboard",
   "address": "10 Cooper St, Brooklyn",
   "neighborhood": "Bushwick",
@@ -177,7 +177,7 @@
   "notes": "Tuesday is Pandamonium, hosted by Shubh Panda. Free set tape by text.",
   "source_url": "https://tinycupboardgames.com/open-mic",
   "source_label": "Venue page",
-  "verified_at": "2026-09-11"
+  "verified_at": "2026-09-20"
  },
  {
   "id": "funny-lines-open-mic-comedy-in-harlem",
