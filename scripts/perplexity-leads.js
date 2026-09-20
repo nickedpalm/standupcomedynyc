@@ -15,10 +15,10 @@ const read = (f) => JSON.parse(fs.readFileSync(path.join(root, 'web', 'data', f)
 const venues = read('venues.json'), picks = read('picks.json'), rooms = read('recurring.json'), mics = read('open-mics.json');
 const holdouts = JSON.stringify(JSON.parse(fs.readFileSync(path.join(root, 'editorial', 'holdouts.json'), 'utf8'))).toLowerCase();
 const month = new Intl.DateTimeFormat('en-US', { timeZone: 'America/New_York', month: 'long', year: 'numeric' }).format(new Date());
-const SHAPE = 'Return JSON only, no prose: an array of objects {"name","kind","where","handle_or_url","detail","evidence_url"}. "kind" is one of producer, comic, show, venue, newsletter, account, event. "where" is the venue and neighborhood if known, else null. "detail" is one sentence of fact from the source (day of week, price, date, what they book). "evidence_url" is the article or page you took it from. Leave out anything you cannot tie to a source. New York City only.';
+const SHAPE = 'Return JSON only, no prose: an array of objects {"name","kind","where","handle_or_url","detail","evidence_url","source_year"}. "kind" is one of producer, comic, show, venue, newsletter, account, event. "where" is the venue and neighborhood if known, else null. "detail" is one sentence of fact from the source (day of week, price, date, what they book). "evidence_url" is the article or page you took it from. "source_year" is the year that page was published or last updated (a number, or null if unknown). Name the specific show, person or account, never the general programming of a venue. Leave out anything you cannot tie to a source. New York City only.';
 const QUESTIONS = [
-  { id: 'who-to-follow', ask: `Articles and round-ups from the last 12 months on who to follow to keep up with New York City stand-up comedy: independent show producers, bookers, newsletters, Instagram accounts and podcasts that announce live shows. Up to 20.` },
-  { id: 'rising-comics', ask: `New York City based stand-up comics named in "comics to watch", "new faces" or "best of" lists in the last 12 months (Vulture, Just For Laughs New Faces, Time Out New York, Brooklyn Magazine, The Comic's Comic, Paste). Give the list each name came from. Up to 25.` },
+  { id: 'who-to-follow', ask: `Independent stand-up show producers, bookers and production companies in New York City who run their own live shows and announce them on Instagram or a newsletter (for example the people behind bar shows, rooftop shows, backyard shows and themed showcases). Give the Instagram handle or site and the show they run. Not podcasts, not national media. Up to 25.` },
+  { id: 'rising-comics', ask: `Name individual New York City based stand-up comics who were singled out in 2025 or 2026: Just For Laughs New Faces, Vulture "Comedians You Should and Will Know", Time Out New York comics to watch, New York Comedy Festival "New York's Funniest" finalists, Netflix or Comedy Central debut specials and late-night stand-up debuts. One comic per row, with the list or credit in "detail". Up to 30.` },
   { id: 'independent-shows', ask: `Independent recurring stand-up shows in New York City bars, backrooms, bookstores and small theaters (not the big comedy clubs) recommended in articles or listings in the last 12 months. Include the night of the week and the venue. Up to 25.` },
   { id: 'new-rooms', ask: `Comedy venues, rooms or recurring comedy nights that opened, moved or closed in New York City in the last 12 months. Up to 15.` },
   { id: 'announced-dates', ask: `Stand-up comedy events in New York City announced for the next eight weeks from ${month}: touring headliners at theaters, special or album tapings, festival line-ups, one-off benefit shows. Only events with a stated date and a ticket or venue page. Up to 20.` },
@@ -28,6 +28,9 @@ const known = { venue: venues.map((v) => norm(v.name)), show: [...rooms, ...mics
 function status(lead) {
   const n = norm(lead.name); if (!n) return 'unnamed';
   if (holdouts.includes(String(lead.name).toLowerCase())) return 'holdout';
+  if (lead.source_year && Number(lead.source_year) < 2025) return 'stale source';
+  if (/\b(closed|closing|shut|shuttered)\b/i.test(lead.detail || '')) return 'closed';
+  if (known.venue.some((v) => v && n.replace(/ (shows?|comedy shows?)$/, '') === v)) return 'known venue';
   if (known.venue.includes(n) || known.venue.includes(norm(lead.where).split(' ').slice(0, 3).join(' '))) return lead.kind === 'venue' ? 'known venue' : 'at known venue';
   if (known.show.some((t) => t && (t.includes(n) || n.includes(t)))) return 'already listed';
   if (n.length > 5 && known.text.includes(n)) return 'named in a pick';
@@ -46,12 +49,12 @@ async function ask(q) {
   for (const q of QUESTIONS.filter((x) => !only || x.id === only)) {
     try {
       const a = await ask(q); cost += a.cost; sources[q.id] = a.citations;
-      for (const row of a.rows) leads.push({ question: q.id, name: row.name, kind: row.kind || null, where: row.where || null, handle_or_url: row.handle_or_url || null, detail: row.detail || null, evidence_url: row.evidence_url || null, status: status(row) });
+      for (const row of a.rows) leads.push({ question: q.id, name: row.name, kind: row.kind || null, where: row.where || null, handle_or_url: row.handle_or_url || null, detail: row.detail || null, evidence_url: row.evidence_url || null, source_year: Number(row.source_year) || null, status: status(row) });
       console.log(`perplexity-leads: ${q.id} -> ${a.rows.length}`);
     } catch (e) { errors.push(String(e.message || e)); console.error('perplexity-leads: ' + e.message); }
   }
   const seen = new Set(); const unique = leads.filter((l) => { const k = norm(l.name); if (seen.has(k)) return false; seen.add(k); return true; });
-  const order = { new: 0, 'at known venue': 1, 'named in a pick': 2, 'known venue': 3, 'already listed': 4, unnamed: 5, holdout: 6 };
+  const order = { new: 0, 'at known venue': 1, 'named in a pick': 2, 'known venue': 3, 'already listed': 4, 'stale source': 5, closed: 5, unnamed: 6, holdout: 7 };
   unique.sort((a, b) => order[a.status] - order[b.status]);
   fs.writeFileSync(out, JSON.stringify({ retrieved_at: new Date().toISOString(), note: 'Perplexity Sonar round-up leads. Unverified and sometimes wrong: confirm on the venue, ticket or producer page before use. Holdout names are flagged, never listed.', estimated_cost_usd: Number(cost.toFixed(4)), leads: unique, sources, errors }, null, 1) + '\n');
   const count = (s) => unique.filter((l) => l.status === s).length;
