@@ -395,7 +395,7 @@
  },
  {
   "event_id": "climate-town-2026-09-21",
-  "src": "/assets/posters/climate-town-2026-09-21.jpg",
+  "src": "/assets/posters/archive/climate-town-2026-09-21.jpg",
   "width": 640,
   "height": 427,
   "source_url": "https://www.thebellhouseny.com/",
@@ -406,7 +406,8 @@
   "retrieved_at": "2026-09-14",
   "bytes": 54921,
   "sha256": "558b36adec271f31979871c1bbd912ea1ac0fe79493c943778fc97172aa412a1",
-  "reuse_status": "Official promotional artwork from the show's public listing; no separate reuse license identified. Site display with credit only."
+  "reuse_status": "Official promotional artwork from the show's public listing; no separate reuse license identified. Site display with credit only.",
+  "archived": true
  },
  {
   "event_id": "david-nihill-2026-09-23",
@@ -440,7 +441,7 @@
  },
  {
   "event_id": "bell-house-stand-up-showcase-2026-09-25",
-  "src": "/assets/posters/bell-house-stand-up-showcase-2026-09-25.jpg",
+  "src": "/assets/posters/archive/bell-house-stand-up-showcase-2026-09-25.jpg",
   "width": 640,
   "height": 427,
   "source_url": "https://www.thebellhouseny.com/",
@@ -451,7 +452,8 @@
   "retrieved_at": "2026-09-14",
   "bytes": 28257,
   "sha256": "6e5ba6fbe5a905239ee99c0820aa72b84d8331663cb2e141ef3a1f7a31bb9daa",
-  "reuse_status": "Official promotional artwork from the show's public listing; no separate reuse license identified. Site display with credit only."
+  "reuse_status": "Official promotional artwork from the show's public listing; no separate reuse license identified. Site display with credit only.",
+  "archived": true
  },
  {
   "event_id": "beth-stelling-let-me-get-loose-2026-09-26",
