@@ -368,3 +368,9 @@ Every lead is unverified and some are wrong. `verified_at` means a person or age
 - New recurring rooms, both from Perplexity leads and confirmed on current pages: Comedy at Vig Bar (Sundays 7pm, free, one-drink minimum; vigbar.com) and Live at the Barbershop (Thursdays 8:30pm, from $14.64, BYOB, secret lineup; greatestshowever.com/events). Venues registered: Vig Bar, Original Barbershop.
 - Rechecks: Hobocop is Tuesday in recurring.json, but the Grisly Pear calendar lists it Thu Sep 24 8pm $20 this week; confirm whether the night moved. Kismet Comedy (Starr Bar) showed only a past date, and Pete's Candy Store lists "Tapped In" in Kweendom's Friday slot; confirm both still run. Matt Goldich (West Side, Sep 27): the club calendar names Alison Leiby as a guest, the ticket widget names Vannessa Jackson; the blurb says "guests".
 - Rejected Perplexity leads: Tip Top Bar & Grill (nothing after April 2026), Good For You! at Cantina Royal (unconfirmed), Penthouse Comedy and Comedy UO (no dated upcoming shows found), Classy Trashy and Runnin' Late (club shows).
+
+## 2026-09-20 — rechecks closed: Hobocop, Kismet, Kweendom (Claude)
+
+- **Hobocop** moved to **Thursdays 8pm** at the Grisly Pear (107 MacDougal). Venue calendar lists it every Thursday Sep 24 – Oct 29; event page: $20 + $3.24 fee, 21+, two-item minimum. Row updated. The Candyce Cook host credit and the venue's "worst day of the week" Tuesday line are not on the current pages, so both came out; restore the host only from a page that names her.
+- **Kismet Comedy** is running: Starr Bar listed Tue Sep 15 with a lineup and $10 at the door. The bar posts week-of, so look on Mondays for that week's date.
+- **Kweendom** is **monthly, third Friday, 7pm**, not weekly at 8. Eight 2026 Eventbrite dates all fall on third Fridays. Row and source changed to the Kweendom Eventbrite organizer page. No Oct 16 listing yet; confirm before a dated pick.
