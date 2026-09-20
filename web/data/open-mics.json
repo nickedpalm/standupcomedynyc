@@ -347,5 +347,25 @@
   "source_url": "https://www.pineboxrockshop.com/",
   "source_label": "Pine Box Rock Shop",
   "verified_at": "2026-09-14"
+ },
+ {
+  "id": "fear-city-comedy-club-mics",
+  "tier": "open-mic",
+  "title": "The Fear City Comedy Club open mics",
+  "weekday": 2,
+  "cadence": "Tue–Sun 6pm, plus a 9pm or 10pm mic depending on shows",
+  "time_label": null,
+  "venue": "The Fear City Comedy Club",
+  "address": "17 Essex St, Manhattan",
+  "neighborhood": "Lower East Side",
+  "cost_label": "$5 cash for 5 minutes",
+  "signup": "In person; be there early, lists cap at 16 and the order is random",
+  "set_length": "5 minutes",
+  "formats": "Stand-up",
+  "age": null,
+  "notes": "Two mics a night in a 60-seat dry club. House rules are strict: no notes on stage, sit by the stage, and stay to the end or lose future spots. The week's schedule is pinned on the club's Instagram every Monday.",
+  "source_url": "https://www.thefearcitycomedyclub.com/open-mics",
+  "source_label": "Club page",
+  "verified_at": "2026-09-20"
  }
 ]
