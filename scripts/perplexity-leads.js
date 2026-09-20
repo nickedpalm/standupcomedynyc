@@ -4,7 +4,9 @@
 // Sonar is weak at date-specific listings and good at round-ups, so the questions lean on "who to follow"
 // and "best independent shows" pieces. Matches names against the venue registry, picks and recurring rooms
 // so the editor sees what is new. Writes candidates/perplexity-leads.json. Leads, never sources: open the
-// venue or ticket page before anything reaches web/data. `npm run perplexity-leads` (about 1 cent a question).
+// venue or ticket page before anything reaches web/data. `npm run perplexity-leads` (about 25 cents a run).
+// Weekly at most: refuses to run when the last output is under six days old unless given --force
+// (--only=<question id> reruns one question and also needs --force inside the week).
 'use strict';
 require('./env.js')(['PERPLEXITY_API_KEY']);
 const fs = require('fs');
@@ -45,6 +47,8 @@ async function ask(q) {
 }
 (async () => {
   if (!process.env.PERPLEXITY_API_KEY) { console.error('perplexity-leads: PERPLEXITY_API_KEY not set'); process.exit(2); }
+  const force = process.argv.includes('--force');
+  if (!force && fs.existsSync(out)) { let last = 0; try { last = Date.parse(JSON.parse(fs.readFileSync(out, 'utf8')).retrieved_at) || 0; } catch {} const days = (Date.now() - last) / 86400000; if (days < 6) { console.log(`perplexity-leads: last run ${days.toFixed(1)} days ago; weekly at most, skipping (use --force to override)`); return; } }
   const only = process.argv.find((a) => a.startsWith('--only='))?.slice(7); const leads = []; const sources = {}; let cost = 0; const errors = [];
   for (const q of QUESTIONS.filter((x) => !only || x.id === only)) {
     try {

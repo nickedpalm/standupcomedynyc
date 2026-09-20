@@ -345,3 +345,18 @@ Three new Union Hall picks landed on consecutive days (Sun Sep 20, Mon Sep 21, T
 - Added `fear-city-comedy-club-mics` to open-mics.json from the club's own page (thefearcitycomedyclub.com/open-mics, read 2026-09-20): Tue–Sun, 6pm plus a 9pm or 10pm mic depending on shows, $5 cash for 5 minutes, lists capped at 16, random order, no notes on stage, stay to the end. The page does not state the sign-up method beyond showing up early; exact nightly times are pinned on the club's Instagram every Monday. `weekday` is 2 (first night of the run), same convention as the NYCC and QED rows.
 - Pick candidates left for an editorial call, both verified on the show pages: Fri Oct 2 "Pure Chaos Comedy Presents: Best of Kansas City" (8pm, doors 7:30, $20 online + fees / $25 door, hosted by Tony Sloan) and Fri Oct 9 "Magic City – A Night of Comedy" (8pm, same pricing). The club's public calendar only lists those two plus Nov 21 "Michael Pasvar & Friends" right now, which is why it is thin in picks.
 - Later on 2026-09-20 (Claude): added both Fear City shows above as picks; re-serialized the morning run's picks.json, clubs.json and POSTER-SOURCES.json back to the repo's 1-space indent (data unchanged, deep-equal checked); re-verified the morning's 5 new picks against their source pages; reworded the Greenwich Village Comedy Club entry, whose "below" / "above and adjacent to the Comedy Cellar" claims contradicted each other and appear nowhere on the club's site (it is at 99 MacDougal, the Cellar at 117). Rewrote the two blurbs the check flagged as describe-only. Mazzie: write JSON with `JSON.stringify(data, null, 1) + "\n"` so diffs stay readable.
+
+## Perplexity leads — standing rule — September 20, 2026
+
+`npm run perplexity-leads` writes candidates/perplexity-leads.json: round-up leads from Perplexity Sonar (producers to follow, rising comics, independent shows, new or closed rooms, announced dates), each with a `status` from matching against the venue registry, the board and the hold-out list. Mazzie may run it **once a week, on Mondays**; the script refuses a second run inside six days, and `--force` is for Nick or Claude only. A run costs about 25 cents. The key is `PERPLEXITY_API_KEY` in the profile env.
+
+How to work the file, in this order:
+
+1. **Never touch `status: "holdout"` rows**, and never add a lead whose page names someone in editorial/holdouts.json. Anything political or disputed that is not on the list yet is Nick's call by name: note it here and leave it off the board.
+2. **Skip `stale source` and `closed`.** Sonar repeats old guides; a show from a pre-2025 article is assumed dead until its own page proves otherwise.
+3. **`who-to-follow` rows with an Instagram handle** go on the producer browse list in the workspace notes (read-only browsing, leads only). They are not site content.
+4. **`independent-shows` and `new-rooms` rows marked `new`**: open the venue's or producer's own page. If it confirms night, time and price, register the venue if needed and add the room to recurring.json or open-mics.json by the usual rules. At most three new rooms from this file per week.
+5. **`announced-dates` rows marked `new`**: open the ticket or venue page, confirm the year, weekday, time and price there, then add a pick. The article Sonar cites is never the `source_url`.
+6. **`rising-comics`** is background for blurbs and the research plan: a credit may be used in a blurb only if the list itself (JFL, Vulture, the festival) or the show page states it.
+
+Every lead is unverified and some are wrong. `verified_at` means a person or agent opened the venue, ticket or producer page that day, not that Sonar said so. Log what was taken from each run, and what was rejected and why, at the bottom of this file.
