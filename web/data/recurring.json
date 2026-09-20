@@ -32,9 +32,9 @@
   "price_amount": 5,
   "format": "Stand-up",
   "description": "BK Made's nightly showcase in Bushwick, Monday through Thursday at eight, five dollars, bring your own. A different lineup every night and a room small enough that the crowd is part of the show.",
-  "source_url": "https://www.bkmadecomedy.com/event-details/comedy-tonight-8-pm-2026-09-14-20-00-1",
-  "source_label": "BK Made Comedy Tonight event page",
-  "verified_at": "2026-09-14",
+  "source_url": "https://www.bkmadecomedy.com/event-list",
+  "source_label": "BK Made event list",
+  "verified_at": "2026-09-20",
   "verification_note": "Event pages list Comedy Tonight at 8pm every Monday through Thursday with $5 tickets; the Fri/Sat 8pm shows are listed as separate ticketed events ($15, free pizza from Tony's)."
  },
  {
@@ -70,9 +70,9 @@
   "price_amount": 5,
   "format": "Stand-up",
   "description": "BK Made's nightly showcase in Bushwick, Monday through Thursday at eight, five dollars, bring your own. A different lineup every night and a room small enough that the crowd is part of the show.",
-  "source_url": "https://www.bkmadecomedy.com/event-details/comedy-tonight-8-pm-2026-09-14-20-00-1",
-  "source_label": "BK Made Comedy Tonight event page",
-  "verified_at": "2026-09-14",
+  "source_url": "https://www.bkmadecomedy.com/event-list",
+  "source_label": "BK Made event list",
+  "verified_at": "2026-09-20",
   "verification_note": "Event pages list Comedy Tonight at 8pm every Monday through Thursday with $5 tickets; the Fri/Sat 8pm shows are listed as separate ticketed events ($15, free pizza from Tony's)."
  },
  {
@@ -127,29 +127,29 @@
   "price_amount": 5,
   "format": "Stand-up",
   "description": "BK Made's nightly showcase in Bushwick, Monday through Thursday at eight, five dollars, bring your own. A different lineup every night and a room small enough that the crowd is part of the show.",
-  "source_url": "https://www.bkmadecomedy.com/event-details/comedy-tonight-8-pm-2026-09-14-20-00-1",
-  "source_label": "BK Made Comedy Tonight event page",
-  "verified_at": "2026-09-14",
+  "source_url": "https://www.bkmadecomedy.com/event-list",
+  "source_label": "BK Made event list",
+  "verified_at": "2026-09-20",
   "verification_note": "Event pages list Comedy Tonight at 8pm every Monday through Thursday with $5 tickets; the Fri/Sat 8pm shows are listed as separate ticketed events ($15, free pizza from Tony's)."
  },
  {
   "id": "comedians-you-should-know-greenpoint",
   "tier": "recurring",
   "title": "Comedians You Should Know",
-  "cadence": "Every Wednesday",
+  "cadence": "Every Wednesday (check the listing; dates post late)",
   "weekday": 3,
-  "time_label": "8pm · doors 7:30pm",
+  "time_label": "9:15pm · seating 9pm on Sep 23; time varies",
   "venue": "Greenpoint Comedy Club",
   "address": "66 Greenpoint Ave, Brooklyn",
   "neighborhood": "Greenpoint",
-  "price_label": "One-item minimum",
-  "price_amount": null,
+  "price_label": "$20",
+  "price_amount": 20,
   "format": "Stand-up",
-  "description": "Ten years at the Gutter Bar, now on Wednesdays at Greenpoint Comedy Club. Jeff Steinbrunner and Saurin Choksi host one of Brooklyn's longest-running weekly showcases.",
+  "description": "Ten years at the Gutter Bar, now at Greenpoint Comedy Club on Wednesdays. The club posts each date close to the show and the start time moves, so open the listing before you go.",
   "source_url": "https://www.jumpcomedy.com/b/greenpointcomedyclub",
   "source_label": "GCC calendar on Jump Comedy",
-  "verified_at": "2026-09-14",
-  "verification_note": "GCC's calendar lists Comedians You Should Know every Wednesday at 8pm (Sep 16, Sep 23, etc.); show page states doors 7:30pm, 1-item minimum. CYSK's own site still shows the old Gutter Bar history."
+  "verified_at": "2026-09-20",
+  "verification_note": "Rendered 2026-09-20: the GCC calendar on Jump Comedy shows one dated listing, Wed Sep 23, 2026 at 9:15 PM (“This week’s show is at 9:15! Seating at 9PM”), ticket $20.00. Later Wednesdays were not posted through Nov 14, so the old “every Wednesday 8pm, one-item minimum” line came out, along with the host credit, which is not on the current listing."
  },
  {
   "id": "double-trouble-thursdays-captain-kirks",
@@ -167,7 +167,7 @@
   "description": "Captain Kirk's Thursday night on Broadway in Bed-Stuy runs from six until midnight, with comics cycling through all evening. Free entry for women; everyone carries a twenty-dollar food and drink minimum.",
   "source_url": "https://captainkirkscomedylounge.com/",
   "source_label": "Captain Kirk's Comedy Lounge home (COMEDY SHOWS / EVENTS)",
-  "verified_at": "2026-09-14",
+  "verified_at": "2026-09-20",
   "verification_note": "Venue's own home page COMEDY SHOWS / EVENTS section lists 'Double The Trouble Thursdays — Starting August 27 / Every Thursdays After' with hours 6:00PM – 12:00AM. Page also lists Fashion Week Every Week (Mondays starting Sep 14) as a separate recurring event."
  },
  {
@@ -203,9 +203,9 @@
   "price_amount": 5,
   "format": "Stand-up",
   "description": "BK Made's nightly showcase in Bushwick, Monday through Thursday at eight, five dollars, bring your own. A different lineup every night and a room small enough that the crowd is part of the show.",
-  "source_url": "https://www.bkmadecomedy.com/event-details/comedy-tonight-8-pm-2026-09-14-20-00-1",
-  "source_label": "BK Made Comedy Tonight event page",
-  "verified_at": "2026-09-14",
+  "source_url": "https://www.bkmadecomedy.com/event-list",
+  "source_label": "BK Made event list",
+  "verified_at": "2026-09-20",
   "verification_note": "Event pages list Comedy Tonight at 8pm every Monday through Thursday with $5 tickets; the Fri/Sat 8pm shows are listed as separate ticketed events ($15, free pizza from Tony's)."
  },
  {
@@ -224,7 +224,7 @@
   "description": "Eastville's Friday happy-hour show. Four hosts, a rotating lineup, and you're out by eight with the night still ahead of you.",
   "source_url": "https://www.eastvillecomedy.com/shows/brooklyn-power-hour",
   "source_label": "Eastville show page",
-  "verified_at": "2026-09-14",
+  "verified_at": "2026-09-20",
   "verification_note": "Show page (RECURRING SHOW) states every Friday 6pm at 487 Atlantic Ave, from $20. Listed dates run through next June."
  },
  {
@@ -243,7 +243,7 @@
   "description": "Grove 34's Friday stand-up showcase, two minutes from the Astoria Boulevard stop. A curated lineup that mixes names you know with comics about to be.",
   "source_url": "https://grove34.com/shows/grove-comedy-sept18",
   "source_label": "Grove 34 show page (Sept 18 / Sept 25 listings)",
-  "verified_at": "2026-09-14",
+  "verified_at": "2026-09-20",
   "verification_note": "Grove 34's All Shows list runs Grove Comedy Sept 18 (Fri 7:30 PM) and Sept 25 (Fri 7:30 PM) with the same 'curated lineup of big names, original performances and up-and-coming all stars' description on each show page. Oct 16 lists a 'Grove Comedy Live!' special; the weekly Fri 7:30 PM Grove Comedy is the recurring slot."
  },
  {
@@ -281,7 +281,7 @@
   "description": "Seventy minutes of stand-up in a small Lower East Side room where you bring your own drinks and pay seven dollars at the door. Rising comics with a touring headliner dropping in most weeks.",
   "source_url": "https://seshcomedy.com/showcases.php",
   "source_label": "SESH showcases page",
-  "verified_at": "2026-09-14",
+  "verified_at": "2026-09-20",
   "verification_note": "Showcases page lists Friday Night SESH Showcases through October 2026 (Sep 18 8:45pm, Sep 25 8:30pm, Oct 2 8:45pm). Doors 15 min before showtime, $7 fee, BYOB friendly with no drink minimum."
  },
  {
@@ -306,7 +306,7 @@
  {
   "id": "bk-made-weekend-friday",
   "tier": "recurring",
-  "title": "BK Made Weekend Show",
+  "title": "Friday Night: Best of BK Made",
   "cadence": "Every Friday",
   "weekday": 5,
   "time_label": "8pm",
@@ -317,15 +317,15 @@
   "price_amount": 15,
   "format": "Stand-up",
   "description": "BK Made's ticketed weekend show: the week's strongest lineup, fifteen dollars, bring your own, and free slices from Tony's before the show.",
-  "source_url": "https://www.bkmadecomedy.com/event-details/comedy-tonight-8-pm-2026-09-14-20-00-1",
-  "source_label": "BK Made Comedy Tonight event page",
-  "verified_at": "2026-09-14",
+  "source_url": "https://www.bkmadecomedy.com/event-list",
+  "source_label": "BK Made event list",
+  "verified_at": "2026-09-20",
   "verification_note": "Event pages list Comedy Tonight at 8pm every Monday through Thursday with $5 tickets; the Fri/Sat 8pm shows are listed as separate ticketed events ($15, free pizza from Tony's)."
  },
  {
   "id": "bk-made-weekend-saturday",
   "tier": "recurring",
-  "title": "BK Made Weekend Show",
+  "title": "Saturday Night: Best of BK Made",
   "cadence": "Every Saturday",
   "weekday": 6,
   "time_label": "8pm",
@@ -336,9 +336,9 @@
   "price_amount": 15,
   "format": "Stand-up",
   "description": "BK Made's ticketed weekend show: the week's strongest lineup, fifteen dollars, bring your own, and free slices from Tony's before the show.",
-  "source_url": "https://www.bkmadecomedy.com/event-details/comedy-tonight-8-pm-2026-09-14-20-00-1",
-  "source_label": "BK Made Comedy Tonight event page",
-  "verified_at": "2026-09-14",
+  "source_url": "https://www.bkmadecomedy.com/event-list",
+  "source_label": "BK Made event list",
+  "verified_at": "2026-09-20",
   "verification_note": "Event pages list Comedy Tonight at 8pm every Monday through Thursday with $5 tickets; the Fri/Sat 8pm shows are listed as separate ticketed events ($15, free pizza from Tony's)."
  },
  {
@@ -347,7 +347,7 @@
   "title": "Saturday Night SESH Showcase",
   "cadence": "Every Saturday",
   "weekday": 6,
-  "time_label": "8pm · second show 9:30pm most weeks",
+  "time_label": "8:30pm · second show 10pm most weeks",
   "venue": "Sesh Comedy",
   "address": "55 Chrystie St, Manhattan",
   "neighborhood": "Lower East Side",
@@ -357,8 +357,8 @@
   "description": "Same room and same deal as Friday, with two shows back to back on most Saturdays. If the early one is full, the late one is usually the looser hang.",
   "source_url": "https://seshcomedy.com/showcases.php",
   "source_label": "SESH showcases page",
-  "verified_at": "2026-09-14",
-  "verification_note": "Showcases page lists Saturday Night SESH Showcases through October 2026 (Sep 19 8pm and 9:30pm, Sep 26 8:30pm and 10pm). Same $7 / BYOB friendly format as Friday."
+  "verified_at": "2026-09-20",
+  "verification_note": "seshcomedy.com/showcases.php (rendered 2026-09-20) lists Sat Sep 26 at 8:30 PM and 10:00 PM, and the same two times the following Saturday."
  },
  {
   "id": "bomb-shelter-gaf-west-saturday",
@@ -395,7 +395,7 @@
   "description": "Tuesday's cash competition at Comedy In Harlem: comics sign up in person, do their best material, and the room decides who gets paid. Five dollars to watch, and the early start makes it an easy after-work stop.",
   "source_url": "https://www.comedyinharlem.com/events/135610",
   "source_label": "Comedy In Harlem event page",
-  "verified_at": "2026-09-14",
+  "verified_at": "2026-09-20",
   "verification_note": "Event page states every Tuesday, doors 5pm, show 6pm, $5 audience cover, comics sign up in person; dates listed Sep 15 through Dec 29."
  },
  {
@@ -414,27 +414,8 @@
   "description": "Monday nights at Comedy In Harlem, hosted by Monifah and Jamie Roberts: stand-up sets between R&B karaoke turns from the room. 21+, and the club treats it as its Monday flagship.",
   "source_url": "https://www.comedyinharlem.com/events/139918",
   "source_label": "Comedy In Harlem event page",
-  "verified_at": "2026-09-14",
+  "verified_at": "2026-09-20",
   "verification_note": "Event page states Mondays, doors 7pm, showtime 8pm, 21+, dates Sep 14 through Dec 28. Price not stated on the listing text we read."
- },
- {
-  "id": "third-thursdays-smokey-suarez-comedy-in-harlem",
-  "tier": "recurring",
-  "title": "Third Thursdays with Smokey Suarez",
-  "cadence": "3rd Thursday of the month",
-  "weekday": 4,
-  "time_label": "8pm",
-  "venue": "Comedy In Harlem",
-  "address": "750A St Nicholas Ave, Manhattan",
-  "neighborhood": "Harlem",
-  "price_label": "$20 · $18 food and drink minimum",
-  "price_amount": 20,
-  "format": "Stand-up",
-  "description": "Smokey Suarez hosts a monthly showcase on the third Thursday at Comedy In Harlem. Twenty dollars in, with the club's food and drink minimum on top.",
-  "source_url": "https://www.comedyinharlem.com/events/142765",
-  "source_label": "Comedy In Harlem event page",
-  "verified_at": "2026-09-14",
-  "verification_note": "Event page states every 3rd Thursday, showtime 8pm, tickets $20, $18 food/drink minimum; next date Sep 17."
  },
  {
   "id": "standup-comedy-after-dark-kelloggs-diner-wednesday",

@@ -374,3 +374,15 @@ Every lead is unverified and some are wrong. `verified_at` means a person or age
 - **Hobocop** moved to **Thursdays 8pm** at the Grisly Pear (107 MacDougal). Venue calendar lists it every Thursday Sep 24 – Oct 29; event page: $20 + $3.24 fee, 21+, two-item minimum. Row updated. The Candyce Cook host credit and the venue's "worst day of the week" Tuesday line are not on the current pages, so both came out; restore the host only from a page that names her.
 - **Kismet Comedy** is running: Starr Bar listed Tue Sep 15 with a lineup and $10 at the door. The bar posts week-of, so look on Mondays for that week's date.
 - **Kweendom** is **monthly, third Friday, 7pm**, not weekly at 8. Eight 2026 Eventbrite dates all fall on third Fridays. Row and source changed to the Kweendom Eventbrite organizer page. No Oct 16 listing yet; confirm before a dated pick.
+
+## 2026-09-20 — audit of the Sep 14 batch (Claude, at Nick's request)
+
+All 24 remaining rows stamped 2026-09-14 were re-read on their pages (headless Chromium for the client-rendered sites). 16 were right and are re-stamped. The rest:
+
+- **Comedians You Should Know (Greenpoint Comedy Club)**: the Jump Comedy calendar shows one dated listing, Wed Sep 23 at 9:15pm (seating 9), $20, and nothing later through Nov 14. The "every Wednesday 8pm, one-item minimum" line and the host credit were not on the current listing; row now says to check the listing. Recheck in two weeks: if no further Wednesdays appear, drop the row.
+- **BK Made weekend shows** are titled "Friday Night: Best of BK Made" and "Saturday Night: Best of BK Made". All six BK Made rows pointed at one dated Sep 14 "Comedy Tonight" page; they now point at bkmadecomedy.com/event-list.
+- **Saturday Night SESH Showcase**: 8:30pm and 10pm, not 8 and 9:30.
+- **The Fun Mic, Wednesdays (Freddy's)**: 7pm every listed Wednesday; the 8:30 variant is gone (first-Wednesday New Material Night is 9:30pm, a separate event).
+- **Crash Landing Comedy (Red Eye)**: source was a stale Jan 12 event page; now the venue's events page, which still lists it under Mondays with host Ashley Ryan. No dated listing, so treat as lightly confirmed.
+- **Pulled, pending proof**: Third Thursdays with Smokey Suarez (Comedy In Harlem) has no listing anywhere on the club's site through Nov 28, and its old event URL now serves a different show. Sunday Open Mic at Brooklyn Art Haus is not on the Shows & Events page the row cited (it is on Badslava, which is a lead, not a source). Re-add either only from a current page that names it.
+- **Standing lesson**: Comedy In Harlem recycles numeric /events/{id} URLs, and BK Made and Red Eye event pages are per-date. For recurring rows, cite the series or calendar page, read the list of upcoming dates rather than a tagline, and credit a host only if a current page names them.
