@@ -218,5 +218,25 @@
   "source_label": "Origin Story (no drink minimum, dry room, 60 seats) + a current show listing (Boston's Funniest, $20 online / $25 door)",
   "verified_at": "2026-09-17",
   "verification_note": "Read from the club's own Origin Story block ('No bartenders, no servers, no drink minimums - no distractions'; '60 seat killbox comedy club serving non-alcoholic beverages') and one current WooCommerce show listing that lists the price. Address '17 Essex Street, New York, NY 10002' confirmed in the Google Maps embed on the same page. Hours on the shows page footer: Monday–Sunday 4:00pm–midnight."
+ },
+ {
+  "id": "greenwich-village-comedy-club",
+  "tier": "club",
+  "name": "Greenwich Village Comedy Club",
+  "rooms": "One basement room on MacDougal Street’s Comedy Row",
+  "address": "99 MacDougal St, Manhattan",
+  "neighborhood": "Greenwich Village",
+  "price_label": "See show page for ticket price (cart gates ticket prices)",
+  "price_low": null,
+  "price_high": null,
+  "minimum": "Two-drink minimum per person (non-alcoholic drinks available; 20% gratuity added to drink checks)",
+  "age": "18+ on their own, or 13+ with parents",
+  "reservations": "Tickets via the club's own cart; arrive 20 minutes before showtime, no refunds",
+  "character": "A small MacDougal Street basement a block down from the Comedy Cellar, running ‘Stand-up Comedy In New York City’ showcases every night at 7pm, 9pm and select late nights, plus a Sunday 5pm Comedy Lab showcase. Budget the two-drink minimum on top of the ticket.",
+  "calendar_url": "https://greenwichvillagecomedyclub.com/",
+  "source_url": "https://greenwichvillagecomedyclub.com/shows/2026-09-20-stand-up-comedy-in-new-york-city-700-pm/",
+  "source_label": "Show page (comic lineup) + Terms & Conditions block (two-drink min, age policy, no refunds, 20-minute arrival, 20% gratuity)",
+  "verified_at": "2026-09-20",
+  "verification_note": "Read from the show page's Terms & Conditions block on greenwichvillagecomedyclub.com: '18 & over or 13+ with parents', 'Two drink minimum (non-alcoholic drinks are available)', 'IMPORTANT: Customers must arrive 20 minutes before showtime', 'NO REFUNDS', '20 percent gratuity added to all drink checks'. Address '99 MacDougal Street' is consistent with the venues.json entry registered 2026-09-14. Tickets sold through the venue's own checkout rather than Eventbrite; per-show prices were not legible from the public page (reCAPTCHA-gated cart)."
  }
 ]
