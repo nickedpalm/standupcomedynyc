@@ -174,6 +174,15 @@ if (fs.existsSync(archiveDir)) {
   if (flat.length) warn(`why this one: ${flat.length} upcoming blurb(s) only describe the show; give each a reason to go: ${flat.slice(0, 8).map((p) => p.id).join(', ')}${flat.length > 8 ? '…' : ''}`);
 }
 
+// Blurbs sell the show on its own facts. Soft check: warn on put-downs of other shows or a venue's usual bill, and on
+// scarcity claims nobody sourced ("rare", "nowhere else", "you won't see"). See README "Blurbs: why this one".
+{
+  const todayNY = new Intl.DateTimeFormat('en-CA', { timeZone: 'America/New_York' }).format(new Date());
+  const knock = /\b(?:instead of|rather than|unlike|a break from|beats?|over)\b[^.;]{0,70}\b(?:usual|generic|typical|regular|rotating|unnamed|house showcase|ten-(?:name|comic))\b|\b(?:rare(?:ly)?|nowhere else|you (?:will not|won.t) (?:see|find)|one of the (?:best|only))\b/i;
+  const hits = picks.filter((p) => p.date >= todayNY && knock.test(p.description || ''));
+  if (hits.length) warn(`blurb claims: ${hits.length} upcoming blurb(s) knock another show or claim scarcity without a source; sell the show on its own facts: ${hits.slice(0, 8).map((p) => p.id).join(', ')}${hits.length > 8 ? '…' : ''}`);
+}
+
 // links.json: the link-in-bio page. Every entry needs id, label, url and kind; dated entries expire.
 {
   let linksData;

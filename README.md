@@ -136,7 +136,7 @@ The build writes a Markdown edition of every section (index.md, this-week.md, ro
 
 ## Blurbs: why this one
 
-Every pick's `description` is one sentence that answers "why this one tonight?", the judgment a friend would make, not a restatement of the listing. `npm test` warns on describe-only patterns (host-and-lineup lists, "a ... show at the venue") so they get rewritten before they ship on the site, the Instagram cards and the caption. The judgment must come from the lineup, room, format or research, never invented.
+Every pick's `description` is one sentence that answers "why this one tonight?", the judgment a friend would make, not a restatement of the listing. `npm test` warns on describe-only patterns (host-and-lineup lists, "a ... show at the venue") so they get rewritten before they ship on the site, the Instagram cards and the caption. The judgment must come from the lineup, room, format or research, never invented. Sell the show on its own facts: no put-downs of other shows, other venues or the room's own usual bill ("instead of the club's generic lineup"), and no scarcity or exclusivity claims nobody sourced ("rare", "you won't see this anywhere else", "flies in"). A comparison is fine only when the page states both sides, such as a price or a seat count. `npm test` warns on these too.
 
 ## Editorial policy and hold-outs
 
