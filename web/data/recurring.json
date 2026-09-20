@@ -454,5 +454,43 @@
   "source_label": "Eventbrite listing (Danny Metz & Jackson Colvin organizer page)",
   "verified_at": "2026-09-15",
   "verification_note": "Eventbrite FAQ confirms every Wednesday at 11pm, doors 10:30pm, no item minimum, $10 tickets, 1-hour show, 'all ages' (it's a diner). The .com domain is currently a parked squatter page; the show is ticketed and promoted via the producer's Eventbrite organizer page."
+ },
+ {
+  "id": "comedy-at-vig-bar-sunday",
+  "tier": "recurring",
+  "title": "Comedy at Vig Bar",
+  "cadence": "Every Sunday",
+  "weekday": 0,
+  "time_label": "7pm",
+  "venue": "Vig Bar",
+  "address": "12 Spring St, Manhattan",
+  "neighborhood": "SoHo",
+  "price_label": "Free · 1 drink minimum",
+  "price_amount": 0,
+  "format": "Stand-up",
+  "description": "A free Sunday stand-up show at 7pm in the back room of a Nolita-edge bar, with a one-drink minimum and no cover. The bar’s own site is the only listing, so expect a walk-in crowd.",
+  "source_url": "https://vigbar.com/",
+  "source_label": "Vig Bar's own site (Back Room section)",
+  "verified_at": "2026-09-20",
+  "verification_note": "vigbar.com states under its Back Room section: \"On Sundays, we host a free comedy at 7pm and have a masseuse providing free massages at midnight.\" Address 12 Spring St. (@ Elizabeth St.), New York, NY 10012 is the venue's own listed address. This is the venue's current live page, read 2026-09-20, not an old Eventbrite listing (a 2025-dated Eventbrite page for the same show has expired)."
+ },
+ {
+  "id": "live-at-the-barbershop-thursday",
+  "tier": "recurring",
+  "title": "Live at the Barbershop",
+  "cadence": "Every Thursday",
+  "weekday": 4,
+  "time_label": "8:30pm",
+  "venue": "Original Barbershop",
+  "address": "174 E 2nd St, Manhattan",
+  "neighborhood": "East Village",
+  "price_label": "From $14.64",
+  "price_amount": 14.64,
+  "format": "Stand-up",
+  "description": "A working East Village barbershop that becomes a 40-seat BYOB comedy room at night. The lineup is kept secret until showtime; Thursday is the original weekly show, and the producers add Friday and Saturday sets on the same page.",
+  "source_url": "https://greatestshowever.com/events/",
+  "source_label": "Greatest Show Ever (producer) events page",
+  "verified_at": "2026-09-20",
+  "verification_note": "greatestshowever.com/events/ (fetched 2026-09-20) lists, for this coming week: 'Sep 24, 8:30 PM - From $14.64: The original weekly show. Special Guest, secret lineup.' plus Fri Sep 25 (8:15pm and 10:00pm, 'Primetime Friday') and Sat Sep 26 (7:15pm and 8:45pm) showtimes. Address 174 E 2nd St (Original Barbershop) is used consistently across this producer's Eventbrite listings for the same show, e.g. https://www.eventbrite.com/e/live-at-the-barbershop-nyc-hottest-stand-up-comedy-show-in-nyc-byob-tickets-1999037294360 (Sep 10, 2026 occurrence, same venue and description)."
  }
 ]

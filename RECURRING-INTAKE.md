@@ -360,3 +360,11 @@ How to work the file, in this order:
 6. **`rising-comics`** is background for blurbs and the research plan: a credit may be used in a blurb only if the list itself (JFL, Vulture, the festival) or the show page states it.
 
 Every lead is unverified and some are wrong. `verified_at` means a person or agent opened the venue, ticket or producer page that day, not that Sonar said so. Log what was taken from each run, and what was rejected and why, at the bottom of this file.
+
+## 2026-09-20 — venue mix and bar shows (Claude, at Nick's request)
+
+- Venue mix for Sep 21–27 was 50% Bell House / Union Hall. Retired two of their entries (the Climate Town live taping, which is not stand-up, and the unnamed Bell House Stand Up Showcase; artwork archived) and added seven club nights across Comic Strip Live, Gotham, NYCC Upper West Side, Eastville, Comedy In Harlem and West Side. All read on the event's own page today.
+- Nick wants weekly and monthly bar shows featured as dated picks, not only on the recurring rail. Added this week's confirmed nights for We Have Fun (Wed), Bomb Shelter (Thu), Bitches' Brew (Fri) and Faculty Lounge (Sun, lineup posted). Standing practice: each week, give three to five vetted bar shows a dated pick once the producer's page confirms the date.
+- New recurring rooms, both from Perplexity leads and confirmed on current pages: Comedy at Vig Bar (Sundays 7pm, free, one-drink minimum; vigbar.com) and Live at the Barbershop (Thursdays 8:30pm, from $14.64, BYOB, secret lineup; greatestshowever.com/events). Venues registered: Vig Bar, Original Barbershop.
+- Rechecks: Hobocop is Tuesday in recurring.json, but the Grisly Pear calendar lists it Thu Sep 24 8pm $20 this week; confirm whether the night moved. Kismet Comedy (Starr Bar) showed only a past date, and Pete's Candy Store lists "Tapped In" in Kweendom's Friday slot; confirm both still run. Matt Goldich (West Side, Sep 27): the club calendar names Alison Leiby as a guest, the ticket widget names Vannessa Jackson; the blurb says "guests".
+- Rejected Perplexity leads: Tip Top Bar & Grill (nothing after April 2026), Good For You! at Cantina Royal (unconfirmed), Penthouse Comedy and Comedy UO (no dated upcoming shows found), Classy Trashy and Runnin' Late (club shows).

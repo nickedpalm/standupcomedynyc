@@ -13,7 +13,7 @@ Six weeks ahead from the board. Regenerated on every build; edit the data, not t
 
 Ranked 39; run 2, reuse 6, skip 31; ~333,000 tokens saved. No recent data: Sophie Buddle, Josh Sharp.
 
-## Week 1: Sep 20 to Sep 26 — 26 picks — 8 without artwork · 24 Eventbrite leads not yet reviewed
+## Week 1: Sep 20 to Sep 26 — 29 picks — 11 without artwork · 24 Eventbrite leads not yet reviewed
 
 - Sun Sep 20 2:30pm — **Obey in Advance: Book Launch Party** at Caveat
 - Sun Sep 20 3:30pm — **Josh Sharp: An Hour of Crowd Work in the Round** at The Bell House
@@ -32,10 +32,13 @@ Ranked 39; run 2, reuse 6, skip 31; ~333,000 tokens saved. No recent data: Sophi
 - Wed Sep 23 7pm — **David Nihill: Taking Tangents Tour** at The Bell House
 - Wed Sep 23 7pm — **Drew Lynch, Esther Povitsky & Jack Finnegan** at New York Comedy Club (Upper West Side) · NO ARTWORK
 - Wed Sep 23 7:30pm · doors 7pm — **Pizzazz with Gary Gulman** at Union Hall
+- Wed Sep 23 7:30pm · doors 7:15pm — **We Have Fun** at Young Ethel's · NO ARTWORK
 - Wed Sep 23 8pm · doors 7pm — **WITS END: Jay Jurden vs. Chloe Radcliffe | Comedy Trivia Gameshow** at Littlefield · NO ARTWORK
 - Thu Sep 24 7:30pm — **Vidura Bandara Rajapaksa: The Paradise Gothic Tour** at The Bell House
 - Thu Sep 24 8pm — **Farooq Hussain Presents: Lasergooch!** at Eastville Comedy Club · NO ARTWORK
+- Thu Sep 24 8pm — **Bomb Shelter Comedy** at The Gaf West · NO ARTWORK
 - Fri Sep 25 8pm — **Chelsea Handler: The High and Mighty Tour** at Beacon Theatre · NO ARTWORK · heat 20
+- Fri Sep 25 8:30pm — **Bitches' Brew** at Halyard's · NO ARTWORK
 - Fri Sep 25 10pm · doors 9:30pm — **Girl Church hosted by Amelia Ritthaler** at Union Hall
 - Sat Sep 26 7pm — **Beth Stelling: Let Me Get Loose** at The Bell House
 - Sat Sep 26 7pm — **We Just Find It Funny Presents: Good Grief!** at Littlefield
@@ -52,13 +55,14 @@ Ranked 39; run 2, reuse 6, skip 31; ~333,000 tokens saved. No recent data: Sophi
   - Wed Sep 23 8pm — Mike Burton, Al Lubel, Mia Jackson, Tobin Miller, Nick Tilleli, JJ Ramirez! at Comic Strip Live · from $25.71 · has artwork
   - Wed Sep 23 9:30pm — The Night of Your Life at Caveat · from $18.76 · has artwork
 
-## Week 2: Sep 27 to Oct 3 — 16 picks — 8 without artwork · 6 Eventbrite leads not yet reviewed
+## Week 2: Sep 27 to Oct 3 — 17 picks — 9 without artwork · 6 Eventbrite leads not yet reviewed
 
 - Sun Sep 27 6pm — **Mindy Raf - A (very) Nervous System Special Taping** at Littlefield · going fast · heat 25
 - Sun Sep 27 7pm · doors 6pm — **Rudy Rush & Friends: Birthday Comedy Show** at Comedy In Harlem · NO ARTWORK
 - Sun Sep 27 7:30pm — **Kevin Sullivan** at The Bell House
 - Sun Sep 27 7:30pm — **John Oliver & Seth Meyers** at Beacon Theatre · NO ARTWORK
 - Sun Sep 27 7:30pm · doors 6:30pm — **Matt Goldich with Ryan Beck, Ismael Loutfi & Vannessa Jackson** at West Side Comedy Club · NO ARTWORK
+- Sun Sep 27 8:30pm · doors 8:15pm — **Faculty Lounge** at Eris Deep Space (Brooklyn Comedy Collective) · NO ARTWORK
 - Tue Sep 29 7:30pm — **Michelle Buteau** at The Bell House · heat 20
 - Wed Sep 30 8pm — **The Moth StorySLAM** at The Bell House
 - Wed Sep 30 8pm — **Laughs In The East** at Eastville Comedy Club · NO ARTWORK

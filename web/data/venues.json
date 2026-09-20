@@ -1558,5 +1558,25 @@
     "access_note": "Loads plainly. Verified Sarah Silverman An Evening with Sarah Silverman (Mon Oct 26, 7pm, $40 general / $100 reserved / $500 VIP).",
     "kind": "theater",
     "verified_at": "2026-09-18"
+  },
+  {
+    "name": "Vig Bar",
+    "address": "12 Spring St, Manhattan",
+    "neighborhood": "SoHo",
+    "borough": "Manhattan",
+    "calendar_url": "https://vigbar.com/",
+    "source_label": "Venue's own site",
+    "access_note": "Loads plainly; Back Room section names the free Sunday 7pm comedy show and a one-drink minimum",
+    "verified_at": "2026-09-20"
+  },
+  {
+    "name": "Original Barbershop",
+    "address": "174 E 2nd St, Manhattan",
+    "neighborhood": "East Village",
+    "borough": "Manhattan",
+    "calendar_url": "https://greatestshowever.com/events/",
+    "source_label": "Greatest Show Ever (producer) events page",
+    "access_note": "A working barbershop by day; ticketed 40-seat BYOB stand-up multiple nights a week (Thu/Fri/Sat), produced by Greatest Show Ever",
+    "verified_at": "2026-09-20"
   }
 ]
