@@ -121,12 +121,14 @@ Ranked 39; run 2, reuse 6, skip 31; ~333,000 tokens saved. No recent data: Sophi
 - Fri Oct 23 7:30pm — **Sydnee Washington: My Black Barbie Story** at The Bell House
 - Sat Oct 24 6pm — **Saturday Night Live Comedy** at Eastville Comedy Club · NO ARTWORK
 
-## Week 6: Oct 25 to Oct 31 — 6 picks — only 6 picks; target 8 · 3 without artwork · weekend is thin
+## Week 6: Oct 25 to Oct 31 — 8 picks — 5 without artwork
 
 - Sun Oct 25 7pm — **ROBYN & "FRIENDS" Comedy Show** at West Side Comedy Club · NO ARTWORK
 - Sun Oct 25 7:30pm — **Sunday Night Comedy** at Eastville Comedy Club · NO ARTWORK
 - Mon Oct 26 7pm — **An Evening with Sarah Silverman: Finding Jewish Joy** at Temple Emanu-El Streicker Center
 - Wed Oct 28 7:30pm — **Clean Up Your Act** at West Side Comedy Club
+- Thu Oct 29 8pm · doors 7pm — **Boo-Ha-Ha Comedy Show** at Comedy In Harlem · NO ARTWORK
 - Thu Oct 29 9pm — **Megan Botnick Headlines** at West Side Comedy Club · NO ARTWORK
+- Fri Oct 30 7pm · doors 6:15pm — **Laughing Lassi** at Broadway Comedy Club · NO ARTWORK
 - Sat Oct 31 7:30pm · doors 6:30pm — **Scary Good Comedy with Brittany Carney** at Littlefield
 
