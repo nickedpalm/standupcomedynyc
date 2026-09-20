@@ -215,6 +215,7 @@ const jsFiles = [
   path.join(root, 'scripts', 'heat.js'),
   path.join(root, 'scripts', 'reddit.js'),
   path.join(root, 'scripts', 'reddit-leads.js'),
+  path.join(root, 'scripts', 'perplexity-leads.js'),
   path.join(root, 'scripts', 'research-plan.js'),
   path.join(root, 'scripts', 'calendar.js'),
 ];

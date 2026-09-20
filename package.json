@@ -12,6 +12,7 @@
     "eventbrite": "node scripts/eventbrite.js",
     "heat": "node scripts/heat.js",
     "reddit-leads": "node scripts/reddit-leads.js",
+    "perplexity-leads": "node scripts/perplexity-leads.js",
     "research-plan": "node scripts/research-plan.js",
     "calendar": "node scripts/calendar.js",
     "build": "rm -rf dist && mkdir -p dist && cp -R web/. dist/ && cp robots.txt sitemap.xml dist/ && node scripts/markdown.js --out=dist && node scripts/calendar.js --out=dist && node scripts/stamp.js --dir=dist",

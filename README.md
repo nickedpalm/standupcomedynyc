@@ -19,6 +19,7 @@ scripts/reddit.js    read-only Reddit search via a script app (REDDIT_CLIENT_ID,
 scripts/calendar.js  six-week content calendar from the data (Markdown for the editor, unlinked HTML page for Nick)
 scripts/research-plan.js  ranks performers cheaply and schedules last30days runs only where they can change a decision; caches results 7 days; reports token savings
 scripts/reddit-leads.js  promoter posts from NYC neighborhood subreddits (last 14 days) into candidates/reddit-leads.json, matched to the venue registry
+scripts/perplexity-leads.js  round-up leads from Perplexity Sonar (PERPLEXITY_API_KEY): who to follow, independent shows, new rooms, announced dates, matched against the board into candidates/perplexity-leads.json; about 20 cents a run, so weekly at most
 scripts/eventbrite.js pulls upcoming events from the Eventbrite organizer pages of registered rooms into candidates/
 web/areas.js         the Neighborhoods directory: every room by borough and neighborhood
 candidates/          discovery output (crowd-sourced, unverified); never served, never copied into web/data without a venue check
