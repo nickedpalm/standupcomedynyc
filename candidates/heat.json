@@ -1,23 +1,7 @@
 {
- "generated_at": "2026-09-20T09:24:48.379Z",
+ "generated_at": "2026-09-21T09:34:21.774Z",
  "note": "Demand signals for the editor. Only availability and second shows set the public demand tag.",
  "picks": [
-  {
-   "id": "james-tom-union-hall-2026-09-20",
-   "title": "James Tom Does A New Show, Casual Style",
-   "venue": "Union Hall",
-   "date": "2026-09-20",
-   "heat": 100,
-   "demand": "sold_out",
-   "availability": "SoldOut",
-   "second_show": false,
-   "performer": null,
-   "wikipedia": null,
-   "reddit": null,
-   "reasons": [
-    "sold out on the ticket page"
-   ]
-  },
   {
    "id": "kanan-gill-not-this-again-town-hall-2026-10-03-1600",
    "title": "Kanan Gill: Not This Again (Matinee)",
@@ -30,14 +14,14 @@
    "performer": "Kanan Gill",
    "wikipedia": {
     "title": "Kanan Gill",
-    "views_30d": 6238,
-    "views_prior_30d": 5784,
+    "views_30d": 6300,
+    "views_prior_30d": 5860,
     "change": 8
    },
    "reddit": null,
    "reasons": [
     "a second show the same night at the same room",
-    "Wikipedia: 208 views a day"
+    "Wikipedia: 210 views a day"
    ]
   },
   {
@@ -52,14 +36,14 @@
    "performer": "Kanan Gill",
    "wikipedia": {
     "title": "Kanan Gill",
-    "views_30d": 6238,
-    "views_prior_30d": 5784,
+    "views_30d": 6300,
+    "views_prior_30d": 5860,
     "change": 8
    },
    "reddit": null,
    "reasons": [
     "a second show the same night at the same room",
-    "Wikipedia: 208 views a day"
+    "Wikipedia: 210 views a day"
    ]
   },
   {
@@ -74,14 +58,14 @@
    "performer": "Joanne McNally",
    "wikipedia": {
     "title": "Joanne McNally",
-    "views_30d": 42050,
-    "views_prior_30d": 27086,
-    "change": 55
+    "views_30d": 42533,
+    "views_prior_30d": 27095,
+    "change": 57
    },
    "reddit": null,
    "reasons": [
-    "Wikipedia: 1402 views a day",
-    "Wikipedia views up 55% over the prior month"
+    "Wikipedia: 1418 views a day",
+    "Wikipedia views up 57% over the prior month"
    ]
   },
   {
@@ -113,13 +97,13 @@
    "performer": "Michelle Buteau",
    "wikipedia": {
     "title": "Michelle Buteau",
-    "views_30d": 36391,
-    "views_prior_30d": 54649,
-    "change": -33
+    "views_30d": 34749,
+    "views_prior_30d": 55066,
+    "change": -37
    },
    "reddit": null,
    "reasons": [
-    "Wikipedia: 1213 views a day"
+    "Wikipedia: 1158 views a day"
    ]
   },
   {
@@ -134,13 +118,13 @@
    "performer": "Michelle Buteau",
    "wikipedia": {
     "title": "Michelle Buteau",
-    "views_30d": 36391,
-    "views_prior_30d": 54649,
-    "change": -33
+    "views_30d": 34749,
+    "views_prior_30d": 55066,
+    "change": -37
    },
    "reddit": null,
    "reasons": [
-    "Wikipedia: 1213 views a day"
+    "Wikipedia: 1158 views a day"
    ]
   },
   {
@@ -155,13 +139,13 @@
    "performer": "Chelsea Handler",
    "wikipedia": {
     "title": "Chelsea Handler",
-    "views_30d": 53580,
-    "views_prior_30d": 54690,
-    "change": -2
+    "views_30d": 54695,
+    "views_prior_30d": 54421,
+    "change": 1
    },
    "reddit": null,
    "reasons": [
-    "Wikipedia: 1786 views a day"
+    "Wikipedia: 1823 views a day"
    ]
   },
   {
@@ -176,13 +160,34 @@
    "performer": "Marc Maron",
    "wikipedia": {
     "title": "Marc Maron",
-    "views_30d": 33770,
-    "views_prior_30d": 29121,
-    "change": 16
+    "views_30d": 34224,
+    "views_prior_30d": 29096,
+    "change": 18
    },
    "reddit": null,
    "reasons": [
-    "Wikipedia: 1126 views a day"
+    "Wikipedia: 1141 views a day"
+   ]
+  },
+  {
+   "id": "mark-simmons-jest-to-impress-soho-playhouse-2026-10-27",
+   "title": "Mark Simmons: Jest to Impress",
+   "venue": "SoHo Playhouse",
+   "date": "2026-10-27",
+   "heat": 15,
+   "demand": null,
+   "availability": null,
+   "second_show": false,
+   "performer": "Mark Simmons",
+   "wikipedia": {
+    "title": "Mark Simmons (comedian)",
+    "views_30d": 1499,
+    "views_prior_30d": 930,
+    "change": 61
+   },
+   "reddit": null,
+   "reasons": [
+    "Wikipedia views up 61% over the prior month"
    ]
   },
   {
@@ -197,13 +202,13 @@
    "performer": "Maria Bamford",
    "wikipedia": {
     "title": "Maria Bamford",
-    "views_30d": 24864,
-    "views_prior_30d": 21403,
+    "views_30d": 24902,
+    "views_prior_30d": 21406,
     "change": 16
    },
    "reddit": null,
    "reasons": [
-    "Wikipedia: 829 views a day"
+    "Wikipedia: 830 views a day"
    ]
   },
   {
@@ -218,8 +223,8 @@
    "performer": "Asif Ali",
    "wikipedia": {
     "title": "Asif Ali (comedian)",
-    "views_30d": 8253,
-    "views_prior_30d": 6392,
+    "views_30d": 8263,
+    "views_prior_30d": 6427,
     "change": 29
    },
    "reddit": null,
@@ -239,13 +244,13 @@
    "performer": "Johnny Pemberton",
    "wikipedia": {
     "title": "Johnny Pemberton",
-    "views_30d": 23903,
-    "views_prior_30d": 17681,
-    "change": 35
+    "views_30d": 24037,
+    "views_prior_30d": 17541,
+    "change": 37
    },
    "reddit": null,
    "reasons": [
-    "Wikipedia: 797 views a day"
+    "Wikipedia: 801 views a day"
    ]
   },
   {
@@ -260,13 +265,13 @@
    "performer": "Kathy Griffin",
    "wikipedia": {
     "title": "Kathy Griffin",
-    "views_30d": 28980,
-    "views_prior_30d": 29530,
-    "change": -2
+    "views_30d": 28325,
+    "views_prior_30d": 30315,
+    "change": -7
    },
    "reddit": null,
    "reasons": [
-    "Wikipedia: 966 views a day"
+    "Wikipedia: 944 views a day"
    ]
   },
   {
@@ -281,13 +286,13 @@
    "performer": "Ilana Glazer",
    "wikipedia": {
     "title": "Ilana Glazer",
-    "views_30d": 29188,
-    "views_prior_30d": 30210,
-    "change": -3
+    "views_30d": 28960,
+    "views_prior_30d": 30509,
+    "change": -5
    },
    "reddit": null,
    "reasons": [
-    "Wikipedia: 973 views a day"
+    "Wikipedia: 965 views a day"
    ]
   },
   {
@@ -302,13 +307,13 @@
    "performer": "Daniel Sloss",
    "wikipedia": {
     "title": "Daniel Sloss",
-    "views_30d": 19828,
-    "views_prior_30d": 18328,
-    "change": 8
+    "views_30d": 19457,
+    "views_prior_30d": 18769,
+    "change": 4
    },
    "reddit": null,
    "reasons": [
-    "Wikipedia: 661 views a day"
+    "Wikipedia: 649 views a day"
    ]
   },
   {
@@ -323,13 +328,13 @@
    "performer": "Adam Ray",
    "wikipedia": {
     "title": "Adam Ray",
-    "views_30d": 17068,
-    "views_prior_30d": 21009,
-    "change": -19
+    "views_30d": 16721,
+    "views_prior_30d": 21258,
+    "change": -21
    },
    "reddit": null,
    "reasons": [
-    "Wikipedia: 569 views a day"
+    "Wikipedia: 557 views a day"
    ]
   },
   {
@@ -344,63 +349,14 @@
    "performer": "Jess Hilarious",
    "wikipedia": {
     "title": "Jess Hilarious",
-    "views_30d": 9687,
-    "views_prior_30d": 11140,
-    "change": -13
+    "views_30d": 9746,
+    "views_prior_30d": 10729,
+    "change": -9
    },
    "reddit": null,
    "reasons": [
-    "Wikipedia: 323 views a day"
+    "Wikipedia: 325 views a day"
    ]
-  },
-  {
-   "id": "obey-in-advance-2026-09-20",
-   "title": "Obey in Advance: Book Launch Party",
-   "venue": "Caveat",
-   "date": "2026-09-20",
-   "heat": 0,
-   "demand": null,
-   "availability": "InStock",
-   "second_show": false,
-   "performer": null,
-   "wikipedia": null,
-   "reddit": null,
-   "reasons": [
-    "tickets available"
-   ]
-  },
-  {
-   "id": "josh-sharp-2026-09-20",
-   "title": "Josh Sharp: An Hour of Crowd Work in the Round",
-   "venue": "The Bell House",
-   "date": "2026-09-20",
-   "heat": 0,
-   "demand": null,
-   "availability": null,
-   "second_show": false,
-   "performer": "Josh Sharp",
-   "wikipedia": {
-    "title": "Josh Sharp",
-    "views_30d": 1144,
-    "views_prior_30d": 1012,
-    "change": 13
-   },
-   "reddit": null,
-   "reasons": []
-  },
-  {
-   "id": "climate-town-2026-09-21",
-   "title": "Climate Town & Amy Westervelt Live",
-   "venue": "The Bell House",
-   "date": "2026-09-21",
-   "heat": 0,
-   "demand": null,
-   "availability": null,
-   "second_show": false,
-   "performer": null,
-   "wikipedia": null,
-   "reddit": null,
-   "reasons": []
   },
   {
    "id": "marcel-lucont-whine-list-2026-09-21",
@@ -477,20 +433,6 @@
    "reasons": []
   },
   {
-   "id": "bell-house-stand-up-showcase-2026-09-25",
-   "title": "The Bell House Stand Up Showcase",
-   "venue": "The Bell House",
-   "date": "2026-09-25",
-   "heat": 0,
-   "demand": null,
-   "availability": null,
-   "second_show": false,
-   "performer": null,
-   "wikipedia": null,
-   "reddit": null,
-   "reasons": []
-  },
-  {
    "id": "beth-stelling-let-me-get-loose-2026-09-26",
    "title": "Beth Stelling: Let Me Get Loose",
    "venue": "The Bell House",
@@ -502,9 +444,9 @@
    "performer": "Beth Stelling",
    "wikipedia": {
     "title": "Beth Stelling",
-    "views_30d": 3847,
-    "views_prior_30d": 3335,
-    "change": 15
+    "views_30d": 3885,
+    "views_prior_30d": 3331,
+    "change": 17
    },
    "reddit": null,
    "reasons": []
@@ -581,9 +523,9 @@
    "performer": "Brendan Scannell",
    "wikipedia": {
     "title": "Brendan Scannell",
-    "views_30d": 1453,
-    "views_prior_30d": 1426,
-    "change": 2
+    "views_30d": 1461,
+    "views_prior_30d": 1454,
+    "change": 0
    },
    "reddit": null,
    "reasons": []
@@ -614,9 +556,9 @@
    "performer": "Phoebe Robinson",
    "wikipedia": {
     "title": "Phoebe Robinson",
-    "views_30d": 3021,
-    "views_prior_30d": 3419,
-    "change": -12
+    "views_30d": 3004,
+    "views_prior_30d": 3388,
+    "change": -11
    },
    "reddit": null,
    "reasons": []
@@ -703,9 +645,9 @@
    "performer": "Molly Kearney",
    "wikipedia": {
     "title": "Molly Kearney",
-    "views_30d": 5161,
-    "views_prior_30d": 5337,
-    "change": -3
+    "views_30d": 5236,
+    "views_prior_30d": 5358,
+    "change": -2
    },
    "reddit": null,
    "reasons": []
@@ -974,9 +916,9 @@
    "performer": "Sydnee Washington",
    "wikipedia": {
     "title": "Sydnee Washington",
-    "views_30d": 1879,
-    "views_prior_30d": 1805,
-    "change": 4
+    "views_30d": 1882,
+    "views_prior_30d": 1757,
+    "change": 7
    },
    "reddit": null,
    "reasons": []
@@ -1119,9 +1061,9 @@
    "performer": "Difficult People",
    "wikipedia": {
     "title": "Difficult People",
-    "views_30d": 5346,
-    "views_prior_30d": 5768,
-    "change": -7
+    "views_30d": 5333,
+    "views_prior_30d": 5801,
+    "change": -8
    },
    "reddit": null,
    "reasons": []
@@ -1320,60 +1262,12 @@
    "performer": "Josh Sharp",
    "wikipedia": {
     "title": "Josh Sharp",
-    "views_30d": 1144,
-    "views_prior_30d": 1012,
-    "change": 13
+    "views_30d": 1111,
+    "views_prior_30d": 1040,
+    "change": 7
    },
    "reddit": null,
    "reasons": []
-  },
-  {
-   "id": "comedians-interview-experts-caveat-2026-09-20",
-   "title": "Comedians Interview Experts: Consciousness with Asher Perlman and Weiji Ma",
-   "venue": "Caveat",
-   "date": "2026-09-20",
-   "heat": 0,
-   "demand": null,
-   "availability": "InStock",
-   "second_show": false,
-   "performer": null,
-   "wikipedia": null,
-   "reddit": null,
-   "reasons": [
-    "tickets available"
-   ]
-  },
-  {
-   "id": "spell-checc-littlefield-2026-09-20",
-   "title": "Spell Checc: A Spelling Bee Gameshow!",
-   "venue": "Littlefield",
-   "date": "2026-09-20",
-   "heat": 0,
-   "demand": null,
-   "availability": "InStock",
-   "second_show": false,
-   "performer": null,
-   "wikipedia": null,
-   "reddit": null,
-   "reasons": [
-    "tickets available"
-   ]
-  },
-  {
-   "id": "good-god-union-hall-2026-09-20",
-   "title": "Good God",
-   "venue": "Union Hall",
-   "date": "2026-09-20",
-   "heat": 0,
-   "demand": null,
-   "availability": "InStock",
-   "second_show": false,
-   "performer": "Good God",
-   "wikipedia": null,
-   "reddit": null,
-   "reasons": [
-    "tickets available"
-   ]
   },
   {
    "id": "frankensteins-baby-union-hall-2026-09-21",
@@ -1449,6 +1343,317 @@
    "availability": null,
    "second_show": false,
    "performer": null,
+   "wikipedia": null,
+   "reddit": null,
+   "reasons": []
+  },
+  {
+   "id": "girl-church-union-hall-2026-09-25",
+   "title": "Girl Church hosted by Amelia Ritthaler",
+   "venue": "Union Hall",
+   "date": "2026-09-25",
+   "heat": 0,
+   "demand": null,
+   "availability": "InStock",
+   "second_show": false,
+   "performer": null,
+   "wikipedia": null,
+   "reddit": null,
+   "reasons": [
+    "tickets available"
+   ]
+  },
+  {
+   "id": "kendall-farrell-special-taping-littlefield-2026-10-18",
+   "title": "Kendall Farrell: Standup Comedy Special Taping",
+   "venue": "Littlefield",
+   "date": "2026-10-18",
+   "heat": 0,
+   "demand": null,
+   "availability": null,
+   "second_show": false,
+   "performer": "Kendall Farrell",
+   "wikipedia": null,
+   "reddit": null,
+   "reasons": []
+  },
+  {
+   "id": "clean-up-your-act-wscc-2026-10-28",
+   "title": "Clean Up Your Act",
+   "venue": "West Side Comedy Club",
+   "date": "2026-10-28",
+   "heat": 0,
+   "demand": null,
+   "availability": null,
+   "second_show": false,
+   "performer": null,
+   "wikipedia": null,
+   "reddit": null,
+   "reasons": []
+  },
+  {
+   "id": "megan-botnick-wscc-2026-10-29",
+   "title": "Megan Botnick Headlines",
+   "venue": "West Side Comedy Club",
+   "date": "2026-10-29",
+   "heat": 0,
+   "demand": null,
+   "availability": null,
+   "second_show": false,
+   "performer": "Megan Botnick Headlines",
+   "wikipedia": null,
+   "reddit": null,
+   "reasons": []
+  },
+  {
+   "id": "scary-good-comedy-brittany-carney-littlefield-2026-10-31",
+   "title": "Scary Good Comedy with Brittany Carney",
+   "venue": "Littlefield",
+   "date": "2026-10-31",
+   "heat": 0,
+   "demand": null,
+   "availability": null,
+   "second_show": false,
+   "performer": null,
+   "wikipedia": null,
+   "reddit": null,
+   "reasons": []
+  },
+  {
+   "id": "pure-chaos-best-of-kansas-city-fear-city-2026-10-02",
+   "title": "Pure Chaos Comedy Presents: Best of Kansas City",
+   "venue": "The Fear City Comedy Club",
+   "date": "2026-10-02",
+   "heat": 0,
+   "demand": null,
+   "availability": null,
+   "second_show": false,
+   "performer": null,
+   "wikipedia": null,
+   "reddit": null,
+   "reasons": []
+  },
+  {
+   "id": "magic-city-comedy-fear-city-2026-10-09",
+   "title": "Magic City – A Night of Comedy",
+   "venue": "The Fear City Comedy Club",
+   "date": "2026-10-09",
+   "heat": 0,
+   "demand": null,
+   "availability": null,
+   "second_show": false,
+   "performer": null,
+   "wikipedia": null,
+   "reddit": null,
+   "reasons": []
+  },
+  {
+   "id": "laughing-lassi-broadway-comedy-club-2026-10-30",
+   "title": "Laughing Lassi",
+   "venue": "Broadway Comedy Club",
+   "date": "2026-10-30",
+   "heat": 0,
+   "demand": null,
+   "availability": "InStock",
+   "second_show": false,
+   "performer": "Laughing Lassi",
+   "wikipedia": null,
+   "reddit": null,
+   "reasons": [
+    "tickets available"
+   ]
+  },
+  {
+   "id": "boo-ha-ha-comedy-in-harlem-2026-10-29",
+   "title": "Boo-Ha-Ha Comedy Show",
+   "venue": "Comedy In Harlem",
+   "date": "2026-10-29",
+   "heat": 0,
+   "demand": null,
+   "availability": null,
+   "second_show": false,
+   "performer": null,
+   "wikipedia": null,
+   "reddit": null,
+   "reasons": []
+  },
+  {
+   "id": "michael-pasvar-and-friends-fear-city-2026-11-21",
+   "title": "Michael Pasvar & Friends",
+   "venue": "The Fear City Comedy Club",
+   "date": "2026-11-21",
+   "heat": 0,
+   "demand": null,
+   "availability": null,
+   "second_show": false,
+   "performer": null,
+   "wikipedia": null,
+   "reddit": null,
+   "reasons": []
+  },
+  {
+   "id": "christian-finnegan-comic-strip-live-2026-09-21",
+   "title": "Christian Finnegan",
+   "venue": "Comic Strip Live",
+   "date": "2026-09-21",
+   "heat": 0,
+   "demand": null,
+   "availability": "InStock",
+   "second_show": false,
+   "performer": "Christian Finnegan",
+   "wikipedia": {
+    "title": "Christian Finnegan",
+    "views_30d": 967,
+    "views_prior_30d": 969,
+    "change": 0
+   },
+   "reddit": null,
+   "reasons": [
+    "tickets available"
+   ]
+  },
+  {
+   "id": "chris-distefano-mark-normand-gotham-2026-09-22",
+   "title": "Comedy Spotlight: Chris Distefano & Mark Normand",
+   "venue": "Gotham Comedy Club",
+   "date": "2026-09-22",
+   "heat": 0,
+   "demand": null,
+   "availability": null,
+   "second_show": false,
+   "performer": null,
+   "wikipedia": null,
+   "reddit": null,
+   "reasons": []
+  },
+  {
+   "id": "drew-lynch-esther-povitsky-nycc-uws-2026-09-23",
+   "title": "Drew Lynch, Esther Povitsky & Jack Finnegan",
+   "venue": "New York Comedy Club (Upper West Side)",
+   "date": "2026-09-23",
+   "heat": 0,
+   "demand": null,
+   "availability": null,
+   "second_show": false,
+   "performer": null,
+   "wikipedia": null,
+   "reddit": null,
+   "reasons": []
+  },
+  {
+   "id": "farooq-hussain-lasergooch-eastville-2026-09-24",
+   "title": "Farooq Hussain Presents: Lasergooch!",
+   "venue": "Eastville Comedy Club",
+   "date": "2026-09-24",
+   "heat": 0,
+   "demand": null,
+   "availability": null,
+   "second_show": false,
+   "performer": null,
+   "wikipedia": null,
+   "reddit": null,
+   "reasons": []
+  },
+  {
+   "id": "dina-hashem-eastville-2026-09-26",
+   "title": "Dina Hashem, Greg Melly, Napoleon Emill & Sharief Johnson",
+   "venue": "Eastville Comedy Club",
+   "date": "2026-09-26",
+   "heat": 0,
+   "demand": null,
+   "availability": null,
+   "second_show": false,
+   "performer": null,
+   "wikipedia": null,
+   "reddit": null,
+   "reasons": []
+  },
+  {
+   "id": "rudy-rush-friends-comedy-in-harlem-2026-09-27",
+   "title": "Rudy Rush & Friends: Birthday Comedy Show",
+   "venue": "Comedy In Harlem",
+   "date": "2026-09-27",
+   "heat": 0,
+   "demand": null,
+   "availability": null,
+   "second_show": false,
+   "performer": null,
+   "wikipedia": null,
+   "reddit": null,
+   "reasons": []
+  },
+  {
+   "id": "matt-goldich-west-side-comedy-club-2026-09-27",
+   "title": "Matt Goldich with Ryan Beck, Ismael Loutfi & Vannessa Jackson",
+   "venue": "West Side Comedy Club",
+   "date": "2026-09-27",
+   "heat": 0,
+   "demand": null,
+   "availability": null,
+   "second_show": false,
+   "performer": null,
+   "wikipedia": null,
+   "reddit": null,
+   "reasons": []
+  },
+  {
+   "id": "we-have-fun-young-ethels-2026-09-23",
+   "title": "We Have Fun",
+   "venue": "Young Ethel's",
+   "date": "2026-09-23",
+   "heat": 0,
+   "demand": null,
+   "availability": "InStock",
+   "second_show": false,
+   "performer": null,
+   "wikipedia": null,
+   "reddit": null,
+   "reasons": [
+    "tickets available"
+   ]
+  },
+  {
+   "id": "bomb-shelter-gaf-west-2026-09-24",
+   "title": "Bomb Shelter Comedy",
+   "venue": "The Gaf West",
+   "date": "2026-09-24",
+   "heat": 0,
+   "demand": null,
+   "availability": "InStock",
+   "second_show": false,
+   "performer": null,
+   "wikipedia": null,
+   "reddit": null,
+   "reasons": [
+    "tickets available"
+   ]
+  },
+  {
+   "id": "bitches-brew-halyards-2026-09-25",
+   "title": "Bitches' Brew",
+   "venue": "Halyard's",
+   "date": "2026-09-25",
+   "heat": 0,
+   "demand": null,
+   "availability": "InStock",
+   "second_show": false,
+   "performer": null,
+   "wikipedia": null,
+   "reddit": null,
+   "reasons": [
+    "tickets available"
+   ]
+  },
+  {
+   "id": "faculty-lounge-eris-deep-space-2026-09-27",
+   "title": "Faculty Lounge",
+   "venue": "Eris Deep Space (Brooklyn Comedy Collective)",
+   "date": "2026-09-27",
+   "heat": 0,
+   "demand": null,
+   "availability": null,
+   "second_show": false,
+   "performer": "Faculty Lounge",
    "wikipedia": null,
    "reddit": null,
    "reasons": []

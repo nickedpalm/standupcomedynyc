@@ -255,7 +255,7 @@
  },
  {
   "event_id": "obey-in-advance-2026-09-20",
-  "src": "/assets/posters/obey-in-advance-2026-09-20.jpg",
+  "src": "/assets/posters/archive/obey-in-advance-2026-09-20.jpg",
   "width": 940,
   "height": 470,
   "source_url": "https://www.eventbrite.com/e/obey-in-advance-book-launch-party-tickets-1996289475560",
@@ -266,7 +266,8 @@
   "retrieved_at": "2026-09-14",
   "bytes": 84256,
   "sha256": "5d0acce1e1b8b248ca179b673691f9fb2e3ddadc092ff3bfec07824332877dfe",
-  "reuse_status": "Official promotional artwork from the show's public listing; no separate reuse license identified. Site display with credit only."
+  "reuse_status": "Official promotional artwork from the show's public listing; no separate reuse license identified. Site display with credit only.",
+  "archived": true
  },
  {
   "event_id": "marcel-lucont-whine-list-2026-09-21",
@@ -380,7 +381,7 @@
  },
  {
   "event_id": "josh-sharp-2026-09-20",
-  "src": "/assets/posters/josh-sharp-2026-09-20.jpg",
+  "src": "/assets/posters/archive/josh-sharp-2026-09-20.jpg",
   "width": 640,
   "height": 427,
   "source_url": "https://www.thebellhouseny.com/",
@@ -391,7 +392,8 @@
   "retrieved_at": "2026-09-14",
   "bytes": 21613,
   "sha256": "fcdded2c17c40e8ed693558ec535f9bc574f23c55fcd8fbe1f2fbd8ab39e41bc",
-  "reuse_status": "Official promotional artwork from the show's public listing; no separate reuse license identified. Site display with credit only."
+  "reuse_status": "Official promotional artwork from the show's public listing; no separate reuse license identified. Site display with credit only.",
+  "archived": true
  },
  {
   "event_id": "climate-town-2026-09-21",
@@ -849,7 +851,7 @@
  },
  {
   "event_id": "comedians-interview-experts-caveat-2026-09-20",
-  "src": "/assets/posters/comedians-interview-experts-caveat-2026-09-20.jpg",
+  "src": "/assets/posters/archive/comedians-interview-experts-caveat-2026-09-20.jpg",
   "width": 940,
   "height": 470,
   "source_url": "https://www.eventbrite.com/e/comedians-interview-experts-consciousness-with-asher-perlman-and-weiji-ma-tickets-1996802331526",
@@ -860,7 +862,8 @@
   "retrieved_at": "2026-09-16",
   "bytes": 139320,
   "sha256": "TBD",
-  "reuse_status": "Official promotional artwork from the show's Eventbrite listing; no separate reuse license identified. Site display with credit only."
+  "reuse_status": "Official promotional artwork from the show's Eventbrite listing; no separate reuse license identified. Site display with credit only.",
+  "archived": true
  },
  {
   "event_id": "facts-machine-caveat-2026-09-17",
@@ -880,7 +883,7 @@
  },
  {
   "event_id": "spell-checc-littlefield-2026-09-20",
-  "src": "/assets/posters/spell-checc-littlefield-2026-09-20.jpg",
+  "src": "/assets/posters/archive/spell-checc-littlefield-2026-09-20.jpg",
   "width": 940,
   "height": 470,
   "source_url": "https://www.eventbrite.com/e/spell-checc-a-spelling-bee-gameshow-tickets-1995605389440",
@@ -891,11 +894,12 @@
   "retrieved_at": "2026-09-16",
   "bytes": 35470,
   "sha256": "TBD",
-  "reuse_status": "Official promotional artwork from the show's Eventbrite listing; no separate reuse license identified. Site display with credit only."
+  "reuse_status": "Official promotional artwork from the show's Eventbrite listing; no separate reuse license identified. Site display with credit only.",
+  "archived": true
  },
  {
   "event_id": "james-tom-union-hall-2026-09-20",
-  "src": "/assets/posters/james-tom-union-hall-2026-09-20.jpg",
+  "src": "/assets/posters/archive/james-tom-union-hall-2026-09-20.jpg",
   "width": 940,
   "height": 470,
   "source_url": "https://www.eventbrite.com/e/james-tom-does-a-new-show-casual-style-tickets-1998670718923",
@@ -906,11 +910,12 @@
   "retrieved_at": "2026-09-16",
   "bytes": 44892,
   "sha256": "TBD",
-  "reuse_status": "Official promotional artwork from the show's Eventbrite listing; no separate reuse license identified. Site display with credit only."
+  "reuse_status": "Official promotional artwork from the show's Eventbrite listing; no separate reuse license identified. Site display with credit only.",
+  "archived": true
  },
  {
   "event_id": "good-god-union-hall-2026-09-20",
-  "src": "/assets/posters/good-god-union-hall-2026-09-20.jpg",
+  "src": "/assets/posters/archive/good-god-union-hall-2026-09-20.jpg",
   "width": 940,
   "height": 470,
   "source_url": "https://www.eventbrite.com/e/good-god-tickets-2000726305237",
@@ -921,7 +926,8 @@
   "retrieved_at": "2026-09-17",
   "bytes": 45001,
   "sha256": "TBD",
-  "reuse_status": "Official promotional artwork from the show's Eventbrite listing; no separate reuse license identified. Site display with credit only."
+  "reuse_status": "Official promotional artwork from the show's Eventbrite listing; no separate reuse license identified. Site display with credit only.",
+  "archived": true
  },
  {
   "event_id": "frankensteins-baby-union-hall-2026-09-21",
