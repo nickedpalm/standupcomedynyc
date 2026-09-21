@@ -398,3 +398,17 @@ All 24 remaining rows stamped 2026-09-14 were re-read on their pages (headless C
 - For awareness: NYCC's FAQ now mentions a fourth room in Stamford, CT. Out of scope for the site; the "three clubs" line stands for New York.
 
 Every recurring, open-mic and club row is now stamped 2026-09-15 or later.
+
+## Daily edition — 2026-09-21 (cron run)
+
+- **Picks added**: 5 new tier=special, every venue opened and the source_url recorded:
+  - `the-peter-stewart-show-comic-strip-2026-09-28` — fills the bare Mon Sep 28 slot (next-7-days rule). Source: https://comicstriplive.com/upcoming-event-41/
+  - `elyse-delucci-one-night-only-comic-strip-2026-10-01` — Comic Strip Thursday headline. Source: https://comicstriplive.com/elyse-delucci-well-this-is-humbling/
+  - `dead-comedian-contest-comic-strip-2026-10-14` — annual channel-the-late-greats contest. Source: https://comicstriplive.com/dead-comedian-contest-who-will-bring-them-back-to-life/
+  - `ruby-setnik-bell-house-2026-10-27` — fills Week 6 (was 7 picks, the only week under the 8-pick floor). Source: https://www.thebellhouseny.com/shows/calendar/2026-10 + Ticketmaster. Don't Tell + Netflix Introducing credit comes from rubysetnik.com.
+  - `nasser-al-rayess-town-hall-2026-10-31` — second Week 6 / Halloween pick at Town Hall, his Habibi Nights tour stop. Source: https://www.thetownhall.org/event/nasser-al-rayess
+- **Artwork**: 5 official flyers saved to web/assets/posters/ with POSTER-SOURCES.json records (sha256 + bytes + original_image_url). The Ruby Setnik portrait came from the Live Nation event page proxy of the Ticketmaster CDN (s1.ticketm.net/dam/...) after the bare CDN returned a 403 to curl; the proxy served the same image with valid headers, matching the same workaround noted in the Sep 16 RECURRING-INTAKE entry.
+- **Lead feeds**: badslava 0 new rows; eventbrite 7 new leads but all stack showcase nights at rooms already on the board (Caveat, Littlefield, Union Hall) or non-stand-up formats (Improvising the Hero's Journey, Tootsie's Video Vault) — held; reddit-leads 1 new post (Bar Bayeux free Sunday), held as producer-side lead per intake rules.
+- **Heat & research**: 41 performers ranked; ran last30days for the 6 names under `run` (Michelle Buteau, David Nihill, Vidura Bandara Rajapaksa, Christian Finnegan, Kevin Sullivan, Brendan Scannell); reused cached notes for Chelsea Handler and Beth Stelling; ~315,000 tokens saved from the plan. Five names (David Nihill, Vidura, Christian Finnegan, Kevin Sullivan, Brendan Scannell) ranked on schedule alone — almost no recent data on any of them, and the few hits were noise (David Bau papers, the wrestler Kevin Sullivan, HN's "Christian Buddha saints" essay, the Brendan O'Donoghue Google DeepMind video). Sentences stored in candidates/heat-notes.md (dated 2026-09-21).
+- **clubs.json check**: St. Marks Comedy Club and Comic Strip Live already present from earlier sessions; no work needed.
+- **Venue mix**: no Bell House/Union Hall overage (only 2 of each in week 1 of picks); spread across Comic Strip, Bell House, Town Hall.

@@ -1,11 +1,7 @@
 {
- "generated_at": "2026-09-17T11:07:55.035Z",
- "performers_considered": 39,
+ "generated_at": "2026-09-21T11:16:03.599Z",
+ "performers_considered": 43,
  "shortlist": [
-  {
-   "name": "Taylor Tomlinson",
-   "priority": 135
-  },
   {
    "name": "Chelsea Handler",
    "priority": 60
@@ -16,72 +12,45 @@
   },
   {
    "name": "Marc Maron",
-   "priority": 41
+   "priority": 45
   },
   {
-   "name": "Brad Williams",
+   "name": "Michelle Buteau",
    "priority": 40
   },
   {
-   "name": "Jenny Tian",
+   "name": "David Nihill",
    "priority": 35
   },
   {
-   "name": "Leonard Ouzts",
+   "name": "Vidura Bandara Rajapaksa",
    "priority": 35
   },
   {
-   "name": "Sophie Buddle",
+   "name": "Kanan Gill",
    "priority": 35
   },
   {
-   "name": "Sam Taggart",
+   "name": "Joanne McNally",
    "priority": 35
   },
   {
-   "name": "Josh Sharp",
-   "priority": 35
+   "name": "Maria Bamford",
+   "priority": 31
+  },
+  {
+   "name": "Asif Ali",
+   "priority": 30
   }
  ],
- "run": [
-  {
-   "name": "Sophie Buddle",
-   "priority": 35,
-   "next": {
-    "id": "sophie-buddle-2026-09-18",
-    "date": "2026-09-18",
-    "venue": "Union Hall",
-    "days": 1,
-    "featured": false,
-    "poster": true,
-    "demand": null
-   },
-   "cheap_signals": [],
-   "reason": "show within 3 days and not yet decided"
-  },
-  {
-   "name": "Josh Sharp",
-   "priority": 35,
-   "next": {
-    "id": "josh-sharp-2026-09-20",
-    "date": "2026-09-20",
-    "venue": "The Bell House",
-    "days": 3,
-    "featured": false,
-    "poster": true,
-    "demand": null
-   },
-   "cheap_signals": [],
-   "reason": "show within 3 days and not yet decided"
-  }
- ],
+ "run": [],
  "reuse": [
   {
    "name": "Chelsea Handler",
    "priority": 60,
    "cached": {
     "at": "2026-09-16T11:13:57.217Z",
-    "age_days": 1,
+    "age_days": 5,
     "fresh": true,
     "note": "Seven Reddit threads in 30 days (2,226 upvotes, 567 comments) — most chatter around the High and Mighty Tour dates, with a r/Tickets trade thread and a couple r/Standup recaps; top post sits at 1,500+ upvotes. No HN hits. Beacon Theatre Sep 25 is the date the threads are pointing at."
    }
@@ -91,77 +60,67 @@
    "priority": 45,
    "cached": {
     "at": "2026-09-15T13:02:23.710Z",
-    "age_days": 1.9,
+    "age_days": 5.9,
     "fresh": true,
     "note": "Seven r/StandUpComedy threads in 30 days (1,782 upvotes); the Boyfriends Kids clip is still climbing. Bell House Sep 26."
    }
   },
   {
-   "name": "Brad Williams",
+   "name": "Michelle Buteau",
    "priority": 40,
    "cached": {
-    "at": "2026-09-16T11:13:57.391Z",
-    "age_days": 1,
+    "at": "2026-09-21T11:08:34.917Z",
+    "age_days": 0,
     "fresh": true,
-    "note": "Eight Reddit threads in 30 days (3,892 upvotes, 718 comments) — r/NASCAR and r/panthers dominate (Brad Williams the linebacker, not the comic), but the comic-specific threads cluster around the Tall Tales Tour dates. No HN hits. Town Hall Sep 19 is the NYC stop the threads are watching."
+    "note": "Only 3 Reddit threads in 30 days, mostly about her Spa Weekend role and outfits — r/FemaleStandupComedy's A Lot of Scalp clip (4pts) is the only stand-up-adjacent one; no HN chatter."
    }
   },
   {
-   "name": "Jenny Tian",
+   "name": "David Nihill",
    "priority": 35,
    "cached": {
-    "at": "2026-09-16T11:13:57.538Z",
-    "age_days": 1,
+    "at": "2026-09-21T11:10:04.175Z",
+    "age_days": 0,
     "fresh": true,
-    "note": "Two Reddit threads (1,017 upvotes) and one HN story — chatter is mostly around her Taskmaster Australia Series 6 appearances and an OpenAussie Q&A, not the NYC Bell House date specifically. Limited recent data; rely on the room and the format."
+    "note": "Four hits in 30 days — one r/UofO thread, three HN stories all about a David-named model and a David Bau paper, not the comedian; no stand-up signal."
    }
   },
   {
-   "name": "Leonard Ouzts",
+   "name": "Vidura Bandara Rajapaksa",
    "priority": 35,
    "cached": {
-    "at": "2026-09-16T11:13:57.701Z",
-    "age_days": 1,
+    "at": "2026-09-21T11:11:41.607Z",
+    "age_days": 0,
     "fresh": true,
-    "note": "One Reddit thread (31 upvotes) and one HN story in 30 days — almost no buzz either way; the comedian-by-that-name thread is a Seahawks fan post unrelated to the comic. Comedy In Harlem Sep 18; treat as low-signal, decide on room + bill."
-   }
-  },
-  {
-   "name": "Sam Taggart",
-   "priority": 35,
-   "cached": {
-    "at": "2026-09-16T11:13:57.853Z",
-    "age_days": 1,
-    "fresh": true,
-    "note": "Two Reddit threads (36 upvotes) and six HN stories in 30 days — Sam Taggart has no real comedian-shaped footprint online; the HN and Reddit hits are the D&D creature / fnaftheories namesake. Bell House Sep 19 special taping; pick on the room and the recording, not on buzz."
+    "note": "Two r/gtamarketplace and r/DCdump threads in 30 days (2 upvotes total) — no stand-up signal for the Bell House Sep 24 Paradise Gothic Tour date."
    }
   }
  ],
  "skip": [
   {
-   "name": "Taylor Tomlinson",
-   "priority": 135,
-   "reason": "already sold out; research cannot change the call"
-  },
-  {
    "name": "Marc Maron",
-   "priority": 41,
-   "reason": "next show in 52 days, outside the 10-day window"
+   "priority": 45,
+   "reason": "next show in 48 days, outside the 10-day window"
   },
   {
    "name": "Kanan Gill",
    "priority": 35,
-   "reason": "outside the top 10 by cheap ranking"
+   "reason": "next show in 12 days, outside the 10-day window"
   },
   {
-   "name": "Good God",
+   "name": "Joanne McNally",
    "priority": 35,
-   "reason": "outside the top 10 by cheap ranking"
+   "reason": "next show in 47 days, outside the 10-day window"
+  },
+  {
+   "name": "Maria Bamford",
+   "priority": 31,
+   "reason": "next show in 19 days, outside the 10-day window"
   },
   {
    "name": "Asif Ali",
    "priority": 30,
-   "reason": "outside the top 10 by cheap ranking"
+   "reason": "next show in 26 days, outside the 10-day window"
   },
   {
    "name": "Daniel Sloss",
@@ -169,23 +128,8 @@
    "reason": "outside the top 10 by cheap ranking"
   },
   {
-   "name": "Maria Bamford",
-   "priority": 26,
-   "reason": "outside the top 10 by cheap ranking"
-  },
-  {
-   "name": "Michelle Buteau",
-   "priority": 25,
-   "reason": "outside the top 10 by cheap ranking"
-  },
-  {
-   "name": "David Nihill",
-   "priority": 20,
-   "reason": "outside the top 10 by cheap ranking"
-  },
-  {
-   "name": "Vidura Bandara Rajapaksa",
-   "priority": 20,
+   "name": "Christian Finnegan",
+   "priority": 30,
    "reason": "outside the top 10 by cheap ranking"
   },
   {
@@ -194,22 +138,32 @@
    "reason": "outside the top 10 by cheap ranking"
   },
   {
-   "name": "Ilana Glazer",
+   "name": "Brendan Scannell",
    "priority": 20,
    "reason": "outside the top 10 by cheap ranking"
   },
   {
-   "name": "Joanne McNally",
+   "name": "Nate Varrone",
    "priority": 20,
    "reason": "outside the top 10 by cheap ranking"
   },
   {
-   "name": "Adam Ray",
-   "priority": 19,
+   "name": "Do It",
+   "priority": 20,
    "reason": "outside the top 10 by cheap ranking"
   },
   {
    "name": "Johnny Pemberton",
+   "priority": 15,
+   "reason": "outside the top 10 by cheap ranking"
+  },
+  {
+   "name": "Mark Simmons",
+   "priority": 15,
+   "reason": "outside the top 10 by cheap ranking"
+  },
+  {
+   "name": "Faculty Lounge",
    "priority": 15,
    "reason": "outside the top 10 by cheap ranking"
   },
@@ -219,18 +173,23 @@
    "reason": "outside the top 10 by cheap ranking"
   },
   {
+   "name": "Ilana Glazer",
+   "priority": 10,
+   "reason": "outside the top 10 by cheap ranking"
+  },
+  {
+   "name": "Adam Ray",
+   "priority": 10,
+   "reason": "outside the top 10 by cheap ranking"
+  },
+  {
    "name": "Jess Hilarious",
    "priority": 10,
    "reason": "outside the top 10 by cheap ranking"
   },
   {
-   "name": "Brendan Scannell",
-   "priority": 5,
-   "reason": "outside the top 10 by cheap ranking"
-  },
-  {
-   "name": "Nate Varrone",
-   "priority": 5,
+   "name": "Ruby Setnik",
+   "priority": 10,
    "reason": "outside the top 10 by cheap ranking"
   },
   {
@@ -255,6 +214,26 @@
   },
   {
    "name": "Jordan Jensen",
+   "priority": 5,
+   "reason": "outside the top 10 by cheap ranking"
+  },
+  {
+   "name": "Kendall Farrell",
+   "priority": 5,
+   "reason": "outside the top 10 by cheap ranking"
+  },
+  {
+   "name": "Nasser Al-Rayess",
+   "priority": 5,
+   "reason": "outside the top 10 by cheap ranking"
+  },
+  {
+   "name": "Abolish Everything",
+   "priority": 5,
+   "reason": "outside the top 10 by cheap ranking"
+  },
+  {
+   "name": "Picture This",
    "priority": 5,
    "reason": "outside the top 10 by cheap ranking"
   },
@@ -292,12 +271,24 @@
    "name": "Rainbow Riot",
    "priority": 0,
    "reason": "outside the top 10 by cheap ranking"
+  },
+  {
+   "name": "Josh Sharp",
+   "priority": 0,
+   "reason": "outside the top 10 by cheap ranking"
+  },
+  {
+   "name": "Megan Botnick Headlines",
+   "priority": 0,
+   "reason": "outside the top 10 by cheap ranking"
+  },
+  {
+   "name": "Laughing Lassi",
+   "priority": 0,
+   "reason": "outside the top 10 by cheap ranking"
   }
  ],
- "estimated_tokens_saved": 333000,
- "estimate_basis": "9000 tokens per last30days run, 37 runs avoided out of 39",
- "no_recent_data": [
-  "Sophie Buddle",
-  "Josh Sharp"
- ]
+ "estimated_tokens_saved": 387000,
+ "estimate_basis": "9000 tokens per last30days run, 43 runs avoided out of 43",
+ "no_recent_data": []
 }

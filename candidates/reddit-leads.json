@@ -1,5 +1,5 @@
 {
- "retrieved_at": "2026-09-20T11:01:29.516Z",
+ "retrieved_at": "2026-09-21T11:01:43.452Z",
  "note": "Promoter posts from NYC neighborhood subreddits, last 14 days. Leads only: open the linked page or the venue site before anything enters the data; register the venue first.",
  "subreddits": [
   "nycevents",
@@ -27,6 +27,24 @@
  ],
  "leads": [
   {
+   "id": "1wlme6y",
+   "date": "2026-09-20",
+   "subreddit": "crownheights",
+   "title": "TONIGHT! Free Comedy @ Bar Bayeux!",
+   "score": 1,
+   "comments": 0,
+   "url": "https://www.reddit.com/r/crownheights/comments/1wlme6y/tonight_free_comedy_bar_bayeux/",
+   "venues_mentioned": [],
+   "when_mentioned": "Sunday, 8:30PM at Bar Bayeux, we feature club ",
+   "time_mentioned": "8:30PM",
+   "links": [
+    "https://www.eventbrite.com/e/free-brooklyn-nyc-standup-comedy-show-post-moves-comedy-every-sunday-tickets-662659320867"
+   ],
+   "free": true,
+   "new_since_last_run": true,
+   "excerpt": "Hey! I run a stand-up comedy show called Post Moves Comedy. Every Sunday, 8:30PM at Bar Bayeux, we feature club comics and folks who’ve been on TV, Don’t Tell, Netflix, and more. This next show will feature some HITTERS! RSVP now for a chance at a free drink and pull up for some "
+  },
+  {
    "id": "1wknf61",
    "date": "2026-09-19",
    "subreddit": "nycevents",
@@ -41,7 +59,7 @@
     "https://www.eventbrite.com/e/fun-in-moderation-sketch-comedy-tickets-1995573422827?\\_gl=1\\*8fd8hw\\*\\_gcl\\_au\\*NDE4NTcwNjM2LjE3ODczNTk4MTc.\\*\\_ga\\*MTkxNzE1MjkzNS4xNzg0MTUzNzk5\\*\\_ga\\_LN3PNYXF7B\\*czE3ODkwNzg4MjIkbzM3JGcxJHQxNzg5MDc4ODMzJGo0OSRsMCRoMA.."
    ],
    "free": false,
-   "new_since_last_run": true,
+   "new_since_last_run": false,
    "excerpt": "$18 with promo code: FIM https://www.eventbrite.com/e/fun-in-moderation-sketch-comedy-tickets-1995573422827?\\_gl=1\\*8fd8hw\\*\\_gcl\\_au\\*NDE4NTcwNjM2LjE3ODczNTk4MTc.\\*\\_ga\\*MTkxNzE1MjkzNS4xNzg0MTUzNzk5\\*\\_ga\\_LN3PNYXF7B\\*czE3ODkwNzg4MjIkbzM3JGcxJHQxNzg5MDc4ODMzJGo0OSRsMCRoMA.."
   },
   {
@@ -59,7 +77,7 @@
     "https://www.eventbrite.com/e/fun-in-moderation-sketch-comedy-tickets-1995573422827?\\_gl=1\\*8fd8hw\\*\\_gcl\\_au\\*NDE4NTcwNjM2LjE3ODczNTk4MTc.\\*\\_ga\\*MTkxNzE1MjkzNS4xNzg0MTUzNzk5\\*\\_ga\\_LN3PNYXF7B\\*czE3ODkwNzg4MjIkbzM3JGcxJHQxNzg5MDc4ODMzJGo0OSRsMCRoMA.."
    ],
    "free": false,
-   "new_since_last_run": true,
+   "new_since_last_run": false,
    "excerpt": "$18 with promo code: FIM https://www.eventbrite.com/e/fun-in-moderation-sketch-comedy-tickets-1995573422827?\\_gl=1\\*8fd8hw\\*\\_gcl\\_au\\*NDE4NTcwNjM2LjE3ODczNTk4MTc.\\*\\_ga\\*MTkxNzE1MjkzNS4xNzg0MTUzNzk5\\*\\_ga\\_LN3PNYXF7B\\*czE3ODkwNzg4MjIkbzM3JGcxJHQxNzg5MDc4ODMzJGo0OSRsMCRoMA.."
   },
   {
@@ -77,7 +95,7 @@
     "https://www.eventbrite.com/e/fun-in-moderation-sketch-comedy-tickets-1995573422827?\\_gl=1\\*8fd8hw\\*\\_gcl\\_au\\*NDE4NTcwNjM2LjE3ODczNTk4MTc.\\*\\_ga\\*MTkxNzE1MjkzNS4xNzg0MTUzNzk5\\*\\_ga\\_LN3PNYXF7B\\*czE3ODkwNzg4MjIkbzM3JGcxJHQxNzg5MDc4ODMzJGo0OSRsMCRoMA.."
    ],
    "free": false,
-   "new_since_last_run": true,
+   "new_since_last_run": false,
    "excerpt": "$18 tickets with promo code: FIM https://www.eventbrite.com/e/fun-in-moderation-sketch-comedy-tickets-1995573422827?\\_gl=1\\*8fd8hw\\*\\_gcl\\_au\\*NDE4NTcwNjM2LjE3ODczNTk4MTc.\\*\\_ga\\*MTkxNzE1MjkzNS4xNzg0MTUzNzk5\\*\\_ga\\_LN3PNYXF7B\\*czE3ODkwNzg4MjIkbzM3JGcxJHQxNzg5MDc4ODMzJGo0OSRsMCRoM"
   },
   {
@@ -85,7 +103,7 @@
    "date": "2026-09-19",
    "subreddit": "parkslope",
    "title": "If you don’t have plans tonight, swing by Roots Cafe at 8 pm for singing, comedy, music and other very serious things.",
-   "score": 11,
+   "score": 10,
    "comments": 0,
    "url": "https://www.reddit.com/r/parkslope/comments/1wkqfzm/if_you_dont_have_plans_tonight_swing_by_roots/",
    "venues_mentioned": [],
@@ -95,7 +113,7 @@
     "http://www.eventbrite.com/e/very-serious-business-a-very-fun-variety-show-tickets-1618749426109"
    ],
    "free": false,
-   "new_since_last_run": true,
+   "new_since_last_run": false,
    "excerpt": "Hey! My name is Dan and I cohost a really fun monthly variety show at Roots Cafe called Very Serious Business. It’s always a great welcoming vibe, with awesome talent and BYOB so if you swing through, let me know you saw this post and I’ll buy you a beer (or two) during the show."
   },
   {
@@ -153,7 +171,7 @@
    "date": "2026-09-18",
    "subreddit": "Bushwick",
    "title": "Do you like weird books?",
-   "score": 67,
+   "score": 71,
    "comments": 33,
    "url": "https://www.reddit.com/r/Bushwick/comments/1wjba03/do_you_like_weird_books/",
    "venues_mentioned": [],
@@ -169,7 +187,7 @@
    "date": "2026-09-18",
    "subreddit": "astoria",
    "title": "Astoria Stand Up Comedy Tomorrow 9/19",
-   "score": 7,
+   "score": 9,
    "comments": 2,
    "url": "https://www.reddit.com/r/astoria/comments/1wk3ckt/astoria_stand_up_comedy_tomorrow_919/",
    "venues_mentioned": [],
@@ -187,7 +205,7 @@
    "date": "2026-09-18",
    "subreddit": "astoria",
    "title": "Free stand-up comedy every Friday at The Shillelagh Tavern 🎤",
-   "score": 8,
+   "score": 9,
    "comments": 0,
    "url": "https://www.reddit.com/r/astoria/comments/1wjyef4/free_standup_comedy_every_friday_at_the/",
    "venues_mentioned": [
@@ -207,7 +225,7 @@
    "date": "2026-09-18",
    "subreddit": "astoria",
    "title": "Alvin Kuai Headlines Popcorn Comedy at Oliver’s Astoria Tonight (Sep 18 @ 8pm)!",
-   "score": 8,
+   "score": 7,
    "comments": 0,
    "url": "https://www.reddit.com/r/astoria/comments/1wjubba/alvin_kuai_headlines_popcorn_comedy_at_olivers/",
    "venues_mentioned": [
@@ -340,7 +358,7 @@
    "date": "2026-09-17",
    "subreddit": "nycComedy",
    "title": "TWO SEATS LEFT! THURS, SEPT 17, 8:30 • Great comics (comedian bios at ticket link), plus a one in 35 chance your bar tab gets paid for. No drink min. Fun vibe. Check it out at The Whiskey Cellar - 77 East 7th Street - $12. Last show sold out. Come have fun and say hi",
-   "score": 7,
+   "score": 6,
    "comments": 2,
    "url": "https://www.reddit.com/r/nycComedy/comments/1wiivbi/two_seats_left_thurs_sept_17_830_great_comics/",
    "venues_mentioned": [],
@@ -392,7 +410,7 @@
    "date": "2026-09-17",
    "subreddit": "lowereastside",
    "title": "Back to school season fun",
-   "score": 4,
+   "score": 5,
    "comments": 0,
    "url": "https://www.reddit.com/r/lowereastside/comments/1wisnol/back_to_school_season_fun/",
    "venues_mentioned": [],
@@ -446,7 +464,7 @@
    "date": "2026-09-17",
    "subreddit": "astoria",
    "title": "Standup Comedy show TONIGHT 7:30 PM GROVE 34 ASTORIA",
-   "score": 4,
+   "score": 5,
    "comments": 0,
    "url": "https://www.reddit.com/r/astoria/comments/1wiztaj/standup_comedy_show_tonight_730_pm_grove_34/",
    "venues_mentioned": [
@@ -532,7 +550,7 @@
    "date": "2026-09-16",
    "subreddit": "Bushwick",
    "title": "Mosaic",
-   "score": 15,
+   "score": 14,
    "comments": 4,
    "url": "https://www.reddit.com/r/Bushwick/comments/1wi1577/mosaic/",
    "venues_mentioned": [
@@ -550,7 +568,7 @@
    "date": "2026-09-16",
    "subreddit": "parkslope",
    "title": "This Friday 9/18/26 7:30PM Standup Comedy at Fort Hamilton Distillery (Industry City, Brooklyn)",
-   "score": 3,
+   "score": 4,
    "comments": 0,
    "url": "https://www.reddit.com/r/parkslope/comments/1wi7ku4/this_friday_91826_730pm_standup_comedy_at_fort/",
    "venues_mentioned": [],
@@ -583,7 +601,7 @@
    "subreddit": "crownheights",
    "title": "Crown Heights Weekly Events Thread 9/16-9/23",
    "score": 19,
-   "comments": 12,
+   "comments": 13,
    "url": "https://www.reddit.com/r/crownheights/comments/1wi8ytj/crown_heights_weekly_events_thread_916923/",
    "venues_mentioned": [],
    "when_mentioned": "sunday-tickets-662659320867) @ [Bar Bayeux](ht",
@@ -618,7 +636,7 @@
    "date": "2026-09-16",
    "subreddit": "BedStuy",
    "title": "I am hosting/producing the September standup comedy showcase at The Salon on Kingston on my birthday next Wednesday! (Details in comments)",
-   "score": 12,
+   "score": 13,
    "comments": 1,
    "url": "https://www.reddit.com/r/BedStuy/comments/1wi3bxb/i_am_hostingproducing_the_september_standup/",
    "venues_mentioned": [],
@@ -634,7 +652,7 @@
    "date": "2026-09-16",
    "subreddit": "eastvillage",
    "title": "Sometimes we need a little nudge...",
-   "score": 56,
+   "score": 55,
    "comments": 9,
    "url": "https://www.reddit.com/r/eastvillage/comments/1whzz00/sometimes_we_need_a_little_nudge/",
    "venues_mentioned": [],
@@ -775,7 +793,7 @@
    "date": "2026-09-14",
    "subreddit": "parkslope",
    "title": "Come to a local horror comedy movie screening this weekend",
-   "score": 7,
+   "score": 5,
    "comments": 1,
    "url": "https://www.reddit.com/r/parkslope/comments/1wg35iv/come_to_a_local_horror_comedy_movie_screening/",
    "venues_mentioned": [],
@@ -881,7 +899,7 @@
    "date": "2026-09-12",
    "subreddit": "williamsburg",
    "title": "Hey Brooklyn🗽I’ll be headlining Eastville comedy club this Sunday 9/13!",
-   "score": 1,
+   "score": 2,
    "comments": 1,
    "url": "https://www.reddit.com/r/williamsburg/comments/1wecx01/hey_brooklynill_be_headlining_eastville_comedy/",
    "venues_mentioned": [
@@ -919,7 +937,7 @@
    "date": "2026-09-12",
    "subreddit": "astoria",
    "title": "Comedy Show Tonight at QED! (DM me for free tickets, we have a few left)",
-   "score": 4,
+   "score": 5,
    "comments": 0,
    "url": "https://www.reddit.com/r/astoria/comments/1weh3vw/comedy_show_tonight_at_qed_dm_me_for_free_tickets/",
    "venues_mentioned": [],
@@ -973,7 +991,7 @@
    "date": "2026-09-12",
    "subreddit": "ridgewood",
    "title": "Comedy show at Bar Freda 9.17!",
-   "score": 2,
+   "score": 1,
    "comments": 0,
    "url": "https://www.reddit.com/r/ridgewood/comments/1we2npj/comedy_show_at_bar_freda_917/",
    "venues_mentioned": [
@@ -985,7 +1003,7 @@
     "https://tickets.venuepilot.com/e/all-show-no-boat-comedy-at-bar-freda-2026-09-17-freda-bar-upstairs-ridgewood-df05eb"
    ],
    "free": false,
-   "new_since_last_run": true,
+   "new_since_last_run": false,
    "excerpt": "Hey! Bringing a stacked lineup to Bar Freda, your favorite artist positive venue on 9/17! Doors at 9pm, show at 9:30pm. Suggested donation of $10-- https://tickets.venuepilot.com/e/all-show-no-boat-comedy-at-bar-freda-2026-09-17-freda-bar-upstairs-ridgewood-df05eb "
   },
   {
@@ -993,7 +1011,7 @@
    "date": "2026-09-11",
    "subreddit": "nycevents",
    "title": "The Power Joker Sex Worker Rights Show With Discount Code",
-   "score": 7,
+   "score": 8,
    "comments": 1,
    "url": "https://www.reddit.com/r/nycevents/comments/1wdsvob/the_power_joker_sex_worker_rights_show_with/",
    "venues_mentioned": [
@@ -1173,7 +1191,7 @@
    "date": "2026-09-11",
    "subreddit": "parkslope",
    "title": "ShakesBEER pub crawl!",
-   "score": 3,
+   "score": 4,
    "comments": 1,
    "url": "https://www.reddit.com/r/parkslope/comments/1wdmuvq/shakesbeer_pub_crawl/",
    "venues_mentioned": [],
@@ -1251,7 +1269,7 @@
    "date": "2026-09-10",
    "subreddit": "astoria",
    "title": "Free comedy every Friday in Astoria — Bomb Shelter Comedy 🎤",
-   "score": 6,
+   "score": 5,
    "comments": 1,
    "url": "https://www.reddit.com/r/astoria/comments/1wcr2xa/free_comedy_every_friday_in_astoria_bomb_shelter/",
    "venues_mentioned": [],
@@ -1335,7 +1353,7 @@
    "date": "2026-09-09",
    "subreddit": "parkslope",
    "title": "Friday 9/18/26 7:30PM Standup Comedy at Fort Hamilton Distillery (Industry City, Brooklyn)",
-   "score": 0,
+   "score": 1,
    "comments": 3,
    "url": "https://www.reddit.com/r/parkslope/comments/1wbkaiv/friday_91826_730pm_standup_comedy_at_fort/",
    "venues_mentioned": [],
@@ -1385,7 +1403,7 @@
    "date": "2026-09-08",
    "subreddit": "nycevents",
    "title": "Stand up Comedy This Thursday! Lower East Side!",
-   "score": 6,
+   "score": 4,
    "comments": 0,
    "url": "https://www.reddit.com/r/nycevents/comments/1wabzp6/stand_up_comedy_this_thursday_lower_east_side/",
    "venues_mentioned": [
@@ -1425,7 +1443,7 @@
    "date": "2026-09-08",
    "subreddit": "williamsburg",
    "title": "Free Comedy Show 9/9 @ Rose's R&amp;R Bar!",
-   "score": 4,
+   "score": 3,
    "comments": 0,
    "url": "https://www.reddit.com/r/williamsburg/comments/1waw4ir/free_comedy_show_99_roses_rr_bar/",
    "venues_mentioned": [],
@@ -1491,42 +1509,6 @@
    "free": false,
    "new_since_last_run": false,
    "excerpt": "Looking for Tuesday night plans? Watch the so-bad-it's-good 80s horror movie *Basket Case* with stand-up comedians Santiago Angel, Demetrius Fields, and Olivia Stadler as they riff on and roast this demented film. It's a great way to get spooky season started! 📅 Tuesday, Septemb"
-  },
-  {
-   "id": "1w92wtc",
-   "date": "2026-09-06",
-   "subreddit": "parkslope",
-   "title": "TONIGHT! Free Comedy @ Bar Bayeux!",
-   "score": 2,
-   "comments": 0,
-   "url": "https://www.reddit.com/r/parkslope/comments/1w92wtc/tonight_free_comedy_bar_bayeux/",
-   "venues_mentioned": [],
-   "when_mentioned": "Sunday, 8:30PM at Bar Bayeux, we feature club ",
-   "time_mentioned": "8:30PM",
-   "links": [
-    "https://www.eventbrite.com/e/free-brooklyn-nyc-standup-comedy-show-post-moves-comedy-every-sunday-tickets-662659320867"
-   ],
-   "free": true,
-   "new_since_last_run": false,
-   "excerpt": "Hey! I run a stand-up comedy show called Post Moves Comedy. Every Sunday, 8:30PM at Bar Bayeux, we feature club comics and folks who’ve been on TV, Don’t Tell, Netflix, and more. This next show will feature some HITTERS! RSVP now for a chance at a free drink and pull up for some "
-  },
-  {
-   "id": "1w92tjd",
-   "date": "2026-09-06",
-   "subreddit": "crownheights",
-   "title": "TONIGHT! Free Comedy @ Bar Bayeux!",
-   "score": 4,
-   "comments": 1,
-   "url": "https://www.reddit.com/r/crownheights/comments/1w92tjd/tonight_free_comedy_bar_bayeux/",
-   "venues_mentioned": [],
-   "when_mentioned": "Sunday, 8:30PM at Bar Bayeux, we feature club ",
-   "time_mentioned": "8:30PM",
-   "links": [
-    "https://www.eventbrite.com/e/free-brooklyn-nyc-standup-comedy-show-post-moves-comedy-every-sunday-tickets-662659320867"
-   ],
-   "free": true,
-   "new_since_last_run": false,
-   "excerpt": "Hey! I run a stand-up comedy show called Post Moves Comedy. Every Sunday, 8:30PM at Bar Bayeux, we feature club comics and folks who’ve been on TV, Don’t Tell, Netflix, and more. This next show will feature some HITTERS! RSVP now for a chance at a free drink and pull up for some "
   }
  ]
 }
