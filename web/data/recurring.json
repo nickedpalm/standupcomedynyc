@@ -473,5 +473,24 @@
   "source_label": "Greatest Show Ever (producer) events page",
   "verified_at": "2026-09-20",
   "verification_note": "greatestshowever.com/events/ (fetched 2026-09-20) lists, for this coming week: 'Sep 24, 8:30 PM - From $14.64: The original weekly show. Special Guest, secret lineup.' plus Fri Sep 25 (8:15pm and 10:00pm, 'Primetime Friday') and Sat Sep 26 (7:15pm and 8:45pm) showtimes. Address 174 E 2nd St (Original Barbershop) is used consistently across this producer's Eventbrite listings for the same show, e.g. https://www.eventbrite.com/e/live-at-the-barbershop-nyc-hottest-stand-up-comedy-show-in-nyc-byob-tickets-1999037294360 (Sep 10, 2026 occurrence, same venue and description)."
+ },
+ {
+  "id": "comedy-at-alke-cafe-saturday",
+  "tier": "recurring",
+  "title": "Comedy at Alke Cafe",
+  "cadence": "Every Saturday",
+  "weekday": 6,
+  "time_label": "Doors 7pm · show 8pm",
+  "venue": "Alke Cafe",
+  "address": "1838 Adam Clayton Powell Jr Blvd, Manhattan",
+  "neighborhood": "Harlem",
+  "price_label": "$15 (per the producer page)",
+  "price_amount": 15,
+  "format": "Stand-up",
+  "description": "South Harlem bar-and-kitchen just off Central Park; doors at seven, show at eight every Saturday, with a posted weekly lineup and a full bar in the back room. Producer Chris Brown books the room; the venue's own page calls it 'some of the best comedians in the city'.",
+  "source_url": "https://comedyatalke.com/",
+  "source_label": "Comedy at Alke producer page",
+  "verified_at": "2026-09-22",
+  "verification_note": "Registered from Reddit leads (r/nycComedy 2026-09-22). Producer site comedyatalke.com: 'Join us every Saturday night at 8:00pm for hilarious stand-up comedy shows with some of the best comedians in the city!' Address 1838 Adam Clayton Powell Jr Blvd confirmed in the alkecafe.co footer and on comedyatalke.com."
  }
 ]

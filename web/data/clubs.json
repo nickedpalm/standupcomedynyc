@@ -238,5 +238,25 @@
   "source_label": "Show page (comic lineup) + Terms & Conditions block (two-drink min, age policy, no refunds, 20-minute arrival, 20% gratuity)",
   "verified_at": "2026-09-20",
   "verification_note": "Read from the show page's Terms & Conditions block on greenwichvillagecomedyclub.com: '18 & over or 13+ with parents', 'Two drink minimum (non-alcoholic drinks are available)', 'IMPORTANT: Customers must arrive 20 minutes before showtime', 'NO REFUNDS', '20 percent gratuity added to all drink checks'. Address '99 MacDougal Street' is consistent with the venues.json entry registered 2026-09-14. Tickets sold through the venue's own checkout rather than Eventbrite; per-show prices were not legible from the public page (reCAPTCHA-gated cart)."
+ },
+ {
+  "id": "rodneys-comedy-club",
+  "tier": "club",
+  "name": "Rodney's Comedy Club",
+  "rooms": "One showroom on the historic Dangerfield's stage",
+  "address": "1118 1st Ave, Manhattan",
+  "neighborhood": "Upper East Side",
+  "price_label": "Varies by show; see the show page",
+  "price_low": null,
+  "price_high": null,
+  "minimum": "$20 per-person showroom minimum purchase (snacks + non-alcoholic and alcoholic drinks). NY tax and an 18% gratuity added to the bill",
+  "age": "18+, or 16+ with an adult",
+  "reservations": "Tickets via the club site; seating assigned by on-time check-in, party as purchased. Late seating not guaranteed. Doors 30 minutes before showtime. No-shows not rebooked, no refunds.",
+  "character": "The re-imagining of the old Dangerfield's room — same Upper East Side stage that ran the longest-running stand-up club in the country, now back with ticketed nightly showcases and weekend headliners. The $20 minimum is the real budget item on top of the ticket.",
+  "calendar_url": "https://rodneysnewyorkcomedyclub.com/calendar",
+  "source_url": "https://rodneysnewyorkcomedyclub.com/faq",
+  "source_label": "FAQ (minimum, age, seating, doors, refunds) + About (lineage, address)",
+  "verified_at": "2026-09-22",
+  "verification_note": "Read directly from the club's FAQ ('$20-showroom minimum purchase per person', '18 and up. Or 16 and up if accompanied by an adult at their discretion', 'Seating will be assigned based on on-time check in by party, as purchased', 'Doors 30 mins prior to showtime', 'Late seating is not guaranteed', 'No refunds or exchanges') and About page ('Rodney's is the re-imagination and redesign of the legendary Dangerfields, the oldest comedy club in the US'). Address '1118 1st avenue New York, NY 10065' confirmed in both pages. Ticket prices not published; shows run $20–30 range based on the calendar's ticketed listings (Jackie Martling, Myq Kaplan's Ugly Pancake Festival, etc.)."
  }
 ]

@@ -1156,5 +1156,50 @@
   "bytes": 304190,
   "sha256": "60626ecfb16a8f691d2edbddd46a5c432546caf12d6c9f5bebe35a9d118edbae",
   "reuse_status": "Official promotional artwork; no separate reuse license identified. Local review draft only."
+ },
+ {
+  "event_id": "piece-of-work-union-hall-2026-09-26",
+  "src": "/assets/posters/piece-of-work-union-hall-2026-09-26.jpg",
+  "width": 940,
+  "height": 470,
+  "source_url": "https://www.eventbrite.com/e/piece-of-work-a-new-hour-from-michael-cruz-kayne-tickets-2000076579891",
+  "credit": "Artwork: Union Hall / show organizer",
+  "alt": "Piece Of Work: A New Hour From Michael Cruz Kayne at Union Hall promotional artwork.",
+  "kind": "dated event flyer",
+  "original_image_url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1192924144%2F282041210522%2F1%2Foriginal.20260907-233348?crop=focalpoint&fit=crop&w=940&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=7aea79921cd46763e0a0ddd9aac0d61c",
+  "retrieved_at": "2026-09-22",
+  "bytes": 58714,
+  "sha256": "4f6633f745903fa8d2d5131cbae2ee1f4aaadc58973e87f256b109bb88e8cdef",
+  "reuse_status": "Official promotional artwork; no separate reuse license identified. Local review draft only."
+ },
+ {
+  "event_id": "do-it-live-w-chika-caveat-2026-09-24",
+  "src": "/assets/posters/do-it-live-w-chika-caveat-2026-09-24.jpg",
+  "width": 940,
+  "height": 470,
+  "source_url": "https://www.eventbrite.com/e/do-it-live-w-chika-tickets-1976663455606",
+  "credit": "Artwork: Caveat / show organizer",
+  "alt": "Do It Live w/ Chika promotional artwork.",
+  "kind": "dated event flyer",
+  "original_image_url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1193599466%2F207096185123%2F1%2Foriginal.20260915-212011?w=940&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C1920%2C960&s=8b3e1e79672748e22d9397adbf743933",
+  "retrieved_at": "2026-09-22",
+  "bytes": 57270,
+  "sha256": "c99c339b9124af40326f9a15bc4566cdf28f8219f9ad93a2bbc15618edfc94ad",
+  "reuse_status": "Official promotional artwork; no separate reuse license identified. Local review draft only."
+ },
+ {
+  "event_id": "daylighters-littlefield-2026-10-04",
+  "src": "/assets/posters/daylighters-littlefield-2026-10-04.jpg",
+  "width": 940,
+  "height": 470,
+  "source_url": "https://www.eventbrite.com/e/daylighters-a-comedy-show-you-can-bring-your-kids-to-tickets-1996820945200",
+  "credit": "Artwork: Littlefield / show organizer",
+  "alt": "Daylighters (A Comedy Show You Can Bring Your Kids To) promotional artwork.",
+  "kind": "dated event flyer",
+  "original_image_url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1190386505%2F400863417153%2F1%2Foriginal.20260805-163314?crop=focalpoint&fit=crop&w=940&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=f31015a63fcc711cba1d90f99a756938",
+  "retrieved_at": "2026-09-22",
+  "bytes": 145991,
+  "sha256": "434972c1dc7b4148bb00e3feffe6ac72e871a60fdffae54f759adf20321d5704",
+  "reuse_status": "Official promotional artwork; no separate reuse license identified. Local review draft only."
  }
 ]

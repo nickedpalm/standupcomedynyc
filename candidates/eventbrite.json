@@ -1,5 +1,5 @@
 {
- "retrieved_at": "2026-09-21T11:01:21.218Z",
+ "retrieved_at": "2026-09-22T11:00:44.460Z",
  "note": "Leads from Eventbrite organizer pages of registered rooms. Open the event page before adding a pick; artwork needs a POSTER-SOURCES record.",
  "organizers": [
   {
@@ -36,101 +36,6 @@
   }
  ],
  "events": [
-  {
-   "venue": "Caveat",
-   "neighborhood": "Lower East Side",
-   "organizer": "https://www.eventbrite.com/o/caveat-13580085802",
-   "title": "And Scene",
-   "date": "2026-09-21",
-   "time": "7pm",
-   "starts_at": "2026-09-21T19:00:00-04:00",
-   "ends_at": "2026-09-21T20:05:00-04:00",
-   "location_name": "Caveat",
-   "location_address": "21 A Clinton Street, New York, NY 10002, New York",
-   "price_from": 18.76,
-   "url": "https://www.eventbrite.com/e/and-scene-tickets-1994373532924",
-   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1189092009%2F207096185123%2F1%2Foriginal.20260717-191724?w=940&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2160%2C1080&s=4bf26b475ce61c92c80513164aa5d986",
-   "description": "Actors are given a scene & learn their lines, improvisers are given nothing & must make it work.",
-   "venue_name_matches": true,
-   "already_a_pick": true,
-   "seen_before": true
-  },
-  {
-   "venue": "Littlefield",
-   "neighborhood": "Gowanus",
-   "organizer": "https://www.eventbrite.com/o/littlefield-18046024060",
-   "title": "Slick: The Release Party",
-   "date": "2026-09-21",
-   "time": "7:30pm",
-   "starts_at": "2026-09-21T19:30:00-04:00",
-   "ends_at": "2026-09-21",
-   "location_name": "littlefield",
-   "location_address": "635 Sackett Street, Brooklyn, NY 11217, Brooklyn",
-   "price_from": 24.36,
-   "url": "https://www.eventbrite.com/e/slick-the-release-party-tickets-1996821313301",
-   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1193110172%2F404652903161%2F1%2Foriginal.20260909-222617?crop=focalpoint&fit=crop&w=940&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=fcd623ae43539bbd40fad831041db9a7",
-   "description": "An award-winning absurdist workplace comedy web series!",
-   "venue_name_matches": true,
-   "already_a_pick": false,
-   "seen_before": true
-  },
-  {
-   "venue": "Union Hall",
-   "neighborhood": "Park Slope",
-   "organizer": "https://www.eventbrite.com/o/union-hall-17899496497",
-   "title": "Frankenstein's Baby",
-   "date": "2026-09-21",
-   "time": "7:30pm",
-   "starts_at": "2026-09-21T19:30:00-04:00",
-   "ends_at": "2026-09-21T21:00:00-04:00",
-   "location_name": "Union Hall",
-   "location_address": "702 Union St., Brooklyn, NY 11215, Brooklyn",
-   "price_from": 15.92,
-   "url": "https://www.eventbrite.com/e/frankensteins-baby-tickets-1998360574272",
-   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1189497798%2F282041210522%2F1%2Foriginal.20260723-192215?crop=focalpoint&fit=crop&w=940&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=d9cfd3ac8a1c7a998da8ef308df137a7",
-   "description": "Frankenstein’s Baby - Monday, September 21 - 7:00pm Doors / 7:30pm Show",
-   "venue_name_matches": true,
-   "already_a_pick": true,
-   "seen_before": true
-  },
-  {
-   "venue": "Comic Strip Live",
-   "neighborhood": "Upper East Side",
-   "organizer": "https://www.eventbrite.com/o/comic-strip-live-comedy-club-8100188167",
-   "title": "Christian Finnegan!",
-   "date": "2026-09-21",
-   "time": "8pm",
-   "starts_at": "2026-09-21T20:00:00-04:00",
-   "ends_at": "2026-09-21",
-   "location_name": "Comic Strip Live",
-   "location_address": "1568 2nd Ave, New York, NY 10028, New York",
-   "price_from": 25.71,
-   "url": "https://www.eventbrite.com/e/christian-finnegan-tickets-1998677862289",
-   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1191707196%2F136153380524%2F1%2Foriginal.20260823-183249?crop=focalpoint&fit=crop&w=940&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.471&fp-y=0.343&s=89e5dc3ff30d1036cbc41bdf3492154f",
-   "description": "Be part of history, celebrating 50 years of Comedy at the World Comic Strip! Comedians from, HBO, The Tonight Show, SNL & More ~",
-   "venue_name_matches": true,
-   "already_a_pick": true,
-   "seen_before": true
-  },
-  {
-   "venue": "Caveat",
-   "neighborhood": "Lower East Side",
-   "organizer": "https://www.eventbrite.com/o/caveat-13580085802",
-   "title": "Marcel Lucont's Whine List",
-   "date": "2026-09-21",
-   "time": "9:30pm",
-   "starts_at": "2026-09-21T21:30:00-04:00",
-   "ends_at": "2026-09-21T22:50:00-04:00",
-   "location_name": "Caveat",
-   "location_address": "21 A Clinton Street, New York, NY 10002, New York",
-   "price_from": 31.21,
-   "url": "https://www.eventbrite.com/e/marcel-luconts-whine-list-tickets-1997063611020",
-   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1190498415%2F207096185123%2F1%2Foriginal.20260806-211150?w=940&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C3000%2C1500&s=236598b18427cfbdf02390e15cc6a8d0",
-   "description": "The multi-award-deserving deadpan Frenchman brings his acclaimed interactive show to NYC for one night only.",
-   "venue_name_matches": true,
-   "already_a_pick": true,
-   "seen_before": true
-  },
   {
    "venue": "Caveat",
    "neighborhood": "Lower East Side",
@@ -585,7 +490,7 @@
    "description": "Greek mythology podcasters unite to improvise a never-before-heard EPIC MYTH, raising money for the young aspiring writers of 826NYC!",
    "venue_name_matches": true,
    "already_a_pick": false,
-   "seen_before": false
+   "seen_before": true
   },
   {
    "venue": "Union Hall",
@@ -623,7 +528,7 @@
    "description": "What if RM hosted The Tonight Show? Comedy, special guests, music, and more.",
    "venue_name_matches": true,
    "already_a_pick": false,
-   "seen_before": false
+   "seen_before": true
   },
   {
    "venue": "Littlefield",
@@ -661,7 +566,7 @@
    "description": "Picture This: Animation Block Party - Saturday, September 26 - 7:00pm Doors / 7:30pm Show",
    "venue_name_matches": true,
    "already_a_pick": false,
-   "seen_before": false
+   "seen_before": true
   },
   {
    "venue": "Comic Strip Live",
@@ -683,6 +588,25 @@
    "seen_before": true
   },
   {
+   "venue": "Caveat",
+   "neighborhood": "Lower East Side",
+   "organizer": "https://www.eventbrite.com/o/caveat-13580085802",
+   "title": "Drunk Planet Earth",
+   "date": "2026-09-26",
+   "time": "9:30pm",
+   "starts_at": "2026-09-26T21:30:00-04:00",
+   "ends_at": "2026-09-26T23:00:00-04:00",
+   "location_name": "Caveat",
+   "location_address": "21 A Clinton Street, New York, NY 10002, New York",
+   "price_from": 0,
+   "url": "https://www.eventbrite.com/e/drunk-planet-earth-tickets-1998225094047",
+   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1191246388%2F207096185123%2F1%2Foriginal.20260817-145130?w=940&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C1078%2C539&s=03cd2c382c08bdea0de15c3b3b31f3af",
+   "description": "A live drinking game show.",
+   "venue_name_matches": true,
+   "already_a_pick": false,
+   "seen_before": false
+  },
+  {
    "venue": "Littlefield",
    "neighborhood": "Gowanus",
    "organizer": "https://www.eventbrite.com/o/littlefield-18046024060",
@@ -700,6 +624,25 @@
    "venue_name_matches": true,
    "already_a_pick": false,
    "seen_before": true
+  },
+  {
+   "venue": "Caveat",
+   "neighborhood": "Lower East Side",
+   "organizer": "https://www.eventbrite.com/o/caveat-13580085802",
+   "title": "On The Watchlist with Jay Servedio",
+   "date": "2026-09-27",
+   "time": "5pm",
+   "starts_at": "2026-09-27T17:00:00-04:00",
+   "ends_at": "2026-09-27T18:30:00-04:00",
+   "location_name": "Caveat",
+   "location_address": "21 A Clinton Street, New York, NY 10002, New York",
+   "price_from": 18.76,
+   "url": "https://www.eventbrite.com/e/on-the-watchlist-with-jay-servedio-tickets-1998537496451",
+   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1192363552%2F207096185123%2F1%2Foriginal.20260901-134211?w=940&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C1080%2C540&s=e6236c8c9ac621f656cacec0c740f191",
+   "description": "A funny and fearless live late-night show that dismantles the media in real time: One headline, scandal, and conspiracy at a time.",
+   "venue_name_matches": true,
+   "already_a_pick": false,
+   "seen_before": false
   },
   {
    "venue": "Littlefield",
@@ -794,7 +737,7 @@
    "description": "Be part of history, celebrating 50 years of Comedy at the World Comic Strip! Comedians from, HBO, The Tonight Show, SNL & More ~",
    "venue_name_matches": true,
    "already_a_pick": false,
-   "seen_before": false
+   "seen_before": true
   },
   {
    "venue": "Littlefield",
@@ -832,7 +775,7 @@
    "description": "Be part of history, celebrating 50 years of Comedy at the World Comic Strip! Comedians from, HBO, The Tonight Show, SNL & More ~",
    "venue_name_matches": true,
    "already_a_pick": false,
-   "seen_before": false
+   "seen_before": true
   },
   {
    "venue": "Kellogg's Diner",
@@ -889,7 +832,7 @@
    "description": "Tootsie's Video Vault is a bi-annual 3-month short film race featuring filmmakers from all over NYC.",
    "venue_name_matches": true,
    "already_a_pick": false,
-   "seen_before": false
+   "seen_before": true
   },
   {
    "venue": "Littlefield",
@@ -907,6 +850,25 @@
    "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1192723593%2F404652903161%2F1%2Foriginal.20260904-214918?crop=focalpoint&fit=crop&w=940&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=eaeeaf1d8e215772330e04b5bbeafee3",
    "description": "CHOOSE YOUR CHARACTER Nerds & alt icons unite! Anime x kpop x ass shaking x table games all night. Let's make friends! ✨",
    "venue_name_matches": false,
+   "already_a_pick": false,
+   "seen_before": true
+  },
+  {
+   "venue": "Littlefield",
+   "neighborhood": "Gowanus",
+   "organizer": "https://www.eventbrite.com/o/littlefield-18046024060",
+   "title": "Daylighters (A Comedy Show You Can Bring Your Kids To)",
+   "date": "2026-10-04",
+   "time": "3pm",
+   "starts_at": "2026-10-04T15:00:00-04:00",
+   "ends_at": "2026-10-04",
+   "location_name": "littlefield",
+   "location_address": "635 Sackett Street, Brooklyn, NY 11217, Brooklyn",
+   "price_from": 24.36,
+   "url": "https://www.eventbrite.com/e/daylighters-a-comedy-show-you-can-bring-your-kids-to-tickets-1996820945200",
+   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1190386505%2F400863417153%2F1%2Foriginal.20260805-163314?crop=focalpoint&fit=crop&w=940&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=f31015a63fcc711cba1d90f99a756938",
+   "description": "Hosted by Kurt Braunohler",
+   "venue_name_matches": true,
    "already_a_pick": false,
    "seen_before": false
   },
@@ -928,6 +890,25 @@
    "venue_name_matches": false,
    "already_a_pick": false,
    "seen_before": true
+  },
+  {
+   "venue": "Comic Strip Live",
+   "neighborhood": "Upper East Side",
+   "organizer": "https://www.eventbrite.com/o/comic-strip-live-comedy-club-8100188167",
+   "title": "Event Template",
+   "date": "2030-04-01",
+   "time": "8pm",
+   "starts_at": "2030-04-01T20:00:00-04:00",
+   "ends_at": "2030-04-01",
+   "location_name": "Comic Strip Live",
+   "location_address": "1568 2nd Ave, New York, NY 10028, New York",
+   "price_from": 25.71,
+   "url": "https://www.eventbrite.com/e/event-template-tickets-1992600239957",
+   "image": null,
+   "description": "Be part of history, celebrating 50 years of Comedy at the World Comic Strip! Comedians from, HBO, The Tonight Show, SNL & More ~",
+   "venue_name_matches": true,
+   "already_a_pick": false,
+   "seen_before": false
   }
  ],
  "errors": []

@@ -1578,5 +1578,17 @@
     "source_label": "Greatest Show Ever (producer) events page",
     "access_note": "A working barbershop by day; ticketed 40-seat BYOB stand-up multiple nights a week (Thu/Fri/Sat), produced by Greatest Show Ever",
     "verified_at": "2026-09-20"
+  },
+  {
+    "name": "Alke Cafe",
+    "address": "1838 Adam Clayton Powell Jr Blvd, Manhattan",
+    "neighborhood": "Harlem",
+    "borough": "Manhattan",
+    "website": "https://www.alkecafe.co/",
+    "calendar_url": "https://comedyatalke.com/",
+    "source_label": "Alke Cafe venue site + comedyatalke producer page",
+    "access_note": "South Harlem bar and kitchen one block from Central Park; weekly Saturday 8pm stand-up produced by Chris Brown, ticketed on Eventbrite",
+    "verified_at": "2026-09-22",
+    "note": "Registered from Reddit leads (r/nycComedy 2026-09-22). Address from alkecafe.co footer ('1838 Adam Clayton Powell Jr. Blvd, New York, NY 10026'). Producer site comedyatalke.com confirms every Saturday 8pm stand-up."
   }
 ]

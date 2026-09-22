@@ -19,7 +19,6 @@ Generated from `npm run heat` + `npm run research-plan` (last30days for the two 
 - Good God is a show, not a performer; research-plan ran per-performer so the show didn't get its own row.
 
 # Heat notes — 2026-09-21
-
 Generated from `npm run heat` + `npm run research-plan` (last30days for the six names under `run`; reuse cached notes for the two under `reuse`).
 
 ## Rankings
@@ -42,3 +41,25 @@ Generated from `npm run heat` + `npm run research-plan` (last30days for the six 
 ## Ranked on schedule alone (no recent data)
 - David Nihill, Vidura Bandara Rajapaksa, Christian Finnegan, Kevin Sullivan, Brendan Scannell (above).
 - Christian Finnegan's Comic Strip Sep 21 show is tonight; the heat score there leans on the room and the bill, not the signal.
+
+# Heat notes — 2026-09-22
+
+Generated from `npm run heat` + `npm run research-plan` (last30days for the one name under `run`; reuse cached notes for the five under `reuse`).
+
+## Rankings
+- 44 performers ranked from static data
+- Run 1 (Chika / Do It Live w/ Chika), reuse 5 cached, skip 38
+- ~387,000 tokens saved from the research-plan
+
+## Run notes
+- **Chika** (Do It Live w/ Chika at Caveat, Thu Sep 24, 9:30pm): HN and Reddit returned no relevant chatter in the last 30 days — the show is a Caveat regular with a one-year-anniversary taping and a panel format mixing stand-up (Jamell Sirleaf) and political commentary segments, so the absence of recent buzz is a sign the audience is local rather than touring-headliner scale; decide on the room and the format, not buzz.
+
+## Reuse notes (already cached under 7d)
+- Chelsea Handler: cached 6d ago — Beacon Theatre Sep 25, the High and Mighty Tour dates drive the threads.
+- Beth Stelling: cached 6.9d ago — Bell House Sep 26, Boyfriends Kids clip still climbing.
+- Michelle Buteau: cached 1d ago — Bell House Sep 29 / Oct 19.
+- David Nihill: cached 1d ago — no stand-up signal.
+- Vidura Bandara Rajapaksa: cached 1d ago — no stand-up signal.
+
+## Ranked on schedule alone (no recent data)
+- Chika (above). Do It Live's panel format means the pick leans on Caveat's standing room and the political-comedy niche rather than recent online buzz.

@@ -1,10 +1,10 @@
 {
- "generated_at": "2026-09-21T11:16:03.599Z",
- "performers_considered": 43,
+ "generated_at": "2026-09-22T11:07:20.667Z",
+ "performers_considered": 44,
  "shortlist": [
   {
    "name": "Chelsea Handler",
-   "priority": 60
+   "priority": 75
   },
   {
    "name": "Beth Stelling",
@@ -35,22 +35,38 @@
    "priority": 35
   },
   {
-   "name": "Maria Bamford",
-   "priority": 31
+   "name": "Do It",
+   "priority": 35
   },
   {
-   "name": "Asif Ali",
-   "priority": 30
+   "name": "Maria Bamford",
+   "priority": 31
   }
  ],
- "run": [],
+ "run": [
+  {
+   "name": "Do It",
+   "priority": 35,
+   "next": {
+    "id": "do-it-live-w-chika-caveat-2026-09-24",
+    "date": "2026-09-24",
+    "venue": "Caveat",
+    "days": 2,
+    "featured": false,
+    "poster": true,
+    "demand": null
+   },
+   "cheap_signals": [],
+   "reason": "show within 3 days and not yet decided"
+  }
+ ],
  "reuse": [
   {
    "name": "Chelsea Handler",
-   "priority": 60,
+   "priority": 75,
    "cached": {
     "at": "2026-09-16T11:13:57.217Z",
-    "age_days": 5,
+    "age_days": 6,
     "fresh": true,
     "note": "Seven Reddit threads in 30 days (2,226 upvotes, 567 comments) — most chatter around the High and Mighty Tour dates, with a r/Tickets trade thread and a couple r/Standup recaps; top post sits at 1,500+ upvotes. No HN hits. Beacon Theatre Sep 25 is the date the threads are pointing at."
    }
@@ -60,7 +76,7 @@
    "priority": 45,
    "cached": {
     "at": "2026-09-15T13:02:23.710Z",
-    "age_days": 5.9,
+    "age_days": 6.9,
     "fresh": true,
     "note": "Seven r/StandUpComedy threads in 30 days (1,782 upvotes); the Boyfriends Kids clip is still climbing. Bell House Sep 26."
    }
@@ -70,7 +86,7 @@
    "priority": 40,
    "cached": {
     "at": "2026-09-21T11:08:34.917Z",
-    "age_days": 0,
+    "age_days": 1,
     "fresh": true,
     "note": "Only 3 Reddit threads in 30 days, mostly about her Spa Weekend role and outfits — r/FemaleStandupComedy's A Lot of Scalp clip (4pts) is the only stand-up-adjacent one; no HN chatter."
    }
@@ -80,7 +96,7 @@
    "priority": 35,
    "cached": {
     "at": "2026-09-21T11:10:04.175Z",
-    "age_days": 0,
+    "age_days": 1,
     "fresh": true,
     "note": "Four hits in 30 days — one r/UofO thread, three HN stories all about a David-named model and a David Bau paper, not the comedian; no stand-up signal."
    }
@@ -90,7 +106,7 @@
    "priority": 35,
    "cached": {
     "at": "2026-09-21T11:11:41.607Z",
-    "age_days": 0,
+    "age_days": 1,
     "fresh": true,
     "note": "Two r/gtamarketplace and r/DCdump threads in 30 days (2 upvotes total) — no stand-up signal for the Bell House Sep 24 Paradise Gothic Tour date."
    }
@@ -100,35 +116,30 @@
   {
    "name": "Marc Maron",
    "priority": 45,
-   "reason": "next show in 48 days, outside the 10-day window"
+   "reason": "next show in 47 days, outside the 10-day window"
   },
   {
    "name": "Kanan Gill",
    "priority": 35,
-   "reason": "next show in 12 days, outside the 10-day window"
+   "reason": "next show in 11 days, outside the 10-day window"
   },
   {
    "name": "Joanne McNally",
    "priority": 35,
-   "reason": "next show in 47 days, outside the 10-day window"
+   "reason": "next show in 46 days, outside the 10-day window"
   },
   {
    "name": "Maria Bamford",
    "priority": 31,
-   "reason": "next show in 19 days, outside the 10-day window"
+   "reason": "next show in 18 days, outside the 10-day window"
   },
   {
    "name": "Asif Ali",
    "priority": 30,
-   "reason": "next show in 26 days, outside the 10-day window"
-  },
-  {
-   "name": "Daniel Sloss",
-   "priority": 30,
    "reason": "outside the top 10 by cheap ranking"
   },
   {
-   "name": "Christian Finnegan",
+   "name": "Daniel Sloss",
    "priority": 30,
    "reason": "outside the top 10 by cheap ranking"
   },
@@ -148,7 +159,12 @@
    "reason": "outside the top 10 by cheap ranking"
   },
   {
-   "name": "Do It",
+   "name": "Phoebe Robinson",
+   "priority": 20,
+   "reason": "outside the top 10 by cheap ranking"
+  },
+  {
+   "name": "Abolish Everything",
    "priority": 20,
    "reason": "outside the top 10 by cheap ranking"
   },
@@ -193,11 +209,6 @@
    "reason": "outside the top 10 by cheap ranking"
   },
   {
-   "name": "Phoebe Robinson",
-   "priority": 5,
-   "reason": "outside the top 10 by cheap ranking"
-  },
-  {
    "name": "Hot Butter Train",
    "priority": 5,
    "reason": "outside the top 10 by cheap ranking"
@@ -228,12 +239,12 @@
    "reason": "outside the top 10 by cheap ranking"
   },
   {
-   "name": "Abolish Everything",
+   "name": "Picture This",
    "priority": 5,
    "reason": "outside the top 10 by cheap ranking"
   },
   {
-   "name": "Picture This",
+   "name": "Drunk Planet Earth",
    "priority": 5,
    "reason": "outside the top 10 by cheap ranking"
   },
@@ -286,9 +297,16 @@
    "name": "Laughing Lassi",
    "priority": 0,
    "reason": "outside the top 10 by cheap ranking"
+  },
+  {
+   "name": "Event Template",
+   "priority": -10,
+   "reason": "outside the top 10 by cheap ranking"
   }
  ],
  "estimated_tokens_saved": 387000,
- "estimate_basis": "9000 tokens per last30days run, 43 runs avoided out of 43",
- "no_recent_data": []
+ "estimate_basis": "9000 tokens per last30days run, 43 runs avoided out of 44",
+ "no_recent_data": [
+  "Do It"
+ ]
 }

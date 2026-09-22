@@ -1,6 +1,6 @@
 {
  "source": "https://www.badslava.com/new-york-open-mics.php",
- "retrieved_at": "2026-09-21T11:01:22.805Z",
+ "retrieved_at": "2026-09-22T11:00:45.579Z",
  "note": "Crowd-sourced listing. Verify against the venue before adding to web/data/open-mics.json.",
  "dated_rows": 301,
  "recurring": [
@@ -480,7 +480,7 @@
    "time": "10:00pm",
    "details_url": "https://badslava.com/details.php?id=38251",
    "dates": [
-    "2026-09-21"
+    "2026-09-28"
    ],
    "in_open_mics": false,
    "venue_registered": true
@@ -493,7 +493,7 @@
    "time": "3:00pm",
    "details_url": "https://badslava.com/details.php?id=16716",
    "dates": [
-    "2026-09-21"
+    "2026-09-28"
    ],
    "in_open_mics": false,
    "venue_registered": true
@@ -506,7 +506,7 @@
    "time": "3:00pm",
    "details_url": "https://badslava.com/details.php?id=31245",
    "dates": [
-    "2026-09-21"
+    "2026-09-28"
    ],
    "in_open_mics": false,
    "venue_registered": true
@@ -519,7 +519,7 @@
    "time": "4:00pm",
    "details_url": "https://badslava.com/details.php?id=61321",
    "dates": [
-    "2026-09-21"
+    "2026-09-28"
    ],
    "in_open_mics": false,
    "venue_registered": false
@@ -532,7 +532,7 @@
    "time": "4:30pm",
    "details_url": "https://badslava.com/details.php?id=30400",
    "dates": [
-    "2026-09-21"
+    "2026-09-28"
    ],
    "in_open_mics": false,
    "venue_registered": true
@@ -545,7 +545,7 @@
    "time": "4:30pm",
    "details_url": "https://badslava.com/details.php?id=46897",
    "dates": [
-    "2026-09-21"
+    "2026-09-28"
    ],
    "in_open_mics": false,
    "venue_registered": true
@@ -558,7 +558,7 @@
    "time": "4:30pm",
    "details_url": "https://badslava.com/details.php?id=50546",
    "dates": [
-    "2026-09-21"
+    "2026-09-28"
    ],
    "in_open_mics": false,
    "venue_registered": true
@@ -571,7 +571,7 @@
    "time": "5:00pm",
    "details_url": "https://badslava.com/details.php?id=10115",
    "dates": [
-    "2026-09-21"
+    "2026-09-28"
    ],
    "in_open_mics": false,
    "venue_registered": false
@@ -584,7 +584,7 @@
    "time": "5:00pm",
    "details_url": "https://badslava.com/details.php?id=8998",
    "dates": [
-    "2026-09-21"
+    "2026-09-28"
    ],
    "in_open_mics": false,
    "venue_registered": true
@@ -597,7 +597,7 @@
    "time": "5:00pm",
    "details_url": "https://badslava.com/details.php?id=17448",
    "dates": [
-    "2026-09-21"
+    "2026-09-28"
    ],
    "in_open_mics": false,
    "venue_registered": true
@@ -610,7 +610,7 @@
    "time": "5:00pm",
    "details_url": "https://badslava.com/details.php?id=42427",
    "dates": [
-    "2026-09-21"
+    "2026-09-28"
    ],
    "in_open_mics": false,
    "venue_registered": true
@@ -623,7 +623,7 @@
    "time": "5:30pm",
    "details_url": "https://badslava.com/details.php?id=18168",
    "dates": [
-    "2026-09-21"
+    "2026-09-28"
    ],
    "in_open_mics": true,
    "venue_registered": true
@@ -636,7 +636,7 @@
    "time": "5:30pm",
    "details_url": "https://badslava.com/details.php?id=54553",
    "dates": [
-    "2026-09-21"
+    "2026-09-28"
    ],
    "in_open_mics": false,
    "venue_registered": true
@@ -649,7 +649,7 @@
    "time": "5:30pm",
    "details_url": "https://badslava.com/details.php?id=50541",
    "dates": [
-    "2026-09-21"
+    "2026-09-28"
    ],
    "in_open_mics": false,
    "venue_registered": true
@@ -662,7 +662,7 @@
    "time": "6:00pm",
    "details_url": "https://badslava.com/details.php?id=1744",
    "dates": [
-    "2026-09-21"
+    "2026-09-28"
    ],
    "in_open_mics": true,
    "venue_registered": true
@@ -675,7 +675,7 @@
    "time": "6:00pm",
    "details_url": "https://badslava.com/details.php?id=13768",
    "dates": [
-    "2026-09-21"
+    "2026-09-28"
    ],
    "in_open_mics": false,
    "venue_registered": true
@@ -688,7 +688,7 @@
    "time": "6:00pm",
    "details_url": "https://badslava.com/details.php?id=17449",
    "dates": [
-    "2026-09-21"
+    "2026-09-28"
    ],
    "in_open_mics": false,
    "venue_registered": true
@@ -701,7 +701,7 @@
    "time": "6:00pm",
    "details_url": "https://badslava.com/details.php?id=30420",
    "dates": [
-    "2026-09-21"
+    "2026-09-28"
    ],
    "in_open_mics": false,
    "venue_registered": true
@@ -714,7 +714,7 @@
    "time": "6:00pm",
    "details_url": "https://badslava.com/details.php?id=31181",
    "dates": [
-    "2026-09-21"
+    "2026-09-28"
    ],
    "in_open_mics": false,
    "venue_registered": true
@@ -727,7 +727,7 @@
    "time": "6:00pm",
    "details_url": "https://badslava.com/details.php?id=32173",
    "dates": [
-    "2026-09-21"
+    "2026-09-28"
    ],
    "in_open_mics": true,
    "venue_registered": true
@@ -740,7 +740,7 @@
    "time": "6:00pm",
    "details_url": "https://badslava.com/details.php?id=38443",
    "dates": [
-    "2026-09-21"
+    "2026-09-28"
    ],
    "in_open_mics": false,
    "venue_registered": true
@@ -753,7 +753,7 @@
    "time": "6:00pm",
    "details_url": "https://badslava.com/details.php?id=50547",
    "dates": [
-    "2026-09-21"
+    "2026-09-28"
    ],
    "in_open_mics": false,
    "venue_registered": true
@@ -766,7 +766,7 @@
    "time": "6:00pm",
    "details_url": "https://badslava.com/details.php?id=50956",
    "dates": [
-    "2026-09-21"
+    "2026-09-28"
    ],
    "in_open_mics": false,
    "venue_registered": false
@@ -779,7 +779,7 @@
    "time": "6:30pm",
    "details_url": "https://badslava.com/details.php?id=15070",
    "dates": [
-    "2026-09-21"
+    "2026-09-28"
    ],
    "in_open_mics": false,
    "venue_registered": false
@@ -792,7 +792,7 @@
    "time": "6:30pm",
    "details_url": "https://badslava.com/details.php?id=41406",
    "dates": [
-    "2026-09-21"
+    "2026-09-28"
    ],
    "in_open_mics": false,
    "venue_registered": true
@@ -805,7 +805,7 @@
    "time": "7:00pm",
    "details_url": "https://badslava.com/details.php?id=10525",
    "dates": [
-    "2026-09-21"
+    "2026-09-28"
    ],
    "in_open_mics": false,
    "venue_registered": false
@@ -818,7 +818,7 @@
    "time": "7:00pm",
    "details_url": "https://badslava.com/details.php?id=30431",
    "dates": [
-    "2026-09-21"
+    "2026-09-28"
    ],
    "in_open_mics": false,
    "venue_registered": true
@@ -831,7 +831,7 @@
    "time": "7:00pm",
    "details_url": "https://badslava.com/details.php?id=36710",
    "dates": [
-    "2026-09-21"
+    "2026-09-28"
    ],
    "in_open_mics": false,
    "venue_registered": true
@@ -844,7 +844,7 @@
    "time": "7:00pm",
    "details_url": "https://badslava.com/details.php?id=38265",
    "dates": [
-    "2026-09-21"
+    "2026-09-28"
    ],
    "in_open_mics": false,
    "venue_registered": true
@@ -857,7 +857,7 @@
    "time": "7:00pm",
    "details_url": "https://badslava.com/details.php?id=39973",
    "dates": [
-    "2026-09-21"
+    "2026-09-28"
    ],
    "in_open_mics": true,
    "venue_registered": true
@@ -870,7 +870,7 @@
    "time": "7:00pm",
    "details_url": "https://badslava.com/details.php?id=46330",
    "dates": [
-    "2026-09-21"
+    "2026-09-28"
    ],
    "in_open_mics": false,
    "venue_registered": true
@@ -883,7 +883,7 @@
    "time": "7:00pm",
    "details_url": "https://badslava.com/details.php?id=46895",
    "dates": [
-    "2026-09-21"
+    "2026-09-28"
    ],
    "in_open_mics": false,
    "venue_registered": true
@@ -896,7 +896,7 @@
    "time": "7:00pm",
    "details_url": "https://badslava.com/details.php?id=50957",
    "dates": [
-    "2026-09-21"
+    "2026-09-28"
    ],
    "in_open_mics": false,
    "venue_registered": true
@@ -909,7 +909,7 @@
    "time": "7:00pm",
    "details_url": "https://badslava.com/details.php?id=53517",
    "dates": [
-    "2026-09-21"
+    "2026-09-28"
    ],
    "in_open_mics": false,
    "venue_registered": false
@@ -922,7 +922,7 @@
    "time": "7:30pm",
    "details_url": "https://badslava.com/details.php?id=17450",
    "dates": [
-    "2026-09-21"
+    "2026-09-28"
    ],
    "in_open_mics": false,
    "venue_registered": true
@@ -935,7 +935,7 @@
    "time": "7:30pm",
    "details_url": "https://badslava.com/details.php?id=28127",
    "dates": [
-    "2026-09-21"
+    "2026-09-28"
    ],
    "in_open_mics": false,
    "venue_registered": true
@@ -948,7 +948,7 @@
    "time": "7:30pm",
    "details_url": "https://badslava.com/details.php?id=53516",
    "dates": [
-    "2026-09-21"
+    "2026-09-28"
    ],
    "in_open_mics": false,
    "venue_registered": false
@@ -961,7 +961,7 @@
    "time": "7:45pm",
    "details_url": "https://badslava.com/details.php?id=15184",
    "dates": [
-    "2026-09-21"
+    "2026-09-28"
    ],
    "in_open_mics": false,
    "venue_registered": true
@@ -974,7 +974,7 @@
    "time": "8:00pm",
    "details_url": "https://badslava.com/details.php?id=28124",
    "dates": [
-    "2026-09-21"
+    "2026-09-28"
    ],
    "in_open_mics": false,
    "venue_registered": true
@@ -987,7 +987,7 @@
    "time": "8:00pm",
    "details_url": "https://badslava.com/details.php?id=38434",
    "dates": [
-    "2026-09-21"
+    "2026-09-28"
    ],
    "in_open_mics": false,
    "venue_registered": true
@@ -1000,7 +1000,7 @@
    "time": "8:00pm",
    "details_url": "https://badslava.com/details.php?id=38646",
    "dates": [
-    "2026-09-21"
+    "2026-09-28"
    ],
    "in_open_mics": true,
    "venue_registered": true
@@ -1013,7 +1013,7 @@
    "time": "8:00pm",
    "details_url": "https://badslava.com/details.php?id=39265",
    "dates": [
-    "2026-09-21"
+    "2026-09-28"
    ],
    "in_open_mics": false,
    "venue_registered": true
@@ -1026,7 +1026,7 @@
    "time": "8:00pm",
    "details_url": "https://badslava.com/details.php?id=41637",
    "dates": [
-    "2026-09-21"
+    "2026-09-28"
    ],
    "in_open_mics": false,
    "venue_registered": true
@@ -1039,7 +1039,7 @@
    "time": "8:00pm",
    "details_url": "https://badslava.com/details.php?id=42840",
    "dates": [
-    "2026-09-21"
+    "2026-09-28"
    ],
    "in_open_mics": false,
    "venue_registered": true
@@ -1052,7 +1052,7 @@
    "time": "8:30pm",
    "details_url": "https://badslava.com/details.php?id=17451",
    "dates": [
-    "2026-09-21"
+    "2026-09-28"
    ],
    "in_open_mics": false,
    "venue_registered": true
@@ -1065,7 +1065,7 @@
    "time": "9:00pm",
    "details_url": "https://badslava.com/details.php?id=10042",
    "dates": [
-    "2026-09-21"
+    "2026-09-28"
    ],
    "in_open_mics": false,
    "venue_registered": true
@@ -1078,7 +1078,7 @@
    "time": "9:00pm",
    "details_url": "https://badslava.com/details.php?id=10064",
    "dates": [
-    "2026-09-21"
+    "2026-09-28"
    ],
    "in_open_mics": false,
    "venue_registered": true
@@ -1091,7 +1091,7 @@
    "time": "9:30pm",
    "details_url": "https://badslava.com/details.php?id=52616",
    "dates": [
-    "2026-09-21"
+    "2026-09-28"
    ],
    "in_open_mics": false,
    "venue_registered": true
@@ -1104,7 +1104,7 @@
    "time": "9:45pm",
    "details_url": "https://badslava.com/details.php?id=59975",
    "dates": [
-    "2026-09-21"
+    "2026-09-28"
    ],
    "in_open_mics": false,
    "venue_registered": true
