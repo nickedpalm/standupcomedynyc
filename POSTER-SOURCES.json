@@ -33,7 +33,7 @@
  },
  {
   "event_id": "and-scene-caveat-2026-09-21",
-  "src": "/assets/posters/and-scene-caveat-2026-09-21.jpg",
+  "src": "/assets/posters/archive/and-scene-caveat-2026-09-21.jpg",
   "width": 940,
   "height": 470,
   "source_url": "https://www.eventbrite.com/e/and-scene-tickets-1994373532924",
@@ -44,7 +44,8 @@
   "retrieved_at": "2026-09-15",
   "bytes": 71609,
   "sha256": "7c13fc19c37d2163784307ff41e1a764e57e62d267624d7383cb4547dacdcada",
-  "reuse_status": "Official promotional artwork; no separate reuse license identified. Local review draft only."
+  "reuse_status": "Official promotional artwork; no separate reuse license identified. Local review draft only.",
+  "archived": true
  },
  {
   "event_id": "good-grief-littlefield-2026-09-26",
@@ -271,7 +272,7 @@
  },
  {
   "event_id": "marcel-lucont-whine-list-2026-09-21",
-  "src": "/assets/posters/marcel-lucont-whine-list-2026-09-21.jpg",
+  "src": "/assets/posters/archive/marcel-lucont-whine-list-2026-09-21.jpg",
   "width": 940,
   "height": 470,
   "source_url": "https://www.eventbrite.com/e/marcel-luconts-whine-list-tickets-1997063611020",
@@ -282,7 +283,8 @@
   "retrieved_at": "2026-09-14",
   "bytes": 88438,
   "sha256": "cb29ff997a36e34df4352f4213b92389989f920b2b8184f15c26fd1eb6413754",
-  "reuse_status": "Official promotional artwork from the show's public listing; no separate reuse license identified. Site display with credit only."
+  "reuse_status": "Official promotional artwork from the show's public listing; no separate reuse license identified. Site display with credit only.",
+  "archived": true
  },
  {
   "event_id": "the-bisque-comedy-for-charity-2026-09-22",
@@ -931,7 +933,7 @@
  },
  {
   "event_id": "frankensteins-baby-union-hall-2026-09-21",
-  "src": "/assets/posters/frankensteins-baby-union-hall-2026-09-21.jpg",
+  "src": "/assets/posters/archive/frankensteins-baby-union-hall-2026-09-21.jpg",
   "width": 940,
   "height": 470,
   "source_url": "https://www.eventbrite.com/e/frankensteins-baby-tickets-1998360574272",
@@ -942,7 +944,8 @@
   "retrieved_at": "2026-09-17",
   "bytes": 11587,
   "sha256": "TBD",
-  "reuse_status": "Official promotional artwork from the show's Eventbrite listing; no separate reuse license identified. Site display with credit only."
+  "reuse_status": "Official promotional artwork from the show's Eventbrite listing; no separate reuse license identified. Site display with credit only.",
+  "archived": true
  },
  {
   "event_id": "pretty-major-union-hall-2026-09-22",

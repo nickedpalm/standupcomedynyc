@@ -1,4 +1,4 @@
-# Content calendar — generated 2026-09-21
+# Content calendar — generated 2026-09-22
 
 Six weeks ahead from the board. Regenerated on every build; edit the data, not this file.
 
@@ -13,12 +13,8 @@ Six weeks ahead from the board. Regenerated on every build; edit the data, not t
 
 Ranked 43; run 0, reuse 5, skip 38; ~387,000 tokens saved.
 
-## Week 1: Sep 21 to Sep 27 — 29 picks — 15 without artwork · 26 Eventbrite leads not yet reviewed
+## Week 1: Sep 22 to Sep 28 — 26 picks — 14 without artwork · 26 Eventbrite leads not yet reviewed
 
-- Mon Sep 21 7pm — **And Scene** at Caveat
-- Mon Sep 21 7:30pm · doors 7pm — **Frankenstein's Baby** at Union Hall
-- Mon Sep 21 8pm · doors 7:30pm — **Christian Finnegan** at Comic Strip Live · NO ARTWORK
-- Mon Sep 21 9:30pm · doors 9pm — **Marcel Lucont's Whine List** at Caveat
 - Tue Sep 22 7pm · doors 6:30pm — **The Bisque: Comedy for Charity** at Caveat
 - Tue Sep 22 7:30pm · doors 7pm — **PRETTY MAJOR Hosted by Jay Jurden** at Union Hall
 - Tue Sep 22 7:30pm · doors 7pm — **Comedy Spotlight: Chris Distefano & Mark Normand** at Gotham Comedy Club · NO ARTWORK
@@ -31,10 +27,10 @@ Ranked 43; run 0, reuse 5, skip 38; ~387,000 tokens saved.
 - Thu Sep 24 7:30pm — **Vidura Bandara Rajapaksa: The Paradise Gothic Tour** at The Bell House
 - Thu Sep 24 8pm — **Farooq Hussain Presents: Lasergooch!** at Eastville Comedy Club · NO ARTWORK
 - Thu Sep 24 8pm — **Bomb Shelter Comedy** at The Gaf West · NO ARTWORK
-- Fri Sep 25 8pm — **Chelsea Handler: The High and Mighty Tour** at Beacon Theatre · NO ARTWORK · heat 45
+- Fri Sep 25 8pm — **Chelsea Handler: The High and Mighty Tour** at Beacon Theatre · NO ARTWORK · heat 20
 - Fri Sep 25 8:30pm — **Bitches' Brew** at Halyard's · NO ARTWORK
 - Fri Sep 25 10pm · doors 9:30pm — **Girl Church hosted by Amelia Ritthaler** at Union Hall
-- Sat Sep 26 7pm — **Beth Stelling: Let Me Get Loose** at The Bell House · heat 25
+- Sat Sep 26 7pm — **Beth Stelling: Let Me Get Loose** at The Bell House
 - Sat Sep 26 7pm — **We Just Find It Funny Presents: Good Grief!** at Littlefield
 - Sat Sep 26 10pm · doors 9:30pm — **Dina Hashem, Greg Melly, Napoleon Emill & Sharief Johnson** at Eastville Comedy Club · NO ARTWORK
 - Sat Sep 26 11pm — **Mike Nasty Presents: NO FILTER!** at Le Poisson Rouge · NO ARTWORK
@@ -44,9 +40,9 @@ Ranked 43; run 0, reuse 5, skip 38; ~387,000 tokens saved.
 - Sun Sep 27 7:30pm — **John Oliver & Seth Meyers** at Beacon Theatre · NO ARTWORK
 - Sun Sep 27 7:30pm · doors 6:30pm — **Matt Goldich with Ryan Beck, Ismael Loutfi & Vannessa Jackson** at West Side Comedy Club · NO ARTWORK
 - Sun Sep 27 8:30pm · doors 8:15pm — **Faculty Lounge** at Eris Deep Space (Brooklyn Comedy Collective) · NO ARTWORK
+- Mon Sep 28 8pm — **The Peter Stewart Show!** at Comic Strip Live
 
   Leads to review:
-  - Mon Sep 21 7:30pm — Slick: The Release Party at Littlefield · from $24.36 · has artwork
   - Tue Sep 22 8pm — Mike Burton, Subhah Agarwal, Meghan Hanley, Matt Pavich, Kareem Green, more at Comic Strip Live · from $25.71 · has artwork
   - Tue Sep 22 9:30pm — Impossible New York Stories at Caveat · from $24.41 · has artwork
   - Wed Sep 23 7pm — Science Tonight! - A Climate Carol (Climate Week 2026) at Caveat · from $18.76 · has artwork
@@ -54,10 +50,10 @@ Ranked 43; run 0, reuse 5, skip 38; ~387,000 tokens saved.
   - Wed Sep 23 9:30pm — The Night of Your Life at Caveat · from $18.76 · has artwork
   - Wed Sep 23 10pm — Zachcourtejchelwill at Union Hall · from $19.26 · has artwork
   - Wed Sep 23 11pm — Standup Comedy (After Dark) at Kellogg's Diner at Kellogg's Diner · from $5 · has artwork
+  - Thu Sep 24 7:30pm — RUPI KAUR: UNCUT – A RESIDENCY at Union Hall · from $30.84 · has artwork
 
-## Week 2: Sep 28 to Oct 4 — 14 picks — 5 without artwork · 8 Eventbrite leads not yet reviewed
+## Week 2: Sep 29 to Oct 5 — 14 picks — 5 without artwork · 7 Eventbrite leads not yet reviewed
 
-- Mon Sep 28 8pm — **The Peter Stewart Show!** at Comic Strip Live
 - Tue Sep 29 7:30pm — **Michelle Buteau** at The Bell House · heat 20
 - Wed Sep 30 8pm — **The Moth StorySLAM** at The Bell House
 - Wed Sep 30 8pm — **Laughs In The East** at Eastville Comedy Club · NO ARTWORK
@@ -71,9 +67,9 @@ Ranked 43; run 0, reuse 5, skip 38; ~387,000 tokens saved.
 - Sat Oct 3 7pm — **Two Dykes and a Mic: Soaking Wet Tour** at The Bell House
 - Sat Oct 3 7pm — **Kanan Gill: Not This Again (Evening)** at The Town Hall · NO ARTWORK · going fast · heat 35
 - Sun Oct 4 6pm — **Comedy Girl Autumn: A Live Comedy Show Hosted by Larry Owens** at The Bell House
+- Mon Oct 5 7:30pm — **Hot Butter Train** at The Bell House
 
   Leads to review:
-  - Mon Sep 28 8pm — Upcoming Event! at Comic Strip Live · from $25.71
   - Tue Sep 29 8pm — Sheba Mason, Kyle Mara, Meghan Hanley, Cory Kahaney, Mike Yard, & more! at Comic Strip Live · from $25.71 · has artwork
   - Wed Sep 30 8pm — KING MEI MEI - debut live show / Charlene Kaye's 40th birthday party! at Littlefield · from $18.71 · has artwork
   - Wed Sep 30 8pm — Tobin Miller, Elyse Delucci, Jason Salmon, Harrison Greenbaum, & more! at Comic Strip Live · from $25.71 · has artwork
@@ -82,9 +78,8 @@ Ranked 43; run 0, reuse 5, skip 38; ~387,000 tokens saved.
   - Sat Oct 3 7pm — Tootsie's Video Vault 7 at Littlefield · from $11.79 · has artwork
   - Sat Oct 3 10pm — Animoo Character Select Party! @Parklife at Littlefield · from $11.79 · has artwork
 
-## Week 3: Oct 5 to Oct 11 — 10 picks — 5 without artwork · 1 Eventbrite lead not yet reviewed
+## Week 3: Oct 6 to Oct 12 — 10 picks — 5 without artwork · 1 Eventbrite lead not yet reviewed
 
-- Mon Oct 5 7:30pm — **Hot Butter Train** at The Bell House
 - Wed Oct 7 7:30pm — **Joe Mande Con Amici** at The Bell House
 - Wed Oct 7 8pm — **Laughs In The East** at Eastville Comedy Club · NO ARTWORK
 - Thu Oct 8 7:30pm — **Molly Kearney** at The Bell House
@@ -92,15 +87,15 @@ Ranked 43; run 0, reuse 5, skip 38; ~387,000 tokens saved.
 - Fri Oct 9 6pm — **Brooklyn Power Hour** at Eastville Comedy Club · NO ARTWORK
 - Fri Oct 9 7:30pm — **Poly Díaz (En Español)** at The Bell House
 - Fri Oct 9 8pm · doors 7:30pm — **Magic City – A Night of Comedy** at The Fear City Comedy Club · NO ARTWORK
-- Sat Oct 10 6pm — **Maria Bamford: Live** at The Bell House · heat 26
+- Sat Oct 10 6pm — **Maria Bamford: Live** at The Bell House
 - Sun Oct 11 6pm — **Wait, What's Sri Lanka? — Comedy Special Taping** at Eastville Comedy Club · NO ARTWORK
+- Mon Oct 12 7:30pm — **The Bechdel Cast 10 Year Anniversary Tour** at The Bell House
 
   Leads to review:
   - Wed Oct 7 11pm — Standup Comedy (After Dark) at Kellogg's Diner at Kellogg's Diner · from $5 · has artwork
 
-## Week 4: Oct 12 to Oct 18 — 14 picks — 6 without artwork
+## Week 4: Oct 13 to Oct 19 — 14 picks — 6 without artwork
 
-- Mon Oct 12 7:30pm — **The Bechdel Cast 10 Year Anniversary Tour** at The Bell House
 - Wed Oct 14 7pm — **The Next Elton and Friends** at West Side Comedy Club · NO ARTWORK
 - Wed Oct 14 7:30pm — **Josh & Aaron Do Improv (Feat. Hayden Johnson)** at The Bell House
 - Wed Oct 14 8pm — **Laughs In The East** at Eastville Comedy Club · NO ARTWORK
@@ -110,14 +105,14 @@ Ranked 43; run 0, reuse 5, skip 38; ~387,000 tokens saved.
 - Fri Oct 16 7pm — **Kathy Griffin: New Face, New Tour** at The Town Hall · NO ARTWORK
 - Fri Oct 16 7:30pm — **Blank Check Live** at The Bell House
 - Sat Oct 17 6pm — **My Cousin Vlad & Balkan Comedy Night** at Eastville Comedy Club · NO ARTWORK
-- Sat Oct 17 7:30pm — **Asif Ali Live!** at The Bell House · heat 25
+- Sat Oct 17 7:30pm — **Asif Ali Live!** at The Bell House
 - Sat Oct 17 10pm — **Headlining Alex Giampapa** at Eastville Comedy Club · NO ARTWORK
 - Sun Oct 18 7pm · doors 6pm — **Kendall Farrell: Standup Comedy Special Taping** at Littlefield
 - Sun Oct 18 7:30pm — **Johnny Pemberton** at The Bell House
-
-## Week 5: Oct 19 to Oct 25 — 13 picks — 9 without artwork
-
 - Mon Oct 19 7:30pm — **Michelle Buteau** at The Bell House · heat 20
+
+## Week 5: Oct 20 to Oct 26 — 13 picks — 9 without artwork
+
 - Tue Oct 20 7:30pm — **A Benefit for Little Essentials with David Cross & Friends** at The Bell House
 - Wed Oct 21 7:30pm — **Brett Goldstein Runs His Hour Before His Tour** at The Bell House
 - Wed Oct 21 8pm — **Laughs In The East** at Eastville Comedy Club · NO ARTWORK
@@ -130,10 +125,10 @@ Ranked 43; run 0, reuse 5, skip 38; ~387,000 tokens saved.
 - Sat Oct 24 6pm — **Saturday Night Live Comedy** at Eastville Comedy Club · NO ARTWORK
 - Sun Oct 25 7pm — **ROBYN & "FRIENDS" Comedy Show** at West Side Comedy Club · NO ARTWORK
 - Sun Oct 25 7:30pm — **Sunday Night Comedy** at Eastville Comedy Club · NO ARTWORK
-
-## Week 6: Oct 26 to Nov 1 — 9 picks — 4 without artwork
-
 - Mon Oct 26 7pm — **An Evening with Sarah Silverman: Finding Jewish Joy** at Temple Emanu-El Streicker Center
+
+## Week 6: Oct 27 to Nov 2 — 8 picks — 4 without artwork
+
 - Tue Oct 27 7pm · 60 minutes — **Mark Simmons: Jest to Impress** at SoHo Playhouse · NO ARTWORK
 - Tue Oct 27 7:30pm — **Ruby Setnik** at The Bell House
 - Wed Oct 28 7:30pm — **Clean Up Your Act** at West Side Comedy Club
