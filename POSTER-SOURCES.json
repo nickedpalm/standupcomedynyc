@@ -288,7 +288,7 @@
  },
  {
   "event_id": "the-bisque-comedy-for-charity-2026-09-22",
-  "src": "/assets/posters/the-bisque-comedy-for-charity-2026-09-22.jpg",
+  "src": "/assets/posters/archive/the-bisque-comedy-for-charity-2026-09-22.jpg",
   "width": 940,
   "height": 470,
   "source_url": "https://www.eventbrite.com/e/the-bisque-comedy-for-charity-tickets-1991777231316",
@@ -299,7 +299,8 @@
   "retrieved_at": "2026-09-14",
   "bytes": 129861,
   "sha256": "632da951c27c8048b62c70c9cbe448033e23f02819a52f943e14612ed0cc8c43",
-  "reuse_status": "Official promotional artwork from the show's public listing; no separate reuse license identified. Site display with credit only."
+  "reuse_status": "Official promotional artwork from the show's public listing; no separate reuse license identified. Site display with credit only.",
+  "archived": true
  },
  {
   "event_id": "looking-for-laughs-caveat-2026-09-18",
@@ -949,7 +950,7 @@
  },
  {
   "event_id": "pretty-major-union-hall-2026-09-22",
-  "src": "/assets/posters/pretty-major-union-hall-2026-09-22.jpg",
+  "src": "/assets/posters/archive/pretty-major-union-hall-2026-09-22.jpg",
   "width": 940,
   "height": 470,
   "source_url": "https://www.eventbrite.com/e/pretty-major-hosted-by-jay-jurden-tickets-1995504568883",
@@ -960,11 +961,12 @@
   "retrieved_at": "2026-09-17",
   "bytes": 37934,
   "sha256": "TBD",
-  "reuse_status": "Official promotional artwork from the show's Eventbrite listing; no separate reuse license identified. Site display with credit only."
+  "reuse_status": "Official promotional artwork from the show's Eventbrite listing; no separate reuse license identified. Site display with credit only.",
+  "archived": true
  },
  {
   "event_id": "lets-not-die-littlefield-2026-09-22",
-  "src": "/assets/posters/lets-not-die-littlefield-2026-09-22.jpg",
+  "src": "/assets/posters/archive/lets-not-die-littlefield-2026-09-22.jpg",
   "width": 940,
   "height": 470,
   "source_url": "https://www.eventbrite.com/e/lets-not-die-tickets-1997940304233",
@@ -975,7 +977,8 @@
   "bytes": 56921,
   "sha256": "077123c7fe33d3d946552e1e0492efba04b432cb84cf8bc89e0b42dae695e48b",
   "reuse_status": "Official promotional artwork from the show's Eventbrite listing; no separate reuse license identified. Site display with credit only.",
-  "original_image_url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1193484940%2F404652903161%2F1%2Foriginal.20260914-200503"
+  "original_image_url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1193484940%2F404652903161%2F1%2Foriginal.20260914-200503",
+  "archived": true
  },
  {
   "event_id": "pizzazz-with-gary-gulman-union-hall-2026-09-23",

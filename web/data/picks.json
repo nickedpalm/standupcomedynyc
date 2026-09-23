@@ -1,35 +1,5 @@
 [
  {
-  "id": "the-bisque-comedy-for-charity-2026-09-22",
-  "title": "The Bisque: Comedy for Charity",
-  "date": "2026-09-22",
-  "starts_at": "2026-09-22T19:00:00-04:00",
-  "ends_at": "2026-09-22T21:00:00-04:00",
-  "end_time_confirmed": false,
-  "time_label": "7pm · doors 6:30pm",
-  "venue": "Caveat",
-  "neighborhood": "Lower East Side",
-  "price_amount": 18.76,
-  "price_label": "$15.67 early bird (until Sep 15, 7pm) · $18.76 standard · $20 door · $11.63 livestream (includes fees)",
-  "ticket_url": "https://www.eventbrite.com/e/the-bisque-comedy-for-charity-tickets-1991777231316",
-  "source_url": "https://www.caveat.nyc/events/the-bisque-comedy-for-charity-9-22-2026",
-  "verified_at": "2026-09-13",
-  "description": "Improv troupe The Bisque and guest comedians raise money for the Brigid Alliance, which supports people traveling for abortion care.",
-  "featured": false,
-  "tier": "special",
-  "poster": {
-   "src": "/assets/posters/the-bisque-comedy-for-charity-2026-09-22.jpg",
-   "width": 940,
-   "height": 470,
-   "source_url": "https://www.eventbrite.com/e/the-bisque-comedy-for-charity-tickets-1991777231316",
-   "credit": "Artwork: Caveat / show organizer",
-   "alt": "The Bisque: Comedy for Charity promotional artwork.",
-   "kind": "dated event flyer"
-  },
-  "demand": null,
-  "demand_checked": "2026-09-22"
- },
- {
   "id": "david-nihill-2026-09-23",
   "title": "David Nihill: Taking Tangents Tour",
   "date": "2026-09-23",
@@ -57,7 +27,7 @@
    "kind": "dated event flyer"
   },
   "demand": null,
-  "demand_checked": "2026-09-22"
+  "demand_checked": "2026-09-23"
  },
  {
   "id": "wits-end-jay-jurden-vs-chloe-radcliffe-2026-09-23",
@@ -78,7 +48,7 @@
   "featured": false,
   "tier": "special",
   "demand": null,
-  "demand_checked": "2026-09-22"
+  "demand_checked": "2026-09-23"
  },
  {
   "id": "vidura-rajapaksa-2026-09-24",
@@ -108,7 +78,7 @@
    "kind": "dated event flyer"
   },
   "demand": null,
-  "demand_checked": "2026-09-22"
+  "demand_checked": "2026-09-23"
  },
  {
   "id": "beth-stelling-let-me-get-loose-2026-09-26",
@@ -138,7 +108,7 @@
    "kind": "dated event flyer"
   },
   "demand": null,
-  "demand_checked": "2026-09-22"
+  "demand_checked": "2026-09-23"
  },
  {
   "id": "kevin-sullivan-2026-09-27",
@@ -168,7 +138,7 @@
    "kind": "dated event flyer"
   },
   "demand": null,
-  "demand_checked": "2026-09-22"
+  "demand_checked": "2026-09-23"
  },
  {
   "id": "good-grief-littlefield-2026-09-26",
@@ -198,7 +168,7 @@
    "kind": "dated event flyer"
   },
   "demand": null,
-  "demand_checked": "2026-09-22"
+  "demand_checked": "2026-09-23"
  },
  {
   "id": "michelle-buteau-2026-09-29",
@@ -228,7 +198,7 @@
    "kind": "dated event flyer"
   },
   "demand": null,
-  "demand_checked": "2026-09-22"
+  "demand_checked": "2026-09-23"
  },
  {
   "id": "the-moth-storyslam-2026-09-30",
@@ -258,7 +228,7 @@
    "kind": "dated event flyer"
   },
   "demand": null,
-  "demand_checked": "2026-09-22"
+  "demand_checked": "2026-09-23"
  },
  {
   "id": "brendan-scannell-abyss-2026-10-01",
@@ -288,7 +258,7 @@
    "kind": "dated event flyer"
   },
   "demand": null,
-  "demand_checked": "2026-09-22"
+  "demand_checked": "2026-09-23"
  },
  {
   "id": "nate-varrone-2026-10-01",
@@ -318,7 +288,7 @@
    "kind": "dated event flyer"
   },
   "demand": null,
-  "demand_checked": "2026-09-22"
+  "demand_checked": "2026-09-23"
  },
  {
   "id": "phoebe-robinson-2026-10-02",
@@ -348,7 +318,7 @@
    "kind": "dated event flyer"
   },
   "demand": null,
-  "demand_checked": "2026-09-22"
+  "demand_checked": "2026-09-23"
  },
  {
   "id": "two-dykes-and-a-mic-2026-10-03",
@@ -378,7 +348,7 @@
    "kind": "dated event flyer"
   },
   "demand": null,
-  "demand_checked": "2026-09-22"
+  "demand_checked": "2026-09-23"
  },
  {
   "id": "comedy-girl-autumn-2026-10-04",
@@ -408,7 +378,7 @@
    "kind": "dated event flyer"
   },
   "demand": null,
-  "demand_checked": "2026-09-22"
+  "demand_checked": "2026-09-23"
  },
  {
   "id": "hot-butter-train-2026-10-05",
@@ -438,7 +408,7 @@
    "kind": "dated event flyer"
   },
   "demand": null,
-  "demand_checked": "2026-09-22"
+  "demand_checked": "2026-09-23"
  },
  {
   "id": "laughs-in-the-east-eastville-2026-09-30",
@@ -459,7 +429,7 @@
   "tier": "special",
   "featured": false,
   "demand": null,
-  "demand_checked": "2026-09-22"
+  "demand_checked": "2026-09-23"
  },
  {
   "id": "joe-mande-2026-10-07",
@@ -489,7 +459,7 @@
    "kind": "dated event flyer"
   },
   "demand": null,
-  "demand_checked": "2026-09-22"
+  "demand_checked": "2026-09-23"
  },
  {
   "id": "molly-kearney-2026-10-08",
@@ -519,7 +489,7 @@
    "kind": "dated event flyer"
   },
   "demand": null,
-  "demand_checked": "2026-09-22"
+  "demand_checked": "2026-09-23"
  },
  {
   "id": "lisa-wallen-headlines-eastville-2026-10-08",
@@ -540,7 +510,7 @@
   "tier": "special",
   "featured": false,
   "demand": null,
-  "demand_checked": "2026-09-22"
+  "demand_checked": "2026-09-23"
  },
  {
   "id": "poly-diaz-2026-10-09",
@@ -570,7 +540,7 @@
    "kind": "dated event flyer"
   },
   "demand": null,
-  "demand_checked": "2026-09-22"
+  "demand_checked": "2026-09-23"
  },
  {
   "id": "brooklyn-power-hour-eastville-2026-10-09",
@@ -591,7 +561,7 @@
   "tier": "special",
   "featured": false,
   "demand": null,
-  "demand_checked": "2026-09-22"
+  "demand_checked": "2026-09-23"
  },
  {
   "id": "maria-bamford-2026-10-10",
@@ -621,7 +591,7 @@
    "kind": "dated event flyer"
   },
   "demand": null,
-  "demand_checked": "2026-09-22"
+  "demand_checked": "2026-09-23"
  },
  {
   "id": "bechdel-cast-2026-10-12",
@@ -651,7 +621,7 @@
    "kind": "dated event flyer"
   },
   "demand": null,
-  "demand_checked": "2026-09-22"
+  "demand_checked": "2026-09-23"
  },
  {
   "id": "wait-whats-sri-lanka-eastville-2026-10-11",
@@ -672,7 +642,7 @@
   "tier": "special",
   "featured": false,
   "demand": null,
-  "demand_checked": "2026-09-22"
+  "demand_checked": "2026-09-23"
  },
  {
   "id": "laughs-in-the-east-eastville-2026-10-07",
@@ -693,7 +663,7 @@
   "tier": "special",
   "featured": false,
   "demand": null,
-  "demand_checked": "2026-09-22"
+  "demand_checked": "2026-09-23"
  },
  {
   "id": "josh-aaron-improv-2026-10-14",
@@ -723,7 +693,7 @@
    "kind": "dated event flyer"
   },
   "demand": null,
-  "demand_checked": "2026-09-22"
+  "demand_checked": "2026-09-23"
  },
  {
   "id": "laughs-in-the-east-eastville-2026-10-14",
@@ -744,7 +714,7 @@
   "tier": "special",
   "featured": false,
   "demand": null,
-  "demand_checked": "2026-09-22"
+  "demand_checked": "2026-09-23"
  },
  {
   "id": "francesca-mattlieb-2026-10-15",
@@ -774,7 +744,7 @@
    "kind": "dated event flyer"
   },
   "demand": null,
-  "demand_checked": "2026-09-22"
+  "demand_checked": "2026-09-23"
  },
  {
   "id": "stand-up-shenanigans-eastville-2026-10-15",
@@ -795,7 +765,7 @@
   "tier": "special",
   "featured": false,
   "demand": null,
-  "demand_checked": "2026-09-22"
+  "demand_checked": "2026-09-23"
  },
  {
   "id": "blank-check-live-2026-10-16",
@@ -825,7 +795,7 @@
    "kind": "dated event flyer"
   },
   "demand": null,
-  "demand_checked": "2026-09-22"
+  "demand_checked": "2026-09-23"
  },
  {
   "id": "asif-ali-2026-10-17",
@@ -855,7 +825,7 @@
    "kind": "dated event flyer"
   },
   "demand": null,
-  "demand_checked": "2026-09-22"
+  "demand_checked": "2026-09-23"
  },
  {
   "id": "my-cousin-vlad-eastville-2026-10-17",
@@ -876,7 +846,7 @@
   "tier": "special",
   "featured": false,
   "demand": null,
-  "demand_checked": "2026-09-22"
+  "demand_checked": "2026-09-23"
  },
  {
   "id": "johnny-pemberton-2026-10-18",
@@ -906,7 +876,7 @@
    "kind": "dated event flyer"
   },
   "demand": null,
-  "demand_checked": "2026-09-22"
+  "demand_checked": "2026-09-23"
  },
  {
   "id": "headlining-alex-giampapa-eastville-2026-10-17",
@@ -927,7 +897,7 @@
   "tier": "special",
   "featured": false,
   "demand": null,
-  "demand_checked": "2026-09-22"
+  "demand_checked": "2026-09-23"
  },
  {
   "id": "david-cross-benefit-2026-10-20",
@@ -957,7 +927,7 @@
    "kind": "dated event flyer"
   },
   "demand": null,
-  "demand_checked": "2026-09-22"
+  "demand_checked": "2026-09-23"
  },
  {
   "id": "laughs-in-the-east-eastville-2026-10-21",
@@ -978,7 +948,7 @@
   "tier": "special",
   "featured": false,
   "demand": null,
-  "demand_checked": "2026-09-22"
+  "demand_checked": "2026-09-23"
  },
  {
   "id": "brett-goldstein-2026-10-21",
@@ -1008,7 +978,7 @@
    "kind": "dated event flyer"
   },
   "demand": null,
-  "demand_checked": "2026-09-22"
+  "demand_checked": "2026-09-23"
  },
  {
   "id": "stand-up-shenanigans-eastville-2026-10-22",
@@ -1029,7 +999,7 @@
   "tier": "special",
   "featured": false,
   "demand": null,
-  "demand_checked": "2026-09-22"
+  "demand_checked": "2026-09-23"
  },
  {
   "id": "brooklyn-power-hour-eastville-2026-10-23",
@@ -1050,7 +1020,7 @@
   "tier": "special",
   "featured": false,
   "demand": null,
-  "demand_checked": "2026-09-22"
+  "demand_checked": "2026-09-23"
  },
  {
   "id": "sydnee-washington-2026-10-23",
@@ -1080,7 +1050,7 @@
    "kind": "dated event flyer"
   },
   "demand": null,
-  "demand_checked": "2026-09-22"
+  "demand_checked": "2026-09-23"
  },
  {
   "id": "saturday-night-live-comedy-eastville-2026-10-24",
@@ -1101,7 +1071,7 @@
   "tier": "special",
   "featured": false,
   "demand": null,
-  "demand_checked": "2026-09-22"
+  "demand_checked": "2026-09-23"
  },
  {
   "id": "sunday-night-comedy-eastville-2026-10-25",
@@ -1122,7 +1092,7 @@
   "tier": "special",
   "featured": false,
   "demand": null,
-  "demand_checked": "2026-09-22"
+  "demand_checked": "2026-09-23"
  },
  {
   "id": "michelle-buteau-2026-10-19",
@@ -1152,7 +1122,7 @@
    "kind": "dated event flyer"
   },
   "demand": null,
-  "demand_checked": "2026-09-22"
+  "demand_checked": "2026-09-23"
  },
  {
   "id": "comedy-idol-wscc-2026-10-03",
@@ -1173,7 +1143,7 @@
   "tier": "special",
   "featured": false,
   "demand": null,
-  "demand_checked": "2026-09-22"
+  "demand_checked": "2026-09-23"
  },
  {
   "id": "the-next-elton-and-friends-wscc-2026-10-14",
@@ -1194,7 +1164,7 @@
   "tier": "special",
   "featured": false,
   "demand": null,
-  "demand_checked": "2026-09-22"
+  "demand_checked": "2026-09-23"
  },
  {
   "id": "jaime-ferraro-wscc-2026-10-21",
@@ -1215,7 +1185,7 @@
   "tier": "special",
   "featured": false,
   "demand": null,
-  "demand_checked": "2026-09-22"
+  "demand_checked": "2026-09-23"
  },
  {
   "id": "laugh-charity-ms-wscc-2026-10-22",
@@ -1236,7 +1206,7 @@
   "tier": "special",
   "featured": false,
   "demand": null,
-  "demand_checked": "2026-09-22"
+  "demand_checked": "2026-09-23"
  },
  {
   "id": "robyn-and-friends-wscc-2026-10-25",
@@ -1257,7 +1227,7 @@
   "tier": "special",
   "featured": false,
   "demand": null,
-  "demand_checked": "2026-09-22"
+  "demand_checked": "2026-09-23"
  },
  {
   "id": "chelsea-handler-beacon-2026-09-25",
@@ -1277,7 +1247,7 @@
   "description": "Chelsea Handler brings The High and Mighty Tour, a full evening of new stand-up, to the Beacon.",
   "tier": "special",
   "demand": null,
-  "demand_checked": "2026-09-22"
+  "demand_checked": "2026-09-23"
  },
  {
   "id": "john-oliver-seth-meyers-beacon-2026-09-27",
@@ -1297,7 +1267,7 @@
   "description": "Late-night hosts John Oliver and Seth Meyers share a Beacon double-bill of stand-up and conversation.",
   "tier": "special",
   "demand": null,
-  "demand_checked": "2026-09-22"
+  "demand_checked": "2026-09-23"
  },
  {
   "id": "kanan-gill-not-this-again-town-hall-2026-10-03-1600",
@@ -1317,7 +1287,7 @@
   "description": "Kanan Gill s Not This Again matinee at Town Hall.",
   "tier": "special",
   "demand": "going_fast",
-  "demand_checked": "2026-09-22"
+  "demand_checked": "2026-09-23"
  },
  {
   "id": "kanan-gill-not-this-again-town-hall-2026-10-03-1900",
@@ -1337,7 +1307,7 @@
   "description": "Kanan Gill s Not This Again evening show at Town Hall.",
   "tier": "special",
   "demand": "going_fast",
-  "demand_checked": "2026-09-22"
+  "demand_checked": "2026-09-23"
  },
  {
   "id": "kathy-griffin-new-face-new-tour-town-hall-2026-10-16",
@@ -1357,7 +1327,7 @@
   "description": "Kathy Griffin returns to Town Hall with New Face, New Tour.",
   "tier": "special",
   "demand": null,
-  "demand_checked": "2026-09-22"
+  "demand_checked": "2026-09-23"
  },
  {
   "id": "yang-mengen-youngmoon-renegade-town-hall-2026-10-22",
@@ -1377,7 +1347,7 @@
   "description": "Yang Mengen, performing as youngmoon, brings his new stand-up special Renegade to Town Hall.",
   "tier": "special",
   "demand": null,
-  "demand_checked": "2026-09-22"
+  "demand_checked": "2026-09-23"
  },
  {
   "id": "difficult-people-the-movie-town-hall-2026-11-03",
@@ -1397,7 +1367,7 @@
   "description": "Julie Klausner and Billy Eichner stage Difficult People: The Movie as a live table read at Town Hall.",
   "tier": "special",
   "demand": null,
-  "demand_checked": "2026-09-22"
+  "demand_checked": "2026-09-23"
  },
  {
   "id": "mike-nasty-no-filter-lpr-2026-09-26",
@@ -1417,7 +1387,7 @@
   "description": "Mike Nasty s late-night NO FILTER! brings a loose, no-edits comedy showcase to the LPR Main Space.",
   "tier": "special",
   "demand": null,
-  "demand_checked": "2026-09-22"
+  "demand_checked": "2026-09-23"
  },
  {
   "id": "nycf-marc-maron-beacon-2026-11-08",
@@ -1437,7 +1407,7 @@
   "description": "Marc Maron brings Yammering Into the Void to the Beacon as part of the New York Comedy Festival.",
   "tier": "special",
   "demand": null,
-  "demand_checked": "2026-09-22"
+  "demand_checked": "2026-09-23"
  },
  {
   "id": "nycf-jordan-jensen-beacon-2026-11-12",
@@ -1457,7 +1427,7 @@
   "description": "Jordan Jensen headlines the Beacon as part of the New York Comedy Festival.",
   "tier": "special",
   "demand": null,
-  "demand_checked": "2026-09-22"
+  "demand_checked": "2026-09-23"
  },
  {
   "id": "nycf-ilana-glazer-beacon-2026-11-13",
@@ -1477,7 +1447,7 @@
   "description": "Ilana Glazer headlines the Beacon as part of the New York Comedy Festival.",
   "tier": "special",
   "demand": null,
-  "demand_checked": "2026-09-22"
+  "demand_checked": "2026-09-23"
  },
  {
   "id": "nycf-daniel-sloss-beacon-2026-11-14",
@@ -1497,7 +1467,7 @@
   "description": "Daniel Sloss brings his new hour Bitter to the Beacon as part of the New York Comedy Festival.",
   "tier": "special",
   "demand": null,
-  "demand_checked": "2026-09-22"
+  "demand_checked": "2026-09-23"
  },
  {
   "id": "nycf-mojo-brookzz-beacon-2026-11-15",
@@ -1517,7 +1487,7 @@
   "description": "Mojo Brookzz headlines the Beacon as part of the New York Comedy Festival.",
   "tier": "special",
   "demand": null,
-  "demand_checked": "2026-09-22"
+  "demand_checked": "2026-09-23"
  },
  {
   "id": "nycf-ziwe-town-hall-2026-11-06",
@@ -1537,7 +1507,7 @@
   "description": "Ziwe opens NYCF at Town Hall with a sharp, conversation-driving stand-up set.",
   "tier": "special",
   "demand": null,
-  "demand_checked": "2026-09-22"
+  "demand_checked": "2026-09-23"
  },
  {
   "id": "nycf-joanne-mcnally-town-hall-2026-11-07",
@@ -1557,7 +1527,7 @@
   "description": "Joanne McNally brings Pinotphile, her sold-out hour about wine, weddings, and the chaos of being alive, to Town Hall.",
   "tier": "special",
   "demand": null,
-  "demand_checked": "2026-09-22"
+  "demand_checked": "2026-09-23"
  },
  {
   "id": "nycf-sarah-sherman-patti-harrison-town-hall-2026-11-08",
@@ -1577,7 +1547,7 @@
   "description": "Sarah Sherman and Patti Harrison share a Town Hall night as part of the New York Comedy Festival.",
   "tier": "special",
   "demand": null,
-  "demand_checked": "2026-09-22"
+  "demand_checked": "2026-09-23"
  },
  {
   "id": "nycf-moth-comic-relief-town-hall-2026-11-14",
@@ -1597,7 +1567,7 @@
   "description": "The Moth and Comic Relief team up for an afternoon of true stories told live on the Town Hall stage.",
   "tier": "special",
   "demand": null,
-  "demand_checked": "2026-09-22"
+  "demand_checked": "2026-09-23"
  },
  {
   "id": "nycf-jordan-klepper-town-hall-2026-11-14",
@@ -1617,7 +1587,7 @@
   "description": "Jordan Klepper hosts a NYCF edition of his SH&T Show with comics from the festival at Town Hall.",
   "tier": "special",
   "demand": null,
-  "demand_checked": "2026-09-22"
+  "demand_checked": "2026-09-23"
  },
  {
   "id": "nycf-dropout-improv-kings-2026-11-13",
@@ -1637,7 +1607,7 @@
   "description": "Dropout Improv brings the Dropout TV cast and friends to Kings Theatre for one of NYCF s marquee shows.",
   "tier": "special",
   "demand": null,
-  "demand_checked": "2026-09-22"
+  "demand_checked": "2026-09-23"
  },
  {
   "id": "nycf-adam-ray-gramercy-2026-11-06",
@@ -1657,7 +1627,7 @@
   "description": "Adam Ray opens NYCF at Gramercy Theatre with a night of character work and stand-up.",
   "tier": "special",
   "demand": null,
-  "demand_checked": "2026-09-22"
+  "demand_checked": "2026-09-23"
  },
  {
   "id": "nycf-gayme-show-bmcc-2026-11-06",
@@ -1677,7 +1647,7 @@
   "description": "Matt Rogers and Dave Mizzoni bring their long-running Gayme Show to BMCC Tribeca PAC for NYCF.",
   "tier": "special",
   "demand": null,
-  "demand_checked": "2026-09-22"
+  "demand_checked": "2026-09-23"
  },
  {
   "id": "nycf-stand-up-for-heroes-geffen-2026-11-09",
@@ -1697,7 +1667,7 @@
   "description": "NYCF s marquee benefit for the Bob Woodruff Foundation, with Jon Stewart, Bruce Springsteen, Hasan Minhaj and others at David Geffen Hall.",
   "tier": "special",
   "demand": null,
-  "demand_checked": "2026-09-22"
+  "demand_checked": "2026-09-23"
  },
  {
   "id": "nycf-ms-pat-hard-rock-2026-11-06",
@@ -1717,7 +1687,7 @@
   "description": "Ms. Pat headlines the Hard Rock Hotel New York for the New York Comedy Festival opening weekend.",
   "tier": "special",
   "demand": null,
-  "demand_checked": "2026-09-22"
+  "demand_checked": "2026-09-23"
  },
  {
   "id": "nycf-jess-hilarious-hard-rock-2026-11-13",
@@ -1737,7 +1707,7 @@
   "description": "Jess Hilarious brings the Don t Play Wit Me Tour to Hard Rock Hotel New York as part of NYCF.",
   "tier": "special",
   "demand": null,
-  "demand_checked": "2026-09-22"
+  "demand_checked": "2026-09-23"
  },
  {
   "id": "nycf-rainbow-riot-bcc-2026-11-08",
@@ -1757,7 +1727,7 @@
   "description": "Rainbow Riot, the LGBTQ stand-up showcase hosted by Terrence Lambert, lands at Brooklyn Comedy Collective for NYCF.",
   "tier": "special",
   "demand": null,
-  "demand_checked": "2026-09-22"
+  "demand_checked": "2026-09-23"
  },
  {
   "id": "nycf-eddie-pepitone-union-hall-2026-11-10",
@@ -1777,7 +1747,7 @@
   "description": "Eddie Pepitone headlines the first of two late-night Union Hall shows for NYCF.",
   "tier": "special",
   "demand": null,
-  "demand_checked": "2026-09-22"
+  "demand_checked": "2026-09-23"
  },
  {
   "id": "nycf-josh-sharp-bell-house-2026-11-08",
@@ -1797,67 +1767,7 @@
   "description": "Josh Sharp brings An Hour of Crowd Work in the Round to the Bell House for a NYCF matinee.",
   "tier": "special",
   "demand": null,
-  "demand_checked": "2026-09-22"
- },
- {
-  "id": "pretty-major-union-hall-2026-09-22",
-  "title": "PRETTY MAJOR Hosted by Jay Jurden",
-  "date": "2026-09-22",
-  "starts_at": "2026-09-22T19:30:00-04:00",
-  "ends_at": "2026-09-22T21:00:00-04:00",
-  "end_time_confirmed": true,
-  "time_label": "7:30pm · doors 7pm",
-  "venue": "Union Hall",
-  "neighborhood": "Park Slope",
-  "price_amount": 15.92,
-  "price_label": "From $15.92",
-  "ticket_url": "https://www.eventbrite.com/e/pretty-major-hosted-by-jay-jurden-tickets-1995504568883",
-  "source_url": "https://www.eventbrite.com/e/pretty-major-hosted-by-jay-jurden-tickets-1995504568883",
-  "verified_at": "2026-09-17",
-  "description": "Jay Jurden's Tuesday lineup at Union Hall: Grace Johnson, Niles Abston, Liam Dalton and Courtney O'Donnell — Jurden's crowd-work is the one to catch before the rest.",
-  "tier": "special",
-  "featured": false,
-  "poster": {
-   "src": "/assets/posters/pretty-major-union-hall-2026-09-22.jpg",
-   "width": 940,
-   "height": 470,
-   "source_url": "https://www.eventbrite.com/e/pretty-major-hosted-by-jay-jurden-tickets-1995504568883",
-   "credit": "Artwork: Union Hall / show organizer",
-   "alt": "PRETTY MAJOR Hosted by Jay Jurden promotional artwork.",
-   "kind": "dated event flyer"
-  },
-  "demand": null,
-  "demand_checked": "2026-09-22"
- },
- {
-  "id": "lets-not-die-littlefield-2026-09-22",
-  "title": "Let's Not Die: Climate Week Edition",
-  "date": "2026-09-22",
-  "starts_at": "2026-09-22T20:00:00-04:00",
-  "ends_at": "2026-09-22T22:00:00-04:00",
-  "end_time_confirmed": false,
-  "time_label": "8pm · doors 7pm",
-  "venue": "Littlefield",
-  "neighborhood": "Gowanus",
-  "price_amount": 18.71,
-  "price_label": "From $18.71",
-  "ticket_url": "https://www.eventbrite.com/e/lets-not-die-tickets-1997940304233",
-  "source_url": "https://www.eventbrite.com/e/lets-not-die-tickets-1997940304233",
-  "verified_at": "2026-09-18",
-  "description": "Julio Torres tops a climate-week lineup at Littlefield alongside Usama Siddiquee, Dylan Adler and Stuart Goldsmith — the Tuesday that gets the only stand-up card you need this week.",
-  "tier": "special",
-  "featured": false,
-  "poster": {
-   "src": "/assets/posters/lets-not-die-littlefield-2026-09-22.jpg",
-   "width": 940,
-   "height": 470,
-   "source_url": "https://www.eventbrite.com/e/lets-not-die-tickets-1997940304233",
-   "credit": "Artwork: Littlefield / show organizer",
-   "alt": "Let's Not Die: Climate Week Edition promotional artwork.",
-   "kind": "dated event flyer"
-  },
-  "demand": null,
-  "demand_checked": "2026-09-22"
+  "demand_checked": "2026-09-23"
  },
  {
   "id": "pizzazz-with-gary-gulman-union-hall-2026-09-23",
@@ -1887,7 +1797,7 @@
    "kind": "dated event flyer"
   },
   "demand": null,
-  "demand_checked": "2026-09-22"
+  "demand_checked": "2026-09-23"
  },
  {
   "id": "mindy-raf-special-taping-littlefield-2026-09-27",
@@ -1917,7 +1827,7 @@
    "kind": "dated event flyer"
   },
   "demand": "going_fast",
-  "demand_checked": "2026-09-22"
+  "demand_checked": "2026-09-23"
  },
  {
   "id": "sarah-silverman-streicker-2026-10-26",
@@ -1947,7 +1857,7 @@
    "kind": "dated event flyer"
   },
   "demand": null,
-  "demand_checked": "2026-09-22"
+  "demand_checked": "2026-09-23"
  },
  {
   "id": "girl-church-union-hall-2026-09-25",
@@ -1977,7 +1887,7 @@
    "kind": "dated event flyer"
   },
   "demand": null,
-  "demand_checked": "2026-09-22"
+  "demand_checked": "2026-09-23"
  },
  {
   "id": "kendall-farrell-special-taping-littlefield-2026-10-18",
@@ -2007,7 +1917,7 @@
    "kind": "dated event flyer"
   },
   "demand": null,
-  "demand_checked": "2026-09-22"
+  "demand_checked": "2026-09-23"
  },
  {
   "id": "clean-up-your-act-wscc-2026-10-28",
@@ -2037,7 +1947,7 @@
    "kind": "dated event flyer"
   },
   "demand": null,
-  "demand_checked": "2026-09-22"
+  "demand_checked": "2026-09-23"
  },
  {
   "id": "megan-botnick-wscc-2026-10-29",
@@ -2058,7 +1968,7 @@
   "featured": false,
   "tier": "special",
   "demand": null,
-  "demand_checked": "2026-09-22"
+  "demand_checked": "2026-09-23"
  },
  {
   "id": "scary-good-comedy-brittany-carney-littlefield-2026-10-31",
@@ -2088,7 +1998,7 @@
    "kind": "dated event flyer"
   },
   "demand": null,
-  "demand_checked": "2026-09-22"
+  "demand_checked": "2026-09-23"
  },
  {
   "id": "pure-chaos-best-of-kansas-city-fear-city-2026-10-02",
@@ -2109,7 +2019,7 @@
   "featured": false,
   "tier": "special",
   "demand": null,
-  "demand_checked": "2026-09-22"
+  "demand_checked": "2026-09-23"
  },
  {
   "id": "magic-city-comedy-fear-city-2026-10-09",
@@ -2130,7 +2040,7 @@
   "featured": false,
   "tier": "special",
   "demand": null,
-  "demand_checked": "2026-09-22"
+  "demand_checked": "2026-09-23"
  },
  {
   "id": "laughing-lassi-broadway-comedy-club-2026-10-30",
@@ -2151,7 +2061,7 @@
   "featured": false,
   "tier": "special",
   "demand": null,
-  "demand_checked": "2026-09-22"
+  "demand_checked": "2026-09-23"
  },
  {
   "id": "boo-ha-ha-comedy-in-harlem-2026-10-29",
@@ -2172,7 +2082,7 @@
   "featured": false,
   "tier": "special",
   "demand": null,
-  "demand_checked": "2026-09-22"
+  "demand_checked": "2026-09-23"
  },
  {
   "id": "michael-pasvar-and-friends-fear-city-2026-11-21",
@@ -2192,7 +2102,7 @@
   "featured": false,
   "tier": "special",
   "demand": null,
-  "demand_checked": "2026-09-22"
+  "demand_checked": "2026-09-23"
  },
  {
   "id": "mark-simmons-jest-to-impress-soho-playhouse-2026-10-27",
@@ -2213,27 +2123,7 @@
   "featured": false,
   "tier": "special",
   "demand": null,
-  "demand_checked": "2026-09-22"
- },
- {
-  "id": "chris-distefano-mark-normand-gotham-2026-09-22",
-  "title": "Comedy Spotlight: Chris Distefano & Mark Normand",
-  "date": "2026-09-22",
-  "starts_at": "2026-09-22T19:30:00-04:00",
-  "ends_at": "2026-09-22T21:00:00-04:00",
-  "end_time_confirmed": false,
-  "time_label": "7:30pm · doors 7pm",
-  "venue": "Gotham Comedy Club",
-  "neighborhood": "Chelsea",
-  "price_label": "See Gotham Comedy Club ticket page for price",
-  "ticket_url": "https://gothamcomedyclub.com/events/comedy-spotlightmay11xgbqpsw",
-  "source_url": "https://gothamcomedyclub.com/events/comedy-spotlightmay11xgbqpsw",
-  "verified_at": "2026-09-20",
-  "description": "Gotham’s Tuesday Comedy Spotlight bills Chris Distefano and Mark Normand “and more.” Two theater-level names in a club room on a weeknight is the reason to go; lineups can change, tables are shared and there is a two-beverage minimum.",
-  "featured": false,
-  "tier": "special",
-  "demand": null,
-  "demand_checked": "2026-09-22"
+  "demand_checked": "2026-09-23"
  },
  {
   "id": "drew-lynch-esther-povitsky-nycc-uws-2026-09-23",
@@ -2254,7 +2144,7 @@
   "featured": false,
   "tier": "special",
   "demand": null,
-  "demand_checked": "2026-09-22"
+  "demand_checked": "2026-09-23"
  },
  {
   "id": "farooq-hussain-lasergooch-eastville-2026-09-24",
@@ -2275,7 +2165,7 @@
   "featured": false,
   "tier": "special",
   "demand": null,
-  "demand_checked": "2026-09-22"
+  "demand_checked": "2026-09-23"
  },
  {
   "id": "dina-hashem-eastville-2026-09-26",
@@ -2296,7 +2186,7 @@
   "featured": false,
   "tier": "special",
   "demand": null,
-  "demand_checked": "2026-09-22"
+  "demand_checked": "2026-09-23"
  },
  {
   "id": "rudy-rush-friends-comedy-in-harlem-2026-09-27",
@@ -2317,7 +2207,7 @@
   "featured": false,
   "tier": "special",
   "demand": null,
-  "demand_checked": "2026-09-22"
+  "demand_checked": "2026-09-23"
  },
  {
   "id": "matt-goldich-west-side-comedy-club-2026-09-27",
@@ -2338,7 +2228,7 @@
   "featured": false,
   "tier": "special",
   "demand": null,
-  "demand_checked": "2026-09-22"
+  "demand_checked": "2026-09-23"
  },
  {
   "id": "we-have-fun-young-ethels-2026-09-23",
@@ -2359,7 +2249,7 @@
   "featured": false,
   "tier": "special",
   "demand": null,
-  "demand_checked": "2026-09-22"
+  "demand_checked": "2026-09-23"
  },
  {
   "id": "bomb-shelter-gaf-west-2026-09-24",
@@ -2380,7 +2270,7 @@
   "featured": false,
   "tier": "special",
   "demand": null,
-  "demand_checked": "2026-09-22"
+  "demand_checked": "2026-09-23"
  },
  {
   "id": "bitches-brew-halyards-2026-09-25",
@@ -2401,7 +2291,7 @@
   "featured": false,
   "tier": "special",
   "demand": null,
-  "demand_checked": "2026-09-22"
+  "demand_checked": "2026-09-23"
  },
  {
   "id": "faculty-lounge-eris-deep-space-2026-09-27",
@@ -2422,7 +2312,7 @@
   "featured": false,
   "tier": "special",
   "demand": null,
-  "demand_checked": "2026-09-22"
+  "demand_checked": "2026-09-23"
  },
  {
   "id": "the-peter-stewart-show-comic-strip-2026-09-28",
@@ -2451,7 +2341,7 @@
    "kind": "dated event flyer"
   },
   "demand": null,
-  "demand_checked": "2026-09-22"
+  "demand_checked": "2026-09-23"
  },
  {
   "id": "elyse-delucci-one-night-only-comic-strip-2026-10-01",
@@ -2480,7 +2370,7 @@
    "kind": "dated event flyer"
   },
   "demand": null,
-  "demand_checked": "2026-09-22"
+  "demand_checked": "2026-09-23"
  },
  {
   "id": "dead-comedian-contest-comic-strip-2026-10-14",
@@ -2509,7 +2399,7 @@
    "kind": "dated event flyer"
   },
   "demand": null,
-  "demand_checked": "2026-09-22"
+  "demand_checked": "2026-09-23"
  },
  {
   "id": "ruby-setnik-bell-house-2026-10-27",
@@ -2538,7 +2428,7 @@
    "kind": "dated event flyer"
   },
   "demand": null,
-  "demand_checked": "2026-09-22"
+  "demand_checked": "2026-09-23"
  },
  {
   "id": "nasser-al-rayess-town-hall-2026-10-31",
@@ -2567,7 +2457,7 @@
    "kind": "dated event flyer"
   },
   "demand": null,
-  "demand_checked": "2026-09-22"
+  "demand_checked": "2026-09-23"
  },
  {
   "id": "piece-of-work-union-hall-2026-09-26",
@@ -2597,7 +2487,7 @@
    "kind": "dated event flyer"
   },
   "demand": null,
-  "demand_checked": "2026-09-22"
+  "demand_checked": "2026-09-23"
  },
  {
   "id": "do-it-live-w-chika-caveat-2026-09-24",
@@ -2627,7 +2517,7 @@
    "kind": "dated event flyer"
   },
   "demand": null,
-  "demand_checked": "2026-09-22"
+  "demand_checked": "2026-09-23"
  },
  {
   "id": "daylighters-littlefield-2026-10-04",
@@ -2657,7 +2547,7 @@
    "kind": "dated event flyer"
   },
   "demand": null,
-  "demand_checked": "2026-09-22"
+  "demand_checked": "2026-09-23"
  },
  {
   "id": "ebony-moore-comedy-hoedown-freda-2026-10-04",
@@ -2678,6 +2568,6 @@
   "featured": false,
   "tier": "special",
   "demand": null,
-  "demand_checked": "2026-09-22"
+  "demand_checked": "2026-09-23"
  }
 ]
