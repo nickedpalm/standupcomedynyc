@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-09-22T11:07:20.667Z",
- "performers_considered": 44,
+ "generated_at": "2026-09-24T11:11:14.723Z",
+ "performers_considered": 47,
  "shortlist": [
   {
    "name": "Chelsea Handler",
@@ -8,26 +8,26 @@
   },
   {
    "name": "Beth Stelling",
-   "priority": 45
+   "priority": 60
+  },
+  {
+   "name": "Maria Bamford",
+   "priority": 56
+  },
+  {
+   "name": "Kanan Gill",
+   "priority": 50
+  },
+  {
+   "name": "Kevin Sullivan",
+   "priority": 47
   },
   {
    "name": "Marc Maron",
    "priority": 45
   },
   {
-   "name": "Michelle Buteau",
-   "priority": 40
-  },
-  {
-   "name": "David Nihill",
-   "priority": 35
-  },
-  {
    "name": "Vidura Bandara Rajapaksa",
-   "priority": 35
-  },
-  {
-   "name": "Kanan Gill",
    "priority": 35
   },
   {
@@ -39,11 +39,64 @@
    "priority": 35
   },
   {
-   "name": "Maria Bamford",
-   "priority": 31
+   "name": "Michelle Buteau",
+   "priority": 30
   }
  ],
  "run": [
+  {
+   "name": "Chelsea Handler",
+   "priority": 75,
+   "next": {
+    "id": "chelsea-handler-beacon-2026-09-25",
+    "date": "2026-09-25",
+    "venue": "Beacon Theatre",
+    "days": 1,
+    "featured": false,
+    "poster": false,
+    "demand": null
+   },
+   "cheap_signals": [
+    "Wikipedia: 2070 views a day",
+    "Reddit: 7 posts in 30 days, 27157 upvotes (top: r/Fauxmoi)"
+   ],
+   "reason": "show within 3 days and not yet decided"
+  },
+  {
+   "name": "Beth Stelling",
+   "priority": 60,
+   "next": {
+    "id": "beth-stelling-let-me-get-loose-2026-09-26",
+    "date": "2026-09-26",
+    "venue": "The Bell House",
+    "days": 2,
+    "featured": false,
+    "poster": true,
+    "demand": null
+   },
+   "cheap_signals": [
+    "Reddit: 4 posts in 30 days, 551 upvotes (top: r/StandUpComedy)"
+   ],
+   "reason": "show within 3 days and not yet decided"
+  },
+  {
+   "name": "Kanan Gill",
+   "priority": 50,
+   "next": {
+    "id": "kanan-gill-not-this-again-town-hall-2026-10-03-1600",
+    "date": "2026-10-03",
+    "venue": "The Town Hall",
+    "days": 9,
+    "featured": false,
+    "poster": false,
+    "demand": "going_fast"
+   },
+   "cheap_signals": [
+    "a second show the same night at the same room",
+    "Wikipedia: 209 views a day"
+   ],
+   "reason": "in the decision window and not yet decided"
+  },
   {
    "name": "Do It",
    "priority": 35,
@@ -51,7 +104,7 @@
     "id": "do-it-live-w-chika-caveat-2026-09-24",
     "date": "2026-09-24",
     "venue": "Caveat",
-    "days": 2,
+    "days": 0,
     "featured": false,
     "poster": true,
     "demand": null
@@ -62,43 +115,13 @@
  ],
  "reuse": [
   {
-   "name": "Chelsea Handler",
-   "priority": 75,
+   "name": "Kevin Sullivan",
+   "priority": 47,
    "cached": {
-    "at": "2026-09-16T11:13:57.217Z",
-    "age_days": 6,
+    "at": "2026-09-21T11:14:54.139Z",
+    "age_days": 3,
     "fresh": true,
-    "note": "Seven Reddit threads in 30 days (2,226 upvotes, 567 comments) — most chatter around the High and Mighty Tour dates, with a r/Tickets trade thread and a couple r/Standup recaps; top post sits at 1,500+ upvotes. No HN hits. Beacon Theatre Sep 25 is the date the threads are pointing at."
-   }
-  },
-  {
-   "name": "Beth Stelling",
-   "priority": 45,
-   "cached": {
-    "at": "2026-09-15T13:02:23.710Z",
-    "age_days": 6.9,
-    "fresh": true,
-    "note": "Seven r/StandUpComedy threads in 30 days (1,782 upvotes); the Boyfriends Kids clip is still climbing. Bell House Sep 26."
-   }
-  },
-  {
-   "name": "Michelle Buteau",
-   "priority": 40,
-   "cached": {
-    "at": "2026-09-21T11:08:34.917Z",
-    "age_days": 1,
-    "fresh": true,
-    "note": "Only 3 Reddit threads in 30 days, mostly about her Spa Weekend role and outfits — r/FemaleStandupComedy's A Lot of Scalp clip (4pts) is the only stand-up-adjacent one; no HN chatter."
-   }
-  },
-  {
-   "name": "David Nihill",
-   "priority": 35,
-   "cached": {
-    "at": "2026-09-21T11:10:04.175Z",
-    "age_days": 1,
-    "fresh": true,
-    "note": "Four hits in 30 days — one r/UofO thread, three HN stories all about a David-named model and a David Bau paper, not the comedian; no stand-up signal."
+    "note": "Five Reddit threads in 30 days but every one is about a different Kevin Sullivan — r/SCJerk's 'Where was Kevin Sullivan?' (41pts), two r/WCW / r/oldschoolwrestling threads about the wrestler, and an RHOC recap. HN's hit is Kevin Boone. No buzz on the Bell House Sep 27 date."
    }
   },
   {
@@ -106,32 +129,37 @@
    "priority": 35,
    "cached": {
     "at": "2026-09-21T11:11:41.607Z",
-    "age_days": 1,
+    "age_days": 3,
     "fresh": true,
     "note": "Two r/gtamarketplace and r/DCdump threads in 30 days (2 upvotes total) — no stand-up signal for the Bell House Sep 24 Paradise Gothic Tour date."
+   }
+  },
+  {
+   "name": "Michelle Buteau",
+   "priority": 30,
+   "cached": {
+    "at": "2026-09-21T11:08:34.917Z",
+    "age_days": 3,
+    "fresh": true,
+    "note": "Only 3 Reddit threads in 30 days, mostly about her Spa Weekend role and outfits — r/FemaleStandupComedy's A Lot of Scalp clip (4pts) is the only stand-up-adjacent one; no HN chatter."
    }
   }
  ],
  "skip": [
   {
-   "name": "Marc Maron",
-   "priority": 45,
-   "reason": "next show in 47 days, outside the 10-day window"
+   "name": "Maria Bamford",
+   "priority": 56,
+   "reason": "next show in 16 days, outside the 10-day window"
   },
   {
-   "name": "Kanan Gill",
-   "priority": 35,
-   "reason": "next show in 11 days, outside the 10-day window"
+   "name": "Marc Maron",
+   "priority": 45,
+   "reason": "next show in 45 days, outside the 10-day window"
   },
   {
    "name": "Joanne McNally",
    "priority": 35,
-   "reason": "next show in 46 days, outside the 10-day window"
-  },
-  {
-   "name": "Maria Bamford",
-   "priority": 31,
-   "reason": "next show in 18 days, outside the 10-day window"
+   "reason": "next show in 44 days, outside the 10-day window"
   },
   {
    "name": "Asif Ali",
@@ -144,8 +172,8 @@
    "reason": "outside the top 10 by cheap ranking"
   },
   {
-   "name": "Kevin Sullivan",
-   "priority": 20,
+   "name": "Faculty Lounge",
+   "priority": 30,
    "reason": "outside the top 10 by cheap ranking"
   },
   {
@@ -169,17 +197,32 @@
    "reason": "outside the top 10 by cheap ranking"
   },
   {
+   "name": "Picture This",
+   "priority": 20,
+   "reason": "outside the top 10 by cheap ranking"
+  },
+  {
+   "name": "Drunk Planet Earth",
+   "priority": 20,
+   "reason": "outside the top 10 by cheap ranking"
+  },
+  {
+   "name": "Dancehall Forever",
+   "priority": 20,
+   "reason": "outside the top 10 by cheap ranking"
+  },
+  {
+   "name": "Billy Wayne Davis",
+   "priority": 20,
+   "reason": "outside the top 10 by cheap ranking"
+  },
+  {
    "name": "Johnny Pemberton",
    "priority": 15,
    "reason": "outside the top 10 by cheap ranking"
   },
   {
    "name": "Mark Simmons",
-   "priority": 15,
-   "reason": "outside the top 10 by cheap ranking"
-  },
-  {
-   "name": "Faculty Lounge",
    "priority": 15,
    "reason": "outside the top 10 by cheap ranking"
   },
@@ -239,17 +282,17 @@
    "reason": "outside the top 10 by cheap ranking"
   },
   {
-   "name": "Picture This",
+   "name": "Sam Oh",
    "priority": 5,
    "reason": "outside the top 10 by cheap ranking"
   },
   {
-   "name": "Drunk Planet Earth",
+   "name": "Good Work",
    "priority": 5,
    "reason": "outside the top 10 by cheap ranking"
   },
   {
-   "name": "Dancehall Forever",
+   "name": "Immigrant Jam",
    "priority": 5,
    "reason": "outside the top 10 by cheap ranking"
   },
@@ -305,7 +348,7 @@
   }
  ],
  "estimated_tokens_saved": 387000,
- "estimate_basis": "9000 tokens per last30days run, 43 runs avoided out of 44",
+ "estimate_basis": "9000 tokens per last30days run, 43 runs avoided out of 47",
  "no_recent_data": [
   "Do It"
  ]

@@ -1206,5 +1206,35 @@
   "bytes": 145991,
   "sha256": "434972c1dc7b4148bb00e3feffe6ac72e871a60fdffae54f759adf20321d5704",
   "reuse_status": "Official promotional artwork; no separate reuse license identified. Local review draft only."
+ },
+ {
+  "event_id": "sheba-mason-cory-kahaney-comic-strip-2026-09-29",
+  "src": "/assets/posters/csl-sep29-2026.jpg",
+  "width": 720,
+  "height": 440,
+  "source_url": "https://comicstriplive.com/sheba-mason-cbs-kyle-mara-sirius-xm-meghan-hanley-dry-bar-comedy-cory-kahaney-last-comic-standing-mike-yard-the-nightly-show-jj-ramirez-latin-legend-of-comedy/",
+  "credit": "Artwork: Comic Strip Live / show organizer",
+  "alt": "Sheba Mason, Cory Kahaney, Mike Yard, Meghan Hanley & Kyle Mara at Comic Strip Live promotional artwork.",
+  "kind": "dated event flyer",
+  "original_image_url": "https://comicstriplive.com/wp-content/uploads/2026/08/KyleMara-CommercialHeadShot-720x440.jpg",
+  "retrieved_at": "2026-09-24",
+  "bytes": 28599,
+  "sha256": "03750ee0dbddbfb363658ae7f1d6441a8f33acbba9a31899364cfa35dbcaf95d",
+  "reuse_status": "Official promotional artwork; no separate reuse license identified. Local review draft only."
+ },
+ {
+  "event_id": "sam-oh-gay-virgin-bell-house-2026-11-02",
+  "src": "/assets/posters/sam-oh-gay-virgin-bell-house-2026-11-02.jpg",
+  "width": 2048,
+  "height": 1152,
+  "source_url": "https://www.livenation.com/event/1AYZkf8Gkdzo4Up/sam-oh-the-unbearable-tightness-of-being-gay-virgin",
+  "credit": "Artwork: Live Nation / The Bell House",
+  "alt": "Sam Oh: The Unbearable Tightness of Being...Gay Virgin promotional artwork.",
+  "kind": "dated event flyer",
+  "original_image_url": "https://s1.ticketm.net/dam/a/8f1/3d456af5-8af1-41d6-a73c-80779750d8f1_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+  "retrieved_at": "2026-09-24",
+  "bytes": 279298,
+  "sha256": "9d068088195ae1b179896fa877733b4dd4208fe41340d98a8240df50939bfda0",
+  "reuse_status": "Official promotional artwork; no separate reuse license identified. Local review draft only."
  }
 ]
