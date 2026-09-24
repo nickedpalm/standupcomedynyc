@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-23T09:28:24.526Z",
+ "generated_at": "2026-09-24T09:29:09.075Z",
  "note": "Demand signals for the editor. Only availability and second shows set the public demand tag.",
  "picks": [
   {
@@ -14,14 +14,14 @@
    "performer": "Maria Bamford",
    "wikipedia": {
     "title": "Maria Bamford",
-    "views_30d": 44790,
-    "views_prior_30d": 21583,
-    "change": 108
+    "views_30d": 50457,
+    "views_prior_30d": 21796,
+    "change": 131
    },
    "reddit": null,
    "reasons": [
-    "Wikipedia: 1493 views a day",
-    "Wikipedia views up 108% over the prior month"
+    "Wikipedia: 1682 views a day",
+    "Wikipedia views up 131% over the prior month"
    ]
   },
   {
@@ -36,14 +36,14 @@
    "performer": "Kanan Gill",
    "wikipedia": {
     "title": "Kanan Gill",
-    "views_30d": 6317,
-    "views_prior_30d": 6026,
-    "change": 5
+    "views_30d": 6277,
+    "views_prior_30d": 6109,
+    "change": 3
    },
    "reddit": null,
    "reasons": [
     "a second show the same night at the same room",
-    "Wikipedia: 211 views a day"
+    "Wikipedia: 209 views a day"
    ]
   },
   {
@@ -58,14 +58,14 @@
    "performer": "Kanan Gill",
    "wikipedia": {
     "title": "Kanan Gill",
-    "views_30d": 6317,
-    "views_prior_30d": 6026,
-    "change": 5
+    "views_30d": 6277,
+    "views_prior_30d": 6109,
+    "change": 3
    },
    "reddit": null,
    "reasons": [
     "a second show the same night at the same room",
-    "Wikipedia: 211 views a day"
+    "Wikipedia: 209 views a day"
    ]
   },
   {
@@ -80,14 +80,14 @@
    "performer": "Joanne McNally",
    "wikipedia": {
     "title": "Joanne McNally",
-    "views_30d": 43403,
-    "views_prior_30d": 26675,
-    "change": 63
+    "views_30d": 43798,
+    "views_prior_30d": 26535,
+    "change": 65
    },
    "reddit": null,
    "reasons": [
-    "Wikipedia: 1447 views a day",
-    "Wikipedia views up 63% over the prior month"
+    "Wikipedia: 1460 views a day",
+    "Wikipedia views up 65% over the prior month"
    ]
   },
   {
@@ -119,13 +119,13 @@
    "performer": "Chelsea Handler",
    "wikipedia": {
     "title": "Chelsea Handler",
-    "views_30d": 55977,
-    "views_prior_30d": 52607,
-    "change": 6
+    "views_30d": 62107,
+    "views_prior_30d": 52706,
+    "change": 18
    },
    "reddit": null,
    "reasons": [
-    "Wikipedia: 1866 views a day"
+    "Wikipedia: 2070 views a day"
    ]
   },
   {
@@ -140,13 +140,13 @@
    "performer": "Marc Maron",
    "wikipedia": {
     "title": "Marc Maron",
-    "views_30d": 34311,
-    "views_prior_30d": 29106,
-    "change": 18
+    "views_30d": 34145,
+    "views_prior_30d": 29176,
+    "change": 17
    },
    "reddit": null,
    "reasons": [
-    "Wikipedia: 1144 views a day"
+    "Wikipedia: 1138 views a day"
    ]
   },
   {
@@ -161,13 +161,13 @@
    "performer": "Mark Simmons",
    "wikipedia": {
     "title": "Mark Simmons (comedian)",
-    "views_30d": 1523,
-    "views_prior_30d": 946,
-    "change": 61
+    "views_30d": 1510,
+    "views_prior_30d": 980,
+    "change": 54
    },
    "reddit": null,
    "reasons": [
-    "Wikipedia views up 61% over the prior month"
+    "Wikipedia views up 54% over the prior month"
    ]
   },
   {
@@ -182,13 +182,13 @@
    "performer": "Michelle Buteau",
    "wikipedia": {
     "title": "Michelle Buteau",
-    "views_30d": 29572,
-    "views_prior_30d": 57673,
-    "change": -49
+    "views_30d": 28014,
+    "views_prior_30d": 58603,
+    "change": -52
    },
    "reddit": null,
    "reasons": [
-    "Wikipedia: 986 views a day"
+    "Wikipedia: 934 views a day"
    ]
   },
   {
@@ -203,13 +203,13 @@
    "performer": "Asif Ali",
    "wikipedia": {
     "title": "Asif Ali (comedian)",
-    "views_30d": 8170,
-    "views_prior_30d": 6527,
-    "change": 25
+    "views_30d": 8102,
+    "views_prior_30d": 6603,
+    "change": 23
    },
    "reddit": null,
    "reasons": [
-    "Wikipedia: 272 views a day"
+    "Wikipedia: 270 views a day"
    ]
   },
   {
@@ -224,13 +224,13 @@
    "performer": "Johnny Pemberton",
    "wikipedia": {
     "title": "Johnny Pemberton",
-    "views_30d": 24053,
-    "views_prior_30d": 17221,
-    "change": 40
+    "views_30d": 23710,
+    "views_prior_30d": 17866,
+    "change": 33
    },
    "reddit": null,
    "reasons": [
-    "Wikipedia: 802 views a day"
+    "Wikipedia: 790 views a day"
    ]
   },
   {
@@ -245,13 +245,13 @@
    "performer": "Michelle Buteau",
    "wikipedia": {
     "title": "Michelle Buteau",
-    "views_30d": 29572,
-    "views_prior_30d": 57673,
-    "change": -49
+    "views_30d": 28014,
+    "views_prior_30d": 58603,
+    "change": -52
    },
    "reddit": null,
    "reasons": [
-    "Wikipedia: 986 views a day"
+    "Wikipedia: 934 views a day"
    ]
   },
   {
@@ -266,13 +266,13 @@
    "performer": "Kathy Griffin",
    "wikipedia": {
     "title": "Kathy Griffin",
-    "views_30d": 27809,
-    "views_prior_30d": 30748,
-    "change": -10
+    "views_30d": 27705,
+    "views_prior_30d": 30569,
+    "change": -9
    },
    "reddit": null,
    "reasons": [
-    "Wikipedia: 927 views a day"
+    "Wikipedia: 924 views a day"
    ]
   },
   {
@@ -287,13 +287,13 @@
    "performer": "Ilana Glazer",
    "wikipedia": {
     "title": "Ilana Glazer",
-    "views_30d": 28889,
-    "views_prior_30d": 30787,
+    "views_30d": 29177,
+    "views_prior_30d": 30904,
     "change": -6
    },
    "reddit": null,
    "reasons": [
-    "Wikipedia: 963 views a day"
+    "Wikipedia: 973 views a day"
    ]
   },
   {
@@ -308,13 +308,13 @@
    "performer": "Daniel Sloss",
    "wikipedia": {
     "title": "Daniel Sloss",
-    "views_30d": 18206,
-    "views_prior_30d": 19920,
-    "change": -9
+    "views_30d": 17821,
+    "views_prior_30d": 20297,
+    "change": -12
    },
    "reddit": null,
    "reasons": [
-    "Wikipedia: 607 views a day"
+    "Wikipedia: 594 views a day"
    ]
   },
   {
@@ -329,13 +329,13 @@
    "performer": "Adam Ray",
    "wikipedia": {
     "title": "Adam Ray",
-    "views_30d": 16319,
-    "views_prior_30d": 21598,
-    "change": -24
+    "views_30d": 16148,
+    "views_prior_30d": 21604,
+    "change": -25
    },
    "reddit": null,
    "reasons": [
-    "Wikipedia: 544 views a day"
+    "Wikipedia: 538 views a day"
    ]
   },
   {
@@ -350,42 +350,14 @@
    "performer": "Jess Hilarious",
    "wikipedia": {
     "title": "Jess Hilarious",
-    "views_30d": 9917,
-    "views_prior_30d": 10358,
-    "change": -4
+    "views_30d": 10000,
+    "views_prior_30d": 10151,
+    "change": -1
    },
    "reddit": null,
    "reasons": [
-    "Wikipedia: 331 views a day"
+    "Wikipedia: 333 views a day"
    ]
-  },
-  {
-   "id": "david-nihill-2026-09-23",
-   "title": "David Nihill: Taking Tangents Tour",
-   "venue": "The Bell House",
-   "date": "2026-09-23",
-   "heat": 0,
-   "demand": null,
-   "availability": null,
-   "second_show": false,
-   "performer": "David Nihill",
-   "wikipedia": null,
-   "reddit": null,
-   "reasons": []
-  },
-  {
-   "id": "wits-end-jay-jurden-vs-chloe-radcliffe-2026-09-23",
-   "title": "WITS END: Jay Jurden vs. Chloe Radcliffe | Comedy Trivia Gameshow",
-   "venue": "Littlefield",
-   "date": "2026-09-23",
-   "heat": 0,
-   "demand": null,
-   "availability": null,
-   "second_show": false,
-   "performer": null,
-   "wikipedia": null,
-   "reddit": null,
-   "reasons": []
   },
   {
    "id": "vidura-rajapaksa-2026-09-24",
@@ -413,9 +385,9 @@
    "performer": "Beth Stelling",
    "wikipedia": {
     "title": "Beth Stelling",
-    "views_30d": 3971,
-    "views_prior_30d": 3310,
-    "change": 20
+    "views_30d": 4029,
+    "views_prior_30d": 3304,
+    "change": 22
    },
    "reddit": null,
    "reasons": []
@@ -476,9 +448,9 @@
    "performer": "Brendan Scannell",
    "wikipedia": {
     "title": "Brendan Scannell",
-    "views_30d": 1545,
-    "views_prior_30d": 1504,
-    "change": 3
+    "views_30d": 1568,
+    "views_prior_30d": 1509,
+    "change": 4
    },
    "reddit": null,
    "reasons": []
@@ -509,9 +481,9 @@
    "performer": "Phoebe Robinson",
    "wikipedia": {
     "title": "Phoebe Robinson",
-    "views_30d": 2952,
-    "views_prior_30d": 3384,
-    "change": -13
+    "views_30d": 2985,
+    "views_prior_30d": 3373,
+    "change": -12
    },
    "reddit": null,
    "reasons": []
@@ -598,9 +570,9 @@
    "performer": "Molly Kearney",
    "wikipedia": {
     "title": "Molly Kearney",
-    "views_30d": 5351,
-    "views_prior_30d": 5276,
-    "change": 1
+    "views_30d": 5387,
+    "views_prior_30d": 5232,
+    "change": 3
    },
    "reddit": null,
    "reasons": []
@@ -869,9 +841,9 @@
    "performer": "Sydnee Washington",
    "wikipedia": {
     "title": "Sydnee Washington",
-    "views_30d": 1895,
-    "views_prior_30d": 1694,
-    "change": 12
+    "views_30d": 1915,
+    "views_prior_30d": 1673,
+    "change": 14
    },
    "reddit": null,
    "reasons": []
@@ -1014,9 +986,9 @@
    "performer": "Difficult People",
    "wikipedia": {
     "title": "Difficult People",
-    "views_30d": 5250,
-    "views_prior_30d": 5893,
-    "change": -11
+    "views_30d": 5223,
+    "views_prior_30d": 5942,
+    "change": -12
    },
    "reddit": null,
    "reasons": []
@@ -1215,28 +1187,12 @@
    "performer": "Josh Sharp",
    "wikipedia": {
     "title": "Josh Sharp",
-    "views_30d": 1051,
-    "views_prior_30d": 1065,
-    "change": -1
+    "views_30d": 1039,
+    "views_prior_30d": 1066,
+    "change": -3
    },
    "reddit": null,
    "reasons": []
-  },
-  {
-   "id": "pizzazz-with-gary-gulman-union-hall-2026-09-23",
-   "title": "Pizzazz with Gary Gulman",
-   "venue": "Union Hall",
-   "date": "2026-09-23",
-   "heat": 0,
-   "demand": null,
-   "availability": "InStock",
-   "second_show": false,
-   "performer": null,
-   "wikipedia": null,
-   "reddit": null,
-   "reasons": [
-    "tickets available"
-   ]
   },
   {
    "id": "sarah-silverman-streicker-2026-10-26",
@@ -1397,20 +1353,6 @@
    "reasons": []
   },
   {
-   "id": "drew-lynch-esther-povitsky-nycc-uws-2026-09-23",
-   "title": "Drew Lynch, Esther Povitsky & Jack Finnegan",
-   "venue": "New York Comedy Club (Upper West Side)",
-   "date": "2026-09-23",
-   "heat": 0,
-   "demand": null,
-   "availability": null,
-   "second_show": false,
-   "performer": null,
-   "wikipedia": null,
-   "reddit": null,
-   "reasons": []
-  },
-  {
    "id": "farooq-hussain-lasergooch-eastville-2026-09-24",
    "title": "Farooq Hussain Presents: Lasergooch!",
    "venue": "Eastville Comedy Club",
@@ -1465,22 +1407,6 @@
    "wikipedia": null,
    "reddit": null,
    "reasons": []
-  },
-  {
-   "id": "we-have-fun-young-ethels-2026-09-23",
-   "title": "We Have Fun",
-   "venue": "Young Ethel's",
-   "date": "2026-09-23",
-   "heat": 0,
-   "demand": null,
-   "availability": "InStock",
-   "second_show": false,
-   "performer": null,
-   "wikipedia": null,
-   "reddit": null,
-   "reasons": [
-    "tickets available"
-   ]
   },
   {
    "id": "bomb-shelter-gaf-west-2026-09-24",

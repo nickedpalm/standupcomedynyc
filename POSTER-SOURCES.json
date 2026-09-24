@@ -416,7 +416,7 @@
  },
  {
   "event_id": "david-nihill-2026-09-23",
-  "src": "/assets/posters/david-nihill-2026-09-23.jpg",
+  "src": "/assets/posters/archive/david-nihill-2026-09-23.jpg",
   "width": 640,
   "height": 427,
   "source_url": "https://www.thebellhouseny.com/",
@@ -427,7 +427,8 @@
   "retrieved_at": "2026-09-14",
   "bytes": 46997,
   "sha256": "a4f884ee5634d480ec9b7cf2c775f59442c75f3325db5945ba9ddebc79ba8113",
-  "reuse_status": "Official promotional artwork from the show's public listing; no separate reuse license identified. Site display with credit only."
+  "reuse_status": "Official promotional artwork from the show's public listing; no separate reuse license identified. Site display with credit only.",
+  "archived": true
  },
  {
   "event_id": "vidura-rajapaksa-2026-09-24",
@@ -982,7 +983,7 @@
  },
  {
   "event_id": "pizzazz-with-gary-gulman-union-hall-2026-09-23",
-  "src": "/assets/posters/pizzazz-with-gary-gulman-union-hall-2026-09-23.jpg",
+  "src": "/assets/posters/archive/pizzazz-with-gary-gulman-union-hall-2026-09-23.jpg",
   "width": 940,
   "height": 470,
   "source_url": "https://www.eventbrite.com/e/pizzazz-with-gary-gulman-tickets-1999000515353",
@@ -993,7 +994,8 @@
   "bytes": 49115,
   "sha256": "1f8c158318cb92a5edde3f9854a9c08402b6e230045e26cb1f2eacce24f3ab19",
   "reuse_status": "Official promotional artwork from the show's Eventbrite listing; no separate reuse license identified. Site display with credit only.",
-  "original_image_url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F454979339%2F282041210522%2F1%2Foriginal.20230226-185050"
+  "original_image_url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F454979339%2F282041210522%2F1%2Foriginal.20230226-185050",
+  "archived": true
  },
  {
   "event_id": "mindy-raf-special-taping-littlefield-2026-09-27",
