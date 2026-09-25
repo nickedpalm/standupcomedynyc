@@ -1,8 +1,8 @@
 {
  "runs": {
   "Beth Stelling": {
-   "at": "2026-09-15T13:02:23.710Z",
-   "note": "Seven r/StandUpComedy threads in 30 days (1,782 upvotes); the Boyfriends Kids clip is still climbing. Bell House Sep 26.",
+   "at": "2026-09-25T11:04:38.712Z",
+   "note": "Six Reddit threads in 30 days (749 upvotes, 35 comments); the r/StandUpComedy Trolls clip and the 'they don't like what's up here' bit are still circulating, and her open-mic-punch-up show 'Punch Room' has its own r/StandUpComedy thread (Sep 11). HN silent. Bell House Sep 26, day after the date — pick on the running clips; she's on her own headline run.",
    "source": "last30days"
   },
   "Jamie Wolf": {
@@ -78,6 +78,11 @@
   "Chika": {
    "at": "2026-09-22T11:07:59.451Z",
    "note": "Do It Live w/ Chika at Caveat Sep 24: HN and Reddit returned no relevant chatter in the last 30 days — the show is a Caveat regular with a one-year anniversary and a panel format mixing stand-up and political commentary, so the absence of recent buzz is a sign the audience is local rather than touring-headliner scale.",
+   "source": "last30days"
+  },
+  "Kanan Gill": {
+   "at": "2026-09-25T11:04:38.863Z",
+   "note": "Reddit rate-limited on this run; HN returned one false-positive prefix-match that filtered out. Zero usable items in 30 days — treat as ranked-on-schedule-alone, decide on the Town Hall matinee + evening double and his existing audience for the NYC stop on the Not This Again tour.",
    "source": "last30days"
   }
  }

@@ -63,3 +63,24 @@ Generated from `npm run heat` + `npm run research-plan` (last30days for the one 
 
 ## Ranked on schedule alone (no recent data)
 - Chika (above). Do It Live's panel format means the pick leans on Caveat's standing room and the political-comedy niche rather than recent online buzz.
+
+## 2026-09-25
+
+Generated from `npm run heat` + `npm run research-plan` (last30days for the two names under `run`; reuse cached notes for the three under `reuse`).
+
+### Rankings
+- 44 performers ranked from static data
+- Run 2, reuse 3 cached, skip 39
+- ~378,000 tokens saved from the research-plan
+
+### Run notes
+- **Beth Stelling** (Bell House Sep 26, 7pm): Six r/StandUpComedy + r/funnyvideos threads in 30 days (749 upvotes, 35 comments); the Trolls clip and the "they don't like what's up here" bit are still circulating, and her open-mic-punch-up show "Punch Room" has its own r/StandUpComedy thread from Sep 11. HN silent. Show is the night after this run — the caches were aged out, so the run cleared the air.
+- **Kanan Gill** (Town Hall Oct 3 matinee + evening): Reddit was rate-limited (HTTP 429) on this run; HN returned one false-positive prefix-match that filtered out. Zero usable items in 30 days — treat as ranked on schedule alone and decide on the Town Hall double and his existing audience for the Not This Again NYC stop.
+
+### Reuse notes (already cached under 7d)
+- **Chelsea Handler**: cached 1d ago — high Fauxmoi/pop culture buzz around her Netflix move and the "I'm a white woman who voted for Trump" podcast. Beacon Theatre Sep 25 at 8pm.
+- **Kevin Sullivan**: cached 4d ago — five Reddit threads but every one is a different Kevin Sullivan; Bell House Sep 27.
+- **Michelle Buteau**: cached 4d ago — three threads about her Spa Weekend role and outfits, no stand-up-specific signal. Bell House Sep 29 + Oct 19.
+
+### Ranked on schedule alone (no recent data)
+- **Kanan Gill** (above). Decide on the Town Hall matinee + evening double, not on buzz.

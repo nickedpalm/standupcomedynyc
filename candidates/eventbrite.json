@@ -1,5 +1,5 @@
 {
- "retrieved_at": "2026-09-24T11:01:46.856Z",
+ "retrieved_at": "2026-09-25T11:01:00.925Z",
  "note": "Leads from Eventbrite organizer pages of registered rooms. Open the event page before adding a pick; artwork needs a POSTER-SOURCES record.",
  "organizers": [
   {
@@ -36,63 +36,6 @@
   }
  ],
  "events": [
-  {
-   "venue": "Union Hall",
-   "neighborhood": "Park Slope",
-   "organizer": "https://www.eventbrite.com/o/union-hall-17899496497",
-   "title": "RUPI KAUR: UNCUT – A RESIDENCY",
-   "date": "2026-09-24",
-   "time": "7:30pm",
-   "starts_at": "2026-09-24T19:30:00-04:00",
-   "ends_at": "2026-09-24T21:00:00-04:00",
-   "location_name": "Union Hall",
-   "location_address": "702 Union St., Brooklyn, NY 11215, Brooklyn",
-   "price_from": 30.84,
-   "url": "https://www.eventbrite.com/e/rupi-kaur-uncut-a-residency-tickets-1989412300745",
-   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1184535136%2F282041210522%2F1%2Foriginal.20260513-193510?w=940&auto=format%2Ccompress&q=75&sharp=10&s=aece0046eca8eac18b55cf73b0ee7d38",
-   "description": "RUPI KAUR: UNCUT – A RESIDENCY - Thursday, September 24 - 7:00pm Doors / 7:30pm Show",
-   "venue_name_matches": true,
-   "already_a_pick": false,
-   "seen_before": true
-  },
-  {
-   "venue": "Comic Strip Live",
-   "neighborhood": "Upper East Side",
-   "organizer": "https://www.eventbrite.com/o/comic-strip-live-comedy-club-8100188167",
-   "title": "Gladys Presents! With Connor O\"Brien!",
-   "date": "2026-09-24",
-   "time": "8pm",
-   "starts_at": "2026-09-24T20:00:00-04:00",
-   "ends_at": "2026-09-24",
-   "location_name": "Comic Strip Live",
-   "location_address": "1568 2nd Ave, New York, NY 10028, New York",
-   "price_from": 25.71,
-   "url": "https://www.eventbrite.com/e/gladys-presents-with-connor-obrien-tickets-1998677882349",
-   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1191707334%2F136153380524%2F1%2Foriginal.20260823-183453?crop=focalpoint&fit=crop&w=940&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=a06a2609b587bac928987a2b5390ddfb",
-   "description": "Be part of history, celebrating 50 years of Comedy at the World Comic Strip! Comedians from, HBO, The Tonight Show, SNL & More ~",
-   "venue_name_matches": true,
-   "already_a_pick": false,
-   "seen_before": true
-  },
-  {
-   "venue": "Caveat",
-   "neighborhood": "Lower East Side",
-   "organizer": "https://www.eventbrite.com/o/caveat-13580085802",
-   "title": "Do It Live w/ Chika",
-   "date": "2026-09-24",
-   "time": "9:30pm",
-   "starts_at": "2026-09-24T21:30:00-04:00",
-   "ends_at": "2026-09-24T23:00:00-04:00",
-   "location_name": "Caveat",
-   "location_address": "21 A Clinton Street, New York, NY 10002, New York",
-   "price_from": 18.76,
-   "url": "https://www.eventbrite.com/e/do-it-live-w-chika-tickets-1976663455606",
-   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1193599466%2F207096185123%2F1%2Foriginal.20260915-212011?w=940&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C1920%2C960&s=8b3e1e79672748e22d9397adbf743933",
-   "description": "For people who wonder \"What if Wendy Williams was a comedian with a political science degree?\", there's Do It Live w/ Chika.",
-   "venue_name_matches": true,
-   "already_a_pick": true,
-   "seen_before": true
-  },
   {
    "venue": "Caveat",
    "neighborhood": "Lower East Side",
@@ -395,7 +338,7 @@
    "description": "Be part of history, celebrating 50 years of Comedy at the World Comic Strip! Comedians from, HBO, The Tonight Show, SNL & More ~",
    "venue_name_matches": true,
    "already_a_pick": false,
-   "seen_before": false
+   "seen_before": true
   },
   {
    "venue": "Littlefield",
@@ -452,7 +395,7 @@
    "description": "Billy Wayne Davis - Sunday, September 27 - 4:30pm Doors / 5:00pm Show",
    "venue_name_matches": true,
    "already_a_pick": false,
-   "seen_before": false
+   "seen_before": true
   },
   {
    "venue": "Littlefield",
@@ -490,7 +433,7 @@
    "description": "Don't miss your favorite comedians interviewing experts on topics they've always wanted to ask someone about.",
    "venue_name_matches": true,
    "already_a_pick": false,
-   "seen_before": false
+   "seen_before": true
   },
   {
    "venue": "Union Hall",
@@ -509,7 +452,7 @@
    "description": "Caroline and Jack present \"The Show\" - Sunday, September 27 - 7:00pm Doors / 7:30pm Show",
    "venue_name_matches": true,
    "already_a_pick": false,
-   "seen_before": false
+   "seen_before": true
   },
   {
    "venue": "Comic Strip Live",
@@ -528,7 +471,7 @@
    "description": "Be part of history, celebrating 50 years of Comedy at the World Comic Strip! Comedians from, HBO, The Tonight Show, SNL & More ~",
    "venue_name_matches": true,
    "already_a_pick": false,
-   "seen_before": false
+   "seen_before": true
   },
   {
    "venue": "Littlefield",
@@ -566,7 +509,7 @@
    "description": "NORMAL BEHAVIOR with Chine Ikoro - Monday, September 28 - 7:00pm Doors / 7:30pm Show",
    "venue_name_matches": true,
    "already_a_pick": false,
-   "seen_before": false
+   "seen_before": true
   },
   {
    "venue": "Comic Strip Live",
@@ -583,6 +526,25 @@
    "url": "https://www.eventbrite.com/e/the-peter-stewart-show-tickets-1998677988667",
    "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1194244806%2F136153380524%2F1%2Foriginal.20260924-002925?crop=focalpoint&fit=crop&w=940&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.497&fp-y=0.255&s=e6e920a9be16ecc87fce2b975c755243",
    "description": "Be part of history, celebrating 50 years of Comedy at the World Comic Strip! Comedians from, HBO, The Tonight Show, SNL & More ~",
+   "venue_name_matches": true,
+   "already_a_pick": false,
+   "seen_before": true
+  },
+  {
+   "venue": "Union Hall",
+   "neighborhood": "Park Slope",
+   "organizer": "https://www.eventbrite.com/o/union-hall-17899496497",
+   "title": "Writers of Jimmy Kimmel Live!",
+   "date": "2026-09-29",
+   "time": "7:30pm",
+   "starts_at": "2026-09-29T19:30:00-04:00",
+   "ends_at": "2026-09-29T21:00:00-04:00",
+   "location_name": "Union Hall",
+   "location_address": "702 Union St., Brooklyn, NY 11215, Brooklyn",
+   "price_from": 19.26,
+   "url": "https://www.eventbrite.com/e/writers-of-jimmy-kimmel-live-tickets-2001032676602",
+   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1193520325%2F282041210522%2F1%2Foriginal.20260915-032847?crop=focalpoint&fit=crop&w=940&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=5b5a94c4199cfed1d27fa91ac1f19f57",
+   "description": "Writers of Jimmy Kimmel Live! - Tuesday, September 29 - 7:00pm Doors / 7:30pm Show",
    "venue_name_matches": true,
    "already_a_pick": false,
    "seen_before": false
@@ -605,6 +567,25 @@
    "venue_name_matches": true,
    "already_a_pick": false,
    "seen_before": true
+  },
+  {
+   "venue": "Union Hall",
+   "neighborhood": "Park Slope",
+   "organizer": "https://www.eventbrite.com/o/union-hall-17899496497",
+   "title": "Comedy Para Colombia",
+   "date": "2026-09-29",
+   "time": "10pm",
+   "starts_at": "2026-09-29T22:00:00-04:00",
+   "ends_at": "2026-09-29T23:30:00-04:00",
+   "location_name": "Union Hall",
+   "location_address": "702 Union St., Brooklyn, NY 11215, Brooklyn",
+   "price_from": 19.26,
+   "url": "https://www.eventbrite.com/e/comedy-para-colombia-tickets-1999283988228",
+   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1193223649%2F2330790970943%2F1%2Foriginal.20260911-015354?crop=focalpoint&fit=crop&w=940&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=9b01cdecec2672d386fa19df9870cfd8",
+   "description": "Comedy Para Colombia - Tuesday, September 29 - 9:30pm Doors / 10:00pm Show",
+   "venue_name_matches": true,
+   "already_a_pick": false,
+   "seen_before": false
   },
   {
    "venue": "Littlefield",
@@ -680,6 +661,25 @@
    "description": "At Good Work_ Live, Dan Toomey and his news associates bring their YouTube channel to the live stage",
    "venue_name_matches": true,
    "already_a_pick": false,
+   "seen_before": true
+  },
+  {
+   "venue": "Comic Strip Live",
+   "neighborhood": "Upper East Side",
+   "organizer": "https://www.eventbrite.com/o/comic-strip-live-comedy-club-8100188167",
+   "title": "The Elyse DeLucci Show!",
+   "date": "2026-10-01",
+   "time": "8pm",
+   "starts_at": "2026-10-01T20:00:00-04:00",
+   "ends_at": "2026-10-01",
+   "location_name": "Comic Strip Live",
+   "location_address": "1568 2nd Ave, New York, NY 10028, New York",
+   "price_from": 25.71,
+   "url": "https://www.eventbrite.com/e/the-elyse-delucci-show-tickets-2002247911402",
+   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1194329926%2F136153380524%2F1%2Foriginal.20260925-003818?crop=focalpoint&fit=crop&w=940&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=e851b9052ab320cf2293d03172326907",
+   "description": "Be part of history, celebrating 50 years of Comedy at the World Comic Strip! Comedians from, HBO, The Tonight Show, SNL & More ~",
+   "venue_name_matches": true,
+   "already_a_pick": false,
    "seen_before": false
   },
   {
@@ -699,7 +699,7 @@
    "description": "Moms Against Sketch Comedy performs entirely original, never-before-seen sketches.",
    "venue_name_matches": true,
    "already_a_pick": false,
-   "seen_before": false
+   "seen_before": true
   },
   {
    "venue": "Caveat",
@@ -718,7 +718,7 @@
    "description": "Lucie Pohl brings NYC's best immigrant & 1st-gen comics together to make you laugh so hard you’ll wish you were born somewhere else.",
    "venue_name_matches": true,
    "already_a_pick": false,
-   "seen_before": false
+   "seen_before": true
   },
   {
    "venue": "Littlefield",
@@ -740,6 +740,44 @@
    "seen_before": true
   },
   {
+   "venue": "Comic Strip Live",
+   "neighborhood": "Upper East Side",
+   "organizer": "https://www.eventbrite.com/o/comic-strip-live-comedy-club-8100188167",
+   "title": "Tom Van Horn, Rolanda Watts, Craig Gass, Connor O'Brien, & Chuck Nice!",
+   "date": "2026-10-02",
+   "time": "8pm",
+   "starts_at": "2026-10-02T20:00:00-04:00",
+   "ends_at": "2026-10-02",
+   "location_name": "Comic Strip Live",
+   "location_address": "1568 2nd Ave, New York, NY 10028, New York",
+   "price_from": 25.71,
+   "url": "https://www.eventbrite.com/e/tom-van-horn-rolanda-watts-craig-gass-connor-obrien-chuck-nice-tickets-2002247917420",
+   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1194329968%2F136153380524%2F1%2Foriginal.20260925-003909?crop=focalpoint&fit=crop&w=940&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.508&fp-y=0.594&s=8553f9deb58955c310ba1ae4081dc7cc",
+   "description": "Be part of history, celebrating 50 years of Comedy at the World Comic Strip! Comedians from, HBO, The Tonight Show, SNL & More ~",
+   "venue_name_matches": true,
+   "already_a_pick": false,
+   "seen_before": false
+  },
+  {
+   "venue": "Caveat",
+   "neighborhood": "Lower East Side",
+   "organizer": "https://www.eventbrite.com/o/caveat-13580085802",
+   "title": "Roomies LIVE!",
+   "date": "2026-10-02",
+   "time": "9:30pm",
+   "starts_at": "2026-10-02T21:30:00-04:00",
+   "ends_at": "2026-10-02T23:00:00-04:00",
+   "location_name": "Caveat",
+   "location_address": "21 A Clinton Street, New York, NY 10002, New York",
+   "price_from": 30.08,
+   "url": "https://www.eventbrite.com/e/roomies-live-tickets-1998536210605",
+   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1191583604%2F207096185123%2F1%2Foriginal.20260821-103129?w=940&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2000%2C1000&s=7f790f66447d7455e162a0f3e6af60fa",
+   "description": "A live taping of a charmingly cheesy 90s sitcom. Join the live studio audience, and you could be the special guest star of an episode.",
+   "venue_name_matches": true,
+   "already_a_pick": false,
+   "seen_before": false
+  },
+  {
    "venue": "Littlefield",
    "neighborhood": "Gowanus",
    "organizer": "https://www.eventbrite.com/o/littlefield-18046024060",
@@ -757,6 +795,25 @@
    "venue_name_matches": true,
    "already_a_pick": false,
    "seen_before": true
+  },
+  {
+   "venue": "Comic Strip Live",
+   "neighborhood": "Upper East Side",
+   "organizer": "https://www.eventbrite.com/o/comic-strip-live-comedy-club-8100188167",
+   "title": "Tom Van Horn, Connor O'Brien, Cory Kahaney, Craig Gass, & Chuck Nice!",
+   "date": "2026-10-03",
+   "time": "8pm",
+   "starts_at": "2026-10-03T20:00:00-04:00",
+   "ends_at": "2026-10-03",
+   "location_name": "Comic Strip Live",
+   "location_address": "1568 2nd Ave, New York, NY 10028, New York",
+   "price_from": 25.71,
+   "url": "https://www.eventbrite.com/e/tom-van-horn-connor-obrien-cory-kahaney-craig-gass-chuck-nice-tickets-2002247921432",
+   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1194329988%2F136153380524%2F1%2Foriginal.20260925-003930?crop=focalpoint&fit=crop&w=940&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=b9ce7db5efb0a881b2611f7761a7e3dc",
+   "description": "Be part of history, celebrating 50 years of Comedy at the World Comic Strip! Comedians from, HBO, The Tonight Show, SNL & More ~",
+   "venue_name_matches": true,
+   "already_a_pick": false,
+   "seen_before": false
   },
   {
    "venue": "Littlefield",
@@ -813,7 +870,7 @@
    "description": "Brooklyn, USA. One birthday. The hottest talent. Comedy, music, prizes & more. If you’re really from New York, you know where to be October",
    "venue_name_matches": true,
    "already_a_pick": false,
-   "seen_before": false
+   "seen_before": true
   },
   {
    "venue": "Kellogg's Diner",
@@ -831,25 +888,6 @@
    "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1192096674%2F2660386777661%2F1%2Foriginal.20260828-052454?crop=focalpoint&fit=crop&w=940&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=aa018d61168e46d6d8b47857eb00996d",
    "description": "NYC’s Best Comics Take Over Kellogg’s Diner — Every Wednesday Night at 11PM!",
    "venue_name_matches": false,
-   "already_a_pick": false,
-   "seen_before": true
-  },
-  {
-   "venue": "Comic Strip Live",
-   "neighborhood": "Upper East Side",
-   "organizer": "https://www.eventbrite.com/o/comic-strip-live-comedy-club-8100188167",
-   "title": "Event Template",
-   "date": "2030-04-01",
-   "time": "8pm",
-   "starts_at": "2030-04-01T20:00:00-04:00",
-   "ends_at": "2030-04-01",
-   "location_name": "Comic Strip Live",
-   "location_address": "1568 2nd Ave, New York, NY 10028, New York",
-   "price_from": 25.71,
-   "url": "https://www.eventbrite.com/e/event-template-tickets-1992600239957",
-   "image": null,
-   "description": "Be part of history, celebrating 50 years of Comedy at the World Comic Strip! Comedians from, HBO, The Tonight Show, SNL & More ~",
-   "venue_name_matches": true,
    "already_a_pick": false,
    "seen_before": true
   }
