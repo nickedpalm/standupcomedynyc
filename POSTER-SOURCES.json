@@ -432,7 +432,7 @@
  },
  {
   "event_id": "vidura-rajapaksa-2026-09-24",
-  "src": "/assets/posters/vidura-rajapaksa-2026-09-24.jpg",
+  "src": "/assets/posters/archive/vidura-rajapaksa-2026-09-24.jpg",
   "width": 640,
   "height": 427,
   "source_url": "https://www.thebellhouseny.com/",
@@ -443,7 +443,8 @@
   "retrieved_at": "2026-09-14",
   "bytes": 9800,
   "sha256": "5a56f9a548b8a970dff28a3f6ae29bcee8bf675d276113900e24a15d9e68c4f0",
-  "reuse_status": "Official promotional artwork from the show's public listing; no separate reuse license identified. Site display with credit only."
+  "reuse_status": "Official promotional artwork from the show's public listing; no separate reuse license identified. Site display with credit only.",
+  "archived": true
  },
  {
   "event_id": "bell-house-stand-up-showcase-2026-09-25",
@@ -1179,7 +1180,7 @@
  },
  {
   "event_id": "do-it-live-w-chika-caveat-2026-09-24",
-  "src": "/assets/posters/do-it-live-w-chika-caveat-2026-09-24.jpg",
+  "src": "/assets/posters/archive/do-it-live-w-chika-caveat-2026-09-24.jpg",
   "width": 940,
   "height": 470,
   "source_url": "https://www.eventbrite.com/e/do-it-live-w-chika-tickets-1976663455606",
@@ -1190,7 +1191,8 @@
   "retrieved_at": "2026-09-22",
   "bytes": 57270,
   "sha256": "c99c339b9124af40326f9a15bc4566cdf28f8219f9ad93a2bbc15618edfc94ad",
-  "reuse_status": "Official promotional artwork; no separate reuse license identified. Local review draft only."
+  "reuse_status": "Official promotional artwork; no separate reuse license identified. Local review draft only.",
+  "archived": true
  },
  {
   "event_id": "daylighters-littlefield-2026-10-04",
