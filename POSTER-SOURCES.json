@@ -1030,7 +1030,7 @@
  },
  {
   "event_id": "girl-church-union-hall-2026-09-25",
-  "src": "/assets/posters/girl-church-2026-09-25.jpg",
+  "src": "/assets/posters/archive/girl-church-2026-09-25.jpg",
   "width": 940,
   "height": 470,
   "source_url": "https://www.eventbrite.com/e/girl-church-hosted-by-amelia-ritthaler-tickets-2001032503083",
@@ -1041,7 +1041,8 @@
   "retrieved_at": "2026-09-20",
   "bytes": 113749,
   "sha256": "19f95bd5f41ca58af6d4bd878c2f2d577d5b064727160841c46a318435988a02",
-  "reuse_status": "Official promotional artwork; no separate reuse license identified. Local review draft only."
+  "reuse_status": "Official promotional artwork; no separate reuse license identified. Local review draft only.",
+  "archived": true
  },
  {
   "event_id": "kendall-farrell-special-taping-littlefield-2026-10-18",
