@@ -1,5 +1,5 @@
 {
- "retrieved_at": "2026-09-25T11:01:23.294Z",
+ "retrieved_at": "2026-09-26T11:02:19.045Z",
  "note": "Promoter posts from NYC neighborhood subreddits, last 14 days. Leads only: open the linked page or the venue site before anything enters the data; register the venue first.",
  "subreddits": [
   "nycevents",
@@ -27,6 +27,76 @@
  ],
  "leads": [
   {
+   "id": "1wq45c0",
+   "date": "2026-09-25",
+   "subreddit": "nycevents",
+   "title": "Creative Potluck/Variety Visual Arts Show &amp; Tell TONIGHT @ 7PM - 3AM",
+   "score": 1,
+   "comments": 0,
+   "url": "https://www.reddit.com/r/nycevents/comments/1wq45c0/creative_potluckvariety_visual_arts_show_tell/",
+   "venues_mentioned": [],
+   "when_mentioned": null,
+   "time_mentioned": "7PM",
+   "links": [
+    "http://nothingunwanted.studio"
+   ],
+   "free": false,
+   "new_since_last_run": true,
+   "excerpt": "🎪 **EVENT INFORMATION:** 🗓️ TODAY SEPTEMBER 25TH (6PM-3AM) 📌TINY CUPBOARD BAR (Chauncey J) 🏷️ $10 (NOTAFLOF) 🔁 @ clemiintiine for submissions The vision is to connect with other creatives and their passions, to get inspired by those around us, and to feel brave and empowered"
+  },
+  {
+   "id": "1wpy6tq",
+   "date": "2026-09-25",
+   "subreddit": "nycevents",
+   "title": "new open mic on sunday!",
+   "score": 1,
+   "comments": 0,
+   "url": "https://www.reddit.com/r/nycevents/comments/1wpy6tq/new_open_mic_on_sunday/",
+   "venues_mentioned": [],
+   "when_mentioned": "sunday",
+   "time_mentioned": null,
+   "links": [],
+   "free": false,
+   "new_since_last_run": true,
+   "excerpt": ""
+  },
+  {
+   "id": "1wq401u",
+   "date": "2026-09-25",
+   "subreddit": "Bushwick",
+   "title": "Anyone want to go to this creative potluck/variety visual arts show &amp; tell with me tonight??",
+   "score": 2,
+   "comments": 0,
+   "url": "https://www.reddit.com/r/Bushwick/comments/1wq401u/anyone_want_to_go_to_this_creative_potluckvariety/",
+   "venues_mentioned": [],
+   "when_mentioned": null,
+   "time_mentioned": "6PM",
+   "links": [
+    "http://nothingunwanted.studio"
+   ],
+   "free": false,
+   "new_since_last_run": true,
+   "excerpt": "copy pasting their caption 🎪 **EVENT INFORMATION:** 🗓️ TODAY SEPTEMBER 25TH (6PM-3AM) 📌TINY CUPBOARD BAR (Chauncey J) 🏷️ $10 (NOTAFLOF) 🔁 @ clemiintiine for submissions The vision is to connect with other creatives and their passions, to get inspired by those around us, and "
+  },
+  {
+   "id": "1wpy6kg",
+   "date": "2026-09-25",
+   "subreddit": "Bushwick",
+   "title": "new open mic on sunday!",
+   "score": 1,
+   "comments": 0,
+   "url": "https://www.reddit.com/r/Bushwick/comments/1wpy6kg/new_open_mic_on_sunday/",
+   "venues_mentioned": [
+    "The Tiny Cupboard"
+   ],
+   "when_mentioned": "sunday",
+   "time_mentioned": "7pm",
+   "links": [],
+   "free": false,
+   "new_since_last_run": true,
+   "excerpt": "hey guys, sharing one more time :) hosting a new open mic + jam at The Tiny Cupboard on sunday. 3-7pm, $10 The event is indoors so shoutout to anyone who pulls through with the rain 🙌 dm if you want more details"
+  },
+  {
    "id": "1wp55uh",
    "date": "2026-09-24",
    "subreddit": "nycComedy",
@@ -43,7 +113,7 @@
     "https://tickets.venuepilot.com/e/ebony-moore-friends-comedy-hoedown-2026-10-04-freda-basement-ridgewood-4cc06e"
    ],
    "free": false,
-   "new_since_last_run": true,
+   "new_since_last_run": false,
    "excerpt": "Sunday October 4th come out for an early show have a great time, catch some laughs, be in bed by 10PM located at 801 Seneca Ave. Headliner: Simeon Goodson! Close to the L &amp; M train stops. Western Wear encouraged. Tickets: [https://tickets.venuepilot.com/e/ebony-moore-friends-"
   },
   {
@@ -63,7 +133,7 @@
     "https://tickets.venuepilot.com/e/ebony-moore-friends-comedy-hoedown-2026-10-04-freda-basement-ridgewood-4cc06e"
    ],
    "free": false,
-   "new_since_last_run": true,
+   "new_since_last_run": false,
    "excerpt": "Sunday October 4th come out for an early show have a great time, catch some laughs, be in bed by 10PM located at 801 Seneca Ave. Headliner: Simeon Goodson! Close to the L &amp; M train stops. Western Wear encouraged. Tickets: [https://tickets.venuepilot.com/e/ebony-moore-friends-"
   },
   {
@@ -71,7 +141,7 @@
    "date": "2026-09-24",
    "subreddit": "astoria",
    "title": "Solo Show from \"This American Life\" + Chris Gethard at QED",
-   "score": 10,
+   "score": 11,
    "comments": 0,
    "url": "https://www.reddit.com/r/astoria/comments/1wp5pq7/solo_show_from_this_american_life_chris_gethard/",
    "venues_mentioned": [
@@ -84,7 +154,7 @@
     "https://qedastoria.com/products/solo-a-show-about-friendship-the-final-tour-by-gabe-mollica?event=2026-10-03T19:30:00"
    ],
    "free": false,
-   "new_since_last_run": true,
+   "new_since_last_run": false,
    "excerpt": "Gabe Mollica brings his hit Off-Broadway show \"Solo: A Show About Friendship\" to Astoria for 2 nights only! A \"show about friendship\" it was featured on episode 810 of This American Life and will soon be filmed as a comedy special! September 26 at 7:30 at QED Astoria with special"
   },
   {
@@ -102,7 +172,7 @@
     "https://www.eventbrite.com/e/i-love-funny-people-tickets-2001784960704?aff=oddtdtcreator"
    ],
    "free": true,
-   "new_since_last_run": true,
+   "new_since_last_run": false,
    "excerpt": "Free tonight? Come through to Barrow’s in Industry City. I have gathered together some of my funniest friends for A great night of booze and laughter. Pull up! Come have a great time with us!! [Ticket Link](https://www.eventbrite.com/e/i-love-funny-people-tickets-2001784960704?af"
   },
   {
@@ -144,7 +214,7 @@
    "date": "2026-09-23",
    "subreddit": "Bushwick",
    "title": "DRAG KING BINGO IN BUSHWICK THIS THURSDAY!! 🕺at Tiny Cupboard!",
-   "score": 3,
+   "score": 2,
    "comments": 3,
    "url": "https://www.reddit.com/r/Bushwick/comments/1wnt12v/drag_king_bingo_in_bushwick_this_thursday_at_tiny/",
    "venues_mentioned": [],
@@ -160,7 +230,7 @@
    "date": "2026-09-23",
    "subreddit": "parkslope",
    "title": "Last chance for ShakesBEER pub crawl!",
-   "score": 2,
+   "score": 0,
    "comments": 3,
    "url": "https://www.reddit.com/r/parkslope/comments/1wobxxs/last_chance_for_shakesbeer_pub_crawl/",
    "venues_mentioned": [],
@@ -178,8 +248,8 @@
    "date": "2026-09-23",
    "subreddit": "crownheights",
    "title": "Crown Heights Weekly Events Thread 9/23-9/29",
-   "score": 14,
-   "comments": 1,
+   "score": 16,
+   "comments": 4,
    "url": "https://www.reddit.com/r/crownheights/comments/1wokaej/crown_heights_weekly_events_thread_923929/",
    "venues_mentioned": [],
    "when_mentioned": "sunday-tickets-662659320867) @ [Bar Bayeux](ht",
@@ -198,7 +268,7 @@
    "date": "2026-09-22",
    "subreddit": "nycevents",
    "title": "Hidden comedy show at Kellogg’s Diner in Williamsburg this Wednesday! September 23rd - 10:30PM Doors Open - Only $10.",
-   "score": 4,
+   "score": 5,
    "comments": 0,
    "url": "https://www.reddit.com/r/nycevents/comments/1wn1ywt/hidden_comedy_show_at_kelloggs_diner_in/",
    "venues_mentioned": [],
@@ -496,7 +566,7 @@
    "date": "2026-09-18",
    "subreddit": "Bushwick",
    "title": "Do you like weird books?",
-   "score": 72,
+   "score": 71,
    "comments": 33,
    "url": "https://www.reddit.com/r/Bushwick/comments/1wjba03/do_you_like_weird_books/",
    "venues_mentioned": [],
@@ -512,7 +582,7 @@
    "date": "2026-09-18",
    "subreddit": "astoria",
    "title": "Astoria Stand Up Comedy Tomorrow 9/19",
-   "score": 8,
+   "score": 9,
    "comments": 2,
    "url": "https://www.reddit.com/r/astoria/comments/1wk3ckt/astoria_stand_up_comedy_tomorrow_919/",
    "venues_mentioned": [],
@@ -530,7 +600,7 @@
    "date": "2026-09-18",
    "subreddit": "astoria",
    "title": "Free stand-up comedy every Friday at The Shillelagh Tavern 🎤",
-   "score": 9,
+   "score": 10,
    "comments": 0,
    "url": "https://www.reddit.com/r/astoria/comments/1wjyef4/free_standup_comedy_every_friday_at_the/",
    "venues_mentioned": [
@@ -735,7 +805,7 @@
    "date": "2026-09-17",
    "subreddit": "lowereastside",
    "title": "Back to school season fun",
-   "score": 5,
+   "score": 4,
    "comments": 0,
    "url": "https://www.reddit.com/r/lowereastside/comments/1wisnol/back_to_school_season_fun/",
    "venues_mentioned": [],
@@ -789,7 +859,7 @@
    "date": "2026-09-17",
    "subreddit": "astoria",
    "title": "Standup Comedy show TONIGHT 7:30 PM GROVE 34 ASTORIA",
-   "score": 6,
+   "score": 5,
    "comments": 0,
    "url": "https://www.reddit.com/r/astoria/comments/1wiztaj/standup_comedy_show_tonight_730_pm_grove_34/",
    "venues_mentioned": [
@@ -893,7 +963,7 @@
    "date": "2026-09-16",
    "subreddit": "parkslope",
    "title": "This Friday 9/18/26 7:30PM Standup Comedy at Fort Hamilton Distillery (Industry City, Brooklyn)",
-   "score": 4,
+   "score": 3,
    "comments": 0,
    "url": "https://www.reddit.com/r/parkslope/comments/1wi7ku4/this_friday_91826_730pm_standup_comedy_at_fort/",
    "venues_mentioned": [],
@@ -945,7 +1015,7 @@
    "date": "2026-09-16",
    "subreddit": "crownheights",
    "title": "I am hosting/producing the September standup comedy showcase at The Salon on Kingston on my birthday next Wednesday! (Details in comments)",
-   "score": 9,
+   "score": 7,
    "comments": 1,
    "url": "https://www.reddit.com/r/crownheights/comments/1wi38nf/i_am_hostingproducing_the_september_standup/",
    "venues_mentioned": [],
@@ -977,7 +1047,7 @@
    "date": "2026-09-16",
    "subreddit": "eastvillage",
    "title": "Sometimes we need a little nudge...",
-   "score": 58,
+   "score": 56,
    "comments": 10,
    "url": "https://www.reddit.com/r/eastvillage/comments/1whzz00/sometimes_we_need_a_little_nudge/",
    "venues_mentioned": [],
@@ -1118,7 +1188,7 @@
    "date": "2026-09-14",
    "subreddit": "parkslope",
    "title": "Come to a local horror comedy movie screening this weekend",
-   "score": 5,
+   "score": 6,
    "comments": 1,
    "url": "https://www.reddit.com/r/parkslope/comments/1wg35iv/come_to_a_local_horror_comedy_movie_screening/",
    "venues_mentioned": [],
@@ -1154,7 +1224,7 @@
    "date": "2026-09-13",
    "subreddit": "crownheights",
    "title": "Tonight! FREE Comedy at Bar Bayeux!!",
-   "score": 3,
+   "score": 4,
    "comments": 2,
    "url": "https://www.reddit.com/r/crownheights/comments/1wf7375/tonight_free_comedy_at_bar_bayeux/",
    "venues_mentioned": [],
@@ -1224,7 +1294,7 @@
    "date": "2026-09-12",
    "subreddit": "williamsburg",
    "title": "Hey Brooklyn🗽I’ll be headlining Eastville comedy club this Sunday 9/13!",
-   "score": 2,
+   "score": 1,
    "comments": 1,
    "url": "https://www.reddit.com/r/williamsburg/comments/1wecx01/hey_brooklynill_be_headlining_eastville_comedy/",
    "venues_mentioned": [
@@ -1310,212 +1380,6 @@
    "free": false,
    "new_since_last_run": false,
    "excerpt": "Hello! I'm a British comedian who has moved to New York and I'm running a show at the brilliant new comedy club in Greenpoint (they've called it Greenpoint Comedy Club which I think is an ideal name) on Sunday at 6pm and have got some excellent comedians doing sets - Chloe Radcli"
-  },
-  {
-   "id": "1we2npj",
-   "date": "2026-09-12",
-   "subreddit": "ridgewood",
-   "title": "Comedy show at Bar Freda 9.17!",
-   "score": 2,
-   "comments": 0,
-   "url": "https://www.reddit.com/r/ridgewood/comments/1we2npj/comedy_show_at_bar_freda_917/",
-   "venues_mentioned": [
-    "Freda"
-   ],
-   "when_mentioned": null,
-   "time_mentioned": "9pm",
-   "links": [
-    "https://tickets.venuepilot.com/e/all-show-no-boat-comedy-at-bar-freda-2026-09-17-freda-bar-upstairs-ridgewood-df05eb"
-   ],
-   "free": false,
-   "new_since_last_run": false,
-   "excerpt": "Hey! Bringing a stacked lineup to Bar Freda, your favorite artist positive venue on 9/17! Doors at 9pm, show at 9:30pm. Suggested donation of $10-- https://tickets.venuepilot.com/e/all-show-no-boat-comedy-at-bar-freda-2026-09-17-freda-bar-upstairs-ridgewood-df05eb "
-  },
-  {
-   "id": "1wdsvob",
-   "date": "2026-09-11",
-   "subreddit": "nycevents",
-   "title": "The Power Joker Sex Worker Rights Show With Discount Code",
-   "score": 8,
-   "comments": 1,
-   "url": "https://www.reddit.com/r/nycevents/comments/1wdsvob/the_power_joker_sex_worker_rights_show_with/",
-   "venues_mentioned": [
-    "Caveat"
-   ],
-   "when_mentioned": "Saturday Sept 26th at 7pm at Caveat in the lower",
-   "time_mentioned": "7pm",
-   "links": [
-    "https://caveat.nyc/events/the-power-joker-a-robert-moses-comedy-show"
-   ],
-   "free": false,
-   "new_since_last_run": false,
-   "excerpt": "My name is Sam Rogal and I host a show called The Power Joker. Our next show is themed around sex worker rights. Its Saturday Sept 26th at 7pm at Caveat in the lower east side featuring guests Kaytlin Baily of Old Pros a pro sex work rights activist. You can purchase tickets here"
-  },
-  {
-   "id": "1wdn0bt",
-   "date": "2026-09-11",
-   "subreddit": "nycevents",
-   "title": "ShakesBEER in Park Slope!",
-   "score": 2,
-   "comments": 0,
-   "url": "https://www.reddit.com/r/nycevents/comments/1wdn0bt/shakesbeer_in_park_slope/",
-   "venues_mentioned": [],
-   "when_mentioned": "Saturday 9/19 and 9/26 in Park Slope",
-   "time_mentioned": "2:30pm",
-   "links": [
-    "https://secure.qgiv.com/for/nysedonate/event/shakesbeer2026brooklyn/"
-   ],
-   "free": false,
-   "new_since_last_run": false,
-   "excerpt": "Hi friends! I'm helping to produce a Shakespeare pub crawl happening Saturday 9/19 and 9/26 in Park Slope. ShakesBEER is a pub crawl in which an ensemble of actors brings a different comedic scene to life at each bar, creating an immersive, joyful, and improv-rich experience for "
-  },
-  {
-   "id": "1wdmve2",
-   "date": "2026-09-11",
-   "subreddit": "nycComedy",
-   "title": "Ivy Wolk Comedy Show NEXT Wednesday at Brooklyn Improv",
-   "score": 1,
-   "comments": 0,
-   "url": "https://www.reddit.com/r/nycComedy/comments/1wdmve2/ivy_wolk_comedy_show_next_wednesday_at_brooklyn/",
-   "venues_mentioned": [
-    "Brooklyn Improv"
-   ],
-   "when_mentioned": "Wednesday at Brooklyn Improv 🗣️ Ask Comedians An",
-   "time_mentioned": "7:30pm",
-   "links": [
-    "https://improv.com/brooklyn/event/ask+comedians+anything+ft.+ivy+wolk%2C+saidah+belo-osagie%2C+marley+gotterer%2C+andrei+buna%2C+bridget+foley%2C+sureni+weerasekera%2C+and+more%21/15012883/"
-   ],
-   "free": false,
-   "new_since_last_run": false,
-   "excerpt": "🗣️ Ask Comedians Anything Show 8 is LIVE at Brooklyn Improv with IVY Wolk, SAIDAH Belo-Osagie, SURENI Weerasekera &amp; more on Wednesday Sept 16th, 7:30pm‼️ 🎟️ Tickets here: [https://improv.com/brooklyn/event/ask+comedians+anything+ft.+ivy+wolk%2C+saidah+belo-osagie%2C+marley+"
-  },
-  {
-   "id": "1wdmv3c",
-   "date": "2026-09-11",
-   "subreddit": "williamsburg",
-   "title": "Ivy Wolk Comedy Show NEXT Wednesday at Brooklyn Improv!",
-   "score": 0,
-   "comments": 0,
-   "url": "https://www.reddit.com/r/williamsburg/comments/1wdmv3c/ivy_wolk_comedy_show_next_wednesday_at_brooklyn/",
-   "venues_mentioned": [
-    "Brooklyn Improv"
-   ],
-   "when_mentioned": "Wednesday at Brooklyn Improv",
-   "time_mentioned": "7:30pm",
-   "links": [
-    "https://improv.com/brooklyn/event/ask+comedians+anything+ft.+ivy+wolk%2C+saidah+belo-osagie%2C+marley+gotterer%2C+andrei+buna%2C+bridget+foley%2C+sureni+weerasekera%2C+and+more%21/15012883/"
-   ],
-   "free": false,
-   "new_since_last_run": false,
-   "excerpt": "🗣️ Ask Comedians Anything Show 8 is LIVE at Brooklyn Improv with IVY Wolk, SAIDAH Belo-Osagie, SURENI Weerasekera &amp; more on Wednesday Sept 16th, 7:30pm‼️ 🎟️ Tickets here: [https://improv.com/brooklyn/event/ask+comedians+anything+ft.+ivy+wolk%2C+saidah+belo-osagie%2C+marley+"
-  },
-  {
-   "id": "1wdj5op",
-   "date": "2026-09-11",
-   "subreddit": "astoria",
-   "title": "Go to QED",
-   "score": 237,
-   "comments": 40,
-   "url": "https://www.reddit.com/r/astoria/comments/1wdj5op/go_to_qed/",
-   "venues_mentioned": [],
-   "when_mentioned": "Thursday night in September",
-   "time_mentioned": null,
-   "links": [],
-   "free": false,
-   "new_since_last_run": false,
-   "excerpt": "Hey Astoria just wanted to shout-out QED for being such a gem. Went to a magic show last night and it was phenomenal. They do it once a month now (different each time!) The place almost closed a year or two ago and many were upset. The new owner swooped in and saved the place and"
-  },
-  {
-   "id": "1wdn4g1",
-   "date": "2026-09-11",
-   "subreddit": "Brooklyn",
-   "title": "ShakesBEER pub crawl in Park Slope!",
-   "score": 0,
-   "comments": 0,
-   "url": "https://www.reddit.com/r/Brooklyn/comments/1wdn4g1/shakesbeer_pub_crawl_in_park_slope/",
-   "venues_mentioned": [],
-   "when_mentioned": "Saturday 9/19 and 9/26 in Park Slope",
-   "time_mentioned": "2:30pm",
-   "links": [
-    "https://secure.qgiv.com/for/nysedonate/event/shakesbeer2026brooklyn/"
-   ],
-   "free": false,
-   "new_since_last_run": false,
-   "excerpt": "Hi friends! I'm helping to produce a Shakespeare pub crawl happening Saturday 9/19 and 9/26 in Park Slope. ShakesBEER is a pub crawl in which an ensemble of actors brings a different comedic scene to life at each bar, creating an immersive, joyful, and improv-rich experience for "
-  },
-  {
-   "id": "1wdmuji",
-   "date": "2026-09-11",
-   "subreddit": "Brooklyn",
-   "title": "Ivy Wolk Comedy Show NEXT Wednesday at Brooklyn Improv!",
-   "score": 1,
-   "comments": 0,
-   "url": "https://www.reddit.com/r/Brooklyn/comments/1wdmuji/ivy_wolk_comedy_show_next_wednesday_at_brooklyn/",
-   "venues_mentioned": [
-    "Brooklyn Improv"
-   ],
-   "when_mentioned": "Wednesday at Brooklyn Improv",
-   "time_mentioned": "7:30pm",
-   "links": [
-    "https://improv.com/brooklyn/event/ask+comedians+anything+ft.+ivy+wolk%2C+saidah+belo-osagie%2C+marley+gotterer%2C+andrei+buna%2C+bridget+foley%2C+sureni+weerasekera%2C+and+more%21/15012883/"
-   ],
-   "free": false,
-   "new_since_last_run": false,
-   "excerpt": "🗣️ Ask Comedians Anything Show 8 is LIVE at Brooklyn Improv with IVY Wolk, SAIDAH Belo-Osagie, SURENI Weerasekera &amp; more on Wednesday Sept 16th, 7:30pm‼️ 🎟️ Tickets here: [https://improv.com/brooklyn/event/ask+comedians+anything+ft.+ivy+wolk%2C+saidah+belo-osagie%2C+marley+"
-  },
-  {
-   "id": "1wdr707",
-   "date": "2026-09-11",
-   "subreddit": "AskNYC",
-   "title": "Need help planning date weekend",
-   "score": 3,
-   "comments": 13,
-   "url": "https://www.reddit.com/r/AskNYC/comments/1wdr707/need_help_planning_date_weekend/",
-   "venues_mentioned": [],
-   "when_mentioned": "Friday afternoon and taking her to get a massa",
-   "time_mentioned": null,
-   "links": [],
-   "free": false,
-   "new_since_last_run": false,
-   "excerpt": "I’m new to nyc and my girlfriend is coming to visit for the weekend on the 26th and I want to plan some amazing stuff for us to do. Money isn’t an obstacle I just need help finding really cool unique stuff for us to do. I saw some stuff like a beekeeping class in Brooklyn or a cl"
-  },
-  {
-   "id": "1wdmuvq",
-   "date": "2026-09-11",
-   "subreddit": "parkslope",
-   "title": "ShakesBEER pub crawl!",
-   "score": 4,
-   "comments": 1,
-   "url": "https://www.reddit.com/r/parkslope/comments/1wdmuvq/shakesbeer_pub_crawl/",
-   "venues_mentioned": [],
-   "when_mentioned": "Saturday 9/19 and 9/26 in Park Slope",
-   "time_mentioned": "2:30pm",
-   "links": [
-    "https://secure.qgiv.com/for/nysedonate/event/shakesbeer2026brooklyn/"
-   ],
-   "free": false,
-   "new_since_last_run": false,
-   "excerpt": "Hi friends! I'm helping to produce a Shakespeare pub crawl happening Saturday 9/19 and 9/26 in Park Slope. ShakesBEER is a pub crawl in which an ensemble of actors brings a different comedic scene to life at each bar, creating an immersive, joyful, and improv-rich experience for "
-  },
-  {
-   "id": "1wdhh3y",
-   "date": "2026-09-11",
-   "subreddit": "crownheights",
-   "title": "Crown Heights Weekly Events Thread 9/9/26-9/15/26",
-   "score": 20,
-   "comments": 3,
-   "url": "https://www.reddit.com/r/crownheights/comments/1wdhh3y/crown_heights_weekly_events_thread_992691526/",
-   "venues_mentioned": [],
-   "when_mentioned": "sunday-tickets-662659320867)@ [Bar Bayeux](htt",
-   "time_mentioned": "9pm",
-   "links": [
-    "https://www.instagram.com/p/DdFPfsHCvOt/",
-    "https://www.rodeobrooklyn.com/",
-    "https://www.eventbrite.com/e/virgo-vibes-disco-soul-funk-more-tickets-1999576725814"
-   ],
-   "free": true,
-   "new_since_last_run": false,
-   "excerpt": "Hey all, hope you all had a good week. Here's some stuff coming up in the neighborhood and nearby. As always, feel free to post more events in the comments below and they'll be added here! *Fri 9/11* \\- 25th Anniversary of 9/11 * 9pm - [JAJAJA Comedy](https://www.instagram.com/p/"
   }
  ]
 }

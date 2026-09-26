@@ -681,7 +681,7 @@
   "height": 427,
   "source_url": "https://www.ticketmaster.com/poly-diaz-en-espanol-brooklyn-new-york-10-09-2026/event/300064E804C8B732",
   "credit": "Artwork: The Bell House / show organizer",
-  "alt": "Poly Díaz (En Español) promotional artwork.",
+  "alt": "Poly D\u00edaz (En Espa\u00f1ol) promotional artwork.",
   "kind": "dated event flyer",
   "original_image_url": "https://s1.ticketm.net/dam/a/46b/b02509bd-4380-43c8-b78d-f269a917446b_RETINA_PORTRAIT_3_2.jpg",
   "retrieved_at": "2026-09-15",
@@ -1111,7 +1111,7 @@
   "height": 440,
   "source_url": "https://comicstriplive.com/elyse-delucci-well-this-is-humbling/",
   "credit": "Artwork: Comic Strip Live / show organizer",
-  "alt": "Elyse DeLucci – ONE NIGHT ONLY! promotional artwork.",
+  "alt": "Elyse DeLucci \u2013 ONE NIGHT ONLY! promotional artwork.",
   "kind": "dated event flyer",
   "original_image_url": "https://comicstriplive.com/wp-content/uploads/2026/09/FLYER_ComicStrip2026June18-1-e1789779169571-720x440.png",
   "retrieved_at": "2026-09-21",
@@ -1298,6 +1298,21 @@
   "retrieved_at": "2026-09-25",
   "bytes": 790036,
   "sha256": "acaa5f2ac501228a28a96693b52d92010f18e59d65d471796af0b19494df1325",
+  "reuse_status": "Official promotional artwork; no separate reuse license identified. Local review draft only."
+ },
+ {
+  "event_id": "joke-machine-2026-09-30",
+  "src": "/assets/posters/joke-machine-2026-09-30.jpg",
+  "width": 1880,
+  "height": 940,
+  "source_url": "https://www.eventbrite.com/e/joke-machine-with-emmy-blotnick-joe-zimmerman-tickets-1994881134173",
+  "credit": "Artwork: Union Hall / show organizer",
+  "alt": "JOKE MACHINE with Emmy Blotnick & Joe Zimmerman promotional artwork.",
+  "kind": "dated event flyer",
+  "original_image_url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1189413116%2F282041210522%2F1%2Foriginal.20260722-182009?crop=focalpoint&fit=crop&w=940&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=9c393fad274161de2d88f37f26ad2f13",
+  "retrieved_at": "2026-09-26",
+  "bytes": 165843,
+  "sha256": "57eab33b2216354027e6e8a0e27301f5afa4dddff16a164965da594460580a95",
   "reuse_status": "Official promotional artwork; no separate reuse license identified. Local review draft only."
  }
 ]

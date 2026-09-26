@@ -2495,5 +2495,35 @@
   "tier": "special",
   "demand": null,
   "demand_checked": "2026-09-26"
+ },
+ {
+  "id": "joke-machine-2026-09-30",
+  "title": "JOKE MACHINE with Emmy Blotnick & Joe Zimmerman",
+  "date": "2026-09-30",
+  "starts_at": "2026-09-30T19:30:00-04:00",
+  "ends_at": "2026-09-30T21:00:00-04:00",
+  "end_time_confirmed": false,
+  "time_label": "7:30pm (doors 7pm)",
+  "venue": "Union Hall",
+  "neighborhood": "Park Slope",
+  "price_amount": 15.92,
+  "price_label": "From $15.92 (per Eventbrite)",
+  "ticket_url": "https://www.eventbrite.com/e/joke-machine-with-emmy-blotnick-joe-zimmerman-tickets-1994881134173",
+  "source_url": "https://www.eventbrite.com/e/joke-machine-with-emmy-blotnick-joe-zimmerman-tickets-1994881134173",
+  "verified_at": "2026-09-26",
+  "description": "Emmy Blotnick and Joe Zimmerman headline a Wednesday night in the back at Union Hall, with Brendan Scannell and Brittany Carney on the undercard — the kind of lineup that earns the room its reputation.",
+  "featured": false,
+  "tier": "special",
+  "poster": {
+   "src": "/assets/posters/joke-machine-2026-09-30.jpg",
+   "width": 1880,
+   "height": 940,
+   "source_url": "https://www.eventbrite.com/e/joke-machine-with-emmy-blotnick-joe-zimmerman-tickets-1994881134173",
+   "credit": "Artwork: Union Hall / show organizer",
+   "alt": "JOKE MACHINE with Emmy Blotnick & Joe Zimmerman promotional artwork.",
+   "kind": "dated event flyer"
+  },
+  "demand": null,
+  "demand_checked": "2026-09-26"
  }
 ]

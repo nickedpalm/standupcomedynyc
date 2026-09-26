@@ -1,6 +1,6 @@
 {
  "source": "https://www.badslava.com/new-york-open-mics.php",
- "retrieved_at": "2026-09-25T11:01:02.048Z",
+ "retrieved_at": "2026-09-26T11:01:54.868Z",
  "note": "Crowd-sourced listing. Verify against the venue before adding to web/data/open-mics.json.",
  "dated_rows": 294,
  "recurring": [
@@ -2254,8 +2254,8 @@
    "venue_registered": false
   },
   {
-   "venue": "Rose",
-   "address": "160 W 25 St New York NY",
+   "venue": "The Rose",
+   "address": "160 W 25th St New York NY",
    "weekday": 3,
    "weekday_name": "Wednesday",
    "time": "7:00pm",
@@ -2264,7 +2264,7 @@
     "2026-09-30"
    ],
    "in_open_mics": false,
-   "venue_registered": false
+   "venue_registered": true
   },
   {
    "venue": "The Windjammer",
@@ -3054,7 +3054,7 @@
    "time": "10:00pm",
    "details_url": "https://badslava.com/details.php?id=31841",
    "dates": [
-    "2026-09-25"
+    "2026-10-02"
    ],
    "in_open_mics": true,
    "venue_registered": true
@@ -3067,7 +3067,7 @@
    "time": "10:00pm",
    "details_url": "https://badslava.com/details.php?id=54654",
    "dates": [
-    "2026-09-25"
+    "2026-10-02"
    ],
    "in_open_mics": false,
    "venue_registered": true
@@ -3080,7 +3080,7 @@
    "time": "11:30pm",
    "details_url": "https://badslava.com/details.php?id=42845",
    "dates": [
-    "2026-09-25"
+    "2026-10-02"
    ],
    "in_open_mics": false,
    "venue_registered": true
@@ -3093,7 +3093,7 @@
    "time": "11:30pm",
    "details_url": "https://badslava.com/details.php?id=59567",
    "dates": [
-    "2026-09-25"
+    "2026-10-02"
    ],
    "in_open_mics": false,
    "venue_registered": true
@@ -3106,7 +3106,7 @@
    "time": "11:45pm",
    "details_url": "https://badslava.com/details.php?id=14056",
    "dates": [
-    "2026-09-25"
+    "2026-10-02"
    ],
    "in_open_mics": false,
    "venue_registered": false
@@ -3119,7 +3119,7 @@
    "time": "11:59pm",
    "details_url": "https://badslava.com/details.php?id=20063",
    "dates": [
-    "2026-09-25"
+    "2026-10-02"
    ],
    "in_open_mics": false,
    "venue_registered": true
@@ -3132,7 +3132,7 @@
    "time": "3:00pm",
    "details_url": "https://badslava.com/details.php?id=42426",
    "dates": [
-    "2026-09-25"
+    "2026-10-02"
    ],
    "in_open_mics": false,
    "venue_registered": true
@@ -3145,7 +3145,7 @@
    "time": "3:00pm",
    "details_url": "https://badslava.com/details.php?id=43403",
    "dates": [
-    "2026-09-25"
+    "2026-10-02"
    ],
    "in_open_mics": false,
    "venue_registered": true
@@ -3158,7 +3158,7 @@
    "time": "4:00pm",
    "details_url": "https://badslava.com/details.php?id=9899",
    "dates": [
-    "2026-09-25"
+    "2026-10-02"
    ],
    "in_open_mics": false,
    "venue_registered": true
@@ -3171,7 +3171,7 @@
    "time": "4:00pm",
    "details_url": "https://badslava.com/details.php?id=42424",
    "dates": [
-    "2026-09-25"
+    "2026-10-02"
    ],
    "in_open_mics": false,
    "venue_registered": true
@@ -3184,7 +3184,7 @@
    "time": "4:00pm",
    "details_url": "https://badslava.com/details.php?id=50554",
    "dates": [
-    "2026-09-25"
+    "2026-10-02"
    ],
    "in_open_mics": false,
    "venue_registered": true
@@ -3197,7 +3197,7 @@
    "time": "4:30pm",
    "details_url": "https://badslava.com/details.php?id=49066",
    "dates": [
-    "2026-09-25"
+    "2026-10-02"
    ],
    "in_open_mics": false,
    "venue_registered": true
@@ -3210,7 +3210,7 @@
    "time": "5:00pm",
    "details_url": "https://badslava.com/details.php?id=17753",
    "dates": [
-    "2026-09-25"
+    "2026-10-02"
    ],
    "in_open_mics": false,
    "venue_registered": true
@@ -3223,7 +3223,7 @@
    "time": "5:00pm",
    "details_url": "https://badslava.com/details.php?id=32504",
    "dates": [
-    "2026-09-25"
+    "2026-10-02"
    ],
    "in_open_mics": false,
    "venue_registered": true
@@ -3236,7 +3236,7 @@
    "time": "5:00pm",
    "details_url": "https://badslava.com/details.php?id=42431",
    "dates": [
-    "2026-09-25"
+    "2026-10-02"
    ],
    "in_open_mics": false,
    "venue_registered": false
@@ -3249,7 +3249,7 @@
    "time": "5:00pm",
    "details_url": "https://badslava.com/details.php?id=47994",
    "dates": [
-    "2026-09-25"
+    "2026-10-02"
    ],
    "in_open_mics": false,
    "venue_registered": true
@@ -3262,7 +3262,7 @@
    "time": "5:00pm",
    "details_url": "https://badslava.com/details.php?id=51399",
    "dates": [
-    "2026-09-25"
+    "2026-10-02"
    ],
    "in_open_mics": false,
    "venue_registered": true
@@ -3275,7 +3275,7 @@
    "time": "5:30pm",
    "details_url": "https://badslava.com/details.php?id=47335",
    "dates": [
-    "2026-09-25"
+    "2026-10-02"
    ],
    "in_open_mics": false,
    "venue_registered": true
@@ -3288,7 +3288,7 @@
    "time": "5:30pm",
    "details_url": "https://badslava.com/details.php?id=50542",
    "dates": [
-    "2026-09-25"
+    "2026-10-02"
    ],
    "in_open_mics": false,
    "venue_registered": true
@@ -3301,7 +3301,7 @@
    "time": "6:00pm",
    "details_url": "https://badslava.com/details.php?id=4754",
    "dates": [
-    "2026-09-25"
+    "2026-10-02"
    ],
    "in_open_mics": true,
    "venue_registered": true
@@ -3314,7 +3314,7 @@
    "time": "6:00pm",
    "details_url": "https://badslava.com/details.php?id=19529",
    "dates": [
-    "2026-09-25"
+    "2026-10-02"
    ],
    "in_open_mics": true,
    "venue_registered": true
@@ -3327,7 +3327,7 @@
    "time": "6:00pm",
    "details_url": "https://badslava.com/details.php?id=30359",
    "dates": [
-    "2026-09-25"
+    "2026-10-02"
    ],
    "in_open_mics": false,
    "venue_registered": true
@@ -3340,7 +3340,7 @@
    "time": "6:00pm",
    "details_url": "https://badslava.com/details.php?id=30422",
    "dates": [
-    "2026-09-25"
+    "2026-10-02"
    ],
    "in_open_mics": false,
    "venue_registered": true
@@ -3353,7 +3353,7 @@
    "time": "6:00pm",
    "details_url": "https://badslava.com/details.php?id=39090",
    "dates": [
-    "2026-09-25"
+    "2026-10-02"
    ],
    "in_open_mics": false,
    "venue_registered": true
@@ -3366,7 +3366,7 @@
    "time": "6:00pm",
    "details_url": "https://badslava.com/details.php?id=48175",
    "dates": [
-    "2026-09-25"
+    "2026-10-02"
    ],
    "in_open_mics": true,
    "venue_registered": true
@@ -3379,7 +3379,7 @@
    "time": "6:30pm",
    "details_url": "https://badslava.com/details.php?id=10386",
    "dates": [
-    "2026-09-25"
+    "2026-10-02"
    ],
    "in_open_mics": false,
    "venue_registered": false
@@ -3392,7 +3392,7 @@
    "time": "6:30pm",
    "details_url": "https://badslava.com/details.php?id=30377",
    "dates": [
-    "2026-09-25"
+    "2026-10-02"
    ],
    "in_open_mics": false,
    "venue_registered": false
@@ -3405,7 +3405,7 @@
    "time": "6:30pm",
    "details_url": "https://badslava.com/details.php?id=38837",
    "dates": [
-    "2026-09-25"
+    "2026-10-02"
    ],
    "in_open_mics": false,
    "venue_registered": true
@@ -3418,7 +3418,7 @@
    "time": "6:30pm",
    "details_url": "https://badslava.com/details.php?id=61389",
    "dates": [
-    "2026-09-25"
+    "2026-10-02"
    ],
    "in_open_mics": false,
    "venue_registered": true
@@ -3431,7 +3431,7 @@
    "time": "7:00pm",
    "details_url": "https://badslava.com/details.php?id=60894",
    "dates": [
-    "2026-09-25"
+    "2026-10-02"
    ],
    "in_open_mics": false,
    "venue_registered": true
@@ -3444,7 +3444,7 @@
    "time": "7:30pm",
    "details_url": "https://badslava.com/details.php?id=30360",
    "dates": [
-    "2026-09-25"
+    "2026-10-02"
    ],
    "in_open_mics": false,
    "venue_registered": true
@@ -3457,7 +3457,7 @@
    "time": "8:00pm",
    "details_url": "https://badslava.com/details.php?id=58506",
    "dates": [
-    "2026-09-25"
+    "2026-10-02"
    ],
    "in_open_mics": false,
    "venue_registered": false
@@ -3470,7 +3470,7 @@
    "time": "8:30pm",
    "details_url": "https://badslava.com/details.php?id=61297",
    "dates": [
-    "2026-09-25"
+    "2026-10-02"
    ],
    "in_open_mics": false,
    "venue_registered": true
@@ -3483,7 +3483,7 @@
    "time": "9:45pm",
    "details_url": "https://badslava.com/details.php?id=38989",
    "dates": [
-    "2026-09-25"
+    "2026-10-02"
    ],
    "in_open_mics": false,
    "venue_registered": true

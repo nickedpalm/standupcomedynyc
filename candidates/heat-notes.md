@@ -84,3 +84,24 @@ Generated from `npm run heat` + `npm run research-plan` (last30days for the two 
 
 ### Ranked on schedule alone (no recent data)
 - **Kanan Gill** (above). Decide on the Town Hall matinee + evening double, not on buzz.
+
+## 2026-09-26
+
+Generated from `npm run heat` + `npm run research-plan` (last30days for the one name under `run`; reuse cached notes for the four under `reuse`).
+
+### Rankings
+- 45 performers ranked from static data (Maria Bamford's name picked up from a newly-considered Bell House Oct 10 pick that the plan had filled to the minimum of 5 runs).
+- Run 1 (Maria Bamford), reuse 4 cached, skip 40
+- ~396,000 tokens saved from the research-plan
+
+### Run notes
+- **Maria Bamford** (Bell House Oct 10): three Reddit threads in 30 days and none in the last week — r/providence's ticket-resale post for her Providence show, r/Standup's "Best Comedy Special?" thread, r/doughboys's Lev Ginsburg shoutout from her set. HN returned nothing usable; every prefix-match was a false positive that filtered out. Bell House Oct 10 stands on her existing fan base, not on current online buzz.
+
+### Reuse notes (already cached under 7d)
+- **Beth Stelling**: cached 1d ago — Bell House Sep 26.
+- **Kanan Gill**: cached 1d ago — Town Hall Oct 3.
+- **Kevin Sullivan**: cached 5d ago — Bell House Sep 27.
+- **Michelle Buteau**: cached 5d ago — Bell House Sep 29 + Oct 19.
+
+### Ranked on schedule alone (no recent data)
+- **Maria Bamford** (above). The plan pulled her in to fill the minimum-of-5-run floor after Salma Hindy / Marc Maron / Joanne McNally / Sam Tallent / Asif Ali all landed outside the 10-day window.

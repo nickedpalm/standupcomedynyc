@@ -11,9 +11,9 @@ Six weeks ahead from the board. Regenerated on every build; edit the data, not t
 
 ## Research plan today
 
-Ranked 44; run 2, reuse 3, skip 39; ~378,000 tokens saved.
+Ranked 45; run 1, reuse 4, skip 40; ~396,000 tokens saved.
 
-## Week 1: Sep 26 to Oct 2 — 23 picks — 8 without artwork · 29 Eventbrite leads not yet reviewed
+## Week 1: Sep 26 to Oct 2 — 24 picks — 8 without artwork · 31 Eventbrite leads not yet reviewed
 
 - Sat Sep 26 5pm — **Piece Of Work: A New Hour From Michael Cruz Kayne** at Union Hall
 - Sat Sep 26 7pm — **Beth Stelling: Let Me Get Loose** at The Bell House
@@ -31,6 +31,7 @@ Ranked 44; run 2, reuse 3, skip 39; ~378,000 tokens saved.
 - Tue Sep 29 7:30pm — **Writers of Jimmy Kimmel Live!** at Union Hall
 - Tue Sep 29 8pm — **Sheba Mason, Cory Kahaney, Mike Yard, Meghan Hanley & Kyle Mara** at Comic Strip Live
 - Tue Sep 29 10pm — **Comedy Para Colombia** at Union Hall
+- Wed Sep 30 7:30pm (doors 7pm) — **JOKE MACHINE with Emmy Blotnick & Joe Zimmerman** at Union Hall
 - Wed Sep 30 8pm — **The Moth StorySLAM** at The Bell House
 - Wed Sep 30 8pm — **Laughs In The East** at Eastville Comedy Club · NO ARTWORK
 - Thu Oct 1 7:30pm — **Brendan Scannell: The Abyss** at The Bell House
@@ -49,7 +50,7 @@ Ranked 44; run 2, reuse 3, skip 39; ~378,000 tokens saved.
   - Sat Sep 26 10:30pm — Tom Van Horn, Subhah Agarwal, Don Jamieson, Connor O'Brien, & JJ Ramirez! at Comic Strip Live · from $25.71 · has artwork
   - Sat Sep 26 11pm — Dancehall Forever at Littlefield · from $0 · has artwork
 
-## Week 2: Oct 3 to Oct 9 — 16 picks — 8 without artwork · 5 Eventbrite leads not yet reviewed
+## Week 2: Oct 3 to Oct 9 — 16 picks — 8 without artwork · 7 Eventbrite leads not yet reviewed
 
 - Sat Oct 3 4pm — **Kanan Gill: Not This Again (Matinee)** at The Town Hall · NO ARTWORK · going fast · heat 35
 - Sat Oct 3 6pm — **Comedy Idol (WSCC)** at West Side Comedy Club · NO ARTWORK
@@ -69,15 +70,17 @@ Ranked 44; run 2, reuse 3, skip 39; ~378,000 tokens saved.
 - Fri Oct 9 8pm · doors 7:30pm — **Magic City – A Night of Comedy** at The Fear City Comedy Club · NO ARTWORK
 
   Leads to review:
+  - Sat Oct 3 4pm — The Night Shift: A Cabaret at Caveat · from $27.81 · has artwork
+  - Sat Oct 3 7pm — Tom D's Big New York Show at Caveat · from $18.76 · has artwork
   - Sat Oct 3 7:30pm — Tootsie's Video Vault 7 at Littlefield · from $11.79 · has artwork
   - Sat Oct 3 8pm — Tom Van Horn, Connor O'Brien, Cory Kahaney, Craig Gass, & Chuck Nice! at Comic Strip Live · from $25.71 · has artwork
   - Sat Oct 3 10pm — Animoo Character Select Party! @Parklife at Littlefield · from $11.79 · has artwork
-  - Sun Oct 4 8pm — If You're Really From New York with Onika McLean at Littlefield · from $29.5 · has artwork
+  - Sat Oct 3 10:30pm — Tom Van Horn, Chuck Nice, Cory Kahaney, Craig Gass, & Christian Finnegan! at Comic Strip Live · from $25.71 · has artwork
   - Wed Oct 7 11pm — Standup Comedy (After Dark) at Kellogg's Diner at Kellogg's Diner · from $5 · has artwork
 
 ## Week 3: Oct 10 to Oct 16 — 11 picks — 5 without artwork
 
-- Sat Oct 10 6pm — **Maria Bamford: Live** at The Bell House · heat 35
+- Sat Oct 10 6pm — **Maria Bamford: Live** at The Bell House · heat 51
 - Sun Oct 11 6pm — **Wait, What's Sri Lanka? — Comedy Special Taping** at Eastville Comedy Club · NO ARTWORK
 - Mon Oct 12 7:30pm — **The Bechdel Cast 10 Year Anniversary Tour** at The Bell House
 - Wed Oct 14 7pm — **The Next Elton and Friends** at West Side Comedy Club · NO ARTWORK
@@ -92,7 +95,7 @@ Ranked 44; run 2, reuse 3, skip 39; ~378,000 tokens saved.
 ## Week 4: Oct 17 to Oct 23 — 15 picks — 8 without artwork
 
 - Sat Oct 17 6pm — **My Cousin Vlad & Balkan Comedy Night** at Eastville Comedy Club · NO ARTWORK
-- Sat Oct 17 7:30pm — **Asif Ali Live!** at The Bell House
+- Sat Oct 17 7:30pm — **Asif Ali Live!** at The Bell House · heat 25
 - Sat Oct 17 10pm — **Headlining Alex Giampapa** at Eastville Comedy Club · NO ARTWORK
 - Sun Oct 18 7pm · doors 6pm — **Kendall Farrell: Standup Comedy Special Taping** at Littlefield
 - Sun Oct 18 7:30pm — **Johnny Pemberton** at The Bell House
@@ -127,8 +130,8 @@ Ranked 44; run 2, reuse 3, skip 39; ~378,000 tokens saved.
 - Sun Nov 1 7:30pm — **Sunday Night Comedy** at Eastville Comedy Club · NO ARTWORK
 - Mon Nov 2 7:30pm — **Sam Oh: The Unbearable Tightness of Being...Gay Virgin** at The Bell House
 - Tue Nov 3 7pm — **Difficult People: The Movie — A Live Table Read** at The Town Hall · NO ARTWORK
-- Wed Nov 4 8pm — **Salma Hindy: 10 Years of Stand-Up Comedy** at The Stand
-- Thu Nov 5 7:30pm — **Sam Tallent** at The Bell House · NO ARTWORK · heat 25
+- Wed Nov 4 8pm — **Salma Hindy: 10 Years of Stand-Up Comedy** at The Stand · heat 40
+- Thu Nov 5 7:30pm — **Sam Tallent** at The Bell House · NO ARTWORK · heat 31
 - Fri Nov 6 7pm — **Ziwe** at The Town Hall · NO ARTWORK
 - Fri Nov 6 7pm — **Adam Ray** at Gramercy Theatre · NO ARTWORK
 - Fri Nov 6 7pm — **Gayme Show! starring Matt Rogers and Dave Mizzoni** at BMCC Tribeca Performing Arts Center · NO ARTWORK

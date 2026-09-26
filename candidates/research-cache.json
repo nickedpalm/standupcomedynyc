@@ -84,6 +84,11 @@
    "at": "2026-09-25T11:04:38.863Z",
    "note": "Reddit rate-limited on this run; HN returned one false-positive prefix-match that filtered out. Zero usable items in 30 days — treat as ranked-on-schedule-alone, decide on the Town Hall matinee + evening double and his existing audience for the NYC stop on the Not This Again tour.",
    "source": "last30days"
+  },
+  "Maria Bamford": {
+   "at": "2026-09-26T11:09:30.537Z",
+   "note": "Three Reddit threads in 30 days, none in the last week: r/providence ticket-resale post for the Uptown show, r/Standup's 'Best Comedy Special?' thread, r/doughboys's Lev Ginsburg shoutout. HN returned nothing usable — every prefix-match was a false positive that filtered out. Pick stands on her existing fan base, not on current buzz; Bell House Oct 10.",
+   "source": "last30days"
   }
  }
 }

@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-26T09:25:28.589Z",
+ "generated_at": "2026-09-26T11:08:38.908Z",
  "note": "Demand signals for the editor. Only availability and second shows set the public demand tag.",
  "picks": [
   {
@@ -7,7 +7,7 @@
    "title": "Maria Bamford: Live",
    "venue": "The Bell House",
    "date": "2026-10-10",
-   "heat": 35,
+   "heat": 51,
    "demand": null,
    "availability": null,
    "second_show": false,
@@ -18,10 +18,106 @@
     "views_prior_30d": 22208,
     "change": 152
    },
-   "reddit": null,
+   "reddit": {
+    "phrase": "Maria Bamford",
+    "posts_30d": 3,
+    "upvotes": 53,
+    "comments": 17,
+    "subreddits": [
+     "doughboys",
+     "Standup",
+     "StandUpComedy"
+    ],
+    "top": {
+     "title": "Lev Ginsburg shoutout at Maria Bamford standup show",
+     "subreddit": "doughboys",
+     "score": 45,
+     "url": "https://www.reddit.com/r/doughboys/comments/1w2qjoo/lev_ginsburg_shoutout_at_maria_bamford_standup/"
+    }
+   },
    "reasons": [
     "Wikipedia: 1864 views a day",
-    "Wikipedia views up 152% over the prior month"
+    "Wikipedia views up 152% over the prior month",
+    "Reddit: 3 posts in 30 days, 53 upvotes (top: r/doughboys)"
+   ]
+  },
+  {
+   "id": "nycf-marc-maron-beacon-2026-11-08",
+   "title": "Marc Maron: Yammering Into the Void Tour",
+   "venue": "Beacon Theatre",
+   "date": "2026-11-08",
+   "heat": 41,
+   "demand": null,
+   "availability": null,
+   "second_show": false,
+   "performer": "Marc Maron",
+   "wikipedia": {
+    "title": "Marc Maron",
+    "views_30d": 34395,
+    "views_prior_30d": 29390,
+    "change": 17
+   },
+   "reddit": {
+    "phrase": "Marc Maron",
+    "posts_30d": 4,
+    "upvotes": 98,
+    "comments": 28,
+    "subreddits": [
+     "elephantgraveyard",
+     "RedbarBBR",
+     "rmbrown",
+     "NotTooLate"
+    ],
+    "top": {
+     "title": "Marc Maron on Elephant Graveyard, Comedy Podcasts, and Clearing Out The ...",
+     "subreddit": "elephantgraveyard",
+     "score": 68,
+     "url": "https://www.reddit.com/r/elephantgraveyard/comments/1whqgsn/marc_maron_on_elephant_graveyard_comedy_podcasts/"
+    }
+   },
+   "reasons": [
+    "Wikipedia: 1147 views a day",
+    "Reddit: 4 posts in 30 days, 98 upvotes (top: r/elephantgraveyard)"
+   ]
+  },
+  {
+   "id": "salma-hindy-10-years-stand-2026-11-04",
+   "title": "Salma Hindy: 10 Years of Stand-Up Comedy",
+   "venue": "The Stand",
+   "date": "2026-11-04",
+   "heat": 40,
+   "demand": null,
+   "availability": null,
+   "second_show": false,
+   "performer": "Salma Hindy",
+   "wikipedia": {
+    "title": "Salma Hindy",
+    "views_30d": 3108,
+    "views_prior_30d": 1262,
+    "change": 146
+   },
+   "reddit": {
+    "phrase": "Salma Hindy",
+    "posts_30d": 8,
+    "upvotes": 28288,
+    "comments": 864,
+    "subreddits": [
+     "Fauxmoi",
+     "Palestine",
+     "JewsOfConscience",
+     "FreedomOfPalestine",
+     "u_AmazingGraces0101"
+    ],
+    "top": {
+     "title": "Comedian Salma Hindy “I lost my position as Chelsea Handler’s opener after I spoke to her about Palestine.”",
+     "subreddit": "Fauxmoi",
+     "score": 16719,
+     "url": "https://www.reddit.com/r/Fauxmoi/comments/1wihox7/comedian_salma_hindy_i_lost_my_position_as/"
+    }
+   },
+   "reasons": [
+    "Wikipedia views up 146% over the prior month",
+    "Reddit: 8 posts in 30 days, 28288 upvotes (top: r/Fauxmoi)"
    ]
   },
   {
@@ -40,7 +136,14 @@
     "views_prior_30d": 6194,
     "change": 1
    },
-   "reddit": null,
+   "reddit": {
+    "phrase": "Kanan Gill",
+    "posts_30d": 0,
+    "upvotes": 0,
+    "comments": 0,
+    "subreddits": [],
+    "top": null
+   },
    "reasons": [
     "a second show the same night at the same room",
     "Wikipedia: 208 views a day"
@@ -62,7 +165,14 @@
     "views_prior_30d": 6194,
     "change": 1
    },
-   "reddit": null,
+   "reddit": {
+    "phrase": "Kanan Gill",
+    "posts_30d": 0,
+    "upvotes": 0,
+    "comments": 0,
+    "subreddits": [],
+    "top": null
+   },
    "reasons": [
     "a second show the same night at the same room",
     "Wikipedia: 208 views a day"
@@ -84,10 +194,130 @@
     "views_prior_30d": 25522,
     "change": 77
    },
-   "reddit": null,
+   "reddit": {
+    "phrase": "Joanne McNally",
+    "posts_30d": 0,
+    "upvotes": 0,
+    "comments": 0,
+    "subreddits": [],
+    "top": null
+   },
    "reasons": [
     "Wikipedia: 1503 views a day",
     "Wikipedia views up 77% over the prior month"
+   ]
+  },
+  {
+   "id": "sam-tallent-bell-house-2026-11-05",
+   "title": "Sam Tallent",
+   "venue": "The Bell House",
+   "date": "2026-11-05",
+   "heat": 31,
+   "demand": null,
+   "availability": null,
+   "second_show": false,
+   "performer": "Sam Tallent",
+   "wikipedia": {
+    "title": "Sam Tallent",
+    "views_30d": 10102,
+    "views_prior_30d": 2155,
+    "change": 369
+   },
+   "reddit": {
+    "phrase": "Sam Tallent",
+    "posts_30d": 1,
+    "upvotes": 67,
+    "comments": 50,
+    "subreddits": [
+     "Standup"
+    ],
+    "top": {
+     "title": "Sam Tallent's latest novel, Brut, just dropped",
+     "subreddit": "Standup",
+     "score": 67,
+     "url": "https://www.reddit.com/r/Standup/comments/1wogsu8/sam_tallents_latest_novel_brut_just_dropped/"
+    }
+   },
+   "reasons": [
+    "Wikipedia: 337 views a day",
+    "Wikipedia views up 369% over the prior month",
+    "Reddit: 1 post in 30 days, 67 upvotes (top: r/Standup)"
+   ]
+  },
+  {
+   "id": "nycf-daniel-sloss-beacon-2026-11-14",
+   "title": "Daniel Sloss: Bitter",
+   "venue": "Beacon Theatre",
+   "date": "2026-11-14",
+   "heat": 30,
+   "demand": null,
+   "availability": null,
+   "second_show": false,
+   "performer": "Daniel Sloss",
+   "wikipedia": {
+    "title": "Daniel Sloss",
+    "views_30d": 16630,
+    "views_prior_30d": 21517,
+    "change": -23
+   },
+   "reddit": {
+    "phrase": "Daniel Sloss",
+    "posts_30d": 4,
+    "upvotes": 19,
+    "comments": 3,
+    "subreddits": [
+     "ColumbusOhio",
+     "cbusohio",
+     "Wiesbaden",
+     "columbusclassifieds"
+    ],
+    "top": {
+     "title": "Selling 2x - Comedian Daniel Sloss: BITTER (Nov 8)",
+     "subreddit": "ColumbusOhio",
+     "score": 7,
+     "url": "https://www.reddit.com/r/ColumbusOhio/comments/1wiexqd/selling_2x_comedian_daniel_sloss_bitter_nov_8/"
+    }
+   },
+   "reasons": [
+    "Wikipedia: 554 views a day",
+    "Reddit: 4 posts in 30 days, 19 upvotes (top: r/ColumbusOhio)"
+   ]
+  },
+  {
+   "id": "asif-ali-2026-10-17",
+   "title": "Asif Ali Live!",
+   "venue": "The Bell House",
+   "date": "2026-10-17",
+   "heat": 25,
+   "demand": null,
+   "availability": null,
+   "second_show": false,
+   "performer": "Asif Ali",
+   "wikipedia": {
+    "title": "Asif Ali (comedian)",
+    "views_30d": 7936,
+    "views_prior_30d": 6656,
+    "change": 19
+   },
+   "reddit": {
+    "phrase": "Asif Ali",
+    "posts_30d": 2,
+    "upvotes": 266,
+    "comments": 81,
+    "subreddits": [
+     "comedybangbang",
+     "Earwolf"
+    ],
+    "top": {
+     "title": "Episode 982: \"Jackman Backman\", with promising comedian Asif Ali, Dan Lippert as NBA superstar Bill Walton, and Stephanie Burchinow as small business owner Caroline Fingers!",
+     "subreddit": "comedybangbang",
+     "score": 160,
+     "url": "https://www.reddit.com/r/comedybangbang/comments/1w34ikq/episode_982_jackman_backman_with_promising/"
+    }
+   },
+   "reasons": [
+    "Wikipedia: 265 views a day",
+    "Reddit: 2 posts in 30 days, 266 upvotes (top: r/comedybangbang)"
    ]
   },
   {
@@ -125,46 +355,38 @@
    ]
   },
   {
-   "id": "sam-tallent-bell-house-2026-11-05",
-   "title": "Sam Tallent",
+   "id": "beth-stelling-let-me-get-loose-2026-09-26",
+   "title": "Beth Stelling: Let Me Get Loose",
    "venue": "The Bell House",
-   "date": "2026-11-05",
-   "heat": 25,
+   "date": "2026-09-26",
+   "heat": 15,
    "demand": null,
    "availability": null,
    "second_show": false,
-   "performer": "Sam Tallent",
+   "performer": "Beth Stelling",
    "wikipedia": {
-    "title": "Sam Tallent",
-    "views_30d": 10102,
-    "views_prior_30d": 2155,
-    "change": 369
+    "title": "Beth Stelling",
+    "views_30d": 4112,
+    "views_prior_30d": 3311,
+    "change": 24
    },
-   "reddit": null,
-   "reasons": [
-    "Wikipedia: 337 views a day",
-    "Wikipedia views up 369% over the prior month"
-   ]
-  },
-  {
-   "id": "nycf-marc-maron-beacon-2026-11-08",
-   "title": "Marc Maron: Yammering Into the Void Tour",
-   "venue": "Beacon Theatre",
-   "date": "2026-11-08",
-   "heat": 20,
-   "demand": null,
-   "availability": null,
-   "second_show": false,
-   "performer": "Marc Maron",
-   "wikipedia": {
-    "title": "Marc Maron",
-    "views_30d": 34395,
-    "views_prior_30d": 29390,
-    "change": 17
+   "reddit": {
+    "phrase": "Beth Stelling",
+    "posts_30d": 3,
+    "upvotes": 41,
+    "comments": 6,
+    "subreddits": [
+     "StandUpComedy"
+    ],
+    "top": {
+     "title": "Beth Stelling and Sean O’connor doing punch up in LA.",
+     "subreddit": "StandUpComedy",
+     "score": 22,
+     "url": "https://www.reddit.com/r/StandUpComedy/comments/1w7inr7/beth_stelling_and_sean_oconnor_doing_punch_up_in/"
+    }
    },
-   "reddit": null,
    "reasons": [
-    "Wikipedia: 1147 views a day"
+    "Reddit: 3 posts in 30 days, 41 upvotes (top: r/StandUpComedy)"
    ]
   },
   {
@@ -183,30 +405,46 @@
     "views_prior_30d": 1012,
     "change": 54
    },
-   "reddit": null,
+   "reddit": {
+    "phrase": "Mark Simmons",
+    "posts_30d": 0,
+    "upvotes": 0,
+    "comments": 0,
+    "subreddits": [],
+    "top": null
+   },
    "reasons": [
     "Wikipedia views up 54% over the prior month"
    ]
   },
   {
-   "id": "salma-hindy-10-years-stand-2026-11-04",
-   "title": "Salma Hindy: 10 Years of Stand-Up Comedy",
-   "venue": "The Stand",
-   "date": "2026-11-04",
-   "heat": 15,
+   "id": "kevin-sullivan-2026-09-27",
+   "title": "Kevin Sullivan",
+   "venue": "The Bell House",
+   "date": "2026-09-27",
+   "heat": 12,
    "demand": null,
    "availability": null,
    "second_show": false,
-   "performer": "Salma Hindy",
-   "wikipedia": {
-    "title": "Salma Hindy",
-    "views_30d": 3108,
-    "views_prior_30d": 1262,
-    "change": 146
+   "performer": "Kevin Sullivan",
+   "wikipedia": null,
+   "reddit": {
+    "phrase": "Kevin Sullivan",
+    "posts_30d": 1,
+    "upvotes": 360,
+    "comments": 42,
+    "subreddits": [
+     "SquaredCircle"
+    ],
+    "top": {
+     "title": "Picture of CM Punk, Kevin Sullivan &amp; Abdullah the Butcher vs. Dusty Rhodes, Dustin Rhodes &amp; Mike Graham w/ Harley Race as manager with Mick Foley as the special guest referee",
+     "subreddit": "SquaredCircle",
+     "score": 360,
+     "url": "https://www.reddit.com/r/SquaredCircle/comments/1wn8xc3/picture_of_cm_punk_kevin_sullivan_abdullah_the/"
+    }
    },
-   "reddit": null,
    "reasons": [
-    "Wikipedia views up 146% over the prior month"
+    "Reddit: 1 post in 30 days, 360 upvotes (top: r/SquaredCircle)"
    ]
   },
   {
@@ -225,30 +463,16 @@
     "views_prior_30d": 58305,
     "change": -55
    },
-   "reddit": null,
+   "reddit": {
+    "phrase": "Michelle Buteau",
+    "posts_30d": 0,
+    "upvotes": 0,
+    "comments": 0,
+    "subreddits": [],
+    "top": null
+   },
    "reasons": [
     "Wikipedia: 872 views a day"
-   ]
-  },
-  {
-   "id": "asif-ali-2026-10-17",
-   "title": "Asif Ali Live!",
-   "venue": "The Bell House",
-   "date": "2026-10-17",
-   "heat": 10,
-   "demand": null,
-   "availability": null,
-   "second_show": false,
-   "performer": "Asif Ali",
-   "wikipedia": {
-    "title": "Asif Ali (comedian)",
-    "views_30d": 7936,
-    "views_prior_30d": 6656,
-    "change": 19
-   },
-   "reddit": null,
-   "reasons": [
-    "Wikipedia: 265 views a day"
    ]
   },
   {
@@ -267,7 +491,14 @@
     "views_prior_30d": 18084,
     "change": 29
    },
-   "reddit": null,
+   "reddit": {
+    "phrase": "Johnny Pemberton",
+    "posts_30d": 0,
+    "upvotes": 0,
+    "comments": 0,
+    "subreddits": [],
+    "top": null
+   },
    "reasons": [
     "Wikipedia: 776 views a day"
    ]
@@ -288,7 +519,14 @@
     "views_prior_30d": 58305,
     "change": -55
    },
-   "reddit": null,
+   "reddit": {
+    "phrase": "Michelle Buteau",
+    "posts_30d": 0,
+    "upvotes": 0,
+    "comments": 0,
+    "subreddits": [],
+    "top": null
+   },
    "reasons": [
     "Wikipedia: 872 views a day"
    ]
@@ -309,7 +547,14 @@
     "views_prior_30d": 30100,
     "change": -9
    },
-   "reddit": null,
+   "reddit": {
+    "phrase": "Kathy Griffin",
+    "posts_30d": 0,
+    "upvotes": 0,
+    "comments": 0,
+    "subreddits": [],
+    "top": null
+   },
    "reasons": [
     "Wikipedia: 911 views a day"
    ]
@@ -330,30 +575,16 @@
     "views_prior_30d": 30759,
     "change": -5
    },
-   "reddit": null,
+   "reddit": {
+    "phrase": "Ilana Glazer",
+    "posts_30d": 0,
+    "upvotes": 0,
+    "comments": 0,
+    "subreddits": [],
+    "top": null
+   },
    "reasons": [
     "Wikipedia: 979 views a day"
-   ]
-  },
-  {
-   "id": "nycf-daniel-sloss-beacon-2026-11-14",
-   "title": "Daniel Sloss: Bitter",
-   "venue": "Beacon Theatre",
-   "date": "2026-11-14",
-   "heat": 10,
-   "demand": null,
-   "availability": null,
-   "second_show": false,
-   "performer": "Daniel Sloss",
-   "wikipedia": {
-    "title": "Daniel Sloss",
-    "views_30d": 16630,
-    "views_prior_30d": 21517,
-    "change": -23
-   },
-   "reddit": null,
-   "reasons": [
-    "Wikipedia: 554 views a day"
    ]
   },
   {
@@ -372,7 +603,14 @@
     "views_prior_30d": 21556,
     "change": -26
    },
-   "reddit": null,
+   "reddit": {
+    "phrase": "Adam Ray",
+    "posts_30d": 0,
+    "upvotes": 0,
+    "comments": 0,
+    "subreddits": [],
+    "top": null
+   },
    "reasons": [
     "Wikipedia: 534 views a day"
    ]
@@ -393,43 +631,77 @@
     "views_prior_30d": 10041,
     "change": -1
    },
-   "reddit": null,
+   "reddit": {
+    "phrase": "Jess Hilarious",
+    "posts_30d": 0,
+    "upvotes": 0,
+    "comments": 0,
+    "subreddits": [],
+    "top": null
+   },
    "reasons": [
     "Wikipedia: 332 views a day"
    ]
   },
   {
-   "id": "beth-stelling-let-me-get-loose-2026-09-26",
-   "title": "Beth Stelling: Let Me Get Loose",
-   "venue": "The Bell House",
-   "date": "2026-09-26",
-   "heat": 0,
+   "id": "nycf-jordan-jensen-beacon-2026-11-12",
+   "title": "Jordan Jensen",
+   "venue": "Beacon Theatre",
+   "date": "2026-11-12",
+   "heat": 5,
    "demand": null,
    "availability": null,
    "second_show": false,
-   "performer": "Beth Stelling",
-   "wikipedia": {
-    "title": "Beth Stelling",
-    "views_30d": 4112,
-    "views_prior_30d": 3311,
-    "change": 24
+   "performer": "Jordan Jensen",
+   "wikipedia": null,
+   "reddit": {
+    "phrase": "Jordan Jensen",
+    "posts_30d": 1,
+    "upvotes": 4,
+    "comments": 4,
+    "subreddits": [
+     "Albany"
+    ],
+    "top": {
+     "title": "September 10 comedy Jordan Jensen FREE tickets",
+     "subreddit": "Albany",
+     "score": 4,
+     "url": "https://www.reddit.com/r/Albany/comments/1wcjgxc/september_10_comedy_jordan_jensen_free_tickets/"
+    }
    },
-   "reddit": null,
-   "reasons": []
+   "reasons": [
+    "Reddit: 1 post in 30 days, 4 upvotes (top: r/Albany)"
+   ]
   },
   {
-   "id": "kevin-sullivan-2026-09-27",
-   "title": "Kevin Sullivan",
+   "id": "ruby-setnik-bell-house-2026-10-27",
+   "title": "Ruby Setnik",
    "venue": "The Bell House",
-   "date": "2026-09-27",
-   "heat": 0,
+   "date": "2026-10-27",
+   "heat": 5,
    "demand": null,
    "availability": null,
    "second_show": false,
-   "performer": "Kevin Sullivan",
+   "performer": "Ruby Setnik",
    "wikipedia": null,
-   "reddit": null,
-   "reasons": []
+   "reddit": {
+    "phrase": "Ruby Setnik",
+    "posts_30d": 1,
+    "upvotes": 5,
+    "comments": 1,
+    "subreddits": [
+     "aiArt"
+    ],
+    "top": {
+     "title": "Used my crayon and pen cartooning to get color and thematic ideas for images. Some of comedian Ruby Setnik.",
+     "subreddit": "aiArt",
+     "score": 5,
+     "url": "https://www.reddit.com/r/aiArt/comments/1w6zenz/used_my_crayon_and_pen_cartooning_to_get_color/"
+    }
+   },
+   "reasons": [
+    "Reddit: 1 post in 30 days, 5 upvotes (top: r/aiArt)"
+   ]
   },
   {
    "id": "good-grief-littlefield-2026-09-26",
@@ -477,7 +749,14 @@
     "views_prior_30d": 1509,
     "change": 4
    },
-   "reddit": null,
+   "reddit": {
+    "phrase": "Brendan Scannell",
+    "posts_30d": 0,
+    "upvotes": 0,
+    "comments": 0,
+    "subreddits": [],
+    "top": null
+   },
    "reasons": []
   },
   {
@@ -491,7 +770,14 @@
    "second_show": false,
    "performer": "Nate Varrone",
    "wikipedia": null,
-   "reddit": null,
+   "reddit": {
+    "phrase": "Nate Varrone",
+    "posts_30d": 0,
+    "upvotes": 0,
+    "comments": 0,
+    "subreddits": [],
+    "top": null
+   },
    "reasons": []
   },
   {
@@ -510,7 +796,14 @@
     "views_prior_30d": 3410,
     "change": -14
    },
-   "reddit": null,
+   "reddit": {
+    "phrase": "Phoebe Robinson",
+    "posts_30d": 0,
+    "upvotes": 0,
+    "comments": 0,
+    "subreddits": [],
+    "top": null
+   },
    "reasons": []
   },
   {
@@ -552,7 +845,14 @@
    "second_show": false,
    "performer": "Hot Butter Train",
    "wikipedia": null,
-   "reddit": null,
+   "reddit": {
+    "phrase": "Hot Butter Train",
+    "posts_30d": 0,
+    "upvotes": 0,
+    "comments": 0,
+    "subreddits": [],
+    "top": null
+   },
    "reasons": []
   },
   {
@@ -599,7 +899,14 @@
     "views_prior_30d": 5224,
     "change": 3
    },
-   "reddit": null,
+   "reddit": {
+    "phrase": "Molly Kearney",
+    "posts_30d": 0,
+    "upvotes": 0,
+    "comments": 0,
+    "subreddits": [],
+    "top": null
+   },
    "reasons": []
   },
   {
@@ -613,7 +920,14 @@
    "second_show": false,
    "performer": "Lisa Wallen Headlines",
    "wikipedia": null,
-   "reddit": null,
+   "reddit": {
+    "phrase": "Lisa Wallen Headlines",
+    "posts_30d": 0,
+    "upvotes": 0,
+    "comments": 0,
+    "subreddits": [],
+    "top": null
+   },
    "reasons": []
   },
   {
@@ -781,7 +1095,14 @@
    "second_show": false,
    "performer": "Headlining Alex Giampapa",
    "wikipedia": null,
-   "reddit": null,
+   "reddit": {
+    "phrase": "Headlining Alex Giampapa",
+    "posts_30d": 0,
+    "upvotes": 0,
+    "comments": 0,
+    "subreddits": [],
+    "top": null
+   },
    "reasons": []
   },
   {
@@ -870,7 +1191,14 @@
     "views_prior_30d": 1671,
     "change": 16
    },
-   "reddit": null,
+   "reddit": {
+    "phrase": "Sydnee Washington",
+    "posts_30d": 0,
+    "upvotes": 0,
+    "comments": 0,
+    "subreddits": [],
+    "top": null
+   },
    "reasons": []
   },
   {
@@ -1015,7 +1343,14 @@
     "views_prior_30d": 5971,
     "change": -14
    },
-   "reddit": null,
+   "reddit": {
+    "phrase": "Difficult People",
+    "posts_30d": 0,
+    "upvotes": 0,
+    "comments": 0,
+    "subreddits": [],
+    "top": null
+   },
    "reasons": []
   },
   {
@@ -1033,20 +1368,6 @@
    "reasons": []
   },
   {
-   "id": "nycf-jordan-jensen-beacon-2026-11-12",
-   "title": "Jordan Jensen",
-   "venue": "Beacon Theatre",
-   "date": "2026-11-12",
-   "heat": 0,
-   "demand": null,
-   "availability": null,
-   "second_show": false,
-   "performer": "Jordan Jensen",
-   "wikipedia": null,
-   "reddit": null,
-   "reasons": []
-  },
-  {
    "id": "nycf-mojo-brookzz-beacon-2026-11-15",
    "title": "Mojo Brookzz: Outta Pocket Comedy Tour",
    "venue": "Beacon Theatre",
@@ -1057,7 +1378,14 @@
    "second_show": false,
    "performer": "Mojo Brookzz",
    "wikipedia": null,
-   "reddit": null,
+   "reddit": {
+    "phrase": "Mojo Brookzz",
+    "posts_30d": 0,
+    "upvotes": 0,
+    "comments": 0,
+    "subreddits": [],
+    "top": null
+   },
    "reasons": []
   },
   {
@@ -1127,7 +1455,14 @@
    "second_show": false,
    "performer": "Dropout Improv",
    "wikipedia": null,
-   "reddit": null,
+   "reddit": {
+    "phrase": "Dropout Improv",
+    "posts_30d": 0,
+    "upvotes": 0,
+    "comments": 0,
+    "subreddits": [],
+    "top": null
+   },
    "reasons": []
   },
   {
@@ -1183,7 +1518,14 @@
    "second_show": false,
    "performer": "Rainbow Riot",
    "wikipedia": null,
-   "reddit": null,
+   "reddit": {
+    "phrase": "Rainbow Riot",
+    "posts_30d": 0,
+    "upvotes": 0,
+    "comments": 0,
+    "subreddits": [],
+    "top": null
+   },
    "reasons": []
   },
   {
@@ -1216,7 +1558,14 @@
     "views_prior_30d": 1090,
     "change": -10
    },
-   "reddit": null,
+   "reddit": {
+    "phrase": "Josh Sharp",
+    "posts_30d": 0,
+    "upvotes": 0,
+    "comments": 0,
+    "subreddits": [],
+    "top": null
+   },
    "reasons": []
   },
   {
@@ -1244,7 +1593,14 @@
    "second_show": false,
    "performer": "Kendall Farrell",
    "wikipedia": null,
-   "reddit": null,
+   "reddit": {
+    "phrase": "Kendall Farrell",
+    "posts_30d": 0,
+    "upvotes": 0,
+    "comments": 0,
+    "subreddits": [],
+    "top": null
+   },
    "reasons": []
   },
   {
@@ -1272,7 +1628,14 @@
    "second_show": false,
    "performer": "Megan Botnick Headlines",
    "wikipedia": null,
-   "reddit": null,
+   "reddit": {
+    "phrase": "Megan Botnick Headlines",
+    "posts_30d": 0,
+    "upvotes": 0,
+    "comments": 0,
+    "subreddits": [],
+    "top": null
+   },
    "reasons": []
   },
   {
@@ -1328,7 +1691,14 @@
    "second_show": false,
    "performer": "Laughing Lassi",
    "wikipedia": null,
-   "reddit": null,
+   "reddit": {
+    "phrase": "Laughing Lassi",
+    "posts_30d": 0,
+    "upvotes": 0,
+    "comments": 0,
+    "subreddits": [],
+    "top": null
+   },
    "reasons": [
     "tickets available"
    ]
@@ -1414,7 +1784,14 @@
    "second_show": false,
    "performer": "Faculty Lounge",
    "wikipedia": null,
-   "reddit": null,
+   "reddit": {
+    "phrase": "Faculty Lounge",
+    "posts_30d": 0,
+    "upvotes": 0,
+    "comments": 0,
+    "subreddits": [],
+    "top": null
+   },
    "reasons": []
   },
   {
@@ -1448,20 +1825,6 @@
    "reasons": []
   },
   {
-   "id": "ruby-setnik-bell-house-2026-10-27",
-   "title": "Ruby Setnik",
-   "venue": "The Bell House",
-   "date": "2026-10-27",
-   "heat": 0,
-   "demand": null,
-   "availability": null,
-   "second_show": false,
-   "performer": "Ruby Setnik",
-   "wikipedia": null,
-   "reddit": null,
-   "reasons": []
-  },
-  {
    "id": "nasser-al-rayess-town-hall-2026-10-31",
    "title": "Nasser Al-Rayess",
    "venue": "The Town Hall",
@@ -1472,7 +1835,14 @@
    "second_show": false,
    "performer": "Nasser Al-Rayess",
    "wikipedia": null,
-   "reddit": null,
+   "reddit": {
+    "phrase": "Nasser Al-Rayess",
+    "posts_30d": 0,
+    "upvotes": 0,
+    "comments": 0,
+    "subreddits": [],
+    "top": null
+   },
    "reasons": []
   },
   {
@@ -1560,7 +1930,14 @@
    "second_show": false,
    "performer": "Sam Oh",
    "wikipedia": null,
-   "reddit": null,
+   "reddit": {
+    "phrase": "Sam Oh",
+    "posts_30d": 0,
+    "upvotes": 0,
+    "comments": 0,
+    "subreddits": [],
+    "top": null
+   },
    "reasons": []
   },
   {
@@ -1600,6 +1977,22 @@
    "title": "If You're Really From New York with Onika McLean",
    "venue": "Littlefield",
    "date": "2026-10-04",
+   "heat": 0,
+   "demand": null,
+   "availability": "InStock",
+   "second_show": false,
+   "performer": null,
+   "wikipedia": null,
+   "reddit": null,
+   "reasons": [
+    "tickets available"
+   ]
+  },
+  {
+   "id": "joke-machine-2026-09-30",
+   "title": "JOKE MACHINE with Emmy Blotnick & Joe Zimmerman",
+   "venue": "Union Hall",
+   "date": "2026-09-30",
    "heat": 0,
    "demand": null,
    "availability": "InStock",

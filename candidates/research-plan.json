@@ -1,11 +1,7 @@
 {
- "generated_at": "2026-09-25T11:03:52.015Z",
- "performers_considered": 44,
+ "generated_at": "2026-09-26T11:08:41.873Z",
+ "performers_considered": 45,
  "shortlist": [
-  {
-   "name": "Chelsea Handler",
-   "priority": 75
-  },
   {
    "name": "Maria Bamford",
    "priority": 56
@@ -23,6 +19,14 @@
    "priority": 47
   },
   {
+   "name": "Michelle Buteau",
+   "priority": 45
+  },
+  {
+   "name": "Salma Hindy",
+   "priority": 45
+  },
+  {
    "name": "Marc Maron",
    "priority": 41
   },
@@ -31,64 +35,54 @@
    "priority": 35
   },
   {
-   "name": "Michelle Buteau",
-   "priority": 30
+   "name": "Sam Tallent",
+   "priority": 31
   },
   {
    "name": "Asif Ali",
-   "priority": 30
-  },
-  {
-   "name": "Daniel Sloss",
    "priority": 30
   }
  ],
  "run": [
   {
-   "name": "Beth Stelling",
-   "priority": 50,
+   "name": "Maria Bamford",
+   "priority": 56,
    "next": {
-    "id": "beth-stelling-let-me-get-loose-2026-09-26",
-    "date": "2026-09-26",
+    "id": "maria-bamford-2026-10-10",
+    "date": "2026-10-10",
     "venue": "The Bell House",
-    "days": 1,
+    "days": 14,
     "featured": false,
     "poster": true,
     "demand": null
    },
    "cheap_signals": [
-    "Reddit: 3 posts in 30 days, 41 upvotes (top: r/StandUpComedy)"
+    "Wikipedia: 1864 views a day",
+    "Wikipedia views up 152% over the prior month",
+    "Reddit: 3 posts in 30 days, 53 upvotes (top: r/doughboys)"
    ],
-   "reason": "show within 3 days and not yet decided"
-  },
-  {
-   "name": "Kanan Gill",
-   "priority": 50,
-   "next": {
-    "id": "kanan-gill-not-this-again-town-hall-2026-10-03-1600",
-    "date": "2026-10-03",
-    "venue": "The Town Hall",
-    "days": 8,
-    "featured": false,
-    "poster": false,
-    "demand": "going_fast"
-   },
-   "cheap_signals": [
-    "a second show the same night at the same room",
-    "Wikipedia: 209 views a day"
-   ],
-   "reason": "in the decision window and not yet decided"
+   "reason": "filled to the minimum of 5"
   }
  ],
  "reuse": [
   {
-   "name": "Chelsea Handler",
-   "priority": 75,
+   "name": "Beth Stelling",
+   "priority": 50,
    "cached": {
-    "at": "2026-09-24T11:11:55.891Z",
+    "at": "2026-09-25T11:04:38.712Z",
     "age_days": 1,
     "fresh": true,
-    "note": "12 Reddit threads, 32.8k upvotes, 1.5k comments in 30 days — heavy Fauxmoi/pop culture buzz around her Netflix move and the 'I'm a white woman who voted for Trump' podcast; HN silent."
+    "note": "Six Reddit threads in 30 days (749 upvotes, 35 comments); the r/StandUpComedy Trolls clip and the 'they don't like what's up here' bit are still circulating, and her open-mic-punch-up show 'Punch Room' has its own r/StandUpComedy thread (Sep 11). HN silent. Bell House Sep 26, day after the date — pick on the running clips; she's on her own headline run."
+   }
+  },
+  {
+   "name": "Kanan Gill",
+   "priority": 50,
+   "cached": {
+    "at": "2026-09-25T11:04:38.863Z",
+    "age_days": 1,
+    "fresh": true,
+    "note": "Reddit rate-limited on this run; HN returned one false-positive prefix-match that filtered out. Zero usable items in 30 days — treat as ranked-on-schedule-alone, decide on the Town Hall matinee + evening double and his existing audience for the NYC stop on the Not This Again tour."
    }
   },
   {
@@ -96,17 +90,17 @@
    "priority": 47,
    "cached": {
     "at": "2026-09-21T11:14:54.139Z",
-    "age_days": 4,
+    "age_days": 5,
     "fresh": true,
     "note": "Five Reddit threads in 30 days but every one is about a different Kevin Sullivan — r/SCJerk's 'Where was Kevin Sullivan?' (41pts), two r/WCW / r/oldschoolwrestling threads about the wrestler, and an RHOC recap. HN's hit is Kevin Boone. No buzz on the Bell House Sep 27 date."
    }
   },
   {
    "name": "Michelle Buteau",
-   "priority": 30,
+   "priority": 45,
    "cached": {
     "at": "2026-09-21T11:08:34.917Z",
-    "age_days": 4,
+    "age_days": 5,
     "fresh": true,
     "note": "Only 3 Reddit threads in 30 days, mostly about her Spa Weekend role and outfits — r/FemaleStandupComedy's A Lot of Scalp clip (4pts) is the only stand-up-adjacent one; no HN chatter."
    }
@@ -114,29 +108,34 @@
  ],
  "skip": [
   {
-   "name": "Maria Bamford",
-   "priority": 56,
-   "reason": "next show in 15 days, outside the 10-day window"
+   "name": "Salma Hindy",
+   "priority": 45,
+   "reason": "next show in 39 days, outside the 10-day window"
   },
   {
    "name": "Marc Maron",
    "priority": 41,
-   "reason": "next show in 44 days, outside the 10-day window"
+   "reason": "next show in 43 days, outside the 10-day window"
   },
   {
    "name": "Joanne McNally",
    "priority": 35,
-   "reason": "next show in 43 days, outside the 10-day window"
+   "reason": "next show in 42 days, outside the 10-day window"
+  },
+  {
+   "name": "Sam Tallent",
+   "priority": 31,
+   "reason": "next show in 40 days, outside the 10-day window"
   },
   {
    "name": "Asif Ali",
    "priority": 30,
-   "reason": "next show in 22 days, outside the 10-day window"
+   "reason": "next show in 21 days, outside the 10-day window"
   },
   {
    "name": "Daniel Sloss",
    "priority": 30,
-   "reason": "next show in 50 days, outside the 10-day window"
+   "reason": "outside the top 10 by cheap ranking"
   },
   {
    "name": "Faculty Lounge",
@@ -160,11 +159,6 @@
   },
   {
    "name": "Hot Butter Train",
-   "priority": 20,
-   "reason": "outside the top 10 by cheap ranking"
-  },
-  {
-   "name": "Abolish Everything",
    "priority": 20,
    "reason": "outside the top 10 by cheap ranking"
   },
@@ -259,6 +253,11 @@
    "reason": "outside the top 10 by cheap ranking"
   },
   {
+   "name": "Nick Mestad",
+   "priority": 5,
+   "reason": "outside the top 10 by cheap ranking"
+  },
+  {
    "name": "Immigrant Jam",
    "priority": 5,
    "reason": "outside the top 10 by cheap ranking"
@@ -309,7 +308,7 @@
    "reason": "outside the top 10 by cheap ranking"
   }
  ],
- "estimated_tokens_saved": 378000,
- "estimate_basis": "9000 tokens per last30days run, 42 runs avoided out of 44",
+ "estimated_tokens_saved": 396000,
+ "estimate_basis": "9000 tokens per last30days run, 44 runs avoided out of 45",
  "no_recent_data": []
 }
