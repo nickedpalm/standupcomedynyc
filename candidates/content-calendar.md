@@ -13,7 +13,7 @@ Six weeks ahead from the board. Regenerated on every build; edit the data, not t
 
 Ranked 45; run 1, reuse 4, skip 40; ~396,000 tokens saved.
 
-## Week 1: Sep 27 to Oct 3 — 23 picks — 9 without artwork · 29 Eventbrite leads not yet reviewed
+## Week 1: Sep 27 to Oct 3 — 23 picks — 9 without artwork · 31 Eventbrite leads not yet reviewed
 
 - Sun Sep 27 6pm — **Mindy Raf - A (very) Nervous System Special Taping** at Littlefield · going fast · heat 25
 - Sun Sep 27 7pm · doors 6pm — **Rudy Rush & Friends: Birthday Comedy Show** at Comedy In Harlem · NO ARTWORK
@@ -49,13 +49,14 @@ Ranked 45; run 1, reuse 4, skip 40; ~396,000 tokens saved.
   - Mon Sep 28 7:30pm — NORMAL BEHAVIOR with Chine Ikoro at Union Hall · from $13.61 · has artwork
   - Mon Sep 28 8pm — The Peter Stewart Show! at Comic Strip Live · from $25.71 · has artwork
 
-## Week 2: Oct 4 to Oct 10 — 13 picks — 5 without artwork · 1 Eventbrite lead not yet reviewed
+## Week 2: Oct 4 to Oct 10 — 14 picks — 5 without artwork · 8 Eventbrite leads not yet reviewed
 
 - Sun Oct 4 3pm · doors 2pm — **Daylighters (A Comedy Show You Can Bring Your Kids To)** at Littlefield
 - Sun Oct 4 6pm — **Comedy Girl Autumn: A Live Comedy Show Hosted by Larry Owens** at The Bell House
 - Sun Oct 4 8pm — **Ebony Moore & Friends Comedy Hoedown** at Freda · NO ARTWORK
 - Sun Oct 4 8pm — **If You're Really From New York with Onika McLean** at Littlefield
 - Mon Oct 5 7:30pm — **Hot Butter Train** at The Bell House
+- Mon Oct 5 9:30pm — **Vanessa Gonzalez's Special Screening!** at Caveat
 - Wed Oct 7 7:30pm — **Joe Mande Con Amici** at The Bell House
 - Wed Oct 7 8pm — **Laughs In The East** at Eastville Comedy Club · NO ARTWORK
 - Thu Oct 8 7:30pm — **Molly Kearney** at The Bell House
@@ -66,7 +67,14 @@ Ranked 45; run 1, reuse 4, skip 40; ~396,000 tokens saved.
 - Sat Oct 10 6pm — **Maria Bamford: Live** at The Bell House · heat 35
 
   Leads to review:
-  - Wed Oct 7 11pm — Standup Comedy (After Dark) at Kellogg's Diner at Kellogg's Diner · from $5 · has artwork
+  - Sun Oct 4 2:30pm — House Rules at Caveat · from $15.67 · has artwork
+  - Sun Oct 4 5pm — Skipped History Presents: The Power Broker, Pt. 3 at Caveat · from $24.41 · has artwork
+  - Sun Oct 4 7:30pm — Comedians Interview Experts: The craft of puzzles with Negin Farsad and Wyna Liu at Caveat · from $24.41 · has artwork
+  - Sun Oct 4 8pm — DF Sweedler, Jack Barth, Carla Oakerson, Nick Griffin, Avi Liberman, more! at Comic Strip Live · from $25.71 · has artwork
+  - Mon Oct 5 8pm — The Peter Stewart Show with Avi Liberman! at Comic Strip Live · from $25.71 · has artwork
+  - Tue Oct 6 8pm — Jim Mendrinos, Jason Choi, Nick Tilleli, Nick Griffin, Sean Donnelly, more! at Comic Strip Live · from $25.71 · has artwork
+  - Wed Oct 7 8pm — Great Job News: A NYC Launch Screening! at Littlefield · from $18.71 · has artwork
+  - Wed Oct 7 11pm — The Late Night Comedy Show at Kellogg's Diner at Kellogg's Diner · from $5 · has artwork
 
 ## Week 3: Oct 11 to Oct 17 — 13 picks — 7 without artwork
 
