@@ -49,7 +49,7 @@
  },
  {
   "event_id": "good-grief-littlefield-2026-09-26",
-  "src": "/assets/posters/good-grief-littlefield-2026-09-26.jpg",
+  "src": "/assets/posters/archive/good-grief-littlefield-2026-09-26.jpg",
   "width": 940,
   "height": 470,
   "source_url": "https://www.eventbrite.com/e/we-just-find-it-funny-presents-good-grief-tickets-1998458577402",
@@ -60,7 +60,8 @@
   "retrieved_at": "2026-09-15",
   "bytes": 92878,
   "sha256": "14d91063ea04bfebcd735905c36d28bf7ed26808ce2c93acb613d66084711ad4",
-  "reuse_status": "Official promotional artwork; no separate reuse license identified. Local review draft only."
+  "reuse_status": "Official promotional artwork; no separate reuse license identified. Local review draft only.",
+  "archived": true
  },
  {
   "event_id": "vampire-movie-20260912",
@@ -464,7 +465,7 @@
  },
  {
   "event_id": "beth-stelling-let-me-get-loose-2026-09-26",
-  "src": "/assets/posters/beth-stelling-let-me-get-loose-2026-09-26.jpg",
+  "src": "/assets/posters/archive/beth-stelling-let-me-get-loose-2026-09-26.jpg",
   "width": 640,
   "height": 427,
   "source_url": "https://www.thebellhouseny.com/",
@@ -475,7 +476,8 @@
   "retrieved_at": "2026-09-14",
   "bytes": 32531,
   "sha256": "bdb6a21a52a8c6b2ea55970f1b20fd63d1e5beec0b6d19020aef5ffffc93bc67",
-  "reuse_status": "Official promotional artwork from the show's public listing; no separate reuse license identified. Site display with credit only."
+  "reuse_status": "Official promotional artwork from the show's public listing; no separate reuse license identified. Site display with credit only.",
+  "archived": true
  },
  {
   "event_id": "kevin-sullivan-2026-09-27",
@@ -681,7 +683,7 @@
   "height": 427,
   "source_url": "https://www.ticketmaster.com/poly-diaz-en-espanol-brooklyn-new-york-10-09-2026/event/300064E804C8B732",
   "credit": "Artwork: The Bell House / show organizer",
-  "alt": "Poly D\u00edaz (En Espa\u00f1ol) promotional artwork.",
+  "alt": "Poly Díaz (En Español) promotional artwork.",
   "kind": "dated event flyer",
   "original_image_url": "https://s1.ticketm.net/dam/a/46b/b02509bd-4380-43c8-b78d-f269a917446b_RETINA_PORTRAIT_3_2.jpg",
   "retrieved_at": "2026-09-15",
@@ -1111,7 +1113,7 @@
   "height": 440,
   "source_url": "https://comicstriplive.com/elyse-delucci-well-this-is-humbling/",
   "credit": "Artwork: Comic Strip Live / show organizer",
-  "alt": "Elyse DeLucci \u2013 ONE NIGHT ONLY! promotional artwork.",
+  "alt": "Elyse DeLucci – ONE NIGHT ONLY! promotional artwork.",
   "kind": "dated event flyer",
   "original_image_url": "https://comicstriplive.com/wp-content/uploads/2026/09/FLYER_ComicStrip2026June18-1-e1789779169571-720x440.png",
   "retrieved_at": "2026-09-21",
@@ -1166,7 +1168,7 @@
  },
  {
   "event_id": "piece-of-work-union-hall-2026-09-26",
-  "src": "/assets/posters/piece-of-work-union-hall-2026-09-26.jpg",
+  "src": "/assets/posters/archive/piece-of-work-union-hall-2026-09-26.jpg",
   "width": 940,
   "height": 470,
   "source_url": "https://www.eventbrite.com/e/piece-of-work-a-new-hour-from-michael-cruz-kayne-tickets-2000076579891",
@@ -1177,7 +1179,8 @@
   "retrieved_at": "2026-09-22",
   "bytes": 58714,
   "sha256": "4f6633f745903fa8d2d5131cbae2ee1f4aaadc58973e87f256b109bb88e8cdef",
-  "reuse_status": "Official promotional artwork; no separate reuse license identified. Local review draft only."
+  "reuse_status": "Official promotional artwork; no separate reuse license identified. Local review draft only.",
+  "archived": true
  },
  {
   "event_id": "do-it-live-w-chika-caveat-2026-09-24",
