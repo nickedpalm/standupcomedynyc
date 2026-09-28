@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-27T09:26:37.137Z",
+ "generated_at": "2026-09-28T09:39:37.246Z",
  "note": "Demand signals for the editor. Only availability and second shows set the public demand tag.",
  "picks": [
   {
@@ -14,14 +14,14 @@
    "performer": "Maria Bamford",
    "wikipedia": {
     "title": "Maria Bamford",
-    "views_30d": 57597,
-    "views_prior_30d": 22778,
-    "change": 153
+    "views_30d": 59147,
+    "views_prior_30d": 22954,
+    "change": 158
    },
    "reddit": null,
    "reasons": [
-    "Wikipedia: 1920 views a day",
-    "Wikipedia views up 153% over the prior month"
+    "Wikipedia: 1972 views a day",
+    "Wikipedia views up 158% over the prior month"
    ]
   },
   {
@@ -36,8 +36,8 @@
    "performer": "Kanan Gill",
    "wikipedia": {
     "title": "Kanan Gill",
-    "views_30d": 6288,
-    "views_prior_30d": 6218,
+    "views_30d": 6300,
+    "views_prior_30d": 6254,
     "change": 1
    },
    "reddit": null,
@@ -58,8 +58,8 @@
    "performer": "Kanan Gill",
    "wikipedia": {
     "title": "Kanan Gill",
-    "views_30d": 6288,
-    "views_prior_30d": 6218,
+    "views_30d": 6300,
+    "views_prior_30d": 6254,
     "change": 1
    },
    "reddit": null,
@@ -80,31 +80,14 @@
    "performer": "Joanne McNally",
    "wikipedia": {
     "title": "Joanne McNally",
-    "views_30d": 45884,
-    "views_prior_30d": 25106,
-    "change": 83
+    "views_30d": 45292,
+    "views_prior_30d": 26707,
+    "change": 70
    },
    "reddit": null,
    "reasons": [
-    "Wikipedia: 1529 views a day",
-    "Wikipedia views up 83% over the prior month"
-   ]
-  },
-  {
-   "id": "mindy-raf-special-taping-littlefield-2026-09-27",
-   "title": "Mindy Raf - A (very) Nervous System Special Taping",
-   "venue": "Littlefield",
-   "date": "2026-09-27",
-   "heat": 25,
-   "demand": "going_fast",
-   "availability": "InStock",
-   "second_show": true,
-   "performer": null,
-   "wikipedia": null,
-   "reddit": null,
-   "reasons": [
-    "tickets available",
-    "a second show the same night at the same room"
+    "Wikipedia: 1510 views a day",
+    "Wikipedia views up 70% over the prior month"
    ]
   },
   {
@@ -136,14 +119,14 @@
    "performer": "Sam Tallent",
    "wikipedia": {
     "title": "Sam Tallent",
-    "views_30d": 10502,
-    "views_prior_30d": 2159,
-    "change": 386
+    "views_30d": 10781,
+    "views_prior_30d": 2172,
+    "change": 396
    },
    "reddit": null,
    "reasons": [
-    "Wikipedia: 350 views a day",
-    "Wikipedia views up 386% over the prior month"
+    "Wikipedia: 359 views a day",
+    "Wikipedia views up 396% over the prior month"
    ]
   },
   {
@@ -158,13 +141,13 @@
    "performer": "Marc Maron",
    "wikipedia": {
     "title": "Marc Maron",
-    "views_30d": 34254,
-    "views_prior_30d": 29548,
+    "views_30d": 34574,
+    "views_prior_30d": 29703,
     "change": 16
    },
    "reddit": null,
    "reasons": [
-    "Wikipedia: 1142 views a day"
+    "Wikipedia: 1152 views a day"
    ]
   },
   {
@@ -179,13 +162,13 @@
    "performer": "Mark Simmons",
    "wikipedia": {
     "title": "Mark Simmons (comedian)",
-    "views_30d": 1594,
+    "views_30d": 1640,
     "views_prior_30d": 1018,
-    "change": 57
+    "change": 61
    },
    "reddit": null,
    "reasons": [
-    "Wikipedia views up 57% over the prior month"
+    "Wikipedia views up 61% over the prior month"
    ]
   },
   {
@@ -200,13 +183,13 @@
    "performer": "Salma Hindy",
    "wikipedia": {
     "title": "Salma Hindy",
-    "views_30d": 3135,
-    "views_prior_30d": 1238,
-    "change": 153
+    "views_30d": 3395,
+    "views_prior_30d": 1214,
+    "change": 180
    },
    "reddit": null,
    "reasons": [
-    "Wikipedia views up 153% over the prior month"
+    "Wikipedia views up 180% over the prior month"
    ]
   },
   {
@@ -221,13 +204,13 @@
    "performer": "Michelle Buteau",
    "wikipedia": {
     "title": "Michelle Buteau",
-    "views_30d": 25741,
-    "views_prior_30d": 58184,
+    "views_30d": 25503,
+    "views_prior_30d": 57937,
     "change": -56
    },
    "reddit": null,
    "reasons": [
-    "Wikipedia: 858 views a day"
+    "Wikipedia: 850 views a day"
    ]
   },
   {
@@ -242,8 +225,8 @@
    "performer": "Asif Ali",
    "wikipedia": {
     "title": "Asif Ali (comedian)",
-    "views_30d": 7866,
-    "views_prior_30d": 6718,
+    "views_30d": 7853,
+    "views_prior_30d": 6729,
     "change": 17
    },
    "reddit": null,
@@ -263,13 +246,13 @@
    "performer": "Johnny Pemberton",
    "wikipedia": {
     "title": "Johnny Pemberton",
-    "views_30d": 23169,
-    "views_prior_30d": 18296,
-    "change": 27
+    "views_30d": 23220,
+    "views_prior_30d": 18436,
+    "change": 26
    },
    "reddit": null,
    "reasons": [
-    "Wikipedia: 772 views a day"
+    "Wikipedia: 774 views a day"
    ]
   },
   {
@@ -284,13 +267,13 @@
    "performer": "Michelle Buteau",
    "wikipedia": {
     "title": "Michelle Buteau",
-    "views_30d": 25741,
-    "views_prior_30d": 58184,
+    "views_30d": 25503,
+    "views_prior_30d": 57937,
     "change": -56
    },
    "reddit": null,
    "reasons": [
-    "Wikipedia: 858 views a day"
+    "Wikipedia: 850 views a day"
    ]
   },
   {
@@ -305,13 +288,13 @@
    "performer": "Kathy Griffin",
    "wikipedia": {
     "title": "Kathy Griffin",
-    "views_30d": 26894,
-    "views_prior_30d": 30248,
-    "change": -11
+    "views_30d": 26668,
+    "views_prior_30d": 30441,
+    "change": -12
    },
    "reddit": null,
    "reasons": [
-    "Wikipedia: 896 views a day"
+    "Wikipedia: 889 views a day"
    ]
   },
   {
@@ -326,13 +309,13 @@
    "performer": "Ilana Glazer",
    "wikipedia": {
     "title": "Ilana Glazer",
-    "views_30d": 29396,
-    "views_prior_30d": 30725,
-    "change": -4
+    "views_30d": 29379,
+    "views_prior_30d": 30894,
+    "change": -5
    },
    "reddit": null,
    "reasons": [
-    "Wikipedia: 980 views a day"
+    "Wikipedia: 979 views a day"
    ]
   },
   {
@@ -347,13 +330,13 @@
    "performer": "Daniel Sloss",
    "wikipedia": {
     "title": "Daniel Sloss",
-    "views_30d": 16459,
-    "views_prior_30d": 21772,
-    "change": -24
+    "views_30d": 16334,
+    "views_prior_30d": 22013,
+    "change": -26
    },
    "reddit": null,
    "reasons": [
-    "Wikipedia: 549 views a day"
+    "Wikipedia: 544 views a day"
    ]
   },
   {
@@ -368,13 +351,13 @@
    "performer": "Adam Ray",
    "wikipedia": {
     "title": "Adam Ray",
-    "views_30d": 15937,
-    "views_prior_30d": 21508,
-    "change": -26
+    "views_30d": 15674,
+    "views_prior_30d": 21736,
+    "change": -28
    },
    "reddit": null,
    "reasons": [
-    "Wikipedia: 531 views a day"
+    "Wikipedia: 522 views a day"
    ]
   },
   {
@@ -389,28 +372,14 @@
    "performer": "Jess Hilarious",
    "wikipedia": {
     "title": "Jess Hilarious",
-    "views_30d": 9943,
-    "views_prior_30d": 9973,
-    "change": 0
+    "views_30d": 9912,
+    "views_prior_30d": 9825,
+    "change": 1
    },
    "reddit": null,
    "reasons": [
-    "Wikipedia: 331 views a day"
+    "Wikipedia: 330 views a day"
    ]
-  },
-  {
-   "id": "kevin-sullivan-2026-09-27",
-   "title": "Kevin Sullivan",
-   "venue": "The Bell House",
-   "date": "2026-09-27",
-   "heat": 0,
-   "demand": null,
-   "availability": null,
-   "second_show": false,
-   "performer": "Kevin Sullivan",
-   "wikipedia": null,
-   "reddit": null,
-   "reasons": []
   },
   {
    "id": "the-moth-storyslam-2026-09-30",
@@ -438,9 +407,9 @@
    "performer": "Brendan Scannell",
    "wikipedia": {
     "title": "Brendan Scannell",
-    "views_30d": 1551,
-    "views_prior_30d": 1527,
-    "change": 2
+    "views_30d": 1557,
+    "views_prior_30d": 1536,
+    "change": 1
    },
    "reddit": null,
    "reasons": []
@@ -471,9 +440,9 @@
    "performer": "Phoebe Robinson",
    "wikipedia": {
     "title": "Phoebe Robinson",
-    "views_30d": 2927,
-    "views_prior_30d": 3388,
-    "change": -14
+    "views_30d": 2920,
+    "views_prior_30d": 3372,
+    "change": -13
    },
    "reddit": null,
    "reasons": []
@@ -560,9 +529,9 @@
    "performer": "Molly Kearney",
    "wikipedia": {
     "title": "Molly Kearney",
-    "views_30d": 5408,
-    "views_prior_30d": 5220,
-    "change": 4
+    "views_30d": 5768,
+    "views_prior_30d": 5179,
+    "change": 11
    },
    "reddit": null,
    "reasons": []
@@ -831,9 +800,9 @@
    "performer": "Sydnee Washington",
    "wikipedia": {
     "title": "Sydnee Washington",
-    "views_30d": 1929,
-    "views_prior_30d": 1651,
-    "change": 17
+    "views_30d": 1800,
+    "views_prior_30d": 1764,
+    "change": 2
    },
    "reddit": null,
    "reasons": []
@@ -937,20 +906,6 @@
    "reasons": []
   },
   {
-   "id": "john-oliver-seth-meyers-beacon-2026-09-27",
-   "title": "John Oliver & Seth Meyers",
-   "venue": "Beacon Theatre",
-   "date": "2026-09-27",
-   "heat": 0,
-   "demand": null,
-   "availability": null,
-   "second_show": false,
-   "performer": null,
-   "wikipedia": null,
-   "reddit": null,
-   "reasons": []
-  },
-  {
    "id": "yang-mengen-youngmoon-renegade-town-hall-2026-10-22",
    "title": "Yang Mengen (youngmoon): Stand Up Comedy Special — Renegade",
    "venue": "The Town Hall",
@@ -976,8 +931,8 @@
    "performer": "Difficult People",
    "wikipedia": {
     "title": "Difficult People",
-    "views_30d": 5154,
-    "views_prior_30d": 5998,
+    "views_30d": 5169,
+    "views_prior_30d": 5983,
     "change": -14
    },
    "reddit": null,
@@ -1163,9 +1118,9 @@
    "performer": "Josh Sharp",
    "wikipedia": {
     "title": "Josh Sharp",
-    "views_30d": 926,
-    "views_prior_30d": 1133,
-    "change": -18
+    "views_30d": 935,
+    "views_prior_30d": 1113,
+    "change": -16
    },
    "reddit": null,
    "reasons": []
@@ -1308,48 +1263,6 @@
    "availability": null,
    "second_show": false,
    "performer": null,
-   "wikipedia": null,
-   "reddit": null,
-   "reasons": []
-  },
-  {
-   "id": "rudy-rush-friends-comedy-in-harlem-2026-09-27",
-   "title": "Rudy Rush & Friends: Birthday Comedy Show",
-   "venue": "Comedy In Harlem",
-   "date": "2026-09-27",
-   "heat": 0,
-   "demand": null,
-   "availability": null,
-   "second_show": false,
-   "performer": null,
-   "wikipedia": null,
-   "reddit": null,
-   "reasons": []
-  },
-  {
-   "id": "matt-goldich-west-side-comedy-club-2026-09-27",
-   "title": "Matt Goldich with Ryan Beck, Ismael Loutfi & Vannessa Jackson",
-   "venue": "West Side Comedy Club",
-   "date": "2026-09-27",
-   "heat": 0,
-   "demand": null,
-   "availability": null,
-   "second_show": false,
-   "performer": null,
-   "wikipedia": null,
-   "reddit": null,
-   "reasons": []
-  },
-  {
-   "id": "faculty-lounge-eris-deep-space-2026-09-27",
-   "title": "Faculty Lounge",
-   "venue": "Eris Deep Space (Brooklyn Comedy Collective)",
-   "date": "2026-09-27",
-   "heat": 0,
-   "demand": null,
-   "availability": null,
-   "second_show": false,
-   "performer": "Faculty Lounge",
    "wikipedia": null,
    "reddit": null,
    "reasons": []
@@ -1537,6 +1450,22 @@
    "title": "JOKE MACHINE with Emmy Blotnick & Joe Zimmerman",
    "venue": "Union Hall",
    "date": "2026-09-30",
+   "heat": 0,
+   "demand": null,
+   "availability": "InStock",
+   "second_show": false,
+   "performer": null,
+   "wikipedia": null,
+   "reddit": null,
+   "reasons": [
+    "tickets available"
+   ]
+  },
+  {
+   "id": "vanessa-gonzalez-special-screening-caveat-2026-10-05",
+   "title": "Vanessa Gonzalez's Special Screening!",
+   "venue": "Caveat",
+   "date": "2026-10-05",
    "heat": 0,
    "demand": null,
    "availability": "InStock",

@@ -481,7 +481,7 @@
  },
  {
   "event_id": "kevin-sullivan-2026-09-27",
-  "src": "/assets/posters/kevin-sullivan-2026-09-27.jpg",
+  "src": "/assets/posters/archive/kevin-sullivan-2026-09-27.jpg",
   "width": 640,
   "height": 427,
   "source_url": "https://www.thebellhouseny.com/",
@@ -492,7 +492,8 @@
   "retrieved_at": "2026-09-14",
   "bytes": 37424,
   "sha256": "ef3dd21f8aa8c64ab587c438c39057cb11e065e8fc37d0eb795b18c07e2ecaf2",
-  "reuse_status": "Official promotional artwork from the show's public listing; no separate reuse license identified. Site display with credit only."
+  "reuse_status": "Official promotional artwork from the show's public listing; no separate reuse license identified. Site display with credit only.",
+  "archived": true
  },
  {
   "event_id": "leonard-ouzts-comedy-in-harlem-2026-09-18",
@@ -683,7 +684,7 @@
   "height": 427,
   "source_url": "https://www.ticketmaster.com/poly-diaz-en-espanol-brooklyn-new-york-10-09-2026/event/300064E804C8B732",
   "credit": "Artwork: The Bell House / show organizer",
-  "alt": "Poly D\u00edaz (En Espa\u00f1ol) promotional artwork.",
+  "alt": "Poly Díaz (En Español) promotional artwork.",
   "kind": "dated event flyer",
   "original_image_url": "https://s1.ticketm.net/dam/a/46b/b02509bd-4380-43c8-b78d-f269a917446b_RETINA_PORTRAIT_3_2.jpg",
   "retrieved_at": "2026-09-15",
@@ -1002,7 +1003,7 @@
  },
  {
   "event_id": "mindy-raf-special-taping-littlefield-2026-09-27",
-  "src": "/assets/posters/mindy-raf-special-taping-littlefield-2026-09-27.jpg",
+  "src": "/assets/posters/archive/mindy-raf-special-taping-littlefield-2026-09-27.jpg",
   "width": 940,
   "height": 470,
   "source_url": "https://www.eventbrite.com/e/mindy-raf-stand-up-special-taping-tickets-1991603608004",
@@ -1013,7 +1014,8 @@
   "bytes": 75149,
   "sha256": "0bd6f409fab916fd214112d7fc0b20da7d389ce9e4f46713ec00a27417be802e",
   "reuse_status": "Official promotional artwork from the show's Eventbrite listing; no separate reuse license identified. Site display with credit only.",
-  "original_image_url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1192312123%2F404652903161%2F1%2Foriginal.20260831-203620"
+  "original_image_url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1192312123%2F404652903161%2F1%2Foriginal.20260831-203620",
+  "archived": true
  },
  {
   "event_id": "sarah-silverman-streicker-2026-10-26",
@@ -1113,7 +1115,7 @@
   "height": 440,
   "source_url": "https://comicstriplive.com/elyse-delucci-well-this-is-humbling/",
   "credit": "Artwork: Comic Strip Live / show organizer",
-  "alt": "Elyse DeLucci \u2013 ONE NIGHT ONLY! promotional artwork.",
+  "alt": "Elyse DeLucci – ONE NIGHT ONLY! promotional artwork.",
   "kind": "dated event flyer",
   "original_image_url": "https://comicstriplive.com/wp-content/uploads/2026/09/FLYER_ComicStrip2026June18-1-e1789779169571-720x440.png",
   "retrieved_at": "2026-09-21",
