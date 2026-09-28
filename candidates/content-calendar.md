@@ -11,9 +11,9 @@ Six weeks ahead from the board. Regenerated on every build; edit the data, not t
 
 ## Research plan today
 
-Ranked 45; run 1, reuse 4, skip 40; ~396,000 tokens saved.
+Ranked 41; run 1, reuse 4, skip 36; ~360,000 tokens saved. No recent data: Nate Varrone.
 
-## Week 1: Sep 28 to Oct 4 — 21 picks — 6 without artwork · 29 Eventbrite leads not yet reviewed
+## Week 1: Sep 28 to Oct 4 — 21 picks — 6 without artwork · 32 Eventbrite leads not yet reviewed
 
 - Mon Sep 28 8pm — **The Peter Stewart Show!** at Comic Strip Live · going fast · heat 25
 - Tue Sep 29 7:30pm — **Michelle Buteau** at The Bell House
@@ -47,25 +47,29 @@ Ranked 45; run 1, reuse 4, skip 40; ~396,000 tokens saved.
   - Thu Oct 1 7pm — Good Work Live! at Caveat · from $24.41 · has artwork
   - Thu Oct 1 7:30pm — Slumber Party with Clare Donaher and Shelby Latterman at Union Hall · from $13.61 · has artwork
 
-## Week 2: Oct 5 to Oct 11 — 11 picks — 5 without artwork · 4 Eventbrite leads not yet reviewed
+## Week 2: Oct 5 to Oct 11 — 12 picks — 5 without artwork · 7 Eventbrite leads not yet reviewed
 
 - Mon Oct 5 7:30pm — **Hot Butter Train** at The Bell House
 - Mon Oct 5 9:30pm — **Vanessa Gonzalez's Special Screening!** at Caveat
 - Wed Oct 7 7:30pm — **Joe Mande Con Amici** at The Bell House
 - Wed Oct 7 8pm — **Laughs In The East** at Eastville Comedy Club · NO ARTWORK
+- Wed Oct 7 8pm (doors 7:30pm) — **Christian Finnegan, Paul Mecurio & Friends** at Comic Strip Live
 - Thu Oct 8 7:30pm — **Molly Kearney** at The Bell House
 - Thu Oct 8 8pm — **Lisa Wallen Headlines** at Eastville Comedy Club · NO ARTWORK
 - Fri Oct 9 6pm — **Brooklyn Power Hour** at Eastville Comedy Club · NO ARTWORK
 - Fri Oct 9 7:30pm — **Poly Díaz (En Español)** at The Bell House
 - Fri Oct 9 8pm · doors 7:30pm — **Magic City – A Night of Comedy** at The Fear City Comedy Club · NO ARTWORK
-- Sat Oct 10 6pm — **Maria Bamford: Live** at The Bell House · heat 35
+- Sat Oct 10 6pm — **Maria Bamford: Live** at The Bell House · heat 60
 - Sun Oct 11 6pm — **Wait, What's Sri Lanka? — Comedy Special Taping** at Eastville Comedy Club · NO ARTWORK
 
   Leads to review:
+  - Mon Oct 5 7pm — PhD&D: Trial show! at Caveat · from $13.61 · has artwork
   - Mon Oct 5 8pm — The Peter Stewart Show with Avi Liberman! at Comic Strip Live · from $25.71 · has artwork
   - Tue Oct 6 8pm — Jim Mendrinos, Jason Choi, Nick Tilleli, Nick Griffin, Sean Donnelly, more! at Comic Strip Live · from $25.71 · has artwork
   - Wed Oct 7 8pm — Great Job News: A NYC Launch Screening! at Littlefield · from $18.71 · has artwork
+  - Wed Oct 7 8pm — Christian Finnegan, Rolonda Watts, Feraz Shere, Paul Mecurio, Olga Namer! at Comic Strip Live · from $25.71 · has artwork
   - Wed Oct 7 11pm — The Late Night Comedy Show at Kellogg's Diner at Kellogg's Diner · from $5 · has artwork
+  - Thu Oct 8 8pm — The George Lucas Talk Show with Special Guests! at Littlefield · from $18.71 · has artwork
 
 ## Week 3: Oct 12 to Oct 18 — 14 picks — 6 without artwork
 
@@ -79,7 +83,7 @@ Ranked 45; run 1, reuse 4, skip 40; ~396,000 tokens saved.
 - Fri Oct 16 7pm — **Kathy Griffin: New Face, New Tour** at The Town Hall · NO ARTWORK
 - Fri Oct 16 7:30pm — **Blank Check Live** at The Bell House
 - Sat Oct 17 6pm — **My Cousin Vlad & Balkan Comedy Night** at Eastville Comedy Club · NO ARTWORK
-- Sat Oct 17 7:30pm — **Asif Ali Live!** at The Bell House
+- Sat Oct 17 7:30pm — **Asif Ali Live!** at The Bell House · heat 25
 - Sat Oct 17 10pm — **Headlining Alex Giampapa** at Eastville Comedy Club · NO ARTWORK
 - Sun Oct 18 7pm · doors 6pm — **Kendall Farrell: Standup Comedy Special Taping** at Littlefield
 - Sun Oct 18 7:30pm — **Johnny Pemberton** at The Bell House
@@ -117,8 +121,8 @@ Ranked 45; run 1, reuse 4, skip 40; ~396,000 tokens saved.
 
 - Mon Nov 2 7:30pm — **Sam Oh: The Unbearable Tightness of Being...Gay Virgin** at The Bell House
 - Tue Nov 3 7pm — **Difficult People: The Movie — A Live Table Read** at The Town Hall · NO ARTWORK
-- Wed Nov 4 8pm — **Salma Hindy: 10 Years of Stand-Up Comedy** at The Stand
-- Thu Nov 5 7:30pm — **Sam Tallent** at The Bell House · NO ARTWORK · heat 25
+- Wed Nov 4 8pm — **Salma Hindy: 10 Years of Stand-Up Comedy** at The Stand · heat 40
+- Thu Nov 5 7:30pm — **Sam Tallent** at The Bell House · NO ARTWORK · heat 31
 - Fri Nov 6 7pm — **Ziwe** at The Town Hall · NO ARTWORK
 - Fri Nov 6 7pm — **Adam Ray** at Gramercy Theatre · NO ARTWORK
 - Fri Nov 6 7pm — **Gayme Show! starring Matt Rogers and Dave Mizzoni** at BMCC Tribeca Performing Arts Center · NO ARTWORK
@@ -126,6 +130,6 @@ Ranked 45; run 1, reuse 4, skip 40; ~396,000 tokens saved.
 - Sat Nov 7 6pm — **Joanne McNally: Pinotphile** at The Town Hall · NO ARTWORK · heat 35
 - Sun Nov 8 4pm — **Josh Sharp: An Hour of Crowd Work in the Round** at The Bell House · NO ARTWORK
 - Sun Nov 8 7pm — **Sarah Sherman & Patti Harrison** at The Town Hall · NO ARTWORK
-- Sun Nov 8 7:30pm — **Marc Maron: Yammering Into the Void Tour** at Beacon Theatre · NO ARTWORK · heat 20
+- Sun Nov 8 7:30pm — **Marc Maron: Yammering Into the Void Tour** at Beacon Theatre · NO ARTWORK · heat 45
 - Sun Nov 8 7:30pm — **Rainbow Riot** at Brooklyn Comedy Collective · NO ARTWORK
 

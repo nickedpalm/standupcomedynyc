@@ -105,3 +105,20 @@ Generated from `npm run heat` + `npm run research-plan` (last30days for the one 
 
 ### Ranked on schedule alone (no recent data)
 - **Maria Bamford** (above). The plan pulled her in to fill the minimum-of-5-run floor after Salma Hindy / Marc Maron / Joanne McNally / Sam Tallent / Asif Ali all landed outside the 10-day window.
+
+## 2026-09-28
+- 41 performers ranked from static data.
+- Run 1 (Nate Varrone, Bell House Thu Oct 1 10pm), reuse 4 cached, skip 36
+- ~360,000 tokens saved from the research-plan
+
+### Run notes
+- **Nate Varrone** (Bell House Thu Oct 1 10pm): Reddit thin — one r/joytactics thread (Sep 3) namechecking the upcoming Bell House show, one Protomartyr music-video connection (Sep 6). HN returned the unrelated "Nate Soares ASI risk debate" video; filtered out as false positive. No recent data on the comedian himself — treat as ranked-on-schedule-alone; Bell House Thu Oct 1 10pm stands on his prior room rep, not on current buzz.
+
+### Reuse notes (already cached under 7d)
+- **Maria Bamford**: cached 2d ago — Bell House Oct 10. Three Reddit threads in 30 days, none in the last week; HN all false-positive prefix-matches.
+- **Kanan Gill**: cached 3d ago — Town Hall Oct 3 matinee + evening. Reddit rate-limited; HN one filtered false-positive; zero usable items.
+- **Michelle Buteau**: cached 7d ago — Bell House Sep 29 + Oct 19. Only 3 Reddit threads in 30 days; r/FemaleStandupComedy's A Lot of Scalp clip the only stand-up-adjacent one.
+- **Brendan Scannell**: cached 7d ago — Bell House Oct 1 The Abyss. Almost nothing; HN hit was a different Brendan (O'Donoghue); zero Reddit threads about the comedian.
+
+### Ranked on schedule alone (no recent data)
+- **Nate Varrone** (above).

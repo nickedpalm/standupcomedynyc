@@ -1,22 +1,14 @@
 {
- "generated_at": "2026-09-26T11:08:41.873Z",
- "performers_considered": 45,
+ "generated_at": "2026-09-28T11:04:58.203Z",
+ "performers_considered": 41,
  "shortlist": [
   {
    "name": "Maria Bamford",
-   "priority": 56
-  },
-  {
-   "name": "Beth Stelling",
-   "priority": 50
+   "priority": 65
   },
   {
    "name": "Kanan Gill",
    "priority": 50
-  },
-  {
-   "name": "Kevin Sullivan",
-   "priority": 47
   },
   {
    "name": "Michelle Buteau",
@@ -28,7 +20,15 @@
   },
   {
    "name": "Marc Maron",
-   "priority": 41
+   "priority": 45
+  },
+  {
+   "name": "Brendan Scannell",
+   "priority": 35
+  },
+  {
+   "name": "Nate Varrone",
+   "priority": 35
   },
   {
    "name": "Joanne McNally",
@@ -45,34 +45,30 @@
  ],
  "run": [
   {
-   "name": "Maria Bamford",
-   "priority": 56,
+   "name": "Nate Varrone",
+   "priority": 35,
    "next": {
-    "id": "maria-bamford-2026-10-10",
-    "date": "2026-10-10",
+    "id": "nate-varrone-2026-10-01",
+    "date": "2026-10-01",
     "venue": "The Bell House",
-    "days": 14,
+    "days": 3,
     "featured": false,
     "poster": true,
     "demand": null
    },
-   "cheap_signals": [
-    "Wikipedia: 1864 views a day",
-    "Wikipedia views up 152% over the prior month",
-    "Reddit: 3 posts in 30 days, 53 upvotes (top: r/doughboys)"
-   ],
-   "reason": "filled to the minimum of 5"
+   "cheap_signals": [],
+   "reason": "show within 3 days and not yet decided"
   }
  ],
  "reuse": [
   {
-   "name": "Beth Stelling",
-   "priority": 50,
+   "name": "Maria Bamford",
+   "priority": 65,
    "cached": {
-    "at": "2026-09-25T11:04:38.712Z",
-    "age_days": 1,
+    "at": "2026-09-26T11:09:30.537Z",
+    "age_days": 2,
     "fresh": true,
-    "note": "Six Reddit threads in 30 days (749 upvotes, 35 comments); the r/StandUpComedy Trolls clip and the 'they don't like what's up here' bit are still circulating, and her open-mic-punch-up show 'Punch Room' has its own r/StandUpComedy thread (Sep 11). HN silent. Bell House Sep 26, day after the date — pick on the running clips; she's on her own headline run."
+    "note": "Three Reddit threads in 30 days, none in the last week: r/providence ticket-resale post for the Uptown show, r/Standup's 'Best Comedy Special?' thread, r/doughboys's Lev Ginsburg shoutout. HN returned nothing usable — every prefix-match was a false positive that filtered out. Pick stands on her existing fan base, not on current buzz; Bell House Oct 10."
    }
   },
   {
@@ -80,19 +76,9 @@
    "priority": 50,
    "cached": {
     "at": "2026-09-25T11:04:38.863Z",
-    "age_days": 1,
+    "age_days": 3,
     "fresh": true,
     "note": "Reddit rate-limited on this run; HN returned one false-positive prefix-match that filtered out. Zero usable items in 30 days — treat as ranked-on-schedule-alone, decide on the Town Hall matinee + evening double and his existing audience for the NYC stop on the Not This Again tour."
-   }
-  },
-  {
-   "name": "Kevin Sullivan",
-   "priority": 47,
-   "cached": {
-    "at": "2026-09-21T11:14:54.139Z",
-    "age_days": 5,
-    "fresh": true,
-    "note": "Five Reddit threads in 30 days but every one is about a different Kevin Sullivan — r/SCJerk's 'Where was Kevin Sullivan?' (41pts), two r/WCW / r/oldschoolwrestling threads about the wrestler, and an RHOC recap. HN's hit is Kevin Boone. No buzz on the Bell House Sep 27 date."
    }
   },
   {
@@ -100,9 +86,19 @@
    "priority": 45,
    "cached": {
     "at": "2026-09-21T11:08:34.917Z",
-    "age_days": 5,
+    "age_days": 7,
     "fresh": true,
     "note": "Only 3 Reddit threads in 30 days, mostly about her Spa Weekend role and outfits — r/FemaleStandupComedy's A Lot of Scalp clip (4pts) is the only stand-up-adjacent one; no HN chatter."
+   }
+  },
+  {
+   "name": "Brendan Scannell",
+   "priority": 35,
+   "cached": {
+    "at": "2026-09-21T11:15:58.627Z",
+    "age_days": 7,
+    "fresh": true,
+    "note": "Almost nothing — one HN story about a different Brendan (O'Donoghue, Google DeepMind), zero Reddit threads about the comedian. No recent data on the Bell House Oct 1 The Abyss date."
    }
   }
  ],
@@ -110,46 +106,31 @@
   {
    "name": "Salma Hindy",
    "priority": 45,
-   "reason": "next show in 39 days, outside the 10-day window"
+   "reason": "next show in 37 days, outside the 10-day window"
   },
   {
    "name": "Marc Maron",
-   "priority": 41,
-   "reason": "next show in 43 days, outside the 10-day window"
+   "priority": 45,
+   "reason": "next show in 41 days, outside the 10-day window"
   },
   {
    "name": "Joanne McNally",
    "priority": 35,
-   "reason": "next show in 42 days, outside the 10-day window"
+   "reason": "next show in 40 days, outside the 10-day window"
   },
   {
    "name": "Sam Tallent",
    "priority": 31,
-   "reason": "next show in 40 days, outside the 10-day window"
+   "reason": "next show in 38 days, outside the 10-day window"
   },
   {
    "name": "Asif Ali",
    "priority": 30,
-   "reason": "next show in 21 days, outside the 10-day window"
+   "reason": "next show in 19 days, outside the 10-day window"
   },
   {
    "name": "Daniel Sloss",
    "priority": 30,
-   "reason": "outside the top 10 by cheap ranking"
-  },
-  {
-   "name": "Faculty Lounge",
-   "priority": 30,
-   "reason": "outside the top 10 by cheap ranking"
-  },
-  {
-   "name": "Brendan Scannell",
-   "priority": 20,
-   "reason": "outside the top 10 by cheap ranking"
-  },
-  {
-   "name": "Nate Varrone",
-   "priority": 20,
    "reason": "outside the top 10 by cheap ranking"
   },
   {
@@ -163,23 +144,23 @@
    "reason": "outside the top 10 by cheap ranking"
   },
   {
-   "name": "Picture This",
+   "name": "Molly Kearney",
    "priority": 20,
    "reason": "outside the top 10 by cheap ranking"
   },
   {
-   "name": "Drunk Planet Earth",
+   "name": "Good Work",
    "priority": 20,
    "reason": "outside the top 10 by cheap ranking"
   },
   {
-   "name": "Dancehall Forever",
+   "name": "Nick Mestad",
    "priority": 20,
    "reason": "outside the top 10 by cheap ranking"
   },
   {
-   "name": "Billy Wayne Davis",
-   "priority": 20,
+   "name": "Lisa Wallen Headlines",
+   "priority": 15,
    "reason": "outside the top 10 by cheap ranking"
   },
   {
@@ -198,7 +179,7 @@
    "reason": "outside the top 10 by cheap ranking"
   },
   {
-   "name": "Ilana Glazer",
+   "name": "Ruby Setnik",
    "priority": 10,
    "reason": "outside the top 10 by cheap ranking"
   },
@@ -208,32 +189,22 @@
    "reason": "outside the top 10 by cheap ranking"
   },
   {
+   "name": "Ilana Glazer",
+   "priority": 10,
+   "reason": "outside the top 10 by cheap ranking"
+  },
+  {
    "name": "Jess Hilarious",
    "priority": 10,
    "reason": "outside the top 10 by cheap ranking"
   },
   {
-   "name": "Ruby Setnik",
-   "priority": 10,
-   "reason": "outside the top 10 by cheap ranking"
-  },
-  {
-   "name": "Molly Kearney",
+   "name": "Kendall Farrell",
    "priority": 5,
    "reason": "outside the top 10 by cheap ranking"
   },
   {
    "name": "Sydnee Washington",
-   "priority": 5,
-   "reason": "outside the top 10 by cheap ranking"
-  },
-  {
-   "name": "Jordan Jensen",
-   "priority": 5,
-   "reason": "outside the top 10 by cheap ranking"
-  },
-  {
-   "name": "Kendall Farrell",
    "priority": 5,
    "reason": "outside the top 10 by cheap ranking"
   },
@@ -248,12 +219,7 @@
    "reason": "outside the top 10 by cheap ranking"
   },
   {
-   "name": "Good Work",
-   "priority": 5,
-   "reason": "outside the top 10 by cheap ranking"
-  },
-  {
-   "name": "Nick Mestad",
+   "name": "Jordan Jensen",
    "priority": 5,
    "reason": "outside the top 10 by cheap ranking"
   },
@@ -263,37 +229,22 @@
    "reason": "outside the top 10 by cheap ranking"
   },
   {
-   "name": "Lisa Wallen Headlines",
-   "priority": 0,
+   "name": "Hoodo Hersi",
+   "priority": 5,
+   "reason": "outside the top 10 by cheap ranking"
+  },
+  {
+   "name": "House Rules",
+   "priority": 5,
+   "reason": "outside the top 10 by cheap ranking"
+  },
+  {
+   "name": "Great Job News",
+   "priority": 5,
    "reason": "outside the top 10 by cheap ranking"
   },
   {
    "name": "Headlining Alex Giampapa",
-   "priority": 0,
-   "reason": "outside the top 10 by cheap ranking"
-  },
-  {
-   "name": "Difficult People",
-   "priority": 0,
-   "reason": "outside the top 10 by cheap ranking"
-  },
-  {
-   "name": "Mojo Brookzz",
-   "priority": 0,
-   "reason": "outside the top 10 by cheap ranking"
-  },
-  {
-   "name": "Dropout Improv",
-   "priority": 0,
-   "reason": "outside the top 10 by cheap ranking"
-  },
-  {
-   "name": "Rainbow Riot",
-   "priority": 0,
-   "reason": "outside the top 10 by cheap ranking"
-  },
-  {
-   "name": "Josh Sharp",
    "priority": 0,
    "reason": "outside the top 10 by cheap ranking"
   },
@@ -306,9 +257,36 @@
    "name": "Laughing Lassi",
    "priority": 0,
    "reason": "outside the top 10 by cheap ranking"
+  },
+  {
+   "name": "Difficult People",
+   "priority": 0,
+   "reason": "outside the top 10 by cheap ranking"
+  },
+  {
+   "name": "Josh Sharp",
+   "priority": 0,
+   "reason": "outside the top 10 by cheap ranking"
+  },
+  {
+   "name": "Rainbow Riot",
+   "priority": 0,
+   "reason": "outside the top 10 by cheap ranking"
+  },
+  {
+   "name": "Dropout Improv",
+   "priority": 0,
+   "reason": "outside the top 10 by cheap ranking"
+  },
+  {
+   "name": "Mojo Brookzz",
+   "priority": 0,
+   "reason": "outside the top 10 by cheap ranking"
   }
  ],
- "estimated_tokens_saved": 396000,
- "estimate_basis": "9000 tokens per last30days run, 44 runs avoided out of 45",
- "no_recent_data": []
+ "estimated_tokens_saved": 360000,
+ "estimate_basis": "9000 tokens per last30days run, 40 runs avoided out of 41",
+ "no_recent_data": [
+  "Nate Varrone"
+ ]
 }

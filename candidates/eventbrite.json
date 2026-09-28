@@ -1,5 +1,5 @@
 {
- "retrieved_at": "2026-09-27T11:01:54.621Z",
+ "retrieved_at": "2026-09-28T11:01:39.091Z",
  "note": "Leads from Eventbrite organizer pages of registered rooms. Open the event page before adding a pick; artwork needs a POSTER-SOURCES record.",
  "organizers": [
   {
@@ -36,139 +36,6 @@
   }
  ],
  "events": [
-  {
-   "venue": "Caveat",
-   "neighborhood": "Lower East Side",
-   "organizer": "https://www.eventbrite.com/o/caveat-13580085802",
-   "title": "On The Watchlist with Jay Servedio",
-   "date": "2026-09-27",
-   "time": "5pm",
-   "starts_at": "2026-09-27T17:00:00-04:00",
-   "ends_at": "2026-09-27T18:30:00-04:00",
-   "location_name": "Caveat",
-   "location_address": "21 A Clinton Street, New York, NY 10002, New York",
-   "price_from": 18.76,
-   "url": "https://www.eventbrite.com/e/on-the-watchlist-with-jay-servedio-tickets-1998537496451",
-   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1192363552%2F207096185123%2F1%2Foriginal.20260901-134211?w=940&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C1080%2C540&s=e6236c8c9ac621f656cacec0c740f191",
-   "description": "A funny and fearless live late-night show that dismantles the media in real time: One headline, scandal, and conspiracy at a time.",
-   "venue_name_matches": true,
-   "already_a_pick": false,
-   "seen_before": true
-  },
-  {
-   "venue": "Union Hall",
-   "neighborhood": "Park Slope",
-   "organizer": "https://www.eventbrite.com/o/union-hall-17899496497",
-   "title": "Billy Wayne Davis",
-   "date": "2026-09-27",
-   "time": "5pm",
-   "starts_at": "2026-09-27T17:00:00-04:00",
-   "ends_at": "2026-09-27T18:30:00-04:00",
-   "location_name": "Union Hall",
-   "location_address": "702 Union St., Brooklyn, NY 11215, Brooklyn",
-   "price_from": 15.92,
-   "url": "https://www.eventbrite.com/e/billy-wayne-davis-tickets-1992208450103",
-   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F962079723%2F282041210522%2F1%2Foriginal.20250217-014350?crop=focalpoint&fit=crop&w=940&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.00516098484848&fp-y=0.00490706319703&s=195b7c3276554275d14b5e5a95d2fd5e",
-   "description": "Billy Wayne Davis - Sunday, September 27 - 4:30pm Doors / 5:00pm Show",
-   "venue_name_matches": true,
-   "already_a_pick": false,
-   "seen_before": true
-  },
-  {
-   "venue": "Littlefield",
-   "neighborhood": "Gowanus",
-   "organizer": "https://www.eventbrite.com/o/littlefield-18046024060",
-   "title": "Mindy Raf - Stand up Special Taping",
-   "date": "2026-09-27",
-   "time": "6pm",
-   "starts_at": "2026-09-27T18:00:00-04:00",
-   "ends_at": "2026-09-27",
-   "location_name": "littlefield",
-   "location_address": "635 Sackett Street, Brooklyn, NY 11217, Brooklyn",
-   "price_from": 18.71,
-   "url": "https://www.eventbrite.com/e/mindy-raf-stand-up-special-taping-tickets-1991603608004",
-   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1192312123%2F404652903161%2F1%2Foriginal.20260831-203620?crop=focalpoint&fit=crop&w=940&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=0da07b1381e0ef0a6f4a075d14bc57b5",
-   "description": "Be a part of a very special stand up comedy taping. Like Fire Creative presents: Mindy Raf’s A (very) Nervous System",
-   "venue_name_matches": true,
-   "already_a_pick": true,
-   "seen_before": true
-  },
-  {
-   "venue": "Caveat",
-   "neighborhood": "Lower East Side",
-   "organizer": "https://www.eventbrite.com/o/caveat-13580085802",
-   "title": "Comedians Interview Experts: Psychology and spirituality with Padma Lakshmi and Lisa Miller",
-   "date": "2026-09-27",
-   "time": "7:30pm",
-   "starts_at": "2026-09-27T19:30:00-04:00",
-   "ends_at": "2026-09-27T21:30:00-04:00",
-   "location_name": "Caveat",
-   "location_address": "21 A Clinton Street, New York, NY 10002, New York",
-   "price_from": 24.41,
-   "url": "https://www.eventbrite.com/e/comedians-interview-experts-psychology-and-spirituality-with-padma-lakshmi-and-lisa-miller-tickets-1996803084779",
-   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1191623345%2F207096185123%2F1%2Foriginal.20260821-201809?w=940&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C1920%2C960&s=ebe4362ab8ac75341ee7770a75ec66c8",
-   "description": "Don't miss your favorite comedians interviewing experts on topics they've always wanted to ask someone about.",
-   "venue_name_matches": true,
-   "already_a_pick": false,
-   "seen_before": true
-  },
-  {
-   "venue": "Union Hall",
-   "neighborhood": "Park Slope",
-   "organizer": "https://www.eventbrite.com/o/union-hall-17899496497",
-   "title": "Caroline and Jack present \"The Show\"",
-   "date": "2026-09-27",
-   "time": "7:30pm",
-   "starts_at": "2026-09-27T19:30:00-04:00",
-   "ends_at": "2026-09-27T21:00:00-04:00",
-   "location_name": "Union Hall",
-   "location_address": "702 Union St., Brooklyn, NY 11215, Brooklyn",
-   "price_from": 25.69,
-   "url": "https://www.eventbrite.com/e/caroline-and-jack-present-the-show-tickets-1996062181718",
-   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1190336660%2F282041210522%2F1%2Foriginal.20260805-005841?crop=focalpoint&fit=crop&w=940&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=e818c34acc70ba1939798b72b5a1a146",
-   "description": "Caroline and Jack present \"The Show\" - Sunday, September 27 - 7:00pm Doors / 7:30pm Show",
-   "venue_name_matches": true,
-   "already_a_pick": false,
-   "seen_before": true
-  },
-  {
-   "venue": "Comic Strip Live",
-   "neighborhood": "Upper East Side",
-   "organizer": "https://www.eventbrite.com/o/comic-strip-live-comedy-club-8100188167",
-   "title": "DF Sweedler, Michele Balan, Kyle Mara, Nick Tilleli, Aaron Milner, & more!",
-   "date": "2026-09-27",
-   "time": "8pm",
-   "starts_at": "2026-09-27T20:00:00-04:00",
-   "ends_at": "2026-09-27",
-   "location_name": "Comic Strip Live",
-   "location_address": "1568 2nd Ave, New York, NY 10028, New York",
-   "price_from": 25.71,
-   "url": "https://www.eventbrite.com/e/df-sweedler-michele-balan-kyle-mara-nick-tilleli-aaron-milner-more-tickets-1998677903412",
-   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1194244785%2F136153380524%2F1%2Foriginal.20260924-002848?crop=focalpoint&fit=crop&w=940&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=744e4e1f3cdb9f83f6b6b56c336f6697",
-   "description": "Be part of history, celebrating 50 years of Comedy at the World Comic Strip! Comedians from, HBO, The Tonight Show, SNL & More ~",
-   "venue_name_matches": true,
-   "already_a_pick": false,
-   "seen_before": true
-  },
-  {
-   "venue": "Littlefield",
-   "neighborhood": "Gowanus",
-   "organizer": "https://www.eventbrite.com/o/littlefield-18046024060",
-   "title": "Mindy Raf - Stand up Special Taping",
-   "date": "2026-09-27",
-   "time": "8:30pm",
-   "starts_at": "2026-09-27T20:30:00-04:00",
-   "ends_at": "2026-09-27",
-   "location_name": "littlefield",
-   "location_address": "635 Sackett Street, Brooklyn, NY 11217, Brooklyn",
-   "price_from": 18.71,
-   "url": "https://www.eventbrite.com/e/mindy-raf-stand-up-special-taping-tickets-1991605406383",
-   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1192313150%2F404652903161%2F1%2Foriginal.20260831-204912?crop=focalpoint&fit=crop&w=940&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=3e972d5a5d2e414c827f0144cf537ca7",
-   "description": "Be a part of a very special stand up comedy taping. Like Fire Creative presents: Mindy Raf’s A (very) Nervous System",
-   "venue_name_matches": true,
-   "already_a_pick": false,
-   "seen_before": true
-  },
   {
    "venue": "Union Hall",
    "neighborhood": "Park Slope",
@@ -338,7 +205,7 @@
    "description": "NYC’s Best Comics Take Over Kellogg’s Diner — Every Wednesday Night at 11PM!",
    "venue_name_matches": false,
    "already_a_pick": false,
-   "seen_before": false
+   "seen_before": true
   },
   {
    "venue": "Caveat",
@@ -490,7 +357,7 @@
    "description": "Whiplash - Friday, October 2 - 7:00pm Doors / 7:30pm Show",
    "venue_name_matches": true,
    "already_a_pick": false,
-   "seen_before": false
+   "seen_before": true
   },
   {
    "venue": "Comic Strip Live",
@@ -545,6 +412,25 @@
    "url": "https://www.eventbrite.com/e/lionel-leede-friends-tickets-1993886572412",
    "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1188804253%2F282041210522%2F1%2Foriginal.20260714-024332?crop=focalpoint&fit=crop&w=940&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=04253d07d89b7dcd16fd363096af2e2e",
    "description": "Lionel Leede & Friends - Friday, October 2 - 9:30pm Doors / 10:00pm Show",
+   "venue_name_matches": true,
+   "already_a_pick": false,
+   "seen_before": true
+  },
+  {
+   "venue": "Comic Strip Live",
+   "neighborhood": "Upper East Side",
+   "organizer": "https://www.eventbrite.com/o/comic-strip-live-comedy-club-8100188167",
+   "title": "DJ EM's Friday Night Late Show!",
+   "date": "2026-10-02",
+   "time": "10:30pm",
+   "starts_at": "2026-10-02T22:30:00-04:00",
+   "ends_at": "2026-10-02",
+   "location_name": "Comic Strip Live",
+   "location_address": "1568 2nd Ave, New York, NY 10028, New York",
+   "price_from": 25.71,
+   "url": "https://www.eventbrite.com/e/dj-ems-friday-night-late-show-tickets-2002396234039",
+   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1194474876%2F136153380524%2F1%2Foriginal.20260927-214007?crop=focalpoint&fit=crop&w=940&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.562&fp-y=0.014&s=a55c2a3a259f1f3967a366119026bb56",
+   "description": "Be part of history, celebrating 50 years of Comedy at the World Comic Strip! Comedians from, HBO, The Tonight Show, SNL & More ~",
    "venue_name_matches": true,
    "already_a_pick": false,
    "seen_before": false
@@ -626,6 +512,25 @@
    "seen_before": true
   },
   {
+   "venue": "Union Hall",
+   "neighborhood": "Park Slope",
+   "organizer": "https://www.eventbrite.com/o/union-hall-17899496497",
+   "title": "The Liva Experiment",
+   "date": "2026-10-03",
+   "time": "7:30pm",
+   "starts_at": "2026-10-03T19:30:00-04:00",
+   "ends_at": "2026-10-03T21:00:00-04:00",
+   "location_name": "Union Hall",
+   "location_address": "702 Union St., Brooklyn, NY 11215, Brooklyn",
+   "price_from": 13.61,
+   "url": "https://www.eventbrite.com/e/the-liva-experiment-tickets-1999289698307",
+   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1192299540%2F282041210522%2F1%2Foriginal.20260831-183745?crop=focalpoint&fit=crop&w=940&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=e11a9d6ea2d95d82202b9461f0d45f57",
+   "description": "The Liva Experiment - Saturday, October 3 - 7:00pm Doors / 7:30pm Show",
+   "venue_name_matches": true,
+   "already_a_pick": false,
+   "seen_before": false
+  },
+  {
    "venue": "Comic Strip Live",
    "neighborhood": "Upper East Side",
    "organizer": "https://www.eventbrite.com/o/comic-strip-live-comedy-club-8100188167",
@@ -661,7 +566,7 @@
    "description": "Dating meets comedy!",
    "venue_name_matches": true,
    "already_a_pick": false,
-   "seen_before": false
+   "seen_before": true
   },
   {
    "venue": "Littlefield",
@@ -681,6 +586,25 @@
    "venue_name_matches": false,
    "already_a_pick": false,
    "seen_before": true
+  },
+  {
+   "venue": "Union Hall",
+   "neighborhood": "Park Slope",
+   "organizer": "https://www.eventbrite.com/o/union-hall-17899496497",
+   "title": "Hoodo Hersi: Extraordinary Alien (a pretty funny comedy show)",
+   "date": "2026-10-03",
+   "time": "10pm",
+   "starts_at": "2026-10-03T22:00:00-04:00",
+   "ends_at": "2026-10-03T23:30:00-04:00",
+   "location_name": "Union Hall",
+   "location_address": "702 Union St., Brooklyn, NY 11215, Brooklyn",
+   "price_from": 25.69,
+   "url": "https://www.eventbrite.com/e/hoodo-hersi-extraordinary-alien-a-pretty-funny-comedy-show-tickets-1994750723110",
+   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1190514198%2F282041210522%2F1%2Foriginal.20260807-015542?crop=focalpoint&fit=crop&w=940&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=30604e07fc472a6c246d16b5b9864fa3",
+   "description": "Hoodo Hersi: Extraordinary Alien (a pretty funny comedy show) - Saturday, October 3 - 9:30pm Doors / 10:00pm Show",
+   "venue_name_matches": true,
+   "already_a_pick": false,
+   "seen_before": false
   },
   {
    "venue": "Comic Strip Live",
@@ -718,7 +642,7 @@
    "description": "Comedians compete in NYC's dumbest game show.",
    "venue_name_matches": true,
    "already_a_pick": false,
-   "seen_before": false
+   "seen_before": true
   },
   {
    "venue": "Littlefield",
@@ -743,7 +667,7 @@
    "venue": "Caveat",
    "neighborhood": "Lower East Side",
    "organizer": "https://www.eventbrite.com/o/caveat-13580085802",
-   "title": "Skipped History Presents: The Power Broker, Pt. 3",
+   "title": "The Power Broker Live, with Ben Tumin -  Part 3",
    "date": "2026-10-04",
    "time": "5pm",
    "starts_at": "2026-10-04T17:00:00-04:00",
@@ -751,7 +675,7 @@
    "location_name": "Caveat",
    "location_address": "21 A Clinton Street, New York, NY 10002, New York",
    "price_from": 24.41,
-   "url": "https://www.eventbrite.com/e/skipped-history-presents-the-power-broker-pt-3-tickets-1994609191786",
+   "url": "https://www.eventbrite.com/e/the-power-broker-live-with-ben-tumin-part-3-tickets-1994609191786",
    "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1189253078%2F207096185123%2F1%2Foriginal.20260720-204617?w=940&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2174%2C1087&s=19b47747f5e96cc9b44aba85101ce851",
    "description": "Satirist Ben Tumin explores Robert Moses' transformation of New York City",
    "venue_name_matches": true,
@@ -775,7 +699,7 @@
    "description": "Negin Farsad talks to Wyna Liu about puzzles and her game Connections",
    "venue_name_matches": true,
    "already_a_pick": false,
-   "seen_before": false
+   "seen_before": true
   },
   {
    "venue": "Littlefield",
@@ -813,6 +737,25 @@
    "description": "Be part of history, celebrating 50 years of Comedy at the World Comic Strip! Comedians from, HBO, The Tonight Show, SNL & More ~",
    "venue_name_matches": true,
    "already_a_pick": false,
+   "seen_before": true
+  },
+  {
+   "venue": "Caveat",
+   "neighborhood": "Lower East Side",
+   "organizer": "https://www.eventbrite.com/o/caveat-13580085802",
+   "title": "PhD&D: Trial show!",
+   "date": "2026-10-05",
+   "time": "7pm",
+   "starts_at": "2026-10-05T19:00:00-04:00",
+   "ends_at": "2026-10-05T20:30:00-04:00",
+   "location_name": "Caveat",
+   "location_address": "21 A Clinton Street, New York, NY 10002, New York",
+   "price_from": 13.61,
+   "url": "https://www.eventbrite.com/e/phdd-trial-show-tickets-2002094119406",
+   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1194135371%2F207096185123%2F1%2Foriginal.20260922-200233?w=940&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2000%2C1000&s=a2f112c66980a45f5d0c4919f5f1f97c",
+   "description": "Caveat plays D&D the only way we know how: WITH SCIENCE!",
+   "venue_name_matches": true,
+   "already_a_pick": false,
    "seen_before": false
   },
   {
@@ -832,6 +775,25 @@
    "description": "Be part of history, celebrating 50 years of Comedy at the World Comic Strip! Comedians from, HBO, The Tonight Show, SNL & More ~",
    "venue_name_matches": true,
    "already_a_pick": false,
+   "seen_before": true
+  },
+  {
+   "venue": "Caveat",
+   "neighborhood": "Lower East Side",
+   "organizer": "https://www.eventbrite.com/o/caveat-13580085802",
+   "title": "Vanessa Gonzalez’s Special Screening!",
+   "date": "2026-10-05",
+   "time": "9:30pm",
+   "starts_at": "2026-10-05T21:30:00-04:00",
+   "ends_at": "2026-10-05T23:00:00-04:00",
+   "location_name": "Caveat",
+   "location_address": "21 A Clinton Street, New York, NY 10002, New York",
+   "price_from": 18.76,
+   "url": "https://www.eventbrite.com/e/vanessa-gonzalezs-special-screening-tickets-2000295896874",
+   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1193085116%2F207096185123%2F1%2Foriginal.20260909-182613?w=940&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C3294%2C1647&s=395e0af3938c79198531f21f3048e878",
+   "description": "Come check out Vanessa Gonzalez’s first hour stand-up comedy special",
+   "venue_name_matches": true,
+   "already_a_pick": true,
    "seen_before": false
   },
   {
@@ -851,7 +813,7 @@
    "description": "Be part of history, celebrating 50 years of Comedy at the World Comic Strip! Comedians from, HBO, The Tonight Show, SNL & More ~",
    "venue_name_matches": true,
    "already_a_pick": false,
-   "seen_before": false
+   "seen_before": true
   },
   {
    "venue": "Littlefield",
@@ -868,6 +830,25 @@
    "url": "https://www.eventbrite.com/e/great-job-news-a-nyc-launch-screening-tickets-2001784183379",
    "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1193971932%2F404652903161%2F1%2Foriginal.20260920-230709?crop=focalpoint&fit=crop&w=940&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=b237d5fad25d4efc80c406fbb4d6f233",
    "description": "GREAT JOB NEWS debuts with a screening in NYC. Nat & Alex are cookin' up a new kind of news show. Come see it first.",
+   "venue_name_matches": true,
+   "already_a_pick": false,
+   "seen_before": true
+  },
+  {
+   "venue": "Comic Strip Live",
+   "neighborhood": "Upper East Side",
+   "organizer": "https://www.eventbrite.com/o/comic-strip-live-comedy-club-8100188167",
+   "title": "Christian Finnegan, Rolonda Watts, Feraz Shere, Paul Mecurio, Olga Namer!",
+   "date": "2026-10-07",
+   "time": "8pm",
+   "starts_at": "2026-10-07T20:00:00-04:00",
+   "ends_at": "2026-10-07",
+   "location_name": "Comic Strip Live",
+   "location_address": "1568 2nd Ave, New York, NY 10028, New York",
+   "price_from": 25.71,
+   "url": "https://www.eventbrite.com/e/christian-finnegan-rolonda-watts-feraz-shere-paul-mecurio-olga-namer-tickets-2002247947510",
+   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1194330074%2F136153380524%2F1%2Foriginal.20260925-004120?crop=focalpoint&fit=crop&w=940&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.65&fp-y=0.295&s=b7bfe70648d2bdd6c99f5bf1fda215fa",
+   "description": "Be part of history, celebrating 50 years of Comedy at the World Comic Strip! Comedians from, HBO, The Tonight Show, SNL & More ~",
    "venue_name_matches": true,
    "already_a_pick": false,
    "seen_before": false
@@ -888,6 +869,25 @@
    "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1192096674%2F2660386777661%2F1%2Foriginal.20260828-052454?crop=focalpoint&fit=crop&w=940&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=aa018d61168e46d6d8b47857eb00996d",
    "description": "NYC’s Best Comics Take Over Kellogg’s Diner — Every Wednesday Night at 11PM!",
    "venue_name_matches": false,
+   "already_a_pick": false,
+   "seen_before": true
+  },
+  {
+   "venue": "Littlefield",
+   "neighborhood": "Gowanus",
+   "organizer": "https://www.eventbrite.com/o/littlefield-18046024060",
+   "title": "The George Lucas Talk Show with Special Guests!",
+   "date": "2026-10-08",
+   "time": "8pm",
+   "starts_at": "2026-10-08T20:00:00-04:00",
+   "ends_at": "2026-10-08",
+   "location_name": "littlefield",
+   "location_address": "635 Sackett Street, Brooklyn, NY 11217, Brooklyn",
+   "price_from": 18.71,
+   "url": "https://www.eventbrite.com/e/the-george-lucas-talk-show-with-special-guests-tickets-1999959468608",
+   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1192847590%2F404652903161%2F1%2Foriginal.20260907-005505?crop=focalpoint&fit=crop&w=940&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=0c35aeb483d0260172b1c1ef0e8d33d7",
+   "description": "Retired Filmmaker George Lucas hosts a talk show alongside his sidekick CGI flying junk shop owner Watto and producer Patrick Cotnoir.",
+   "venue_name_matches": true,
    "already_a_pick": false,
    "seen_before": false
   }

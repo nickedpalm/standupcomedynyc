@@ -1334,5 +1334,20 @@
   "bytes": 107587,
   "sha256": "aeaaa9abf8b1e43632085e282fca3f2f41eee584568eb8dcbc1e7b81c586b8c8",
   "reuse_status": "Official promotional artwork; no separate reuse license identified. Local review draft only."
+ },
+ {
+  "event_id": "christian-finnegan-comic-strip-2026-10-07",
+  "src": "/assets/posters/christian-finnegan-comic-strip-2026-10-07.jpg",
+  "width": 1880,
+  "height": 1423,
+  "source_url": "https://www.eventbrite.com/e/christian-finnegan-rolonda-watts-feraz-shere-paul-mecurio-olga-namer-tickets-2002247947510",
+  "credit": "Artwork: The Comic Strip Comedy Club / show organizer",
+  "alt": "Christian Finnegan, Paul Mecurio & Friends promotional artwork.",
+  "kind": "dated event flyer",
+  "original_image_url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1194330074%2F136153380524%2F1%2Foriginal.20260925-004120?crop=focalpoint&fit=crop&w=1880&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.65&fp-y=0.295&s=413f8d92d9b3466782e47a256bcd7de7",
+  "retrieved_at": "2026-09-28",
+  "bytes": 189177,
+  "sha256": "003e597a06ade646c25106fd4e3317db6b048d75e2bf24257013e2e5be70bced",
+  "reuse_status": "Official promotional artwork; no separate reuse license identified. Local review draft only."
  }
 ]
