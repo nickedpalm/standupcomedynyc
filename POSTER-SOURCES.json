@@ -1095,7 +1095,7 @@
  },
  {
   "event_id": "the-peter-stewart-show-comic-strip-2026-09-28",
-  "src": "/assets/posters/the-peter-stewart-show-comic-strip-2026-09-28.jpg",
+  "src": "/assets/posters/archive/the-peter-stewart-show-comic-strip-2026-09-28.jpg",
   "width": 720,
   "height": 440,
   "source_url": "https://comicstriplive.com/upcoming-event-41/",
@@ -1106,7 +1106,8 @@
   "retrieved_at": "2026-09-21",
   "bytes": 46249,
   "sha256": "f9bf047bd801a25ccf33f53724df04541f233cd23ab481720e9fc1904e03b2e2",
-  "reuse_status": "Official promotional artwork; no separate reuse license identified. Local review draft only."
+  "reuse_status": "Official promotional artwork; no separate reuse license identified. Local review draft only.",
+  "archived": true
  },
  {
   "event_id": "elyse-delucci-one-night-only-comic-strip-2026-10-01",
