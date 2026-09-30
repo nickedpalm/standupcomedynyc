@@ -1,4 +1,4 @@
-# Content calendar — generated 2026-09-29
+# Content calendar — generated 2026-09-30
 
 Six weeks ahead from the board. Regenerated on every build; edit the data, not this file.
 
@@ -13,17 +13,13 @@ Six weeks ahead from the board. Regenerated on every build; edit the data, not t
 
 Ranked 41; run 1, reuse 4, skip 36; ~360,000 tokens saved. No recent data: Nate Varrone.
 
-## Week 1: Sep 29 to Oct 5 — 22 picks — 6 without artwork · 32 Eventbrite leads not yet reviewed
+## Week 1: Sep 30 to Oct 6 — 18 picks — 6 without artwork · 32 Eventbrite leads not yet reviewed
 
-- Tue Sep 29 7:30pm — **Michelle Buteau** at The Bell House
-- Tue Sep 29 7:30pm — **Writers of Jimmy Kimmel Live!** at Union Hall
-- Tue Sep 29 8pm — **Sheba Mason, Cory Kahaney, Mike Yard, Meghan Hanley & Kyle Mara** at Comic Strip Live
-- Tue Sep 29 10pm — **Comedy Para Colombia** at Union Hall
 - Wed Sep 30 7:30pm (doors 7pm) — **JOKE MACHINE with Emmy Blotnick & Joe Zimmerman** at Union Hall
 - Wed Sep 30 8pm — **The Moth StorySLAM** at The Bell House
 - Wed Sep 30 8pm — **Laughs In The East** at Eastville Comedy Club · NO ARTWORK
 - Thu Oct 1 7:30pm — **Brendan Scannell: The Abyss** at The Bell House
-- Thu Oct 1 8pm — **Elyse DeLucci – ONE NIGHT ONLY!** at Comic Strip Live
+- Thu Oct 1 8pm — **Elyse DeLucci – ONE NIGHT ONLY!** at Comic Strip Live · SOLD OUT · heat 100
 - Thu Oct 1 10pm — **Nate Varrone** at The Bell House
 - Fri Oct 2 7:30pm — **Phoebe Robinson: Feral & Fired Up!** at The Bell House
 - Fri Oct 2 8pm · doors 7:30pm — **Pure Chaos Comedy Presents: Best of Kansas City** at The Fear City Comedy Club · NO ARTWORK
@@ -39,7 +35,6 @@ Ranked 41; run 1, reuse 4, skip 36; ~360,000 tokens saved. No recent data: Nate 
 - Mon Oct 5 9:30pm — **Vanessa Gonzalez's Special Screening!** at Caveat
 
   Leads to review:
-  - Tue Sep 29 8pm — Sheba Mason, Kyle Mara, Meghan Hanley, Cory Kahaney, Mike Yard, & more! at Comic Strip Live · from $25.71 · has artwork
   - Wed Sep 30 8pm — KING MEI MEI - debut live show / Charlene Kaye's 40th birthday party! at Littlefield · from $18.71 · has artwork
   - Wed Sep 30 8pm — Tobin Miller, Elyse Delucci, Jason Salmon, Harrison Greenbaum, & more! at Comic Strip Live · from $25.71 · has artwork
   - Wed Sep 30 11pm — The Late Night Comedy Show at Kellogg's Diner at Kellogg's Diner · from $5 · has artwork
@@ -47,8 +42,9 @@ Ranked 41; run 1, reuse 4, skip 36; ~360,000 tokens saved. No recent data: Nate 
   - Thu Oct 1 7:30pm — Slumber Party with Clare Donaher and Shelby Latterman at Union Hall · from $13.61 · has artwork
   - Thu Oct 1 8pm — The Elyse DeLucci Show! at Comic Strip Live · from $25.71 · has artwork
   - Thu Oct 1 9:30pm — Moms Against Sketch Comedy at Caveat · from $15.67 · has artwork
+  - Thu Oct 1 10pm — Nick Mestad: Body Of Work at Union Hall · from $13.61 · has artwork
 
-## Week 2: Oct 6 to Oct 12 — 11 picks — 5 without artwork · 5 Eventbrite leads not yet reviewed
+## Week 2: Oct 7 to Oct 13 — 11 picks — 5 without artwork · 4 Eventbrite leads not yet reviewed
 
 - Wed Oct 7 7:30pm — **Joe Mande Con Amici** at The Bell House
 - Wed Oct 7 8pm — **Laughs In The East** at Eastville Comedy Club · NO ARTWORK
@@ -63,13 +59,12 @@ Ranked 41; run 1, reuse 4, skip 36; ~360,000 tokens saved. No recent data: Nate 
 - Mon Oct 12 7:30pm — **The Bechdel Cast 10 Year Anniversary Tour** at The Bell House
 
   Leads to review:
-  - Tue Oct 6 8pm — Jim Mendrinos, Jason Choi, Nick Tilleli, Nick Griffin, Sean Donnelly, more! at Comic Strip Live · from $25.71 · has artwork
   - Wed Oct 7 8pm — Great Job News: A NYC Launch Screening! at Littlefield · from $18.71 · has artwork
   - Wed Oct 7 8pm — Christian Finnegan, Rolonda Watts, Feraz Shere, Paul Mecurio, Olga Namer! at Comic Strip Live · from $25.71 · has artwork
   - Wed Oct 7 11pm — The Late Night Comedy Show at Kellogg's Diner at Kellogg's Diner · from $5 · has artwork
   - Thu Oct 8 8pm — The George Lucas Talk Show with Special Guests! at Littlefield · from $18.71 · has artwork
 
-## Week 3: Oct 13 to Oct 19 — 14 picks — 6 without artwork
+## Week 3: Oct 14 to Oct 20 — 15 picks — 6 without artwork
 
 - Wed Oct 14 7pm — **The Next Elton and Friends** at West Side Comedy Club · NO ARTWORK
 - Wed Oct 14 7:30pm — **Josh & Aaron Do Improv (Feat. Hayden Johnson)** at The Bell House
@@ -85,10 +80,10 @@ Ranked 41; run 1, reuse 4, skip 36; ~360,000 tokens saved. No recent data: Nate 
 - Sun Oct 18 7pm · doors 6pm — **Kendall Farrell: Standup Comedy Special Taping** at Littlefield
 - Sun Oct 18 7:30pm — **Johnny Pemberton** at The Bell House
 - Mon Oct 19 7:30pm — **Michelle Buteau** at The Bell House
-
-## Week 4: Oct 20 to Oct 26 — 13 picks — 9 without artwork
-
 - Tue Oct 20 7:30pm — **A Benefit for Little Essentials with David Cross & Friends** at The Bell House
+
+## Week 4: Oct 21 to Oct 27 — 14 picks — 10 without artwork
+
 - Wed Oct 21 7:30pm — **Brett Goldstein Runs His Hour Before His Tour** at The Bell House
 - Wed Oct 21 8pm — **Laughs In The East** at Eastville Comedy Club · NO ARTWORK
 - Wed Oct 21 8pm — **Jaime Ferraro en New York** at West Side Comedy Club · NO ARTWORK
@@ -101,11 +96,11 @@ Ranked 41; run 1, reuse 4, skip 36; ~360,000 tokens saved. No recent data: Nate 
 - Sun Oct 25 7pm — **ROBYN & "FRIENDS" Comedy Show** at West Side Comedy Club · NO ARTWORK
 - Sun Oct 25 7:30pm — **Sunday Night Comedy** at Eastville Comedy Club · NO ARTWORK
 - Mon Oct 26 7pm — **An Evening with Sarah Silverman: Finding Jewish Joy** at Temple Emanu-El Streicker Center
-
-## Week 5: Oct 27 to Nov 2 — 10 picks — 5 without artwork
-
 - Tue Oct 27 7pm · 60 minutes — **Mark Simmons: Jest to Impress** at SoHo Playhouse · NO ARTWORK
 - Tue Oct 27 7:30pm — **Ruby Setnik** at The Bell House
+
+## Week 5: Oct 28 to Nov 3 — 9 picks — 5 without artwork
+
 - Wed Oct 28 7:30pm — **Clean Up Your Act** at West Side Comedy Club
 - Thu Oct 29 8pm · doors 7pm — **Boo-Ha-Ha Comedy Show** at Comedy In Harlem · NO ARTWORK
 - Thu Oct 29 9pm — **Megan Botnick Headlines** at West Side Comedy Club · NO ARTWORK
@@ -114,10 +109,10 @@ Ranked 41; run 1, reuse 4, skip 36; ~360,000 tokens saved. No recent data: Nate 
 - Sat Oct 31 7:30pm · doors 6:30pm — **Scary Good Comedy with Brittany Carney** at Littlefield
 - Sun Nov 1 7:30pm — **Sunday Night Comedy** at Eastville Comedy Club · NO ARTWORK
 - Mon Nov 2 7:30pm — **Sam Oh: The Unbearable Tightness of Being...Gay Virgin** at The Bell House
-
-## Week 6: Nov 3 to Nov 9 — 13 picks — 12 without artwork
-
 - Tue Nov 3 7pm — **Difficult People: The Movie — A Live Table Read** at The Town Hall · NO ARTWORK
+
+## Week 6: Nov 4 to Nov 10 — 13 picks — 12 without artwork
+
 - Wed Nov 4 8pm — **Salma Hindy: 10 Years of Stand-Up Comedy** at The Stand
 - Thu Nov 5 7:30pm — **Sam Tallent** at The Bell House · NO ARTWORK · heat 25
 - Fri Nov 6 7pm — **Ziwe** at The Town Hall · NO ARTWORK
@@ -130,4 +125,5 @@ Ranked 41; run 1, reuse 4, skip 36; ~360,000 tokens saved. No recent data: Nate 
 - Sun Nov 8 7:30pm — **Marc Maron: Yammering Into the Void Tour** at Beacon Theatre · NO ARTWORK · heat 20
 - Sun Nov 8 7:30pm — **Rainbow Riot** at Brooklyn Comedy Collective · NO ARTWORK
 - Mon Nov 9 8pm — **Stand Up for Heroes (NYCF)** at David Geffen Hall (Lincoln Center) · NO ARTWORK
+- Tue Nov 10 10pm — **Eddie Pepitone Headlining Union Hall (night one)** at Union Hall · NO ARTWORK
 

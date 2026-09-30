@@ -529,7 +529,7 @@
  },
  {
   "event_id": "michelle-buteau-2026-09-29",
-  "src": "/assets/posters/michelle-buteau-2026-09-29.jpg",
+  "src": "/assets/posters/archive/michelle-buteau-2026-09-29.jpg",
   "width": 640,
   "height": 427,
   "source_url": "https://www.ticketmaster.com/michelle-buteau-brooklyn-new-york-09-29-2026/event/300064BACF768B6C",
@@ -540,7 +540,8 @@
   "retrieved_at": "2026-09-15",
   "bytes": 58667,
   "sha256": "65863f159e301ae7956ba80e5a0915e109a299244b5d3247f3e9bbab4ad4b95c",
-  "reuse_status": "Official promotional artwork from the show's Ticketmaster listing; no separate reuse license identified. Site display with credit only."
+  "reuse_status": "Official promotional artwork from the show's Ticketmaster listing; no separate reuse license identified. Site display with credit only.",
+  "archived": true
  },
  {
   "event_id": "the-moth-storyslam-2026-09-30",
@@ -1218,7 +1219,7 @@
  },
  {
   "event_id": "sheba-mason-cory-kahaney-comic-strip-2026-09-29",
-  "src": "/assets/posters/csl-sep29-2026.jpg",
+  "src": "/assets/posters/archive/csl-sep29-2026.jpg",
   "width": 720,
   "height": 440,
   "source_url": "https://comicstriplive.com/sheba-mason-cbs-kyle-mara-sirius-xm-meghan-hanley-dry-bar-comedy-cory-kahaney-last-comic-standing-mike-yard-the-nightly-show-jj-ramirez-latin-legend-of-comedy/",
@@ -1229,7 +1230,8 @@
   "retrieved_at": "2026-09-24",
   "bytes": 28599,
   "sha256": "03750ee0dbddbfb363658ae7f1d6441a8f33acbba9a31899364cfa35dbcaf95d",
-  "reuse_status": "Official promotional artwork; no separate reuse license identified. Local review draft only."
+  "reuse_status": "Official promotional artwork; no separate reuse license identified. Local review draft only.",
+  "archived": true
  },
  {
   "event_id": "sam-oh-gay-virgin-bell-house-2026-11-02",
@@ -1248,7 +1250,7 @@
  },
  {
   "event_id": "writers-of-jimmy-kimmel-live-union-hall-2026-09-29",
-  "src": "/assets/posters/writers-of-jimmy-kimmel-live-union-hall-2026-09-29.jpg",
+  "src": "/assets/posters/archive/writers-of-jimmy-kimmel-live-union-hall-2026-09-29.jpg",
   "width": 1880,
   "height": 940,
   "source_url": "https://www.eventbrite.com/e/writers-of-jimmy-kimmel-live-tickets-2001032676602",
@@ -1259,11 +1261,12 @@
   "retrieved_at": "2026-09-25",
   "bytes": 159182,
   "sha256": "8241daf6abfaa651cf94c14d963b55ae2fcd1d3f205ddb29c23d2b88c09e52de",
-  "reuse_status": "Official promotional artwork; no separate reuse license identified. Local review draft only."
+  "reuse_status": "Official promotional artwork; no separate reuse license identified. Local review draft only.",
+  "archived": true
  },
  {
   "event_id": "comedy-para-colombia-union-hall-2026-09-29",
-  "src": "/assets/posters/comedy-para-colombia-union-hall-2026-09-29.jpg",
+  "src": "/assets/posters/archive/comedy-para-colombia-union-hall-2026-09-29.jpg",
   "width": 1880,
   "height": 938,
   "source_url": "https://www.eventbrite.com/e/comedy-para-colombia-tickets-1999283988228",
@@ -1274,7 +1277,8 @@
   "retrieved_at": "2026-09-25",
   "bytes": 64954,
   "sha256": "312dc2b0bb19b1617eeefc32d6d25b1a1136daa29319b8713c9fa0d06d6d44c4",
-  "reuse_status": "Official promotional artwork; no separate reuse license identified. Local review draft only."
+  "reuse_status": "Official promotional artwork; no separate reuse license identified. Local review draft only.",
+  "archived": true
  },
  {
   "event_id": "if-youre-really-from-new-york-littlefield-2026-10-04",

@@ -1,7 +1,23 @@
 {
- "generated_at": "2026-09-29T09:31:39.799Z",
+ "generated_at": "2026-09-30T09:30:42.379Z",
  "note": "Demand signals for the editor. Only availability and second shows set the public demand tag.",
  "picks": [
+  {
+   "id": "elyse-delucci-one-night-only-comic-strip-2026-10-01",
+   "title": "Elyse DeLucci – ONE NIGHT ONLY!",
+   "venue": "Comic Strip Live",
+   "date": "2026-10-01",
+   "heat": 100,
+   "demand": "sold_out",
+   "availability": "SoldOut",
+   "second_show": false,
+   "performer": null,
+   "wikipedia": null,
+   "reddit": null,
+   "reasons": [
+    "sold out on the ticket page"
+   ]
+  },
   {
    "id": "kanan-gill-not-this-again-town-hall-2026-10-03-1600",
    "title": "Kanan Gill: Not This Again (Matinee)",
@@ -14,14 +30,14 @@
    "performer": "Kanan Gill",
    "wikipedia": {
     "title": "Kanan Gill",
-    "views_30d": 6281,
-    "views_prior_30d": 6235,
-    "change": 1
+    "views_30d": 6181,
+    "views_prior_30d": 6202,
+    "change": 0
    },
    "reddit": null,
    "reasons": [
     "a second show the same night at the same room",
-    "Wikipedia: 209 views a day"
+    "Wikipedia: 206 views a day"
    ]
   },
   {
@@ -36,14 +52,14 @@
    "performer": "Kanan Gill",
    "wikipedia": {
     "title": "Kanan Gill",
-    "views_30d": 6281,
-    "views_prior_30d": 6235,
-    "change": 1
+    "views_30d": 6181,
+    "views_prior_30d": 6202,
+    "change": 0
    },
    "reddit": null,
    "reasons": [
     "a second show the same night at the same room",
-    "Wikipedia: 209 views a day"
+    "Wikipedia: 206 views a day"
    ]
   },
   {
@@ -58,14 +74,14 @@
    "performer": "Maria Bamford",
    "wikipedia": {
     "title": "Maria Bamford",
-    "views_30d": 66964,
-    "views_prior_30d": 22962,
-    "change": 192
+    "views_30d": 73587,
+    "views_prior_30d": 23054,
+    "change": 219
    },
    "reddit": null,
    "reasons": [
-    "Wikipedia: 2232 views a day",
-    "Wikipedia views up 192% over the prior month"
+    "Wikipedia: 2453 views a day",
+    "Wikipedia views up 219% over the prior month"
    ]
   },
   {
@@ -80,14 +96,14 @@
    "performer": "Sam Tallent",
    "wikipedia": {
     "title": "Sam Tallent",
-    "views_30d": 11082,
-    "views_prior_30d": 2150,
-    "change": 415
+    "views_30d": 11244,
+    "views_prior_30d": 2164,
+    "change": 420
    },
    "reddit": null,
    "reasons": [
-    "Wikipedia: 369 views a day",
-    "Wikipedia views up 415% over the prior month"
+    "Wikipedia: 375 views a day",
+    "Wikipedia views up 420% over the prior month"
    ]
   },
   {
@@ -102,13 +118,13 @@
    "performer": "Joanne McNally",
    "wikipedia": {
     "title": "Joanne McNally",
-    "views_30d": 43215,
-    "views_prior_30d": 29003,
-    "change": 49
+    "views_30d": 42688,
+    "views_prior_30d": 30116,
+    "change": 42
    },
    "reddit": null,
    "reasons": [
-    "Wikipedia: 1441 views a day"
+    "Wikipedia: 1423 views a day"
    ]
   },
   {
@@ -123,34 +139,13 @@
    "performer": "Marc Maron",
    "wikipedia": {
     "title": "Marc Maron",
-    "views_30d": 34596,
-    "views_prior_30d": 29806,
-    "change": 16
+    "views_30d": 34452,
+    "views_prior_30d": 29950,
+    "change": 15
    },
    "reddit": null,
    "reasons": [
-    "Wikipedia: 1153 views a day"
-   ]
-  },
-  {
-   "id": "mark-simmons-jest-to-impress-soho-playhouse-2026-10-27",
-   "title": "Mark Simmons: Jest to Impress",
-   "venue": "SoHo Playhouse",
-   "date": "2026-10-27",
-   "heat": 15,
-   "demand": null,
-   "availability": null,
-   "second_show": false,
-   "performer": "Mark Simmons",
-   "wikipedia": {
-    "title": "Mark Simmons (comedian)",
-    "views_30d": 1626,
-    "views_prior_30d": 1040,
-    "change": 56
-   },
-   "reddit": null,
-   "reasons": [
-    "Wikipedia views up 56% over the prior month"
+    "Wikipedia: 1148 views a day"
    ]
   },
   {
@@ -165,34 +160,13 @@
    "performer": "Salma Hindy",
    "wikipedia": {
     "title": "Salma Hindy",
-    "views_30d": 3515,
+    "views_30d": 3555,
     "views_prior_30d": 1220,
-    "change": 188
+    "change": 191
    },
    "reddit": null,
    "reasons": [
-    "Wikipedia views up 188% over the prior month"
-   ]
-  },
-  {
-   "id": "michelle-buteau-2026-09-29",
-   "title": "Michelle Buteau",
-   "venue": "The Bell House",
-   "date": "2026-09-29",
-   "heat": 10,
-   "demand": null,
-   "availability": null,
-   "second_show": false,
-   "performer": "Michelle Buteau",
-   "wikipedia": {
-    "title": "Michelle Buteau",
-    "views_30d": 25065,
-    "views_prior_30d": 57750,
-    "change": -57
-   },
-   "reddit": null,
-   "reasons": [
-    "Wikipedia: 836 views a day"
+    "Wikipedia views up 191% over the prior month"
    ]
   },
   {
@@ -207,13 +181,13 @@
    "performer": "Molly Kearney",
    "wikipedia": {
     "title": "Molly Kearney",
-    "views_30d": 6026,
-    "views_prior_30d": 5098,
-    "change": 18
+    "views_30d": 6203,
+    "views_prior_30d": 5059,
+    "change": 23
    },
    "reddit": null,
    "reasons": [
-    "Wikipedia: 201 views a day"
+    "Wikipedia: 207 views a day"
    ]
   },
   {
@@ -228,13 +202,13 @@
    "performer": "Kathy Griffin",
    "wikipedia": {
     "title": "Kathy Griffin",
-    "views_30d": 27195,
-    "views_prior_30d": 30389,
+    "views_30d": 27101,
+    "views_prior_30d": 30386,
     "change": -11
    },
    "reddit": null,
    "reasons": [
-    "Wikipedia: 907 views a day"
+    "Wikipedia: 903 views a day"
    ]
   },
   {
@@ -249,13 +223,13 @@
    "performer": "Asif Ali",
    "wikipedia": {
     "title": "Asif Ali (comedian)",
-    "views_30d": 7820,
-    "views_prior_30d": 6751,
-    "change": 16
+    "views_30d": 7740,
+    "views_prior_30d": 6826,
+    "change": 13
    },
    "reddit": null,
    "reasons": [
-    "Wikipedia: 261 views a day"
+    "Wikipedia: 258 views a day"
    ]
   },
   {
@@ -270,13 +244,13 @@
    "performer": "Johnny Pemberton",
    "wikipedia": {
     "title": "Johnny Pemberton",
-    "views_30d": 23119,
-    "views_prior_30d": 18489,
-    "change": 25
+    "views_30d": 22979,
+    "views_prior_30d": 18595,
+    "change": 24
    },
    "reddit": null,
    "reasons": [
-    "Wikipedia: 771 views a day"
+    "Wikipedia: 766 views a day"
    ]
   },
   {
@@ -291,13 +265,13 @@
    "performer": "Michelle Buteau",
    "wikipedia": {
     "title": "Michelle Buteau",
-    "views_30d": 25065,
-    "views_prior_30d": 57750,
-    "change": -57
+    "views_30d": 24366,
+    "views_prior_30d": 57700,
+    "change": -58
    },
    "reddit": null,
    "reasons": [
-    "Wikipedia: 836 views a day"
+    "Wikipedia: 812 views a day"
    ]
   },
   {
@@ -312,13 +286,13 @@
    "performer": "Adam Ray",
    "wikipedia": {
     "title": "Adam Ray",
-    "views_30d": 15547,
-    "views_prior_30d": 21906,
-    "change": -29
+    "views_30d": 15355,
+    "views_prior_30d": 22070,
+    "change": -30
    },
    "reddit": null,
    "reasons": [
-    "Wikipedia: 518 views a day"
+    "Wikipedia: 512 views a day"
    ]
   },
   {
@@ -333,13 +307,13 @@
    "performer": "Ilana Glazer",
    "wikipedia": {
     "title": "Ilana Glazer",
-    "views_30d": 29532,
-    "views_prior_30d": 30794,
-    "change": -4
+    "views_30d": 29491,
+    "views_prior_30d": 30939,
+    "change": -5
    },
    "reddit": null,
    "reasons": [
-    "Wikipedia: 984 views a day"
+    "Wikipedia: 983 views a day"
    ]
   },
   {
@@ -354,13 +328,13 @@
    "performer": "Jess Hilarious",
    "wikipedia": {
     "title": "Jess Hilarious",
-    "views_30d": 9929,
-    "views_prior_30d": 9605,
-    "change": 3
+    "views_30d": 9906,
+    "views_prior_30d": 8839,
+    "change": 12
    },
    "reddit": null,
    "reasons": [
-    "Wikipedia: 331 views a day"
+    "Wikipedia: 330 views a day"
    ]
   },
   {
@@ -375,61 +349,13 @@
    "performer": "Daniel Sloss",
    "wikipedia": {
     "title": "Daniel Sloss",
-    "views_30d": 16678,
-    "views_prior_30d": 22131,
+    "views_30d": 16814,
+    "views_prior_30d": 22324,
     "change": -25
    },
    "reddit": null,
    "reasons": [
-    "Wikipedia: 556 views a day"
-   ]
-  },
-  {
-   "id": "writers-of-jimmy-kimmel-live-union-hall-2026-09-29",
-   "title": "Writers of Jimmy Kimmel Live!",
-   "venue": "Union Hall",
-   "date": "2026-09-29",
-   "heat": 0,
-   "demand": null,
-   "availability": "InStock",
-   "second_show": false,
-   "performer": null,
-   "wikipedia": null,
-   "reddit": null,
-   "reasons": [
-    "tickets available"
-   ]
-  },
-  {
-   "id": "sheba-mason-cory-kahaney-comic-strip-2026-09-29",
-   "title": "Sheba Mason, Cory Kahaney, Mike Yard, Meghan Hanley & Kyle Mara",
-   "venue": "Comic Strip Live",
-   "date": "2026-09-29",
-   "heat": 0,
-   "demand": null,
-   "availability": "InStock",
-   "second_show": false,
-   "performer": null,
-   "wikipedia": null,
-   "reddit": null,
-   "reasons": [
-    "tickets available"
-   ]
-  },
-  {
-   "id": "comedy-para-colombia-union-hall-2026-09-29",
-   "title": "Comedy Para Colombia",
-   "venue": "Union Hall",
-   "date": "2026-09-29",
-   "heat": 0,
-   "demand": null,
-   "availability": "InStock",
-   "second_show": false,
-   "performer": null,
-   "wikipedia": null,
-   "reddit": null,
-   "reasons": [
-    "tickets available"
+    "Wikipedia: 560 views a day"
    ]
   },
   {
@@ -488,28 +414,12 @@
    "performer": "Brendan Scannell",
    "wikipedia": {
     "title": "Brendan Scannell",
-    "views_30d": 1521,
-    "views_prior_30d": 1581,
-    "change": -4
+    "views_30d": 1499,
+    "views_prior_30d": 1642,
+    "change": -9
    },
    "reddit": null,
    "reasons": []
-  },
-  {
-   "id": "elyse-delucci-one-night-only-comic-strip-2026-10-01",
-   "title": "Elyse DeLucci – ONE NIGHT ONLY!",
-   "venue": "Comic Strip Live",
-   "date": "2026-10-01",
-   "heat": 0,
-   "demand": null,
-   "availability": "InStock",
-   "second_show": false,
-   "performer": null,
-   "wikipedia": null,
-   "reddit": null,
-   "reasons": [
-    "tickets available"
-   ]
   },
   {
    "id": "nate-varrone-2026-10-01",
@@ -537,9 +447,9 @@
    "performer": "Phoebe Robinson",
    "wikipedia": {
     "title": "Phoebe Robinson",
-    "views_30d": 2927,
-    "views_prior_30d": 3372,
-    "change": -13
+    "views_30d": 2882,
+    "views_prior_30d": 3395,
+    "change": -15
    },
    "reddit": null,
    "reasons": []
@@ -1066,9 +976,9 @@
    "performer": "Sydnee Washington",
    "wikipedia": {
     "title": "Sydnee Washington",
-    "views_30d": 1710,
-    "views_prior_30d": 1856,
-    "change": -8
+    "views_30d": 1656,
+    "views_prior_30d": 1894,
+    "change": -13
    },
    "reddit": null,
    "reasons": []
@@ -1126,6 +1036,25 @@
    "second_show": false,
    "performer": null,
    "wikipedia": null,
+   "reddit": null,
+   "reasons": []
+  },
+  {
+   "id": "mark-simmons-jest-to-impress-soho-playhouse-2026-10-27",
+   "title": "Mark Simmons: Jest to Impress",
+   "venue": "SoHo Playhouse",
+   "date": "2026-10-27",
+   "heat": 0,
+   "demand": null,
+   "availability": null,
+   "second_show": false,
+   "performer": "Mark Simmons",
+   "wikipedia": {
+    "title": "Mark Simmons (comedian)",
+    "views_30d": 1587,
+    "views_prior_30d": 1090,
+    "change": 46
+   },
    "reddit": null,
    "reasons": []
   },
@@ -1269,9 +1198,9 @@
    "performer": "Difficult People",
    "wikipedia": {
     "title": "Difficult People",
-    "views_30d": 5149,
-    "views_prior_30d": 5992,
-    "change": -14
+    "views_30d": 5112,
+    "views_prior_30d": 6032,
+    "change": -15
    },
    "reddit": null,
    "reasons": []
@@ -1330,9 +1259,9 @@
    "performer": "Josh Sharp",
    "wikipedia": {
     "title": "Josh Sharp",
-    "views_30d": 931,
-    "views_prior_30d": 1106,
-    "change": -16
+    "views_30d": 917,
+    "views_prior_30d": 1110,
+    "change": -17
    },
    "reddit": null,
    "reasons": []
