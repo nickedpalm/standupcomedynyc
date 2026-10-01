@@ -1,23 +1,7 @@
 {
- "generated_at": "2026-09-30T09:30:42.379Z",
+ "generated_at": "2026-10-01T09:32:39.277Z",
  "note": "Demand signals for the editor. Only availability and second shows set the public demand tag.",
  "picks": [
-  {
-   "id": "elyse-delucci-one-night-only-comic-strip-2026-10-01",
-   "title": "Elyse DeLucci – ONE NIGHT ONLY!",
-   "venue": "Comic Strip Live",
-   "date": "2026-10-01",
-   "heat": 100,
-   "demand": "sold_out",
-   "availability": "SoldOut",
-   "second_show": false,
-   "performer": null,
-   "wikipedia": null,
-   "reddit": null,
-   "reasons": [
-    "sold out on the ticket page"
-   ]
-  },
   {
    "id": "kanan-gill-not-this-again-town-hall-2026-10-03-1600",
    "title": "Kanan Gill: Not This Again (Matinee)",
@@ -30,14 +14,14 @@
    "performer": "Kanan Gill",
    "wikipedia": {
     "title": "Kanan Gill",
-    "views_30d": 6181,
-    "views_prior_30d": 6202,
-    "change": 0
+    "views_30d": 6122,
+    "views_prior_30d": 6180,
+    "change": -1
    },
    "reddit": null,
    "reasons": [
     "a second show the same night at the same room",
-    "Wikipedia: 206 views a day"
+    "Wikipedia: 204 views a day"
    ]
   },
   {
@@ -52,14 +36,14 @@
    "performer": "Kanan Gill",
    "wikipedia": {
     "title": "Kanan Gill",
-    "views_30d": 6181,
-    "views_prior_30d": 6202,
-    "change": 0
+    "views_30d": 6122,
+    "views_prior_30d": 6180,
+    "change": -1
    },
    "reddit": null,
    "reasons": [
     "a second show the same night at the same room",
-    "Wikipedia: 206 views a day"
+    "Wikipedia: 204 views a day"
    ]
   },
   {
@@ -74,36 +58,14 @@
    "performer": "Maria Bamford",
    "wikipedia": {
     "title": "Maria Bamford",
-    "views_30d": 73587,
-    "views_prior_30d": 23054,
-    "change": 219
+    "views_30d": 76256,
+    "views_prior_30d": 23329,
+    "change": 227
    },
    "reddit": null,
    "reasons": [
-    "Wikipedia: 2453 views a day",
-    "Wikipedia views up 219% over the prior month"
-   ]
-  },
-  {
-   "id": "sam-tallent-bell-house-2026-11-05",
-   "title": "Sam Tallent",
-   "venue": "The Bell House",
-   "date": "2026-11-05",
-   "heat": 25,
-   "demand": null,
-   "availability": null,
-   "second_show": false,
-   "performer": "Sam Tallent",
-   "wikipedia": {
-    "title": "Sam Tallent",
-    "views_30d": 11244,
-    "views_prior_30d": 2164,
-    "change": 420
-   },
-   "reddit": null,
-   "reasons": [
-    "Wikipedia: 375 views a day",
-    "Wikipedia views up 420% over the prior month"
+    "Wikipedia: 2542 views a day",
+    "Wikipedia views up 227% over the prior month"
    ]
   },
   {
@@ -118,13 +80,13 @@
    "performer": "Joanne McNally",
    "wikipedia": {
     "title": "Joanne McNally",
-    "views_30d": 42688,
-    "views_prior_30d": 30116,
+    "views_30d": 43350,
+    "views_prior_30d": 30604,
     "change": 42
    },
    "reddit": null,
    "reasons": [
-    "Wikipedia: 1423 views a day"
+    "Wikipedia: 1445 views a day"
    ]
   },
   {
@@ -139,34 +101,13 @@
    "performer": "Marc Maron",
    "wikipedia": {
     "title": "Marc Maron",
-    "views_30d": 34452,
-    "views_prior_30d": 29950,
-    "change": 15
+    "views_30d": 34156,
+    "views_prior_30d": 30265,
+    "change": 13
    },
    "reddit": null,
    "reasons": [
-    "Wikipedia: 1148 views a day"
-   ]
-  },
-  {
-   "id": "salma-hindy-10-years-stand-2026-11-04",
-   "title": "Salma Hindy: 10 Years of Stand-Up Comedy",
-   "venue": "The Stand",
-   "date": "2026-11-04",
-   "heat": 15,
-   "demand": null,
-   "availability": null,
-   "second_show": false,
-   "performer": "Salma Hindy",
-   "wikipedia": {
-    "title": "Salma Hindy",
-    "views_30d": 3555,
-    "views_prior_30d": 1220,
-    "change": 191
-   },
-   "reddit": null,
-   "reasons": [
-    "Wikipedia views up 191% over the prior month"
+    "Wikipedia: 1139 views a day"
    ]
   },
   {
@@ -181,13 +122,13 @@
    "performer": "Molly Kearney",
    "wikipedia": {
     "title": "Molly Kearney",
-    "views_30d": 6203,
-    "views_prior_30d": 5059,
-    "change": 23
+    "views_30d": 6297,
+    "views_prior_30d": 5046,
+    "change": 25
    },
    "reddit": null,
    "reasons": [
-    "Wikipedia: 207 views a day"
+    "Wikipedia: 210 views a day"
    ]
   },
   {
@@ -202,13 +143,13 @@
    "performer": "Kathy Griffin",
    "wikipedia": {
     "title": "Kathy Griffin",
-    "views_30d": 27101,
-    "views_prior_30d": 30386,
-    "change": -11
+    "views_30d": 26477,
+    "views_prior_30d": 30679,
+    "change": -14
    },
    "reddit": null,
    "reasons": [
-    "Wikipedia: 903 views a day"
+    "Wikipedia: 883 views a day"
    ]
   },
   {
@@ -223,13 +164,13 @@
    "performer": "Asif Ali",
    "wikipedia": {
     "title": "Asif Ali (comedian)",
-    "views_30d": 7740,
-    "views_prior_30d": 6826,
-    "change": 13
+    "views_30d": 7618,
+    "views_prior_30d": 6989,
+    "change": 9
    },
    "reddit": null,
    "reasons": [
-    "Wikipedia: 258 views a day"
+    "Wikipedia: 254 views a day"
    ]
   },
   {
@@ -244,13 +185,13 @@
    "performer": "Johnny Pemberton",
    "wikipedia": {
     "title": "Johnny Pemberton",
-    "views_30d": 22979,
-    "views_prior_30d": 18595,
-    "change": 24
+    "views_30d": 22529,
+    "views_prior_30d": 19002,
+    "change": 19
    },
    "reddit": null,
    "reasons": [
-    "Wikipedia: 766 views a day"
+    "Wikipedia: 751 views a day"
    ]
   },
   {
@@ -265,13 +206,13 @@
    "performer": "Michelle Buteau",
    "wikipedia": {
     "title": "Michelle Buteau",
-    "views_30d": 24366,
-    "views_prior_30d": 57700,
-    "change": -58
+    "views_30d": 23538,
+    "views_prior_30d": 57645,
+    "change": -59
    },
    "reddit": null,
    "reasons": [
-    "Wikipedia: 812 views a day"
+    "Wikipedia: 785 views a day"
    ]
   },
   {
@@ -286,13 +227,13 @@
    "performer": "Adam Ray",
    "wikipedia": {
     "title": "Adam Ray",
-    "views_30d": 15355,
-    "views_prior_30d": 22070,
-    "change": -30
+    "views_30d": 15034,
+    "views_prior_30d": 22232,
+    "change": -32
    },
    "reddit": null,
    "reasons": [
-    "Wikipedia: 512 views a day"
+    "Wikipedia: 501 views a day"
    ]
   },
   {
@@ -307,13 +248,13 @@
    "performer": "Ilana Glazer",
    "wikipedia": {
     "title": "Ilana Glazer",
-    "views_30d": 29491,
-    "views_prior_30d": 30939,
-    "change": -5
+    "views_30d": 29547,
+    "views_prior_30d": 30910,
+    "change": -4
    },
    "reddit": null,
    "reasons": [
-    "Wikipedia: 983 views a day"
+    "Wikipedia: 985 views a day"
    ]
   },
   {
@@ -328,13 +269,13 @@
    "performer": "Jess Hilarious",
    "wikipedia": {
     "title": "Jess Hilarious",
-    "views_30d": 9906,
-    "views_prior_30d": 8839,
-    "change": 12
+    "views_30d": 9884,
+    "views_prior_30d": 8573,
+    "change": 15
    },
    "reddit": null,
    "reasons": [
-    "Wikipedia: 330 views a day"
+    "Wikipedia: 329 views a day"
    ]
   },
   {
@@ -349,58 +290,14 @@
    "performer": "Daniel Sloss",
    "wikipedia": {
     "title": "Daniel Sloss",
-    "views_30d": 16814,
-    "views_prior_30d": 22324,
-    "change": -25
+    "views_30d": 16894,
+    "views_prior_30d": 22105,
+    "change": -24
    },
    "reddit": null,
    "reasons": [
-    "Wikipedia: 560 views a day"
+    "Wikipedia: 563 views a day"
    ]
-  },
-  {
-   "id": "joke-machine-2026-09-30",
-   "title": "JOKE MACHINE with Emmy Blotnick & Joe Zimmerman",
-   "venue": "Union Hall",
-   "date": "2026-09-30",
-   "heat": 0,
-   "demand": null,
-   "availability": "InStock",
-   "second_show": false,
-   "performer": null,
-   "wikipedia": null,
-   "reddit": null,
-   "reasons": [
-    "tickets available"
-   ]
-  },
-  {
-   "id": "the-moth-storyslam-2026-09-30",
-   "title": "The Moth StorySLAM",
-   "venue": "The Bell House",
-   "date": "2026-09-30",
-   "heat": 0,
-   "demand": null,
-   "availability": null,
-   "second_show": false,
-   "performer": null,
-   "wikipedia": null,
-   "reddit": null,
-   "reasons": []
-  },
-  {
-   "id": "laughs-in-the-east-eastville-2026-09-30",
-   "title": "Laughs In The East",
-   "venue": "Eastville Comedy Club",
-   "date": "2026-09-30",
-   "heat": 0,
-   "demand": null,
-   "availability": null,
-   "second_show": false,
-   "performer": null,
-   "wikipedia": null,
-   "reddit": null,
-   "reasons": []
   },
   {
    "id": "brendan-scannell-abyss-2026-10-01",
@@ -414,12 +311,28 @@
    "performer": "Brendan Scannell",
    "wikipedia": {
     "title": "Brendan Scannell",
-    "views_30d": 1499,
-    "views_prior_30d": 1642,
-    "change": -9
+    "views_30d": 1488,
+    "views_prior_30d": 1663,
+    "change": -11
    },
    "reddit": null,
    "reasons": []
+  },
+  {
+   "id": "elyse-delucci-one-night-only-comic-strip-2026-10-01",
+   "title": "Elyse DeLucci – ONE NIGHT ONLY!",
+   "venue": "Comic Strip Live",
+   "date": "2026-10-01",
+   "heat": 0,
+   "demand": null,
+   "availability": "InStock",
+   "second_show": false,
+   "performer": null,
+   "wikipedia": null,
+   "reddit": null,
+   "reasons": [
+    "tickets available"
+   ]
   },
   {
    "id": "nate-varrone-2026-10-01",
@@ -447,9 +360,9 @@
    "performer": "Phoebe Robinson",
    "wikipedia": {
     "title": "Phoebe Robinson",
-    "views_30d": 2882,
-    "views_prior_30d": 3395,
-    "change": -15
+    "views_30d": 2848,
+    "views_prior_30d": 3387,
+    "change": -16
    },
    "reddit": null,
    "reasons": []
@@ -976,9 +889,9 @@
    "performer": "Sydnee Washington",
    "wikipedia": {
     "title": "Sydnee Washington",
-    "views_30d": 1656,
-    "views_prior_30d": 1894,
-    "change": -13
+    "views_30d": 1596,
+    "views_prior_30d": 1937,
+    "change": -18
    },
    "reddit": null,
    "reasons": []
@@ -1051,9 +964,9 @@
    "performer": "Mark Simmons",
    "wikipedia": {
     "title": "Mark Simmons (comedian)",
-    "views_30d": 1587,
-    "views_prior_30d": 1090,
-    "change": 46
+    "views_30d": 1590,
+    "views_prior_30d": 1099,
+    "change": 45
    },
    "reddit": null,
    "reasons": []
@@ -1198,10 +1111,38 @@
    "performer": "Difficult People",
    "wikipedia": {
     "title": "Difficult People",
-    "views_30d": 5112,
-    "views_prior_30d": 6032,
-    "change": -15
+    "views_30d": 5044,
+    "views_prior_30d": 6090,
+    "change": -17
    },
+   "reddit": null,
+   "reasons": []
+  },
+  {
+   "id": "salma-hindy-10-years-stand-2026-11-04",
+   "title": "Salma Hindy: 10 Years of Stand-Up Comedy",
+   "venue": "The Stand",
+   "date": "2026-11-04",
+   "heat": 0,
+   "demand": null,
+   "availability": null,
+   "second_show": false,
+   "performer": "Salma Hindy",
+   "wikipedia": null,
+   "reddit": null,
+   "reasons": []
+  },
+  {
+   "id": "sam-tallent-bell-house-2026-11-05",
+   "title": "Sam Tallent",
+   "venue": "The Bell House",
+   "date": "2026-11-05",
+   "heat": 0,
+   "demand": null,
+   "availability": null,
+   "second_show": false,
+   "performer": "Sam Tallent",
+   "wikipedia": null,
    "reddit": null,
    "reasons": []
   },
@@ -1259,9 +1200,9 @@
    "performer": "Josh Sharp",
    "wikipedia": {
     "title": "Josh Sharp",
-    "views_30d": 917,
-    "views_prior_30d": 1110,
-    "change": -17
+    "views_30d": 906,
+    "views_prior_30d": 1128,
+    "change": -20
    },
    "reddit": null,
    "reasons": []

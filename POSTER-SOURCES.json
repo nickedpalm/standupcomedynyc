@@ -545,7 +545,7 @@
  },
  {
   "event_id": "the-moth-storyslam-2026-09-30",
-  "src": "/assets/posters/the-moth-storyslam-2026-09-30.jpg",
+  "src": "/assets/posters/archive/the-moth-storyslam-2026-09-30.jpg",
   "width": 640,
   "height": 427,
   "source_url": "https://www.ticketmaster.com/the-moth-storyslam-brooklyn-new-york-09-30-2026/event/300064BBC792AB0E",
@@ -556,7 +556,8 @@
   "retrieved_at": "2026-09-15",
   "bytes": 41878,
   "sha256": "TBD",
-  "reuse_status": "Official promotional artwork from the show's Ticketmaster listing; no separate reuse license identified. Site display with credit only."
+  "reuse_status": "Official promotional artwork from the show's Ticketmaster listing; no separate reuse license identified. Site display with credit only.",
+  "archived": true
  },
  {
   "event_id": "brendan-scannell-abyss-2026-10-01",
@@ -1312,7 +1313,7 @@
  },
  {
   "event_id": "joke-machine-2026-09-30",
-  "src": "/assets/posters/joke-machine-2026-09-30.jpg",
+  "src": "/assets/posters/archive/joke-machine-2026-09-30.jpg",
   "width": 1880,
   "height": 940,
   "source_url": "https://www.eventbrite.com/e/joke-machine-with-emmy-blotnick-joe-zimmerman-tickets-1994881134173",
@@ -1323,7 +1324,8 @@
   "retrieved_at": "2026-09-26",
   "bytes": 165843,
   "sha256": "57eab33b2216354027e6e8a0e27301f5afa4dddff16a164965da594460580a95",
-  "reuse_status": "Official promotional artwork; no separate reuse license identified. Local review draft only."
+  "reuse_status": "Official promotional artwork; no separate reuse license identified. Local review draft only.",
+  "archived": true
  },
  {
   "event_id": "vanessa-gonzalez-special-screening-caveat-2026-10-05",
