@@ -81,8 +81,8 @@
    "source": "last30days"
   },
   "Kanan Gill": {
-   "at": "2026-09-25T11:04:38.863Z",
-   "note": "Reddit rate-limited on this run; HN returned one false-positive prefix-match that filtered out. Zero usable items in 30 days — treat as ranked-on-schedule-alone, decide on the Town Hall matinee + evening double and his existing audience for the NYC stop on the Not This Again tour.",
+   "at": "2026-10-02T11:10:51.007Z",
+   "note": "Two Reddit threads in 30 days, none in the last week: r/IndianStandUpComedy (28 pts, 82 cmt) and r/ebookdeals. HN returned nothing usable. Limited recent data; pick stands on the Town Hall matinee + evening double and his existing audience for the NYC stop on the Not This Again tour.",
    "source": "last30days"
   },
   "Maria Bamford": {
@@ -93,6 +93,21 @@
   "Nate Varrone": {
    "at": "2026-09-28T11:05:21.573Z",
    "note": "Reddit thin: one r/joytactics thread (Sep 3) namechecking the upcoming Bell House show, and one Protomartyr-music-video connection (Sep 6). HN returned the unrelated Nate Soares ASI-risk video. No recent data on the comedian himself — treat as ranked-on-schedule-alone; Bell House Thu Oct 1 10pm slot stands on his prior room rep, not on current buzz.",
+   "source": "last30days"
+  },
+  "Phoebe Robinson": {
+   "at": "2026-10-02T11:12:29.035Z",
+   "note": "Reddit: 1 thread in 30 days, in r/nycComedy. HN returned nothing. Bell House calendar lists the Oct 2 Feral & Fired Up show as SOLD OUT (the Live Nation mirror reads the same), so the pick stays on the board with the Sold out tag and doesn't go in the Tonight carousel.",
+   "source": "last30days"
+  },
+  "Hot Butter Train": {
+   "at": "2026-10-02T11:14:08.642Z",
+   "note": "Reddit: 1 thread in 30 days, 160 upvotes, 15 comments (r/astoria, a local pickup). HN: 1 story, 8 points. None of the items dated inside the last week. Pick stands on the Bell House lineup (Kurt Braunohler, Wyatt Cenac, Jo Firestone per Live Nation) and the show's reputation.",
+   "source": "last30days"
+  },
+  "Molly Kearney": {
+   "at": "2026-10-02T11:15:17.912Z",
+   "note": "Reddit: 1 thread in 30 days, 60 upvotes, 10 comments in r/LiveFromNewYork — a topical pickup, not buzz for the Bell House date. HN returned nothing usable. Pick stands on her SNL/Big Mouth voice work and the Bell House booking.",
    "source": "last30days"
   }
  }

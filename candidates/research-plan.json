@@ -1,18 +1,14 @@
 {
- "generated_at": "2026-09-28T11:04:58.203Z",
+ "generated_at": "2026-10-02T11:09:52.311Z",
  "performers_considered": 41,
  "shortlist": [
   {
    "name": "Maria Bamford",
-   "priority": 65
+   "priority": 80
   },
   {
    "name": "Kanan Gill",
-   "priority": 50
-  },
-  {
-   "name": "Michelle Buteau",
-   "priority": 45
+   "priority": 65
   },
   {
    "name": "Salma Hindy",
@@ -23,11 +19,11 @@
    "priority": 45
   },
   {
-   "name": "Brendan Scannell",
-   "priority": 35
+   "name": "Phoebe Robinson",
+   "priority": 40
   },
   {
-   "name": "Nate Varrone",
+   "name": "Hot Butter Train",
    "priority": 35
   },
   {
@@ -39,17 +35,56 @@
    "priority": 31
   },
   {
-   "name": "Asif Ali",
+   "name": "Molly Kearney",
+   "priority": 30
+  },
+  {
+   "name": "Daniel Sloss",
    "priority": 30
   }
  ],
  "run": [
   {
-   "name": "Nate Varrone",
+   "name": "Kanan Gill",
+   "priority": 65,
+   "next": {
+    "id": "kanan-gill-not-this-again-town-hall-2026-10-03-1600",
+    "date": "2026-10-03",
+    "venue": "The Town Hall",
+    "days": 1,
+    "featured": false,
+    "poster": false,
+    "demand": "going_fast"
+   },
+   "cheap_signals": [
+    "a second show the same night at the same room",
+    "Wikipedia: 202 views a day"
+   ],
+   "reason": "show within 3 days and not yet decided"
+  },
+  {
+   "name": "Phoebe Robinson",
+   "priority": 40,
+   "next": {
+    "id": "phoebe-robinson-2026-10-02",
+    "date": "2026-10-02",
+    "venue": "The Bell House",
+    "days": 0,
+    "featured": false,
+    "poster": true,
+    "demand": null
+   },
+   "cheap_signals": [
+    "Reddit: 1 post in 30 days, 0 upvotes (top: r/nycComedy)"
+   ],
+   "reason": "show within 3 days and not yet decided"
+  },
+  {
+   "name": "Hot Butter Train",
    "priority": 35,
    "next": {
-    "id": "nate-varrone-2026-10-01",
-    "date": "2026-10-01",
+    "id": "hot-butter-train-2026-10-05",
+    "date": "2026-10-05",
     "venue": "The Bell House",
     "days": 3,
     "featured": false,
@@ -58,47 +93,34 @@
    },
    "cheap_signals": [],
    "reason": "show within 3 days and not yet decided"
+  },
+  {
+   "name": "Molly Kearney",
+   "priority": 30,
+   "next": {
+    "id": "molly-kearney-2026-10-08",
+    "date": "2026-10-08",
+    "venue": "The Bell House",
+    "days": 6,
+    "featured": false,
+    "poster": true,
+    "demand": null
+   },
+   "cheap_signals": [
+    "Wikipedia: 212 views a day"
+   ],
+   "reason": "in the decision window and not yet decided"
   }
  ],
  "reuse": [
   {
    "name": "Maria Bamford",
-   "priority": 65,
+   "priority": 80,
    "cached": {
     "at": "2026-09-26T11:09:30.537Z",
-    "age_days": 2,
+    "age_days": 6,
     "fresh": true,
     "note": "Three Reddit threads in 30 days, none in the last week: r/providence ticket-resale post for the Uptown show, r/Standup's 'Best Comedy Special?' thread, r/doughboys's Lev Ginsburg shoutout. HN returned nothing usable — every prefix-match was a false positive that filtered out. Pick stands on her existing fan base, not on current buzz; Bell House Oct 10."
-   }
-  },
-  {
-   "name": "Kanan Gill",
-   "priority": 50,
-   "cached": {
-    "at": "2026-09-25T11:04:38.863Z",
-    "age_days": 3,
-    "fresh": true,
-    "note": "Reddit rate-limited on this run; HN returned one false-positive prefix-match that filtered out. Zero usable items in 30 days — treat as ranked-on-schedule-alone, decide on the Town Hall matinee + evening double and his existing audience for the NYC stop on the Not This Again tour."
-   }
-  },
-  {
-   "name": "Michelle Buteau",
-   "priority": 45,
-   "cached": {
-    "at": "2026-09-21T11:08:34.917Z",
-    "age_days": 7,
-    "fresh": true,
-    "note": "Only 3 Reddit threads in 30 days, mostly about her Spa Weekend role and outfits — r/FemaleStandupComedy's A Lot of Scalp clip (4pts) is the only stand-up-adjacent one; no HN chatter."
-   }
-  },
-  {
-   "name": "Brendan Scannell",
-   "priority": 35,
-   "cached": {
-    "at": "2026-09-21T11:15:58.627Z",
-    "age_days": 7,
-    "fresh": true,
-    "note": "Almost nothing — one HN story about a different Brendan (O'Donoghue, Google DeepMind), zero Reddit threads about the comedian. No recent data on the Bell House Oct 1 The Abyss date."
    }
   }
  ],
@@ -106,55 +128,50 @@
   {
    "name": "Salma Hindy",
    "priority": 45,
-   "reason": "next show in 37 days, outside the 10-day window"
+   "reason": "next show in 33 days, outside the 10-day window"
   },
   {
    "name": "Marc Maron",
    "priority": 45,
-   "reason": "next show in 41 days, outside the 10-day window"
+   "reason": "next show in 37 days, outside the 10-day window"
   },
   {
    "name": "Joanne McNally",
    "priority": 35,
-   "reason": "next show in 40 days, outside the 10-day window"
+   "reason": "next show in 36 days, outside the 10-day window"
   },
   {
    "name": "Sam Tallent",
    "priority": 31,
-   "reason": "next show in 38 days, outside the 10-day window"
-  },
-  {
-   "name": "Asif Ali",
-   "priority": 30,
-   "reason": "next show in 19 days, outside the 10-day window"
+   "reason": "next show in 34 days, outside the 10-day window"
   },
   {
    "name": "Daniel Sloss",
    "priority": 30,
-   "reason": "outside the top 10 by cheap ranking"
+   "reason": "next show in 43 days, outside the 10-day window"
   },
   {
-   "name": "Phoebe Robinson",
+   "name": "Chris Gethard",
    "priority": 20,
    "reason": "outside the top 10 by cheap ranking"
   },
   {
-   "name": "Hot Butter Train",
+   "name": "Immigrant Jam",
    "priority": 20,
    "reason": "outside the top 10 by cheap ranking"
   },
   {
-   "name": "Molly Kearney",
+   "name": "Hoodo Hersi",
    "priority": 20,
    "reason": "outside the top 10 by cheap ranking"
   },
   {
-   "name": "Good Work",
+   "name": "House Rules",
    "priority": 20,
    "reason": "outside the top 10 by cheap ranking"
   },
   {
-   "name": "Nick Mestad",
+   "name": "Steve Martin",
    "priority": 20,
    "reason": "outside the top 10 by cheap ranking"
   },
@@ -164,12 +181,17 @@
    "reason": "outside the top 10 by cheap ranking"
   },
   {
+   "name": "Asif Ali",
+   "priority": 15,
+   "reason": "outside the top 10 by cheap ranking"
+  },
+  {
    "name": "Johnny Pemberton",
    "priority": 15,
    "reason": "outside the top 10 by cheap ranking"
   },
   {
-   "name": "Mark Simmons",
+   "name": "Michelle Buteau",
    "priority": 15,
    "reason": "outside the top 10 by cheap ranking"
   },
@@ -209,6 +231,11 @@
    "reason": "outside the top 10 by cheap ranking"
   },
   {
+   "name": "Chronically Offline",
+   "priority": 5,
+   "reason": "outside the top 10 by cheap ranking"
+  },
+  {
    "name": "Nasser Al-Rayess",
    "priority": 5,
    "reason": "outside the top 10 by cheap ranking"
@@ -224,17 +251,7 @@
    "reason": "outside the top 10 by cheap ranking"
   },
   {
-   "name": "Immigrant Jam",
-   "priority": 5,
-   "reason": "outside the top 10 by cheap ranking"
-  },
-  {
-   "name": "Hoodo Hersi",
-   "priority": 5,
-   "reason": "outside the top 10 by cheap ranking"
-  },
-  {
-   "name": "House Rules",
+   "name": "Hear Me Out",
    "priority": 5,
    "reason": "outside the top 10 by cheap ranking"
   },
@@ -245,6 +262,11 @@
   },
   {
    "name": "Headlining Alex Giampapa",
+   "priority": 0,
+   "reason": "outside the top 10 by cheap ranking"
+  },
+  {
+   "name": "Mark Simmons",
    "priority": 0,
    "reason": "outside the top 10 by cheap ranking"
   },
@@ -284,9 +306,9 @@
    "reason": "outside the top 10 by cheap ranking"
   }
  ],
- "estimated_tokens_saved": 360000,
- "estimate_basis": "9000 tokens per last30days run, 40 runs avoided out of 41",
+ "estimated_tokens_saved": 333000,
+ "estimate_basis": "9000 tokens per last30days run, 37 runs avoided out of 41",
  "no_recent_data": [
-  "Nate Varrone"
+  "Hot Butter Train"
  ]
 }

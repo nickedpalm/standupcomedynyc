@@ -122,3 +122,21 @@ Generated from `npm run heat` + `npm run research-plan` (last30days for the one 
 
 ### Ranked on schedule alone (no recent data)
 - **Nate Varrone** (above).
+
+## 2026-10-02
+- 41 performers ranked from static data.
+- Run 4 (Kanan Gill, Phoebe Robinson, Hot Butter Train, Molly Kearney), reuse 1 cached (Maria Bamford, 6d ago), skip 36
+- ~333,000 tokens saved from the research-plan
+
+### Run notes
+- **Kanan Gill** (Town Hall Oct 3 matinee + evening double): r/IndianStandUpComedy thread (28 pts, 82 cmt) and r/ebookdeals; HN returned nothing. None of the items dated inside the last week. Pick stands on the Town Hall matinee + evening double and his existing audience for the Not This Again tour.
+- **Phoebe Robinson** (Bell House Oct 2): 1 thread in 30 days in r/nycComedy. Bell House calendar lists the date SOLD OUT (Live Nation mirror reads the same); the pick stays on the board with the Sold out tag and won't go in the Tonight carousel.
+- **Hot Butter Train** (Bell House Oct 5): Reddit thin — 1 thread, 160 upvotes, 15 comments (r/astoria local pickup). HN: 1 story, 8 pts. None of the items dated in the last week. Pick stands on the Bell House lineup (Kurt Braunohler, Wyatt Cenac, Jo Firestone per Live Nation) and the show's rep.
+- **Molly Kearney** (Bell House Oct 8): Reddit: 1 thread in 30 days, 60 upvotes, 10 comments in r/LiveFromNewYork — a topical pickup, not buzz for the Bell House date. HN returned nothing usable. Pick stands on her SNL/Big Mouth voice work and the Bell House booking.
+
+### Reuse notes (already cached under 7d)
+- **Maria Bamford**: cached 6d ago — Bell House Oct 10. Three Reddit threads in 30 days, none in the last week; HN all false-positive prefix-matches.
+
+### Ranked on schedule alone (no recent data)
+- **Hot Butter Train** — none of the 2 items dated inside the last week; the plan pulled it in as the show's in the decision window.
+- **Molly Kearney** — same; only one Reddit thread and zero HN hits with current-buzz signal.
