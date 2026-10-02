@@ -561,7 +561,7 @@
  },
  {
   "event_id": "brendan-scannell-abyss-2026-10-01",
-  "src": "/assets/posters/brendan-scannell-abyss-2026-10-01.jpg",
+  "src": "/assets/posters/archive/brendan-scannell-abyss-2026-10-01.jpg",
   "width": 640,
   "height": 427,
   "source_url": "https://www.ticketmaster.com/brendan-scannell-the-abyss-brooklyn-new-york-10-01-2026/event/300064EC4E15E471",
@@ -572,11 +572,12 @@
   "retrieved_at": "2026-09-15",
   "bytes": 33085,
   "sha256": "TBD",
-  "reuse_status": "Official promotional artwork from the show's Ticketmaster listing; no separate reuse license identified. Site display with credit only."
+  "reuse_status": "Official promotional artwork from the show's Ticketmaster listing; no separate reuse license identified. Site display with credit only.",
+  "archived": true
  },
  {
   "event_id": "nate-varrone-2026-10-01",
-  "src": "/assets/posters/nate-varrone-2026-10-01.jpg",
+  "src": "/assets/posters/archive/nate-varrone-2026-10-01.jpg",
   "width": 640,
   "height": 427,
   "source_url": "https://www.ticketmaster.com/nate-varrone-brooklyn-new-york-10-01-2026/event/3000651304DDAFE2",
@@ -587,7 +588,8 @@
   "retrieved_at": "2026-09-15",
   "bytes": 40027,
   "sha256": "TBD",
-  "reuse_status": "Official promotional artwork from the show's Ticketmaster listing; no separate reuse license identified. Site display with credit only."
+  "reuse_status": "Official promotional artwork from the show's Ticketmaster listing; no separate reuse license identified. Site display with credit only.",
+  "archived": true
  },
  {
   "event_id": "phoebe-robinson-2026-10-02",
@@ -1113,7 +1115,7 @@
  },
  {
   "event_id": "elyse-delucci-one-night-only-comic-strip-2026-10-01",
-  "src": "/assets/posters/elyse-delucci-one-night-only-comic-strip-2026-10-01.jpg",
+  "src": "/assets/posters/archive/elyse-delucci-one-night-only-comic-strip-2026-10-01.jpg",
   "width": 720,
   "height": 440,
   "source_url": "https://comicstriplive.com/elyse-delucci-well-this-is-humbling/",
@@ -1124,7 +1126,8 @@
   "retrieved_at": "2026-09-21",
   "bytes": 136334,
   "sha256": "a007fbcd2141745991080e1268fe7ffc03e666279f899498104dd07229800834",
-  "reuse_status": "Official promotional artwork; no separate reuse license identified. Local review draft only."
+  "reuse_status": "Official promotional artwork; no separate reuse license identified. Local review draft only.",
+  "archived": true
  },
  {
   "event_id": "dead-comedian-contest-comic-strip-2026-10-14",
