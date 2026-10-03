@@ -593,7 +593,7 @@
  },
  {
   "event_id": "phoebe-robinson-2026-10-02",
-  "src": "/assets/posters/phoebe-robinson-2026-10-02.jpg",
+  "src": "/assets/posters/archive/phoebe-robinson-2026-10-02.jpg",
   "width": 640,
   "height": 427,
   "source_url": "https://www.ticketmaster.com/phoebe-robinson-feral-fired-up-brooklyn-new-york-10-02-2026/event/30006472AA90382C",
@@ -604,7 +604,8 @@
   "retrieved_at": "2026-09-15",
   "bytes": 30863,
   "sha256": "TBD",
-  "reuse_status": "Official promotional artwork from the show's Ticketmaster listing; no separate reuse license identified. Site display with credit only."
+  "reuse_status": "Official promotional artwork from the show's Ticketmaster listing; no separate reuse license identified. Site display with credit only.",
+  "archived": true
  },
  {
   "event_id": "two-dykes-and-a-mic-2026-10-03",
@@ -688,7 +689,7 @@
   "height": 427,
   "source_url": "https://www.ticketmaster.com/poly-diaz-en-espanol-brooklyn-new-york-10-09-2026/event/300064E804C8B732",
   "credit": "Artwork: The Bell House / show organizer",
-  "alt": "Poly D\u00edaz (En Espa\u00f1ol) promotional artwork.",
+  "alt": "Poly Díaz (En Español) promotional artwork.",
   "kind": "dated event flyer",
   "original_image_url": "https://s1.ticketm.net/dam/a/46b/b02509bd-4380-43c8-b78d-f269a917446b_RETINA_PORTRAIT_3_2.jpg",
   "retrieved_at": "2026-09-15",
@@ -1120,7 +1121,7 @@
   "height": 440,
   "source_url": "https://comicstriplive.com/elyse-delucci-well-this-is-humbling/",
   "credit": "Artwork: Comic Strip Live / show organizer",
-  "alt": "Elyse DeLucci \u2013 ONE NIGHT ONLY! promotional artwork.",
+  "alt": "Elyse DeLucci – ONE NIGHT ONLY! promotional artwork.",
   "kind": "dated event flyer",
   "original_image_url": "https://comicstriplive.com/wp-content/uploads/2026/09/FLYER_ComicStrip2026June18-1-e1789779169571-720x440.png",
   "retrieved_at": "2026-09-21",
@@ -1362,7 +1363,7 @@
  },
  {
   "event_id": "zack-mcgovern-wscc-2026-10-02",
-  "src": "/assets/posters/zack-mcgovern-wscc-2026-10-02.webp",
+  "src": "/assets/posters/archive/zack-mcgovern-wscc-2026-10-02.webp",
   "width": 4096,
   "height": 1262,
   "source_url": "https://www.westsidecomedyclub.com/shows/zack-mcgovern-jocelyn-chia-preston-gitlin-and-mariel-jimenez",
@@ -1373,7 +1374,8 @@
   "retrieved_at": "2026-09-30",
   "bytes": 57128,
   "sha256": "627da9bdeb774976ffbc68961915b35c8896d50810c9ddabd65e4f13947ffde6",
-  "reuse_status": "Official promotional artwork; no separate reuse license identified. Local review draft only."
+  "reuse_status": "Official promotional artwork; no separate reuse license identified. Local review draft only.",
+  "archived": true
  },
  {
   "event_id": "chronically-offline-wscc-2026-10-29",
