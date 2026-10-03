@@ -11,9 +11,9 @@ Six weeks ahead from the board. Regenerated on every build; edit the data, not t
 
 ## Research plan today
 
-Ranked 41; run 4, reuse 1, skip 36; ~333,000 tokens saved. No recent data: Hot Butter Train.
+Ranked 41; run 1, reuse 4, skip 36; ~360,000 tokens saved. No recent data: Chris Gethard.
 
-## Week 1: Oct 3 to Oct 9 — 19 picks — 8 without artwork · 29 Eventbrite leads not yet reviewed
+## Week 1: Oct 3 to Oct 9 — 20 picks — 8 without artwork · 33 Eventbrite leads not yet reviewed
 
 - Sat Oct 3 4pm — **Kanan Gill: Not This Again (Matinee)** at The Town Hall · NO ARTWORK · going fast · heat 35
 - Sat Oct 3 6pm — **Comedy Idol (WSCC)** at West Side Comedy Club · NO ARTWORK
@@ -25,6 +25,7 @@ Ranked 41; run 4, reuse 1, skip 36; ~333,000 tokens saved. No recent data: Hot B
 - Sun Oct 4 8pm — **If You're Really From New York with Onika McLean** at Littlefield
 - Mon Oct 5 7:30pm — **Hot Butter Train** at The Bell House
 - Mon Oct 5 9:30pm — **Vanessa Gonzalez's Special Screening!** at Caveat
+- Tue Oct 6 8pm — **Yankel the Rooster Live!** at The Bell House
 - Wed Oct 7 7:30pm — **Joe Mande Con Amici** at The Bell House
 - Wed Oct 7 8pm — **Laughs In The East** at Eastville Comedy Club · NO ARTWORK
 - Wed Oct 7 8pm (doors 7:30pm) — **Christian Finnegan, Paul Mecurio & Friends** at Comic Strip Live
@@ -45,11 +46,12 @@ Ranked 41; run 4, reuse 1, skip 36; ~333,000 tokens saved. No recent data: Hot B
   - Sat Oct 3 10pm — Animoo Character Select Party! @Parklife at Littlefield · from $11.79 · has artwork
   - Sat Oct 3 10pm — Hoodo Hersi: Extraordinary Alien (a pretty funny comedy show) at Union Hall · from $25.69 · has artwork
 
-## Week 2: Oct 10 to Oct 16 — 11 picks — 5 without artwork · 5 Eventbrite leads not yet reviewed
+## Week 2: Oct 10 to Oct 16 — 12 picks — 5 without artwork · 8 Eventbrite leads not yet reviewed
 
-- Sat Oct 10 6pm — **Maria Bamford: Live** at The Bell House · heat 35
+- Sat Oct 10 6pm — **Maria Bamford: Live** at The Bell House · heat 60
 - Sun Oct 11 6pm — **Wait, What's Sri Lanka? — Comedy Special Taping** at Eastville Comedy Club · NO ARTWORK
 - Mon Oct 12 7:30pm — **The Bechdel Cast 10 Year Anniversary Tour** at The Bell House
+- Mon Oct 12 7:30pm — **Miss Mississippi Comedy: Red State Comics for Reproductive Justice** at Littlefield
 - Wed Oct 14 7pm — **The Next Elton and Friends** at West Side Comedy Club · NO ARTWORK
 - Wed Oct 14 7:30pm — **Josh & Aaron Do Improv (Feat. Hayden Johnson)** at The Bell House
 - Wed Oct 14 8pm — **Laughs In The East** at Eastville Comedy Club · NO ARTWORK
@@ -63,7 +65,10 @@ Ranked 41; run 4, reuse 1, skip 36; ~333,000 tokens saved. No recent data: Hot B
   - Sat Oct 10 7:30pm — EXOPOCALYPSE TOUR feat. RAV, Teller Bank$, and Fatboi Sharif at Littlefield · from $26.42 · has artwork
   - Sat Oct 10 8pm — Tom Van Horn, Brian McFadden, Jocelyn Chia, Nick Tilleli, & Richie Redding! at Comic Strip Live · from $25.71 · has artwork
   - Sat Oct 10 8pm — Tom Van Horn, Brian McFadden, Jocelyn Chia, Nick Tilleli, & Richie Redding! at Comic Strip Live · from $25.71 · has artwork
+  - Sun Oct 11 8pm — DF Sweedler, Michele Balan, Jason Choi, Rachel Lenihan, Matt Pavich, more! at Comic Strip Live · from $25.71 · has artwork
   - Mon Oct 12 7:30pm — Miss Mississippi Comedy: Red State Comics for Reproductive Justice at Littlefield · from $18.71 · has artwork
+  - Mon Oct 12 8pm — The Peter Stewart Show! With Paul Mecurio! at Comic Strip Live · from $25.71 · has artwork
+  - Tue Oct 13 8pm — Words and Guitar at Littlefield · from $18.71 · has artwork
   - Wed Oct 14 11pm — The Late Night Comedy Show at Kellogg's Diner at Kellogg's Diner · from $5 · has artwork
 
 ## Week 3: Oct 17 to Oct 23 — 15 picks — 8 without artwork · 1 Eventbrite lead not yet reviewed
@@ -108,8 +113,8 @@ Ranked 41; run 4, reuse 1, skip 36; ~333,000 tokens saved. No recent data: Hot B
 - Sun Nov 1 7:30pm — **Sunday Night Comedy** at Eastville Comedy Club · NO ARTWORK
 - Mon Nov 2 7:30pm — **Sam Oh: The Unbearable Tightness of Being...Gay Virgin** at The Bell House
 - Tue Nov 3 7pm — **Difficult People: The Movie — A Live Table Read** at The Town Hall · NO ARTWORK
-- Wed Nov 4 8pm — **Salma Hindy: 10 Years of Stand-Up Comedy** at The Stand
-- Thu Nov 5 7:30pm — **Sam Tallent** at The Bell House · NO ARTWORK · heat 25
+- Wed Nov 4 8pm — **Salma Hindy: 10 Years of Stand-Up Comedy** at The Stand · heat 40
+- Thu Nov 5 7:30pm — **Sam Tallent** at The Bell House · NO ARTWORK · heat 31
 - Fri Nov 6 7pm — **Ziwe** at The Town Hall · NO ARTWORK
 - Fri Nov 6 7pm — **Adam Ray** at Gramercy Theatre · NO ARTWORK
 - Fri Nov 6 7pm — **Gayme Show! starring Matt Rogers and Dave Mizzoni** at BMCC Tribeca Performing Arts Center · NO ARTWORK
@@ -120,7 +125,7 @@ Ranked 41; run 4, reuse 1, skip 36; ~333,000 tokens saved. No recent data: Hot B
 - Sat Nov 7 6pm — **Joanne McNally: Pinotphile** at The Town Hall · NO ARTWORK · heat 35
 - Sun Nov 8 4pm — **Josh Sharp: An Hour of Crowd Work in the Round** at The Bell House · NO ARTWORK
 - Sun Nov 8 7pm — **Sarah Sherman & Patti Harrison** at The Town Hall · NO ARTWORK
-- Sun Nov 8 7:30pm — **Marc Maron: Yammering Into the Void Tour** at Beacon Theatre · NO ARTWORK · heat 20
+- Sun Nov 8 7:30pm — **Marc Maron: Yammering Into the Void Tour** at Beacon Theatre · NO ARTWORK · heat 45
 - Sun Nov 8 7:30pm — **Rainbow Riot** at Brooklyn Comedy Collective · NO ARTWORK
 - Mon Nov 9 8pm — **Stand Up for Heroes (NYCF)** at David Geffen Hall (Lincoln Center) · NO ARTWORK
 - Tue Nov 10 10pm — **Eddie Pepitone Headlining Union Hall (night one)** at Union Hall · NO ARTWORK

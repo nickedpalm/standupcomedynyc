@@ -1406,5 +1406,35 @@
   "bytes": 217108,
   "sha256": "3cacc799ca21e2438e39b2f8df9b44315ebe2f403c1bc7d8f5a52691ffe12877",
   "reuse_status": "Official promotional artwork; no separate reuse license identified. Local review draft only."
+ },
+ {
+  "event_id": "yankel-the-rooster-bell-house-2026-10-06",
+  "src": "/assets/posters/yankel-the-rooster-bell-house-2026-10-06.jpg",
+  "width": 2048,
+  "height": 1152,
+  "source_url": "https://www.livenation.com/event/1AYZkfsGke-CfFa/yankel-the-rooster-live",
+  "credit": "Artwork: The Bell House / show organizer",
+  "alt": "YANKEL THE ROOSTER Live! promotional artwork.",
+  "kind": "dated event flyer",
+  "original_image_url": "https://s1.ticketm.net/dam/e/f8c/51b3c080-3374-4430-9714-7c54212e5f8c_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+  "retrieved_at": "2026-10-03",
+  "bytes": 143990,
+  "sha256": "4207e2136bd086761c342ce1e4890acd75dc128b83a380603e53ef616b933b7e",
+  "reuse_status": "Official promotional artwork from the show's Live Nation / Ticketmaster listing; no separate reuse license identified. Site display with credit only."
+ },
+ {
+  "event_id": "miss-mississippi-comedy-littlefield-2026-10-12",
+  "src": "/assets/posters/miss-mississippi-comedy-littlefield-2026-10-12.jpg",
+  "width": 1880,
+  "height": 940,
+  "source_url": "https://www.eventbrite.com/e/miss-mississippi-comedy-red-state-comics-for-reproductive-justice-tickets-2000329539500",
+  "credit": "Artwork: Littlefield / show organizer",
+  "alt": "Miss Mississippi Comedy: Red State Comics for Reproductive Justice promotional artwork.",
+  "kind": "dated event flyer",
+  "original_image_url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1194647689%2F404652903161%2F1%2Foriginal.20260929-171850",
+  "retrieved_at": "2026-10-03",
+  "bytes": 123974,
+  "sha256": "9aa153248b5a505f1e3baff1b9b7120b42cc06f6354b69fa7a39c503f1ac111c",
+  "reuse_status": "Official promotional artwork from the show's Eventbrite listing (Littlefield organizer); no separate reuse license identified. Site display with credit only."
  }
 ]

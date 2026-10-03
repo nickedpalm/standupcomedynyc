@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-02T11:09:52.311Z",
+ "generated_at": "2026-10-03T11:08:42.920Z",
  "performers_considered": 41,
  "shortlist": [
   {
@@ -17,10 +17,6 @@
   {
    "name": "Marc Maron",
    "priority": 45
-  },
-  {
-   "name": "Phoebe Robinson",
-   "priority": 40
   },
   {
    "name": "Hot Butter Train",
@@ -41,74 +37,26 @@
   {
    "name": "Daniel Sloss",
    "priority": 30
+  },
+  {
+   "name": "Chris Gethard",
+   "priority": 20
   }
  ],
  "run": [
   {
-   "name": "Kanan Gill",
-   "priority": 65,
+   "name": "Chris Gethard",
+   "priority": 20,
    "next": {
-    "id": "kanan-gill-not-this-again-town-hall-2026-10-03-1600",
-    "date": "2026-10-03",
-    "venue": "The Town Hall",
-    "days": 1,
-    "featured": false,
-    "poster": false,
-    "demand": "going_fast"
-   },
-   "cheap_signals": [
-    "a second show the same night at the same room",
-    "Wikipedia: 202 views a day"
-   ],
-   "reason": "show within 3 days and not yet decided"
-  },
-  {
-   "name": "Phoebe Robinson",
-   "priority": 40,
-   "next": {
-    "id": "phoebe-robinson-2026-10-02",
-    "date": "2026-10-02",
-    "venue": "The Bell House",
-    "days": 0,
-    "featured": false,
-    "poster": true,
-    "demand": null
-   },
-   "cheap_signals": [
-    "Reddit: 1 post in 30 days, 0 upvotes (top: r/nycComedy)"
-   ],
-   "reason": "show within 3 days and not yet decided"
-  },
-  {
-   "name": "Hot Butter Train",
-   "priority": 35,
-   "next": {
-    "id": "hot-butter-train-2026-10-05",
-    "date": "2026-10-05",
-    "venue": "The Bell House",
-    "days": 3,
+    "id": "chris-gethard-pop-caveat-2026-10-08",
+    "date": "2026-10-08",
+    "venue": "Caveat",
+    "days": 5,
     "featured": false,
     "poster": true,
     "demand": null
    },
    "cheap_signals": [],
-   "reason": "show within 3 days and not yet decided"
-  },
-  {
-   "name": "Molly Kearney",
-   "priority": 30,
-   "next": {
-    "id": "molly-kearney-2026-10-08",
-    "date": "2026-10-08",
-    "venue": "The Bell House",
-    "days": 6,
-    "featured": false,
-    "poster": true,
-    "demand": null
-   },
-   "cheap_signals": [
-    "Wikipedia: 212 views a day"
-   ],
    "reason": "in the decision window and not yet decided"
   }
  ],
@@ -118,9 +66,39 @@
    "priority": 80,
    "cached": {
     "at": "2026-09-26T11:09:30.537Z",
-    "age_days": 6,
+    "age_days": 7,
     "fresh": true,
     "note": "Three Reddit threads in 30 days, none in the last week: r/providence ticket-resale post for the Uptown show, r/Standup's 'Best Comedy Special?' thread, r/doughboys's Lev Ginsburg shoutout. HN returned nothing usable — every prefix-match was a false positive that filtered out. Pick stands on her existing fan base, not on current buzz; Bell House Oct 10."
+   }
+  },
+  {
+   "name": "Kanan Gill",
+   "priority": 65,
+   "cached": {
+    "at": "2026-10-02T11:10:51.007Z",
+    "age_days": 1,
+    "fresh": true,
+    "note": "Two Reddit threads in 30 days, none in the last week: r/IndianStandUpComedy (28 pts, 82 cmt) and r/ebookdeals. HN returned nothing usable. Limited recent data; pick stands on the Town Hall matinee + evening double and his existing audience for the NYC stop on the Not This Again tour."
+   }
+  },
+  {
+   "name": "Hot Butter Train",
+   "priority": 35,
+   "cached": {
+    "at": "2026-10-02T11:14:08.642Z",
+    "age_days": 1,
+    "fresh": true,
+    "note": "Reddit: 1 thread in 30 days, 160 upvotes, 15 comments (r/astoria, a local pickup). HN: 1 story, 8 points. None of the items dated inside the last week. Pick stands on the Bell House lineup (Kurt Braunohler, Wyatt Cenac, Jo Firestone per Live Nation) and the show's reputation."
+   }
+  },
+  {
+   "name": "Molly Kearney",
+   "priority": 30,
+   "cached": {
+    "at": "2026-10-02T11:15:17.912Z",
+    "age_days": 1,
+    "fresh": true,
+    "note": "Reddit: 1 thread in 30 days, 60 upvotes, 10 comments in r/LiveFromNewYork — a topical pickup, not buzz for the Bell House date. HN returned nothing usable. Pick stands on her SNL/Big Mouth voice work and the Bell House booking."
    }
   }
  ],
@@ -128,37 +106,27 @@
   {
    "name": "Salma Hindy",
    "priority": 45,
-   "reason": "next show in 33 days, outside the 10-day window"
+   "reason": "next show in 32 days, outside the 10-day window"
   },
   {
    "name": "Marc Maron",
    "priority": 45,
-   "reason": "next show in 37 days, outside the 10-day window"
+   "reason": "next show in 36 days, outside the 10-day window"
   },
   {
    "name": "Joanne McNally",
    "priority": 35,
-   "reason": "next show in 36 days, outside the 10-day window"
+   "reason": "next show in 35 days, outside the 10-day window"
   },
   {
    "name": "Sam Tallent",
    "priority": 31,
-   "reason": "next show in 34 days, outside the 10-day window"
+   "reason": "next show in 33 days, outside the 10-day window"
   },
   {
    "name": "Daniel Sloss",
    "priority": 30,
-   "reason": "next show in 43 days, outside the 10-day window"
-  },
-  {
-   "name": "Chris Gethard",
-   "priority": 20,
-   "reason": "outside the top 10 by cheap ranking"
-  },
-  {
-   "name": "Immigrant Jam",
-   "priority": 20,
-   "reason": "outside the top 10 by cheap ranking"
+   "reason": "next show in 42 days, outside the 10-day window"
   },
   {
    "name": "Hoodo Hersi",
@@ -172,6 +140,11 @@
   },
   {
    "name": "Steve Martin",
+   "priority": 20,
+   "reason": "outside the top 10 by cheap ranking"
+  },
+  {
+   "name": "Hear Me Out",
    "priority": 20,
    "reason": "outside the top 10 by cheap ranking"
   },
@@ -192,6 +165,11 @@
   },
   {
    "name": "Michelle Buteau",
+   "priority": 15,
+   "reason": "outside the top 10 by cheap ranking"
+  },
+  {
+   "name": "Mark Simmons",
    "priority": 15,
    "reason": "outside the top 10 by cheap ranking"
   },
@@ -251,7 +229,7 @@
    "reason": "outside the top 10 by cheap ranking"
   },
   {
-   "name": "Hear Me Out",
+   "name": "Next Slide Please",
    "priority": 5,
    "reason": "outside the top 10 by cheap ranking"
   },
@@ -261,12 +239,12 @@
    "reason": "outside the top 10 by cheap ranking"
   },
   {
-   "name": "Headlining Alex Giampapa",
-   "priority": 0,
+   "name": "Holmes Street",
+   "priority": 5,
    "reason": "outside the top 10 by cheap ranking"
   },
   {
-   "name": "Mark Simmons",
+   "name": "Headlining Alex Giampapa",
    "priority": 0,
    "reason": "outside the top 10 by cheap ranking"
   },
@@ -306,9 +284,9 @@
    "reason": "outside the top 10 by cheap ranking"
   }
  ],
- "estimated_tokens_saved": 333000,
- "estimate_basis": "9000 tokens per last30days run, 37 runs avoided out of 41",
+ "estimated_tokens_saved": 360000,
+ "estimate_basis": "9000 tokens per last30days run, 40 runs avoided out of 41",
  "no_recent_data": [
-  "Hot Butter Train"
+  "Chris Gethard"
  ]
 }

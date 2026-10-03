@@ -140,3 +140,23 @@ Generated from `npm run heat` + `npm run research-plan` (last30days for the one 
 ### Ranked on schedule alone (no recent data)
 - **Hot Butter Train** — none of the 2 items dated inside the last week; the plan pulled it in as the show's in the decision window.
 - **Molly Kearney** — same; only one Reddit thread and zero HN hits with current-buzz signal.
+## 2026-10-03
+
+Generated from `npm run heat` + `npm run research-plan` (last30days for the 1 name under `run`; reuse cached notes for the 4 under `reuse`).
+
+### Rankings
+- 41 performers ranked from static data
+- Run 1, reuse 4 cached, skip 36
+- ~360,000 tokens saved from the research-plan
+
+### Run notes
+- **Chris Gethard** (Caveat Thu Oct 8 9:30pm, Pop): 3 Reddit threads in 30 days but two of them are about a different person (the This American Life solo show with Gethard at QED, the 2012 Mick Foley web series). HN returned nothing usable. No online buzz specifically around the Caveat Pop show — the pick stands on the Caveat page's own description (his grandfather's 1928 emigration from Northern Ireland, 100 years on).
+
+### Reuse notes (already cached under 7d)
+- **Maria Bamford**: cached 7d ago — Bell House Oct 10. Three Reddit threads in 30 days, none in the last week; HN all false-positive prefix-matches.
+- **Kanan Gill**: cached 1d ago — Town Hall Oct 3 matinee + evening. Reddit rate-limited; HN one filtered false-positive; zero usable items.
+- **Hot Butter Train**: cached 1d ago — Bell House Oct 5. Reddit: 1 thread, 160 upvotes, 15 comments. HN: 1 story, 8 pts. None of the items dated inside the last week.
+- **Molly Kearney**: cached 1d ago — Bell House Oct 8. Reddit: 1 thread in 30 days, 60 upvotes, 10 comments in r/LiveFromNewYork — a topical pickup, not buzz for the Bell House date. HN returned nothing usable.
+
+### Ranked on schedule alone (no recent data)
+- **Chris Gethard** (above). Caveat Pop stand on the room and the show's premise, not on online chatter.
