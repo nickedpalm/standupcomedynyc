@@ -86,8 +86,8 @@
    "source": "last30days"
   },
   "Maria Bamford": {
-   "at": "2026-09-26T11:09:30.537Z",
-   "note": "Three Reddit threads in 30 days, none in the last week: r/providence ticket-resale post for the Uptown show, r/Standup's 'Best Comedy Special?' thread, r/doughboys's Lev Ginsburg shoutout. HN returned nothing usable — every prefix-match was a false positive that filtered out. Pick stands on her existing fan base, not on current buzz; Bell House Oct 10.",
+   "at": "2026-10-04T11:09:49.000Z",
+   "note": "Reddit's main signal is the new Netflix documentary Paralyzed by Hope (premieres Oct 23) plus her body-of-work thread; nothing bell-house specific but her name is loud enough to keep the going-fast signal without needing more.",
    "source": "last30days"
   },
   "Nate Varrone": {
@@ -113,6 +113,11 @@
   "Chris Gethard": {
    "at": "2026-10-03T11:09:30.061Z",
    "note": "Chris Gethard (Caveat Thu Oct 8 9:30pm, Pop): 3 Reddit threads in 30 days but two of them are about a different person (the This American Life solo show with Gethard at QED, the 2012 Mick Foley web series). HN returned nothing usable. No online buzz specifically around the Caveat Pop show — the pick stands on the Caveat page's own description (his grandfather's 1928 emigration from Northern Ireland, 100 years on).",
+   "source": "last30days"
+  },
+  "House Rules": {
+   "at": "2026-10-04T11:09:49.143Z",
+   "note": "Caveat's trivia-game show has no online footprint; Reddit and HN return generic 'house rules' hits. Pick stands on the Caveat/Eventbrite description alone and is fine as a same-day diversion, not a featured call.",
    "source": "last30days"
   }
  }

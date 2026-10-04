@@ -1437,5 +1437,20 @@
   "bytes": 123974,
   "sha256": "9aa153248b5a505f1e3baff1b9b7120b42cc06f6354b69fa7a39c503f1ac111c",
   "reuse_status": "Official promotional artwork from the show's Eventbrite listing (Littlefield organizer); no separate reuse license identified. Site display with credit only."
+ },
+ {
+  "event_id": "health-mostly-mental-littlefield-2026-10-14",
+  "src": "/assets/posters/health-mostly-mental-littlefield-2026-10-14.jpg",
+  "width": 1880,
+  "height": 940,
+  "source_url": "https://www.eventbrite.com/e/health-mostly-mental-via-abolencia-kendall-allisons-half-hours-tickets-1998129962506",
+  "credit": "Artwork: Littlefield / show organizer",
+  "alt": "Health, Mostly Mental: Via Abolencia and Kendall Allison promotional artwork.",
+  "kind": "dated event flyer",
+  "original_image_url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1191424040%2F400863417153%2F1%2Foriginal.20260819-134419?crop=focalpoint&fit=crop&w=940&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=6e0b0e10d4fde5f9b2c5b2b24b305f24",
+  "retrieved_at": "2026-10-04",
+  "bytes": 198545,
+  "sha256": "12be7ff91511d72794e4e16a45bf71ec196f425105c5f61f40e9161abd71e8c5",
+  "reuse_status": "Official promotional artwork; no separate reuse license identified. Local review draft only."
  }
 ]

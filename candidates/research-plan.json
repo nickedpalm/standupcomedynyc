@@ -1,14 +1,10 @@
 {
- "generated_at": "2026-10-03T11:08:42.920Z",
+ "generated_at": "2026-10-04T11:07:39.492Z",
  "performers_considered": 41,
  "shortlist": [
   {
    "name": "Maria Bamford",
    "priority": 80
-  },
-  {
-   "name": "Kanan Gill",
-   "priority": 65
   },
   {
    "name": "Salma Hindy",
@@ -41,52 +37,55 @@
   {
    "name": "Chris Gethard",
    "priority": 20
+  },
+  {
+   "name": "House Rules",
+   "priority": 20
   }
  ],
  "run": [
   {
-   "name": "Chris Gethard",
-   "priority": 20,
+   "name": "Maria Bamford",
+   "priority": 80,
    "next": {
-    "id": "chris-gethard-pop-caveat-2026-10-08",
-    "date": "2026-10-08",
-    "venue": "Caveat",
-    "days": 5,
+    "id": "maria-bamford-2026-10-10",
+    "date": "2026-10-10",
+    "venue": "The Bell House",
+    "days": 6,
     "featured": false,
     "poster": true,
     "demand": null
    },
-   "cheap_signals": [],
+   "cheap_signals": [
+    "Wikipedia: 2834 views a day",
+    "Wikipedia views up 259% over the prior month",
+    "Reddit: 3 posts in 30 days, 1344 upvotes (top: r/Standup)"
+   ],
    "reason": "in the decision window and not yet decided"
+  },
+  {
+   "name": "House Rules",
+   "priority": 20,
+   "next": {
+    "id": null,
+    "date": "2026-10-04",
+    "venue": "Caveat",
+    "days": 0,
+    "lead": true
+   },
+   "cheap_signals": [
+    "Eventbrite lead only"
+   ],
+   "reason": "show within 3 days and not yet decided"
   }
  ],
  "reuse": [
-  {
-   "name": "Maria Bamford",
-   "priority": 80,
-   "cached": {
-    "at": "2026-09-26T11:09:30.537Z",
-    "age_days": 7,
-    "fresh": true,
-    "note": "Three Reddit threads in 30 days, none in the last week: r/providence ticket-resale post for the Uptown show, r/Standup's 'Best Comedy Special?' thread, r/doughboys's Lev Ginsburg shoutout. HN returned nothing usable — every prefix-match was a false positive that filtered out. Pick stands on her existing fan base, not on current buzz; Bell House Oct 10."
-   }
-  },
-  {
-   "name": "Kanan Gill",
-   "priority": 65,
-   "cached": {
-    "at": "2026-10-02T11:10:51.007Z",
-    "age_days": 1,
-    "fresh": true,
-    "note": "Two Reddit threads in 30 days, none in the last week: r/IndianStandUpComedy (28 pts, 82 cmt) and r/ebookdeals. HN returned nothing usable. Limited recent data; pick stands on the Town Hall matinee + evening double and his existing audience for the NYC stop on the Not This Again tour."
-   }
-  },
   {
    "name": "Hot Butter Train",
    "priority": 35,
    "cached": {
     "at": "2026-10-02T11:14:08.642Z",
-    "age_days": 1,
+    "age_days": 2,
     "fresh": true,
     "note": "Reddit: 1 thread in 30 days, 160 upvotes, 15 comments (r/astoria, a local pickup). HN: 1 story, 8 points. None of the items dated inside the last week. Pick stands on the Bell House lineup (Kurt Braunohler, Wyatt Cenac, Jo Firestone per Live Nation) and the show's reputation."
    }
@@ -96,9 +95,19 @@
    "priority": 30,
    "cached": {
     "at": "2026-10-02T11:15:17.912Z",
-    "age_days": 1,
+    "age_days": 2,
     "fresh": true,
     "note": "Reddit: 1 thread in 30 days, 60 upvotes, 10 comments in r/LiveFromNewYork — a topical pickup, not buzz for the Bell House date. HN returned nothing usable. Pick stands on her SNL/Big Mouth voice work and the Bell House booking."
+   }
+  },
+  {
+   "name": "Chris Gethard",
+   "priority": 20,
+   "cached": {
+    "at": "2026-10-03T11:09:30.061Z",
+    "age_days": 1,
+    "fresh": true,
+    "note": "Chris Gethard (Caveat Thu Oct 8 9:30pm, Pop): 3 Reddit threads in 30 days but two of them are about a different person (the This American Life solo show with Gethard at QED, the 2012 Mick Foley web series). HN returned nothing usable. No online buzz specifically around the Caveat Pop show — the pick stands on the Caveat page's own description (his grandfather's 1928 emigration from Northern Ireland, 100 years on)."
    }
   }
  ],
@@ -106,37 +115,27 @@
   {
    "name": "Salma Hindy",
    "priority": 45,
-   "reason": "next show in 32 days, outside the 10-day window"
+   "reason": "next show in 31 days, outside the 10-day window"
   },
   {
    "name": "Marc Maron",
    "priority": 45,
-   "reason": "next show in 36 days, outside the 10-day window"
+   "reason": "next show in 35 days, outside the 10-day window"
   },
   {
    "name": "Joanne McNally",
    "priority": 35,
-   "reason": "next show in 35 days, outside the 10-day window"
+   "reason": "next show in 34 days, outside the 10-day window"
   },
   {
    "name": "Sam Tallent",
    "priority": 31,
-   "reason": "next show in 33 days, outside the 10-day window"
+   "reason": "next show in 32 days, outside the 10-day window"
   },
   {
    "name": "Daniel Sloss",
    "priority": 30,
-   "reason": "next show in 42 days, outside the 10-day window"
-  },
-  {
-   "name": "Hoodo Hersi",
-   "priority": 20,
-   "reason": "outside the top 10 by cheap ranking"
-  },
-  {
-   "name": "House Rules",
-   "priority": 20,
-   "reason": "outside the top 10 by cheap ranking"
+   "reason": "next show in 41 days, outside the 10-day window"
   },
   {
    "name": "Steve Martin",
@@ -145,6 +144,16 @@
   },
   {
    "name": "Hear Me Out",
+   "priority": 20,
+   "reason": "outside the top 10 by cheap ranking"
+  },
+  {
+   "name": "Next Slide Please",
+   "priority": 20,
+   "reason": "outside the top 10 by cheap ranking"
+  },
+  {
+   "name": "Great Job News",
    "priority": 20,
    "reason": "outside the top 10 by cheap ranking"
   },
@@ -179,11 +188,6 @@
    "reason": "outside the top 10 by cheap ranking"
   },
   {
-   "name": "Ruby Setnik",
-   "priority": 10,
-   "reason": "outside the top 10 by cheap ranking"
-  },
-  {
    "name": "Adam Ray",
    "priority": 10,
    "reason": "outside the top 10 by cheap ranking"
@@ -209,6 +213,11 @@
    "reason": "outside the top 10 by cheap ranking"
   },
   {
+   "name": "Ruby Setnik",
+   "priority": 5,
+   "reason": "outside the top 10 by cheap ranking"
+  },
+  {
    "name": "Chronically Offline",
    "priority": 5,
    "reason": "outside the top 10 by cheap ranking"
@@ -229,17 +238,17 @@
    "reason": "outside the top 10 by cheap ranking"
   },
   {
-   "name": "Next Slide Please",
-   "priority": 5,
-   "reason": "outside the top 10 by cheap ranking"
-  },
-  {
-   "name": "Great Job News",
+   "name": "Hot Aur Single",
    "priority": 5,
    "reason": "outside the top 10 by cheap ranking"
   },
   {
    "name": "Holmes Street",
+   "priority": 5,
+   "reason": "outside the top 10 by cheap ranking"
+  },
+  {
+   "name": "Mohanad Elshieky",
    "priority": 5,
    "reason": "outside the top 10 by cheap ranking"
   },
@@ -284,9 +293,7 @@
    "reason": "outside the top 10 by cheap ranking"
   }
  ],
- "estimated_tokens_saved": 360000,
- "estimate_basis": "9000 tokens per last30days run, 40 runs avoided out of 41",
- "no_recent_data": [
-  "Chris Gethard"
- ]
+ "estimated_tokens_saved": 351000,
+ "estimate_basis": "9000 tokens per last30days run, 39 runs avoided out of 41",
+ "no_recent_data": []
 }

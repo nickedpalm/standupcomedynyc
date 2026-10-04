@@ -160,3 +160,24 @@ Generated from `npm run heat` + `npm run research-plan` (last30days for the 1 na
 
 ### Ranked on schedule alone (no recent data)
 - **Chris Gethard** (above). Caveat Pop stand on the room and the show's premise, not on online chatter.
+
+## 2026-10-04
+
+Generated from `npm run heat` + `npm run research-plan` (last30days for the 2 names under `run`; reuse cached notes for the 3 under `reuse`).
+
+### Rankings
+- 41 performers ranked from static data
+- Run 2, reuse 3 cached, skip 36
+- ~351,000 tokens saved from the research-plan
+
+### Run notes
+- **Maria Bamford** (Bell House Sat Oct 10): the loudest recent signal is the new Netflix documentary *Paralyzed by Hope* (premieres Oct 23) and a long r/Standup body-of-work thread; nothing Bell-House-specific but her name is hot enough to keep the going-fast signal without another run.
+- **House Rules** (Caveat Sun Oct 4 2:30pm): the trivia-game show has no online footprint; Reddit and HN return generic "house rules" hits. The pick stands on the Caveat/Eventbrite description alone and is fine as a same-day diversion, not a featured call.
+
+### Reuse notes (already cached under 7d)
+- **Hot Butter Train**: cached 2d ago.
+- **Molly Kearney**: cached 2d ago.
+- **Chris Gethard**: cached 1d ago.
+
+### Ranked on schedule alone (no recent data)
+- **House Rules** (above). The Caveat show stands on the room and its own description, not on online chatter.

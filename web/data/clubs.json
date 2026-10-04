@@ -258,5 +258,25 @@
   "source_label": "FAQ (minimum, age, seating, doors, refunds) + About (lineage, address)",
   "verified_at": "2026-09-22",
   "verification_note": "Read directly from the club's FAQ ('$20-showroom minimum purchase per person', '18 and up. Or 16 and up if accompanied by an adult at their discretion', 'Seating will be assigned based on on-time check in by party, as purchased', 'Doors 30 mins prior to showtime', 'Late seating is not guaranteed', 'No refunds or exchanges') and About page ('Rodney's is the re-imagination and redesign of the legendary Dangerfields, the oldest comedy club in the US'). Address '1118 1st avenue New York, NY 10065' confirmed in both pages. Ticket prices not published; shows run $20–30 range based on the calendar's ticketed listings (Jackie Martling, Myq Kaplan's Ugly Pancake Festival, etc.)."
+ },
+ {
+  "id": "captain-kirks-comedy-lounge",
+  "tier": "club",
+  "name": "Captain Kirk's Comedy Lounge",
+  "rooms": "Single showroom with a small stage; full bar",
+  "address": "1000 Broadway, Brooklyn",
+  "neighborhood": "Bedford-Stuyvesant",
+  "price_label": "Varies by show; see the show page",
+  "price_low": null,
+  "price_high": null,
+  "minimum": "$20 food and beverage minimum per person; cash not accepted at the door",
+  "age": "21+ (photo ID required)",
+  "reservations": "Ticketed shows via Parde (parde.app) and Eventbrite; advance purchase recommended; doors by showtime",
+  "character": "Bed-Stuy brick-walled lounge with nightly ticketed stand-up, heavy on national-touring headliners (Tony Rock, Mark Viera, Michael Blackson, Darren Brand). Smaller-room energy; shows typically post door times 30-60 minutes before showtime.",
+  "calendar_url": "https://captainkirkscomedylounge.com/",
+  "source_url": "https://captainkirkscomedylounge.com/",
+  "source_label": "Home page: 21+ admission + photo ID statement; $20 minimum + cash-not-accepted per Sep 14 intake",
+  "verified_at": "2026-10-04",
+  "verification_note": "21+ age policy read directly from the home page hero (\"Admission is restricted to individuals 21 years of age or older. A valid government issued photo ID is required for entry\"). The $20 food/beverage minimum and the cash-not-accepted-at-door detail were confirmed in the Sep 14 venue review and are consistent with the club’s own current home-page copy (\"CASH NOT ACCEPTED\"). Tixr/Parde event pages list individual show prices; the room does not publish a flat price list — left as ‘see the show page’ per the existing clubs.json rule."
  }
 ]

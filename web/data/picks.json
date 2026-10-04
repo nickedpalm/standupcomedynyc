@@ -1969,5 +1969,35 @@
   "tier": "special",
   "demand": null,
   "demand_checked": "2026-10-04"
+ },
+ {
+  "id": "health-mostly-mental-littlefield-2026-10-14",
+  "title": "Health, Mostly Mental: Via Abolencia & Kendall Allison",
+  "date": "2026-10-14",
+  "starts_at": "2026-10-14T20:00:00-04:00",
+  "ends_at": "2026-10-14T21:30:00-04:00",
+  "end_time_confirmed": false,
+  "time_label": "8pm · doors 7pm",
+  "venue": "Littlefield",
+  "neighborhood": "Gowanus",
+  "price_amount": 11.79,
+  "price_label": "From $11.79",
+  "ticket_url": "https://www.eventbrite.com/e/health-mostly-mental-via-abolencia-kendall-allisons-half-hours-tickets-1998129962506",
+  "source_url": "https://www.eventbrite.com/e/health-mostly-mental-via-abolencia-kendall-allisons-half-hours-tickets-1998129962506",
+  "verified_at": "2026-10-04",
+  "description": "Two half-hour stand-up sets from Via Abolencia and Kendall Allison, both writing from the same place the bar tab comes from: inside the argument about health, money, gender, and the work of staying okay. The double-half-hour is the format — half an hour each, no guest sets, both working on new material, no guests between them.",
+  "featured": false,
+  "tier": "special",
+  "poster": {
+   "src": "/assets/posters/health-mostly-mental-littlefield-2026-10-14.jpg",
+   "width": 1880,
+   "height": 940,
+   "source_url": "https://www.eventbrite.com/e/health-mostly-mental-via-abolencia-kendall-allisons-half-hours-tickets-1998129962506",
+   "credit": "Artwork: Littlefield / show organizer",
+   "alt": "Health, Mostly Mental: Via Abolencia and Kendall Allison promotional artwork.",
+   "kind": "dated event flyer"
+  },
+  "demand": null,
+  "demand_checked": "2026-10-04"
  }
 ]
