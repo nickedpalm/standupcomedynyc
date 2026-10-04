@@ -609,7 +609,7 @@
  },
  {
   "event_id": "two-dykes-and-a-mic-2026-10-03",
-  "src": "/assets/posters/two-dykes-and-a-mic-2026-10-03.jpg",
+  "src": "/assets/posters/archive/two-dykes-and-a-mic-2026-10-03.jpg",
   "width": 640,
   "height": 427,
   "source_url": "https://www.ticketmaster.com/two-dykes-and-a-mic-soaking-brooklyn-new-york-10-03-2026/event/300064CD17C4A046",
@@ -620,7 +620,8 @@
   "retrieved_at": "2026-09-15",
   "bytes": 56791,
   "sha256": "TBD",
-  "reuse_status": "Official promotional artwork from the show's Ticketmaster listing; no separate reuse license identified. Site display with credit only."
+  "reuse_status": "Official promotional artwork from the show's Ticketmaster listing; no separate reuse license identified. Site display with credit only.",
+  "archived": true
  },
  {
   "event_id": "comedy-girl-autumn-2026-10-04",
