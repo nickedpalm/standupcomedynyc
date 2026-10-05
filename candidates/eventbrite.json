@@ -1,5 +1,5 @@
 {
- "retrieved_at": "2026-10-04T11:01:49.732Z",
+ "retrieved_at": "2026-10-05T11:02:22.466Z",
  "note": "Leads from Eventbrite organizer pages of registered rooms. Open the event page before adding a pick; artwork needs a POSTER-SOURCES record.",
  "organizers": [
   {
@@ -36,158 +36,6 @@
   }
  ],
  "events": [
-  {
-   "venue": "Caveat",
-   "neighborhood": "Lower East Side",
-   "organizer": "https://www.eventbrite.com/o/caveat-13580085802",
-   "title": "House Rules",
-   "date": "2026-10-04",
-   "time": "2:30pm",
-   "starts_at": "2026-10-04T14:30:00-04:00",
-   "ends_at": "2026-10-04T15:30:00-04:00",
-   "location_name": "Caveat",
-   "location_address": "21 A Clinton Street, New York, NY 10002, New York",
-   "price_from": 15.67,
-   "url": "https://www.eventbrite.com/e/house-rules-tickets-2002089954950",
-   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1194143707%2F207096185123%2F1%2Foriginal.20260922-213107?w=940&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C1920%2C960&s=dbe3d4598f87bc39d0e18aab743c0273",
-   "description": "Comedians compete in NYC's dumbest game show.",
-   "venue_name_matches": true,
-   "already_a_pick": false,
-   "seen_before": true
-  },
-  {
-   "venue": "Littlefield",
-   "neighborhood": "Gowanus",
-   "organizer": "https://www.eventbrite.com/o/littlefield-18046024060",
-   "title": "Daylighters (A Comedy Show You Can Bring Your Kids To)",
-   "date": "2026-10-04",
-   "time": "3pm",
-   "starts_at": "2026-10-04T15:00:00-04:00",
-   "ends_at": "2026-10-04",
-   "location_name": "littlefield",
-   "location_address": "635 Sackett Street, Brooklyn, NY 11217, Brooklyn",
-   "price_from": 24.36,
-   "url": "https://www.eventbrite.com/e/daylighters-a-comedy-show-you-can-bring-your-kids-to-tickets-1996820945200",
-   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1190386505%2F400863417153%2F1%2Foriginal.20260805-163314?crop=focalpoint&fit=crop&w=940&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=f31015a63fcc711cba1d90f99a756938",
-   "description": "Hosted by Kurt Braunohler",
-   "venue_name_matches": true,
-   "already_a_pick": true,
-   "seen_before": true
-  },
-  {
-   "venue": "Caveat",
-   "neighborhood": "Lower East Side",
-   "organizer": "https://www.eventbrite.com/o/caveat-13580085802",
-   "title": "The Power Broker Live, with Ben Tumin -  Part 3",
-   "date": "2026-10-04",
-   "time": "5pm",
-   "starts_at": "2026-10-04T17:00:00-04:00",
-   "ends_at": "2026-10-04T18:30:00-04:00",
-   "location_name": "Caveat",
-   "location_address": "21 A Clinton Street, New York, NY 10002, New York",
-   "price_from": 24.41,
-   "url": "https://www.eventbrite.com/e/the-power-broker-live-with-ben-tumin-part-3-tickets-1994609191786",
-   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1189253078%2F207096185123%2F1%2Foriginal.20260720-204617?w=940&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2174%2C1087&s=19b47747f5e96cc9b44aba85101ce851",
-   "description": "Satirist Ben Tumin explores Robert Moses' transformation of New York City",
-   "venue_name_matches": true,
-   "already_a_pick": false,
-   "seen_before": true
-  },
-  {
-   "venue": "Union Hall",
-   "neighborhood": "Park Slope",
-   "organizer": "https://www.eventbrite.com/o/union-hall-17899496497",
-   "title": "Steve Martin Presents with Andrew Dismukes and Michael Good",
-   "date": "2026-10-04",
-   "time": "5pm",
-   "starts_at": "2026-10-04T17:00:00-04:00",
-   "ends_at": "2026-10-04T18:30:00-04:00",
-   "location_name": "Union Hall",
-   "location_address": "702 Union St., Brooklyn, NY 11215, Brooklyn",
-   "price_from": 15.92,
-   "url": "https://www.eventbrite.com/e/steve-martin-presents-with-andrew-dismukes-and-michael-good-tickets-2002356130087",
-   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1194626447%2F282041210522%2F1%2Foriginal.20260929-134740?crop=focalpoint&fit=crop&w=940&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=d3d2c991d0663e13b005cba56452d8d5",
-   "description": "Steve Martin Presents - Sunday, October 4 - 4:30pm Doors / 5:00pm Show",
-   "venue_name_matches": true,
-   "already_a_pick": false,
-   "seen_before": true
-  },
-  {
-   "venue": "Caveat",
-   "neighborhood": "Lower East Side",
-   "organizer": "https://www.eventbrite.com/o/caveat-13580085802",
-   "title": "Comedians Interview Experts: The craft of puzzles with Negin Farsad and Wyna Liu",
-   "date": "2026-10-04",
-   "time": "7:30pm",
-   "starts_at": "2026-10-04T19:30:00-04:00",
-   "ends_at": "2026-10-04T21:30:00-04:00",
-   "location_name": "Caveat",
-   "location_address": "21 A Clinton Street, New York, NY 10002, New York",
-   "price_from": 24.41,
-   "url": "https://www.eventbrite.com/e/comedians-interview-experts-the-craft-of-puzzles-with-negin-farsad-and-wyna-liu-tickets-1992296240687",
-   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1191623649%2F207096185123%2F1%2Foriginal.20260821-202258?w=940&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C1920%2C960&s=3aa32467dde5c71333e2b45cab3593ea",
-   "description": "Negin Farsad talks to Wyna Liu about puzzles and her game Connections",
-   "venue_name_matches": true,
-   "already_a_pick": false,
-   "seen_before": true
-  },
-  {
-   "venue": "Union Hall",
-   "neighborhood": "Park Slope",
-   "organizer": "https://www.eventbrite.com/o/union-hall-17899496497",
-   "title": "BAGWORK with Ontonio Kareem",
-   "date": "2026-10-04",
-   "time": "7:30pm",
-   "starts_at": "2026-10-04T19:30:00-04:00",
-   "ends_at": "2026-10-04T21:00:00-04:00",
-   "location_name": "Union Hall",
-   "location_address": "702 Union St., Brooklyn, NY 11215, Brooklyn",
-   "price_from": 13.61,
-   "url": "https://www.eventbrite.com/e/bagwork-with-ontonio-kareem-tickets-2000197008095",
-   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1192988956%2F282041210522%2F1%2Foriginal.20260908-173159?crop=focalpoint&fit=crop&w=940&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=142099637be7085bbfdff8603190eb4a",
-   "description": "BAGWORK with Ontonio Kareem - Sunday, October 4 - 7:00pm Doors / 7:30pm Show",
-   "venue_name_matches": true,
-   "already_a_pick": false,
-   "seen_before": true
-  },
-  {
-   "venue": "Littlefield",
-   "neighborhood": "Gowanus",
-   "organizer": "https://www.eventbrite.com/o/littlefield-18046024060",
-   "title": "If You're Really From New York with Onika McLean",
-   "date": "2026-10-04",
-   "time": "8pm",
-   "starts_at": "2026-10-04T20:00:00-04:00",
-   "ends_at": "2026-10-04",
-   "location_name": "littlefield",
-   "location_address": "635 Sackett Street, Brooklyn, NY 11217, Brooklyn",
-   "price_from": 29.5,
-   "url": "https://www.eventbrite.com/e/if-youre-really-from-new-york-with-onika-mclean-tickets-2000638894790",
-   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1193613271%2F404652903161%2F1%2Foriginal.20260916-004716?crop=focalpoint&fit=crop&w=940&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=b69f0cd2aa97af322da2289117e3f167",
-   "description": "Brooklyn, USA. One birthday. The hottest talent. Comedy, music, prizes & more. If you’re really from New York, you know where to be October",
-   "venue_name_matches": true,
-   "already_a_pick": true,
-   "seen_before": true
-  },
-  {
-   "venue": "Comic Strip Live",
-   "neighborhood": "Upper East Side",
-   "organizer": "https://www.eventbrite.com/o/comic-strip-live-comedy-club-8100188167",
-   "title": "DF Sweedler, Jack Barth, Carla Oakerson, Nick Griffin, Avi Liberman, more!",
-   "date": "2026-10-04",
-   "time": "8pm",
-   "starts_at": "2026-10-04T20:00:00-04:00",
-   "ends_at": "2026-10-04",
-   "location_name": "Comic Strip Live",
-   "location_address": "1568 2nd Ave, New York, NY 10028, New York",
-   "price_from": 25.71,
-   "url": "https://www.eventbrite.com/e/df-sweedler-jack-barth-carla-oakerson-nick-griffin-avi-liberman-more-tickets-2002247926447",
-   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1194330016%2F136153380524%2F1%2Foriginal.20260925-003958?crop=focalpoint&fit=crop&w=940&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.504&fp-y=0.296&s=6828413d5ff36cb29093086556c4c51e",
-   "description": "Be part of history, celebrating 50 years of Comedy at the World Comic Strip! Comedians from, HBO, The Tonight Show, SNL & More ~",
-   "venue_name_matches": true,
-   "already_a_pick": false,
-   "seen_before": true
-  },
   {
    "venue": "Caveat",
    "neighborhood": "Lower East Side",
@@ -448,7 +296,7 @@
    "location_address": "702 Union St., Brooklyn, NY 11215, Brooklyn",
    "price_from": 15.92,
    "url": "https://www.eventbrite.com/e/musical-comedy-is-cool-tickets-1999226084035",
-   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1192241924%2F282041210522%2F1%2Foriginal.20260830-225534?crop=focalpoint&fit=crop&w=940&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=b248ef4684697b7f5a2921d136a0b18e",
+   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1195024356%2F282041210522%2F1%2Foriginal.20261004-201114?crop=focalpoint&fit=crop&w=940&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=7c1924f7c65288a68c0391cc5140d886",
    "description": "Musical Comedy Is Cool - Thursday, October 8 - 7:00pm Doors / 7:30pm Show",
    "venue_name_matches": true,
    "already_a_pick": false,
@@ -490,7 +338,7 @@
    "description": "Be part of history, celebrating 50 years of Comedy at the World Comic Strip! Comedians from, HBO, The Tonight Show, SNL & More ~",
    "venue_name_matches": true,
    "already_a_pick": false,
-   "seen_before": false
+   "seen_before": true
   },
   {
    "venue": "Caveat",
@@ -509,7 +357,7 @@
    "description": "Chris Gethard examines his grandfather's immigration journey through the lens of the current state of America.",
    "venue_name_matches": true,
    "already_a_pick": true,
-   "seen_before": false
+   "seen_before": true
   },
   {
    "venue": "Caveat",
@@ -528,7 +376,7 @@
    "description": "NYC's home for language comedy explores MAGIC!",
    "venue_name_matches": true,
    "already_a_pick": false,
-   "seen_before": false
+   "seen_before": true
   },
   {
    "venue": "Littlefield",
@@ -541,7 +389,7 @@
    "ends_at": "2026-10-09T22:00:00-04:00",
    "location_name": "littlefield",
    "location_address": "635 Sackett Street, Brooklyn, NY 11217, Brooklyn",
-   "price_from": null,
+   "price_from": 24.36,
    "url": "https://www.eventbrite.com/e/the-dream-eaters-w-special-guests-mary-shelley-tickets-1990510956855",
    "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1185542905%2F24269976876%2F1%2Foriginal.20260527-172157?crop=focalpoint&fit=crop&w=940&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=553bf2bebcd2555753abc79c0ad3d1d8",
    "description": "The Dream Eaters come home to Brooklyn to make you laugh and cry and vomit all over yourself. With the incredible Mary Shelley.",
@@ -585,7 +433,7 @@
    "description": "Be part of history, celebrating 50 years of Comedy at the World Comic Strip! Comedians from, HBO, The Tonight Show, SNL & More ~",
    "venue_name_matches": true,
    "already_a_pick": false,
-   "seen_before": false
+   "seen_before": true
   },
   {
    "venue": "Caveat",
@@ -604,7 +452,7 @@
    "description": "A South Asian Dating Show (That your parents would almost approve of)",
    "venue_name_matches": true,
    "already_a_pick": false,
-   "seen_before": false
+   "seen_before": true
   },
   {
    "venue": "Union Hall",
@@ -626,6 +474,44 @@
    "seen_before": true
   },
   {
+   "venue": "Caveat",
+   "neighborhood": "Lower East Side",
+   "organizer": "https://www.eventbrite.com/o/caveat-13580085802",
+   "title": "Get Work: Halloween Edition!",
+   "date": "2026-10-10",
+   "time": "1:30pm",
+   "starts_at": "2026-10-10T13:30:00-04:00",
+   "ends_at": "2026-10-10T15:00:00-04:00",
+   "location_name": "Caveat",
+   "location_address": "21 A Clinton Street, New York, NY 10002, New York",
+   "price_from": 15.67,
+   "url": "https://www.eventbrite.com/e/get-work-halloween-edition-tickets-1996533120308",
+   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1194295913%2F207096185123%2F1%2Foriginal.20260924-164538?w=940&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2160%2C1080&s=d7888c26f43a7833046900aa8c265286",
+   "description": "Comedians interview for real jobs using fake resumes.",
+   "venue_name_matches": true,
+   "already_a_pick": false,
+   "seen_before": false
+  },
+  {
+   "venue": "Caveat",
+   "neighborhood": "Lower East Side",
+   "organizer": "https://www.eventbrite.com/o/caveat-13580085802",
+   "title": "Modern Whitney",
+   "date": "2026-10-10",
+   "time": "4pm",
+   "starts_at": "2026-10-10T16:00:00-04:00",
+   "ends_at": "2026-10-10T17:20:00-04:00",
+   "location_name": "Caveat",
+   "location_address": "21 A Clinton Street, New York, NY 10002, New York",
+   "price_from": 18.76,
+   "url": "https://www.eventbrite.com/e/modern-whitney-tickets-1997978431272",
+   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1191076911%2F207096185123%2F1%2Foriginal.20260814-152743?w=940&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2000%2C1000&s=365eec3ad5eeb0af67fb7ba8907b3354",
+   "description": "Comedians interpret art, then an expert tells us how close they got",
+   "venue_name_matches": true,
+   "already_a_pick": false,
+   "seen_before": false
+  },
+  {
    "venue": "Union Hall",
    "neighborhood": "Park Slope",
    "organizer": "https://www.eventbrite.com/o/union-hall-17899496497",
@@ -640,6 +526,25 @@
    "url": "https://www.eventbrite.com/e/mohanad-elshieky-green-books-work-in-progress-tickets-1999110619678",
    "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1189406912%2F282041210522%2F1%2Foriginal.20260722-170046?crop=focalpoint&fit=crop&w=940&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=311e1630ecba7b31cd710d611c09dd62",
    "description": "Mohanad Elshieky: Green Books (work in progress) - Saturday, October 10 - 4:30pm Doors / 5:00pm Show",
+   "venue_name_matches": true,
+   "already_a_pick": false,
+   "seen_before": true
+  },
+  {
+   "venue": "Caveat",
+   "neighborhood": "Lower East Side",
+   "organizer": "https://www.eventbrite.com/o/caveat-13580085802",
+   "title": "Nerd Nite",
+   "date": "2026-10-10",
+   "time": "7pm",
+   "starts_at": "2026-10-10T19:00:00-04:00",
+   "ends_at": "2026-10-10T20:30:00-04:00",
+   "location_name": "Caveat",
+   "location_address": "21 A Clinton Street, New York, NY 10002, New York",
+   "price_from": 20.29,
+   "url": "https://www.eventbrite.com/e/nerd-nite-tickets-1996534120299",
+   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1190250246%2F207096185123%2F1%2Foriginal.20260804-022401?w=940&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C1280%2C640&s=c1dd354c3204b142809751f60ec99fe2",
+   "description": "Nerd Nite NYC is back at Caveat NYC with three fun-yet-informative presentations!",
    "venue_name_matches": true,
    "already_a_pick": false,
    "seen_before": false
@@ -718,6 +623,25 @@
    "description": "Aparna Nancherla - Sunday, October 11 - 4:30pm Doors / 5:00pm Show",
    "venue_name_matches": true,
    "already_a_pick": false,
+   "seen_before": true
+  },
+  {
+   "venue": "Union Hall",
+   "neighborhood": "Park Slope",
+   "organizer": "https://www.eventbrite.com/o/union-hall-17899496497",
+   "title": "Dark Tank",
+   "date": "2026-10-11",
+   "time": "7:30pm",
+   "starts_at": "2026-10-11T19:30:00-04:00",
+   "ends_at": "2026-10-11T21:00:00-04:00",
+   "location_name": "Union Hall",
+   "location_address": "702 Union St., Brooklyn, NY 11215, Brooklyn",
+   "price_from": 15.92,
+   "url": "https://www.eventbrite.com/e/dark-tank-tickets-2001400745506",
+   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1193771771%2F282041210522%2F1%2Foriginal.20260917-180411?crop=focalpoint&fit=crop&w=940&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=da7f8fceef8db71502ed5105de457de8",
+   "description": "Dark Tank - Sunday, October 11 - 7:00pm Doors / 7:30pm Show",
+   "venue_name_matches": true,
+   "already_a_pick": false,
    "seen_before": false
   },
   {
@@ -759,6 +683,25 @@
    "seen_before": true
   },
   {
+   "venue": "Union Hall",
+   "neighborhood": "Park Slope",
+   "organizer": "https://www.eventbrite.com/o/union-hall-17899496497",
+   "title": "Aparna Nancherla Is Trying…Again!",
+   "date": "2026-10-12",
+   "time": "7:30pm",
+   "starts_at": "2026-10-12T19:30:00-04:00",
+   "ends_at": "2026-10-12T21:00:00-04:00",
+   "location_name": "Union Hall",
+   "location_address": "702 Union St., Brooklyn, NY 11215, Brooklyn",
+   "price_from": 15.92,
+   "url": "https://www.eventbrite.com/e/aparna-nancherla-is-tryingagain-tickets-1997803200151",
+   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1192142798%2F282041210522%2F1%2Foriginal.20260828-192326?crop=focalpoint&fit=crop&w=940&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=8b70124d55f232ff23844629c964f44d",
+   "description": "Aparna Nancherla - Monday, October 12 - 7:00pm Doors / 7:30pm Show",
+   "venue_name_matches": true,
+   "already_a_pick": false,
+   "seen_before": false
+  },
+  {
    "venue": "Comic Strip Live",
    "neighborhood": "Upper East Side",
    "organizer": "https://www.eventbrite.com/o/comic-strip-live-comedy-club-8100188167",
@@ -776,6 +719,25 @@
    "venue_name_matches": true,
    "already_a_pick": false,
    "seen_before": true
+  },
+  {
+   "venue": "Union Hall",
+   "neighborhood": "Park Slope",
+   "organizer": "https://www.eventbrite.com/o/union-hall-17899496497",
+   "title": "PRETTY  MAJOR Hosted by Jay Jurden",
+   "date": "2026-10-13",
+   "time": "7:30pm",
+   "starts_at": "2026-10-13T19:30:00-04:00",
+   "ends_at": "2026-10-13T21:00:00-04:00",
+   "location_name": "Union Hall",
+   "location_address": "702 Union St., Brooklyn, NY 11215, Brooklyn",
+   "price_from": 15.92,
+   "url": "https://www.eventbrite.com/e/pretty-major-hosted-by-jay-jurden-tickets-2001136537252",
+   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1127766923%2F282041210522%2F1%2Foriginal.20250918-031114?crop=focalpoint&fit=crop&w=940&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=947b2715fe8cfa0ac5ab18e8ce99319c",
+   "description": "PRETTY MAJOR - Tuesday, October 13 - 7:00pm Doors / 7:30pm Show",
+   "venue_name_matches": true,
+   "already_a_pick": false,
+   "seen_before": false
   },
   {
    "venue": "Littlefield",
@@ -813,7 +775,7 @@
    "description": "Be part of history, celebrating 50 years of Comedy at the World Comic Strip! Comedians from, HBO, The Tonight Show, SNL & More ~",
    "venue_name_matches": true,
    "already_a_pick": false,
-   "seen_before": false
+   "seen_before": true
   },
   {
    "venue": "Littlefield",
@@ -831,8 +793,8 @@
    "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1191424040%2F400863417153%2F1%2Foriginal.20260819-134419?crop=focalpoint&fit=crop&w=940&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=6e85336c6161050991351fba71800350",
    "description": "Live from the abyss between expectations and reality, two transgenders joke about mental health, gender identity, relationships and money.",
    "venue_name_matches": true,
-   "already_a_pick": false,
-   "seen_before": false
+   "already_a_pick": true,
+   "seen_before": true
   },
   {
    "venue": "Comic Strip Live",
@@ -851,7 +813,7 @@
    "description": "Be part of history, celebrating 50 years of Comedy at the World Comic Strip! Comedians from, HBO, The Tonight Show, SNL & More ~",
    "venue_name_matches": true,
    "already_a_pick": false,
-   "seen_before": false
+   "seen_before": true
   },
   {
    "venue": "Kellogg's Diner",
@@ -889,6 +851,25 @@
    "description": "Performers will attempt (and most likely fail) to recreate \"It\", without the aid of scripts, rehearsals, or sobriety.",
    "venue_name_matches": true,
    "already_a_pick": false,
+   "seen_before": true
+  },
+  {
+   "venue": "Comic Strip Live",
+   "neighborhood": "Upper East Side",
+   "organizer": "https://www.eventbrite.com/o/comic-strip-live-comedy-club-8100188167",
+   "title": "The Andy Engel Show!",
+   "date": "2026-10-15",
+   "time": "8pm",
+   "starts_at": "2026-10-15T20:00:00-04:00",
+   "ends_at": "2026-10-15",
+   "location_name": "Comic Strip Live",
+   "location_address": "1568 2nd Ave, New York, NY 10028, New York",
+   "price_from": 25.71,
+   "url": "https://www.eventbrite.com/e/the-andy-engel-show-tickets-2002306080387",
+   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1194381739%2F136153380524%2F1%2Foriginal.20260925-184458?crop=focalpoint&fit=crop&w=940&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.331&fp-y=0.226&s=3de398318f497769edb20529af48c835",
+   "description": "Be part of history, celebrating 50 years of Comedy at the World Comic Strip! Comedians from, HBO, The Tonight Show, SNL & More ~",
+   "venue_name_matches": true,
+   "already_a_pick": false,
    "seen_before": false
   },
   {
@@ -906,6 +887,44 @@
    "url": "https://www.eventbrite.com/e/buffering-the-vampire-slayer-presents-homecoming-weekend-2026-tickets-1988863572484",
    "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1183852145%2F24269976876%2F1%2Foriginal.20260505-195833?crop=focalpoint&fit=crop&w=940&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=58a09f400b0070a2c2861d2cd0a1d4ee",
    "description": "Join Jenny Owen Youngs & Kristin Russo for a live podcast taping & Homecoming Dance to celebrate 10 years of Buffering the Vampire Slayer!",
+   "venue_name_matches": true,
+   "already_a_pick": false,
+   "seen_before": true
+  },
+  {
+   "venue": "Littlefield",
+   "neighborhood": "Gowanus",
+   "organizer": "https://www.eventbrite.com/o/littlefield-18046024060",
+   "title": "The Distance from Here - Michael James Freedman - Arts Gowanus Open Studios",
+   "date": "2026-10-17",
+   "time": "12pm",
+   "starts_at": "2026-10-17T12:00:00-04:00",
+   "ends_at": "2026-10-17",
+   "location_name": "littlefield",
+   "location_address": "635 Sackett Street, Brooklyn, NY 11217, Brooklyn",
+   "price_from": 0,
+   "url": "https://www.eventbrite.com/e/the-distance-from-here-michael-james-freedman-arts-gowanus-open-studios-tickets-2000206141413",
+   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1192997542%2F404652903161%2F1%2Foriginal.20260908-185642?crop=focalpoint&fit=crop&w=940&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=6053ac9a581a6386cd5230bf9ad31754",
+   "description": "Experience a cutting-edge interactive art display with original artwork and generated images that memorialize traffic crashes across NYC",
+   "venue_name_matches": true,
+   "already_a_pick": false,
+   "seen_before": false
+  },
+  {
+   "venue": "Littlefield",
+   "neighborhood": "Gowanus",
+   "organizer": "https://www.eventbrite.com/o/littlefield-18046024060",
+   "title": "The Distance from Here - Michael James Freedman - Arts Gowanus Open Studios",
+   "date": "2026-10-18",
+   "time": "12pm",
+   "starts_at": "2026-10-18T12:00:00-04:00",
+   "ends_at": "2026-10-18",
+   "location_name": "littlefield",
+   "location_address": "635 Sackett Street, Brooklyn, NY 11217, Brooklyn",
+   "price_from": 0,
+   "url": "https://www.eventbrite.com/e/the-distance-from-here-michael-james-freedman-arts-gowanus-open-studios-tickets-2000206600787",
+   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1192997542%2F404652903161%2F1%2Foriginal.20260908-185642?crop=focalpoint&fit=crop&w=940&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=6053ac9a581a6386cd5230bf9ad31754",
+   "description": "Experience a cutting-edge interactive art display with original artwork and generated images that memorialize traffic crashes across NYC",
    "venue_name_matches": true,
    "already_a_pick": false,
    "seen_before": false
