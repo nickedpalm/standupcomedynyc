@@ -625,7 +625,7 @@
  },
  {
   "event_id": "comedy-girl-autumn-2026-10-04",
-  "src": "/assets/posters/comedy-girl-autumn-2026-10-04.jpg",
+  "src": "/assets/posters/archive/comedy-girl-autumn-2026-10-04.jpg",
   "width": 640,
   "height": 427,
   "source_url": "https://www.ticketmaster.com/comedy-girl-autumn-a-live-comedy-brooklyn-new-york-10-04-2026/event/3000651A4882F04F",
@@ -636,7 +636,8 @@
   "retrieved_at": "2026-09-15",
   "bytes": 25803,
   "sha256": "TBD",
-  "reuse_status": "Official promotional artwork from the show's Ticketmaster listing; no separate reuse license identified. Site display with credit only."
+  "reuse_status": "Official promotional artwork from the show's Ticketmaster listing; no separate reuse license identified. Site display with credit only.",
+  "archived": true
  },
  {
   "event_id": "hot-butter-train-2026-10-05",
@@ -1210,7 +1211,7 @@
  },
  {
   "event_id": "daylighters-littlefield-2026-10-04",
-  "src": "/assets/posters/daylighters-littlefield-2026-10-04.jpg",
+  "src": "/assets/posters/archive/daylighters-littlefield-2026-10-04.jpg",
   "width": 940,
   "height": 470,
   "source_url": "https://www.eventbrite.com/e/daylighters-a-comedy-show-you-can-bring-your-kids-to-tickets-1996820945200",
@@ -1221,7 +1222,8 @@
   "retrieved_at": "2026-09-22",
   "bytes": 145991,
   "sha256": "434972c1dc7b4148bb00e3feffe6ac72e871a60fdffae54f759adf20321d5704",
-  "reuse_status": "Official promotional artwork; no separate reuse license identified. Local review draft only."
+  "reuse_status": "Official promotional artwork; no separate reuse license identified. Local review draft only.",
+  "archived": true
  },
  {
   "event_id": "sheba-mason-cory-kahaney-comic-strip-2026-09-29",
@@ -1288,7 +1290,7 @@
  },
  {
   "event_id": "if-youre-really-from-new-york-littlefield-2026-10-04",
-  "src": "/assets/posters/if-youre-really-from-new-york-littlefield-2026-10-04.jpg",
+  "src": "/assets/posters/archive/if-youre-really-from-new-york-littlefield-2026-10-04.jpg",
   "width": 1880,
   "height": 940,
   "source_url": "https://www.eventbrite.com/e/if-youre-really-from-new-york-with-onika-mclean-tickets-2000638894790",
@@ -1299,7 +1301,8 @@
   "retrieved_at": "2026-09-25",
   "bytes": 250451,
   "sha256": "3cec1a3292a01f801665779ac5074675da463443dbd2727e701ada8e163cb491",
-  "reuse_status": "Official promotional artwork; no separate reuse license identified. Local review draft only."
+  "reuse_status": "Official promotional artwork; no separate reuse license identified. Local review draft only.",
+  "archived": true
  },
  {
   "event_id": "salma-hindy-10-years-stand-2026-11-04",
