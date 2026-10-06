@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-05T09:42:44.993Z",
+ "generated_at": "2026-10-06T09:31:43.495Z",
  "note": "Demand signals for the editor. Only availability and second shows set the public demand tag.",
  "picks": [
   {
@@ -14,14 +14,14 @@
    "performer": "Maria Bamford",
    "wikipedia": {
     "title": "Maria Bamford",
-    "views_30d": 86992,
-    "views_prior_30d": 23795,
-    "change": 266
+    "views_30d": 87820,
+    "views_prior_30d": 24227,
+    "change": 262
    },
    "reddit": null,
    "reasons": [
-    "Wikipedia: 2900 views a day",
-    "Wikipedia views up 266% over the prior month"
+    "Wikipedia: 2927 views a day",
+    "Wikipedia views up 262% over the prior month"
    ]
   },
   {
@@ -36,14 +36,14 @@
    "performer": "Joanne McNally",
    "wikipedia": {
     "title": "Joanne McNally",
-    "views_30d": 107599,
-    "views_prior_30d": 30468,
-    "change": 253
+    "views_30d": 111722,
+    "views_prior_30d": 30602,
+    "change": 265
    },
    "reddit": null,
    "reasons": [
-    "Wikipedia: 3587 views a day",
-    "Wikipedia views up 253% over the prior month"
+    "Wikipedia: 3724 views a day",
+    "Wikipedia views up 265% over the prior month"
    ]
   },
   {
@@ -58,14 +58,14 @@
    "performer": "Sam Tallent",
    "wikipedia": {
     "title": "Sam Tallent",
-    "views_30d": 12251,
-    "views_prior_30d": 2163,
-    "change": 466
+    "views_30d": 12359,
+    "views_prior_30d": 2172,
+    "change": 469
    },
    "reddit": null,
    "reasons": [
-    "Wikipedia: 408 views a day",
-    "Wikipedia views up 466% over the prior month"
+    "Wikipedia: 412 views a day",
+    "Wikipedia views up 469% over the prior month"
    ]
   },
   {
@@ -80,13 +80,13 @@
    "performer": "Marc Maron",
    "wikipedia": {
     "title": "Marc Maron",
-    "views_30d": 33940,
-    "views_prior_30d": 30445,
-    "change": 11
+    "views_30d": 34179,
+    "views_prior_30d": 30369,
+    "change": 13
    },
    "reddit": null,
    "reasons": [
-    "Wikipedia: 1131 views a day"
+    "Wikipedia: 1139 views a day"
    ]
   },
   {
@@ -101,34 +101,13 @@
    "performer": "Ilana Glazer",
    "wikipedia": {
     "title": "Ilana Glazer",
-    "views_30d": 30689,
-    "views_prior_30d": 30995,
-    "change": -1
+    "views_30d": 32090,
+    "views_prior_30d": 30963,
+    "change": 4
    },
    "reddit": null,
    "reasons": [
-    "Wikipedia: 1023 views a day"
-   ]
-  },
-  {
-   "id": "mark-simmons-jest-to-impress-soho-playhouse-2026-10-27",
-   "title": "Mark Simmons: Jest to Impress",
-   "venue": "SoHo Playhouse",
-   "date": "2026-10-27",
-   "heat": 15,
-   "demand": null,
-   "availability": null,
-   "second_show": false,
-   "performer": "Mark Simmons",
-   "wikipedia": {
-    "title": "Mark Simmons (comedian)",
-    "views_30d": 1637,
-    "views_prior_30d": 1034,
-    "change": 58
-   },
-   "reddit": null,
-   "reasons": [
-    "Wikipedia views up 58% over the prior month"
+    "Wikipedia: 1070 views a day"
    ]
   },
   {
@@ -143,8 +122,8 @@
    "performer": "Salma Hindy",
    "wikipedia": {
     "title": "Salma Hindy",
-    "views_30d": 3405,
-    "views_prior_30d": 1371,
+    "views_30d": 3387,
+    "views_prior_30d": 1367,
     "change": 148
    },
    "reddit": null,
@@ -164,13 +143,13 @@
    "performer": "Molly Kearney",
    "wikipedia": {
     "title": "Molly Kearney",
-    "views_30d": 6839,
-    "views_prior_30d": 4880,
-    "change": 40
+    "views_30d": 7099,
+    "views_prior_30d": 4817,
+    "change": 47
    },
    "reddit": null,
    "reasons": [
-    "Wikipedia: 228 views a day"
+    "Wikipedia: 237 views a day"
    ]
   },
   {
@@ -185,13 +164,13 @@
    "performer": "Kathy Griffin",
    "wikipedia": {
     "title": "Kathy Griffin",
-    "views_30d": 26041,
-    "views_prior_30d": 30429,
+    "views_30d": 26075,
+    "views_prior_30d": 30260,
     "change": -14
    },
    "reddit": null,
    "reasons": [
-    "Wikipedia: 868 views a day"
+    "Wikipedia: 869 views a day"
    ]
   },
   {
@@ -206,13 +185,13 @@
    "performer": "Asif Ali",
    "wikipedia": {
     "title": "Asif Ali (comedian)",
-    "views_30d": 6670,
-    "views_prior_30d": 7828,
-    "change": -15
+    "views_30d": 6598,
+    "views_prior_30d": 7869,
+    "change": -16
    },
    "reddit": null,
    "reasons": [
-    "Wikipedia: 222 views a day"
+    "Wikipedia: 220 views a day"
    ]
   },
   {
@@ -227,13 +206,13 @@
    "performer": "Johnny Pemberton",
    "wikipedia": {
     "title": "Johnny Pemberton",
-    "views_30d": 21672,
-    "views_prior_30d": 20262,
-    "change": 7
+    "views_30d": 21520,
+    "views_prior_30d": 20485,
+    "change": 5
    },
    "reddit": null,
    "reasons": [
-    "Wikipedia: 722 views a day"
+    "Wikipedia: 717 views a day"
    ]
   },
   {
@@ -248,13 +227,13 @@
    "performer": "Michelle Buteau",
    "wikipedia": {
     "title": "Michelle Buteau",
-    "views_30d": 23070,
-    "views_prior_30d": 55736,
-    "change": -59
+    "views_30d": 23105,
+    "views_prior_30d": 55220,
+    "change": -58
    },
    "reddit": null,
    "reasons": [
-    "Wikipedia: 769 views a day"
+    "Wikipedia: 770 views a day"
    ]
   },
   {
@@ -269,13 +248,13 @@
    "performer": "Adam Ray",
    "wikipedia": {
     "title": "Adam Ray",
-    "views_30d": 14388,
-    "views_prior_30d": 20692,
-    "change": -30
+    "views_30d": 14179,
+    "views_prior_30d": 20067,
+    "change": -29
    },
    "reddit": null,
    "reasons": [
-    "Wikipedia: 480 views a day"
+    "Wikipedia: 473 views a day"
    ]
   },
   {
@@ -290,13 +269,13 @@
    "performer": "Jess Hilarious",
    "wikipedia": {
     "title": "Jess Hilarious",
-    "views_30d": 9526,
-    "views_prior_30d": 8464,
-    "change": 13
+    "views_30d": 9574,
+    "views_prior_30d": 8419,
+    "change": 14
    },
    "reddit": null,
    "reasons": [
-    "Wikipedia: 318 views a day"
+    "Wikipedia: 319 views a day"
    ]
   },
   {
@@ -311,43 +290,13 @@
    "performer": "Daniel Sloss",
    "wikipedia": {
     "title": "Daniel Sloss",
-    "views_30d": 18078,
-    "views_prior_30d": 20912,
-    "change": -14
+    "views_30d": 18113,
+    "views_prior_30d": 20555,
+    "change": -12
    },
    "reddit": null,
    "reasons": [
-    "Wikipedia: 603 views a day"
-   ]
-  },
-  {
-   "id": "hot-butter-train-2026-10-05",
-   "title": "Hot Butter Train",
-   "venue": "The Bell House",
-   "date": "2026-10-05",
-   "heat": 0,
-   "demand": null,
-   "availability": null,
-   "second_show": false,
-   "performer": "Hot Butter Train",
-   "wikipedia": null,
-   "reddit": null,
-   "reasons": []
-  },
-  {
-   "id": "vanessa-gonzalez-special-screening-caveat-2026-10-05",
-   "title": "Vanessa Gonzalez's Special Screening!",
-   "venue": "Caveat",
-   "date": "2026-10-05",
-   "heat": 0,
-   "demand": null,
-   "availability": "InStock",
-   "second_show": false,
-   "performer": null,
-   "wikipedia": null,
-   "reddit": null,
-   "reasons": [
-    "tickets available"
+    "Wikipedia: 604 views a day"
    ]
   },
   {
@@ -434,8 +383,8 @@
    "performer": "Chris Gethard",
    "wikipedia": {
     "title": "Chris Gethard",
-    "views_30d": 4869,
-    "views_prior_30d": 6136,
+    "views_30d": 4861,
+    "views_prior_30d": 6115,
     "change": -21
    },
    "reddit": null,
@@ -793,9 +742,9 @@
    "performer": "Sydnee Washington",
    "wikipedia": {
     "title": "Sydnee Washington",
-    "views_30d": 1414,
-    "views_prior_30d": 2051,
-    "change": -31
+    "views_30d": 1390,
+    "views_prior_30d": 2038,
+    "change": -32
    },
    "reddit": null,
    "reasons": []
@@ -853,6 +802,25 @@
    "second_show": false,
    "performer": null,
    "wikipedia": null,
+   "reddit": null,
+   "reasons": []
+  },
+  {
+   "id": "mark-simmons-jest-to-impress-soho-playhouse-2026-10-27",
+   "title": "Mark Simmons: Jest to Impress",
+   "venue": "SoHo Playhouse",
+   "date": "2026-10-27",
+   "heat": 0,
+   "demand": null,
+   "availability": null,
+   "second_show": false,
+   "performer": "Mark Simmons",
+   "wikipedia": {
+    "title": "Mark Simmons (comedian)",
+    "views_30d": 1523,
+    "views_prior_30d": 1177,
+    "change": 29
+   },
    "reddit": null,
    "reasons": []
   },
@@ -1010,9 +978,9 @@
    "performer": "Difficult People",
    "wikipedia": {
     "title": "Difficult People",
-    "views_30d": 5027,
-    "views_prior_30d": 6012,
-    "change": -16
+    "views_30d": 5028,
+    "views_prior_30d": 5930,
+    "change": -15
    },
    "reddit": null,
    "reasons": []
@@ -1071,8 +1039,8 @@
    "performer": "Josh Sharp",
    "wikipedia": {
     "title": "Josh Sharp",
-    "views_30d": 845,
-    "views_prior_30d": 1170,
+    "views_30d": 840,
+    "views_prior_30d": 1174,
     "change": -28
    },
    "reddit": null,
@@ -1233,6 +1201,41 @@
    "reasons": [
     "tickets available"
    ]
+  },
+  {
+   "id": "pretty-major-union-hall-2026-10-13",
+   "title": "PRETTY MAJOR Hosted by Jay Jurden",
+   "venue": "Union Hall",
+   "date": "2026-10-13",
+   "heat": 0,
+   "demand": null,
+   "availability": "InStock",
+   "second_show": false,
+   "performer": null,
+   "wikipedia": null,
+   "reddit": null,
+   "reasons": [
+    "tickets available"
+   ]
+  },
+  {
+   "id": "martin-amini-gotham-2026-10-13",
+   "title": "Martin Amini",
+   "venue": "Gotham Comedy Club",
+   "date": "2026-10-13",
+   "heat": 0,
+   "demand": null,
+   "availability": null,
+   "second_show": false,
+   "performer": "Martin Amini",
+   "wikipedia": {
+    "title": "Martin Amini",
+    "views_30d": 5307,
+    "views_prior_30d": 5775,
+    "change": -8
+   },
+   "reddit": null,
+   "reasons": []
   }
  ]
 }

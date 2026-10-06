@@ -641,7 +641,7 @@
  },
  {
   "event_id": "hot-butter-train-2026-10-05",
-  "src": "/assets/posters/hot-butter-train-2026-10-05.jpg",
+  "src": "/assets/posters/archive/hot-butter-train-2026-10-05.jpg",
   "width": 640,
   "height": 427,
   "source_url": "https://www.ticketmaster.com/hot-butter-train-brooklyn-new-york-10-05-2026/event/300064A647EB9910",
@@ -652,7 +652,8 @@
   "retrieved_at": "2026-09-15",
   "bytes": 47209,
   "sha256": "TBD",
-  "reuse_status": "Official promotional artwork from the show's Ticketmaster listing; no separate reuse license identified. Site display with credit only."
+  "reuse_status": "Official promotional artwork from the show's Ticketmaster listing; no separate reuse license identified. Site display with credit only.",
+  "archived": true
  },
  {
   "event_id": "joe-mande-2026-10-07",
@@ -691,7 +692,7 @@
   "height": 427,
   "source_url": "https://www.ticketmaster.com/poly-diaz-en-espanol-brooklyn-new-york-10-09-2026/event/300064E804C8B732",
   "credit": "Artwork: The Bell House / show organizer",
-  "alt": "Poly D\u00edaz (En Espa\u00f1ol) promotional artwork.",
+  "alt": "Poly Díaz (En Español) promotional artwork.",
   "kind": "dated event flyer",
   "original_image_url": "https://s1.ticketm.net/dam/a/46b/b02509bd-4380-43c8-b78d-f269a917446b_RETINA_PORTRAIT_3_2.jpg",
   "retrieved_at": "2026-09-15",
@@ -1123,7 +1124,7 @@
   "height": 440,
   "source_url": "https://comicstriplive.com/elyse-delucci-well-this-is-humbling/",
   "credit": "Artwork: Comic Strip Live / show organizer",
-  "alt": "Elyse DeLucci \u2013 ONE NIGHT ONLY! promotional artwork.",
+  "alt": "Elyse DeLucci – ONE NIGHT ONLY! promotional artwork.",
   "kind": "dated event flyer",
   "original_image_url": "https://comicstriplive.com/wp-content/uploads/2026/09/FLYER_ComicStrip2026June18-1-e1789779169571-720x440.png",
   "retrieved_at": "2026-09-21",
@@ -1337,7 +1338,7 @@
  },
  {
   "event_id": "vanessa-gonzalez-special-screening-caveat-2026-10-05",
-  "src": "/assets/posters/vanessa-gonzalez-special-screening-caveat-2026-10-05.jpg",
+  "src": "/assets/posters/archive/vanessa-gonzalez-special-screening-caveat-2026-10-05.jpg",
   "width": 940,
   "height": 470,
   "source_url": "https://www.eventbrite.com/e/vanessa-gonzalezs-special-screening-tickets-2000295896874",
@@ -1348,7 +1349,8 @@
   "retrieved_at": "2026-09-27",
   "bytes": 107587,
   "sha256": "aeaaa9abf8b1e43632085e282fca3f2f41eee584568eb8dcbc1e7b81c586b8c8",
-  "reuse_status": "Official promotional artwork; no separate reuse license identified. Local review draft only."
+  "reuse_status": "Official promotional artwork; no separate reuse license identified. Local review draft only.",
+  "archived": true
  },
  {
   "event_id": "christian-finnegan-comic-strip-2026-10-07",
