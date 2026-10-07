@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-06T09:31:43.495Z",
+ "generated_at": "2026-10-07T09:32:27.267Z",
  "note": "Demand signals for the editor. Only availability and second shows set the public demand tag.",
  "picks": [
   {
@@ -14,14 +14,14 @@
    "performer": "Maria Bamford",
    "wikipedia": {
     "title": "Maria Bamford",
-    "views_30d": 87820,
-    "views_prior_30d": 24227,
-    "change": 262
+    "views_30d": 88235,
+    "views_prior_30d": 24459,
+    "change": 261
    },
    "reddit": null,
    "reasons": [
-    "Wikipedia: 2927 views a day",
-    "Wikipedia views up 262% over the prior month"
+    "Wikipedia: 2941 views a day",
+    "Wikipedia views up 261% over the prior month"
    ]
   },
   {
@@ -36,14 +36,36 @@
    "performer": "Joanne McNally",
    "wikipedia": {
     "title": "Joanne McNally",
-    "views_30d": 111722,
-    "views_prior_30d": 30602,
+    "views_30d": 113658,
+    "views_prior_30d": 31163,
     "change": 265
    },
    "reddit": null,
    "reasons": [
-    "Wikipedia: 3724 views a day",
+    "Wikipedia: 3789 views a day",
     "Wikipedia views up 265% over the prior month"
+   ]
+  },
+  {
+   "id": "molly-kearney-2026-10-08",
+   "title": "Molly Kearney",
+   "venue": "The Bell House",
+   "date": "2026-10-08",
+   "heat": 25,
+   "demand": null,
+   "availability": null,
+   "second_show": false,
+   "performer": "Molly Kearney",
+   "wikipedia": {
+    "title": "Molly Kearney",
+    "views_30d": 7322,
+    "views_prior_30d": 4752,
+    "change": 54
+   },
+   "reddit": null,
+   "reasons": [
+    "Wikipedia: 244 views a day",
+    "Wikipedia views up 54% over the prior month"
    ]
   },
   {
@@ -58,14 +80,14 @@
    "performer": "Sam Tallent",
    "wikipedia": {
     "title": "Sam Tallent",
-    "views_30d": 12359,
-    "views_prior_30d": 2172,
-    "change": 469
+    "views_30d": 12476,
+    "views_prior_30d": 2137,
+    "change": 484
    },
    "reddit": null,
    "reasons": [
-    "Wikipedia: 412 views a day",
-    "Wikipedia views up 469% over the prior month"
+    "Wikipedia: 416 views a day",
+    "Wikipedia views up 484% over the prior month"
    ]
   },
   {
@@ -80,13 +102,13 @@
    "performer": "Marc Maron",
    "wikipedia": {
     "title": "Marc Maron",
-    "views_30d": 34179,
-    "views_prior_30d": 30369,
+    "views_30d": 34448,
+    "views_prior_30d": 30459,
     "change": 13
    },
    "reddit": null,
    "reasons": [
-    "Wikipedia: 1139 views a day"
+    "Wikipedia: 1148 views a day"
    ]
   },
   {
@@ -101,13 +123,13 @@
    "performer": "Ilana Glazer",
    "wikipedia": {
     "title": "Ilana Glazer",
-    "views_30d": 32090,
-    "views_prior_30d": 30963,
-    "change": 4
+    "views_30d": 33255,
+    "views_prior_30d": 30974,
+    "change": 7
    },
    "reddit": null,
    "reasons": [
-    "Wikipedia: 1070 views a day"
+    "Wikipedia: 1109 views a day"
    ]
   },
   {
@@ -123,33 +145,12 @@
    "wikipedia": {
     "title": "Salma Hindy",
     "views_30d": 3387,
-    "views_prior_30d": 1367,
-    "change": 148
+    "views_prior_30d": 1348,
+    "change": 151
    },
    "reddit": null,
    "reasons": [
-    "Wikipedia views up 148% over the prior month"
-   ]
-  },
-  {
-   "id": "molly-kearney-2026-10-08",
-   "title": "Molly Kearney",
-   "venue": "The Bell House",
-   "date": "2026-10-08",
-   "heat": 10,
-   "demand": null,
-   "availability": null,
-   "second_show": false,
-   "performer": "Molly Kearney",
-   "wikipedia": {
-    "title": "Molly Kearney",
-    "views_30d": 7099,
-    "views_prior_30d": 4817,
-    "change": 47
-   },
-   "reddit": null,
-   "reasons": [
-    "Wikipedia: 237 views a day"
+    "Wikipedia views up 151% over the prior month"
    ]
   },
   {
@@ -164,13 +165,13 @@
    "performer": "Kathy Griffin",
    "wikipedia": {
     "title": "Kathy Griffin",
-    "views_30d": 26075,
-    "views_prior_30d": 30260,
-    "change": -14
+    "views_30d": 26497,
+    "views_prior_30d": 29870,
+    "change": -11
    },
    "reddit": null,
    "reasons": [
-    "Wikipedia: 869 views a day"
+    "Wikipedia: 883 views a day"
    ]
   },
   {
@@ -185,13 +186,13 @@
    "performer": "Asif Ali",
    "wikipedia": {
     "title": "Asif Ali (comedian)",
-    "views_30d": 6598,
-    "views_prior_30d": 7869,
-    "change": -16
+    "views_30d": 6507,
+    "views_prior_30d": 7887,
+    "change": -17
    },
    "reddit": null,
    "reasons": [
-    "Wikipedia: 220 views a day"
+    "Wikipedia: 217 views a day"
    ]
   },
   {
@@ -206,13 +207,13 @@
    "performer": "Johnny Pemberton",
    "wikipedia": {
     "title": "Johnny Pemberton",
-    "views_30d": 21520,
-    "views_prior_30d": 20485,
-    "change": 5
+    "views_30d": 21166,
+    "views_prior_30d": 20844,
+    "change": 2
    },
    "reddit": null,
    "reasons": [
-    "Wikipedia: 717 views a day"
+    "Wikipedia: 706 views a day"
    ]
   },
   {
@@ -227,13 +228,13 @@
    "performer": "Michelle Buteau",
    "wikipedia": {
     "title": "Michelle Buteau",
-    "views_30d": 23105,
-    "views_prior_30d": 55220,
-    "change": -58
+    "views_30d": 22899,
+    "views_prior_30d": 47860,
+    "change": -52
    },
    "reddit": null,
    "reasons": [
-    "Wikipedia: 770 views a day"
+    "Wikipedia: 763 views a day"
    ]
   },
   {
@@ -248,13 +249,13 @@
    "performer": "Adam Ray",
    "wikipedia": {
     "title": "Adam Ray",
-    "views_30d": 14179,
-    "views_prior_30d": 20067,
+    "views_30d": 14080,
+    "views_prior_30d": 19777,
     "change": -29
    },
    "reddit": null,
    "reasons": [
-    "Wikipedia: 473 views a day"
+    "Wikipedia: 469 views a day"
    ]
   },
   {
@@ -269,13 +270,13 @@
    "performer": "Jess Hilarious",
    "wikipedia": {
     "title": "Jess Hilarious",
-    "views_30d": 9574,
-    "views_prior_30d": 8419,
+    "views_30d": 9485,
+    "views_prior_30d": 8350,
     "change": 14
    },
    "reddit": null,
    "reasons": [
-    "Wikipedia: 319 views a day"
+    "Wikipedia: 316 views a day"
    ]
   },
   {
@@ -290,28 +291,14 @@
    "performer": "Daniel Sloss",
    "wikipedia": {
     "title": "Daniel Sloss",
-    "views_30d": 18113,
-    "views_prior_30d": 20555,
-    "change": -12
+    "views_30d": 18207,
+    "views_prior_30d": 20293,
+    "change": -10
    },
    "reddit": null,
    "reasons": [
-    "Wikipedia: 604 views a day"
+    "Wikipedia: 607 views a day"
    ]
-  },
-  {
-   "id": "yankel-the-rooster-bell-house-2026-10-06",
-   "title": "Yankel the Rooster Live!",
-   "venue": "The Bell House",
-   "date": "2026-10-06",
-   "heat": 0,
-   "demand": null,
-   "availability": null,
-   "second_show": false,
-   "performer": null,
-   "wikipedia": null,
-   "reddit": null,
-   "reasons": []
   },
   {
    "id": "joe-mande-2026-10-07",
@@ -383,9 +370,9 @@
    "performer": "Chris Gethard",
    "wikipedia": {
     "title": "Chris Gethard",
-    "views_30d": 4861,
-    "views_prior_30d": 6115,
-    "change": -21
+    "views_30d": 4884,
+    "views_prior_30d": 6088,
+    "change": -20
    },
    "reddit": null,
    "reasons": [
@@ -742,9 +729,9 @@
    "performer": "Sydnee Washington",
    "wikipedia": {
     "title": "Sydnee Washington",
-    "views_30d": 1390,
-    "views_prior_30d": 2038,
-    "change": -32
+    "views_30d": 1357,
+    "views_prior_30d": 2026,
+    "change": -33
    },
    "reddit": null,
    "reasons": []
@@ -817,8 +804,8 @@
    "performer": "Mark Simmons",
    "wikipedia": {
     "title": "Mark Simmons (comedian)",
-    "views_30d": 1523,
-    "views_prior_30d": 1177,
+    "views_30d": 1518,
+    "views_prior_30d": 1181,
     "change": 29
    },
    "reddit": null,
@@ -978,8 +965,8 @@
    "performer": "Difficult People",
    "wikipedia": {
     "title": "Difficult People",
-    "views_30d": 5028,
-    "views_prior_30d": 5930,
+    "views_30d": 4976,
+    "views_prior_30d": 5875,
     "change": -15
    },
    "reddit": null,
@@ -1039,9 +1026,9 @@
    "performer": "Josh Sharp",
    "wikipedia": {
     "title": "Josh Sharp",
-    "views_30d": 840,
-    "views_prior_30d": 1174,
-    "change": -28
+    "views_30d": 826,
+    "views_prior_30d": 1173,
+    "change": -30
    },
    "reddit": null,
    "reasons": []
@@ -1230,9 +1217,9 @@
    "performer": "Martin Amini",
    "wikipedia": {
     "title": "Martin Amini",
-    "views_30d": 5307,
-    "views_prior_30d": 5775,
-    "change": -8
+    "views_30d": 5252,
+    "views_prior_30d": 5790,
+    "change": -9
    },
    "reddit": null,
    "reasons": []
