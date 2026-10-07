@@ -11,12 +11,12 @@ Six weeks ahead from the board. Regenerated on every build; edit the data, not t
 
 ## Research plan today
 
-Ranked 41; run 2, reuse 3, skip 36; ~351,000 tokens saved.
+Ranked 45; run 2, reuse 3, skip 40; ~387,000 tokens saved. No recent data: Lisa Wallen Headlines.
 
-## Week 1: Oct 7 to Oct 13 — 15 picks — 5 without artwork · 29 Eventbrite leads not yet reviewed
+## Week 1: Oct 7 to Oct 13 — 17 picks — 5 without artwork · 33 Eventbrite leads not yet reviewed
 
 - Wed Oct 7 7:30pm — **Joe Mande Con Amici** at The Bell House
-- Wed Oct 7 8pm — **Laughs In The East** at Eastville Comedy Club · NO ARTWORK
+- Wed Oct 7 8pm — **UG! KNOCKOUTS — Stand-Up Comedy as a Sport!** at Eastville Comedy Club · NO ARTWORK
 - Wed Oct 7 8pm (doors 7:30pm) — **Christian Finnegan, Paul Mecurio & Friends** at Comic Strip Live
 - Thu Oct 8 7:30pm — **Molly Kearney** at The Bell House · heat 25
 - Thu Oct 8 8pm — **Lisa Wallen Headlines** at Eastville Comedy Club · NO ARTWORK
@@ -25,7 +25,9 @@ Ranked 41; run 2, reuse 3, skip 36; ~351,000 tokens saved.
 - Fri Oct 9 7:30pm — **Poly Díaz (En Español)** at The Bell House
 - Fri Oct 9 8pm · doors 7:30pm — **Magic City – A Night of Comedy** at The Fear City Comedy Club · NO ARTWORK
 - Sat Oct 10 6pm — **Maria Bamford: Live** at The Bell House · heat 35
+- Sat Oct 10 7pm — **Judah Friedlander, Corinne Fisher, Phil Duckett, Maggie Naughton** at New York Comedy Club (Midtown)
 - Sun Oct 11 6pm — **Wait, What's Sri Lanka? — Comedy Special Taping** at Eastville Comedy Club · NO ARTWORK
+- Sun Oct 11 7pm — **Jesús Abelardo: La Dulce Vida (En Español)** at New York Comedy Club (Midtown)
 - Mon Oct 12 7:30pm — **The Bechdel Cast 10 Year Anniversary Tour** at The Bell House
 - Mon Oct 12 7:30pm — **Miss Mississippi Comedy: Red State Comics for Reproductive Justice** at Littlefield
 - Tue Oct 13 7pm — **Martin Amini** at Gotham Comedy Club
@@ -41,7 +43,7 @@ Ranked 41; run 2, reuse 3, skip 36; ~351,000 tokens saved.
   - Thu Oct 8 8pm — The George Lucas Talk Show with Special Guests! at Littlefield · from $18.71 · has artwork
   - Thu Oct 8 8pm — Jim Mendrinos, Rachel Lenihan, Sean Donnelly, Paul Mecurio! at Comic Strip Live · from $25.71 · has artwork
 
-## Week 2: Oct 14 to Oct 20 — 16 picks — 6 without artwork · 7 Eventbrite leads not yet reviewed
+## Week 2: Oct 14 to Oct 20 — 16 picks — 6 without artwork · 8 Eventbrite leads not yet reviewed
 
 - Wed Oct 14 7pm — **The Next Elton and Friends** at West Side Comedy Club · NO ARTWORK
 - Wed Oct 14 7:30pm — **Josh & Aaron Do Improv (Feat. Hayden Johnson)** at The Bell House
@@ -65,9 +67,10 @@ Ranked 41; run 2, reuse 3, skip 36; ~351,000 tokens saved.
   - Wed Oct 14 11pm — The Late Night Comedy Show at Kellogg's Diner at Kellogg's Diner · from $5 · has artwork
   - Thu Oct 15 8pm — It Entirely From Memory at Littlefield · from $14.86 · has artwork
   - Thu Oct 15 8pm — The Andy Engel Show! at Comic Strip Live · from $25.71 · has artwork
-  - Fri Oct 16 8pm — Buffering the Vampire Slayer presents HOMECOMING WEEKEND 2026 at Littlefield · from $24.36 · has artwork
+  - Fri Oct 16 8pm — Buffering the Vampire Slayer presents HOMECOMING WEEKEND 2026 at Littlefield · from $11.79 · has artwork
+  - Fri Oct 16 8pm — Sheba Mason, Carla Oakerson, Wali Collins, Paul Mecurio, & JJ Ramirez! at Comic Strip Live · from $25.71 · has artwork
   - Sat Oct 17 12pm — The Distance from Here - Michael James Freedman - Arts Gowanus Open Studios at Littlefield · from $0 · has artwork
-  - Sun Oct 18 12pm — The Distance from Here - Michael James Freedman - Arts Gowanus Open Studios at Littlefield · from $0 · has artwork
+  - Sat Oct 17 8pm — Sheba Mason, Michele Balan, Connor O'Brien, Sean Donnelly, & JJ Ramirez! at Comic Strip Live · from $25.71 · has artwork
 
 ## Week 3: Oct 21 to Oct 27 — 14 picks — 10 without artwork · 1 Eventbrite lead not yet reviewed
 

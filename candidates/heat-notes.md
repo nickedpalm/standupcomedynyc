@@ -181,3 +181,25 @@ Generated from `npm run heat` + `npm run research-plan` (last30days for the 2 na
 
 ### Ranked on schedule alone (no recent data)
 - **House Rules** (above). The Caveat show stands on the room and its own description, not on online chatter.
+
+## 2026-10-06
+
+Generated from `npm run heat` + `npm run research-plan` (last30days for the 2 names under `run`; reuse cached notes for the 3 under `reuse`).
+
+### Rankings
+- 45 performers ranked from static data
+- Run 2, reuse 3 cached, skip 40
+- ~387,000 tokens saved from the research-plan
+
+### Run notes
+- **Hot Gossip** (UCB Wed Oct 7 8:30pm): Reddit returned 12 threads in 30 days but the top hits are Domino's r/XaviersMansion "Hot GosSip" roleplay podcast and House of the Dragon / HotD discussions, not the UCB stand-up show. HN returned nothing usable. Pick stands on the UCB show page (Jonathan van Halem's monthly stand-up showcase, $11.96, named headliners Aparna Nancherla, Emmy Blotnick, Judah Friedlander, Rachel Coster).
+- **Lisa Wallen Headlines** (Eastville Thu Oct 8 8pm): Reddit returned 1 thread in 30 days (158 upvotes) but it is about Lisa Gilroy's Comedy Bang Bang episode, not Lisa Wallen. HN returned nothing. No recent data on the Eastville headliner; pick stands on the Eastville event page.
+
+### Reuse notes (already cached under 7d)
+- **Maria Bamford**: cached 2d ago.
+- **Molly Kearney**: cached 4d ago.
+- **Chris Gethard**: cached 3d ago.
+
+### Ranked on schedule alone (no recent data)
+- **Hot Gossip** (above) — the UCB show's own page is the source; nothing recent online points to it.
+- **Lisa Wallen Headlines** (above) — Eastville event page is the source; nothing recent online for the headliner.

@@ -119,6 +119,16 @@
    "at": "2026-10-04T11:09:49.143Z",
    "note": "Caveat's trivia-game show has no online footprint; Reddit and HN return generic 'house rules' hits. Pick stands on the Caveat/Eventbrite description alone and is fine as a same-day diversion, not a featured call.",
    "source": "last30days"
+  },
+  "Hot Gossip": {
+   "at": "2026-10-06T11:13:36.767Z",
+   "note": "Reddit: 12 threads in 30 days but the top 5 are all about Domino's r/XaviersMansion 'Hot GosSip' roleplay podcast or House of the Dragon / HotD threads, not the UCB stand-up show. HN returned nothing. Pick stands on the UCB show page (Jonathan van Halem's monthly stand-up bill, 1.96, named headliners Aparna Nancherla, Emmy Blotnick, Judah Friedlander, Rachel Coster).",
+   "source": "last30days"
+  },
+  "Lisa Wallen": {
+   "at": "2026-10-06T11:15:57.075Z",
+   "note": "Reddit: 1 thread in 30 days (158 upvotes, 55 comments) but it is about Lisa Gilroy on Comedy Bang Bang, not Lisa Wallen. HN returned nothing. No recent data on the Eastville headliner; pick stands on the Eastville event page (her name in the headline slot, 8pm Thu Oct 8, 5-30 range per the room's general pricing).",
+   "source": "last30days"
   }
  }
 }

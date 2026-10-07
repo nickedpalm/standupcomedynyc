@@ -1,10 +1,18 @@
 {
- "generated_at": "2026-10-04T11:07:39.492Z",
- "performers_considered": 41,
+ "generated_at": "2026-10-06T11:12:53.291Z",
+ "performers_considered": 45,
  "shortlist": [
   {
    "name": "Maria Bamford",
    "priority": 80
+  },
+  {
+   "name": "Hot Gossip",
+   "priority": 60
+  },
+  {
+   "name": "Molly Kearney",
+   "priority": 45
   },
   {
    "name": "Salma Hindy",
@@ -15,7 +23,7 @@
    "priority": 45
   },
   {
-   "name": "Hot Butter Train",
+   "name": "Chris Gethard",
    "priority": 35
   },
   {
@@ -27,85 +35,75 @@
    "priority": 31
   },
   {
-   "name": "Molly Kearney",
+   "name": "Lisa Wallen Headlines",
    "priority": 30
   },
   {
    "name": "Daniel Sloss",
    "priority": 30
-  },
-  {
-   "name": "Chris Gethard",
-   "priority": 20
-  },
-  {
-   "name": "House Rules",
-   "priority": 20
   }
  ],
  "run": [
   {
-   "name": "Maria Bamford",
-   "priority": 80,
+   "name": "Hot Gossip",
+   "priority": 60,
    "next": {
-    "id": "maria-bamford-2026-10-10",
-    "date": "2026-10-10",
-    "venue": "The Bell House",
-    "days": 6,
+    "id": "hot-gossip-ucb-2026-10-07",
+    "date": "2026-10-07",
+    "venue": "UCB New York Theatre",
+    "days": 1,
     "featured": false,
     "poster": true,
     "demand": null
    },
    "cheap_signals": [
-    "Wikipedia: 2834 views a day",
-    "Wikipedia views up 259% over the prior month",
-    "Reddit: 3 posts in 30 days, 1344 upvotes (top: r/Standup)"
+    "Reddit: 8 posts in 30 days, 40 upvotes (top: r/XaviersMansion)"
    ],
-   "reason": "in the decision window and not yet decided"
+   "reason": "show within 3 days and not yet decided"
   },
   {
-   "name": "House Rules",
-   "priority": 20,
+   "name": "Lisa Wallen Headlines",
+   "priority": 30,
    "next": {
-    "id": null,
-    "date": "2026-10-04",
-    "venue": "Caveat",
-    "days": 0,
-    "lead": true
+    "id": "lisa-wallen-headlines-eastville-2026-10-08",
+    "date": "2026-10-08",
+    "venue": "Eastville Comedy Club",
+    "days": 2,
+    "featured": false,
+    "poster": false,
+    "demand": null
    },
-   "cheap_signals": [
-    "Eventbrite lead only"
-   ],
+   "cheap_signals": [],
    "reason": "show within 3 days and not yet decided"
   }
  ],
  "reuse": [
   {
-   "name": "Hot Butter Train",
-   "priority": 35,
+   "name": "Maria Bamford",
+   "priority": 80,
    "cached": {
-    "at": "2026-10-02T11:14:08.642Z",
+    "at": "2026-10-04T11:09:49.000Z",
     "age_days": 2,
     "fresh": true,
-    "note": "Reddit: 1 thread in 30 days, 160 upvotes, 15 comments (r/astoria, a local pickup). HN: 1 story, 8 points. None of the items dated inside the last week. Pick stands on the Bell House lineup (Kurt Braunohler, Wyatt Cenac, Jo Firestone per Live Nation) and the show's reputation."
+    "note": "Reddit's main signal is the new Netflix documentary Paralyzed by Hope (premieres Oct 23) plus her body-of-work thread; nothing bell-house specific but her name is loud enough to keep the going-fast signal without needing more."
    }
   },
   {
    "name": "Molly Kearney",
-   "priority": 30,
+   "priority": 45,
    "cached": {
     "at": "2026-10-02T11:15:17.912Z",
-    "age_days": 2,
+    "age_days": 4,
     "fresh": true,
     "note": "Reddit: 1 thread in 30 days, 60 upvotes, 10 comments in r/LiveFromNewYork — a topical pickup, not buzz for the Bell House date. HN returned nothing usable. Pick stands on her SNL/Big Mouth voice work and the Bell House booking."
    }
   },
   {
    "name": "Chris Gethard",
-   "priority": 20,
+   "priority": 35,
    "cached": {
     "at": "2026-10-03T11:09:30.061Z",
-    "age_days": 1,
+    "age_days": 3,
     "fresh": true,
     "note": "Chris Gethard (Caveat Thu Oct 8 9:30pm, Pop): 3 Reddit threads in 30 days but two of them are about a different person (the This American Life solo show with Gethard at QED, the 2012 Mick Foley web series). HN returned nothing usable. No online buzz specifically around the Caveat Pop show — the pick stands on the Caveat page's own description (his grandfather's 1928 emigration from Northern Ireland, 100 years on)."
    }
@@ -115,30 +113,40 @@
   {
    "name": "Salma Hindy",
    "priority": 45,
-   "reason": "next show in 31 days, outside the 10-day window"
+   "reason": "next show in 29 days, outside the 10-day window"
   },
   {
    "name": "Marc Maron",
    "priority": 45,
-   "reason": "next show in 35 days, outside the 10-day window"
+   "reason": "next show in 33 days, outside the 10-day window"
   },
   {
    "name": "Joanne McNally",
    "priority": 35,
-   "reason": "next show in 34 days, outside the 10-day window"
+   "reason": "next show in 32 days, outside the 10-day window"
   },
   {
    "name": "Sam Tallent",
    "priority": 31,
-   "reason": "next show in 32 days, outside the 10-day window"
+   "reason": "next show in 30 days, outside the 10-day window"
   },
   {
    "name": "Daniel Sloss",
    "priority": 30,
-   "reason": "next show in 41 days, outside the 10-day window"
+   "reason": "next show in 39 days, outside the 10-day window"
   },
   {
-   "name": "Steve Martin",
+   "name": "Kathy Griffin",
+   "priority": 25,
+   "reason": "outside the top 10 by cheap ranking"
+  },
+  {
+   "name": "Ilana Glazer",
+   "priority": 25,
+   "reason": "outside the top 10 by cheap ranking"
+  },
+  {
+   "name": "Martin Amini",
    "priority": 20,
    "reason": "outside the top 10 by cheap ranking"
   },
@@ -158,8 +166,13 @@
    "reason": "outside the top 10 by cheap ranking"
   },
   {
-   "name": "Lisa Wallen Headlines",
-   "priority": 15,
+   "name": "Hot Aur Single",
+   "priority": 20,
+   "reason": "outside the top 10 by cheap ranking"
+  },
+  {
+   "name": "Holmes Street",
+   "priority": 20,
    "reason": "outside the top 10 by cheap ranking"
   },
   {
@@ -178,22 +191,12 @@
    "reason": "outside the top 10 by cheap ranking"
   },
   {
-   "name": "Mark Simmons",
+   "name": "Saturday Favs",
    "priority": 15,
    "reason": "outside the top 10 by cheap ranking"
   },
   {
-   "name": "Kathy Griffin",
-   "priority": 10,
-   "reason": "outside the top 10 by cheap ranking"
-  },
-  {
    "name": "Adam Ray",
-   "priority": 10,
-   "reason": "outside the top 10 by cheap ranking"
-  },
-  {
-   "name": "Ilana Glazer",
    "priority": 10,
    "reason": "outside the top 10 by cheap ranking"
   },
@@ -238,12 +241,12 @@
    "reason": "outside the top 10 by cheap ranking"
   },
   {
-   "name": "Hot Aur Single",
+   "name": "Get Work",
    "priority": 5,
    "reason": "outside the top 10 by cheap ranking"
   },
   {
-   "name": "Holmes Street",
+   "name": "Modern Whitney",
    "priority": 5,
    "reason": "outside the top 10 by cheap ranking"
   },
@@ -253,7 +256,22 @@
    "reason": "outside the top 10 by cheap ranking"
   },
   {
+   "name": "Nerd Nite",
+   "priority": 5,
+   "reason": "outside the top 10 by cheap ranking"
+  },
+  {
+   "name": "Dark Tank",
+   "priority": 5,
+   "reason": "outside the top 10 by cheap ranking"
+  },
+  {
    "name": "Headlining Alex Giampapa",
+   "priority": 0,
+   "reason": "outside the top 10 by cheap ranking"
+  },
+  {
+   "name": "Mark Simmons",
    "priority": 0,
    "reason": "outside the top 10 by cheap ranking"
   },
@@ -293,7 +311,9 @@
    "reason": "outside the top 10 by cheap ranking"
   }
  ],
- "estimated_tokens_saved": 351000,
- "estimate_basis": "9000 tokens per last30days run, 39 runs avoided out of 41",
- "no_recent_data": []
+ "estimated_tokens_saved": 387000,
+ "estimate_basis": "9000 tokens per last30days run, 43 runs avoided out of 45",
+ "no_recent_data": [
+  "Lisa Wallen Headlines"
+ ]
 }

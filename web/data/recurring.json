@@ -511,5 +511,24 @@
   "source_label": "WSCC show page",
   "verified_at": "2026-10-02",
   "verification_note": "WSCC show page lists the weekly Tuesday 8pm Not Ripe Bananas fresh-material showcase across Oct 6, Oct 13, Oct 20, Oct 27, Nov 3 and Nov 17. Per-artist lineups are pinned on each date (Oct 6 has Isabel Hagen, Oct 27 has Emma Willmann). Free entry; the room lists every Tuesday through Dec 29."
+ },
+ {
+  "id": "plain-slice-comedy-fort-hamilton",
+  "tier": "recurring",
+  "title": "Plain Slice Comedy",
+  "cadence": "3rd Friday of every month",
+  "weekday": 5,
+  "time_label": "7:30pm",
+  "venue": "Fort Hamilton Distillery & Tasting Room",
+  "address": "68 34th Street, Building 6, 2nd Floor, Brooklyn",
+  "neighborhood": "Sunset Park",
+  "price_label": "Free (donations split among the comics; pay what you wish, please support the venue)",
+  "price_amount": 0,
+  "format": "Stand-up",
+  "description": "Free Friday comedy at the Fort Hamilton Distillery's second-floor tasting room, hosted by Alex Shklar; cocktail hour at 6, doors 7, show 7:30; Industry City in Sunset Park.",
+  "source_url": "https://www.eventbrite.com/e/plain-slice-comedy-fort-hamilton-distillery-industry-city-free-standup-tickets-1105141500979",
+  "source_label": "Plain Slice Comedy Eventbrite series page",
+  "verified_at": "2026-10-07",
+  "verification_note": "Series page lists 3rd-Friday dates (Oct 16, Nov 1) under the Fort Hamilton Distillery & Tasting Room location (68 34th St, Building 6, 2nd Floor). The distillery's own events page is a stale May 2025 stub and is not the source of record. Alex Shklar is the listed organizer with 459 total events on Eventbrite."
  }
 ]
