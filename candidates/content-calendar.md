@@ -1,4 +1,4 @@
-# Content calendar — generated 2026-10-07
+# Content calendar — generated 2026-10-08
 
 Six weeks ahead from the board. Regenerated on every build; edit the data, not this file.
 
@@ -13,11 +13,8 @@ Six weeks ahead from the board. Regenerated on every build; edit the data, not t
 
 Ranked 45; run 2, reuse 3, skip 40; ~387,000 tokens saved. No recent data: Lisa Wallen Headlines.
 
-## Week 1: Oct 7 to Oct 13 — 17 picks — 5 without artwork · 33 Eventbrite leads not yet reviewed
+## Week 1: Oct 8 to Oct 14 — 19 picks — 6 without artwork · 30 Eventbrite leads not yet reviewed
 
-- Wed Oct 7 7:30pm — **Joe Mande Con Amici** at The Bell House
-- Wed Oct 7 8pm — **UG! KNOCKOUTS — Stand-Up Comedy as a Sport!** at Eastville Comedy Club · NO ARTWORK
-- Wed Oct 7 8pm (doors 7:30pm) — **Christian Finnegan, Paul Mecurio & Friends** at Comic Strip Live
 - Thu Oct 8 7:30pm — **Molly Kearney** at The Bell House · heat 25
 - Thu Oct 8 8pm — **Lisa Wallen Headlines** at Eastville Comedy Club · NO ARTWORK
 - Thu Oct 8 9:30pm — **Chris Gethard: Pop** at Caveat
@@ -32,24 +29,24 @@ Ranked 45; run 2, reuse 3, skip 40; ~387,000 tokens saved. No recent data: Lisa 
 - Mon Oct 12 7:30pm — **Miss Mississippi Comedy: Red State Comics for Reproductive Justice** at Littlefield
 - Tue Oct 13 7pm — **Martin Amini** at Gotham Comedy Club
 - Tue Oct 13 7:30pm · doors 7pm — **PRETTY MAJOR Hosted by Jay Jurden** at Union Hall
-
-  Leads to review:
-  - Wed Oct 7 7pm — Next Slide Please at Caveat · from $18.76 · has artwork
-  - Wed Oct 7 7:30pm — Cold Plunge with Kurt Braunohler at Union Hall · from $15.92 · has artwork
-  - Wed Oct 7 8pm — Great Job News: A NYC Launch Screening! at Littlefield · from $18.71 · has artwork
-  - Wed Oct 7 9:30pm — Case 84: Adopted in the U.S.A. at Caveat · from $18.76 · has artwork
-  - Wed Oct 7 11pm — The Late Night Comedy Show at Kellogg's Diner at Kellogg's Diner · from $5 · has artwork
-  - Thu Oct 8 7:30pm — Musical Comedy Is Cool at Union Hall · from $15.92 · has artwork
-  - Thu Oct 8 8pm — The George Lucas Talk Show with Special Guests! at Littlefield · from $18.71 · has artwork
-  - Thu Oct 8 8pm — Jim Mendrinos, Rachel Lenihan, Sean Donnelly, Paul Mecurio! at Comic Strip Live · from $25.71 · has artwork
-
-## Week 2: Oct 14 to Oct 20 — 16 picks — 6 without artwork · 8 Eventbrite leads not yet reviewed
-
 - Wed Oct 14 7pm — **The Next Elton and Friends** at West Side Comedy Club · NO ARTWORK
 - Wed Oct 14 7:30pm — **Josh & Aaron Do Improv (Feat. Hayden Johnson)** at The Bell House
 - Wed Oct 14 8pm — **Laughs In The East** at Eastville Comedy Club · NO ARTWORK
 - Wed Oct 14 8pm — **Dead Comedian Contest! Who will bring them back to life?** at Comic Strip Live
 - Wed Oct 14 8pm · doors 7pm — **Health, Mostly Mental: Via Abolencia & Kendall Allison** at Littlefield
+
+  Leads to review:
+  - Thu Oct 8 7:30pm — Musical Comedy Is Cool at Union Hall · from $15.92 · has artwork
+  - Thu Oct 8 8pm — The George Lucas Talk Show with Special Guests! at Littlefield · from $18.71 · has artwork
+  - Thu Oct 8 8pm — Jim Mendrinos, Rachel Lenihan, Sean Donnelly, Paul Mecurio! at Comic Strip Live · from $25.71 · has artwork
+  - Fri Oct 9 6:30pm — The Dream Eaters w/ special guests Mary Shelley and Tr4shd4ddy at Littlefield · from $24.36 · has artwork
+  - Fri Oct 9 7pm — Vocabaret: Magic at Caveat · from $18.76 · has artwork
+  - Fri Oct 9 7:30pm — Hack City Comedy with Mic Nguyen and Jenny Arimoto at Union Hall · from $19.26 · has artwork
+  - Fri Oct 9 8pm — Tom Van Horn, Rachel Lenihan, Isiah Kelly, Olga Namer! at Comic Strip Live · from $25.71 · has artwork
+  - Fri Oct 9 9:30pm — Hot Aur Single at Caveat · from $0 · has artwork
+
+## Week 2: Oct 15 to Oct 21 — 14 picks — 6 without artwork · 7 Eventbrite leads not yet reviewed
+
 - Thu Oct 15 7:30pm — **Francesca Fiorentini and Matt Lieb** at The Bell House
 - Thu Oct 15 8pm — **Stand Up Shenanigans** at Eastville Comedy Club · NO ARTWORK
 - Fri Oct 16 7pm — **Kathy Griffin: New Face, New Tour** at The Town Hall · NO ARTWORK
@@ -61,22 +58,21 @@ Ranked 45; run 2, reuse 3, skip 40; ~387,000 tokens saved. No recent data: Lisa 
 - Sun Oct 18 7:30pm — **Johnny Pemberton** at The Bell House
 - Mon Oct 19 7:30pm — **Michelle Buteau** at The Bell House
 - Tue Oct 20 7:30pm — **A Benefit for Little Essentials with David Cross & Friends** at The Bell House
+- Wed Oct 21 7:30pm — **Brett Goldstein Runs His Hour Before His Tour** at The Bell House
+- Wed Oct 21 8pm — **Laughs In The East** at Eastville Comedy Club · NO ARTWORK
+- Wed Oct 21 8pm — **Jaime Ferraro en New York** at West Side Comedy Club · NO ARTWORK
 
   Leads to review:
-  - Wed Oct 14 8pm — The Sheba Mason Show! at Comic Strip Live · from $25.71 · has artwork
-  - Wed Oct 14 11pm — The Late Night Comedy Show at Kellogg's Diner at Kellogg's Diner · from $5 · has artwork
   - Thu Oct 15 8pm — It Entirely From Memory at Littlefield · from $14.86 · has artwork
   - Thu Oct 15 8pm — The Andy Engel Show! at Comic Strip Live · from $25.71 · has artwork
   - Fri Oct 16 8pm — Buffering the Vampire Slayer presents HOMECOMING WEEKEND 2026 at Littlefield · from $11.79 · has artwork
   - Fri Oct 16 8pm — Sheba Mason, Carla Oakerson, Wali Collins, Paul Mecurio, & JJ Ramirez! at Comic Strip Live · from $25.71 · has artwork
   - Sat Oct 17 12pm — The Distance from Here - Michael James Freedman - Arts Gowanus Open Studios at Littlefield · from $0 · has artwork
   - Sat Oct 17 8pm — Sheba Mason, Michele Balan, Connor O'Brien, Sean Donnelly, & JJ Ramirez! at Comic Strip Live · from $25.71 · has artwork
+  - Wed Oct 21 11pm — The Late Night Comedy Show at Kellogg's Diner at Kellogg's Diner · from $5 · has artwork
 
-## Week 3: Oct 21 to Oct 27 — 14 picks — 10 without artwork · 1 Eventbrite lead not yet reviewed
+## Week 3: Oct 22 to Oct 28 — 12 picks — 8 without artwork
 
-- Wed Oct 21 7:30pm — **Brett Goldstein Runs His Hour Before His Tour** at The Bell House
-- Wed Oct 21 8pm — **Laughs In The East** at Eastville Comedy Club · NO ARTWORK
-- Wed Oct 21 8pm — **Jaime Ferraro en New York** at West Side Comedy Club · NO ARTWORK
 - Thu Oct 22 7pm — **Laugh! It's for Charity! — A Comedy Benefit for the National MS Society** at West Side Comedy Club · NO ARTWORK
 - Thu Oct 22 8pm — **Stand Up Shenanigans** at Eastville Comedy Club · NO ARTWORK
 - Thu Oct 22 8pm — **Yang Mengen (youngmoon): Stand Up Comedy Special — Renegade** at The Town Hall · NO ARTWORK
@@ -88,13 +84,10 @@ Ranked 45; run 2, reuse 3, skip 40; ~387,000 tokens saved. No recent data: Lisa 
 - Mon Oct 26 7pm — **An Evening with Sarah Silverman: Finding Jewish Joy** at Temple Emanu-El Streicker Center
 - Tue Oct 27 7pm · 60 minutes — **Mark Simmons: Jest to Impress** at SoHo Playhouse · NO ARTWORK
 - Tue Oct 27 7:30pm — **Ruby Setnik** at The Bell House
-
-  Leads to review:
-  - Wed Oct 21 11pm — The Late Night Comedy Show at Kellogg's Diner at Kellogg's Diner · from $5 · has artwork
-
-## Week 4: Oct 28 to Nov 3 — 10 picks — 5 without artwork
-
 - Wed Oct 28 7:30pm — **Clean Up Your Act** at West Side Comedy Club
+
+## Week 4: Oct 29 to Nov 4 — 10 picks — 5 without artwork
+
 - Thu Oct 29 8pm · doors 7pm — **Boo-Ha-Ha Comedy Show** at Comedy In Harlem · NO ARTWORK
 - Thu Oct 29 9pm — **Megan Botnick Headlines** at West Side Comedy Club · NO ARTWORK
 - Thu Oct 29 9pm — **Chronically Offline** at West Side Comedy Club
@@ -104,10 +97,10 @@ Ranked 45; run 2, reuse 3, skip 40; ~387,000 tokens saved. No recent data: Lisa 
 - Sun Nov 1 7:30pm — **Sunday Night Comedy** at Eastville Comedy Club · NO ARTWORK
 - Mon Nov 2 7:30pm — **Sam Oh: The Unbearable Tightness of Being...Gay Virgin** at The Bell House
 - Tue Nov 3 7pm — **Difficult People: The Movie — A Live Table Read** at The Town Hall · NO ARTWORK
-
-## Week 5: Nov 4 to Nov 10 — 13 picks — 12 without artwork
-
 - Wed Nov 4 8pm — **Salma Hindy: 10 Years of Stand-Up Comedy** at The Stand
+
+## Week 5: Nov 5 to Nov 11 — 12 picks — 12 without artwork
+
 - Thu Nov 5 7:30pm — **Sam Tallent** at The Bell House · NO ARTWORK · heat 25
 - Fri Nov 6 7pm — **Ziwe** at The Town Hall · NO ARTWORK
 - Fri Nov 6 7pm — **Adam Ray** at Gramercy Theatre · NO ARTWORK
@@ -121,7 +114,7 @@ Ranked 45; run 2, reuse 3, skip 40; ~387,000 tokens saved. No recent data: Lisa 
 - Mon Nov 9 8pm — **Stand Up for Heroes (NYCF)** at David Geffen Hall (Lincoln Center) · NO ARTWORK
 - Tue Nov 10 10pm — **Eddie Pepitone Headlining Union Hall (night one)** at Union Hall · NO ARTWORK
 
-## Week 6: Nov 11 to Nov 17 — 8 picks — 8 without artwork
+## Week 6: Nov 12 to Nov 18 — 8 picks — 8 without artwork
 
 - Thu Nov 12 8pm — **Jordan Jensen** at Beacon Theatre · NO ARTWORK
 - Fri Nov 13 6:45pm — **Ilana Glazer Live!** at Beacon Theatre · NO ARTWORK · heat 20

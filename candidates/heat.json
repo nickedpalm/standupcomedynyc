@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-07T09:32:27.267Z",
+ "generated_at": "2026-10-08T09:33:22.343Z",
  "note": "Demand signals for the editor. Only availability and second shows set the public demand tag.",
  "picks": [
   {
@@ -14,14 +14,14 @@
    "performer": "Maria Bamford",
    "wikipedia": {
     "title": "Maria Bamford",
-    "views_30d": 88235,
-    "views_prior_30d": 24459,
-    "change": 261
+    "views_30d": 88744,
+    "views_prior_30d": 24445,
+    "change": 263
    },
    "reddit": null,
    "reasons": [
-    "Wikipedia: 2941 views a day",
-    "Wikipedia views up 261% over the prior month"
+    "Wikipedia: 2958 views a day",
+    "Wikipedia views up 263% over the prior month"
    ]
   },
   {
@@ -36,14 +36,14 @@
    "performer": "Joanne McNally",
    "wikipedia": {
     "title": "Joanne McNally",
-    "views_30d": 113658,
-    "views_prior_30d": 31163,
-    "change": 265
+    "views_30d": 115228,
+    "views_prior_30d": 31360,
+    "change": 267
    },
    "reddit": null,
    "reasons": [
-    "Wikipedia: 3789 views a day",
-    "Wikipedia views up 265% over the prior month"
+    "Wikipedia: 3841 views a day",
+    "Wikipedia views up 267% over the prior month"
    ]
   },
   {
@@ -58,14 +58,14 @@
    "performer": "Molly Kearney",
    "wikipedia": {
     "title": "Molly Kearney",
-    "views_30d": 7322,
-    "views_prior_30d": 4752,
-    "change": 54
+    "views_30d": 7508,
+    "views_prior_30d": 4737,
+    "change": 58
    },
    "reddit": null,
    "reasons": [
-    "Wikipedia: 244 views a day",
-    "Wikipedia views up 54% over the prior month"
+    "Wikipedia: 250 views a day",
+    "Wikipedia views up 58% over the prior month"
    ]
   },
   {
@@ -80,14 +80,14 @@
    "performer": "Sam Tallent",
    "wikipedia": {
     "title": "Sam Tallent",
-    "views_30d": 12476,
-    "views_prior_30d": 2137,
-    "change": 484
+    "views_30d": 12609,
+    "views_prior_30d": 2148,
+    "change": 487
    },
    "reddit": null,
    "reasons": [
-    "Wikipedia: 416 views a day",
-    "Wikipedia views up 484% over the prior month"
+    "Wikipedia: 420 views a day",
+    "Wikipedia views up 487% over the prior month"
    ]
   },
   {
@@ -102,13 +102,13 @@
    "performer": "Marc Maron",
    "wikipedia": {
     "title": "Marc Maron",
-    "views_30d": 34448,
-    "views_prior_30d": 30459,
-    "change": 13
+    "views_30d": 34669,
+    "views_prior_30d": 30523,
+    "change": 14
    },
    "reddit": null,
    "reasons": [
-    "Wikipedia: 1148 views a day"
+    "Wikipedia: 1156 views a day"
    ]
   },
   {
@@ -123,13 +123,13 @@
    "performer": "Ilana Glazer",
    "wikipedia": {
     "title": "Ilana Glazer",
-    "views_30d": 33255,
-    "views_prior_30d": 30974,
-    "change": 7
+    "views_30d": 34176,
+    "views_prior_30d": 30782,
+    "change": 11
    },
    "reddit": null,
    "reasons": [
-    "Wikipedia: 1109 views a day"
+    "Wikipedia: 1139 views a day"
    ]
   },
   {
@@ -144,13 +144,13 @@
    "performer": "Salma Hindy",
    "wikipedia": {
     "title": "Salma Hindy",
-    "views_30d": 3387,
-    "views_prior_30d": 1348,
-    "change": 151
+    "views_30d": 3366,
+    "views_prior_30d": 1331,
+    "change": 153
    },
    "reddit": null,
    "reasons": [
-    "Wikipedia views up 151% over the prior month"
+    "Wikipedia views up 153% over the prior month"
    ]
   },
   {
@@ -165,13 +165,13 @@
    "performer": "Kathy Griffin",
    "wikipedia": {
     "title": "Kathy Griffin",
-    "views_30d": 26497,
-    "views_prior_30d": 29870,
-    "change": -11
+    "views_30d": 27002,
+    "views_prior_30d": 29505,
+    "change": -8
    },
    "reddit": null,
    "reasons": [
-    "Wikipedia: 883 views a day"
+    "Wikipedia: 900 views a day"
    ]
   },
   {
@@ -186,13 +186,13 @@
    "performer": "Asif Ali",
    "wikipedia": {
     "title": "Asif Ali (comedian)",
-    "views_30d": 6507,
-    "views_prior_30d": 7887,
-    "change": -17
+    "views_30d": 6353,
+    "views_prior_30d": 7979,
+    "change": -20
    },
    "reddit": null,
    "reasons": [
-    "Wikipedia: 217 views a day"
+    "Wikipedia: 212 views a day"
    ]
   },
   {
@@ -207,13 +207,13 @@
    "performer": "Johnny Pemberton",
    "wikipedia": {
     "title": "Johnny Pemberton",
-    "views_30d": 21166,
-    "views_prior_30d": 20844,
-    "change": 2
+    "views_30d": 20747,
+    "views_prior_30d": 21178,
+    "change": -2
    },
    "reddit": null,
    "reasons": [
-    "Wikipedia: 706 views a day"
+    "Wikipedia: 692 views a day"
    ]
   },
   {
@@ -228,13 +228,13 @@
    "performer": "Michelle Buteau",
    "wikipedia": {
     "title": "Michelle Buteau",
-    "views_30d": 22899,
-    "views_prior_30d": 47860,
-    "change": -52
+    "views_30d": 22778,
+    "views_prior_30d": 46642,
+    "change": -51
    },
    "reddit": null,
    "reasons": [
-    "Wikipedia: 763 views a day"
+    "Wikipedia: 759 views a day"
    ]
   },
   {
@@ -249,13 +249,13 @@
    "performer": "Adam Ray",
    "wikipedia": {
     "title": "Adam Ray",
-    "views_30d": 14080,
-    "views_prior_30d": 19777,
-    "change": -29
+    "views_30d": 13963,
+    "views_prior_30d": 19359,
+    "change": -28
    },
    "reddit": null,
    "reasons": [
-    "Wikipedia: 469 views a day"
+    "Wikipedia: 465 views a day"
    ]
   },
   {
@@ -270,13 +270,13 @@
    "performer": "Jess Hilarious",
    "wikipedia": {
     "title": "Jess Hilarious",
-    "views_30d": 9485,
-    "views_prior_30d": 8350,
-    "change": 14
+    "views_30d": 9358,
+    "views_prior_30d": 8420,
+    "change": 11
    },
    "reddit": null,
    "reasons": [
-    "Wikipedia: 316 views a day"
+    "Wikipedia: 312 views a day"
    ]
   },
   {
@@ -291,57 +291,13 @@
    "performer": "Daniel Sloss",
    "wikipedia": {
     "title": "Daniel Sloss",
-    "views_30d": 18207,
-    "views_prior_30d": 20293,
-    "change": -10
+    "views_30d": 18455,
+    "views_prior_30d": 19851,
+    "change": -7
    },
    "reddit": null,
    "reasons": [
-    "Wikipedia: 607 views a day"
-   ]
-  },
-  {
-   "id": "joe-mande-2026-10-07",
-   "title": "Joe Mande Con Amici",
-   "venue": "The Bell House",
-   "date": "2026-10-07",
-   "heat": 0,
-   "demand": null,
-   "availability": null,
-   "second_show": false,
-   "performer": null,
-   "wikipedia": null,
-   "reddit": null,
-   "reasons": []
-  },
-  {
-   "id": "laughs-in-the-east-eastville-2026-10-07",
-   "title": "Laughs In The East",
-   "venue": "Eastville Comedy Club",
-   "date": "2026-10-07",
-   "heat": 0,
-   "demand": null,
-   "availability": null,
-   "second_show": false,
-   "performer": null,
-   "wikipedia": null,
-   "reddit": null,
-   "reasons": []
-  },
-  {
-   "id": "christian-finnegan-comic-strip-2026-10-07",
-   "title": "Christian Finnegan, Paul Mecurio & Friends",
-   "venue": "Comic Strip Live",
-   "date": "2026-10-07",
-   "heat": 0,
-   "demand": null,
-   "availability": "InStock",
-   "second_show": false,
-   "performer": null,
-   "wikipedia": null,
-   "reddit": null,
-   "reasons": [
-    "tickets available"
+    "Wikipedia: 615 views a day"
    ]
   },
   {
@@ -370,8 +326,8 @@
    "performer": "Chris Gethard",
    "wikipedia": {
     "title": "Chris Gethard",
-    "views_30d": 4884,
-    "views_prior_30d": 6088,
+    "views_30d": 4872,
+    "views_prior_30d": 6094,
     "change": -20
    },
    "reddit": null,
@@ -422,9 +378,37 @@
    "reasons": []
   },
   {
+   "id": "judah-friedlander-nycc-2026-10-10",
+   "title": "Judah Friedlander, Corinne Fisher, Phil Duckett, Maggie Naughton",
+   "venue": "New York Comedy Club (Midtown)",
+   "date": "2026-10-10",
+   "heat": 0,
+   "demand": null,
+   "availability": null,
+   "second_show": false,
+   "performer": null,
+   "wikipedia": null,
+   "reddit": null,
+   "reasons": []
+  },
+  {
    "id": "wait-whats-sri-lanka-eastville-2026-10-11",
    "title": "Wait, What's Sri Lanka? — Comedy Special Taping",
    "venue": "Eastville Comedy Club",
+   "date": "2026-10-11",
+   "heat": 0,
+   "demand": null,
+   "availability": null,
+   "second_show": false,
+   "performer": null,
+   "wikipedia": null,
+   "reddit": null,
+   "reasons": []
+  },
+  {
+   "id": "abelardo-la-dulce-vida-nycc-2026-10-11",
+   "title": "Jesús Abelardo: La Dulce Vida (En Español)",
+   "venue": "New York Comedy Club (Midtown)",
    "date": "2026-10-11",
    "heat": 0,
    "demand": null,
@@ -454,6 +438,41 @@
    "title": "Miss Mississippi Comedy: Red State Comics for Reproductive Justice",
    "venue": "Littlefield",
    "date": "2026-10-12",
+   "heat": 0,
+   "demand": null,
+   "availability": "InStock",
+   "second_show": false,
+   "performer": null,
+   "wikipedia": null,
+   "reddit": null,
+   "reasons": [
+    "tickets available"
+   ]
+  },
+  {
+   "id": "martin-amini-gotham-2026-10-13",
+   "title": "Martin Amini",
+   "venue": "Gotham Comedy Club",
+   "date": "2026-10-13",
+   "heat": 0,
+   "demand": null,
+   "availability": null,
+   "second_show": false,
+   "performer": "Martin Amini",
+   "wikipedia": {
+    "title": "Martin Amini",
+    "views_30d": 5244,
+    "views_prior_30d": 5757,
+    "change": -9
+   },
+   "reddit": null,
+   "reasons": []
+  },
+  {
+   "id": "pretty-major-union-hall-2026-10-13",
+   "title": "PRETTY MAJOR Hosted by Jay Jurden",
+   "venue": "Union Hall",
+   "date": "2026-10-13",
    "heat": 0,
    "demand": null,
    "availability": "InStock",
@@ -520,6 +539,22 @@
    "wikipedia": null,
    "reddit": null,
    "reasons": []
+  },
+  {
+   "id": "health-mostly-mental-littlefield-2026-10-14",
+   "title": "Health, Mostly Mental: Via Abolencia & Kendall Allison",
+   "venue": "Littlefield",
+   "date": "2026-10-14",
+   "heat": 0,
+   "demand": null,
+   "availability": "InStock",
+   "second_show": false,
+   "performer": null,
+   "wikipedia": null,
+   "reddit": null,
+   "reasons": [
+    "tickets available"
+   ]
   },
   {
    "id": "francesca-mattlieb-2026-10-15",
@@ -729,9 +764,9 @@
    "performer": "Sydnee Washington",
    "wikipedia": {
     "title": "Sydnee Washington",
-    "views_30d": 1357,
-    "views_prior_30d": 2026,
-    "change": -33
+    "views_30d": 1361,
+    "views_prior_30d": 1972,
+    "change": -31
    },
    "reddit": null,
    "reasons": []
@@ -804,9 +839,9 @@
    "performer": "Mark Simmons",
    "wikipedia": {
     "title": "Mark Simmons (comedian)",
-    "views_30d": 1518,
-    "views_prior_30d": 1181,
-    "change": 29
+    "views_30d": 1520,
+    "views_prior_30d": 1201,
+    "change": 27
    },
    "reddit": null,
    "reasons": []
@@ -965,8 +1000,8 @@
    "performer": "Difficult People",
    "wikipedia": {
     "title": "Difficult People",
-    "views_30d": 4976,
-    "views_prior_30d": 5875,
+    "views_30d": 4952,
+    "views_prior_30d": 5815,
     "change": -15
    },
    "reddit": null,
@@ -1026,9 +1061,9 @@
    "performer": "Josh Sharp",
    "wikipedia": {
     "title": "Josh Sharp",
-    "views_30d": 826,
-    "views_prior_30d": 1173,
-    "change": -30
+    "views_30d": 904,
+    "views_prior_30d": 1161,
+    "change": -22
    },
    "reddit": null,
    "reasons": []
@@ -1170,57 +1205,6 @@
    "second_show": false,
    "performer": null,
    "wikipedia": null,
-   "reddit": null,
-   "reasons": []
-  },
-  {
-   "id": "health-mostly-mental-littlefield-2026-10-14",
-   "title": "Health, Mostly Mental: Via Abolencia & Kendall Allison",
-   "venue": "Littlefield",
-   "date": "2026-10-14",
-   "heat": 0,
-   "demand": null,
-   "availability": "InStock",
-   "second_show": false,
-   "performer": null,
-   "wikipedia": null,
-   "reddit": null,
-   "reasons": [
-    "tickets available"
-   ]
-  },
-  {
-   "id": "pretty-major-union-hall-2026-10-13",
-   "title": "PRETTY MAJOR Hosted by Jay Jurden",
-   "venue": "Union Hall",
-   "date": "2026-10-13",
-   "heat": 0,
-   "demand": null,
-   "availability": "InStock",
-   "second_show": false,
-   "performer": null,
-   "wikipedia": null,
-   "reddit": null,
-   "reasons": [
-    "tickets available"
-   ]
-  },
-  {
-   "id": "martin-amini-gotham-2026-10-13",
-   "title": "Martin Amini",
-   "venue": "Gotham Comedy Club",
-   "date": "2026-10-13",
-   "heat": 0,
-   "demand": null,
-   "availability": null,
-   "second_show": false,
-   "performer": "Martin Amini",
-   "wikipedia": {
-    "title": "Martin Amini",
-    "views_30d": 5252,
-    "views_prior_30d": 5790,
-    "change": -9
-   },
    "reddit": null,
    "reasons": []
   }

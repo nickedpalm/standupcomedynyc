@@ -657,7 +657,7 @@
  },
  {
   "event_id": "joe-mande-2026-10-07",
-  "src": "/assets/posters/joe-mande-2026-10-07.jpg",
+  "src": "/assets/posters/archive/joe-mande-2026-10-07.jpg",
   "width": 640,
   "height": 427,
   "source_url": "https://www.ticketmaster.com/joe-mande-con-amici-brooklyn-new-york-10-07-2026/event/300064F44A616B7D",
@@ -668,7 +668,8 @@
   "retrieved_at": "2026-09-15",
   "bytes": 59411,
   "sha256": "TBD",
-  "reuse_status": "Official promotional artwork from the show's Ticketmaster listing; no separate reuse license identified. Site display with credit only."
+  "reuse_status": "Official promotional artwork from the show's Ticketmaster listing; no separate reuse license identified. Site display with credit only.",
+  "archived": true
  },
  {
   "event_id": "molly-kearney-2026-10-08",
@@ -692,7 +693,7 @@
   "height": 427,
   "source_url": "https://www.ticketmaster.com/poly-diaz-en-espanol-brooklyn-new-york-10-09-2026/event/300064E804C8B732",
   "credit": "Artwork: The Bell House / show organizer",
-  "alt": "Poly D\u00edaz (En Espa\u00f1ol) promotional artwork.",
+  "alt": "Poly Díaz (En Español) promotional artwork.",
   "kind": "dated event flyer",
   "original_image_url": "https://s1.ticketm.net/dam/a/46b/b02509bd-4380-43c8-b78d-f269a917446b_RETINA_PORTRAIT_3_2.jpg",
   "retrieved_at": "2026-09-15",
@@ -1124,7 +1125,7 @@
   "height": 440,
   "source_url": "https://comicstriplive.com/elyse-delucci-well-this-is-humbling/",
   "credit": "Artwork: Comic Strip Live / show organizer",
-  "alt": "Elyse DeLucci \u2013 ONE NIGHT ONLY! promotional artwork.",
+  "alt": "Elyse DeLucci – ONE NIGHT ONLY! promotional artwork.",
   "kind": "dated event flyer",
   "original_image_url": "https://comicstriplive.com/wp-content/uploads/2026/09/FLYER_ComicStrip2026June18-1-e1789779169571-720x440.png",
   "retrieved_at": "2026-09-21",
@@ -1354,7 +1355,7 @@
  },
  {
   "event_id": "christian-finnegan-comic-strip-2026-10-07",
-  "src": "/assets/posters/christian-finnegan-comic-strip-2026-10-07.jpg",
+  "src": "/assets/posters/archive/christian-finnegan-comic-strip-2026-10-07.jpg",
   "width": 1880,
   "height": 1423,
   "source_url": "https://www.eventbrite.com/e/christian-finnegan-rolonda-watts-feraz-shere-paul-mecurio-olga-namer-tickets-2002247947510",
@@ -1365,7 +1366,8 @@
   "retrieved_at": "2026-09-28",
   "bytes": 189177,
   "sha256": "003e597a06ade646c25106fd4e3317db6b048d75e2bf24257013e2e5be70bced",
-  "reuse_status": "Official promotional artwork; no separate reuse license identified. Local review draft only."
+  "reuse_status": "Official promotional artwork; no separate reuse license identified. Local review draft only.",
+  "archived": true
  },
  {
   "event_id": "zack-mcgovern-wscc-2026-10-02",
@@ -1518,7 +1520,7 @@
   "source_url": "https://newyorkcomedyclub.com/events/abelardo-la-dulce-vida-en-espanol-2026-10-11190000",
   "width": 1080,
   "height": 1080,
-  "alt": "Jes\u00fas Abelardo: La Dulce Vida promotional artwork.",
+  "alt": "Jesús Abelardo: La Dulce Vida promotional artwork.",
   "kind": "dated event flyer",
   "retrieved_at": "2026-10-07",
   "reuse_status": "Official promotional artwork; no separate reuse license identified. Local review draft only."
