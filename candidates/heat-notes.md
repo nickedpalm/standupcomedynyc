@@ -203,3 +203,22 @@ Generated from `npm run heat` + `npm run research-plan` (last30days for the 2 na
 ### Ranked on schedule alone (no recent data)
 - **Hot Gossip** (above) — the UCB show's own page is the source; nothing recent online points to it.
 - **Lisa Wallen Headlines** (above) — Eastville event page is the source; nothing recent online for the headliner.
+
+## Daily edition — 2026-10-08 (cron run)
+
+`npm run research-plan` today: **44 performers ranked**; **2 run** (Peter Wong, Lisa Wallen Headlines); **3 reuse** (Maria Bamford, Molly Kearney, Chris Gethard); **39 skipped**. **~378,000 tokens saved** by the plan.
+
+### Run notes (last30days today)
+- **Peter Wong** (Grove 34 Thu Oct 8 8pm, show within 3 days): last30days returned 2 Reddit threads, both false positives (an Ali Wong film poster on r/movies, a Wong Kar-wai thread on r/Thisisnthappiness); HN returned nothing. Pick stands on Peter Wong's own bio on the Grove 34 show page (Comedy Central, FunnyOrDie, NYCF 2021 Comics to Watch, 4M+ YouTube views) and the Thursday-slot booking. Cached.
+- **Lisa Wallen Headlines** (Eastville Thu Oct 8 8pm, show within 3 days): last30days returned 1 Reddit thread (Hegseth officer purges on r/Military) — false positive on "Wallen"; HN returned nothing. Pick stands on the Eastville event page copy ("stand up comedian, host, and all-around professional nerd who's incredibly online everywhere"). Cached.
+
+### Reuse notes (already cached under 7d)
+- **Maria Bamford**: cached 4d ago (Oct 4). Reused.
+- **Molly Kearney**: cached 6d ago (Oct 2). Reused.
+- **Chris Gethard**: cached 5d ago (Oct 3). Reused.
+
+### Ranked on schedule alone (no recent data, reused cache applies)
+- All 39 skipped performers (Salma Hindy / Marc Maron / Joanne McNally / Jaboukie Young-White / Sam Tallent — outside the 10-day window; Asif Ali, Johnny Pemberton, Daniel Sloss, Kathy Griffin, Ilana Glazer, Martin Amini, Kendall Farrell — outside the top 10 by cheap ranking).
+
+### Notes
+- **Peter Wong** and **Lisa Wallen Headlines** were the only two `RUN` decisions in today's plan (priority 35 + 30, both priority 3-10d shows with no cheap signals yet).

@@ -1524,5 +1524,37 @@
   "kind": "dated event flyer",
   "retrieved_at": "2026-10-07",
   "reuse_status": "Official promotional artwork; no separate reuse license identified. Local review draft only."
+ },
+ {
+  "src": "/assets/posters/matthew-broussard-bell-house-2026-11-15.jpg",
+  "original_image_url": "https://s1.ticketm.net/dam/a/47c/f4a0ce93-7afa-4083-8c9b-586f0337947c_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+  "credit": "Artwork: The Bell House / show organizer (via Live Nation mirror of Ticketmaster CDN)",
+  "reuse_status": "Official promotional artwork; no separate reuse license identified. Local review draft only.",
+  "verified_at": "2026-10-08",
+  "bytes": 138577,
+  "sha256": "d00b842d502f51cf9581ce8f6a1d6bf765819ee882d146d54fa414315d717bbf",
+  "event_id": "matthew-broussard-bell-house-2026-11-15",
+  "source_url": "https://www.livenation.com/event/1AdZZ_8GkULUS7p/matthew-broussard",
+  "width": 2570,
+  "height": 2571,
+  "alt": "Matthew Broussard promotional artwork.",
+  "kind": "dated event flyer",
+  "retrieved_at": "2026-10-08"
+ },
+ {
+  "src": "/assets/posters/peter-wong-grove-34-2026-10-08.png",
+  "original_image_url": "https://cdn.prod.website-files.com/68e79e6d893bc117217bc02f/6a517d6affb3d80289912c17_Peter%20Wong%20(1).png",
+  "credit": "Artwork: Grove 34 / Peter Wong",
+  "reuse_status": "Official promotional artwork; no separate reuse license identified. Local review draft only.",
+  "verified_at": "2026-10-08",
+  "bytes": 3108075,
+  "sha256": "0f151695fa0b06de54c3c51d2c70be215007ea50fee1aa1b0a138e23143ad9ec",
+  "event_id": "peter-wong-grove-34-2026-10-08",
+  "source_url": "https://grove34.com/shows/peter-wong",
+  "width": 1772,
+  "height": 1772,
+  "alt": "Peter Wong at Grove 34 promotional artwork.",
+  "kind": "dated event flyer",
+  "retrieved_at": "2026-10-08"
  }
 ]

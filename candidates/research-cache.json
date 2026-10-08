@@ -129,6 +129,16 @@
    "at": "2026-10-06T11:15:57.075Z",
    "note": "Reddit: 1 thread in 30 days (158 upvotes, 55 comments) but it is about Lisa Gilroy on Comedy Bang Bang, not Lisa Wallen. HN returned nothing. No recent data on the Eastville headliner; pick stands on the Eastville event page (her name in the headline slot, 8pm Thu Oct 8, 5-30 range per the room's general pricing).",
    "source": "last30days"
+  },
+  "Peter Wong": {
+   "at": "2026-10-08T11:14:44.567Z",
+   "note": "last30days Reddit/HN returned only false positives (an Ali Wong film poster and a Wong Kar-wai thread); pick stands on his own bio on the Grove 34 show page (Comedy Central, FunnyOrDie, NYCF 2021 Comics to Watch, 4M+ YouTube views) and tonight's 8pm Thursday slot.",
+   "source": "last30days"
+  },
+  "Lisa Wallen Headlines": {
+   "at": "2026-10-08T11:14:47.516Z",
+   "note": "last30days returned only one Reddit thread about Hegseth's officer purges on r/Military (false positive on 'Wallen'); pick stands on the Eastville Comedy Club event page copy ('a stand up comedian, host, and all-around professional nerd who's incredibly online everywhere').",
+   "source": "last30days"
   }
  }
 }
