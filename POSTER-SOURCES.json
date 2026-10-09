@@ -673,7 +673,7 @@
  },
  {
   "event_id": "molly-kearney-2026-10-08",
-  "src": "/assets/posters/molly-kearney-2026-10-08.jpg",
+  "src": "/assets/posters/archive/molly-kearney-2026-10-08.jpg",
   "width": 640,
   "height": 427,
   "source_url": "https://www.ticketmaster.com/molly-kearney-brooklyn-new-york-10-08-2026/event/300064F7E902AAD3",
@@ -684,7 +684,8 @@
   "retrieved_at": "2026-09-15",
   "bytes": 29136,
   "sha256": "TBD",
-  "reuse_status": "Official promotional artwork from the show's Ticketmaster listing; no separate reuse license identified. Site display with credit only."
+  "reuse_status": "Official promotional artwork from the show's Ticketmaster listing; no separate reuse license identified. Site display with credit only.",
+  "archived": true
  },
  {
   "event_id": "poly-diaz-2026-10-09",
@@ -1402,7 +1403,7 @@
  },
  {
   "event_id": "chris-gethard-pop-caveat-2026-10-08",
-  "src": "/assets/posters/chris-gethard-pop-caveat-2026-10-08.jpg",
+  "src": "/assets/posters/archive/chris-gethard-pop-caveat-2026-10-08.jpg",
   "width": 2000,
   "height": 1000,
   "source_url": "https://caveat.nyc/events/chris-gethard-pop-2026-10-08",
@@ -1413,7 +1414,8 @@
   "retrieved_at": "2026-10-02",
   "bytes": 217108,
   "sha256": "3cacc799ca21e2438e39b2f8df9b44315ebe2f403c1bc7d8f5a52691ffe12877",
-  "reuse_status": "Official promotional artwork; no separate reuse license identified. Local review draft only."
+  "reuse_status": "Official promotional artwork; no separate reuse license identified. Local review draft only.",
+  "archived": true
  },
  {
   "event_id": "yankel-the-rooster-bell-house-2026-10-06",
@@ -1542,7 +1544,7 @@
   "retrieved_at": "2026-10-08"
  },
  {
-  "src": "/assets/posters/peter-wong-grove-34-2026-10-08.png",
+  "src": "/assets/posters/archive/peter-wong-grove-34-2026-10-08.png",
   "original_image_url": "https://cdn.prod.website-files.com/68e79e6d893bc117217bc02f/6a517d6affb3d80289912c17_Peter%20Wong%20(1).png",
   "credit": "Artwork: Grove 34 / Peter Wong",
   "reuse_status": "Official promotional artwork; no separate reuse license identified. Local review draft only.",
@@ -1555,6 +1557,7 @@
   "height": 1772,
   "alt": "Peter Wong at Grove 34 promotional artwork.",
   "kind": "dated event flyer",
-  "retrieved_at": "2026-10-08"
+  "retrieved_at": "2026-10-08",
+  "archived": true
  }
 ]
