@@ -1559,5 +1559,35 @@
   "kind": "dated event flyer",
   "retrieved_at": "2026-10-08",
   "archived": true
+ },
+ {
+  "event_id": "leah-sampson-union-hall-2026-10-14",
+  "src": "/assets/posters/leah-sampson-union-hall-2026-10-14.jpg",
+  "width": 1880,
+  "height": 940,
+  "source_url": "https://www.eventbrite.com/e/comedian-leah-sampson-back-at-union-hall-one-night-only-tickets-2002746051352",
+  "credit": "Artwork: Union Hall / Lea'h Sampson",
+  "alt": "Lea'h Sampson back at Union Hall — one night only, October 14.",
+  "kind": "dated event flyer",
+  "original_image_url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1194835656%2F282041210522%2F1%2Foriginal.20261001-171903?crop=focalpoint&fit=crop&w=1880&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=e42c2f3d4085e93f6346dbdf89ce716b",
+  "retrieved_at": "2026-10-09",
+  "bytes": 199761,
+  "sha256": "1b565007fc2f5d25",
+  "reuse_status": "Official promotional artwork; no separate reuse license identified. Local review draft only."
+ },
+ {
+  "event_id": "please-stay-seated-wscc-2026-11-04",
+  "src": "/assets/posters/please-stay-seated-wscc-2026-11-04.webp",
+  "width": 929,
+  "height": 1200,
+  "source_url": "https://www.westsidecomedyclub.com/shows/please-stay-seated",
+  "credit": "Artwork: West Side Comedy Club / Jimmy Schatz",
+  "alt": "Please Stay Seated at West Side Comedy Club — November 4.",
+  "kind": "dated event flyer",
+  "original_image_url": "https://storage.googleapis.com/partner-portal-storage/ticketing/others/IMG6843pngbc647495-bc1f-4958-973a-a67f3c04fce3.webp",
+  "retrieved_at": "2026-10-09",
+  "bytes": 64446,
+  "sha256": "0c5f6fc96ed6c1e2",
+  "reuse_status": "Official promotional artwork; no separate reuse license identified. Local review draft only."
  }
 ]

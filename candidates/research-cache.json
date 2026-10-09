@@ -46,8 +46,8 @@
    "source": "last30days"
   },
   "Michelle Buteau": {
-   "at": "2026-09-21T11:08:34.917Z",
-   "note": "Only 3 Reddit threads in 30 days, mostly about her Spa Weekend role and outfits — r/FemaleStandupComedy's A Lot of Scalp clip (4pts) is the only stand-up-adjacent one; no HN chatter.",
+   "at": "2026-10-09T11:11:39.031Z",
+   "note": "Reddit: 2 threads (r/FemaleStandupComedy) with 7 upvotes — almost no recent buzz. HN silent. Bell House Oct 19 — pick on her Netflix/Survival of the Thickest profile and the room; not on current chatter.",
    "source": "last30days"
   },
   "David Nihill": {
@@ -138,6 +138,31 @@
   "Lisa Wallen Headlines": {
    "at": "2026-10-08T11:14:47.516Z",
    "note": "last30days returned only one Reddit thread about Hegseth's officer purges on r/Military (false positive on 'Wallen'); pick stands on the Eastville Comedy Club event page copy ('a stand up comedian, host, and all-around professional nerd who's incredibly online everywhere').",
+   "source": "last30days"
+  },
+  "Asif Ali": {
+   "at": "2026-10-09T11:08:36.394Z",
+   "note": "Reddit: 4 threads in 30 days, the main one is a Comedy Bang Bang sighting in the 2018 Bruce Willis roast; HN silent. Bell House Oct 17 - treat as low-buzz, decide on the room and the headline.",
+   "source": "last30days"
+  },
+  "Johnny Pemberton": {
+   "at": "2026-10-09T11:10:08.731Z",
+   "note": "Reddit: 5 threads in 30 days, mostly r/NeverNotFunny / r/duncantrussell (he's a Never Not Funny regular); HN silent. Bell House Oct 18 — pick on the room and the cult podcast audience, not on recent buzz.",
+   "source": "last30days"
+  },
+  "Kathy Griffin": {
+   "at": "2026-10-09T11:13:03.999Z",
+   "note": "Reddit: 10 threads, 1.7k upvotes, mostly r/Fauxmoi / r/datalounge chatter about her Town Hall return after the Trump photo scandal — chattering but not specifically the show. HN silent. Town Hall Oct 16 — strong buzz; pick on the return-to-NYC narrative.",
+   "source": "last30days"
+  },
+  "Martin Amini": {
+   "at": "2026-10-09T11:14:25.547Z",
+   "note": "Reddit: 1 thread in r/asianamerican (15 upvotes); HN: 2 stories (6 points). Almost no recent chatter, and the few hits are about the Iranian-American / DMV voice work, not Gotham. Gotham Oct 13 — treat as low-signal; pick on his specials (a Netflix hour and a follow-up) rather than buzz.",
+   "source": "last30days"
+  },
+  "Kendall Farrell": {
+   "at": "2026-10-09T11:15:36.377Z",
+   "note": "Reddit: 0 items (auth-failed 403), HN: 0 items. No online footprint at all in the last 30 days. Littlefield Oct 18 — pick on her LA-based and recent TV writing credits and the special-taping framing; the room is the signal, not buzz.",
    "source": "last30days"
   }
  }

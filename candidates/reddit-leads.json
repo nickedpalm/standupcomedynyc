@@ -1,5 +1,5 @@
 {
- "retrieved_at": "2026-10-08T11:01:27.749Z",
+ "retrieved_at": "2026-10-09T11:01:50.000Z",
  "note": "Promoter posts from NYC neighborhood subreddits, last 14 days. Leads only: open the linked page or the venue site before anything enters the data; register the venue first.",
  "subreddits": [
   "nycevents",
@@ -27,6 +27,24 @@
  ],
  "leads": [
   {
+   "id": "1x1brcv",
+   "date": "2026-10-09",
+   "subreddit": "nycevents",
+   "title": "Coming from Toronto to perform at Gotham this Monday, would love your support!",
+   "score": 0,
+   "comments": 0,
+   "url": "https://www.reddit.com/r/nycevents/comments/1x1brcv/coming_from_toronto_to_perform_at_gotham_this/",
+   "venues_mentioned": [
+    "Gotham Comedy Club"
+   ],
+   "when_mentioned": "Monday, would love your support",
+   "time_mentioned": "7pm",
+   "links": [],
+   "free": true,
+   "new_since_last_run": true,
+   "excerpt": "Hey everyone! My name is Oleg Redko. I’m a Ukrainian refugee living in Toronto, and I’m coming to New York to perform at Gotham Comedy Club’s New Talent show this Monday, October 12, at 7pm. This is my second invitation to perform there in two months, and I’m really excited. Perf"
+  },
+  {
    "id": "1x0h3tz",
    "date": "2026-10-08",
    "subreddit": "nycevents",
@@ -41,7 +59,7 @@
    "time_mentioned": "7pm",
    "links": [],
    "free": true,
-   "new_since_last_run": true,
+   "new_since_last_run": false,
    "excerpt": "Gotham Comedy Club New Talent Show — Ukrainian comic needs your support! Hi everyone! I'm Oleg Redko - a stand-up comedian and Ukrainian refugee based in Toronto, and I'll be honest: performing on a real New York stage has been my dream for years. (I'm the performer posting this "
   },
   {
@@ -69,8 +87,8 @@
    "date": "2026-10-07",
    "subreddit": "astoria",
    "title": "Hey gang — immigrant Astorian here. My work permit expires next week and I lose my job. So I’m doing a comedy show tomorrow to make some money.",
-   "score": 98,
-   "comments": 32,
+   "score": 109,
+   "comments": 42,
    "url": "https://www.reddit.com/r/astoria/comments/1x05q3j/hey_gang_immigrant_astorian_here_my_work_permit/",
    "venues_mentioned": [
     "Grove 34"
@@ -82,7 +100,7 @@
     "https://youtu.be/Ql4hvSG7AHk?si=IN4LdW900LAX2uyH"
    ],
    "free": true,
-   "new_since_last_run": true,
+   "new_since_last_run": false,
    "excerpt": "This is all true. I’m an immigrant and DACA holder, which means I was brought into the country as a child and was able to get work authorization through DACA after Obama created the program. With the current administration, processing times are awful, so a lot of people like me a"
   },
   {
@@ -102,7 +120,7 @@
     "https://actionnetwork.org/events/cbk-october-social"
    ],
    "free": true,
-   "new_since_last_run": true,
+   "new_since_last_run": false,
    "excerpt": "Happy October everyone! Here are some things happening in our neck of the woods this week. Reminder up top that Saturday is the 31st Annual Panamanian Day Parade going down Franklin Ave, ending on Classon and Eastern Parkway. Roads should open up by 6pm. Feel free to post more ev"
   },
   {
@@ -233,7 +251,7 @@
    "subreddit": "Bushwick",
    "title": "TONIGHT!! Comedy Hoedown at Bar Freda",
    "score": 5,
-   "comments": 2,
+   "comments": 3,
    "url": "https://www.reddit.com/r/Bushwick/comments/1wxgslx/tonight_comedy_hoedown_at_bar_freda/",
    "venues_mentioned": [
     "Freda"
@@ -328,7 +346,7 @@
    "date": "2026-10-02",
    "subreddit": "Bushwick",
    "title": "THIS SUNDAY Ebony Moore &amp; Friends Comedy Hoedown at Bar Freda",
-   "score": 3,
+   "score": 5,
    "comments": 0,
    "url": "https://www.reddit.com/r/Bushwick/comments/1ww48od/this_sunday_ebony_moore_friends_comedy_hoedown_at/",
    "venues_mentioned": [
@@ -440,7 +458,7 @@
    "date": "2026-09-30",
    "subreddit": "astoria",
    "title": "You Can Erase Chalk, But You Can’t Erase QED — A Goose’s Take on the Astoria Chalk Vandal",
-   "score": 58,
+   "score": 56,
    "comments": 2,
    "url": "https://www.reddit.com/r/astoria/comments/1wud7ua/you_can_erase_chalk_but_you_cant_erase_qed_a/",
    "venues_mentioned": [],
@@ -476,7 +494,7 @@
    "date": "2026-09-30",
    "subreddit": "AskNYC",
    "title": "Comedy Cellar work in progresso",
-   "score": 5,
+   "score": 6,
    "comments": 16,
    "url": "https://www.reddit.com/r/AskNYC/comments/1wtsn5q/comedy_cellar_work_in_progresso/",
    "venues_mentioned": [
@@ -590,7 +608,7 @@
    "date": "2026-09-28",
    "subreddit": "Bushwick",
    "title": "Ebony Moore &amp; Friends Comedy Hoedown at Bar Freda Sunday Oct 4th 6PM",
-   "score": 13,
+   "score": 12,
    "comments": 0,
    "url": "https://www.reddit.com/r/Bushwick/comments/1wsloxr/ebony_moore_friends_comedy_hoedown_at_bar_freda/",
    "venues_mentioned": [
@@ -610,7 +628,7 @@
    "date": "2026-09-26",
    "subreddit": "Bushwick",
    "title": "Ebony Moore &amp; Friends Comedy Hoedown at Bar Freda Sunday Oct 4th 6PM",
-   "score": 6,
+   "score": 5,
    "comments": 0,
    "url": "https://www.reddit.com/r/Bushwick/comments/1wqyfc9/ebony_moore_friends_comedy_hoedown_at_bar_freda/",
    "venues_mentioned": [
@@ -630,7 +648,7 @@
    "date": "2026-09-26",
    "subreddit": "astoria",
    "title": "Hey, I'm an Astoria based comedian who just released my first comedy special, would love for you to check it out!",
-   "score": 64,
+   "score": 67,
    "comments": 7,
    "url": "https://www.reddit.com/r/astoria/comments/1wqry7u/hey_im_an_astoria_based_comedian_who_just/",
    "venues_mentioned": [
@@ -714,85 +732,6 @@
    "free": false,
    "new_since_last_run": false,
    "excerpt": "hey guys, sharing one more time :) hosting a new open mic + jam at The Tiny Cupboard on sunday. 3-7pm, $10 The event is indoors so shoutout to anyone who pulls through with the rain 🙌 dm if you want more details"
-  },
-  {
-   "id": "1wp55uh",
-   "date": "2026-09-24",
-   "subreddit": "nycComedy",
-   "title": "Ebony Moore &amp; Friends Comedy Hoedown at Bar Freda",
-   "score": 2,
-   "comments": 0,
-   "url": "https://www.reddit.com/r/nycComedy/comments/1wp55uh/ebony_moore_friends_comedy_hoedown_at_bar_freda/",
-   "venues_mentioned": [
-    "Freda"
-   ],
-   "when_mentioned": "Sunday October 4th come out for an early show ",
-   "time_mentioned": "10PM",
-   "links": [
-    "https://tickets.venuepilot.com/e/ebony-moore-friends-comedy-hoedown-2026-10-04-freda-basement-ridgewood-4cc06e"
-   ],
-   "free": false,
-   "new_since_last_run": false,
-   "excerpt": "Sunday October 4th come out for an early show have a great time, catch some laughs, be in bed by 10PM located at 801 Seneca Ave. Headliner: Simeon Goodson! Close to the L &amp; M train stops. Western Wear encouraged. Tickets: [https://tickets.venuepilot.com/e/ebony-moore-friends-"
-  },
-  {
-   "id": "1wp53qh",
-   "date": "2026-09-24",
-   "subreddit": "Bushwick",
-   "title": "Ebony Moore &amp; Friends Comedy Hoedown at Bar Freda",
-   "score": 15,
-   "comments": 0,
-   "url": "https://www.reddit.com/r/Bushwick/comments/1wp53qh/ebony_moore_friends_comedy_hoedown_at_bar_freda/",
-   "venues_mentioned": [
-    "Freda"
-   ],
-   "when_mentioned": "Sunday October 4th come out for an early show ",
-   "time_mentioned": "10PM",
-   "links": [
-    "https://tickets.venuepilot.com/e/ebony-moore-friends-comedy-hoedown-2026-10-04-freda-basement-ridgewood-4cc06e"
-   ],
-   "free": false,
-   "new_since_last_run": false,
-   "excerpt": "Sunday October 4th come out for an early show have a great time, catch some laughs, be in bed by 10PM located at 801 Seneca Ave. Headliner: Simeon Goodson! Close to the L &amp; M train stops. Western Wear encouraged. Tickets: [https://tickets.venuepilot.com/e/ebony-moore-friends-"
-  },
-  {
-   "id": "1wp5pq7",
-   "date": "2026-09-24",
-   "subreddit": "astoria",
-   "title": "Solo Show from \"This American Life\" + Chris Gethard at QED",
-   "score": 13,
-   "comments": 0,
-   "url": "https://www.reddit.com/r/astoria/comments/1wp5pq7/solo_show_from_this_american_life_chris_gethard/",
-   "venues_mentioned": [
-    "QED Astoria"
-   ],
-   "when_mentioned": null,
-   "time_mentioned": null,
-   "links": [
-    "https://qedastoria.com/products/solo-a-show-about-friendship-the-final-tour-by-gabe-mollica?event=2026-09-26T19:30:00",
-    "https://qedastoria.com/products/solo-a-show-about-friendship-the-final-tour-by-gabe-mollica?event=2026-10-03T19:30:00"
-   ],
-   "free": false,
-   "new_since_last_run": false,
-   "excerpt": "Gabe Mollica brings his hit Off-Broadway show \"Solo: A Show About Friendship\" to Astoria for 2 nights only! A \"show about friendship\" it was featured on episode 810 of This American Life and will soon be filmed as a comedy special! September 26 at 7:30 at QED Astoria with special"
-  },
-  {
-   "id": "1wp3qbr",
-   "date": "2026-09-24",
-   "subreddit": "parkslope",
-   "title": "“I Love Funny People!” A Comedy Show in IC",
-   "score": 0,
-   "comments": 0,
-   "url": "https://www.reddit.com/r/parkslope/comments/1wp3qbr/i_love_funny_people_a_comedy_show_in_ic/",
-   "venues_mentioned": [],
-   "when_mentioned": null,
-   "time_mentioned": null,
-   "links": [
-    "https://www.eventbrite.com/e/i-love-funny-people-tickets-2001784960704?aff=oddtdtcreator"
-   ],
-   "free": true,
-   "new_since_last_run": false,
-   "excerpt": "Free tonight? Come through to Barrow’s in Industry City. I have gathered together some of my funniest friends for A great night of booze and laughter. Pull up! Come have a great time with us!! [Ticket Link](https://www.eventbrite.com/e/i-love-funny-people-tickets-2001784960704?af"
   }
  ]
 }

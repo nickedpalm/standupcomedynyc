@@ -11,14 +11,14 @@ Six weeks ahead from the board. Regenerated on every build; edit the data, not t
 
 ## Research plan today
 
-Ranked 44; run 2, reuse 3, skip 39; ~378,000 tokens saved. No recent data: Peter Wong, Lisa Wallen Headlines.
+Ranked 41; run 6, reuse 1, skip 34; ~315,000 tokens saved. No recent data: Martin Amini, Kendall Farrell.
 
-## Week 1: Oct 9 to Oct 15 — 18 picks — 6 without artwork · 32 Eventbrite leads not yet reviewed
+## Week 1: Oct 9 to Oct 15 — 19 picks — 6 without artwork · 34 Eventbrite leads not yet reviewed
 
 - Fri Oct 9 6pm — **Brooklyn Power Hour** at Eastville Comedy Club · NO ARTWORK
 - Fri Oct 9 7:30pm — **Poly Díaz (En Español)** at The Bell House
 - Fri Oct 9 8pm · doors 7:30pm — **Magic City – A Night of Comedy** at The Fear City Comedy Club · NO ARTWORK
-- Sat Oct 10 6pm — **Maria Bamford: Live** at The Bell House · heat 35
+- Sat Oct 10 6pm — **Maria Bamford: Live** at The Bell House · heat 60
 - Sat Oct 10 7pm — **Judah Friedlander, Corinne Fisher, Phil Duckett, Maggie Naughton** at New York Comedy Club (Midtown)
 - Sun Oct 11 6pm — **Wait, What's Sri Lanka? — Comedy Special Taping** at Eastville Comedy Club · NO ARTWORK
 - Sun Oct 11 7pm — **Jesús Abelardo: La Dulce Vida (En Español)** at New York Comedy Club (Midtown)
@@ -31,6 +31,7 @@ Ranked 44; run 2, reuse 3, skip 39; ~378,000 tokens saved. No recent data: Peter
 - Wed Oct 14 8pm — **Laughs In The East** at Eastville Comedy Club · NO ARTWORK
 - Wed Oct 14 8pm — **Dead Comedian Contest! Who will bring them back to life?** at Comic Strip Live
 - Wed Oct 14 8pm · doors 7pm — **Health, Mostly Mental: Via Abolencia & Kendall Allison** at Littlefield
+- Wed Oct 14 10pm · doors 9:30pm — **Lea'h Sampson Back At Union Hall (One Night Only)** at Union Hall
 - Thu Oct 15 7:30pm — **Francesca Fiorentini and Matt Lieb** at The Bell House
 - Thu Oct 15 8pm — **Stand Up Shenanigans** at Eastville Comedy Club · NO ARTWORK
 
@@ -44,7 +45,7 @@ Ranked 44; run 2, reuse 3, skip 39; ~378,000 tokens saved. No recent data: Peter
   - Sat Oct 10 1:30pm — Get Work: Halloween Edition! at Caveat · from $15.67 · has artwork
   - Sat Oct 10 4pm — Modern Whitney at Caveat · from $18.76 · has artwork
 
-## Week 2: Oct 16 to Oct 22 — 15 picks — 8 without artwork · 6 Eventbrite leads not yet reviewed
+## Week 2: Oct 16 to Oct 22 — 15 picks — 8 without artwork · 8 Eventbrite leads not yet reviewed
 
 - Fri Oct 16 7pm — **Kathy Griffin: New Face, New Tour** at The Town Hall · NO ARTWORK
 - Fri Oct 16 7:30pm — **Blank Check Live** at The Bell House
@@ -68,6 +69,8 @@ Ranked 44; run 2, reuse 3, skip 39; ~378,000 tokens saved. No recent data: Peter
   - Sat Oct 17 12pm — The Distance from Here - Michael James Freedman - Arts Gowanus Open Studios at Littlefield · from $0 · has artwork
   - Sat Oct 17 8pm — Sheba Mason, Michele Balan, Connor O'Brien, Sean Donnelly, & JJ Ramirez! at Comic Strip Live · from $25.71 · has artwork
   - Sat Oct 17 10:30pm — Sheba Mason, Michele Balan, Connor O'Brien, Sean Donnelly, & JJ Ramirez! at Comic Strip Live · from $25.71 · has artwork
+  - Sun Oct 18 12pm — The Distance from Here - Michael James Freedman - Arts Gowanus Open Studios at Littlefield · from $0 · has artwork
+  - Sun Oct 18 8pm — Tobin Miller, Eddie Stone, Carla Oakerson, Nick Tilleli, Jason Choi, more! at Comic Strip Live · from $25.71 · has artwork
   - Wed Oct 21 11pm — The Late Night Comedy Show at Kellogg's Diner at Kellogg's Diner · from $5 · has artwork
 
 ## Week 3: Oct 23 to Oct 29 — 12 picks — 7 without artwork
@@ -85,7 +88,7 @@ Ranked 44; run 2, reuse 3, skip 39; ~378,000 tokens saved. No recent data: Peter
 - Thu Oct 29 9pm — **Megan Botnick Headlines** at West Side Comedy Club · NO ARTWORK
 - Thu Oct 29 9pm — **Chronically Offline** at West Side Comedy Club
 
-## Week 4: Oct 30 to Nov 5 — 8 picks — 4 without artwork
+## Week 4: Oct 30 to Nov 5 — 9 picks — 4 without artwork
 
 - Fri Oct 30 7pm · doors 6:15pm — **Laughing Lassi** at Broadway Comedy Club · NO ARTWORK
 - Sat Oct 31 7pm — **Nasser Al-Rayess** at The Town Hall
@@ -93,8 +96,9 @@ Ranked 44; run 2, reuse 3, skip 39; ~378,000 tokens saved. No recent data: Peter
 - Sun Nov 1 7:30pm — **Sunday Night Comedy** at Eastville Comedy Club · NO ARTWORK
 - Mon Nov 2 7:30pm — **Sam Oh: The Unbearable Tightness of Being...Gay Virgin** at The Bell House
 - Tue Nov 3 7pm — **Difficult People: The Movie — A Live Table Read** at The Town Hall · NO ARTWORK
-- Wed Nov 4 8pm — **Salma Hindy: 10 Years of Stand-Up Comedy** at The Stand
-- Thu Nov 5 7:30pm — **Sam Tallent** at The Bell House · NO ARTWORK · heat 25
+- Wed Nov 4 7pm — **Please Stay Seated** at West Side Comedy Club
+- Wed Nov 4 8pm — **Salma Hindy: 10 Years of Stand-Up Comedy** at The Stand · heat 40
+- Thu Nov 5 7:30pm — **Sam Tallent** at The Bell House · NO ARTWORK · heat 31
 
 ## Week 5: Nov 6 to Nov 12 — 12 picks — 12 without artwork
 
@@ -105,7 +109,7 @@ Ranked 44; run 2, reuse 3, skip 39; ~378,000 tokens saved. No recent data: Peter
 - Sat Nov 7 6pm — **Joanne McNally: Pinotphile** at The Town Hall · NO ARTWORK · heat 35
 - Sun Nov 8 4pm — **Josh Sharp: An Hour of Crowd Work in the Round** at The Bell House · NO ARTWORK
 - Sun Nov 8 7pm — **Sarah Sherman & Patti Harrison** at The Town Hall · NO ARTWORK
-- Sun Nov 8 7:30pm — **Marc Maron: Yammering Into the Void Tour** at Beacon Theatre · NO ARTWORK · heat 20
+- Sun Nov 8 7:30pm — **Marc Maron: Yammering Into the Void Tour** at Beacon Theatre · NO ARTWORK · heat 45
 - Sun Nov 8 7:30pm — **Rainbow Riot** at Brooklyn Comedy Collective · NO ARTWORK
 - Mon Nov 9 8pm — **Stand Up for Heroes (NYCF)** at David Geffen Hall (Lincoln Center) · NO ARTWORK
 - Tue Nov 10 10pm — **Eddie Pepitone Headlining Union Hall (night one)** at Union Hall · NO ARTWORK
@@ -113,11 +117,11 @@ Ranked 44; run 2, reuse 3, skip 39; ~378,000 tokens saved. No recent data: Peter
 
 ## Week 6: Nov 13 to Nov 19 — 9 picks — 8 without artwork
 
-- Fri Nov 13 6:45pm — **Ilana Glazer Live!** at Beacon Theatre · NO ARTWORK · heat 20
+- Fri Nov 13 6:45pm — **Ilana Glazer Live!** at Beacon Theatre · NO ARTWORK · heat 25
 - Fri Nov 13 7pm — **Jess Hilarious: The Don t Play Wit Me Tour** at Hard Rock Hotel New York - The Venue on Music Row · NO ARTWORK
 - Fri Nov 13 8pm — **Dropout Improv** at Kings Theatre · NO ARTWORK
 - Sat Nov 14 3pm — **The Moth x Comic Relief: Funny Story** at The Town Hall · NO ARTWORK
-- Sat Nov 14 7pm — **Daniel Sloss: Bitter** at Beacon Theatre · NO ARTWORK
+- Sat Nov 14 7pm — **Daniel Sloss: Bitter** at Beacon Theatre · NO ARTWORK · heat 30
 - Sat Nov 14 7pm — **SH&T Show hosted by Jordan Klepper** at The Town Hall · NO ARTWORK
 - Sun Nov 15 6:30pm — **Mojo Brookzz: Outta Pocket Comedy Tour** at Beacon Theatre · NO ARTWORK
 - Sun Nov 15 7pm — **Matthew Broussard** at The Bell House

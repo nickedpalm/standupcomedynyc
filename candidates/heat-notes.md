@@ -222,3 +222,24 @@ Generated from `npm run heat` + `npm run research-plan` (last30days for the 2 na
 
 ### Notes
 - **Peter Wong** and **Lisa Wallen Headlines** were the only two `RUN` decisions in today's plan (priority 35 + 30, both priority 3-10d shows with no cheap signals yet).
+
+## 2026-10-09
+
+`npm run research-plan` today: **41 performers ranked** from static data; **6 run** (Asif Ali, Johnny Pemberton, Michelle Buteau, Kathy Griffin, Martin Amini, Kendall Farrell); **1 reuse** (Maria Bamford, cached 5d ago); **34 skipped** (out of the 10-day window or outside the top 10 by cheap ranking). **~315,000 tokens saved** by the plan (6 skipped runs × ~9,000 tokens = ~54k; with the higher-priority shortlist cuts the 39 outside-the-window skips dominate the savings).
+
+### Run notes (last30days today, with about a minute between each)
+- **Asif Ali** (Bell House Sat Oct 17 7:30pm, priority 30): Reddit returned 4 threads, 1,455 upvotes, 310 comments — the loudest thread is the r/comedybangbang Comedy Central Roast of Bruce Willis re-sighting; the rest are r/indiadiscussion / r/GenZpk / r/ITU_Lahore Dr. Asif Ali mentions. HN silent. Pick stands on the Bell House booking and the *Wonder Man* / Netflix rerun chatter. Cached.
+- **Johnny Pemberton** (Bell House Sun Oct 18 7:30pm, priority 30): Reddit returned 5 threads, 289 upvotes, 95 comments, top voices r/NeverNotFunny / r/duncantrussell / r/Fancast — he's a Never Not Funny regular and the threads cluster around NNF episodes and his Cartoon Network / NBC credits. HN silent. Cached.
+- **Michelle Buteau** (Bell House Mon Oct 19 7:30pm, priority 30): Reddit returned 2 threads, 7 upvotes, 1 comment — the threads are r/FemaleStandupComedy and r/NYCmissedconnections, no real buzz. HN silent. Pick stands on her Netflix *Survival of the Thickest* profile and the room. Cached.
+- **Kathy Griffin** (Town Hall Fri Oct 16 7pm, priority 25): Reddit returned 10 threads, 1,715 upvotes, 226 comments — top voices r/Fauxmoi / r/datalounge / r/rupaulsdragrace, chattering about her Town Hall return after the Trump photo / Megyn Kelly ban-era fallout, not specifically the *New Face, New Tour* set. HN silent. Strong buzz; pick on the return-to-NYC narrative. Cached.
+- **Martin Amini** (Gotham Tue Oct 13 7pm, priority 20): Reddit returned 1 thread in r/asianamerican (15 upvotes); HN returned 2 stories (6 points) — almost no recent chatter, and the few hits are DMV voice work / Iranian-American topics, not Gotham. HN stories are noise. Pick stands on his Netflix specials and the room. Cached.
+- **Kendall Farrell** (Littlefield Sun Oct 18 7pm, priority 20): Reddit returned 0 items (auth-failed HTTP 403), HN returned 0 items. No online footprint at all in the last 30 days. Pick stands on her LA-based and recent TV writing credits and the special-taping framing; the room is the signal, not buzz. Cached.
+
+### Reuse notes (already cached under 7d)
+- **Maria Bamford**: cached 5d ago (Oct 4). Reused. Note: her name is loud enough to keep the going-fast signal without needing more — the new Netflix documentary *Paralyzed by Hope* (premieres Oct 23) is the main driver.
+
+### Ranked on schedule alone (no recent data, ranked by show date)
+- None of the 6 RUN names had usable, name-specific recent data; the picks stand on the room and the listed bill, not on the buzz.
+
+### Notes
+- Six runs were necessary because the top of the schedule (Asif, Johnny, Michelle, Kathy) plus Gotham/Littlefield headliners (Martin, Kendall) all fall inside the 10-day decision window with no cheap signals. ~315,000 tokens saved vs running last30days across the whole 41-performer roster; ~6 skipped-vs-run for the same-day list, plus the entire 34 outside-the-window list.
