@@ -689,7 +689,7 @@
  },
  {
   "event_id": "poly-diaz-2026-10-09",
-  "src": "/assets/posters/poly-diaz-2026-10-09.jpg",
+  "src": "/assets/posters/archive/poly-diaz-2026-10-09.jpg",
   "width": 640,
   "height": 427,
   "source_url": "https://www.ticketmaster.com/poly-diaz-en-espanol-brooklyn-new-york-10-09-2026/event/300064E804C8B732",
@@ -700,7 +700,8 @@
   "retrieved_at": "2026-09-15",
   "bytes": 26133,
   "sha256": "TBD",
-  "reuse_status": "Official promotional artwork from the show's Ticketmaster listing; no separate reuse license identified. Site display with credit only."
+  "reuse_status": "Official promotional artwork from the show's Ticketmaster listing; no separate reuse license identified. Site display with credit only.",
+  "archived": true
  },
  {
   "event_id": "maria-bamford-2026-10-10",
