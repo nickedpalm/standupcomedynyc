@@ -1611,5 +1611,15 @@
   "source_label": "Distillery events page",
   "access_note": "Distillery page loads plainly but the events list is a stale May 2025 stub. Plain Slice Comedy's own Eventbrite listing (eventbrite.com/e/plain-slice-comedy-...-tickets-1105141500979) is the venue-controlled source for the 3rd-Friday comedy series.",
   "verified_at": "2026-10-07"
+ },
+ {
+  "name": "The Slipper Room",
+  "address": "167 Orchard St, Manhattan",
+  "neighborhood": "Lower East Side",
+  "borough": "Manhattan",
+  "calendar_url": "https://www.slipperroom.com/",
+  "source_label": "Venue home (calendar lists upcoming events in list and grid)",
+  "access_note": "Loads plainly; /events URL returns 404",
+  "verified_at": "2026-10-10"
  }
 ]

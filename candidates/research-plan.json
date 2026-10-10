@@ -1,10 +1,26 @@
 {
- "generated_at": "2026-10-09T11:01:56.709Z",
- "performers_considered": 41,
+ "generated_at": "2026-10-10T11:09:35.227Z",
+ "performers_considered": 43,
  "shortlist": [
   {
    "name": "Maria Bamford",
-   "priority": 70
+   "priority": 95
+  },
+  {
+   "name": "Duncan Trussell",
+   "priority": 55
+  },
+  {
+   "name": "Salma Hindy",
+   "priority": 45
+  },
+  {
+   "name": "Marc Maron",
+   "priority": 45
+  },
+  {
+   "name": "Martin Amini",
+   "priority": 35
   },
   {
    "name": "Joanne McNally",
@@ -15,184 +31,129 @@
    "priority": 35
   },
   {
+   "name": "Sam Tallent",
+   "priority": 31
+  },
+  {
    "name": "Asif Ali",
    "priority": 30
   },
   {
    "name": "Johnny Pemberton",
    "priority": 30
-  },
-  {
-   "name": "Michelle Buteau",
-   "priority": 30
-  },
-  {
-   "name": "Kathy Griffin",
-   "priority": 25
-  },
-  {
-   "name": "Sam Tallent",
-   "priority": 25
-  },
-  {
-   "name": "Martin Amini",
-   "priority": 20
-  },
-  {
-   "name": "Kendall Farrell",
-   "priority": 20
   }
  ],
  "run": [
   {
-   "name": "Asif Ali",
-   "priority": 30,
+   "name": "Duncan Trussell",
+   "priority": 55,
    "next": {
-    "id": "asif-ali-2026-10-17",
-    "date": "2026-10-17",
+    "id": "duncan-trussell-bell-house-2026-11-18",
+    "date": "2026-11-18",
     "venue": "The Bell House",
-    "days": 8,
+    "days": 39,
     "featured": false,
     "poster": true,
     "demand": null
    },
    "cheap_signals": [
-    "Wikipedia: 208 views a day"
+    "Wikipedia: 1326 views a day",
+    "Wikipedia views up 206% over the prior month",
+    "Reddit: 1 post in 30 days, 542 upvotes (top: r/JoeRogan)"
    ],
-   "reason": "in the decision window and not yet decided"
-  },
-  {
-   "name": "Johnny Pemberton",
-   "priority": 30,
-   "next": {
-    "id": "johnny-pemberton-2026-10-18",
-    "date": "2026-10-18",
-    "venue": "The Bell House",
-    "days": 9,
-    "featured": false,
-    "poster": true,
-    "demand": null
-   },
-   "cheap_signals": [
-    "Wikipedia: 682 views a day"
-   ],
-   "reason": "in the decision window and not yet decided"
-  },
-  {
-   "name": "Michelle Buteau",
-   "priority": 30,
-   "next": {
-    "id": "michelle-buteau-2026-10-19",
-    "date": "2026-10-19",
-    "venue": "The Bell House",
-    "days": 10,
-    "featured": false,
-    "poster": true,
-    "demand": null
-   },
-   "cheap_signals": [
-    "Wikipedia: 754 views a day"
-   ],
-   "reason": "in the decision window and not yet decided"
-  },
-  {
-   "name": "Kathy Griffin",
-   "priority": 25,
-   "next": {
-    "id": "kathy-griffin-new-face-new-tour-town-hall-2026-10-16",
-    "date": "2026-10-16",
-    "venue": "The Town Hall",
-    "days": 7,
-    "featured": false,
-    "poster": false,
-    "demand": null
-   },
-   "cheap_signals": [
-    "Wikipedia: 909 views a day"
-   ],
-   "reason": "in the decision window and not yet decided"
-  },
-  {
-   "name": "Martin Amini",
-   "priority": 20,
-   "next": {
-    "id": "martin-amini-gotham-2026-10-13",
-    "date": "2026-10-13",
-    "venue": "Gotham Comedy Club",
-    "days": 4,
-    "featured": false,
-    "poster": true,
-    "demand": null
-   },
-   "cheap_signals": [],
-   "reason": "in the decision window and not yet decided"
-  },
-  {
-   "name": "Kendall Farrell",
-   "priority": 20,
-   "next": {
-    "id": "kendall-farrell-special-taping-littlefield-2026-10-18",
-    "date": "2026-10-18",
-    "venue": "Littlefield",
-    "days": 9,
-    "featured": false,
-    "poster": true,
-    "demand": null
-   },
-   "cheap_signals": [],
-   "reason": "in the decision window and not yet decided"
+   "reason": "filled to the minimum of 5"
   }
  ],
  "reuse": [
   {
    "name": "Maria Bamford",
-   "priority": 70,
+   "priority": 95,
    "cached": {
     "at": "2026-10-04T11:09:49.000Z",
-    "age_days": 5,
+    "age_days": 6,
     "fresh": true,
     "note": "Reddit's main signal is the new Netflix documentary Paralyzed by Hope (premieres Oct 23) plus her body-of-work thread; nothing bell-house specific but her name is loud enough to keep the going-fast signal without needing more."
+   }
+  },
+  {
+   "name": "Martin Amini",
+   "priority": 35,
+   "cached": {
+    "at": "2026-10-09T11:14:25.547Z",
+    "age_days": 1,
+    "fresh": true,
+    "note": "Reddit: 1 thread in r/asianamerican (15 upvotes); HN: 2 stories (6 points). Almost no recent chatter, and the few hits are about the Iranian-American / DMV voice work, not Gotham. Gotham Oct 13 — treat as low-signal; pick on his specials (a Netflix hour and a follow-up) rather than buzz."
+   }
+  },
+  {
+   "name": "Asif Ali",
+   "priority": 30,
+   "cached": {
+    "at": "2026-10-09T11:08:36.394Z",
+    "age_days": 1,
+    "fresh": true,
+    "note": "Reddit: 4 threads in 30 days, the main one is a Comedy Bang Bang sighting in the 2018 Bruce Willis roast; HN silent. Bell House Oct 17 - treat as low-buzz, decide on the room and the headline."
+   }
+  },
+  {
+   "name": "Johnny Pemberton",
+   "priority": 30,
+   "cached": {
+    "at": "2026-10-09T11:10:08.731Z",
+    "age_days": 1,
+    "fresh": true,
+    "note": "Reddit: 5 threads in 30 days, mostly r/NeverNotFunny / r/duncantrussell (he's a Never Not Funny regular); HN silent. Bell House Oct 18 — pick on the room and the cult podcast audience, not on recent buzz."
    }
   }
  ],
  "skip": [
   {
+   "name": "Salma Hindy",
+   "priority": 45,
+   "reason": "next show in 25 days, outside the 10-day window"
+  },
+  {
+   "name": "Marc Maron",
+   "priority": 45,
+   "reason": "next show in 29 days, outside the 10-day window"
+  },
+  {
    "name": "Joanne McNally",
    "priority": 35,
-   "reason": "next show in 29 days, outside the 10-day window"
+   "reason": "next show in 28 days, outside the 10-day window"
   },
   {
    "name": "Jaboukie Young-White",
    "priority": 35,
-   "reason": "next show in 39 days, outside the 10-day window"
+   "reason": "next show in 38 days, outside the 10-day window"
   },
   {
    "name": "Sam Tallent",
-   "priority": 25,
-   "reason": "next show in 27 days, outside the 10-day window"
+   "priority": 31,
+   "reason": "next show in 26 days, outside the 10-day window"
   },
   {
-   "name": "Salma Hindy",
-   "priority": 20,
+   "name": "Michelle Buteau",
+   "priority": 30,
    "reason": "outside the top 10 by cheap ranking"
   },
   {
-   "name": "Marc Maron",
-   "priority": 20,
+   "name": "Kathy Griffin",
+   "priority": 25,
    "reason": "outside the top 10 by cheap ranking"
   },
   {
    "name": "Ilana Glazer",
-   "priority": 20,
+   "priority": 25,
    "reason": "outside the top 10 by cheap ranking"
   },
   {
-   "name": "Hot Aur Single",
-   "priority": 20,
+   "name": "Daniel Sloss",
+   "priority": 25,
    "reason": "outside the top 10 by cheap ranking"
   },
   {
-   "name": "Holmes Street",
+   "name": "Kendall Farrell",
    "priority": 20,
    "reason": "outside the top 10 by cheap ranking"
   },
@@ -232,17 +193,17 @@
    "reason": "outside the top 10 by cheap ranking"
   },
   {
+   "name": "Matthew Broussard",
+   "priority": 15,
+   "reason": "outside the top 10 by cheap ranking"
+  },
+  {
    "name": "Adam Ray",
    "priority": 10,
    "reason": "outside the top 10 by cheap ranking"
   },
   {
    "name": "Jess Hilarious",
-   "priority": 10,
-   "reason": "outside the top 10 by cheap ranking"
-  },
-  {
-   "name": "Daniel Sloss",
    "priority": 10,
    "reason": "outside the top 10 by cheap ranking"
   },
@@ -272,12 +233,32 @@
    "reason": "outside the top 10 by cheap ranking"
   },
   {
-   "name": "Matthew Broussard",
+   "name": "Please Stay Seated",
+   "priority": 5,
+   "reason": "outside the top 10 by cheap ranking"
+  },
+  {
+   "name": "Jordan Jensen",
+   "priority": 5,
+   "reason": "outside the top 10 by cheap ranking"
+  },
+  {
+   "name": "Mojo Brookzz",
+   "priority": 5,
+   "reason": "outside the top 10 by cheap ranking"
+  },
+  {
+   "name": "Fahim Anwar",
    "priority": 5,
    "reason": "outside the top 10 by cheap ranking"
   },
   {
    "name": "Peer Revue",
+   "priority": 5,
+   "reason": "outside the top 10 by cheap ranking"
+  },
+  {
+   "name": "Mike Rice",
    "priority": 5,
    "reason": "outside the top 10 by cheap ranking"
   },
@@ -312,25 +293,12 @@
    "reason": "outside the top 10 by cheap ranking"
   },
   {
-   "name": "Jordan Jensen",
-   "priority": 0,
-   "reason": "outside the top 10 by cheap ranking"
-  },
-  {
    "name": "Dropout Improv",
-   "priority": 0,
-   "reason": "outside the top 10 by cheap ranking"
-  },
-  {
-   "name": "Mojo Brookzz",
    "priority": 0,
    "reason": "outside the top 10 by cheap ranking"
   }
  ],
- "estimated_tokens_saved": 315000,
- "estimate_basis": "9000 tokens per last30days run, 35 runs avoided out of 41",
- "no_recent_data": [
-  "Martin Amini",
-  "Kendall Farrell"
- ]
+ "estimated_tokens_saved": 378000,
+ "estimate_basis": "9000 tokens per last30days run, 42 runs avoided out of 43",
+ "no_recent_data": []
 }

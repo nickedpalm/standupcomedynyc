@@ -243,3 +243,19 @@ Generated from `npm run heat` + `npm run research-plan` (last30days for the 2 na
 
 ### Notes
 - Six runs were necessary because the top of the schedule (Asif, Johnny, Michelle, Kathy) plus Gotham/Littlefield headliners (Martin, Kendall) all fall inside the 10-day decision window with no cheap signals. ~315,000 tokens saved vs running last30days across the whole 41-performer roster; ~6 skipped-vs-run for the same-day list, plus the entire 34 outside-the-window list.
+
+## 2026-10-10
+
+`npm run research-plan` today: **43 performers ranked** from static data; **1 run** (Duncan Trussell, the only name in the 10-day window — Bell House Nov 18); **4 reuse** (Maria Bamford, Martin Amini, Asif Ali, Johnny Pemberton, all cached under 7 days); **38 skipped**. **~378,000 tokens saved** by the plan (38 skipped runs × ~9,000 tokens ≈ ~342k; the 5 outside-the-window bypasses are the rest).
+
+### Run notes (last30days today)
+- **Duncan Trussell** (Bell House Wed Nov 18 7:30pm, priority 55): Reddit returned 12 threads, 542 upvotes total, top voices r/elephantgraveyard / r/Harmontown / r/OnCinemaAtTheCinema / r/duncantrussell / r/officehourslive — the loudest recent signal is the Sep 28 r/elephantgraveyard + r/Harmontown thread on Trussell threatening Onion/Infowars writers (40 upvotes, 542-upvote top Reddit entry). HN silent on him specifically. Wiki shows 1326 daily views, +206% MoM. Edit out cases of borderline conduct by name — held for Nick per editorial policy; the pick was removed from the board this run, the cached note is preserved here. Cached.
+
+### Reuse notes (already cached under 7d)
+- **Maria Bamford** (cached 6d ago, Oct 4): Reused. Paralyzed by Hope (Oct 23) is the main driver; Bell House sold-out tag stays.
+- **Martin Amini** (cached 1d ago, Oct 9): Reused. 1 r/asianamerican thread (15 upvotes); HN 2 stories (6 points). Low-signal — pick on his Netflix specials, not buzz.
+- **Asif Ali** (cached 1d ago, Oct 9): Reused. Reddit r/comedybangbang Roast re-sighting.
+- **Johnny Pemberton** (cached 1d ago, Oct 9): Reused. NNF fan signal.
+
+### Ranked on schedule alone (no recent data, ranked by show date)
+- **Duncan Trussell** was the only name in the 10-day window; the run still returned no usable *comedy* chatter and surfaced the same borderline OnCinema/Onion thread. Edited out by name per policy.

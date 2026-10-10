@@ -1,5 +1,5 @@
 {
- "retrieved_at": "2026-10-09T11:01:50.000Z",
+ "retrieved_at": "2026-10-10T11:01:17.623Z",
  "note": "Promoter posts from NYC neighborhood subreddits, last 14 days. Leads only: open the linked page or the venue site before anything enters the data; register the venue first.",
  "subreddits": [
   "nycevents",
@@ -27,6 +27,79 @@
  ],
  "leads": [
   {
+   "id": "1x27ooh",
+   "date": "2026-10-10",
+   "subreddit": "nycevents",
+   "title": "Ukrainian refugee and Toronto comedian hoping for a little support in NYC ❤️",
+   "score": 1,
+   "comments": 0,
+   "url": "https://www.reddit.com/r/nycevents/comments/1x27ooh/ukrainian_refugee_and_toronto_comedian_hoping_for/",
+   "venues_mentioned": [
+    "Gotham Comedy Club"
+   ],
+   "when_mentioned": "Monday, October 12, at 7 PM, I have a chance t",
+   "time_mentioned": "7 PM",
+   "links": [],
+   "free": true,
+   "new_since_last_run": true,
+   "excerpt": "Hey everyone, I’m Oleg Redko, a Ukrainian refugee living in Toronto and trying to build a life doing stand-up comedy. This Monday, October 12, at 7 PM, I have a chance to perform at Gotham Comedy Club in New York. It means a lot to me, but there’s a catch: it’s a New Talent bring"
+  },
+  {
+   "id": "1x27ebx",
+   "date": "2026-10-10",
+   "subreddit": "nycevents",
+   "title": "Ukrainian refugee and Toronto comedian hoping for a little support in NYC ❤️",
+   "score": 1,
+   "comments": 0,
+   "url": "https://www.reddit.com/r/nycevents/comments/1x27ebx/ukrainian_refugee_and_toronto_comedian_hoping_for/",
+   "venues_mentioned": [
+    "Gotham Comedy Club"
+   ],
+   "when_mentioned": "Monday, October 12, at 7 PM, I have a chance t",
+   "time_mentioned": "7 PM",
+   "links": [],
+   "free": true,
+   "new_since_last_run": true,
+   "excerpt": "Hey everyone, I’m Oleg Redko, a Ukrainian refugee living in Toronto and trying to build a life doing stand-up comedy. This Monday, October 12, at 7 PM, I have a chance to perform at Gotham Comedy Club in New York. It means a lot to me, but there’s a catch: it’s a New Talent bring"
+  },
+  {
+   "id": "1x27nm8",
+   "date": "2026-10-10",
+   "subreddit": "lowereastside",
+   "title": "Ukrainian refugee and Toronto comedian hoping for a little support in NYC ❤️",
+   "score": 1,
+   "comments": 0,
+   "url": "https://www.reddit.com/r/lowereastside/comments/1x27nm8/ukrainian_refugee_and_toronto_comedian_hoping_for/",
+   "venues_mentioned": [
+    "Gotham Comedy Club"
+   ],
+   "when_mentioned": "Monday, October 12, at 7 PM, I have a chance t",
+   "time_mentioned": "7 PM",
+   "links": [],
+   "free": true,
+   "new_since_last_run": true,
+   "excerpt": "Hey everyone, I’m Oleg Redko, a Ukrainian refugee living in Toronto and trying to build a life doing stand-up comedy. This Monday, October 12, at 7 PM, I have a chance to perform at Gotham Comedy Club in New York. It means a lot to me, but there’s a catch: it’s a New Talent bring"
+  },
+  {
+   "id": "1x24nl1",
+   "date": "2026-10-10",
+   "subreddit": "eastvillage",
+   "title": "Rule 6 Amended Following Community Vote",
+   "score": 5,
+   "comments": 0,
+   "url": "https://www.reddit.com/r/eastvillage/comments/1x24nl1/rule_6_amended_following_community_vote/",
+   "venues_mentioned": [],
+   "when_mentioned": null,
+   "time_mentioned": null,
+   "links": [
+    "https://evsub.info/r6v2",
+    "https://evsub.info/r6v1"
+   ],
+   "free": false,
+   "new_since_last_run": true,
+   "excerpt": "Following [a community vote](https://evsub.info/r6v2), **Rule 6: Promotional Content** has been amended to introduce a monthly posting limit for verified businesses. # Previous Rule 6 **Prohibited Promotion** * Comedy clubs/shows * Medical trials * **Penalty:** ½ Strike **Decepti"
+  },
+  {
    "id": "1x1brcv",
    "date": "2026-10-09",
    "subreddit": "nycevents",
@@ -41,8 +114,110 @@
    "time_mentioned": "7pm",
    "links": [],
    "free": true,
-   "new_since_last_run": true,
+   "new_since_last_run": false,
    "excerpt": "Hey everyone! My name is Oleg Redko. I’m a Ukrainian refugee living in Toronto, and I’m coming to New York to perform at Gotham Comedy Club’s New Talent show this Monday, October 12, at 7pm. This is my second invitation to perform there in two months, and I’m really excited. Perf"
+  },
+  {
+   "id": "1x1tdnz",
+   "date": "2026-10-09",
+   "subreddit": "nycComedy",
+   "title": "Out of the Loop | NYC stand-up showcase at The Slipper Room on 10/13",
+   "score": 1,
+   "comments": 0,
+   "url": "https://www.reddit.com/r/nycComedy/comments/1x1tdnz/out_of_the_loop_nyc_standup_showcase_at_the/",
+   "venues_mentioned": [],
+   "when_mentioned": "Tuesday, October 13",
+   "time_mentioned": "7:30 PM",
+   "links": [
+    "https://www.slipperroom.com/event-details/guest-event-out-of-the-loop-october-13"
+   ],
+   "free": false,
+   "new_since_last_run": true,
+   "excerpt": "Hey NYC comedy fans! We're bringing **Out of the Loop** back to The Slipper Room this Tuesday, October 13! For anyone unfamiliar, Out of the Loop is a stand-up showcase highlighting comedians who have roots in the Chicago comedy scene and are now performing in NYC. We've got a fa"
+  },
+  {
+   "id": "1x1sjw1",
+   "date": "2026-10-09",
+   "subreddit": "lowereastside",
+   "title": "Stand-up comedy at The Slipper Room this Tuesday (10/13) | Out of the Loop",
+   "score": 1,
+   "comments": 0,
+   "url": "https://www.reddit.com/r/lowereastside/comments/1x1sjw1/standup_comedy_at_the_slipper_room_this_tuesday/",
+   "venues_mentioned": [],
+   "when_mentioned": "Tuesday (10/13) | Out of the Loop Hey LES",
+   "time_mentioned": "7:30 PM",
+   "links": [
+    "https://www.slipperroom.com/event-details/guest-event-out-of-the-loop-october-13"
+   ],
+   "free": false,
+   "new_since_last_run": true,
+   "excerpt": "Hey LES! We're producing a stand-up comedy showcase right here in the neighborhood this Tuesday, October 13, and wanted to share it with anyone looking for something fun to do locally! The show is called **Out of the Loop**, and we're bringing together some of our favorite NYC co"
+  },
+  {
+   "id": "1x1pzua",
+   "date": "2026-10-09",
+   "subreddit": "astoria",
+   "title": "Free comedy show tonight at the newly renamed Gaf Astoria!",
+   "score": 3,
+   "comments": 0,
+   "url": "https://www.reddit.com/r/astoria/comments/1x1pzua/free_comedy_show_tonight_at_the_newly_renamed_gaf/",
+   "venues_mentioned": [],
+   "when_mentioned": null,
+   "time_mentioned": null,
+   "links": [],
+   "free": true,
+   "new_since_last_run": true,
+   "excerpt": ""
+  },
+  {
+   "id": "1x1udku",
+   "date": "2026-10-09",
+   "subreddit": "parkslope",
+   "title": "the October Opus tomorrow!",
+   "score": 2,
+   "comments": 0,
+   "url": "https://www.reddit.com/r/parkslope/comments/1x1udku/the_october_opus_tomorrow/",
+   "venues_mentioned": [
+    "Freddy's Bar"
+   ],
+   "when_mentioned": "Saturday night at Freddy's Bar and Backroom feat",
+   "time_mentioned": "8pm",
+   "links": [],
+   "free": true,
+   "new_since_last_run": true,
+   "excerpt": "Hosting a one night only spooky meta-cabaret, comedy and music show Saturday night at Freddy's Bar and Backroom featuring these talented local artists and entertainers Wisard Eric Greenbaum Dan Erbland and Paul Sottnik with the music of Undead Doctor Scott and stage manager Indig"
+  },
+  {
+   "id": "1x1rhtm",
+   "date": "2026-10-09",
+   "subreddit": "parkslope",
+   "title": "TONIGHT! OPEN MIC!",
+   "score": 2,
+   "comments": 0,
+   "url": "https://www.reddit.com/r/parkslope/comments/1x1rhtm/tonight_open_mic/",
+   "venues_mentioned": [],
+   "when_mentioned": null,
+   "time_mentioned": null,
+   "links": [],
+   "free": false,
+   "new_since_last_run": true,
+   "excerpt": ""
+  },
+  {
+   "id": "1x1rhob",
+   "date": "2026-10-09",
+   "subreddit": "crownheights",
+   "title": "TONIGHT! OPEN MIC!",
+   "score": 5,
+   "comments": 0,
+   "url": "https://www.reddit.com/r/crownheights/comments/1x1rhob/tonight_open_mic/",
+   "venues_mentioned": [],
+   "when_mentioned": null,
+   "time_mentioned": null,
+   "links": [],
+   "free": true,
+   "new_since_last_run": true,
+   "excerpt": "Wayward Gardens last open mic of the season! Doors 7, we start at 7:30 We'll go till 10 with a 10 min break in the middle! 7 min sets Sing, dance, read poetry, tell a joke @wayward.garden.nyc on Instagram Completely free Seating is limited "
   },
   {
    "id": "1x0h3tz",
@@ -87,7 +262,7 @@
    "date": "2026-10-07",
    "subreddit": "astoria",
    "title": "Hey gang — immigrant Astorian here. My work permit expires next week and I lose my job. So I’m doing a comedy show tomorrow to make some money.",
-   "score": 109,
+   "score": 116,
    "comments": 42,
    "url": "https://www.reddit.com/r/astoria/comments/1x05q3j/hey_gang_immigrant_astorian_here_my_work_permit/",
    "venues_mentioned": [
@@ -108,7 +283,7 @@
    "date": "2026-10-07",
    "subreddit": "crownheights",
    "title": "Crown Heights Events Thread 10/7-10/13",
-   "score": 10,
+   "score": 12,
    "comments": 0,
    "url": "https://www.reddit.com/r/crownheights/comments/1x06x0u/crown_heights_events_thread_1071013/",
    "venues_mentioned": [],
@@ -228,7 +403,7 @@
    "date": "2026-10-04",
    "subreddit": "williamsburg",
    "title": "Tonight!!! Comedy Hoedown at Bar Freda",
-   "score": 10,
+   "score": 9,
    "comments": 2,
    "url": "https://www.reddit.com/r/williamsburg/comments/1wxgqii/tonight_comedy_hoedown_at_bar_freda/",
    "venues_mentioned": [
@@ -270,7 +445,7 @@
    "date": "2026-10-04",
    "subreddit": "crownheights",
    "title": "TONIGHT! Free Comedy @ Bar Bayeux!",
-   "score": 1,
+   "score": 2,
    "comments": 0,
    "url": "https://www.reddit.com/r/crownheights/comments/1wxk7ps/tonight_free_comedy_bar_bayeux/",
    "venues_mentioned": [],
@@ -346,7 +521,7 @@
    "date": "2026-10-02",
    "subreddit": "Bushwick",
    "title": "THIS SUNDAY Ebony Moore &amp; Friends Comedy Hoedown at Bar Freda",
-   "score": 5,
+   "score": 4,
    "comments": 0,
    "url": "https://www.reddit.com/r/Bushwick/comments/1ww48od/this_sunday_ebony_moore_friends_comedy_hoedown_at/",
    "venues_mentioned": [
@@ -440,7 +615,7 @@
    "date": "2026-09-30",
    "subreddit": "Bushwick",
    "title": "Free local screening of CLUE this weekend!",
-   "score": 12,
+   "score": 13,
    "comments": 0,
    "url": "https://www.reddit.com/r/Bushwick/comments/1wu7nc3/free_local_screening_of_clue_this_weekend/",
    "venues_mentioned": [
@@ -458,7 +633,7 @@
    "date": "2026-09-30",
    "subreddit": "astoria",
    "title": "You Can Erase Chalk, But You Can’t Erase QED — A Goose’s Take on the Astoria Chalk Vandal",
-   "score": 56,
+   "score": 57,
    "comments": 2,
    "url": "https://www.reddit.com/r/astoria/comments/1wud7ua/you_can_erase_chalk_but_you_cant_erase_qed_a/",
    "venues_mentioned": [],
@@ -494,7 +669,7 @@
    "date": "2026-09-30",
    "subreddit": "AskNYC",
    "title": "Comedy Cellar work in progresso",
-   "score": 6,
+   "score": 4,
    "comments": 16,
    "url": "https://www.reddit.com/r/AskNYC/comments/1wtsn5q/comedy_cellar_work_in_progresso/",
    "venues_mentioned": [
@@ -532,7 +707,7 @@
    "date": "2026-09-30",
    "subreddit": "crownheights",
    "title": "Crown Heights Comedy Night is back this Friday!",
-   "score": 4,
+   "score": 5,
    "comments": 0,
    "url": "https://www.reddit.com/r/crownheights/comments/1wtqern/crown_heights_comedy_night_is_back_this_friday/",
    "venues_mentioned": [],
@@ -608,7 +783,7 @@
    "date": "2026-09-28",
    "subreddit": "Bushwick",
    "title": "Ebony Moore &amp; Friends Comedy Hoedown at Bar Freda Sunday Oct 4th 6PM",
-   "score": 12,
+   "score": 14,
    "comments": 0,
    "url": "https://www.reddit.com/r/Bushwick/comments/1wsloxr/ebony_moore_friends_comedy_hoedown_at_bar_freda/",
    "venues_mentioned": [
@@ -628,7 +803,7 @@
    "date": "2026-09-26",
    "subreddit": "Bushwick",
    "title": "Ebony Moore &amp; Friends Comedy Hoedown at Bar Freda Sunday Oct 4th 6PM",
-   "score": 5,
+   "score": 6,
    "comments": 0,
    "url": "https://www.reddit.com/r/Bushwick/comments/1wqyfc9/ebony_moore_friends_comedy_hoedown_at_bar_freda/",
    "venues_mentioned": [
@@ -662,76 +837,6 @@
    "free": false,
    "new_since_last_run": false,
    "excerpt": "Here's the link to the special: [https://www.youtube.com/watch?v=72IwnxnejfE](https://www.youtube.com/watch?v=72IwnxnejfE) I actually ran this show a couple times at Grove 34 and both Grove and QED were essential in my joke developing process so very thankful for the Astoria come"
-  },
-  {
-   "id": "1wq45c0",
-   "date": "2026-09-25",
-   "subreddit": "nycevents",
-   "title": "Creative Potluck/Variety Visual Arts Show &amp; Tell TONIGHT @ 7PM - 3AM",
-   "score": 1,
-   "comments": 0,
-   "url": "https://www.reddit.com/r/nycevents/comments/1wq45c0/creative_potluckvariety_visual_arts_show_tell/",
-   "venues_mentioned": [],
-   "when_mentioned": null,
-   "time_mentioned": "7PM",
-   "links": [
-    "http://nothingunwanted.studio"
-   ],
-   "free": false,
-   "new_since_last_run": false,
-   "excerpt": "🎪 **EVENT INFORMATION:** 🗓️ TODAY SEPTEMBER 25TH (6PM-3AM) 📌TINY CUPBOARD BAR (Chauncey J) 🏷️ $10 (NOTAFLOF) 🔁 @ clemiintiine for submissions The vision is to connect with other creatives and their passions, to get inspired by those around us, and to feel brave and empowered"
-  },
-  {
-   "id": "1wpy6tq",
-   "date": "2026-09-25",
-   "subreddit": "nycevents",
-   "title": "new open mic on sunday!",
-   "score": 1,
-   "comments": 0,
-   "url": "https://www.reddit.com/r/nycevents/comments/1wpy6tq/new_open_mic_on_sunday/",
-   "venues_mentioned": [],
-   "when_mentioned": "sunday",
-   "time_mentioned": null,
-   "links": [],
-   "free": false,
-   "new_since_last_run": false,
-   "excerpt": ""
-  },
-  {
-   "id": "1wq401u",
-   "date": "2026-09-25",
-   "subreddit": "Bushwick",
-   "title": "Anyone want to go to this creative potluck/variety visual arts show &amp; tell with me tonight??",
-   "score": 3,
-   "comments": 0,
-   "url": "https://www.reddit.com/r/Bushwick/comments/1wq401u/anyone_want_to_go_to_this_creative_potluckvariety/",
-   "venues_mentioned": [],
-   "when_mentioned": null,
-   "time_mentioned": "6PM",
-   "links": [
-    "http://nothingunwanted.studio"
-   ],
-   "free": false,
-   "new_since_last_run": false,
-   "excerpt": "copy pasting their caption 🎪 **EVENT INFORMATION:** 🗓️ TODAY SEPTEMBER 25TH (6PM-3AM) 📌TINY CUPBOARD BAR (Chauncey J) 🏷️ $10 (NOTAFLOF) 🔁 @ clemiintiine for submissions The vision is to connect with other creatives and their passions, to get inspired by those around us, and "
-  },
-  {
-   "id": "1wpy6kg",
-   "date": "2026-09-25",
-   "subreddit": "Bushwick",
-   "title": "new open mic on sunday!",
-   "score": 1,
-   "comments": 0,
-   "url": "https://www.reddit.com/r/Bushwick/comments/1wpy6kg/new_open_mic_on_sunday/",
-   "venues_mentioned": [
-    "The Tiny Cupboard"
-   ],
-   "when_mentioned": "sunday",
-   "time_mentioned": "7pm",
-   "links": [],
-   "free": false,
-   "new_since_last_run": false,
-   "excerpt": "hey guys, sharing one more time :) hosting a new open mic + jam at The Tiny Cupboard on sunday. 3-7pm, $10 The event is indoors so shoutout to anyone who pulls through with the rain 🙌 dm if you want more details"
   }
  ]
 }
