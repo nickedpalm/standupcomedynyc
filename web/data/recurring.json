@@ -218,13 +218,13 @@
   "venue": "Eastville Comedy Club",
   "address": "487 Atlantic Ave, Brooklyn",
   "neighborhood": "Boerum Hill",
-  "price_label": "From $20",
-  "price_amount": 20,
+  "price_label": "From $10",
+  "price_amount": 10,
   "format": "Stand-up",
-  "description": "Eastville's Friday happy-hour show. Four hosts, a rotating lineup, and you're out by eight with the night still ahead of you.",
+  "description": "Eastville's four-host rotating showcase, moved off Fridays this fall to Monday at 7:30pm — same early-format lineup, same two-drink minimum, still a working-night-friendly hour.",
   "source_url": "https://www.eastvillecomedy.com/calendar",
   "source_label": "Eastville calendar",
-  "verified_at": "2026-09-30",
+  "verified_at": "2026-10-11",
   "verification_note": "Eastville calendar now lists Brooklyn Power Hour on Mondays at 7:30pm with the banner \"NOW ON A NEW NIGHT\" (Mon Oct 5, Mon Oct 12). Old Friday 6pm series retired; the per-show pages for the September Friday dates 404."
  },
  {

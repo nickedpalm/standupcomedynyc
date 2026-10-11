@@ -259,3 +259,20 @@ Generated from `npm run heat` + `npm run research-plan` (last30days for the 2 na
 
 ### Ranked on schedule alone (no recent data, ranked by show date)
 - **Duncan Trussell** was the only name in the 10-day window; the run still returned no usable *comedy* chatter and surfaced the same borderline OnCinema/Onion thread. Edited out by name per policy.
+
+## 2026-10-11
+
+`npm run research-plan` today: **38 performers ranked** from static data; **0 run**; **5 reuse** (Kendall Farrell 2d, Martin Amini 2d, Asif Ali 2d, Johnny Pemberton 2d, Michelle Buteau 2d — all cached from Oct 9); **33 skipped**. **~342,000 tokens saved** by the plan (33 skipped runs × ~9,000 tokens ≈ ~297k; the rest comes from the 5 cached reuses).
+
+### Run notes (last30days today)
+- None — no performer is in the 10-day window without a fresh cached result.
+
+### Reuse notes (already cached under 7d)
+- **Kendall Farrell** (cached 2d ago, Oct 9): No online footprint in 30d; pick on her LA-based TV writing credits and the special-taping framing.
+- **Martin Amini** (cached 2d ago, Oct 9): 1 r/asianamerican thread (15 upvotes); HN 2 stories (6 points). Low-signal.
+- **Asif Ali** (cached 2d ago, Oct 9): Reddit 4 threads, the loudest is the Comedy Bang Bang Roast of Bruce Willis re-sighting.
+- **Johnny Pemberton** (cached 2d ago, Oct 9): Reddit 5 threads, mostly r/NeverNotFunny / r/duncantrussell (NNF regular).
+- **Michelle Buteau** (cached 2d ago, Oct 9): Reddit 2 threads (r/FemaleStandupComedy), 7 upvotes — almost no recent buzz.
+
+### Ranked on schedule alone (no recent data, ranked by show date)
+- All 33 skipped performers are outside the top 10 by cheap ranking or outside the 10-day window. Salma Hindy (24d), Marc Maron (28d), Joanne McNally (27d), Jaboukie Young-White (37d), Sam Tallent (25d) — all outside the decision window; the cached notes above carry the calls.

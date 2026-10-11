@@ -1620,5 +1620,35 @@
   "bytes": 480092,
   "original_image_url": "https://s1.ticketm.net/dam/a/5eb/c8055e6e-cab8-471d-8167-ddceccfd35eb_TABLET_LANDSCAPE_LARGE_16_9.jpg",
   "verified_at": "2026-10-10"
+ },
+ {
+  "event_id": "jake-velazquez-special-nycc-2026-11-15",
+  "src": "/assets/posters/jake-velazquez-nycf-2026-11-15.jpg",
+  "width": 1072,
+  "height": 680,
+  "source_url": "https://newyorkcomedyclub.com/events/nycf-jake-velazquez-special-taping-2026-11-15170000",
+  "credit": "Artwork: New York Comedy Club / NYCF",
+  "alt": "Jake Velazquez Special Recording NYCF promotional artwork.",
+  "kind": "dated event flyer",
+  "original_image_url": "https://newyorkcomedyclub.com/img/shows/NYCF-Jake-Velazquez-Special-Taping-11-15-Graphics-1072x680-2-3d5c18de-main-image.jpg",
+  "verified_at": "2026-10-11",
+  "bytes": 63152,
+  "sha256": "1c76472808c539d2d43a387a7dedf2cd4d37659202c6d2676c7649cc0636a7cf",
+  "reuse_status": "Official promotional artwork; no separate reuse license identified. Local review draft only."
+ },
+ {
+  "event_id": "stone-and-stone-on-the-road-wscc-2026-11-19",
+  "src": "/assets/posters/stone-and-stone-on-the-road-wscc-2026-11-19.webp",
+  "width": 929,
+  "height": 1200,
+  "source_url": "https://www.westsidecomedyclub.com/shows/stone-and-stone-on-the-road",
+  "credit": "Artwork: West Side Comedy Club / Stone and Stone",
+  "alt": "Stone and Stone On The Road promotional artwork.",
+  "kind": "dated event flyer",
+  "original_image_url": "https://storage.googleapis.com/partner-portal-storage/ticketing/others/StoneandStonetourphotowoutnamepng369030c9-2051-4262-aab9-8667909df6d3.webp",
+  "verified_at": "2026-10-11",
+  "bytes": 70506,
+  "sha256": "b377960267378a694a23ae5c7e275d10c47e89ada2ccf41e635d8803c5b7061e",
+  "reuse_status": "Official promotional artwork; no separate reuse license identified. Local review draft only."
  }
 ]

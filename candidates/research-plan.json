@@ -1,13 +1,9 @@
 {
- "generated_at": "2026-10-10T11:09:35.227Z",
- "performers_considered": 43,
+ "generated_at": "2026-10-11T11:08:37.881Z",
+ "performers_considered": 38,
  "shortlist": [
   {
-   "name": "Maria Bamford",
-   "priority": 95
-  },
-  {
-   "name": "Duncan Trussell",
+   "name": "Kendall Farrell",
    "priority": 55
   },
   {
@@ -41,38 +37,22 @@
   {
    "name": "Johnny Pemberton",
    "priority": 30
-  }
- ],
- "run": [
+  },
   {
-   "name": "Duncan Trussell",
-   "priority": 55,
-   "next": {
-    "id": "duncan-trussell-bell-house-2026-11-18",
-    "date": "2026-11-18",
-    "venue": "The Bell House",
-    "days": 39,
-    "featured": false,
-    "poster": true,
-    "demand": null
-   },
-   "cheap_signals": [
-    "Wikipedia: 1326 views a day",
-    "Wikipedia views up 206% over the prior month",
-    "Reddit: 1 post in 30 days, 542 upvotes (top: r/JoeRogan)"
-   ],
-   "reason": "filled to the minimum of 5"
+   "name": "Michelle Buteau",
+   "priority": 30
   }
  ],
+ "run": [],
  "reuse": [
   {
-   "name": "Maria Bamford",
-   "priority": 95,
+   "name": "Kendall Farrell",
+   "priority": 55,
    "cached": {
-    "at": "2026-10-04T11:09:49.000Z",
-    "age_days": 6,
+    "at": "2026-10-09T11:15:36.377Z",
+    "age_days": 2,
     "fresh": true,
-    "note": "Reddit's main signal is the new Netflix documentary Paralyzed by Hope (premieres Oct 23) plus her body-of-work thread; nothing bell-house specific but her name is loud enough to keep the going-fast signal without needing more."
+    "note": "Reddit: 0 items (auth-failed 403), HN: 0 items. No online footprint at all in the last 30 days. Littlefield Oct 18 — pick on her LA-based and recent TV writing credits and the special-taping framing; the room is the signal, not buzz."
    }
   },
   {
@@ -80,7 +60,7 @@
    "priority": 35,
    "cached": {
     "at": "2026-10-09T11:14:25.547Z",
-    "age_days": 1,
+    "age_days": 2,
     "fresh": true,
     "note": "Reddit: 1 thread in r/asianamerican (15 upvotes); HN: 2 stories (6 points). Almost no recent chatter, and the few hits are about the Iranian-American / DMV voice work, not Gotham. Gotham Oct 13 — treat as low-signal; pick on his specials (a Netflix hour and a follow-up) rather than buzz."
    }
@@ -90,7 +70,7 @@
    "priority": 30,
    "cached": {
     "at": "2026-10-09T11:08:36.394Z",
-    "age_days": 1,
+    "age_days": 2,
     "fresh": true,
     "note": "Reddit: 4 threads in 30 days, the main one is a Comedy Bang Bang sighting in the 2018 Bruce Willis roast; HN silent. Bell House Oct 17 - treat as low-buzz, decide on the room and the headline."
    }
@@ -100,9 +80,19 @@
    "priority": 30,
    "cached": {
     "at": "2026-10-09T11:10:08.731Z",
-    "age_days": 1,
+    "age_days": 2,
     "fresh": true,
     "note": "Reddit: 5 threads in 30 days, mostly r/NeverNotFunny / r/duncantrussell (he's a Never Not Funny regular); HN silent. Bell House Oct 18 — pick on the room and the cult podcast audience, not on recent buzz."
+   }
+  },
+  {
+   "name": "Michelle Buteau",
+   "priority": 30,
+   "cached": {
+    "at": "2026-10-09T11:11:39.031Z",
+    "age_days": 2,
+    "fresh": true,
+    "note": "Reddit: 2 threads (r/FemaleStandupComedy) with 7 upvotes — almost no recent buzz. HN silent. Bell House Oct 19 — pick on her Netflix/Survival of the Thickest profile and the room; not on current chatter."
    }
   }
  ],
@@ -110,32 +100,27 @@
   {
    "name": "Salma Hindy",
    "priority": 45,
-   "reason": "next show in 25 days, outside the 10-day window"
+   "reason": "next show in 24 days, outside the 10-day window"
   },
   {
    "name": "Marc Maron",
    "priority": 45,
-   "reason": "next show in 29 days, outside the 10-day window"
+   "reason": "next show in 28 days, outside the 10-day window"
   },
   {
    "name": "Joanne McNally",
    "priority": 35,
-   "reason": "next show in 28 days, outside the 10-day window"
+   "reason": "next show in 27 days, outside the 10-day window"
   },
   {
    "name": "Jaboukie Young-White",
    "priority": 35,
-   "reason": "next show in 38 days, outside the 10-day window"
+   "reason": "next show in 37 days, outside the 10-day window"
   },
   {
    "name": "Sam Tallent",
    "priority": 31,
-   "reason": "next show in 26 days, outside the 10-day window"
-  },
-  {
-   "name": "Michelle Buteau",
-   "priority": 30,
-   "reason": "outside the top 10 by cheap ranking"
+   "reason": "next show in 25 days, outside the 10-day window"
   },
   {
    "name": "Kathy Griffin",
@@ -153,37 +138,17 @@
    "reason": "outside the top 10 by cheap ranking"
   },
   {
-   "name": "Kendall Farrell",
-   "priority": 20,
-   "reason": "outside the top 10 by cheap ranking"
-  },
-  {
-   "name": "Get Work",
-   "priority": 20,
-   "reason": "outside the top 10 by cheap ranking"
-  },
-  {
-   "name": "Modern Whitney",
-   "priority": 20,
-   "reason": "outside the top 10 by cheap ranking"
-  },
-  {
-   "name": "Mohanad Elshieky",
-   "priority": 20,
-   "reason": "outside the top 10 by cheap ranking"
-  },
-  {
-   "name": "Nerd Nite",
-   "priority": 20,
-   "reason": "outside the top 10 by cheap ranking"
-  },
-  {
    "name": "Dark Tank",
    "priority": 20,
    "reason": "outside the top 10 by cheap ranking"
   },
   {
    "name": "Abolish Everything",
+   "priority": 20,
+   "reason": "outside the top 10 by cheap ranking"
+  },
+  {
+   "name": "Peer Revue",
    "priority": 20,
    "reason": "outside the top 10 by cheap ranking"
   },
@@ -238,11 +203,6 @@
    "reason": "outside the top 10 by cheap ranking"
   },
   {
-   "name": "Jordan Jensen",
-   "priority": 5,
-   "reason": "outside the top 10 by cheap ranking"
-  },
-  {
    "name": "Mojo Brookzz",
    "priority": 5,
    "reason": "outside the top 10 by cheap ranking"
@@ -253,7 +213,7 @@
    "reason": "outside the top 10 by cheap ranking"
   },
   {
-   "name": "Peer Revue",
+   "name": "Jake Velazquez",
    "priority": 5,
    "reason": "outside the top 10 by cheap ranking"
   },
@@ -293,12 +253,17 @@
    "reason": "outside the top 10 by cheap ranking"
   },
   {
+   "name": "Jordan Jensen",
+   "priority": 0,
+   "reason": "outside the top 10 by cheap ranking"
+  },
+  {
    "name": "Dropout Improv",
    "priority": 0,
    "reason": "outside the top 10 by cheap ranking"
   }
  ],
- "estimated_tokens_saved": 378000,
- "estimate_basis": "9000 tokens per last30days run, 42 runs avoided out of 43",
+ "estimated_tokens_saved": 342000,
+ "estimate_basis": "9000 tokens per last30days run, 38 runs avoided out of 38",
  "no_recent_data": []
 }
