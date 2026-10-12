@@ -1514,7 +1514,7 @@
   "archived": true
  },
  {
-  "src": "/assets/posters/abelardo-la-dulce-vida-nycc-2026-10-11.jpg",
+  "src": "/assets/posters/archive/abelardo-la-dulce-vida-nycc-2026-10-11.jpg",
   "original_image_url": "https://newyorkcomedyclub.com/img/imagetest/new-abelardo-fall-2026-jpg-761b0e98-new-abelardo-fall-2026-jpg.jpg",
   "credit": "New York Comedy Club",
   "reuse": "granted",
@@ -1528,7 +1528,8 @@
   "alt": "Jesús Abelardo: La Dulce Vida promotional artwork.",
   "kind": "dated event flyer",
   "retrieved_at": "2026-10-07",
-  "reuse_status": "Official promotional artwork; no separate reuse license identified. Local review draft only."
+  "reuse_status": "Official promotional artwork; no separate reuse license identified. Local review draft only.",
+  "archived": true
  },
  {
   "src": "/assets/posters/matthew-broussard-bell-house-2026-11-15.jpg",
