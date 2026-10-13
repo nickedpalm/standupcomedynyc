@@ -721,7 +721,7 @@
  },
  {
   "event_id": "bechdel-cast-2026-10-12",
-  "src": "/assets/posters/bechdel-cast-2026-10-12.jpg",
+  "src": "/assets/posters/archive/bechdel-cast-2026-10-12.jpg",
   "width": 640,
   "height": 427,
   "source_url": "https://www.ticketmaster.com/the-bechdel-cast-10-year-anniversary-brooklyn-new-york-10-12-2026/event/3000650C0357B525",
@@ -732,7 +732,8 @@
   "retrieved_at": "2026-09-15",
   "bytes": 43546,
   "sha256": "TBD",
-  "reuse_status": "Official promotional artwork from the show's Ticketmaster listing; no separate reuse license identified. Site display with credit only."
+  "reuse_status": "Official promotional artwork from the show's Ticketmaster listing; no separate reuse license identified. Site display with credit only.",
+  "archived": true
  },
  {
   "event_id": "josh-aaron-improv-2026-10-14",
@@ -1437,7 +1438,7 @@
  },
  {
   "event_id": "miss-mississippi-comedy-littlefield-2026-10-12",
-  "src": "/assets/posters/miss-mississippi-comedy-littlefield-2026-10-12.jpg",
+  "src": "/assets/posters/archive/miss-mississippi-comedy-littlefield-2026-10-12.jpg",
   "width": 1880,
   "height": 940,
   "source_url": "https://www.eventbrite.com/e/miss-mississippi-comedy-red-state-comics-for-reproductive-justice-tickets-2000329539500",
@@ -1448,7 +1449,8 @@
   "retrieved_at": "2026-10-03",
   "bytes": 123974,
   "sha256": "9aa153248b5a505f1e3baff1b9b7120b42cc06f6354b69fa7a39c503f1ac111c",
-  "reuse_status": "Official promotional artwork from the show's Eventbrite listing (Littlefield organizer); no separate reuse license identified. Site display with credit only."
+  "reuse_status": "Official promotional artwork from the show's Eventbrite listing (Littlefield organizer); no separate reuse license identified. Site display with credit only.",
+  "archived": true
  },
  {
   "event_id": "health-mostly-mental-littlefield-2026-10-14",
