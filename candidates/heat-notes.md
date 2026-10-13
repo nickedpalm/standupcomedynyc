@@ -276,3 +276,20 @@ Generated from `npm run heat` + `npm run research-plan` (last30days for the 2 na
 
 ### Ranked on schedule alone (no recent data, ranked by show date)
 - All 33 skipped performers are outside the top 10 by cheap ranking or outside the 10-day window. Salma Hindy (24d), Marc Maron (28d), Joanne McNally (27d), Jaboukie Young-White (37d), Sam Tallent (25d) — all outside the decision window; the cached notes above carry the calls.
+
+## 2026-10-13
+
+`npm run research-plan` today: **41 performers ranked** from static data; **0 run**; **5 reuse** (Kendall Farrell 4d, Kathy Griffin 4d, Martin Amini 4d, Johnny Pemberton 4d, Michelle Buteau 4d — all cached from Oct 9); **36 skipped** (most outside the 10-day window or outside the top 10 by cheap ranking). **~369,000 tokens saved** by the plan (36 skipped runs × ~9,000 tokens ≈ ~324k; the rest from the 5 cached reuses).
+
+### Run notes (last30days today)
+- None — no performer in the 10-day window needs a fresh cached result. The 4 W6 picks added today (John Oliver / Seth Meyers at Beacon Nov 22, Christian Finnegan at NYCC Nov 22, Jessica Kirson at NYCC Nov 17, Opey Olagbaju at Union Hall Nov 20) are all outside the 10-day window or sit below the cheap-rank threshold, so the plan skipped them and the picks stand on the show-page description alone.
+
+### Reuse notes (already cached under 7d)
+- **Kendall Farrell** (cached 4d ago, Oct 9): No online footprint in 30d; pick on her LA-based TV writing credits and the special-taping framing.
+- **Kathy Griffin** (cached 4d ago, Oct 9): Reddit 10 threads / 1.7k upvotes in 30d, mostly r/Fauxmoi chatter about her Town Hall return after the Trump photo scandal; HN silent. Town Hall Oct 16 — strong buzz on the return-to-NYC narrative.
+- **Martin Amini** (cached 4d ago, Oct 9): Reddit 1 thread in r/asianamerican (15 upvotes); HN 2 stories (6 points). Almost no recent chatter, and the few hits are about the Iranian-American / DMV voice work, not Gotham. Low-signal.
+- **Johnny Pemberton** (cached 4d ago, Oct 9): Reddit 5 threads in 30d, mostly r/NeverNotFunny / r/duncantrussell (NNF regular); HN silent. Bell House Oct 18 — pick on the room and the cult podcast audience, not recent buzz.
+- **Michelle Buteau** (cached 4d ago, Oct 9): Reddit 2 threads (r/FemaleStandupComedy), 7 upvotes — almost no recent buzz; HN silent. Bell House Oct 19 — pick on her Netflix/Survival of the Thickest profile and the room.
+
+### Ranked on schedule alone (no recent data, ranked by show date)
+- All 36 skipped performers are outside the top 10 by cheap ranking or outside the 10-day window. The closest new pick name to a decision is Jessica Kirson (NYCC Nov 17, 4 days out), but her cheap rank is below the top-10 threshold and her cached note from earlier sessions (FYI stand-up community pick, podcast credits) hasn't aged out. The new W6 headliners (Oliver/Meyers Beacon, Finnegan NYCC, Opey Union Hall) are all 35+ days out and skipped by the 10-day window rule; the picks stand on the show pages alone.
