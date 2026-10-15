@@ -1,166 +1,5 @@
 [
  {
-  "id": "the-next-elton-and-friends-wscc-2026-10-14",
-  "title": "The Next Elton and Friends",
-  "date": "2026-10-14",
-  "starts_at": "2026-10-14T19:00:00-04:00",
-  "ends_at": "2026-10-14T21:00:00-04:00",
-  "end_time_confirmed": false,
-  "time_label": "7pm",
-  "venue": "West Side Comedy Club",
-  "neighborhood": "Upper West Side",
-  "price_amount": null,
-  "price_label": "See ticket page for price",
-  "ticket_url": "https://www.westsidecomedyclub.com/calendar",
-  "source_url": "https://www.westsidecomedyclub.com/calendar",
-  "verified_at": "2026-10-08",
-  "description": "The Next Elton returns to West Side Comedy Club — a sketch-heavy Wednesday show with a rotating cast of friends and a house band.",
-  "tier": "special",
-  "featured": false,
-  "demand": null,
-  "demand_checked": "2026-10-14"
- },
- {
-  "id": "josh-aaron-improv-2026-10-14",
-  "title": "Josh & Aaron Do Improv (Feat. Hayden Johnson)",
-  "date": "2026-10-14",
-  "starts_at": "2026-10-14T19:30:00-04:00",
-  "ends_at": "2026-10-14T21:00:00-04:00",
-  "end_time_confirmed": false,
-  "time_label": "7:30pm",
-  "venue": "The Bell House",
-  "neighborhood": "Gowanus",
-  "price_amount": null,
-  "price_label": "See ticket page for price",
-  "ticket_url": "https://www.ticketmaster.com/josh-aaron-do-improv-feat-hayden-brooklyn-new-york-10-14-2026/event/30006518E7CD7F22",
-  "source_url": "https://www.thebellhouseny.com/",
-  "verified_at": "2026-10-08",
-  "description": "Josh & Aaron return to the Bell House with a night of long-form improv — Hayden Johnson (Letterkenny) sits in for this set.",
-  "tier": "special",
-  "featured": false,
-  "poster": {
-   "src": "/assets/posters/josh-aaron-improv-2026-10-14.jpg",
-   "width": 640,
-   "height": 427,
-   "source_url": "https://www.ticketmaster.com/josh-aaron-do-improv-feat-hayden-brooklyn-new-york-10-14-2026/event/30006518E7CD7F22",
-   "credit": "Artwork: The Bell House / show organizer",
-   "alt": "Josh & Aaron Do Improv promotional artwork.",
-   "kind": "dated event flyer"
-  },
-  "demand": null,
-  "demand_checked": "2026-10-14"
- },
- {
-  "id": "laughs-in-the-east-eastville-2026-10-14",
-  "title": "Laughs In The East",
-  "date": "2026-10-14",
-  "starts_at": "2026-10-14T20:00:00-04:00",
-  "ends_at": "2026-10-14T22:00:00-04:00",
-  "end_time_confirmed": false,
-  "time_label": "8pm",
-  "venue": "Eastville Comedy Club",
-  "neighborhood": "Boerum Hill",
-  "price_amount": null,
-  "price_label": "See ticket page for price",
-  "ticket_url": "https://www.eastvillecomedy.com/events/laughs-in-the-east-28",
-  "source_url": "https://www.eastvillecomedy.com/calendar/2026-10",
-  "verified_at": "2026-10-08",
-  "description": "Eastville's weekly Wednesday stand-up showcase — Brooklyn's oldest comedy club with a fresh lineup every week.",
-  "tier": "special",
-  "featured": false,
-  "demand": null,
-  "demand_checked": "2026-10-14"
- },
- {
-  "id": "dead-comedian-contest-comic-strip-2026-10-14",
-  "title": "Dead Comedian Contest! Who will bring them back to life?",
-  "date": "2026-10-14",
-  "starts_at": "2026-10-14T20:00:00-04:00",
-  "ends_at": "2026-10-14T22:00:00-04:00",
-  "end_time_confirmed": false,
-  "time_label": "8pm",
-  "venue": "Comic Strip Live",
-  "neighborhood": "Upper East Side",
-  "price_amount": 25.71,
-  "price_label": "From $25.71 (per current Eventbrite listing)",
-  "ticket_url": "https://www.eventbrite.com/e/dead-comedian-contest-who-will-bring-them-back-to-life-tickets-2001411031271",
-  "source_url": "https://comicstriplive.com/dead-comedian-contest-who-will-bring-them-back-to-life/",
-  "verified_at": "2026-10-08",
-  "description": "The Comic Strip's annual Dead Comedian Contest: working comics channel the late greats, and the room picks who brought them back best.",
-  "tier": "special",
-  "poster": {
-   "src": "/assets/posters/dead-comedian-contest-comic-strip-2026-10-14.jpg",
-   "width": 720,
-   "height": 440,
-   "source_url": "https://comicstriplive.com/dead-comedian-contest-who-will-bring-them-back-to-life/",
-   "credit": "Artwork: Comic Strip Live / show organizer",
-   "alt": "Dead Comedian Contest! promotional artwork.",
-   "kind": "dated event flyer"
-  },
-  "demand": null,
-  "demand_checked": "2026-10-14"
- },
- {
-  "id": "health-mostly-mental-littlefield-2026-10-14",
-  "title": "Health, Mostly Mental: Via Abolencia & Kendall Allison",
-  "date": "2026-10-14",
-  "starts_at": "2026-10-14T20:00:00-04:00",
-  "ends_at": "2026-10-14T21:30:00-04:00",
-  "end_time_confirmed": false,
-  "time_label": "8pm · doors 7pm",
-  "venue": "Littlefield",
-  "neighborhood": "Gowanus",
-  "price_amount": 11.79,
-  "price_label": "From $11.79",
-  "ticket_url": "https://www.eventbrite.com/e/health-mostly-mental-via-abolencia-kendall-allisons-half-hours-tickets-1998129962506",
-  "source_url": "https://www.eventbrite.com/e/health-mostly-mental-via-abolencia-kendall-allisons-half-hours-tickets-1998129962506",
-  "verified_at": "2026-10-04",
-  "description": "Two half-hour stand-up sets from Via Abolencia and Kendall Allison, both writing from the same place the bar tab comes from: inside the argument about health, money, gender, and the work of staying okay. The double-half-hour is the format — half an hour each, no guest sets, both working on new material, no guests between them.",
-  "featured": false,
-  "tier": "special",
-  "poster": {
-   "src": "/assets/posters/health-mostly-mental-littlefield-2026-10-14.jpg",
-   "width": 1880,
-   "height": 940,
-   "source_url": "https://www.eventbrite.com/e/health-mostly-mental-via-abolencia-kendall-allisons-half-hours-tickets-1998129962506",
-   "credit": "Artwork: Littlefield / show organizer",
-   "alt": "Health, Mostly Mental: Via Abolencia and Kendall Allison promotional artwork.",
-   "kind": "dated event flyer"
-  },
-  "demand": null,
-  "demand_checked": "2026-10-14"
- },
- {
-  "id": "leah-sampson-union-hall-2026-10-14",
-  "title": "Lea'h Sampson Back At Union Hall (One Night Only)",
-  "date": "2026-10-14",
-  "starts_at": "2026-10-14T22:00:00-04:00",
-  "ends_at": "2026-10-14T23:30:00-04:00",
-  "end_time_confirmed": false,
-  "time_label": "10pm · doors 9:30pm",
-  "venue": "Union Hall",
-  "neighborhood": "Park Slope",
-  "price_amount": 15.92,
-  "price_label": "From $15.92",
-  "ticket_url": "https://www.eventbrite.com/e/comedian-leah-sampson-back-at-union-hall-one-night-only-tickets-2002746051352",
-  "source_url": "https://www.eventbrite.com/e/comedian-leah-sampson-back-at-union-hall-one-night-only-tickets-2002746051352",
-  "verified_at": "2026-10-09",
-  "description": "Lea'h Sampson (Don't Tell Comedy, Netflix, Peacock, opened Bill Burr at Madison Square Garden) takes the Union Hall back room for one Wednesday-night showcase of new material and a few popular friends.",
-  "tier": "special",
-  "featured": false,
-  "poster": {
-   "src": "/assets/posters/leah-sampson-union-hall-2026-10-14.jpg",
-   "width": 1880,
-   "height": 940,
-   "source_url": "https://www.eventbrite.com/e/comedian-leah-sampson-back-at-union-hall-one-night-only-tickets-2002746051352",
-   "credit": "Artwork: Union Hall / Lea'h Sampson",
-   "alt": "Lea'h Sampson back at Union Hall — one night only, October 14.",
-   "kind": "dated event flyer"
-  },
-  "demand": null,
-  "demand_checked": "2026-10-14"
- },
- {
   "id": "francesca-mattlieb-2026-10-15",
   "title": "Francesca Fiorentini and Matt Lieb",
   "date": "2026-10-15",
@@ -188,7 +27,7 @@
    "kind": "dated event flyer"
   },
   "demand": null,
-  "demand_checked": "2026-10-14"
+  "demand_checked": "2026-10-15"
  },
  {
   "id": "stand-up-shenanigans-eastville-2026-10-15",
@@ -209,7 +48,7 @@
   "tier": "special",
   "featured": false,
   "demand": null,
-  "demand_checked": "2026-10-14"
+  "demand_checked": "2026-10-15"
  },
  {
   "id": "kathy-griffin-new-face-new-tour-town-hall-2026-10-16",
@@ -229,7 +68,7 @@
   "description": "Kathy Griffin returns to Town Hall with New Face, New Tour.",
   "tier": "special",
   "demand": null,
-  "demand_checked": "2026-10-14"
+  "demand_checked": "2026-10-15"
  },
  {
   "id": "blank-check-live-2026-10-16",
@@ -259,7 +98,7 @@
    "kind": "dated event flyer"
   },
   "demand": null,
-  "demand_checked": "2026-10-14"
+  "demand_checked": "2026-10-15"
  },
  {
   "id": "my-cousin-vlad-eastville-2026-10-17",
@@ -280,7 +119,7 @@
   "tier": "special",
   "featured": false,
   "demand": null,
-  "demand_checked": "2026-10-14"
+  "demand_checked": "2026-10-15"
  },
  {
   "id": "asif-ali-2026-10-17",
@@ -310,7 +149,7 @@
    "kind": "dated event flyer"
   },
   "demand": null,
-  "demand_checked": "2026-10-14"
+  "demand_checked": "2026-10-15"
  },
  {
   "id": "headlining-alex-giampapa-eastville-2026-10-17",
@@ -331,7 +170,7 @@
   "tier": "special",
   "featured": false,
   "demand": null,
-  "demand_checked": "2026-10-14"
+  "demand_checked": "2026-10-15"
  },
  {
   "id": "kendall-farrell-special-taping-littlefield-2026-10-18",
@@ -361,7 +200,7 @@
    "kind": "dated event flyer"
   },
   "demand": "going_fast",
-  "demand_checked": "2026-10-14"
+  "demand_checked": "2026-10-15"
  },
  {
   "id": "johnny-pemberton-2026-10-18",
@@ -391,7 +230,7 @@
    "kind": "dated event flyer"
   },
   "demand": null,
-  "demand_checked": "2026-10-14"
+  "demand_checked": "2026-10-15"
  },
  {
   "id": "michelle-buteau-2026-10-19",
@@ -421,7 +260,7 @@
    "kind": "dated event flyer"
   },
   "demand": null,
-  "demand_checked": "2026-10-14"
+  "demand_checked": "2026-10-15"
  },
  {
   "id": "david-cross-benefit-2026-10-20",
@@ -451,7 +290,7 @@
    "kind": "dated event flyer"
   },
   "demand": null,
-  "demand_checked": "2026-10-14"
+  "demand_checked": "2026-10-15"
  },
  {
   "id": "brett-goldstein-2026-10-21",
@@ -481,7 +320,7 @@
    "kind": "dated event flyer"
   },
   "demand": null,
-  "demand_checked": "2026-10-14"
+  "demand_checked": "2026-10-15"
  },
  {
   "id": "laughs-in-the-east-eastville-2026-10-21",
@@ -502,7 +341,7 @@
   "tier": "special",
   "featured": false,
   "demand": null,
-  "demand_checked": "2026-10-14"
+  "demand_checked": "2026-10-15"
  },
  {
   "id": "jaime-ferraro-wscc-2026-10-21",
@@ -523,7 +362,7 @@
   "tier": "special",
   "featured": false,
   "demand": null,
-  "demand_checked": "2026-10-14"
+  "demand_checked": "2026-10-15"
  },
  {
   "id": "laugh-charity-ms-wscc-2026-10-22",
@@ -544,7 +383,7 @@
   "tier": "special",
   "featured": false,
   "demand": null,
-  "demand_checked": "2026-10-14"
+  "demand_checked": "2026-10-15"
  },
  {
   "id": "stand-up-shenanigans-eastville-2026-10-22",
@@ -565,7 +404,7 @@
   "tier": "special",
   "featured": false,
   "demand": null,
-  "demand_checked": "2026-10-14"
+  "demand_checked": "2026-10-15"
  },
  {
   "id": "yang-mengen-youngmoon-renegade-town-hall-2026-10-22",
@@ -585,7 +424,7 @@
   "description": "Yang Mengen, performing as youngmoon, brings his new stand-up special Renegade to Town Hall.",
   "tier": "special",
   "demand": null,
-  "demand_checked": "2026-10-14"
+  "demand_checked": "2026-10-15"
  },
  {
   "id": "brooklyn-power-hour-eastville-2026-10-23",
@@ -606,7 +445,7 @@
   "tier": "special",
   "featured": false,
   "demand": null,
-  "demand_checked": "2026-10-14"
+  "demand_checked": "2026-10-15"
  },
  {
   "id": "sydnee-washington-2026-10-23",
@@ -636,7 +475,7 @@
    "kind": "dated event flyer"
   },
   "demand": null,
-  "demand_checked": "2026-10-14"
+  "demand_checked": "2026-10-15"
  },
  {
   "id": "saturday-night-live-comedy-eastville-2026-10-24",
@@ -657,7 +496,7 @@
   "tier": "special",
   "featured": false,
   "demand": null,
-  "demand_checked": "2026-10-14"
+  "demand_checked": "2026-10-15"
  },
  {
   "id": "robyn-and-friends-wscc-2026-10-25",
@@ -678,7 +517,7 @@
   "tier": "special",
   "featured": false,
   "demand": null,
-  "demand_checked": "2026-10-14"
+  "demand_checked": "2026-10-15"
  },
  {
   "id": "sunday-night-comedy-eastville-2026-10-25",
@@ -699,7 +538,7 @@
   "tier": "special",
   "featured": false,
   "demand": null,
-  "demand_checked": "2026-10-14"
+  "demand_checked": "2026-10-15"
  },
  {
   "id": "sarah-silverman-streicker-2026-10-26",
@@ -729,7 +568,7 @@
    "kind": "dated event flyer"
   },
   "demand": null,
-  "demand_checked": "2026-10-14"
+  "demand_checked": "2026-10-15"
  },
  {
   "id": "mark-simmons-jest-to-impress-soho-playhouse-2026-10-27",
@@ -750,7 +589,7 @@
   "featured": false,
   "tier": "special",
   "demand": null,
-  "demand_checked": "2026-10-14"
+  "demand_checked": "2026-10-15"
  },
  {
   "id": "ruby-setnik-bell-house-2026-10-27",
@@ -779,7 +618,7 @@
    "kind": "dated event flyer"
   },
   "demand": null,
-  "demand_checked": "2026-10-14"
+  "demand_checked": "2026-10-15"
  },
  {
   "id": "clean-up-your-act-wscc-2026-10-28",
@@ -809,7 +648,7 @@
    "kind": "dated event flyer"
   },
   "demand": null,
-  "demand_checked": "2026-10-14"
+  "demand_checked": "2026-10-15"
  },
  {
   "id": "boo-ha-ha-comedy-in-harlem-2026-10-29",
@@ -830,7 +669,7 @@
   "featured": false,
   "tier": "special",
   "demand": null,
-  "demand_checked": "2026-10-14"
+  "demand_checked": "2026-10-15"
  },
  {
   "id": "megan-botnick-wscc-2026-10-29",
@@ -851,7 +690,7 @@
   "featured": false,
   "tier": "special",
   "demand": null,
-  "demand_checked": "2026-10-14"
+  "demand_checked": "2026-10-15"
  },
  {
   "id": "chronically-offline-wscc-2026-10-29",
@@ -881,7 +720,7 @@
    "kind": "dated event flyer"
   },
   "demand": null,
-  "demand_checked": "2026-10-14"
+  "demand_checked": "2026-10-15"
  },
  {
   "id": "laughing-lassi-broadway-comedy-club-2026-10-30",
@@ -902,7 +741,7 @@
   "featured": false,
   "tier": "special",
   "demand": null,
-  "demand_checked": "2026-10-14"
+  "demand_checked": "2026-10-15"
  },
  {
   "id": "nasser-al-rayess-town-hall-2026-10-31",
@@ -931,7 +770,7 @@
    "kind": "dated event flyer"
   },
   "demand": null,
-  "demand_checked": "2026-10-14"
+  "demand_checked": "2026-10-15"
  },
  {
   "id": "scary-good-comedy-brittany-carney-littlefield-2026-10-31",
@@ -961,7 +800,7 @@
    "kind": "dated event flyer"
   },
   "demand": null,
-  "demand_checked": "2026-10-14"
+  "demand_checked": "2026-10-15"
  },
  {
   "id": "sunday-night-comedy-eastville-2026-11-01",
@@ -982,7 +821,7 @@
   "featured": false,
   "tier": "special",
   "demand": null,
-  "demand_checked": "2026-10-14"
+  "demand_checked": "2026-10-15"
  },
  {
   "id": "sam-oh-gay-virgin-bell-house-2026-11-02",
@@ -1012,7 +851,7 @@
    "kind": "dated event flyer"
   },
   "demand": null,
-  "demand_checked": "2026-10-14"
+  "demand_checked": "2026-10-15"
  },
  {
   "id": "difficult-people-the-movie-town-hall-2026-11-03",
@@ -1032,7 +871,7 @@
   "description": "Julie Klausner and Billy Eichner stage Difficult People: The Movie as a live table read at Town Hall.",
   "tier": "special",
   "demand": null,
-  "demand_checked": "2026-10-14"
+  "demand_checked": "2026-10-15"
  },
  {
   "id": "please-stay-seated-wscc-2026-11-04",
@@ -1062,7 +901,7 @@
    "kind": "dated event flyer"
   },
   "demand": null,
-  "demand_checked": "2026-10-14"
+  "demand_checked": "2026-10-15"
  },
  {
   "id": "salma-hindy-10-years-stand-2026-11-04",
@@ -1092,7 +931,7 @@
    "kind": "dated event flyer"
   },
   "demand": null,
-  "demand_checked": "2026-10-14"
+  "demand_checked": "2026-10-15"
  },
  {
   "id": "sam-tallent-bell-house-2026-11-05",
@@ -1113,7 +952,7 @@
   "featured": false,
   "tier": "special",
   "demand": null,
-  "demand_checked": "2026-10-14"
+  "demand_checked": "2026-10-15"
  },
  {
   "id": "nycf-ziwe-town-hall-2026-11-06",
@@ -1133,7 +972,7 @@
   "description": "Ziwe opens NYCF at Town Hall with a sharp, conversation-driving stand-up set.",
   "tier": "special",
   "demand": null,
-  "demand_checked": "2026-10-14"
+  "demand_checked": "2026-10-15"
  },
  {
   "id": "nycf-adam-ray-gramercy-2026-11-06",
@@ -1153,7 +992,7 @@
   "description": "Adam Ray opens NYCF at Gramercy Theatre with a night of character work and stand-up.",
   "tier": "special",
   "demand": null,
-  "demand_checked": "2026-10-14"
+  "demand_checked": "2026-10-15"
  },
  {
   "id": "nycf-gayme-show-bmcc-2026-11-06",
@@ -1173,7 +1012,7 @@
   "description": "Matt Rogers and Dave Mizzoni bring their long-running Gayme Show to BMCC Tribeca PAC for NYCF.",
   "tier": "special",
   "demand": null,
-  "demand_checked": "2026-10-14"
+  "demand_checked": "2026-10-15"
  },
  {
   "id": "nycf-ms-pat-hard-rock-2026-11-06",
@@ -1193,7 +1032,7 @@
   "description": "Ms. Pat headlines the Hard Rock Hotel New York for the New York Comedy Festival opening weekend.",
   "tier": "special",
   "demand": null,
-  "demand_checked": "2026-10-14"
+  "demand_checked": "2026-10-15"
  },
  {
   "id": "nycf-joanne-mcnally-town-hall-2026-11-07",
@@ -1213,7 +1052,7 @@
   "description": "Joanne McNally brings Pinotphile, her sold-out hour about wine, weddings, and the chaos of being alive, to Town Hall.",
   "tier": "special",
   "demand": null,
-  "demand_checked": "2026-10-14"
+  "demand_checked": "2026-10-15"
  },
  {
   "id": "nycf-josh-sharp-bell-house-2026-11-08",
@@ -1233,7 +1072,7 @@
   "description": "Josh Sharp brings An Hour of Crowd Work in the Round to the Bell House for a NYCF matinee.",
   "tier": "special",
   "demand": null,
-  "demand_checked": "2026-10-14"
+  "demand_checked": "2026-10-15"
  },
  {
   "id": "nycf-sarah-sherman-patti-harrison-town-hall-2026-11-08",
@@ -1253,7 +1092,7 @@
   "description": "Sarah Sherman and Patti Harrison share a Town Hall night as part of the New York Comedy Festival.",
   "tier": "special",
   "demand": null,
-  "demand_checked": "2026-10-14"
+  "demand_checked": "2026-10-15"
  },
  {
   "id": "nycf-marc-maron-beacon-2026-11-08",
@@ -1273,7 +1112,7 @@
   "description": "Marc Maron brings Yammering Into the Void to the Beacon as part of the New York Comedy Festival.",
   "tier": "special",
   "demand": null,
-  "demand_checked": "2026-10-14"
+  "demand_checked": "2026-10-15"
  },
  {
   "id": "nycf-rainbow-riot-bcc-2026-11-08",
@@ -1293,7 +1132,7 @@
   "description": "Rainbow Riot, the LGBTQ stand-up showcase hosted by Terrence Lambert, lands at Brooklyn Comedy Collective for NYCF.",
   "tier": "special",
   "demand": null,
-  "demand_checked": "2026-10-14"
+  "demand_checked": "2026-10-15"
  },
  {
   "id": "nycf-stand-up-for-heroes-geffen-2026-11-09",
@@ -1313,7 +1152,7 @@
   "description": "NYCF s marquee benefit for the Bob Woodruff Foundation, with Jon Stewart, Bruce Springsteen, Hasan Minhaj and others at David Geffen Hall.",
   "tier": "special",
   "demand": null,
-  "demand_checked": "2026-10-14"
+  "demand_checked": "2026-10-15"
  },
  {
   "id": "nycf-eddie-pepitone-union-hall-2026-11-10",
@@ -1333,7 +1172,7 @@
   "description": "Eddie Pepitone headlines the first of two late-night Union Hall shows for NYCF.",
   "tier": "special",
   "demand": null,
-  "demand_checked": "2026-10-14"
+  "demand_checked": "2026-10-15"
  },
  {
   "id": "nycf-jordan-jensen-beacon-2026-11-12",
@@ -1353,7 +1192,7 @@
   "description": "Jordan Jensen headlines the Beacon as part of the New York Comedy Festival.",
   "tier": "special",
   "demand": null,
-  "demand_checked": "2026-10-14"
+  "demand_checked": "2026-10-15"
  },
  {
   "id": "nycf-ilana-glazer-beacon-2026-11-13",
@@ -1373,7 +1212,7 @@
   "description": "Ilana Glazer headlines the Beacon as part of the New York Comedy Festival.",
   "tier": "special",
   "demand": null,
-  "demand_checked": "2026-10-14"
+  "demand_checked": "2026-10-15"
  },
  {
   "id": "nycf-jess-hilarious-hard-rock-2026-11-13",
@@ -1393,7 +1232,7 @@
   "description": "Jess Hilarious brings the Don t Play Wit Me Tour to Hard Rock Hotel New York as part of NYCF.",
   "tier": "special",
   "demand": null,
-  "demand_checked": "2026-10-14"
+  "demand_checked": "2026-10-15"
  },
  {
   "id": "nycf-dropout-improv-kings-2026-11-13",
@@ -1413,7 +1252,7 @@
   "description": "Dropout Improv brings the Dropout TV cast and friends to Kings Theatre for one of NYCF s marquee shows.",
   "tier": "special",
   "demand": null,
-  "demand_checked": "2026-10-14"
+  "demand_checked": "2026-10-15"
  },
  {
   "id": "nycf-moth-comic-relief-town-hall-2026-11-14",
@@ -1433,7 +1272,7 @@
   "description": "The Moth and Comic Relief team up for an afternoon of true stories told live on the Town Hall stage.",
   "tier": "special",
   "demand": null,
-  "demand_checked": "2026-10-14"
+  "demand_checked": "2026-10-15"
  },
  {
   "id": "nycf-daniel-sloss-beacon-2026-11-14",
@@ -1453,7 +1292,7 @@
   "description": "Daniel Sloss brings his new hour Bitter to the Beacon as part of the New York Comedy Festival.",
   "tier": "special",
   "demand": null,
-  "demand_checked": "2026-10-14"
+  "demand_checked": "2026-10-15"
  },
  {
   "id": "nycf-jordan-klepper-town-hall-2026-11-14",
@@ -1473,7 +1312,7 @@
   "description": "Jordan Klepper hosts a NYCF edition of his SH&T Show with comics from the festival at Town Hall.",
   "tier": "special",
   "demand": null,
-  "demand_checked": "2026-10-14"
+  "demand_checked": "2026-10-15"
  },
  {
   "id": "jake-velazquez-special-nycc-2026-11-15",
@@ -1503,7 +1342,7 @@
    "kind": "dated event flyer"
   },
   "demand": null,
-  "demand_checked": "2026-10-14",
+  "demand_checked": "2026-10-15",
   "verification_note": null
  },
  {
@@ -1524,7 +1363,7 @@
   "description": "Mojo Brookzz headlines the Beacon as part of the New York Comedy Festival.",
   "tier": "special",
   "demand": null,
-  "demand_checked": "2026-10-14"
+  "demand_checked": "2026-10-15"
  },
  {
   "id": "matthew-broussard-bell-house-2026-11-15",
@@ -1554,7 +1393,7 @@
    "kind": "dated event flyer"
   },
   "demand": null,
-  "demand_checked": "2026-10-14"
+  "demand_checked": "2026-10-15"
  },
  {
   "id": "brooklyn-power-hour-eastville-2026-11-16",
@@ -1575,7 +1414,7 @@
   "tier": "special",
   "featured": false,
   "demand": null,
-  "demand_checked": "2026-10-14",
+  "demand_checked": "2026-10-15",
   "verification_note": null
  },
  {
@@ -1596,7 +1435,7 @@
   "description": "Jessica Kirson in the early Tuesday set at NYCC Midtown — the This Week at the Comedy Cellar regular and Robert De Niro's 'The Comedian' consultant, working her character-led bits in front of the 7pm crowd. Premium seating has sold out, but general admission is still on the page; a 9:30pm second show runs the same night.",
   "tier": "special",
   "demand": null,
-  "demand_checked": "2026-10-14",
+  "demand_checked": "2026-10-15",
   "poster": {
    "src": "/assets/posters/jessica-kirson-nycc-2026-11-17.jpg",
    "width": 990,
@@ -1626,7 +1465,7 @@
   "featured": false,
   "tier": "special",
   "demand": null,
-  "demand_checked": "2026-10-14"
+  "demand_checked": "2026-10-15"
  },
  {
   "id": "stone-and-stone-on-the-road-wscc-2026-11-19",
@@ -1656,7 +1495,7 @@
    "kind": "dated event flyer"
   },
   "demand": null,
-  "demand_checked": "2026-10-14",
+  "demand_checked": "2026-10-15",
   "verification_note": null
  },
  {
@@ -1687,7 +1526,7 @@
    "kind": "dated event flyer"
   },
   "demand": null,
-  "demand_checked": "2026-10-14"
+  "demand_checked": "2026-10-15"
  },
  {
   "id": "opey-olagbaju-union-hall-2026-11-20",
@@ -1707,7 +1546,7 @@
   "description": "Opey Olagbaju headlining Union Hall on a Friday — Vulture's 2023 'Comics You Should and Will Know,' a Netflix Is a Joke and Just for Laughs festival regular, and a CBS After Midnight contributor whose writer's-room résumé (Bob Hearts Abishola, Betty, Close Enough, This Fool) is the part of his bio readers usually skip to.",
   "tier": "special",
   "demand": null,
-  "demand_checked": "2026-10-14",
+  "demand_checked": "2026-10-15",
   "poster": {
    "src": "/assets/posters/opey-olagbaju-union-hall-2026-11-20.jpg",
    "width": 768,
@@ -1736,7 +1575,7 @@
   "featured": false,
   "tier": "special",
   "demand": null,
-  "demand_checked": "2026-10-14"
+  "demand_checked": "2026-10-15"
  },
  {
   "id": "christian-finnegan-nycc-2026-11-22",
@@ -1756,7 +1595,7 @@
   "description": "Finnegan tapes his fourth hour in the NYCC Midtown room, the Sunday-afternoon special-taping slot: a fully-formed new hour (Are dogs better than spouses? Should you be concerned if your surgeon has tattoos?) before a live audience, with a second 7pm taping to follow the same night.",
   "tier": "special",
   "demand": null,
-  "demand_checked": "2026-10-14",
+  "demand_checked": "2026-10-15",
   "poster": {
    "src": "/assets/posters/christian-finnegan-nycc-2026-11-22.png",
    "width": 660,
@@ -1785,7 +1624,7 @@
   "description": "Last Week Tonight's John Oliver and Late Night's Seth Meyers continue their fall residency at the Beacon, a Sunday-night double-bill that has become one of the Broadway room's marquee comedy slots. Their joint page on iamjohnoliver.com lists this as the second of three November/December dates.",
   "tier": "special",
   "demand": null,
-  "demand_checked": "2026-10-14",
+  "demand_checked": "2026-10-15",
   "poster": {
    "src": "/assets/posters/john-oliver-seth-meyers-beacon-2026-11-22.jpg",
    "width": 1024,

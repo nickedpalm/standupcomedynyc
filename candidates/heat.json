@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-14T09:29:20.199Z",
+ "generated_at": "2026-10-15T09:29:43.445Z",
  "note": "Demand signals for the editor. Only availability and second shows set the public demand tag.",
  "picks": [
   {
@@ -31,14 +31,14 @@
    "performer": "Joanne McNally",
    "wikipedia": {
     "title": "Joanne McNally",
-    "views_30d": 143968,
-    "views_prior_30d": 37621,
-    "change": 283
+    "views_30d": 145101,
+    "views_prior_30d": 37664,
+    "change": 285
    },
    "reddit": null,
    "reasons": [
-    "Wikipedia: 4799 views a day",
-    "Wikipedia views up 283% over the prior month"
+    "Wikipedia: 4837 views a day",
+    "Wikipedia views up 285% over the prior month"
    ]
   },
   {
@@ -53,14 +53,14 @@
    "performer": "Jaboukie Young-White",
    "wikipedia": {
     "title": "Jaboukie Young-White",
-    "views_30d": 70813,
-    "views_prior_30d": 16868,
-    "change": 320
+    "views_30d": 70896,
+    "views_prior_30d": 17000,
+    "change": 317
    },
    "reddit": null,
    "reasons": [
-    "Wikipedia: 2360 views a day",
-    "Wikipedia views up 320% over the prior month"
+    "Wikipedia: 2363 views a day",
+    "Wikipedia views up 317% over the prior month"
    ]
   },
   {
@@ -75,14 +75,14 @@
    "performer": "Sam Tallent",
    "wikipedia": {
     "title": "Sam Tallent",
-    "views_30d": 12512,
-    "views_prior_30d": 2698,
-    "change": 364
+    "views_30d": 12906,
+    "views_prior_30d": 2738,
+    "change": 371
    },
    "reddit": null,
    "reasons": [
-    "Wikipedia: 417 views a day",
-    "Wikipedia views up 364% over the prior month"
+    "Wikipedia: 430 views a day",
+    "Wikipedia views up 371% over the prior month"
    ]
   },
   {
@@ -97,9 +97,9 @@
    "performer": "Marc Maron",
    "wikipedia": {
     "title": "Marc Maron",
-    "views_30d": 35442,
-    "views_prior_30d": 31717,
-    "change": 12
+    "views_30d": 35425,
+    "views_prior_30d": 32054,
+    "change": 11
    },
    "reddit": null,
    "reasons": [
@@ -118,13 +118,13 @@
    "performer": "Ilana Glazer",
    "wikipedia": {
     "title": "Ilana Glazer",
-    "views_30d": 38702,
-    "views_prior_30d": 29662,
-    "change": 30
+    "views_30d": 39073,
+    "views_prior_30d": 29387,
+    "change": 33
    },
    "reddit": null,
    "reasons": [
-    "Wikipedia: 1290 views a day"
+    "Wikipedia: 1302 views a day"
    ]
   },
   {
@@ -139,13 +139,13 @@
    "performer": "Salma Hindy",
    "wikipedia": {
     "title": "Salma Hindy",
-    "views_30d": 3396,
-    "views_prior_30d": 1283,
-    "change": 165
+    "views_30d": 3377,
+    "views_prior_30d": 1263,
+    "change": 167
    },
    "reddit": null,
    "reasons": [
-    "Wikipedia views up 165% over the prior month"
+    "Wikipedia views up 167% over the prior month"
    ]
   },
   {
@@ -160,13 +160,13 @@
    "performer": "Kathy Griffin",
    "wikipedia": {
     "title": "Kathy Griffin",
-    "views_30d": 27374,
-    "views_prior_30d": 28799,
+    "views_30d": 27462,
+    "views_prior_30d": 28924,
     "change": -5
    },
    "reddit": null,
    "reasons": [
-    "Wikipedia: 912 views a day"
+    "Wikipedia: 915 views a day"
    ]
   },
   {
@@ -181,13 +181,13 @@
    "performer": "Johnny Pemberton",
    "wikipedia": {
     "title": "Johnny Pemberton",
-    "views_30d": 19261,
-    "views_prior_30d": 21987,
-    "change": -12
+    "views_30d": 18985,
+    "views_prior_30d": 22238,
+    "change": -15
    },
    "reddit": null,
    "reasons": [
-    "Wikipedia: 642 views a day"
+    "Wikipedia: 633 views a day"
    ]
   },
   {
@@ -202,13 +202,13 @@
    "performer": "Michelle Buteau",
    "wikipedia": {
     "title": "Michelle Buteau",
-    "views_30d": 23449,
-    "views_prior_30d": 42130,
+    "views_30d": 23306,
+    "views_prior_30d": 41514,
     "change": -44
    },
    "reddit": null,
    "reasons": [
-    "Wikipedia: 782 views a day"
+    "Wikipedia: 777 views a day"
    ]
   },
   {
@@ -223,9 +223,9 @@
    "performer": "Adam Ray",
    "wikipedia": {
     "title": "Adam Ray",
-    "views_30d": 11478,
-    "views_prior_30d": 18672,
-    "change": -39
+    "views_30d": 11497,
+    "views_prior_30d": 18176,
+    "change": -37
    },
    "reddit": null,
    "reasons": [
@@ -244,13 +244,13 @@
    "performer": "Jess Hilarious",
    "wikipedia": {
     "title": "Jess Hilarious",
-    "views_30d": 8705,
-    "views_prior_30d": 9080,
-    "change": -4
+    "views_30d": 8717,
+    "views_prior_30d": 9007,
+    "change": -3
    },
    "reddit": null,
    "reasons": [
-    "Wikipedia: 290 views a day"
+    "Wikipedia: 291 views a day"
    ]
   },
   {
@@ -265,13 +265,13 @@
    "performer": "Daniel Sloss",
    "wikipedia": {
     "title": "Daniel Sloss",
-    "views_30d": 18828,
-    "views_prior_30d": 18928,
-    "change": -1
+    "views_30d": 18941,
+    "views_prior_30d": 18666,
+    "change": 1
    },
    "reddit": null,
    "reasons": [
-    "Wikipedia: 628 views a day"
+    "Wikipedia: 631 views a day"
    ]
   },
   {
@@ -286,101 +286,13 @@
    "performer": "Jessica Kirson",
    "wikipedia": {
     "title": "Jessica Kirson",
-    "views_30d": 12954,
-    "views_prior_30d": 12536,
-    "change": 3
+    "views_30d": 13049,
+    "views_prior_30d": 12486,
+    "change": 5
    },
    "reddit": null,
    "reasons": [
-    "Wikipedia: 432 views a day"
-   ]
-  },
-  {
-   "id": "the-next-elton-and-friends-wscc-2026-10-14",
-   "title": "The Next Elton and Friends",
-   "venue": "West Side Comedy Club",
-   "date": "2026-10-14",
-   "heat": 0,
-   "demand": null,
-   "availability": null,
-   "second_show": false,
-   "performer": null,
-   "wikipedia": null,
-   "reddit": null,
-   "reasons": []
-  },
-  {
-   "id": "josh-aaron-improv-2026-10-14",
-   "title": "Josh & Aaron Do Improv (Feat. Hayden Johnson)",
-   "venue": "The Bell House",
-   "date": "2026-10-14",
-   "heat": 0,
-   "demand": null,
-   "availability": null,
-   "second_show": false,
-   "performer": null,
-   "wikipedia": null,
-   "reddit": null,
-   "reasons": []
-  },
-  {
-   "id": "laughs-in-the-east-eastville-2026-10-14",
-   "title": "Laughs In The East",
-   "venue": "Eastville Comedy Club",
-   "date": "2026-10-14",
-   "heat": 0,
-   "demand": null,
-   "availability": null,
-   "second_show": false,
-   "performer": null,
-   "wikipedia": null,
-   "reddit": null,
-   "reasons": []
-  },
-  {
-   "id": "dead-comedian-contest-comic-strip-2026-10-14",
-   "title": "Dead Comedian Contest! Who will bring them back to life?",
-   "venue": "Comic Strip Live",
-   "date": "2026-10-14",
-   "heat": 0,
-   "demand": null,
-   "availability": null,
-   "second_show": false,
-   "performer": null,
-   "wikipedia": null,
-   "reddit": null,
-   "reasons": []
-  },
-  {
-   "id": "health-mostly-mental-littlefield-2026-10-14",
-   "title": "Health, Mostly Mental: Via Abolencia & Kendall Allison",
-   "venue": "Littlefield",
-   "date": "2026-10-14",
-   "heat": 0,
-   "demand": null,
-   "availability": "InStock",
-   "second_show": false,
-   "performer": null,
-   "wikipedia": null,
-   "reddit": null,
-   "reasons": [
-    "tickets available"
-   ]
-  },
-  {
-   "id": "leah-sampson-union-hall-2026-10-14",
-   "title": "Lea'h Sampson Back At Union Hall (One Night Only)",
-   "venue": "Union Hall",
-   "date": "2026-10-14",
-   "heat": 0,
-   "demand": null,
-   "availability": "InStock",
-   "second_show": false,
-   "performer": null,
-   "wikipedia": null,
-   "reddit": null,
-   "reasons": [
-    "tickets available"
+    "Wikipedia: 435 views a day"
    ]
   },
   {
@@ -451,8 +363,8 @@
    "performer": "Asif Ali",
    "wikipedia": {
     "title": "Asif Ali (comedian)",
-    "views_30d": 5808,
-    "views_prior_30d": 8300,
+    "views_30d": 5800,
+    "views_prior_30d": 8266,
     "change": -30
    },
    "reddit": null,
@@ -596,9 +508,9 @@
    "performer": "Sydnee Washington",
    "wikipedia": {
     "title": "Sydnee Washington",
-    "views_30d": 1289,
-    "views_prior_30d": 1869,
-    "change": -31
+    "views_30d": 1286,
+    "views_prior_30d": 1844,
+    "change": -30
    },
    "reddit": null,
    "reasons": []
@@ -671,9 +583,9 @@
    "performer": "Mark Simmons",
    "wikipedia": {
     "title": "Mark Simmons (comedian)",
-    "views_30d": 1416,
-    "views_prior_30d": 1388,
-    "change": 2
+    "views_30d": 1422,
+    "views_prior_30d": 1414,
+    "change": 1
    },
    "reddit": null,
    "reasons": []
@@ -832,8 +744,8 @@
    "performer": "Difficult People",
    "wikipedia": {
     "title": "Difficult People",
-    "views_30d": 4902,
-    "views_prior_30d": 5556,
+    "views_30d": 4871,
+    "views_prior_30d": 5541,
     "change": -12
    },
    "reddit": null,
@@ -907,8 +819,8 @@
    "performer": "Josh Sharp",
    "wikipedia": {
     "title": "Josh Sharp",
-    "views_30d": 926,
-    "views_prior_30d": 1101,
+    "views_30d": 930,
+    "views_prior_30d": 1104,
     "change": -16
    },
    "reddit": null,
@@ -1152,9 +1064,9 @@
    "performer": "Christian Finnegan",
    "wikipedia": {
     "title": "Christian Finnegan",
-    "views_30d": 967,
-    "views_prior_30d": 906,
-    "change": 7
+    "views_30d": 957,
+    "views_prior_30d": 915,
+    "change": 5
    },
    "reddit": null,
    "reasons": []

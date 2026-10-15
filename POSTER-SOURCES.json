@@ -737,7 +737,7 @@
  },
  {
   "event_id": "josh-aaron-improv-2026-10-14",
-  "src": "/assets/posters/josh-aaron-improv-2026-10-14.jpg",
+  "src": "/assets/posters/archive/josh-aaron-improv-2026-10-14.jpg",
   "width": 640,
   "height": 427,
   "source_url": "https://www.ticketmaster.com/josh-aaron-do-improv-feat-hayden-brooklyn-new-york-10-14-2026/event/30006518E7CD7F22",
@@ -748,7 +748,8 @@
   "retrieved_at": "2026-09-15",
   "bytes": 45905,
   "sha256": "TBD",
-  "reuse_status": "Official promotional artwork from the show's Ticketmaster listing; no separate reuse license identified. Site display with credit only."
+  "reuse_status": "Official promotional artwork from the show's Ticketmaster listing; no separate reuse license identified. Site display with credit only.",
+  "archived": true
  },
  {
   "event_id": "francesca-mattlieb-2026-10-15",
@@ -1140,7 +1141,7 @@
  },
  {
   "event_id": "dead-comedian-contest-comic-strip-2026-10-14",
-  "src": "/assets/posters/dead-comedian-contest-comic-strip-2026-10-14.jpg",
+  "src": "/assets/posters/archive/dead-comedian-contest-comic-strip-2026-10-14.jpg",
   "width": 720,
   "height": 440,
   "source_url": "https://comicstriplive.com/dead-comedian-contest-who-will-bring-them-back-to-life/",
@@ -1151,7 +1152,8 @@
   "retrieved_at": "2026-09-21",
   "bytes": 96204,
   "sha256": "a5dcc3544e9586879c1008c2752a81440c1f8059e1f05ca5c3f6dfac905545ed",
-  "reuse_status": "Official promotional artwork; no separate reuse license identified. Local review draft only."
+  "reuse_status": "Official promotional artwork; no separate reuse license identified. Local review draft only.",
+  "archived": true
  },
  {
   "event_id": "ruby-setnik-bell-house-2026-10-27",
@@ -1454,7 +1456,7 @@
  },
  {
   "event_id": "health-mostly-mental-littlefield-2026-10-14",
-  "src": "/assets/posters/health-mostly-mental-littlefield-2026-10-14.jpg",
+  "src": "/assets/posters/archive/health-mostly-mental-littlefield-2026-10-14.jpg",
   "width": 1880,
   "height": 940,
   "source_url": "https://www.eventbrite.com/e/health-mostly-mental-via-abolencia-kendall-allisons-half-hours-tickets-1998129962506",
@@ -1465,7 +1467,8 @@
   "retrieved_at": "2026-10-04",
   "bytes": 198545,
   "sha256": "12be7ff91511d72794e4e16a45bf71ec196f425105c5f61f40e9161abd71e8c5",
-  "reuse_status": "Official promotional artwork; no separate reuse license identified. Local review draft only."
+  "reuse_status": "Official promotional artwork; no separate reuse license identified. Local review draft only.",
+  "archived": true
  },
  {
   "event_id": "pretty-major-union-hall-2026-10-13",
@@ -1570,7 +1573,7 @@
  },
  {
   "event_id": "leah-sampson-union-hall-2026-10-14",
-  "src": "/assets/posters/leah-sampson-union-hall-2026-10-14.jpg",
+  "src": "/assets/posters/archive/leah-sampson-union-hall-2026-10-14.jpg",
   "width": 1880,
   "height": 940,
   "source_url": "https://www.eventbrite.com/e/comedian-leah-sampson-back-at-union-hall-one-night-only-tickets-2002746051352",
@@ -1581,7 +1584,8 @@
   "retrieved_at": "2026-10-09",
   "bytes": 199761,
   "sha256": "1b565007fc2f5d25",
-  "reuse_status": "Official promotional artwork; no separate reuse license identified. Local review draft only."
+  "reuse_status": "Official promotional artwork; no separate reuse license identified. Local review draft only.",
+  "archived": true
  },
  {
   "event_id": "please-stay-seated-wscc-2026-11-04",
