@@ -1393,7 +1393,7 @@
  },
  {
   "event_id": "chronically-offline-wscc-2026-10-29",
-  "src": "/assets/posters/chronically-offline-wscc-2026-10-29.webp",
+  "src": "/assets/posters/archive/chronically-offline-wscc-2026-10-29.webp",
   "width": 12288,
   "height": 1082,
   "source_url": "https://www.westsidecomedyclub.com/shows/chronically-offline",
@@ -1404,7 +1404,10 @@
   "retrieved_at": "2026-09-30",
   "bytes": 117346,
   "sha256": "3a840a8096b1032d53fce9034d8228e745bd80e5bde7801f186fffbe44331146",
-  "reuse_status": "Official promotional artwork; no separate reuse license identified. Local review draft only."
+  "reuse_status": "Official promotional artwork; no separate reuse license identified. Local review draft only.",
+  "archived": true,
+  "archived_at": "2026-10-15",
+  "archived_reason": "Source page returned 404 on 2026-10-15 freshness check; show not on the WSCC October or November calendar; pick removed from the board."
  },
  {
   "event_id": "chris-gethard-pop-caveat-2026-10-08",
@@ -1719,6 +1722,36 @@
   "verified_at": "2026-10-13",
   "bytes": 68512,
   "sha256": "e42906dc48c9efdeeed9feed0d28d16f2614005f204294399368099024033b46",
+  "reuse_status": "Official promotional artwork; no separate reuse license identified. Local review draft only."
+ },
+ {
+  "event_id": "jacqueline-novak-bell-house-2026-11-23",
+  "src": "/assets/posters/jacqueline-novak-bell-house-2026-11-23.jpg",
+  "width": 2048,
+  "height": 1152,
+  "source_url": "https://www.livenation.com/event/16YZk4k8NZAC5dk2/jacqueline-novak",
+  "credit": "Artwork: The Bell House / Live Nation",
+  "alt": "Jacqueline Novak at the Bell House — November 23, 2026.",
+  "kind": "dated event flyer",
+  "original_image_url": "https://s1.ticketm.net/dam/a/7f1/0f81822e-f710-41b8-b3aa-430988a127f1_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+  "verified_at": "2026-10-15",
+  "bytes": 254217,
+  "sha256": "de3f95de1fc6ad2b650197eda94e80344c6592064c887b49338e8689a39fae1d",
+  "reuse_status": "Official promotional artwork; no separate reuse license identified. Local review draft only."
+ },
+ {
+  "event_id": "invisible-architecture-charlie-flynn-union-hall-2026-10-21",
+  "src": "/assets/posters/charlie-flynn-union-hall-2026-10-21.jpg",
+  "width": 1880,
+  "height": 938,
+  "source_url": "https://www.eventbrite.com/e/invisible-architecture-an-evening-of-comedy-with-charlie-flynn-tickets-2002602784838",
+  "credit": "Artwork: Union Hall / Eventbrite",
+  "alt": "Invisible Architecture: An Evening of Comedy with Charlie Flynn at Union Hall — October 21.",
+  "kind": "dated event flyer",
+  "original_image_url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1194790997%2F2330790970943%2F1%2Foriginal.20261001-045450",
+  "verified_at": "2026-10-15",
+  "bytes": 99320,
+  "sha256": "faa58d7989cfab0e1c1c6ae732c3a89ef37273676ae6660c122f5f0197977bca",
   "reuse_status": "Official promotional artwork; no separate reuse license identified. Local review draft only."
  }
 ]

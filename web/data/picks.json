@@ -693,36 +693,6 @@
   "demand_checked": "2026-10-15"
  },
  {
-  "id": "chronically-offline-wscc-2026-10-29",
-  "title": "Chronically Offline",
-  "date": "2026-10-29",
-  "starts_at": "2026-10-29T21:00:00-04:00",
-  "ends_at": "2026-10-29T22:30:00-04:00",
-  "end_time_confirmed": false,
-  "time_label": "9pm",
-  "venue": "West Side Comedy Club",
-  "neighborhood": "Upper West Side",
-  "price_amount": null,
-  "price_label": "See ticket page for price",
-  "ticket_url": "https://www.westsidecomedyclub.com/shows/chronically-offline",
-  "source_url": "https://www.westsidecomedyclub.com/shows/chronically-offline",
-  "verified_at": "2026-09-30",
-  "description": "West Side Comedy Club's late-Thursday showcase the night before Halloween — a working-comic slot on 75th Street with the room already loose from Boo-Ha-Ha down the line and the weekend pulling people off the couch.",
-  "featured": false,
-  "tier": "special",
-  "poster": {
-   "src": "/assets/posters/chronically-offline-wscc-2026-10-29.webp",
-   "width": 12288,
-   "height": 1082,
-   "source_url": "https://www.westsidecomedyclub.com/shows/chronically-offline",
-   "credit": "Artwork: West Side Comedy Club / show organizer",
-   "alt": "Chronically Offline promotional artwork.",
-   "kind": "dated event flyer"
-  },
-  "demand": null,
-  "demand_checked": "2026-10-15"
- },
- {
   "id": "laughing-lassi-broadway-comedy-club-2026-10-30",
   "title": "Laughing Lassi",
   "date": "2026-10-30",
@@ -1634,5 +1604,65 @@
    "alt": "John Oliver & Seth Meyers at the Beacon Theatre — November 22.",
    "kind": "dated event flyer"
   }
+ },
+ {
+  "id": "jacqueline-novak-bell-house-2026-11-23",
+  "title": "Jacqueline Novak",
+  "date": "2026-11-23",
+  "starts_at": "2026-11-23T19:00:00-05:00",
+  "ends_at": "2026-11-23T21:00:00-05:00",
+  "end_time_confirmed": false,
+  "time_label": "7pm",
+  "venue": "The Bell House",
+  "neighborhood": "Gowanus",
+  "price_amount": null,
+  "price_label": "See ticket page for price",
+  "ticket_url": "https://www.ticketmaster.com/jacqueline-novak-brooklyn-new-york-11-23-2026/event/30006546423DA25E",
+  "source_url": "https://www.thebellhouseny.com/shows/calendar/2026-11",
+  "verified_at": "2026-10-15",
+  "description": "Jacqueline Novak brings her fall 2026 tour through the Bell House — a Monday night in the Gowanus room for the 2 Dope Queens and HBO-circuit essay-comic, working in the measured, philosophical lane that built Get on Your Knees, the Netflix hour she dropped in 2024.",
+  "tier": "special",
+  "featured": false,
+  "poster": {
+   "src": "/assets/posters/jacqueline-novak-bell-house-2026-11-23.jpg",
+   "width": 2048,
+   "height": 1152,
+   "source_url": "https://www.livenation.com/event/16YZk4k8NZAC5dk2/jacqueline-novak",
+   "credit": "Artwork: The Bell House / Live Nation",
+   "alt": "Jacqueline Novak at the Bell House — November 23, 2026.",
+   "kind": "dated event flyer"
+  },
+  "demand": null,
+  "demand_checked": "2026-10-15"
+ },
+ {
+  "id": "invisible-architecture-charlie-flynn-union-hall-2026-10-21",
+  "title": "Invisible Architecture: An Evening of Comedy with Charlie Flynn",
+  "date": "2026-10-21",
+  "starts_at": "2026-10-21T19:30:00-04:00",
+  "ends_at": "2026-10-21T21:00:00-04:00",
+  "end_time_confirmed": false,
+  "time_label": "7:30pm",
+  "venue": "Union Hall",
+  "neighborhood": "Park Slope",
+  "price_amount": 15.92,
+  "price_label": "$15.92 (from $15 + Eventbrite fees)",
+  "ticket_url": "https://www.eventbrite.com/e/invisible-architecture-an-evening-of-comedy-with-charlie-flynn-tickets-2002602784838",
+  "source_url": "https://www.eventbrite.com/e/invisible-architecture-an-evening-of-comedy-with-charlie-flynn-tickets-2002602784838",
+  "verified_at": "2026-10-15",
+  "description": "Charlie Flynn hosts Invisible Architecture at Union Hall with Cat Cohen, Malik Elassal, Edy Modica, and Wils Pelton doing stand-up between premiere videos from Richie Raymond and Meredith Dietz — the kind of mixed-format Wednesday that works best when the line-up is the punchline.",
+  "tier": "special",
+  "featured": false,
+  "poster": {
+   "src": "/assets/posters/charlie-flynn-union-hall-2026-10-21.jpg",
+   "width": 1880,
+   "height": 938,
+   "source_url": "https://www.eventbrite.com/e/invisible-architecture-an-evening-of-comedy-with-charlie-flynn-tickets-2002602784838",
+   "credit": "Artwork: Union Hall / Eventbrite",
+   "alt": "Invisible Architecture: An Evening of Comedy with Charlie Flynn at Union Hall.",
+   "kind": "dated event flyer"
+  },
+  "demand": null,
+  "demand_checked": "2026-10-15"
  }
 ]

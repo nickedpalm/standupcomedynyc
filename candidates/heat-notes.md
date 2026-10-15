@@ -293,3 +293,19 @@ Generated from `npm run heat` + `npm run research-plan` (last30days for the 2 na
 
 ### Ranked on schedule alone (no recent data, ranked by show date)
 - All 36 skipped performers are outside the top 10 by cheap ranking or outside the 10-day window. The closest new pick name to a decision is Jessica Kirson (NYCC Nov 17, 4 days out), but her cheap rank is below the top-10 threshold and her cached note from earlier sessions (FYI stand-up community pick, podcast credits) hasn't aged out. The new W6 headliners (Oliver/Meyers Beacon, Finnegan NYCC, Opey Union Hall) are all 35+ days out and skipped by the 10-day window rule; the picks stand on the show pages alone.
+
+
+## 2026-10-15 daily edition
+- Ranked 40 performers; **ran 1** (Headlining Alex Giampapa); **reused 4** (Kendall Farrell 6d, Kathy Griffin 6d, Johnny Pemberton 6d, Asif Ali 6d); **skipped 35** (outside the 10-day window or below the cheap-rank threshold); **~351,000 tokens saved**.
+
+### Run notes
+- **Headlining Alex Giampapa** (Eastville Comedy Club, Sat 10/17, 10pm, $TBD; heat 30 from second-show-signal): No online footprint in the last 30 days; HN and Reddit return only name-collision noise (Alex Gibney, Alex Honnold, etc.). The pick stands on the room and the weekend slot — Saturday-night headlining showcase is what the Eastville calendar calls out, and Alex Giampapa's stand-up credits (regional circuit, recent Eastville sets) come from the venue's own event page, not the research. Cached for 7d.
+
+### Reuse notes (already cached under 7d)
+- **Kendall Farrell** (cached 6d ago, Oct 9): No online footprint in 30d; pick on her LA-based TV writing credits and the special-taping framing.
+- **Kathy Griffin** (cached 6d ago, Oct 9): Reddit 10 threads / 1.7k upvotes in 30d, mostly r/Fauxmoi chatter about her Town Hall return after the Trump photo scandal; HN silent. Town Hall Oct 16 — strong buzz on the return-to-NYC narrative.
+- **Johnny Pemberton** (cached 6d ago, Oct 9): Reddit 5 threads in 30d, mostly r/NeverNotFunny / r/duncantrussell (NNF regular); HN silent. Bell House Oct 18 — pick on the room and the cult podcast audience, not recent buzz.
+- **Asif Ali** (cached 6d ago, Oct 9): Reddit 4 threads in 30d, the main one is a Comedy Bang Bang sighting in the 2018 Bruce Willis roast; HN silent. Bell House Oct 17 — low-buzz; decide on the room and the headline.
+
+### Ranked on schedule alone (no recent data, ranked by show date)
+- All 35 skipped performers are outside the top 10 by cheap ranking or outside the 10-day window. The closest new pick name to a decision is Headlining Alex Giampapa (Eastville Sat 10/17, 2 days out, priority 30 from second-show signal) — the run was made and the result was noise; the pick stands on the room's calendar page. The new W6 headliners (Jacqueline Novak Bell House, Opey Union Hall) are 30+ days out and skipped by the 10-day window rule; both picks stand on the show pages alone.
