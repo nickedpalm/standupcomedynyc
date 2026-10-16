@@ -753,7 +753,7 @@
  },
  {
   "event_id": "francesca-mattlieb-2026-10-15",
-  "src": "/assets/posters/francesca-mattlieb-2026-10-15.jpg",
+  "src": "/assets/posters/archive/francesca-mattlieb-2026-10-15.jpg",
   "width": 640,
   "height": 427,
   "source_url": "https://www.ticketmaster.com/francesca-fiorentini-and-matt-lieb-brooklyn-new-york-10-15-2026/event/300064F43E856080",
@@ -764,7 +764,8 @@
   "retrieved_at": "2026-09-15",
   "bytes": 49672,
   "sha256": "TBD",
-  "reuse_status": "Official promotional artwork from the show's Ticketmaster listing; no separate reuse license identified. Site display with credit only."
+  "reuse_status": "Official promotional artwork from the show's Ticketmaster listing; no separate reuse license identified. Site display with credit only.",
+  "archived": true
  },
  {
   "event_id": "blank-check-live-2026-10-16",
