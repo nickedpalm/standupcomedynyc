@@ -1,5 +1,5 @@
 {
- "retrieved_at": "2026-10-15T11:01:45.123Z",
+ "retrieved_at": "2026-10-16T11:01:27.967Z",
  "note": "Leads from Eventbrite organizer pages of registered rooms. Open the event page before adding a pick; artwork needs a POSTER-SOURCES record.",
  "organizers": [
   {
@@ -36,101 +36,6 @@
   }
  ],
  "events": [
-  {
-   "venue": "Caveat",
-   "neighborhood": "Lower East Side",
-   "organizer": "https://www.eventbrite.com/o/caveat-13580085802",
-   "title": "Facts Machine: Science Comedy & Trivia!",
-   "date": "2026-10-15",
-   "time": "7pm",
-   "starts_at": "2026-10-15T19:00:00-04:00",
-   "ends_at": "2026-10-15T20:30:00-04:00",
-   "location_name": "Caveat",
-   "location_address": "21 A Clinton Street, New York, NY 10002, New York",
-   "price_from": 18.76,
-   "url": "https://www.eventbrite.com/e/facts-machine-science-comedy-trivia-tickets-2000484510021",
-   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1194743809%2F207096185123%2F1%2Foriginal.20260930-172316?w=940&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C9094%2C4547&s=7d3d926aa765d281869b438f116b69c0",
-   "description": "A show for people who are curious about everything–but especially the things that make them laugh!",
-   "venue_name_matches": true,
-   "already_a_pick": false,
-   "seen_before": true
-  },
-  {
-   "venue": "Union Hall",
-   "neighborhood": "Park Slope",
-   "organizer": "https://www.eventbrite.com/o/union-hall-17899496497",
-   "title": "Mike Rice: Cruel Little Man",
-   "date": "2026-10-15",
-   "time": "7:30pm",
-   "starts_at": "2026-10-15T19:30:00-04:00",
-   "ends_at": "2026-10-15T20:45:00-04:00",
-   "location_name": "Union Hall",
-   "location_address": "702 Union St., Brooklyn, NY 11215, Brooklyn",
-   "price_from": 35.99,
-   "url": "https://www.eventbrite.com/e/mike-rice-cruel-little-man-tickets-1995468879134",
-   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1189709472%2F282041210522%2F1%2Foriginal.20260727-160601?crop=focalpoint&fit=crop&w=940&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=0d366124e05afaaf39f35be5217be765",
-   "description": "Mike Rice: Cruel Little Man - Thursday, October 15 - 7:00pm Doors / 7:30pm Show",
-   "venue_name_matches": true,
-   "already_a_pick": false,
-   "seen_before": true
-  },
-  {
-   "venue": "Littlefield",
-   "neighborhood": "Gowanus",
-   "organizer": "https://www.eventbrite.com/o/littlefield-18046024060",
-   "title": "It Entirely From Memory",
-   "date": "2026-10-15",
-   "time": "8pm",
-   "starts_at": "2026-10-15T20:00:00-04:00",
-   "ends_at": "2026-10-15",
-   "location_name": "littlefield",
-   "location_address": "635 Sackett Street, Brooklyn, NY 11217, Brooklyn",
-   "price_from": 14.86,
-   "url": "https://www.eventbrite.com/e/it-entirely-from-memory-tickets-1999063713380",
-   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1192088210%2F400863417153%2F1%2Foriginal.20260828-013705?crop=focalpoint&fit=crop&w=940&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.069&fp-y=0.272&s=b468fe44b0aed6b2f798bc9381a88d10",
-   "description": "Performers will attempt (and most likely fail) to recreate \"It\", without the aid of scripts, rehearsals, or sobriety.",
-   "venue_name_matches": true,
-   "already_a_pick": false,
-   "seen_before": true
-  },
-  {
-   "venue": "Comic Strip Live",
-   "neighborhood": "Upper East Side",
-   "organizer": "https://www.eventbrite.com/o/comic-strip-live-comedy-club-8100188167",
-   "title": "The Andy Engel Show!",
-   "date": "2026-10-15",
-   "time": "8pm",
-   "starts_at": "2026-10-15T20:00:00-04:00",
-   "ends_at": "2026-10-15",
-   "location_name": "Comic Strip Live",
-   "location_address": "1568 2nd Ave, New York, NY 10028, New York",
-   "price_from": 25.71,
-   "url": "https://www.eventbrite.com/e/the-andy-engel-show-tickets-2002306080387",
-   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1194381739%2F136153380524%2F1%2Foriginal.20260925-184458?crop=focalpoint&fit=crop&w=940&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.331&fp-y=0.226&s=3de398318f497769edb20529af48c835",
-   "description": "Be part of history, celebrating 50 years of Comedy at the World Comic Strip! Comedians from, HBO, The Tonight Show, SNL & More ~",
-   "venue_name_matches": true,
-   "already_a_pick": false,
-   "seen_before": true
-  },
-  {
-   "venue": "Caveat",
-   "neighborhood": "Lower East Side",
-   "organizer": "https://www.eventbrite.com/o/caveat-13580085802",
-   "title": "Major Fix",
-   "date": "2026-10-15",
-   "time": "9:30pm",
-   "starts_at": "2026-10-15T21:30:00-04:00",
-   "ends_at": "2026-10-15T23:30:00-04:00",
-   "location_name": "Caveat",
-   "location_address": "21 A Clinton Street, New York, NY 10002, New York",
-   "price_from": 22.35,
-   "url": "https://www.eventbrite.com/e/major-fix-tickets-2000314365113",
-   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1193098703%2F3005635212126%2F1%2Foriginal.20260909-202130?crop=focalpoint&fit=crop&w=940&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.611&fp-y=0.57&s=ba83dbb84e67975d9fae1f754d94cbb3",
-   "description": "A PowerPoint lecture series where NYC’s brightest creative minds share a presentation on a personal obsession, followed by an audience Q&A.",
-   "venue_name_matches": true,
-   "already_a_pick": false,
-   "seen_before": true
-  },
   {
    "venue": "Caveat",
    "neighborhood": "Lower East Side",
@@ -547,7 +452,7 @@
    "description": "One of your favorite comedians interviews an expert on a topic they've always wanted to know more about.",
    "venue_name_matches": true,
    "already_a_pick": false,
-   "seen_before": false
+   "seen_before": true
   },
   {
    "venue": "Union Hall",
@@ -623,7 +528,7 @@
    "description": "Actors are given a scene & learn their lines, improvisers are given nothing & must make it work.",
    "venue_name_matches": true,
    "already_a_pick": false,
-   "seen_before": false
+   "seen_before": true
   },
   {
    "venue": "Union Hall",
@@ -664,6 +569,44 @@
    "seen_before": true
   },
   {
+   "venue": "Caveat",
+   "neighborhood": "Lower East Side",
+   "organizer": "https://www.eventbrite.com/o/caveat-13580085802",
+   "title": "The History of Weed",
+   "date": "2026-10-19",
+   "time": "9pm",
+   "starts_at": "2026-10-19T21:00:00-04:00",
+   "ends_at": "2026-10-19T22:15:00-04:00",
+   "location_name": "Caveat",
+   "location_address": "21 A Clinton Street, New York, NY 10002, New York",
+   "price_from": 18.76,
+   "url": "https://www.eventbrite.com/e/the-history-of-weed-tickets-1999862606892",
+   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1195720577%2F207096185123%2F1%2Foriginal.20261013-193408?w=940&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C1774%2C887&s=d1cb4f67c463cb6514e5cf82697a9c0f",
+   "description": "The History of Weed chronicles the planet’s most celebrated and demonized plant.",
+   "venue_name_matches": true,
+   "already_a_pick": false,
+   "seen_before": false
+  },
+  {
+   "venue": "Caveat",
+   "neighborhood": "Lower East Side",
+   "organizer": "https://www.eventbrite.com/o/caveat-13580085802",
+   "title": "The Jewish Dating Game!",
+   "date": "2026-10-20",
+   "time": "7pm",
+   "starts_at": "2026-10-20T19:00:00-04:00",
+   "ends_at": "2026-10-20T20:30:00-04:00",
+   "location_name": "Caveat",
+   "location_address": "21 A Clinton Street, New York, NY 10002, New York",
+   "price_from": 24.41,
+   "url": "https://www.eventbrite.com/e/the-jewish-dating-game-tickets-1998065148646",
+   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1193885840%2F207096185123%2F1%2Foriginal.20260919-021259?w=940&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C1200%2C600&s=697091f3c6dd87667626145b6f733cc5",
+   "description": "Got Chutzpah? Blind date live for the chance to win dinner dates all over the city, or just come watch people fall in love!",
+   "venue_name_matches": true,
+   "already_a_pick": false,
+   "seen_before": false
+  },
+  {
    "venue": "Union Hall",
    "neighborhood": "Park Slope",
    "organizer": "https://www.eventbrite.com/o/union-hall-17899496497",
@@ -680,7 +623,7 @@
    "description": "Girl Mountain Goes Missing! - Tuesday, October 20 - 7:00pm Doors / 7:30pm Show",
    "venue_name_matches": true,
    "already_a_pick": false,
-   "seen_before": false
+   "seen_before": true
   },
   {
    "venue": "Comic Strip Live",
@@ -717,8 +660,8 @@
    "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1194790997%2F2330790970943%2F1%2Foriginal.20261001-045450?crop=focalpoint&fit=crop&w=940&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=602f220fda07fa741310b65c25736417",
    "description": "Invisible Architecture: An Evening of Comedy with Charlie Flynn - Wednesday, October 21 - 7:00pm Doors / 7:30pm Show",
    "venue_name_matches": true,
-   "already_a_pick": false,
-   "seen_before": false
+   "already_a_pick": true,
+   "seen_before": true
   },
   {
    "venue": "Littlefield",
@@ -851,7 +794,7 @@
    "description": "Moral Kiosk, NYC's original R.E.M. tribute band, play the band's early catalog in its rawest most faithful form; openers Bastards of Young",
    "venue_name_matches": true,
    "already_a_pick": false,
-   "seen_before": false
+   "seen_before": true
   },
   {
    "venue": "Comic Strip Live",
@@ -905,6 +848,25 @@
    "price_from": 25.71,
    "url": "https://www.eventbrite.com/e/tom-van-horn-chuck-nice-kerrie-louise-mike-yard-kareem-green-tickets-2002308826601",
    "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1194383983%2F136153380524%2F1%2Foriginal.20260925-191434?crop=focalpoint&fit=crop&w=940&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=72f077f3758574978494760550a63d1a",
+   "description": "Be part of history, celebrating 50 years of Comedy at the World Comic Strip! Comedians from, HBO, The Tonight Show, SNL & More ~",
+   "venue_name_matches": true,
+   "already_a_pick": false,
+   "seen_before": true
+  },
+  {
+   "venue": "Comic Strip Live",
+   "neighborhood": "Upper East Side",
+   "organizer": "https://www.eventbrite.com/o/comic-strip-live-comedy-club-8100188167",
+   "title": "DF Sweedler, Tobin Miller, Carla Oakerson, Feraz Shere, Marla Schultz, more",
+   "date": "2026-10-25",
+   "time": "8pm",
+   "starts_at": "2026-10-25T20:00:00-04:00",
+   "ends_at": "2026-10-25",
+   "location_name": "Comic Strip Live",
+   "location_address": "1568 2nd Ave, New York, NY 10028, New York",
+   "price_from": 25.71,
+   "url": "https://www.eventbrite.com/e/df-sweedler-tobin-miller-carla-oakerson-feraz-shere-marla-schultz-more-tickets-2002306916889",
+   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1194383247%2F136153380524%2F1%2Foriginal.20260925-190524?crop=focalpoint&fit=crop&w=940&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.398&fp-y=0.256&s=f740bced7d1f138f191cb4bb29dd8e5b",
    "description": "Be part of history, celebrating 50 years of Comedy at the World Comic Strip! Comedians from, HBO, The Tonight Show, SNL & More ~",
    "venue_name_matches": true,
    "already_a_pick": false,

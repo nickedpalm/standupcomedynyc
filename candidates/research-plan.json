@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-15T11:09:26.463Z",
- "performers_considered": 40,
+ "generated_at": "2026-10-16T11:03:34.103Z",
+ "performers_considered": 38,
  "shortlist": [
   {
    "name": "Kendall Farrell",
@@ -15,6 +15,10 @@
    "priority": 45
   },
   {
+   "name": "Michelle Buteau",
+   "priority": 45
+  },
+  {
    "name": "Salma Hindy",
    "priority": 45
   },
@@ -35,38 +39,18 @@
    "priority": 35
   },
   {
-   "name": "Sam Tallent",
-   "priority": 31
-  },
-  {
    "name": "Headlining Alex Giampapa",
    "priority": 30
   }
  ],
- "run": [
-  {
-   "name": "Headlining Alex Giampapa",
-   "priority": 30,
-   "next": {
-    "id": "headlining-alex-giampapa-eastville-2026-10-17",
-    "date": "2026-10-17",
-    "venue": "Eastville Comedy Club",
-    "days": 2,
-    "featured": false,
-    "poster": false,
-    "demand": null
-   },
-   "cheap_signals": [],
-   "reason": "show within 3 days and not yet decided"
-  }
- ],
+ "run": [],
  "reuse": [
   {
    "name": "Kendall Farrell",
    "priority": 70,
    "cached": {
     "at": "2026-10-09T11:15:36.377Z",
-    "age_days": 6,
+    "age_days": 7,
     "fresh": true,
     "note": "Reddit: 0 items (auth-failed 403), HN: 0 items. No online footprint at all in the last 30 days. Littlefield Oct 18 — pick on her LA-based and recent TV writing credits and the special-taping framing; the room is the signal, not buzz."
    }
@@ -76,7 +60,7 @@
    "priority": 45,
    "cached": {
     "at": "2026-10-09T11:13:03.999Z",
-    "age_days": 6,
+    "age_days": 7,
     "fresh": true,
     "note": "Reddit: 10 threads, 1.7k upvotes, mostly r/Fauxmoi / r/datalounge chatter about her Town Hall return after the Trump photo scandal — chattering but not specifically the show. HN silent. Town Hall Oct 16 — strong buzz; pick on the return-to-NYC narrative."
    }
@@ -86,9 +70,19 @@
    "priority": 45,
    "cached": {
     "at": "2026-10-09T11:10:08.731Z",
-    "age_days": 6,
+    "age_days": 7,
     "fresh": true,
     "note": "Reddit: 5 threads in 30 days, mostly r/NeverNotFunny / r/duncantrussell (he's a Never Not Funny regular); HN silent. Bell House Oct 18 — pick on the room and the cult podcast audience, not on recent buzz."
+   }
+  },
+  {
+   "name": "Michelle Buteau",
+   "priority": 45,
+   "cached": {
+    "at": "2026-10-09T11:11:39.031Z",
+    "age_days": 7,
+    "fresh": true,
+    "note": "Reddit: 2 threads (r/FemaleStandupComedy) with 7 upvotes — almost no recent buzz. HN silent. Bell House Oct 19 — pick on her Netflix/Survival of the Thickest profile and the room; not on current chatter."
    }
   },
   {
@@ -96,9 +90,19 @@
    "priority": 35,
    "cached": {
     "at": "2026-10-09T11:08:36.394Z",
-    "age_days": 6,
+    "age_days": 7,
     "fresh": true,
     "note": "Reddit: 4 threads in 30 days, the main one is a Comedy Bang Bang sighting in the 2018 Bruce Willis roast; HN silent. Bell House Oct 17 - treat as low-buzz, decide on the room and the headline."
+   }
+  },
+  {
+   "name": "Headlining Alex Giampapa",
+   "priority": 30,
+   "cached": {
+    "at": "2026-10-15T11:09:57.870Z",
+    "age_days": 1,
+    "fresh": true,
+    "note": "No online footprint in the last 30 days; HN/Reddit returns only name-collision noise (Alex Gibney, Alex Honnold). Eastville Sat 10/17 is the room's Saturday 10pm showcase — pick on the room and the weekend slot, not on buzz."
    }
   }
  ],
@@ -106,32 +110,22 @@
   {
    "name": "Salma Hindy",
    "priority": 45,
-   "reason": "next show in 20 days, outside the 10-day window"
+   "reason": "next show in 19 days, outside the 10-day window"
   },
   {
    "name": "Marc Maron",
    "priority": 45,
-   "reason": "next show in 24 days, outside the 10-day window"
+   "reason": "next show in 23 days, outside the 10-day window"
   },
   {
    "name": "Joanne McNally",
    "priority": 35,
-   "reason": "next show in 23 days, outside the 10-day window"
+   "reason": "next show in 22 days, outside the 10-day window"
   },
   {
    "name": "Jaboukie Young-White",
    "priority": 35,
-   "reason": "next show in 33 days, outside the 10-day window"
-  },
-  {
-   "name": "Sam Tallent",
-   "priority": 31,
-   "reason": "next show in 21 days, outside the 10-day window"
-  },
-  {
-   "name": "Michelle Buteau",
-   "priority": 30,
-   "reason": "outside the top 10 by cheap ranking"
+   "reason": "next show in 32 days, outside the 10-day window"
   },
   {
    "name": "Ilana Glazer",
@@ -144,17 +138,17 @@
    "reason": "outside the top 10 by cheap ranking"
   },
   {
+   "name": "Sam Tallent",
+   "priority": 25,
+   "reason": "outside the top 10 by cheap ranking"
+  },
+  {
    "name": "Sydnee Washington",
    "priority": 20,
    "reason": "outside the top 10 by cheap ranking"
   },
   {
    "name": "Jessica Kirson",
-   "priority": 20,
-   "reason": "outside the top 10 by cheap ranking"
-  },
-  {
-   "name": "Mike Rice",
    "priority": 20,
    "reason": "outside the top 10 by cheap ranking"
   },
@@ -179,17 +173,17 @@
    "reason": "outside the top 10 by cheap ranking"
   },
   {
+   "name": "Jordan Jensen",
+   "priority": 10,
+   "reason": "outside the top 10 by cheap ranking"
+  },
+  {
    "name": "Jess Hilarious",
    "priority": 10,
    "reason": "outside the top 10 by cheap ranking"
   },
   {
    "name": "Ruby Setnik",
-   "priority": 5,
-   "reason": "outside the top 10 by cheap ranking"
-  },
-  {
-   "name": "Chronically Offline",
    "priority": 5,
    "reason": "outside the top 10 by cheap ranking"
   },
@@ -269,19 +263,12 @@
    "reason": "outside the top 10 by cheap ranking"
   },
   {
-   "name": "Jordan Jensen",
-   "priority": 0,
-   "reason": "outside the top 10 by cheap ranking"
-  },
-  {
    "name": "Dropout Improv",
    "priority": 0,
    "reason": "outside the top 10 by cheap ranking"
   }
  ],
- "estimated_tokens_saved": 351000,
- "estimate_basis": "9000 tokens per last30days run, 39 runs avoided out of 40",
- "no_recent_data": [
-  "Headlining Alex Giampapa"
- ]
+ "estimated_tokens_saved": 342000,
+ "estimate_basis": "9000 tokens per last30days run, 38 runs avoided out of 38",
+ "no_recent_data": []
 }

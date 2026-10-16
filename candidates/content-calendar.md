@@ -11,9 +11,9 @@ Six weeks ahead from the board. Regenerated on every build; edit the data, not t
 
 ## Research plan today
 
-Ranked 40; run 1, reuse 4, skip 35; ~351,000 tokens saved. No recent data: Headlining Alex Giampapa.
+Ranked 38; run 0, reuse 6, skip 32; ~342,000 tokens saved.
 
-## Week 1: Oct 16 to Oct 22 — 16 picks — 8 without artwork · 36 Eventbrite leads not yet reviewed
+## Week 1: Oct 16 to Oct 22 — 16 picks — 8 without artwork · 37 Eventbrite leads not yet reviewed
 
 - Fri Oct 16 7pm — **Kathy Griffin: New Face, New Tour** at The Town Hall · NO ARTWORK
 - Fri Oct 16 7:30pm — **Blank Check Live** at The Bell House
@@ -42,7 +42,7 @@ Ranked 40; run 1, reuse 4, skip 35; ~351,000 tokens saved. No recent data: Headl
   - Sat Oct 17 12pm — The Distance from Here - Michael James Freedman - Arts Gowanus Open Studios at Littlefield · from $0 · has artwork
   - Sat Oct 17 1:30pm — WordOut Theater Presents: un/reality — Saturday Program at Caveat · from $28.94 · has artwork
 
-## Week 2: Oct 23 to Oct 29 — 11 picks — 7 without artwork · 5 Eventbrite leads not yet reviewed
+## Week 2: Oct 23 to Oct 29 — 11 picks — 7 without artwork · 6 Eventbrite leads not yet reviewed
 
 - Fri Oct 23 6pm — **Brooklyn Power Hour** at Eastville Comedy Club · NO ARTWORK
 - Fri Oct 23 7:30pm — **Sydnee Washington: My Black Barbie Story** at The Bell House
@@ -61,6 +61,7 @@ Ranked 40; run 1, reuse 4, skip 35; ~351,000 tokens saved. No recent data: Headl
   - Fri Oct 23 8pm — Tobin Miller, Kerrie Louise, JJ Ramirez, Wali Collins, & Brian McFadden! at Comic Strip Live · from $25.71 · has artwork
   - Sat Oct 24 8pm — Tom Van Horn, Matt Pavich, Kerrie Louise, Mike Yard, & Chuck Nice! at Comic Strip Live · from $25.71 · has artwork
   - Sat Oct 24 10:30pm — Tom Van Horn, Chuck Nice, Kerrie Louise, Mike Yard, & Kareem Green! at Comic Strip Live · from $25.71 · has artwork
+  - Sun Oct 25 8pm — DF Sweedler, Tobin Miller, Carla Oakerson, Feraz Shere, Marla Schultz, more at Comic Strip Live · from $25.71 · has artwork
   - Wed Oct 28 11pm — The Late Night Comedy Show at Kellogg's Diner at Kellogg's Diner · from $5 · has artwork
 
 ## Week 3: Oct 30 to Nov 5 — 9 picks — 4 without artwork · 1 Eventbrite lead not yet reviewed
@@ -72,7 +73,7 @@ Ranked 40; run 1, reuse 4, skip 35; ~351,000 tokens saved. No recent data: Headl
 - Mon Nov 2 7:30pm — **Sam Oh: The Unbearable Tightness of Being...Gay Virgin** at The Bell House
 - Tue Nov 3 7pm — **Difficult People: The Movie — A Live Table Read** at The Town Hall · NO ARTWORK
 - Wed Nov 4 7pm — **Please Stay Seated** at West Side Comedy Club
-- Wed Nov 4 8pm — **Salma Hindy: 10 Years of Stand-Up Comedy** at The Stand
+- Wed Nov 4 8pm — **Salma Hindy: 10 Years of Stand-Up Comedy** at The Stand · heat 40
 - Thu Nov 5 7:30pm — **Sam Tallent** at The Bell House · NO ARTWORK · heat 25
 
   Leads to review:
@@ -87,19 +88,19 @@ Ranked 40; run 1, reuse 4, skip 35; ~351,000 tokens saved. No recent data: Headl
 - Sat Nov 7 6pm — **Joanne McNally: Pinotphile** at The Town Hall · NO ARTWORK · heat 35
 - Sun Nov 8 4pm — **Josh Sharp: An Hour of Crowd Work in the Round** at The Bell House · NO ARTWORK
 - Sun Nov 8 7pm — **Sarah Sherman & Patti Harrison** at The Town Hall · NO ARTWORK
-- Sun Nov 8 7:30pm — **Marc Maron: Yammering Into the Void Tour** at Beacon Theatre · NO ARTWORK · heat 20
+- Sun Nov 8 7:30pm — **Marc Maron: Yammering Into the Void Tour** at Beacon Theatre · NO ARTWORK · heat 45
 - Sun Nov 8 7:30pm — **Rainbow Riot** at Brooklyn Comedy Collective · NO ARTWORK
 - Mon Nov 9 8pm — **Stand Up for Heroes (NYCF)** at David Geffen Hall (Lincoln Center) · NO ARTWORK
 - Tue Nov 10 10pm — **Eddie Pepitone Headlining Union Hall (night one)** at Union Hall · NO ARTWORK
 - Thu Nov 12 8pm — **Jordan Jensen** at Beacon Theatre · NO ARTWORK
 
-## Week 5: Nov 13 to Nov 19 — 13 picks — 9 without artwork
+## Week 5: Nov 13 to Nov 19 — 14 picks — 10 without artwork
 
-- Fri Nov 13 6:45pm — **Ilana Glazer Live!** at Beacon Theatre · NO ARTWORK · heat 20
+- Fri Nov 13 6:45pm — **Ilana Glazer Live!** at Beacon Theatre · NO ARTWORK · heat 30
 - Fri Nov 13 7pm — **Jess Hilarious: The Don t Play Wit Me Tour** at Hard Rock Hotel New York - The Venue on Music Row · NO ARTWORK
 - Fri Nov 13 8pm — **Dropout Improv** at Kings Theatre · NO ARTWORK
 - Sat Nov 14 3pm — **The Moth x Comic Relief: Funny Story** at The Town Hall · NO ARTWORK
-- Sat Nov 14 7pm — **Daniel Sloss: Bitter** at Beacon Theatre · NO ARTWORK
+- Sat Nov 14 7pm — **Daniel Sloss: Bitter** at Beacon Theatre · NO ARTWORK · heat 30
 - Sat Nov 14 7pm — **SH&T Show hosted by Jordan Klepper** at The Town Hall · NO ARTWORK
 - Sun Nov 15 5pm — **Jake Velazquez: Special Recording** at New York Comedy Club (Midtown)
 - Sun Nov 15 6:30pm — **Mojo Brookzz: Outta Pocket Comedy Tour** at Beacon Theatre · NO ARTWORK
@@ -108,8 +109,9 @@ Ranked 40; run 1, reuse 4, skip 35; ~351,000 tokens saved. No recent data: Headl
 - Tue Nov 17 7pm — **Jessica Kirson Live in New York** at New York Comedy Club (Midtown)
 - Tue Nov 17 7:30pm — **Jaboukie Young-White** at The Bell House · NO ARTWORK · heat 35
 - Thu Nov 19 8pm — **Stone and Stone On The Road!** at West Side Comedy Club
+- Thu Nov 19 8:30pm — **Previously on Generational Curse... with Nore Davis** at New York Comedy Club (Midtown) · NO ARTWORK
 
-## Week 6: Nov 20 to Nov 26 — 6 picks — only 6 picks; target 8 · 1 without artwork
+## Week 6: Nov 20 to Nov 26 — 8 picks — 3 without artwork
 
 - Fri Nov 20 7:30pm — **Fahim Anwar** at The Bell House
 - Fri Nov 20 7:30pm — **Opey Olagbaju** at Union Hall
@@ -117,4 +119,6 @@ Ranked 40; run 1, reuse 4, skip 35; ~351,000 tokens saved. No recent data: Headl
 - Sun Nov 22 5pm — **Christian Finnegan: A Lot of Heart (Live Special Taping!)** at New York Comedy Club (Midtown)
 - Sun Nov 22 7:30pm — **John Oliver & Seth Meyers** at Beacon Theatre
 - Mon Nov 23 7pm — **Jacqueline Novak** at The Bell House
+- Mon Nov 23 7pm — **Jessica Kirson Live in New York** at New York Comedy Club (Midtown) · NO ARTWORK
+- Tue Nov 24 7pm — **Jacqueline Novak** at The Bell House · NO ARTWORK
 

@@ -1,5 +1,5 @@
 {
- "retrieved_at": "2026-10-15T11:02:08.262Z",
+ "retrieved_at": "2026-10-16T11:01:49.031Z",
  "note": "Promoter posts from NYC neighborhood subreddits, last 14 days. Leads only: open the linked page or the venue site before anything enters the data; register the venue first.",
  "subreddits": [
   "nycevents",
@@ -27,6 +27,22 @@
  ],
  "leads": [
   {
+   "id": "1x6q7x6",
+   "date": "2026-10-15",
+   "subreddit": "nycevents",
+   "title": "Tomorrow Friday 10/16/26 7:30PM Standup Comedy at Fort Hamilton Distillery (Industry City, Brooklyn)",
+   "score": 1,
+   "comments": 0,
+   "url": "https://www.reddit.com/r/nycevents/comments/1x6q7x6/tomorrow_friday_101626_730pm_standup_comedy_at/",
+   "venues_mentioned": [],
+   "when_mentioned": "Friday 10/16/26 7:30PM Standup Comedy at Fort ",
+   "time_mentioned": "7:30PM",
+   "links": [],
+   "free": false,
+   "new_since_last_run": true,
+   "excerpt": ""
+  },
+  {
    "id": "1x69u3k",
    "date": "2026-10-15",
    "subreddit": "nycComedy",
@@ -41,15 +57,31 @@
     "https://www.eventbrite.com/e/brody-went-missing-tickets-1999185661129"
    ],
    "free": false,
-   "new_since_last_run": true,
+   "new_since_last_run": false,
    "excerpt": "Hey! There's a comedy play happening at the Chain Theatre November 5th-8th. It's a road trip buddy comedy called Brody Went Missing. It's hilariously entertaining! Use Promo Code \"Wherebrody\" to get $5 off your ticket. [https://www.eventbrite.com/e/brody-went-missing-tickets-1999"
+  },
+  {
+   "id": "1x6q8f1",
+   "date": "2026-10-15",
+   "subreddit": "lowereastside",
+   "title": "Tomorrow Friday 10/16/26 7:30PM Standup Comedy at Fort Hamilton Distillery (Industry City, Brooklyn)",
+   "score": 0,
+   "comments": 0,
+   "url": "https://www.reddit.com/r/lowereastside/comments/1x6q8f1/tomorrow_friday_101626_730pm_standup_comedy_at/",
+   "venues_mentioned": [],
+   "when_mentioned": "Friday 10/16/26 7:30PM Standup Comedy at Fort ",
+   "time_mentioned": "7:30PM",
+   "links": [],
+   "free": false,
+   "new_since_last_run": true,
+   "excerpt": ""
   },
   {
    "id": "1x688c7",
    "date": "2026-10-15",
    "subreddit": "Bushwick",
    "title": "Need a \"Community display\"?",
-   "score": 0,
+   "score": 4,
    "comments": 0,
    "url": "https://www.reddit.com/r/Bushwick/comments/1x688c7/need_a_community_display/",
    "venues_mentioned": [],
@@ -59,8 +91,40 @@
     "http://cd.randomswan.com"
    ],
    "free": true,
-   "new_since_last_run": true,
+   "new_since_last_run": false,
    "excerpt": "Hola Y'all I’m supposed to be applying for more jobs, but I haven’t been sleeping much lately, so naturally I’ve appointed myself head of making silly things at 3 a.m instead. Among the latest: A dot matrix community display (or \"party\" screen). Hosting a gathering?...Having an a"
+  },
+  {
+   "id": "1x6q8ki",
+   "date": "2026-10-15",
+   "subreddit": "parkslope",
+   "title": "Tomorrow Friday 10/16/26 7:30PM Standup Comedy at Fort Hamilton Distillery (Industry City, Brooklyn)",
+   "score": 2,
+   "comments": 0,
+   "url": "https://www.reddit.com/r/parkslope/comments/1x6q8ki/tomorrow_friday_101626_730pm_standup_comedy_at/",
+   "venues_mentioned": [],
+   "when_mentioned": "Friday 10/16/26 7:30PM Standup Comedy at Fort ",
+   "time_mentioned": "7:30PM",
+   "links": [],
+   "free": false,
+   "new_since_last_run": true,
+   "excerpt": ""
+  },
+  {
+   "id": "1x6q91k",
+   "date": "2026-10-15",
+   "subreddit": "Greenpoint",
+   "title": "Tomorrow Friday 10/16/26 7:30PM Standup Comedy at Fort Hamilton Distillery (Industry City, Brooklyn)",
+   "score": 1,
+   "comments": 0,
+   "url": "https://www.reddit.com/r/Greenpoint/comments/1x6q91k/tomorrow_friday_101626_730pm_standup_comedy_at/",
+   "venues_mentioned": [],
+   "when_mentioned": "Friday 10/16/26 7:30PM Standup Comedy at Fort ",
+   "time_mentioned": "7:30PM",
+   "links": [],
+   "free": false,
+   "new_since_last_run": true,
+   "excerpt": ""
   },
   {
    "id": "1x5zew9",
@@ -75,7 +139,7 @@
    "time_mentioned": null,
    "links": [],
    "free": false,
-   "new_since_last_run": true,
+   "new_since_last_run": false,
    "excerpt": ""
   },
   {
@@ -95,7 +159,7 @@
     "https://broadwaymagichour.com"
    ],
    "free": false,
-   "new_since_last_run": true,
+   "new_since_last_run": false,
    "excerpt": "Bring the kids, bring the whole family to NYC's #1 family-friendly magic show this Saturday at 2pm at the historic Broadway Comedy Club in Times Square. Starring Jim Vines (Penn &amp; Teller: Fool Us), and Carl Mercurio (Mohegan Sun), this 1-hour show features jaw-dropping magic,"
   },
   {
@@ -103,8 +167,8 @@
    "date": "2026-10-14",
    "subreddit": "crownheights",
    "title": "Crown Heights Events Thread 10/14-10/20",
-   "score": 20,
-   "comments": 3,
+   "score": 37,
+   "comments": 6,
    "url": "https://www.reddit.com/r/crownheights/comments/1x5zih7/crown_heights_events_thread_10141020/",
    "venues_mentioned": [],
    "when_mentioned": "Sunday](https://anotherworld",
@@ -115,7 +179,7 @@
     "https://www.fnlbk.com/upcoming/2026/10/14/pickup-line-queer-line-dancing"
    ],
    "free": true,
-   "new_since_last_run": true,
+   "new_since_last_run": false,
    "excerpt": "Here are some things happening in our neck of the woods this week. Enjoy this weather while it lasts (in between rain showers!) Feel free to post more events in the comments below and they'll be added to the list. *Wed 10/14* * 7-8:30pm - [Author Talk: \"You Are What You See\" with"
   },
   {
@@ -123,7 +187,7 @@
    "date": "2026-10-14",
    "subreddit": "BedStuy",
    "title": "Need a Community Display?",
-   "score": 8,
+   "score": 7,
    "comments": 0,
    "url": "https://www.reddit.com/r/BedStuy/comments/1x60jok/need_a_community_display/",
    "venues_mentioned": [],
@@ -133,7 +197,7 @@
     "http://cd.randomswan.com"
    ],
    "free": true,
-   "new_since_last_run": true,
+   "new_since_last_run": false,
    "excerpt": "Hola Y'all I’m supposed to be applying for more jobs, but I haven’t been sleeping much lately, so naturally I’ve appointed myself head of making silly things at 3 a.m instead. Among the latest: A dot matrix community display (or \"party\" screen). Hosting a gathering?...Having an a"
   },
   {
@@ -273,7 +337,7 @@
    "date": "2026-10-13",
    "subreddit": "lowereastside",
    "title": "Packed comedy shows are more fun and there's just 12 seats left for THURS 10/15, so plz come &amp; help make this our 3rd sold-out show in a row! • Great comics (comedian bios at link) + a one-in-35 chance your bar tab gets paid for. No drink min. Fun vibe. Whiskey Cellar-77 East 7 St . $12",
-   "score": 5,
+   "score": 3,
    "comments": 0,
    "url": "https://www.reddit.com/r/lowereastside/comments/1x596g3/packed_comedy_shows_are_more_fun_and_theres_just/",
    "venues_mentioned": [],
@@ -291,7 +355,7 @@
    "date": "2026-10-13",
    "subreddit": "lowereastside",
    "title": "Come join us for some Live Magic -- this Friday 930pm!",
-   "score": 2,
+   "score": 1,
    "comments": 0,
    "url": "https://www.reddit.com/r/lowereastside/comments/1x55ols/come_join_us_for_some_live_magic_this_friday_930pm/",
    "venues_mentioned": [
@@ -311,7 +375,7 @@
    "date": "2026-10-13",
    "subreddit": "lowereastside",
    "title": "Comedy Show inside a Ludlow St GYM this Saturday 10/17!",
-   "score": 5,
+   "score": 6,
    "comments": 0,
    "url": "https://www.reddit.com/r/lowereastside/comments/1x4zshz/comedy_show_inside_a_ludlow_st_gym_this_saturday/",
    "venues_mentioned": [],
@@ -371,7 +435,7 @@
    "date": "2026-10-12",
    "subreddit": "AskNYC",
    "title": "Comedy clubs that run decent shows midweek nights?",
-   "score": 10,
+   "score": 11,
    "comments": 16,
    "url": "https://www.reddit.com/r/AskNYC/comments/1x3qn1e/comedy_clubs_that_run_decent_shows_midweek_nights/",
    "venues_mentioned": [],
@@ -437,7 +501,7 @@
    "date": "2026-10-11",
    "subreddit": "lowereastside",
    "title": "Sat 10/31 · Caveat on Clinton St: Catbaret’s Meowloween, a cat-themed Halloween variety show",
-   "score": 6,
+   "score": 5,
    "comments": 1,
    "url": "https://www.reddit.com/r/lowereastside/comments/1x3amap/sat_1031_caveat_on_clinton_st_catbarets/",
    "venues_mentioned": [
@@ -509,7 +573,7 @@
    "date": "2026-10-10",
    "subreddit": "astoria",
    "title": "Comedy show at QED tonight. I have a handful of tickets to give away if anyone is interested.",
-   "score": 6,
+   "score": 7,
    "comments": 2,
    "url": "https://www.reddit.com/r/astoria/comments/1x2kbs0/comedy_show_at_qed_tonight_i_have_a_handful_of/",
    "venues_mentioned": [],
@@ -525,7 +589,7 @@
    "date": "2026-10-10",
    "subreddit": "eastvillage",
    "title": "Rule 6 Amended Following Community Vote",
-   "score": 6,
+   "score": 7,
    "comments": 0,
    "url": "https://www.reddit.com/r/eastvillage/comments/1x24nl1/rule_6_amended_following_community_vote/",
    "venues_mentioned": [],
@@ -602,7 +666,7 @@
    "date": "2026-10-09",
    "subreddit": "astoria",
    "title": "Free comedy show tonight at the newly renamed Gaf Astoria!",
-   "score": 5,
+   "score": 4,
    "comments": 2,
    "url": "https://www.reddit.com/r/astoria/comments/1x1pzua/free_comedy_show_tonight_at_the_newly_renamed_gaf/",
    "venues_mentioned": [],
@@ -652,7 +716,7 @@
    "date": "2026-10-09",
    "subreddit": "crownheights",
    "title": "TONIGHT! OPEN MIC!",
-   "score": 12,
+   "score": 10,
    "comments": 0,
    "url": "https://www.reddit.com/r/crownheights/comments/1x1rhob/tonight_open_mic/",
    "venues_mentioned": [],
@@ -706,7 +770,7 @@
    "date": "2026-10-07",
    "subreddit": "astoria",
    "title": "Hey gang — immigrant Astorian here. My work permit expires next week and I lose my job. So I’m doing a comedy show tomorrow to make some money.",
-   "score": 112,
+   "score": 115,
    "comments": 42,
    "url": "https://www.reddit.com/r/astoria/comments/1x05q3j/hey_gang_immigrant_astorian_here_my_work_permit/",
    "venues_mentioned": [
@@ -727,7 +791,7 @@
    "date": "2026-10-07",
    "subreddit": "crownheights",
    "title": "Crown Heights Events Thread 10/7-10/13",
-   "score": 14,
+   "score": 16,
    "comments": 1,
    "url": "https://www.reddit.com/r/crownheights/comments/1x06x0u/crown_heights_events_thread_1071013/",
    "venues_mentioned": [],
@@ -847,7 +911,7 @@
    "date": "2026-10-04",
    "subreddit": "williamsburg",
    "title": "Tonight!!! Comedy Hoedown at Bar Freda",
-   "score": 9,
+   "score": 8,
    "comments": 2,
    "url": "https://www.reddit.com/r/williamsburg/comments/1wxgqii/tonight_comedy_hoedown_at_bar_freda/",
    "venues_mentioned": [
@@ -889,7 +953,7 @@
    "date": "2026-10-04",
    "subreddit": "crownheights",
    "title": "TONIGHT! Free Comedy @ Bar Bayeux!",
-   "score": 1,
+   "score": 2,
    "comments": 0,
    "url": "https://www.reddit.com/r/crownheights/comments/1wxk7ps/tonight_free_comedy_bar_bayeux/",
    "venues_mentioned": [],
@@ -965,7 +1029,7 @@
    "date": "2026-10-02",
    "subreddit": "Bushwick",
    "title": "THIS SUNDAY Ebony Moore &amp; Friends Comedy Hoedown at Bar Freda",
-   "score": 5,
+   "score": 4,
    "comments": 0,
    "url": "https://www.reddit.com/r/Bushwick/comments/1ww48od/this_sunday_ebony_moore_friends_comedy_hoedown_at/",
    "venues_mentioned": [
@@ -977,62 +1041,6 @@
    "free": false,
    "new_since_last_run": false,
    "excerpt": ""
-  },
-  {
-   "id": "1wv18up",
-   "date": "2026-10-01",
-   "subreddit": "nycComedy",
-   "title": "Selling 2 tickets for Jorge Cremades",
-   "score": 1,
-   "comments": 0,
-   "url": "https://www.reddit.com/r/nycComedy/comments/1wv18up/selling_2_tickets_for_jorge_cremades/",
-   "venues_mentioned": [
-    "Broadway Comedy Club"
-   ],
-   "when_mentioned": null,
-   "time_mentioned": "9 pm",
-   "links": [],
-   "free": false,
-   "new_since_last_run": false,
-   "excerpt": "Hi! I have 2 tickets worth $60 for tonight Oct 1st 9 pm Broadway comedy club for Spanish comedian Jorge Cremades I cannot attend. Selling for $30 DM please "
-  },
-  {
-   "id": "1wv3fh3",
-   "date": "2026-10-01",
-   "subreddit": "williamsburg",
-   "title": "See one of the bad Hellraisers get roasted at a local horror comedy show this weekend",
-   "score": 1,
-   "comments": 0,
-   "url": "https://www.reddit.com/r/williamsburg/comments/1wv3fh3/see_one_of_the_bad_hellraisers_get_roasted_at_a/",
-   "venues_mentioned": [
-    "Flop House Comedy"
-   ],
-   "when_mentioned": "Sunday, 10/4, at 7 PM WHERE: Flop House Comedy",
-   "time_mentioned": "7 PM",
-   "links": [
-    "https://flophousecomedy.com/d4746cdc-a0b5-45ce-b897-afcb896b1851/event/214c9adc-5918-4a6c-be6e-721ca4465c3e"
-   ],
-   "free": false,
-   "new_since_last_run": false,
-   "excerpt": "See one of the most baffling sequels in the Hellraiser franchise with live commentary from some of NYC’s most entertaining comedians at Scream Scene’s horror comedy show Die Laughing. WHAT: A screening of Hellraiser: Hellworld with live comedian commentary WHEN: This Sunday, 10/4"
-  },
-  {
-   "id": "1wvcmlg",
-   "date": "2026-10-01",
-   "subreddit": "astoria",
-   "title": "Stand Up Show @ QED Tomorrow 10/2!",
-   "score": 7,
-   "comments": 0,
-   "url": "https://www.reddit.com/r/astoria/comments/1wvcmlg/stand_up_show_qed_tomorrow_102/",
-   "venues_mentioned": [],
-   "when_mentioned": null,
-   "time_mentioned": null,
-   "links": [
-    "https://www.instagram.com/jfinnegancomedy/?hl=en"
-   ],
-   "free": false,
-   "new_since_last_run": false,
-   "excerpt": "I'm a stand-up headlining QED tomorrow and just trying to fill some seats. You can find me [@jfinnegancomedy](https://www.instagram.com/jfinnegancomedy/?hl=en) on Instagram if you want to check out my stuff and see that I'm at least not fully crazy. Hope to see some of the neighb"
   }
  ]
 }
