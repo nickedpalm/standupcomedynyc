@@ -309,3 +309,19 @@ Generated from `npm run heat` + `npm run research-plan` (last30days for the 2 na
 
 ### Ranked on schedule alone (no recent data, ranked by show date)
 - All 35 skipped performers are outside the top 10 by cheap ranking or outside the 10-day window. The closest new pick name to a decision is Headlining Alex Giampapa (Eastville Sat 10/17, 2 days out, priority 30 from second-show signal) — the run was made and the result was noise; the pick stands on the room's calendar page. The new W6 headliners (Jacqueline Novak Bell House, Opey Union Hall) are 30+ days out and skipped by the 10-day window rule; both picks stand on the show pages alone.
+2026-10-17 daily edition
+- Ranked 41 performers; **ran 4** (Kendall Farrell, Johnny Pemberton, Michelle Buteau, Asif Ali); **reused 1** (Headlining Alex Giampapa, 2d ago); **skipped 36** (outside the 10-day window or below the cheap-rank threshold); **~333,000 tokens saved**.
+- All 4 RUN names returned only name-collision / topical-pickup noise on Reddit and zero hits on HN — the picks stand on the room, the artwork, the bill or the show-page description, not on chatter.
+
+### Run notes
+- **Kendall Farrell** (Littlefield Sun 10/18, 7pm doors 6pm, $18.71; heat 35 from second-show-signal): only one dated Reddit thread in 30 days — a r/burlington Vermont community-events listing, 10 upvotes, no Littlefield-specific push. Pick stands on the room and the special-taping framing, not on online chatter. Cached for 7d.
+- **Johnny Pemberton** (Bell House Sun 10/18, 7:30pm, $24.36): Reddit rate-limited on this run (HTTP 429), HN returned zero items. No usable chatter on this topic today; pick stands on Bell House's weekend slot rather than the name's online footprint. Cached for 7d.
+- **Michelle Buteau** (Bell House Mon 10/19, 7:30pm, $44.76): Reddit 2 dated threads (4 upvotes total, r/TheGist + r/NYCmissedconnections — topical pick-up, not tour push); HN empty. Pick stands on her continued Netflix / Survival of the Thickest profile and the room, not on chatter. Cached for 7d.
+- **Asif Ali** (Bell House Sat 10/17 tonight, 7:30pm, $24.36; heat 10): Reddit 4 dated threads in 30 days (1,428 upvotes total) but the toplines all live in r/indiadiscussion, r/pakistan and r/GenZpk — name-collision traffic with the political commentator Asif Ali / Ali Xain, not the comedian. HN empty. Pick stands on the Netflix specials, the Last Week Tonight writing room, and the artist's own credit, not on chatter. Cached for 7d.
+
+### Reuse notes (already cached under 7d)
+- **Headlining Alex Giampapa** (cached 2d ago, Oct 15): No online footprint in 30d; HN/Reddit returned only name-collision noise (Alex Gibney, Alex Honnold). Eastville Sat 10/17 is the room's Saturday 10pm showcase — pick on the room and the weekend slot, not on buzz.
+
+### Ranked on schedule alone (no recent data, ranked by show date)
+- All 36 skipped performers are outside the top 10 by cheap ranking or outside the 10-day window. The 3 new picks this session (Nico Carney Union Hall Thu 10/22, Pachelbel Rant 20th Anniversary Caveat Mon 11/23, Story Warz NYCC Wed 11/25) are outside the 10-day window or sit below the cheap-rank threshold, so the plan skipped them; the picks stand on the show pages alone.
+- The 3 RUN names that have already-pickable Reddit return (Kendall Farrell, Michelle Buteau, Johnny Pemberton) all returned topical pickup / name-collision traffic — none of it comedian-specific — so the previous caches hold and no fresh note needs to age past this 7-day window.
