@@ -801,7 +801,7 @@
  },
  {
   "event_id": "johnny-pemberton-2026-10-18",
-  "src": "/assets/posters/johnny-pemberton-2026-10-18.jpg",
+  "src": "/assets/posters/archive/johnny-pemberton-2026-10-18.jpg",
   "width": 640,
   "height": 427,
   "source_url": "https://www.ticketmaster.com/johnny-pemberton-brooklyn-new-york-10-18-2026/event/300064D80B17B935",
@@ -812,7 +812,8 @@
   "retrieved_at": "2026-09-15",
   "bytes": 68813,
   "sha256": "TBD",
-  "reuse_status": "Official promotional artwork from the show's Ticketmaster listing; no separate reuse license identified. Site display with credit only."
+  "reuse_status": "Official promotional artwork from the show's Ticketmaster listing; no separate reuse license identified. Site display with credit only.",
+  "archived": true
  },
  {
   "event_id": "michelle-buteau-2026-10-19",
@@ -1067,7 +1068,7 @@
  },
  {
   "event_id": "kendall-farrell-special-taping-littlefield-2026-10-18",
-  "src": "/assets/posters/kendall-farrell-special-taping-2026-10-18.jpg",
+  "src": "/assets/posters/archive/kendall-farrell-special-taping-2026-10-18.jpg",
   "width": 940,
   "height": 470,
   "source_url": "https://www.eventbrite.com/e/kendall-farrell-standup-comedy-special-taping-tickets-1993612956018",
@@ -1078,7 +1079,8 @@
   "retrieved_at": "2026-09-20",
   "bytes": 108586,
   "sha256": "495417d026944e0ca85c4ff6c15fc25b442dc97e9810f262fc1e9ac84c6631c7",
-  "reuse_status": "Official promotional artwork; no separate reuse license identified. Local review draft only."
+  "reuse_status": "Official promotional artwork; no separate reuse license identified. Local review draft only.",
+  "archived": true
  },
  {
   "event_id": "clean-up-your-act-wscc-2026-10-28",
