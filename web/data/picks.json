@@ -1,35 +1,5 @@
 [
  {
-  "id": "michelle-buteau-2026-10-19",
-  "title": "Michelle Buteau",
-  "date": "2026-10-19",
-  "starts_at": "2026-10-19T19:30:00-04:00",
-  "ends_at": "2026-10-19T22:00:00-04:00",
-  "end_time_confirmed": false,
-  "time_label": "7:30pm",
-  "venue": "The Bell House",
-  "neighborhood": "Gowanus",
-  "price_amount": null,
-  "price_label": "See ticket page for price",
-  "ticket_url": "https://www.ticketmaster.com/michelle-buteau-brooklyn-new-york-10-19-2026/event/300064BACFE08BB7",
-  "source_url": "https://www.thebellhouseny.com/",
-  "verified_at": "2026-10-08",
-  "description": "Michelle Buteau returns to the Bell House for another Monday night \u2014 a third engagement in a run that keeps the room sold out and the audience loud.",
-  "tier": "special",
-  "featured": false,
-  "poster": {
-   "src": "/assets/posters/michelle-buteau-2026-10-19.jpg",
-   "width": 640,
-   "height": 427,
-   "source_url": "https://www.ticketmaster.com/michelle-buteau-brooklyn-new-york-10-19-2026/event/300064BACFE08BB7",
-   "credit": "Artwork: The Bell House / show organizer",
-   "alt": "Michelle Buteau at The Bell House promotional artwork.",
-   "kind": "dated event flyer"
-  },
-  "demand": null,
-  "demand_checked": "2026-10-19"
- },
- {
   "id": "david-cross-benefit-2026-10-20",
   "title": "A Benefit for Little Essentials with David Cross & Friends",
   "date": "2026-10-20",
@@ -44,7 +14,7 @@
   "ticket_url": "https://www.ticketmaster.com/a-benefit-for-little-essentials-with-brooklyn-new-york-10-20-2026/event/30006512E9FA7FBD",
   "source_url": "https://www.thebellhouseny.com/",
   "verified_at": "2026-10-08",
-  "description": "David Cross & Friends headline a benefit for Little Essentials \u2014 a Brooklyn nonprofit providing baby gear to families in need. Tickets are donations to the cause.",
+  "description": "David Cross & Friends headline a benefit for Little Essentials — a Brooklyn nonprofit providing baby gear to families in need. Tickets are donations to the cause.",
   "tier": "special",
   "featured": false,
   "poster": {
@@ -57,7 +27,7 @@
    "kind": "dated event flyer"
   },
   "demand": null,
-  "demand_checked": "2026-10-19"
+  "demand_checked": "2026-10-20"
  },
  {
   "id": "brett-goldstein-2026-10-21",
@@ -74,7 +44,7 @@
   "ticket_url": "https://www.ticketmaster.com/brett-goldstein-runs-his-hour-before-brooklyn-new-york-10-21-2026/event/300064E6E5A07BB8",
   "source_url": "https://www.thebellhouseny.com/",
   "verified_at": "2026-10-08",
-  "description": "Brett Goldstein (Ted Lasso, Shrinking) works out his next tour hour at the Bell House \u2014 the kind of pre-tour warm-up that's worth catching once.",
+  "description": "Brett Goldstein (Ted Lasso, Shrinking) works out his next tour hour at the Bell House — the kind of pre-tour warm-up that's worth catching once.",
   "tier": "special",
   "featured": false,
   "poster": {
@@ -87,7 +57,7 @@
    "kind": "dated event flyer"
   },
   "demand": null,
-  "demand_checked": "2026-10-19"
+  "demand_checked": "2026-10-20"
  },
  {
   "id": "invisible-architecture-charlie-flynn-union-hall-2026-10-21",
@@ -104,7 +74,7 @@
   "ticket_url": "https://www.eventbrite.com/e/invisible-architecture-an-evening-of-comedy-with-charlie-flynn-tickets-2002602784838",
   "source_url": "https://www.eventbrite.com/e/invisible-architecture-an-evening-of-comedy-with-charlie-flynn-tickets-2002602784838",
   "verified_at": "2026-10-15",
-  "description": "Charlie Flynn hosts Invisible Architecture at Union Hall with Cat Cohen, Malik Elassal, Edy Modica, and Wils Pelton doing stand-up between premiere videos from Richie Raymond and Meredith Dietz \u2014 the kind of mixed-format Wednesday that works best when the line-up is the punchline.",
+  "description": "Charlie Flynn hosts Invisible Architecture at Union Hall with Cat Cohen, Malik Elassal, Edy Modica, and Wils Pelton doing stand-up between premiere videos from Richie Raymond and Meredith Dietz — the kind of mixed-format Wednesday that works best when the line-up is the punchline.",
   "tier": "special",
   "featured": false,
   "poster": {
@@ -117,7 +87,7 @@
    "kind": "dated event flyer"
   },
   "demand": null,
-  "demand_checked": "2026-10-19"
+  "demand_checked": "2026-10-20"
  },
  {
   "id": "laughs-in-the-east-eastville-2026-10-21",
@@ -134,11 +104,11 @@
   "ticket_url": "https://www.eastvillecomedy.com/events/laughs-in-the-east-29",
   "source_url": "https://www.eastvillecomedy.com/calendar/2026-10",
   "verified_at": "2026-10-08",
-  "description": "Eastville's weekly Wednesday stand-up showcase \u2014 Brooklyn's oldest comedy club with a rotating lineup of working comics.",
+  "description": "Eastville's weekly Wednesday stand-up showcase — Brooklyn's oldest comedy club with a rotating lineup of working comics.",
   "tier": "special",
   "featured": false,
   "demand": null,
-  "demand_checked": "2026-10-19"
+  "demand_checked": "2026-10-20"
  },
  {
   "id": "jaime-ferraro-wscc-2026-10-21",
@@ -155,15 +125,15 @@
   "ticket_url": "https://www.westsidecomedyclub.com/calendar",
   "source_url": "https://www.westsidecomedyclub.com/calendar",
   "verified_at": "2026-10-08",
-  "description": "Jaime Ferraro headlines the West Side Comedy Club midweek slot \u2014 a bilingual New York set with the energy of his viral clips.",
+  "description": "Jaime Ferraro headlines the West Side Comedy Club midweek slot — a bilingual New York set with the energy of his viral clips.",
   "tier": "special",
   "featured": false,
   "demand": null,
-  "demand_checked": "2026-10-19"
+  "demand_checked": "2026-10-20"
  },
  {
   "id": "laugh-charity-ms-wscc-2026-10-22",
-  "title": "Laugh! It's for Charity! \u2014 A Comedy Benefit for the National MS Society",
+  "title": "Laugh! It's for Charity! — A Comedy Benefit for the National MS Society",
   "date": "2026-10-22",
   "starts_at": "2026-10-22T19:00:00-04:00",
   "ends_at": "2026-10-22T21:00:00-04:00",
@@ -176,11 +146,11 @@
   "ticket_url": "https://www.westsidecomedyclub.com/calendar",
   "source_url": "https://www.westsidecomedyclub.com/calendar",
   "verified_at": "2026-10-08",
-  "description": "A benefit for the National MS Society at West Side Comedy Club \u2014 a full lineup of working NYC comics giving their time to a good cause.",
+  "description": "A benefit for the National MS Society at West Side Comedy Club — a full lineup of working NYC comics giving their time to a good cause.",
   "tier": "special",
   "featured": false,
   "demand": null,
-  "demand_checked": "2026-10-19"
+  "demand_checked": "2026-10-20"
  },
  {
   "id": "nico-carney-union-hall-2026-10-22",
@@ -197,7 +167,7 @@
   "ticket_url": "https://www.eventbrite.com/e/nico-carney-live-tickets-1999636040225",
   "source_url": "https://www.eventbrite.com/e/nico-carney-live-tickets-1999636040225",
   "verified_at": "2026-10-17",
-  "description": "Nico Carney \u2014 who just taped his debut hour \u2014 is back on the work-in-progress circuit with a Thursday set at Union Hall. The 90-minute room is built for someone trying new framing at a manageable scale; bring a friend who likes your rougher drafts.",
+  "description": "Nico Carney — who just taped his debut hour — is back on the work-in-progress circuit with a Thursday set at Union Hall. The 90-minute room is built for someone trying new framing at a manageable scale; bring a friend who likes your rougher drafts.",
   "tier": "special",
   "featured": false,
   "poster": {
@@ -206,11 +176,11 @@
    "height": 940,
    "source_url": "https://www.eventbrite.com/e/nico-carney-live-tickets-1999636040225",
    "credit": "Artwork: Union Hall / Eventbrite",
-   "alt": "Nico Carney Live! at Union Hall \u2014 October 22.",
+   "alt": "Nico Carney Live! at Union Hall — October 22.",
    "kind": "dated event flyer"
   },
   "demand": null,
-  "demand_checked": "2026-10-19"
+  "demand_checked": "2026-10-20"
  },
  {
   "id": "stand-up-shenanigans-eastville-2026-10-22",
@@ -227,15 +197,15 @@
   "ticket_url": "https://www.eastvillecomedy.com/events/stand-up-shenanigans-17",
   "source_url": "https://www.eastvillecomedy.com/calendar/2026-10",
   "verified_at": "2026-10-08",
-  "description": "Eastville's Thursday weekend-warmup showcase \u2014 a fresh early-evening lineup of working NYC comics.",
+  "description": "Eastville's Thursday weekend-warmup showcase — a fresh early-evening lineup of working NYC comics.",
   "tier": "special",
   "featured": false,
   "demand": null,
-  "demand_checked": "2026-10-19"
+  "demand_checked": "2026-10-20"
  },
  {
   "id": "yang-mengen-youngmoon-renegade-town-hall-2026-10-22",
-  "title": "Yang Mengen (youngmoon): Stand Up Comedy Special \u2014 Renegade",
+  "title": "Yang Mengen (youngmoon): Stand Up Comedy Special — Renegade",
   "date": "2026-10-22",
   "starts_at": "2026-10-22T20:00:00-04:00",
   "ends_at": "2026-10-22T22:00:00-04:00",
@@ -251,7 +221,7 @@
   "description": "Yang Mengen, performing as youngmoon, brings his new stand-up special Renegade to Town Hall.",
   "tier": "special",
   "demand": null,
-  "demand_checked": "2026-10-19"
+  "demand_checked": "2026-10-20"
  },
  {
   "id": "brooklyn-power-hour-eastville-2026-10-23",
@@ -268,11 +238,11 @@
   "ticket_url": "https://www.eastvillecomedy.com/events/brooklyn-power-hour-11",
   "source_url": "https://www.eastvillecomedy.com/calendar/2026-10",
   "verified_at": "2026-10-08",
-  "description": "Brooklyn Power Hour is the Friday 6pm happy-hour showcase at Eastville \u2014 an early set to loosen the week before the prime-time room opens.",
+  "description": "Brooklyn Power Hour is the Friday 6pm happy-hour showcase at Eastville — an early set to loosen the week before the prime-time room opens.",
   "tier": "special",
   "featured": false,
   "demand": null,
-  "demand_checked": "2026-10-19"
+  "demand_checked": "2026-10-20"
  },
  {
   "id": "sydnee-washington-2026-10-23",
@@ -289,7 +259,7 @@
   "ticket_url": "https://www.ticketmaster.com/sydnee-washington-my-black-barbie-story-brooklyn-new-york-10-23-2026/event/300065273C85AE0A",
   "source_url": "https://www.thebellhouseny.com/",
   "verified_at": "2026-10-08",
-  "description": "Sydnee Washington headlines the Bell House with My Black Barbie Story \u2014 a sharp, joyful new hour from one of NYC's most reliable club comics.",
+  "description": "Sydnee Washington headlines the Bell House with My Black Barbie Story — a sharp, joyful new hour from one of NYC's most reliable club comics.",
   "tier": "special",
   "featured": false,
   "poster": {
@@ -302,7 +272,7 @@
    "kind": "dated event flyer"
   },
   "demand": null,
-  "demand_checked": "2026-10-19"
+  "demand_checked": "2026-10-20"
  },
  {
   "id": "saturday-night-live-comedy-eastville-2026-10-24",
@@ -319,11 +289,11 @@
   "ticket_url": "https://www.eastvillecomedy.com/events/saturday-standup-live-2026-10-24180000",
   "source_url": "https://www.eastvillecomedy.com/calendar/2026-10",
   "verified_at": "2026-10-08",
-  "description": "Eastville's early-Saturday show \u2014 a stacked lineup of NYC's best comics to start the weekend, before the prime-time room lights up.",
+  "description": "Eastville's early-Saturday show — a stacked lineup of NYC's best comics to start the weekend, before the prime-time room lights up.",
   "tier": "special",
   "featured": false,
   "demand": null,
-  "demand_checked": "2026-10-19"
+  "demand_checked": "2026-10-20"
  },
  {
   "id": "robyn-and-friends-wscc-2026-10-25",
@@ -340,11 +310,11 @@
   "ticket_url": "https://www.westsidecomedyclub.com/calendar",
   "source_url": "https://www.westsidecomedyclub.com/calendar",
   "verified_at": "2026-10-08",
-  "description": "Robyn & \"Friends\" \u2014 a Sunday night variety showcase at West Side Comedy Club with a stacked guest list.",
+  "description": "Robyn & \"Friends\" — a Sunday night variety showcase at West Side Comedy Club with a stacked guest list.",
   "tier": "special",
   "featured": false,
   "demand": null,
-  "demand_checked": "2026-10-19"
+  "demand_checked": "2026-10-20"
  },
  {
   "id": "sunday-night-comedy-eastville-2026-10-25",
@@ -361,11 +331,11 @@
   "ticket_url": "https://www.eastvillecomedy.com/events/sunday-night-comedy-30",
   "source_url": "https://www.eastvillecomedy.com/calendar/2026-10",
   "verified_at": "2026-10-08",
-  "description": "Eastville's weekly Sunday comedy night \u2014 a single-set closer for the weekend, no fixed headline, just the room's best lineup.",
+  "description": "Eastville's weekly Sunday comedy night — a single-set closer for the weekend, no fixed headline, just the room's best lineup.",
   "tier": "special",
   "featured": false,
   "demand": null,
-  "demand_checked": "2026-10-19"
+  "demand_checked": "2026-10-20"
  },
  {
   "id": "sarah-silverman-streicker-2026-10-26",
@@ -378,11 +348,11 @@
   "venue": "Temple Emanu-El Streicker Center",
   "neighborhood": "Upper East Side",
   "price_amount": 40,
-  "price_label": "From $40 (general) \u00b7 $100 reserved \u00b7 $500 VIP",
+  "price_label": "From $40 (general) · $100 reserved · $500 VIP",
   "ticket_url": "https://silverman_ip.eventbrite.com/",
   "source_url": "https://streicker.nyc/event/silverman/",
   "verified_at": "2026-10-08",
-  "description": "Sarah Silverman brings a Jewish-joy evening of story and stand-up to the Streicker Center \u2014 the late-October pick worth the ticket window.",
+  "description": "Sarah Silverman brings a Jewish-joy evening of story and stand-up to the Streicker Center — the late-October pick worth the ticket window.",
   "tier": "special",
   "featured": false,
   "poster": {
@@ -395,7 +365,7 @@
    "kind": "dated event flyer"
   },
   "demand": null,
-  "demand_checked": "2026-10-19"
+  "demand_checked": "2026-10-20"
  },
  {
   "id": "mark-simmons-jest-to-impress-soho-playhouse-2026-10-27",
@@ -404,7 +374,7 @@
   "starts_at": "2026-10-27T19:00:00-04:00",
   "ends_at": "2026-10-27T20:00:00-04:00",
   "end_time_confirmed": true,
-  "time_label": "7pm \u00b7 60 minutes",
+  "time_label": "7pm · 60 minutes",
   "venue": "SoHo Playhouse",
   "neighborhood": "SoHo",
   "price_amount": null,
@@ -412,11 +382,11 @@
   "ticket_url": "https://ci.ovationtix.com/35583/production/1280299",
   "source_url": "https://www.sohoplayhouse.com/see-a-show/mark-simmons-jest-to-impress",
   "verified_at": "2026-10-08",
-  "description": "Mark Simmons, the British one-liner comic whose gag won Dave\u2019s Funniest Joke of the Fringe in 2024, brings a new hour to SoHo Playhouse for a short run through Oct 28. Go for sixty minutes of built jokes from one writer instead of a showcase, and you are out by 8.",
+  "description": "Mark Simmons, the British one-liner comic whose gag won Dave’s Funniest Joke of the Fringe in 2024, brings a new hour to SoHo Playhouse for a short run through Oct 28. Go for sixty minutes of built jokes from one writer instead of a showcase, and you are out by 8.",
   "featured": false,
   "tier": "special",
   "demand": null,
-  "demand_checked": "2026-10-19"
+  "demand_checked": "2026-10-20"
  },
  {
   "id": "ruby-setnik-bell-house-2026-10-27",
@@ -433,7 +403,7 @@
   "ticket_url": "https://www.ticketmaster.com/ruby-setnik-brooklyn-new-york-10-27-2026/event/3000651A4CA7F22F",
   "source_url": "https://www.thebellhouseny.com/shows/calendar/2026-10",
   "verified_at": "2026-10-08",
-  "description": "Ruby Setnik \u2014 Don't Tell and Netflix Introducing alum \u2014 works a Bell House hour off the back of her last set.",
+  "description": "Ruby Setnik — Don't Tell and Netflix Introducing alum — works a Bell House hour off the back of her last set.",
   "tier": "special",
   "poster": {
    "src": "/assets/posters/ruby-setnik-bell-house-2026-10-27.jpg",
@@ -445,7 +415,7 @@
    "kind": "dated event flyer"
   },
   "demand": null,
-  "demand_checked": "2026-10-19"
+  "demand_checked": "2026-10-20"
  },
  {
   "id": "clean-up-your-act-wscc-2026-10-28",
@@ -475,7 +445,7 @@
    "kind": "dated event flyer"
   },
   "demand": null,
-  "demand_checked": "2026-10-19"
+  "demand_checked": "2026-10-20"
  },
  {
   "id": "boo-ha-ha-comedy-in-harlem-2026-10-29",
@@ -484,7 +454,7 @@
   "starts_at": "2026-10-29T20:00:00-04:00",
   "ends_at": "2026-10-29T21:30:00-04:00",
   "end_time_confirmed": false,
-  "time_label": "8pm \u00b7 doors 7pm",
+  "time_label": "8pm · doors 7pm",
   "venue": "Comedy In Harlem",
   "neighborhood": "Harlem",
   "price_amount": 0,
@@ -492,11 +462,11 @@
   "ticket_url": "https://www.comedyinharlem.com/events",
   "source_url": "https://www.comedyinharlem.com/events",
   "verified_at": "2026-10-08",
-  "description": "EngageBX\u2019s Halloween show is free, food and drinks included, with Imagine headlining and Simeon Goodson, Nicky Sunshine and Sofia Angeron on the bill; Sashalyn Medina hosts. A named lineup uptown at no cost is the reason to go. Space is limited, so RSVP early.",
+  "description": "EngageBX’s Halloween show is free, food and drinks included, with Imagine headlining and Simeon Goodson, Nicky Sunshine and Sofia Angeron on the bill; Sashalyn Medina hosts. A named lineup uptown at no cost is the reason to go. Space is limited, so RSVP early.",
   "featured": false,
   "tier": "special",
   "demand": null,
-  "demand_checked": "2026-10-19"
+  "demand_checked": "2026-10-20"
  },
  {
   "id": "megan-botnick-wscc-2026-10-29",
@@ -517,7 +487,7 @@
   "featured": false,
   "tier": "special",
   "demand": null,
-  "demand_checked": "2026-10-19"
+  "demand_checked": "2026-10-20"
  },
  {
   "id": "laughing-lassi-broadway-comedy-club-2026-10-30",
@@ -526,7 +496,7 @@
   "starts_at": "2026-10-30T19:00:00-04:00",
   "ends_at": "2026-10-30T20:30:00-04:00",
   "end_time_confirmed": true,
-  "time_label": "7pm \u00b7 doors 6:15pm",
+  "time_label": "7pm · doors 6:15pm",
   "venue": "Broadway Comedy Club",
   "neighborhood": "Midtown West",
   "price_amount": null,
@@ -538,7 +508,7 @@
   "featured": false,
   "tier": "special",
   "demand": null,
-  "demand_checked": "2026-10-19"
+  "demand_checked": "2026-10-20"
  },
  {
   "id": "nasser-al-rayess-town-hall-2026-10-31",
@@ -555,7 +525,7 @@
   "ticket_url": "https://www.ticketmaster.com/nasser-alrayess-new-york-new-york-10-31-2026/event/03006498C9871877",
   "source_url": "https://www.thetownhall.org/event/nasser-al-rayess",
   "verified_at": "2026-10-08",
-  "description": "Nasser Al-Rayess brings his Habibi Nights tour to Town Hall on Halloween \u2014 the stand-up-and-Arabic-music format that's been filling rooms on his dates.",
+  "description": "Nasser Al-Rayess brings his Habibi Nights tour to Town Hall on Halloween — the stand-up-and-Arabic-music format that's been filling rooms on his dates.",
   "tier": "special",
   "poster": {
    "src": "/assets/posters/nasser-al-rayess-town-hall-2026-10-31.jpg",
@@ -567,7 +537,7 @@
    "kind": "dated event flyer"
   },
   "demand": null,
-  "demand_checked": "2026-10-19"
+  "demand_checked": "2026-10-20"
  },
  {
   "id": "scary-good-comedy-brittany-carney-littlefield-2026-10-31",
@@ -576,7 +546,7 @@
   "starts_at": "2026-10-31T19:30:00-04:00",
   "ends_at": "2026-10-31T22:00:00-04:00",
   "end_time_confirmed": false,
-  "time_label": "7:30pm \u00b7 doors 6:30pm",
+  "time_label": "7:30pm · doors 6:30pm",
   "venue": "Littlefield",
   "neighborhood": "Gowanus",
   "price_amount": null,
@@ -584,7 +554,7 @@
   "ticket_url": "https://littlefieldnyc.com/event/?wfea_eb_id=2000220257635",
   "source_url": "https://littlefieldnyc.com/event/?wfea_eb_id=2000220257635",
   "verified_at": "2026-10-08",
-  "description": "Halloween at Littlefield: Brittany Carney hosts a stand-up night where every comic arrives in costume and runs their set from that character's POV \u2014 Ike Ufomadu, Jenny Zigrino, Shaunak Godkhindi on the lineup, plus an audience costume contest. A weird, fun one for the 31st.",
+  "description": "Halloween at Littlefield: Brittany Carney hosts a stand-up night where every comic arrives in costume and runs their set from that character's POV — Ike Ufomadu, Jenny Zigrino, Shaunak Godkhindi on the lineup, plus an audience costume contest. A weird, fun one for the 31st.",
   "featured": false,
   "tier": "special",
   "poster": {
@@ -597,7 +567,7 @@
    "kind": "dated event flyer"
   },
   "demand": null,
-  "demand_checked": "2026-10-19"
+  "demand_checked": "2026-10-20"
  },
  {
   "id": "sunday-night-comedy-eastville-2026-11-01",
@@ -614,11 +584,11 @@
   "ticket_url": "https://www.eastvillecomedy.com/events/sunday-night-comedy-31",
   "source_url": "https://www.eastvillecomedy.com/events/sunday-night-comedy-31",
   "verified_at": "2026-10-09",
-  "description": "Eastville's weekly Sunday closer \u2014 the 60-seat Boerum Hill room running a single 7:30pm set with the lineup posted week-of, $28 at the door if not gone.",
+  "description": "Eastville's weekly Sunday closer — the 60-seat Boerum Hill room running a single 7:30pm set with the lineup posted week-of, $28 at the door if not gone.",
   "featured": false,
   "tier": "special",
   "demand": null,
-  "demand_checked": "2026-10-19"
+  "demand_checked": "2026-10-20"
  },
  {
   "id": "sam-oh-gay-virgin-bell-house-2026-11-02",
@@ -635,7 +605,7 @@
   "ticket_url": "https://www.ticketmaster.com/sam-oh-the-unbearable-tightness-of-brooklyn-new-york-11-02-2026/event/30006510F8455D96",
   "source_url": "https://www.livenation.com/event/1AYZkf8Gkdzo4Up/sam-oh-the-unbearable-tightness-of-being-gay-virgin",
   "verified_at": "2026-10-09",
-  "description": "Sam Oh's NYC debut \u2014 part stand-up, part storytelling, part pop-concert fantasia on growing up evangelical and then everything else \u2014 with Sabrina Wu opening; a Monday-night Bell House taping ahead of his dates elsewhere.",
+  "description": "Sam Oh's NYC debut — part stand-up, part storytelling, part pop-concert fantasia on growing up evangelical and then everything else — with Sabrina Wu opening; a Monday-night Bell House taping ahead of his dates elsewhere.",
   "featured": false,
   "tier": "special",
   "poster": {
@@ -648,11 +618,11 @@
    "kind": "dated event flyer"
   },
   "demand": null,
-  "demand_checked": "2026-10-19"
+  "demand_checked": "2026-10-20"
  },
  {
   "id": "difficult-people-the-movie-town-hall-2026-11-03",
-  "title": "Difficult People: The Movie \u2014 A Live Table Read",
+  "title": "Difficult People: The Movie — A Live Table Read",
   "date": "2026-11-03",
   "starts_at": "2026-11-03T19:00:00-04:00",
   "ends_at": "2026-11-03T21:00:00-04:00",
@@ -668,7 +638,7 @@
   "description": "Julie Klausner and Billy Eichner stage Difficult People: The Movie as a live table read at Town Hall.",
   "tier": "special",
   "demand": null,
-  "demand_checked": "2026-10-19"
+  "demand_checked": "2026-10-20"
  },
  {
   "id": "please-stay-seated-wscc-2026-11-04",
@@ -685,7 +655,7 @@
   "ticket_url": "https://punchup.live/show/d6cde5bd-1dea-471c-bdbf-f6ffc64f47a2",
   "source_url": "https://www.westsidecomedyclub.com/shows/please-stay-seated",
   "verified_at": "2026-10-09",
-  "description": "A Wednesday-night West Side show built for the room's small-stage energy \u2014 Jimmy Schatz slots his gossip-plus-bits format between real sets from Ben Kirschenbaum, Rachel Williams, Felicia Madison and Olga Namer, so the 75 minutes feel more like a tight hang at a friend's room than a stacked club bill.",
+  "description": "A Wednesday-night West Side show built for the room's small-stage energy — Jimmy Schatz slots his gossip-plus-bits format between real sets from Ben Kirschenbaum, Rachel Williams, Felicia Madison and Olga Namer, so the 75 minutes feel more like a tight hang at a friend's room than a stacked club bill.",
   "tier": "special",
   "featured": false,
   "poster": {
@@ -694,11 +664,11 @@
    "height": 1200,
    "source_url": "https://www.westsidecomedyclub.com/shows/please-stay-seated",
    "credit": "Artwork: West Side Comedy Club / Jimmy Schatz",
-   "alt": "Please Stay Seated at West Side Comedy Club \u2014 November 4.",
+   "alt": "Please Stay Seated at West Side Comedy Club — November 4.",
    "kind": "dated event flyer"
   },
   "demand": null,
-  "demand_checked": "2026-10-19"
+  "demand_checked": "2026-10-20"
  },
  {
   "id": "salma-hindy-10-years-stand-2026-11-04",
@@ -715,7 +685,7 @@
   "ticket_url": "https://www.tixr.com/groups/thestandnyc/events/salma-hindy-10-years-of-stand-up-comedy-203600",
   "source_url": "https://thestandnyc.com/shows/show/13673/2026-11-04-200000-salma-hindy-10-years-of-stand-up-comedy",
   "verified_at": "2026-10-10",
-  "description": "Salma Hindy takes The Stand's Upstairs room with Sabeen Sadiq and Denise Taylor opening \u2014 ten years of material in a tight, table-seated room that suits her set.",
+  "description": "Salma Hindy takes The Stand's Upstairs room with Sabeen Sadiq and Denise Taylor opening — ten years of material in a tight, table-seated room that suits her set.",
   "featured": false,
   "tier": "special",
   "poster": {
@@ -728,7 +698,7 @@
    "kind": "dated event flyer"
   },
   "demand": null,
-  "demand_checked": "2026-10-19"
+  "demand_checked": "2026-10-20"
  },
  {
   "id": "sam-tallent-bell-house-2026-11-05",
@@ -745,11 +715,11 @@
   "ticket_url": "https://www.ticketmaster.com/sam-tallent-brooklyn-new-york-11-05-2026/event/3000648C41FC8C61",
   "source_url": "https://www.thebellhouseny.com/shows/calendar/2026-11",
   "verified_at": "2026-10-10",
-  "description": "Elizabeth, Colorado's Sam Tallent \u2014 two specials on YouTube, a novel (Running the Light), and the Chubby Behemoth podcast \u2014 headlines Bell House. Black, blue, surreal and anti-humor in the room that helped put him on the map.",
+  "description": "Elizabeth, Colorado's Sam Tallent — two specials on YouTube, a novel (Running the Light), and the Chubby Behemoth podcast — headlines Bell House. Black, blue, surreal and anti-humor in the room that helped put him on the map.",
   "featured": false,
   "tier": "special",
   "demand": null,
-  "demand_checked": "2026-10-19"
+  "demand_checked": "2026-10-20"
  },
  {
   "id": "nycf-ziwe-town-hall-2026-11-06",
@@ -769,7 +739,7 @@
   "description": "Ziwe opens NYCF at Town Hall with a sharp, conversation-driving stand-up set.",
   "tier": "special",
   "demand": null,
-  "demand_checked": "2026-10-19"
+  "demand_checked": "2026-10-20"
  },
  {
   "id": "nycf-adam-ray-gramercy-2026-11-06",
@@ -789,7 +759,7 @@
   "description": "Adam Ray opens NYCF at Gramercy Theatre with a night of character work and stand-up.",
   "tier": "special",
   "demand": null,
-  "demand_checked": "2026-10-19"
+  "demand_checked": "2026-10-20"
  },
  {
   "id": "nycf-gayme-show-bmcc-2026-11-06",
@@ -809,7 +779,7 @@
   "description": "Matt Rogers and Dave Mizzoni bring their long-running Gayme Show to BMCC Tribeca PAC for NYCF.",
   "tier": "special",
   "demand": null,
-  "demand_checked": "2026-10-19"
+  "demand_checked": "2026-10-20"
  },
  {
   "id": "nycf-ms-pat-hard-rock-2026-11-06",
@@ -829,7 +799,7 @@
   "description": "Ms. Pat headlines the Hard Rock Hotel New York for the New York Comedy Festival opening weekend.",
   "tier": "special",
   "demand": null,
-  "demand_checked": "2026-10-19"
+  "demand_checked": "2026-10-20"
  },
  {
   "id": "nycf-joanne-mcnally-town-hall-2026-11-07",
@@ -849,7 +819,7 @@
   "description": "Joanne McNally brings Pinotphile, her sold-out hour about wine, weddings, and the chaos of being alive, to Town Hall.",
   "tier": "special",
   "demand": null,
-  "demand_checked": "2026-10-19"
+  "demand_checked": "2026-10-20"
  },
  {
   "id": "nycf-josh-sharp-bell-house-2026-11-08",
@@ -869,7 +839,7 @@
   "description": "Josh Sharp brings An Hour of Crowd Work in the Round to the Bell House for a NYCF matinee.",
   "tier": "special",
   "demand": null,
-  "demand_checked": "2026-10-19"
+  "demand_checked": "2026-10-20"
  },
  {
   "id": "nycf-sarah-sherman-patti-harrison-town-hall-2026-11-08",
@@ -889,7 +859,7 @@
   "description": "Sarah Sherman and Patti Harrison share a Town Hall night as part of the New York Comedy Festival.",
   "tier": "special",
   "demand": null,
-  "demand_checked": "2026-10-19"
+  "demand_checked": "2026-10-20"
  },
  {
   "id": "nycf-marc-maron-beacon-2026-11-08",
@@ -909,7 +879,7 @@
   "description": "Marc Maron brings Yammering Into the Void to the Beacon as part of the New York Comedy Festival.",
   "tier": "special",
   "demand": null,
-  "demand_checked": "2026-10-19"
+  "demand_checked": "2026-10-20"
  },
  {
   "id": "nycf-rainbow-riot-bcc-2026-11-08",
@@ -929,7 +899,7 @@
   "description": "Rainbow Riot, the LGBTQ stand-up showcase hosted by Terrence Lambert, lands at Brooklyn Comedy Collective for NYCF.",
   "tier": "special",
   "demand": null,
-  "demand_checked": "2026-10-19"
+  "demand_checked": "2026-10-20"
  },
  {
   "id": "nycf-stand-up-for-heroes-geffen-2026-11-09",
@@ -949,7 +919,7 @@
   "description": "NYCF s marquee benefit for the Bob Woodruff Foundation, with Jon Stewart, Bruce Springsteen, Hasan Minhaj and others at David Geffen Hall.",
   "tier": "special",
   "demand": null,
-  "demand_checked": "2026-10-19"
+  "demand_checked": "2026-10-20"
  },
  {
   "id": "nycf-eddie-pepitone-union-hall-2026-11-10",
@@ -969,7 +939,7 @@
   "description": "Eddie Pepitone headlines the first of two late-night Union Hall shows for NYCF.",
   "tier": "special",
   "demand": null,
-  "demand_checked": "2026-10-19"
+  "demand_checked": "2026-10-20"
  },
  {
   "id": "nycf-jordan-jensen-beacon-2026-11-12",
@@ -989,7 +959,7 @@
   "description": "Jordan Jensen headlines the Beacon as part of the New York Comedy Festival.",
   "tier": "special",
   "demand": null,
-  "demand_checked": "2026-10-19"
+  "demand_checked": "2026-10-20"
  },
  {
   "id": "nycf-ilana-glazer-beacon-2026-11-13",
@@ -1009,7 +979,7 @@
   "description": "Ilana Glazer headlines the Beacon as part of the New York Comedy Festival.",
   "tier": "special",
   "demand": null,
-  "demand_checked": "2026-10-19"
+  "demand_checked": "2026-10-20"
  },
  {
   "id": "nycf-jess-hilarious-hard-rock-2026-11-13",
@@ -1029,7 +999,7 @@
   "description": "Jess Hilarious brings the Don t Play Wit Me Tour to Hard Rock Hotel New York as part of NYCF.",
   "tier": "special",
   "demand": null,
-  "demand_checked": "2026-10-19"
+  "demand_checked": "2026-10-20"
  },
  {
   "id": "nycf-dropout-improv-kings-2026-11-13",
@@ -1049,7 +1019,7 @@
   "description": "Dropout Improv brings the Dropout TV cast and friends to Kings Theatre for one of NYCF s marquee shows.",
   "tier": "special",
   "demand": null,
-  "demand_checked": "2026-10-19"
+  "demand_checked": "2026-10-20"
  },
  {
   "id": "nycf-moth-comic-relief-town-hall-2026-11-14",
@@ -1069,7 +1039,7 @@
   "description": "The Moth and Comic Relief team up for an afternoon of true stories told live on the Town Hall stage.",
   "tier": "special",
   "demand": null,
-  "demand_checked": "2026-10-19"
+  "demand_checked": "2026-10-20"
  },
  {
   "id": "nycf-daniel-sloss-beacon-2026-11-14",
@@ -1089,7 +1059,7 @@
   "description": "Daniel Sloss brings his new hour Bitter to the Beacon as part of the New York Comedy Festival.",
   "tier": "special",
   "demand": null,
-  "demand_checked": "2026-10-19"
+  "demand_checked": "2026-10-20"
  },
  {
   "id": "nycf-jordan-klepper-town-hall-2026-11-14",
@@ -1109,7 +1079,7 @@
   "description": "Jordan Klepper hosts a NYCF edition of his SH&T Show with comics from the festival at Town Hall.",
   "tier": "special",
   "demand": null,
-  "demand_checked": "2026-10-19"
+  "demand_checked": "2026-10-20"
  },
  {
   "id": "jake-velazquez-special-nycc-2026-11-15",
@@ -1126,7 +1096,7 @@
   "ticket_url": "https://newyorkcomedyclub.com/events/nycf-jake-velazquez-special-taping-2026-11-15170000",
   "source_url": "https://newyorkcomedyclub.com/events/nycf-jake-velazquez-special-taping-2026-11-15170000",
   "verified_at": "2026-10-11",
-  "description": "Jake Velazquez tapes his first comedy special at NYCC Midtown as part of NYCF \u2014 a Riverdale native who's been Jordan Jensen's opener since 2022 (including her Netflix taping Take Me With You) and a regular on the NYCC stage.",
+  "description": "Jake Velazquez tapes his first comedy special at NYCC Midtown as part of NYCF — a Riverdale native who's been Jordan Jensen's opener since 2022 (including her Netflix taping Take Me With You) and a regular on the NYCC stage.",
   "tier": "special",
   "featured": false,
   "poster": {
@@ -1139,7 +1109,7 @@
    "kind": "dated event flyer"
   },
   "demand": null,
-  "demand_checked": "2026-10-19",
+  "demand_checked": "2026-10-20",
   "verification_note": null
  },
  {
@@ -1160,7 +1130,7 @@
   "description": "Mojo Brookzz headlines the Beacon as part of the New York Comedy Festival.",
   "tier": "special",
   "demand": null,
-  "demand_checked": "2026-10-19"
+  "demand_checked": "2026-10-20"
  },
  {
   "id": "matthew-broussard-bell-house-2026-11-15",
@@ -1177,7 +1147,7 @@
   "ticket_url": "https://www.ticketmaster.com/matthew-broussard-brooklyn-new-york-11-15-2026/event/3000650D9FDB3116",
   "source_url": "https://www.livenation.com/event/1AdZZ_8GkULUS7p/matthew-broussard",
   "verified_at": "2026-10-08",
-  "description": "Matthew Broussard has the math-and-meltdowns hour New York is short on \u2014 the Set List and Conan-circuit clean Texas set that earned him Dry Bar and a half-hour before heading to Bell House for two shows on a Sunday.",
+  "description": "Matthew Broussard has the math-and-meltdowns hour New York is short on — the Set List and Conan-circuit clean Texas set that earned him Dry Bar and a half-hour before heading to Bell House for two shows on a Sunday.",
   "featured": false,
   "tier": "special",
   "poster": {
@@ -1190,7 +1160,7 @@
    "kind": "dated event flyer"
   },
   "demand": null,
-  "demand_checked": "2026-10-19"
+  "demand_checked": "2026-10-20"
  },
  {
   "id": "brooklyn-power-hour-eastville-2026-11-16",
@@ -1207,11 +1177,11 @@
   "ticket_url": "https://www.eastvillecomedy.com/events/brooklyn-power-hour-now-on-a-new-night-2026-11-16193000",
   "source_url": "https://www.eastvillecomedy.com/events/brooklyn-power-hour-now-on-a-new-night-2026-11-16193000",
   "verified_at": "2026-10-11",
-  "description": "Eastville's late-happy-hour showcase moved off Fridays this fall \u2014 same four-host rotating lineup, same early slot to keep the night ahead of you, now Monday at 7:30pm with a two-drink minimum.",
+  "description": "Eastville's late-happy-hour showcase moved off Fridays this fall — same four-host rotating lineup, same early slot to keep the night ahead of you, now Monday at 7:30pm with a two-drink minimum.",
   "tier": "special",
   "featured": false,
   "demand": null,
-  "demand_checked": "2026-10-19",
+  "demand_checked": "2026-10-20",
   "verification_note": null
  },
  {
@@ -1229,17 +1199,17 @@
   "ticket_url": "https://newyorkcomedyclub.com/events/jessica-kirson-live-in-new-york-2026-11-17190000",
   "source_url": "https://newyorkcomedyclub.com/events/jessica-kirson-live-in-new-york-2026-11-17190000",
   "verified_at": "2026-10-13",
-  "description": "Jessica Kirson in the early Tuesday set at NYCC Midtown \u2014 the This Week at the Comedy Cellar regular and Robert De Niro's 'The Comedian' consultant, working her character-led bits in front of the 7pm crowd. Premium seating has sold out, but general admission is still on the page; a 9:30pm second show runs the same night.",
+  "description": "Jessica Kirson in the early Tuesday set at NYCC Midtown — the This Week at the Comedy Cellar regular and Robert De Niro's 'The Comedian' consultant, working her character-led bits in front of the 7pm crowd. Premium seating has sold out, but general admission is still on the page; a 9:30pm second show runs the same night.",
   "tier": "special",
   "demand": null,
-  "demand_checked": "2026-10-19",
+  "demand_checked": "2026-10-20",
   "poster": {
    "src": "/assets/posters/jessica-kirson-nycc-2026-11-17.jpg",
    "width": 990,
    "height": 660,
    "source_url": "https://newyorkcomedyclub.com/events/jessica-kirson-live-in-new-york-2026-11-17190000",
    "credit": "Artwork: New York Comedy Club",
-   "alt": "Jessica Kirson Live in New York at NYCC Midtown \u2014 November 17.",
+   "alt": "Jessica Kirson Live in New York at NYCC Midtown — November 17.",
    "kind": "dated event flyer"
   }
  },
@@ -1262,7 +1232,7 @@
   "featured": false,
   "tier": "special",
   "demand": null,
-  "demand_checked": "2026-10-19"
+  "demand_checked": "2026-10-20"
  },
  {
   "id": "stone-and-stone-on-the-road-wscc-2026-11-19",
@@ -1279,7 +1249,7 @@
   "ticket_url": "https://punchup.live/show/dc0fbad9-d765-481a-8a2d-0ff6e8fe79ab",
   "source_url": "https://www.westsidecomedyclub.com/shows/stone-and-stone-on-the-road",
   "verified_at": "2026-10-11",
-  "description": "Stone and Stone \u2014 the NYC half-gay, half-straight identical twin comedy duo with tens of millions of social views and a Last Comic Standing / Comedy Central resume \u2014 stop at West Side on their tour, 75 minutes of viral sketches and new material at a small room where the twins' back-and-forth actually lands.",
+  "description": "Stone and Stone — the NYC half-gay, half-straight identical twin comedy duo with tens of millions of social views and a Last Comic Standing / Comedy Central resume — stop at West Side on their tour, 75 minutes of viral sketches and new material at a small room where the twins' back-and-forth actually lands.",
   "tier": "special",
   "featured": false,
   "poster": {
@@ -1292,7 +1262,7 @@
    "kind": "dated event flyer"
   },
   "demand": null,
-  "demand_checked": "2026-10-19",
+  "demand_checked": "2026-10-20",
   "verification_note": null
  },
  {
@@ -1310,11 +1280,11 @@
   "ticket_url": "https://newyorkcomedyclub.com/events/previously-on-generational-curse-with-nore-davis",
   "source_url": "https://newyorkcomedyclub.com/events/previously-on-generational-curse-with-nore-davis",
   "verified_at": "2026-10-16",
-  "description": "Nore Davis brings 'Previously on Generational Curse...' to NYCC Midtown on a Thursday \u2014 a one-night-only follow-up to the 2026 hour that landed on his ninth album, working through sickle cell, mental healing, and the year since. Nine albums since 2014 is the workload; the room is the marquee.",
+  "description": "Nore Davis brings 'Previously on Generational Curse...' to NYCC Midtown on a Thursday — a one-night-only follow-up to the 2026 hour that landed on his ninth album, working through sickle cell, mental healing, and the year since. Nine albums since 2014 is the workload; the room is the marquee.",
   "tier": "special",
   "featured": false,
   "demand": null,
-  "demand_checked": "2026-10-19"
+  "demand_checked": "2026-10-20"
  },
  {
   "id": "fahim-anwar-bell-house-2026-11-20",
@@ -1331,7 +1301,7 @@
   "ticket_url": "https://www.ticketmaster.com/fahim-anwar-brooklyn-new-york-11-20-2026/event/300064B1253D7BCC",
   "source_url": "https://www.livenation.com/event/17GZv0G657P29RG/fahim-anwar",
   "verified_at": "2026-10-10",
-  "description": "Fahim Anwar brings his post-special tour through the Bell House on a Friday \u2014 the former tech-day-job turned HBO, NBC, Netflix circuit guy whose hour lives in the meta-life-of-the-AAPI-comic lane, and the Bell House is the right scale for him, smaller than the clubs he's been selling out west.",
+  "description": "Fahim Anwar brings his post-special tour through the Bell House on a Friday — the former tech-day-job turned HBO, NBC, Netflix circuit guy whose hour lives in the meta-life-of-the-AAPI-comic lane, and the Bell House is the right scale for him, smaller than the clubs he's been selling out west.",
   "tier": "special",
   "featured": false,
   "poster": {
@@ -1344,7 +1314,7 @@
    "kind": "dated event flyer"
   },
   "demand": null,
-  "demand_checked": "2026-10-19"
+  "demand_checked": "2026-10-20"
  },
  {
   "id": "opey-olagbaju-union-hall-2026-11-20",
@@ -1361,17 +1331,17 @@
   "ticket_url": "https://www.eventbrite.com/e/opey-olagbaju-tickets-2002401987247",
   "source_url": "https://unionhallny.com/",
   "verified_at": "2026-10-13",
-  "description": "Opey Olagbaju headlining Union Hall on a Friday \u2014 Vulture's 2023 'Comics You Should and Will Know,' a Netflix Is a Joke and Just for Laughs festival regular, and a CBS After Midnight contributor whose writer's-room r\u00e9sum\u00e9 (Bob Hearts Abishola, Betty, Close Enough, This Fool) is the part of his bio readers usually skip to.",
+  "description": "Opey Olagbaju headlining Union Hall on a Friday — Vulture's 2023 'Comics You Should and Will Know,' a Netflix Is a Joke and Just for Laughs festival regular, and a CBS After Midnight contributor whose writer's-room résumé (Bob Hearts Abishola, Betty, Close Enough, This Fool) is the part of his bio readers usually skip to.",
   "tier": "special",
   "demand": null,
-  "demand_checked": "2026-10-19",
+  "demand_checked": "2026-10-20",
   "poster": {
    "src": "/assets/posters/opey-olagbaju-union-hall-2026-11-20.jpg",
    "width": 768,
    "height": 768,
    "source_url": "https://punchup.live/e/5fec25bd-26b7-47c8-b3fa-25449886a4a4",
    "credit": "Artwork: Union Hall / Opey Olagbaju",
-   "alt": "Opey Olagbaju at Union Hall \u2014 November 20.",
+   "alt": "Opey Olagbaju at Union Hall — November 20.",
    "kind": "dated event flyer"
   }
  },
@@ -1382,10 +1352,10 @@
   "starts_at": "2026-11-21T20:00:00-05:00",
   "ends_at": "2026-11-21T21:30:00-05:00",
   "end_time_confirmed": false,
-  "time_label": "8pm \u00b7 doors 7:30pm",
+  "time_label": "8pm · doors 7:30pm",
   "venue": "The Fear City Comedy Club",
   "neighborhood": "Lower East Side",
-  "price_label": "$20 + taxes & fees online \u00b7 $25 at the door",
+  "price_label": "$20 + taxes & fees online · $25 at the door",
   "ticket_url": "https://www.thefearcitycomedyclub.com/shows-shop/p/michael-pasvar-and-friends-saturday-11/21/26",
   "source_url": "https://www.thefearcitycomedyclub.com/shows-shop/p/michael-pasvar-and-friends-saturday-11/21/26",
   "verified_at": "2026-10-08",
@@ -1393,7 +1363,7 @@
   "featured": false,
   "tier": "special",
   "demand": null,
-  "demand_checked": "2026-10-19"
+  "demand_checked": "2026-10-20"
  },
  {
   "id": "christian-finnegan-nycc-2026-11-22",
@@ -1413,14 +1383,14 @@
   "description": "Finnegan tapes his fourth hour in the NYCC Midtown room, the Sunday-afternoon special-taping slot: a fully-formed new hour (Are dogs better than spouses? Should you be concerned if your surgeon has tattoos?) before a live audience, with a second 7pm taping to follow the same night.",
   "tier": "special",
   "demand": null,
-  "demand_checked": "2026-10-19",
+  "demand_checked": "2026-10-20",
   "poster": {
    "src": "/assets/posters/christian-finnegan-nycc-2026-11-22.png",
    "width": 660,
    "height": 660,
    "source_url": "https://newyorkcomedyclub.com/events/christian-finnegan-live-special-taping-2026-10-18170000",
    "credit": "Artwork: New York Comedy Club",
-   "alt": "Christian Finnegan: A Lot of Heart live special taping at NYCC Midtown \u2014 November 22.",
+   "alt": "Christian Finnegan: A Lot of Heart live special taping at NYCC Midtown — November 22.",
    "kind": "dated event flyer"
   }
  },
@@ -1442,14 +1412,14 @@
   "description": "Last Week Tonight's John Oliver and Late Night's Seth Meyers continue their fall residency at the Beacon, a Sunday-night double-bill that has become one of the Broadway room's marquee comedy slots. Their joint page on iamjohnoliver.com lists this as the second of three November/December dates.",
   "tier": "special",
   "demand": null,
-  "demand_checked": "2026-10-19",
+  "demand_checked": "2026-10-20",
   "poster": {
    "src": "/assets/posters/john-oliver-seth-meyers-beacon-2026-11-22.jpg",
    "width": 1024,
    "height": 576,
    "source_url": "https://www.msg.com/events-tickets/john-oliver-seth-meyers-beacon-theatre-november-2026/3B00649092832D66",
    "credit": "Artwork: Beacon Theatre / MSG",
-   "alt": "John Oliver & Seth Meyers at the Beacon Theatre \u2014 November 22.",
+   "alt": "John Oliver & Seth Meyers at the Beacon Theatre — November 22.",
    "kind": "dated event flyer"
   }
  },
@@ -1468,7 +1438,7 @@
   "ticket_url": "https://www.ticketmaster.com/jacqueline-novak-brooklyn-new-york-11-23-2026/event/30006546423DA25E",
   "source_url": "https://www.thebellhouseny.com/shows/calendar/2026-11",
   "verified_at": "2026-10-15",
-  "description": "Jacqueline Novak brings her fall 2026 tour through the Bell House \u2014 a Monday night in the Gowanus room for the 2 Dope Queens and HBO-circuit essay-comic, working in the measured, philosophical lane that built Get on Your Knees, the Netflix hour she dropped in 2024.",
+  "description": "Jacqueline Novak brings her fall 2026 tour through the Bell House — a Monday night in the Gowanus room for the 2 Dope Queens and HBO-circuit essay-comic, working in the measured, philosophical lane that built Get on Your Knees, the Netflix hour she dropped in 2024.",
   "tier": "special",
   "featured": false,
   "poster": {
@@ -1477,11 +1447,11 @@
    "height": 1152,
    "source_url": "https://www.livenation.com/event/16YZk4k8NZAC5dk2/jacqueline-novak",
    "credit": "Artwork: The Bell House / Live Nation",
-   "alt": "Jacqueline Novak at the Bell House \u2014 November 23, 2026.",
+   "alt": "Jacqueline Novak at the Bell House — November 23, 2026.",
    "kind": "dated event flyer"
   },
   "demand": null,
-  "demand_checked": "2026-10-19"
+  "demand_checked": "2026-10-20"
  },
  {
   "id": "jessica-kirson-nycc-2026-11-23",
@@ -1498,11 +1468,11 @@
   "ticket_url": "https://newyorkcomedyclub.com/events/jessica-kirson-live-in-new-york-2026-11-24190000",
   "source_url": "https://newyorkcomedyclub.com/events/jessica-kirson-live-in-new-york-2026-11-24190000",
   "verified_at": "2026-10-16",
-  "description": "Jessica Kirson in the early Monday set at NYCC Midtown \u2014 the This Week at the Comedy Cellar regular and Robert De Niro's 'The Comedian' consultant, working her character-led bits in the room where she's been a headliner for years. A 9:30pm second show runs the same night.",
+  "description": "Jessica Kirson in the early Monday set at NYCC Midtown — the This Week at the Comedy Cellar regular and Robert De Niro's 'The Comedian' consultant, working her character-led bits in the room where she's been a headliner for years. A 9:30pm second show runs the same night.",
   "tier": "special",
   "featured": false,
   "demand": null,
-  "demand_checked": "2026-10-19"
+  "demand_checked": "2026-10-20"
  },
  {
   "id": "pachelbel-rant-20th-caveat-2026-11-23",
@@ -1519,7 +1489,7 @@
   "ticket_url": "https://caveat.nyc/events/the-pachelbel-rant-20th-anniversary-show-2026-11-23",
   "source_url": "https://caveat.nyc/events/the-pachelbel-rant-20th-anniversary-show-2026-11-23",
   "verified_at": "2026-10-17",
-  "description": "Rob Paravonian's Pachelbel Canon bit turns 20 \u2014 the kind of pre-streaming viral clip that defined a generation of comedy-literate students. He's marking the date at Caveat with updated stories, songs, and a re-staging; treat it as a stand-up homecoming for a clip that built a career.",
+  "description": "Rob Paravonian's Pachelbel Canon bit turns 20 — the kind of pre-streaming viral clip that defined a generation of comedy-literate students. He's marking the date at Caveat with updated stories, songs, and a re-staging; treat it as a stand-up homecoming for a clip that built a career.",
   "tier": "special",
   "featured": false,
   "poster": {
@@ -1528,11 +1498,11 @@
    "height": 1000,
    "source_url": "https://caveat.nyc/events/the-pachelbel-rant-20th-anniversary-show-2026-11-23",
    "credit": "Artwork: Caveat / show organizer",
-   "alt": "The Pachelbel Rant 20th Anniversary Show at Caveat \u2014 November 23.",
+   "alt": "The Pachelbel Rant 20th Anniversary Show at Caveat — November 23.",
    "kind": "dated event flyer"
   },
   "demand": null,
-  "demand_checked": "2026-10-19"
+  "demand_checked": "2026-10-20"
  },
  {
   "id": "jacqueline-novak-bell-house-2026-11-24",
@@ -1549,11 +1519,11 @@
   "ticket_url": "https://www.ticketmaster.com/jacqueline-novak-brooklyn-new-york-11-24-2026/event/3000654647B1A44D",
   "source_url": "https://www.thebellhouseny.com/shows/calendar/2026-11",
   "verified_at": "2026-10-16",
-  "description": "Jacqueline Novak's second night at the Bell House \u2014 the Tuesday of the fall 2026 tour, same essay-comic line in the Gowanus room that built Get on Your Knees. The Mon Nov 23 set was the first night of this two-show run.",
+  "description": "Jacqueline Novak's second night at the Bell House — the Tuesday of the fall 2026 tour, same essay-comic line in the Gowanus room that built Get on Your Knees. The Mon Nov 23 set was the first night of this two-show run.",
   "tier": "special",
   "featured": false,
   "demand": null,
-  "demand_checked": "2026-10-19"
+  "demand_checked": "2026-10-20"
  },
  {
   "id": "story-warz-nycc-2026-11-25",
@@ -1570,7 +1540,7 @@
   "ticket_url": "https://newyorkcomedyclub.com/events/story-warz-w-big-jay-oakerson-luis-j-gomez-special-guests-2026-11-25194500",
   "source_url": "https://newyorkcomedyclub.com/events/story-warz-w-big-jay-oakerson-luis-j-gomez-special-guests-2026-11-25194500",
   "verified_at": "2026-10-17",
-  "description": "Story Warz \u2014 Oakerson and Gomez's standing storytelling-versus-deception game that has pulled Shane Gillis, Bert Kreischer, Howie Mandel, and Tony Hinchcliffe in past sets \u2014 hits the NYCC Midtown room the night before Thanksgiving. A pre-holiday blowout where the lineup itself is the surprise.",
+  "description": "Story Warz — Oakerson and Gomez's standing storytelling-versus-deception game that has pulled Shane Gillis, Bert Kreischer, Howie Mandel, and Tony Hinchcliffe in past sets — hits the NYCC Midtown room the night before Thanksgiving. A pre-holiday blowout where the lineup itself is the surprise.",
   "tier": "special",
   "featured": false,
   "poster": {
@@ -1579,11 +1549,11 @@
    "height": 660,
    "source_url": "https://newyorkcomedyclub.com/events/story-warz-w-big-jay-oakerson-luis-j-gomez-special-guests-2026-11-25194500",
    "credit": "Artwork: New York Comedy Club / show organizer",
-   "alt": "Story Warz w/ Big Jay Oakerson, Luis J Gomez + Special Guests at NYCC Midtown \u2014 November 25.",
+   "alt": "Story Warz w/ Big Jay Oakerson, Luis J Gomez + Special Guests at NYCC Midtown — November 25.",
    "kind": "dated event flyer"
   },
   "demand": null,
-  "demand_checked": "2026-10-19"
+  "demand_checked": "2026-10-20"
  },
  {
   "id": "michelle-wolf-best-job-town-hall-2026-11-19",
@@ -1600,11 +1570,11 @@
   "ticket_url": "https://www.thetownhall.org/event/michelle-wolf",
   "source_url": "https://www.thetownhall.org/event/michelle-wolf",
   "verified_at": "2026-10-19",
-  "description": "Michelle Wolf brings Best Job in the World to Town Hall \u2014 a Thursday in the midtown room for the Daily Show alum and Emmy-winning Roast writer, working the same political-as-hell hour that put her on Netflix\u2019s The Break and HBO\u2019s The Daily Show.",
+  "description": "Michelle Wolf brings Best Job in the World to Town Hall — a Thursday in the midtown room for the Daily Show alum and Emmy-winning Roast writer, working the same political-as-hell hour that put her on Netflix’s The Break and HBO’s The Daily Show.",
   "tier": "special",
   "featured": false,
   "demand": null,
-  "demand_checked": "2026-10-19"
+  "demand_checked": "2026-10-20"
  },
  {
   "id": "dewayne-perkins-bell-house-2026-11-09",
@@ -1621,11 +1591,11 @@
   "ticket_url": "https://www.thebellhouseny.com/shows/calendar/2026-11",
   "source_url": "https://www.thebellhouseny.com/shows/calendar/2026-11",
   "verified_at": "2026-10-19",
-  "description": "Dewayne Perkins headlines a NYCF Monday at the Bell House \u2014 the Chicago comic and The Walking Dead / Letterkenny / Brotherhood actor working the deadpan-actor-finds-comedy-in-trauma material that built his HBO special True Neutral.",
+  "description": "Dewayne Perkins headlines a NYCF Monday at the Bell House — the Chicago comic and The Walking Dead / Letterkenny / Brotherhood actor working the deadpan-actor-finds-comedy-in-trauma material that built his HBO special True Neutral.",
   "tier": "special",
   "featured": false,
   "demand": null,
-  "demand_checked": "2026-10-19"
+  "demand_checked": "2026-10-20"
  },
  {
   "id": "silver-lining-gianmarco-soresi-bell-house-2026-11-29",
@@ -1642,7 +1612,7 @@
   "ticket_url": "https://www.livenation.com/event/17GZv0G62Mw0IUC/the-silver-lining-with-gianmarco-soresi",
   "source_url": "https://www.livenation.com/event/17GZv0G62Mw0IUC/the-silver-lining-with-gianmarco-soresi",
   "verified_at": "2026-10-19",
-  "description": "Gianmarco Soresi brings The Silver Lining to the Bell House \u2014 a Sunday-night homecoming for the Brooklyn-born comic and Don\u2019t Tell / CBS After Midnight regular, on the post-Thanksgiving weekend where the room is the most comfortable place in town to sit and watch someone dismantle a year of their own material.",
+  "description": "Gianmarco Soresi brings The Silver Lining to the Bell House — a Sunday-night homecoming for the Brooklyn-born comic and Don’t Tell / CBS After Midnight regular, on the post-Thanksgiving weekend where the room is the most comfortable place in town to sit and watch someone dismantle a year of their own material.",
   "tier": "special",
   "featured": false,
   "poster": {
@@ -1655,7 +1625,7 @@
    "kind": "dated event flyer"
   },
   "demand": null,
-  "demand_checked": "2026-10-19"
+  "demand_checked": "2026-10-20"
  },
  {
   "id": "date-night-comedy-st-marks-2026-11-26",
@@ -1664,7 +1634,7 @@
   "starts_at": "2026-11-26T20:30:00-05:00",
   "ends_at": "2026-11-26T22:00:00-05:00",
   "end_time_confirmed": false,
-  "time_label": "8:30pm \u00b7 doors 8pm",
+  "time_label": "8:30pm · doors 8pm",
   "venue": "St. Marks Comedy Club",
   "neighborhood": "East Village",
   "price_amount": 23.95,
@@ -1672,7 +1642,7 @@
   "ticket_url": "https://www.stmarkscomedy.com/shows/date-night-comedy-show-x2-2026-11-26-78474198",
   "source_url": "https://www.stmarkscomedy.com/shows/date-night-comedy-show-x2-2026-11-26-78474198",
   "verified_at": "2026-10-19",
-  "description": "Date Night Comedy Show x2 hits the St. Marks room Thanksgiving night \u2014 the East Village club's two-ticket date-night format with a stacked NYC lineup, 2-drink minimum, 18+, doors at 8, show at 8:30.",
+  "description": "Date Night Comedy Show x2 hits the St. Marks room Thanksgiving night — the East Village club's two-ticket date-night format with a stacked NYC lineup, 2-drink minimum, 18+, doors at 8, show at 8:30.",
   "tier": "special",
   "featured": false,
   "poster": {
@@ -1681,11 +1651,11 @@
    "height": 630,
    "source_url": "https://www.stmarkscomedy.com/shows/date-night-comedy-show-x2-2026-11-26-78474198",
    "credit": "Artwork: St. Marks Comedy Club",
-   "alt": "Date Night Comedy Show x2 at St. Marks Comedy Club \u2014 November 26.",
+   "alt": "Date Night Comedy Show x2 at St. Marks Comedy Club — November 26.",
    "kind": "dated event flyer"
   },
   "demand": null,
-  "demand_checked": "2026-10-19"
+  "demand_checked": "2026-10-20"
  },
  {
   "id": "friday-night-laughs-st-marks-2026-11-27",
@@ -1694,7 +1664,7 @@
   "starts_at": "2026-11-27T20:30:00-05:00",
   "ends_at": "2026-11-27T22:00:00-05:00",
   "end_time_confirmed": false,
-  "time_label": "8:30pm \u00b7 doors 8pm",
+  "time_label": "8:30pm · doors 8pm",
   "venue": "St. Marks Comedy Club",
   "neighborhood": "East Village",
   "price_amount": 25.59,
@@ -1702,7 +1672,7 @@
   "ticket_url": "https://www.stmarkscomedy.com/shows/friday-night-laughs-comedy-show-2026-11-27-4aa808e6",
   "source_url": "https://www.stmarkscomedy.com/shows/friday-night-laughs-comedy-show-2026-11-27-4aa808e6",
   "verified_at": "2026-10-19",
-  "description": "Friday Night Laughs at St. Marks Comedy Club \u2014 a stacked NYC lineup in the East Village's intimate brick-walled room, the night after Thanksgiving, 2-drink minimum, 18+, doors at 8, show at 8:30.",
+  "description": "Friday Night Laughs at St. Marks Comedy Club — a stacked NYC lineup in the East Village's intimate brick-walled room, the night after Thanksgiving, 2-drink minimum, 18+, doors at 8, show at 8:30.",
   "tier": "special",
   "featured": false,
   "poster": {
@@ -1711,11 +1681,11 @@
    "height": 630,
    "source_url": "https://www.stmarkscomedy.com/shows/friday-night-laughs-comedy-show-2026-11-27-4aa808e6",
    "credit": "Artwork: St. Marks Comedy Club",
-   "alt": "Friday Night Laughs Comedy Show at St. Marks Comedy Club \u2014 November 27.",
+   "alt": "Friday Night Laughs Comedy Show at St. Marks Comedy Club — November 27.",
    "kind": "dated event flyer"
   },
   "demand": null,
-  "demand_checked": "2026-10-19"
+  "demand_checked": "2026-10-20"
  },
  {
   "id": "down-bad-comedy-st-marks-2026-11-25",
@@ -1724,7 +1694,7 @@
   "starts_at": "2026-11-25T19:30:00-05:00",
   "ends_at": "2026-11-25T21:00:00-05:00",
   "end_time_confirmed": false,
-  "time_label": "7:30pm \u00b7 doors 7pm",
+  "time_label": "7:30pm · doors 7pm",
   "venue": "St. Marks Comedy Club",
   "neighborhood": "East Village",
   "price_amount": 18.51,
@@ -1732,10 +1702,10 @@
   "ticket_url": "https://www.stmarkscomedy.com/shows/down-bad-comedy-show-2026-11-25-f803da81",
   "source_url": "https://www.stmarkscomedy.com/shows/down-bad-comedy-show-2026-11-25-f803da81",
   "verified_at": "2026-10-19",
-  "description": "Down Bad Comedy Show at St. Marks Comedy Club the night before Thanksgiving \u2014 Cam Stafford, Corey Yoskowitz (NYCF Comics to Watch), and Keenan Steiner in the East Village room, doors 7, show 7:30, $15 base, 1-drink minimum, 18+.",
+  "description": "Down Bad Comedy Show at St. Marks Comedy Club the night before Thanksgiving — Cam Stafford, Corey Yoskowitz (NYCF Comics to Watch), and Keenan Steiner in the East Village room, doors 7, show 7:30, $15 base, 1-drink minimum, 18+.",
   "tier": "special",
   "featured": false,
   "demand": null,
-  "demand_checked": "2026-10-19"
+  "demand_checked": "2026-10-20"
  }
 ]

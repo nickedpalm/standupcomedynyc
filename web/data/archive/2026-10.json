@@ -1427,5 +1427,36 @@
   "demand": null,
   "demand_checked": "2026-10-18",
   "archived_at": "2026-10-19"
+ },
+ {
+  "id": "michelle-buteau-2026-10-19",
+  "title": "Michelle Buteau",
+  "date": "2026-10-19",
+  "starts_at": "2026-10-19T19:30:00-04:00",
+  "ends_at": "2026-10-19T22:00:00-04:00",
+  "end_time_confirmed": false,
+  "time_label": "7:30pm",
+  "venue": "The Bell House",
+  "neighborhood": "Gowanus",
+  "price_amount": null,
+  "price_label": "See ticket page for price",
+  "ticket_url": "https://www.ticketmaster.com/michelle-buteau-brooklyn-new-york-10-19-2026/event/300064BACFE08BB7",
+  "source_url": "https://www.thebellhouseny.com/",
+  "verified_at": "2026-10-08",
+  "description": "Michelle Buteau returns to the Bell House for another Monday night — a third engagement in a run that keeps the room sold out and the audience loud.",
+  "tier": "special",
+  "featured": false,
+  "poster": {
+   "src": "/assets/posters/archive/michelle-buteau-2026-10-19.jpg",
+   "width": 640,
+   "height": 427,
+   "source_url": "https://www.ticketmaster.com/michelle-buteau-brooklyn-new-york-10-19-2026/event/300064BACFE08BB7",
+   "credit": "Artwork: The Bell House / show organizer",
+   "alt": "Michelle Buteau at The Bell House promotional artwork.",
+   "kind": "dated event flyer"
+  },
+  "demand": null,
+  "demand_checked": "2026-10-19",
+  "archived_at": "2026-10-20"
  }
 ]
