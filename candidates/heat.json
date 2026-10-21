@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-20T09:28:37.038Z",
+ "generated_at": "2026-10-21T09:29:12.397Z",
  "note": "Demand signals for the editor. Only availability and second shows set the public demand tag.",
  "picks": [
   {
@@ -14,14 +14,14 @@
    "performer": "Joanne McNally",
    "wikipedia": {
     "title": "Joanne McNally",
-    "views_30d": 193089,
-    "views_prior_30d": 40591,
-    "change": 376
+    "views_30d": 197677,
+    "views_prior_30d": 41313,
+    "change": 378
    },
    "reddit": null,
    "reasons": [
-    "Wikipedia: 6436 views a day",
-    "Wikipedia views up 376% over the prior month"
+    "Wikipedia: 6589 views a day",
+    "Wikipedia views up 378% over the prior month"
    ]
   },
   {
@@ -36,14 +36,14 @@
    "performer": "Jaboukie Young-White",
    "wikipedia": {
     "title": "Jaboukie Young-White",
-    "views_30d": 71623,
-    "views_prior_30d": 17577,
-    "change": 307
+    "views_30d": 71497,
+    "views_prior_30d": 17958,
+    "change": 298
    },
    "reddit": null,
    "reasons": [
-    "Wikipedia: 2387 views a day",
-    "Wikipedia views up 307% over the prior month"
+    "Wikipedia: 2383 views a day",
+    "Wikipedia views up 298% over the prior month"
    ]
   },
   {
@@ -58,14 +58,14 @@
    "performer": "Sam Tallent",
    "wikipedia": {
     "title": "Sam Tallent",
-    "views_30d": 12493,
-    "views_prior_30d": 4858,
-    "change": 157
+    "views_30d": 12422,
+    "views_prior_30d": 5159,
+    "change": 141
    },
    "reddit": null,
    "reasons": [
-    "Wikipedia: 416 views a day",
-    "Wikipedia views up 157% over the prior month"
+    "Wikipedia: 414 views a day",
+    "Wikipedia views up 141% over the prior month"
    ]
   },
   {
@@ -80,13 +80,13 @@
    "performer": "Marc Maron",
    "wikipedia": {
     "title": "Marc Maron",
-    "views_30d": 35726,
-    "views_prior_30d": 32427,
-    "change": 10
+    "views_30d": 35273,
+    "views_prior_30d": 32875,
+    "change": 7
    },
    "reddit": null,
    "reasons": [
-    "Wikipedia: 1191 views a day"
+    "Wikipedia: 1176 views a day"
    ]
   },
   {
@@ -101,13 +101,13 @@
    "performer": "Ilana Glazer",
    "wikipedia": {
     "title": "Ilana Glazer",
-    "views_30d": 39232,
-    "views_prior_30d": 28371,
-    "change": 38
+    "views_30d": 39715,
+    "views_prior_30d": 28104,
+    "change": 41
    },
    "reddit": null,
    "reasons": [
-    "Wikipedia: 1308 views a day"
+    "Wikipedia: 1324 views a day"
    ]
   },
   {
@@ -122,13 +122,13 @@
    "performer": "Adam Ray",
    "wikipedia": {
     "title": "Adam Ray",
-    "views_30d": 11023,
-    "views_prior_30d": 16630,
+    "views_30d": 10854,
+    "views_prior_30d": 16384,
     "change": -34
    },
    "reddit": null,
    "reasons": [
-    "Wikipedia: 367 views a day"
+    "Wikipedia: 362 views a day"
    ]
   },
   {
@@ -143,13 +143,13 @@
    "performer": "Jess Hilarious",
    "wikipedia": {
     "title": "Jess Hilarious",
-    "views_30d": 8177,
-    "views_prior_30d": 9325,
-    "change": -12
+    "views_30d": 8007,
+    "views_prior_30d": 9378,
+    "change": -15
    },
    "reddit": null,
    "reasons": [
-    "Wikipedia: 273 views a day"
+    "Wikipedia: 267 views a day"
    ]
   },
   {
@@ -164,13 +164,13 @@
    "performer": "Daniel Sloss",
    "wikipedia": {
     "title": "Daniel Sloss",
-    "views_30d": 18907,
-    "views_prior_30d": 19262,
-    "change": -2
+    "views_30d": 19109,
+    "views_prior_30d": 18951,
+    "change": 1
    },
    "reddit": null,
    "reasons": [
-    "Wikipedia: 630 views a day"
+    "Wikipedia: 637 views a day"
    ]
   },
   {
@@ -185,13 +185,13 @@
    "performer": "Jessica Kirson",
    "wikipedia": {
     "title": "Jessica Kirson",
-    "views_30d": 13831,
-    "views_prior_30d": 11580,
-    "change": 19
+    "views_30d": 13923,
+    "views_prior_30d": 11415,
+    "change": 22
    },
    "reddit": null,
    "reasons": [
-    "Wikipedia: 461 views a day"
+    "Wikipedia: 464 views a day"
    ]
   },
   {
@@ -206,13 +206,13 @@
    "performer": "Jessica Kirson",
    "wikipedia": {
     "title": "Jessica Kirson",
-    "views_30d": 13831,
-    "views_prior_30d": 11580,
-    "change": 19
+    "views_30d": 13923,
+    "views_prior_30d": 11415,
+    "change": 22
    },
    "reddit": null,
    "reasons": [
-    "Wikipedia: 461 views a day"
+    "Wikipedia: 464 views a day"
    ]
   },
   {
@@ -227,28 +227,14 @@
    "performer": "Michelle Wolf",
    "wikipedia": {
     "title": "Michelle Wolf",
-    "views_30d": 12116,
-    "views_prior_30d": 15125,
+    "views_30d": 12032,
+    "views_prior_30d": 15049,
     "change": -20
    },
    "reddit": null,
    "reasons": [
-    "Wikipedia: 404 views a day"
+    "Wikipedia: 401 views a day"
    ]
-  },
-  {
-   "id": "david-cross-benefit-2026-10-20",
-   "title": "A Benefit for Little Essentials with David Cross & Friends",
-   "venue": "The Bell House",
-   "date": "2026-10-20",
-   "heat": 0,
-   "demand": null,
-   "availability": null,
-   "second_show": false,
-   "performer": null,
-   "wikipedia": null,
-   "reddit": null,
-   "reasons": []
   },
   {
    "id": "brett-goldstein-2026-10-21",
@@ -334,9 +320,9 @@
    "performer": "Nico Carney",
    "wikipedia": {
     "title": "Nico Carney",
-    "views_30d": 1362,
-    "views_prior_30d": 1291,
-    "change": 5
+    "views_30d": 1421,
+    "views_prior_30d": 1260,
+    "change": 13
    },
    "reddit": null,
    "reasons": [
@@ -397,8 +383,8 @@
    "performer": "Sydnee Washington",
    "wikipedia": {
     "title": "Sydnee Washington",
-    "views_30d": 1246,
-    "views_prior_30d": 1844,
+    "views_30d": 1255,
+    "views_prior_30d": 1845,
     "change": -32
    },
    "reddit": null,
@@ -472,9 +458,9 @@
    "performer": "Mark Simmons",
    "wikipedia": {
     "title": "Mark Simmons (comedian)",
-    "views_30d": 1442,
-    "views_prior_30d": 1453,
-    "change": -1
+    "views_30d": 1448,
+    "views_prior_30d": 1455,
+    "change": 0
    },
    "reddit": null,
    "reasons": []
@@ -619,9 +605,9 @@
    "performer": "Difficult People",
    "wikipedia": {
     "title": "Difficult People",
-    "views_30d": 5282,
-    "views_prior_30d": 5198,
-    "change": 2
+    "views_30d": 5400,
+    "views_prior_30d": 5162,
+    "change": 5
    },
    "reddit": null,
    "reasons": []
@@ -652,9 +638,9 @@
    "performer": "Salma Hindy",
    "wikipedia": {
     "title": "Salma Hindy",
-    "views_30d": 1855,
-    "views_prior_30d": 2703,
-    "change": -31
+    "views_30d": 1664,
+    "views_prior_30d": 2854,
+    "change": -42
    },
    "reddit": null,
    "reasons": []
@@ -713,9 +699,9 @@
    "performer": "Josh Sharp",
    "wikipedia": {
     "title": "Josh Sharp",
-    "views_30d": 913,
-    "views_prior_30d": 1122,
-    "change": -19
+    "views_30d": 921,
+    "views_prior_30d": 1080,
+    "change": -15
    },
    "reddit": null,
    "reasons": []
@@ -973,7 +959,7 @@
    "wikipedia": {
     "title": "Christian Finnegan",
     "views_30d": 965,
-    "views_prior_30d": 936,
+    "views_prior_30d": 938,
     "change": 3
    },
    "reddit": null,
@@ -1005,9 +991,9 @@
    "performer": "Jacqueline Novak",
    "wikipedia": {
     "title": "Jacqueline Novak",
-    "views_30d": 3911,
-    "views_prior_30d": 6004,
-    "change": -35
+    "views_30d": 4866,
+    "views_prior_30d": 6066,
+    "change": -20
    },
    "reddit": null,
    "reasons": []
@@ -1038,9 +1024,9 @@
    "performer": "Jacqueline Novak",
    "wikipedia": {
     "title": "Jacqueline Novak",
-    "views_30d": 3911,
-    "views_prior_30d": 6004,
-    "change": -35
+    "views_30d": 4866,
+    "views_prior_30d": 6066,
+    "change": -20
    },
    "reddit": null,
    "reasons": []
@@ -1071,9 +1057,9 @@
    "performer": "Dewayne Perkins",
    "wikipedia": {
     "title": "Dewayne Perkins",
-    "views_30d": 2484,
-    "views_prior_30d": 2531,
-    "change": -2
+    "views_30d": 2480,
+    "views_prior_30d": 2544,
+    "change": -3
    },
    "reddit": null,
    "reasons": []

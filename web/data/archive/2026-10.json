@@ -1458,5 +1458,36 @@
   "demand": null,
   "demand_checked": "2026-10-19",
   "archived_at": "2026-10-20"
+ },
+ {
+  "id": "david-cross-benefit-2026-10-20",
+  "title": "A Benefit for Little Essentials with David Cross & Friends",
+  "date": "2026-10-20",
+  "starts_at": "2026-10-20T19:30:00-04:00",
+  "ends_at": "2026-10-20T22:00:00-04:00",
+  "end_time_confirmed": false,
+  "time_label": "7:30pm",
+  "venue": "The Bell House",
+  "neighborhood": "Gowanus",
+  "price_amount": null,
+  "price_label": "See ticket page for price",
+  "ticket_url": "https://www.ticketmaster.com/a-benefit-for-little-essentials-with-brooklyn-new-york-10-20-2026/event/30006512E9FA7FBD",
+  "source_url": "https://www.thebellhouseny.com/",
+  "verified_at": "2026-10-08",
+  "description": "David Cross & Friends headline a benefit for Little Essentials — a Brooklyn nonprofit providing baby gear to families in need. Tickets are donations to the cause.",
+  "tier": "special",
+  "featured": false,
+  "poster": {
+   "src": "/assets/posters/archive/david-cross-benefit-2026-10-20.jpg",
+   "width": 640,
+   "height": 427,
+   "source_url": "https://www.ticketmaster.com/a-benefit-for-little-essentials-with-brooklyn-new-york-10-20-2026/event/30006512E9FA7FBD",
+   "credit": "Artwork: The Bell House / show organizer",
+   "alt": "A Benefit for Little Essentials with David Cross & Friends promotional artwork.",
+   "kind": "dated event flyer"
+  },
+  "demand": null,
+  "demand_checked": "2026-10-20",
+  "archived_at": "2026-10-21"
  }
 ]

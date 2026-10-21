@@ -833,7 +833,7 @@
  },
  {
   "event_id": "david-cross-benefit-2026-10-20",
-  "src": "/assets/posters/david-cross-benefit-2026-10-20.jpg",
+  "src": "/assets/posters/archive/david-cross-benefit-2026-10-20.jpg",
   "width": 640,
   "height": 427,
   "source_url": "https://www.ticketmaster.com/a-benefit-for-little-essentials-with-brooklyn-new-york-10-20-2026/event/30006512E9FA7FBD",
@@ -844,7 +844,8 @@
   "retrieved_at": "2026-09-15",
   "bytes": 29631,
   "sha256": "TBD",
-  "reuse_status": "Official promotional artwork from the show's Ticketmaster listing; no separate reuse license identified. Site display with credit only."
+  "reuse_status": "Official promotional artwork from the show's Ticketmaster listing; no separate reuse license identified. Site display with credit only.",
+  "archived": true
  },
  {
   "event_id": "brett-goldstein-2026-10-21",
