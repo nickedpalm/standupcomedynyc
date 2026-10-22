@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-21T09:29:12.397Z",
+ "generated_at": "2026-10-22T09:29:30.385Z",
  "note": "Demand signals for the editor. Only availability and second shows set the public demand tag.",
  "picks": [
   {
@@ -14,14 +14,14 @@
    "performer": "Joanne McNally",
    "wikipedia": {
     "title": "Joanne McNally",
-    "views_30d": 197677,
-    "views_prior_30d": 41313,
-    "change": 378
+    "views_30d": 200537,
+    "views_prior_30d": 41859,
+    "change": 379
    },
    "reddit": null,
    "reasons": [
-    "Wikipedia: 6589 views a day",
-    "Wikipedia views up 378% over the prior month"
+    "Wikipedia: 6685 views a day",
+    "Wikipedia views up 379% over the prior month"
    ]
   },
   {
@@ -36,14 +36,14 @@
    "performer": "Jaboukie Young-White",
    "wikipedia": {
     "title": "Jaboukie Young-White",
-    "views_30d": 71497,
-    "views_prior_30d": 17958,
-    "change": 298
+    "views_30d": 71368,
+    "views_prior_30d": 18247,
+    "change": 291
    },
    "reddit": null,
    "reasons": [
-    "Wikipedia: 2383 views a day",
-    "Wikipedia views up 298% over the prior month"
+    "Wikipedia: 2379 views a day",
+    "Wikipedia views up 291% over the prior month"
    ]
   },
   {
@@ -58,14 +58,14 @@
    "performer": "Sam Tallent",
    "wikipedia": {
     "title": "Sam Tallent",
-    "views_30d": 12422,
-    "views_prior_30d": 5159,
-    "change": 141
+    "views_30d": 12492,
+    "views_prior_30d": 5339,
+    "change": 134
    },
    "reddit": null,
    "reasons": [
-    "Wikipedia: 414 views a day",
-    "Wikipedia views up 141% over the prior month"
+    "Wikipedia: 416 views a day",
+    "Wikipedia views up 134% over the prior month"
    ]
   },
   {
@@ -80,13 +80,13 @@
    "performer": "Marc Maron",
    "wikipedia": {
     "title": "Marc Maron",
-    "views_30d": 35273,
-    "views_prior_30d": 32875,
-    "change": 7
+    "views_30d": 34950,
+    "views_prior_30d": 33340,
+    "change": 5
    },
    "reddit": null,
    "reasons": [
-    "Wikipedia: 1176 views a day"
+    "Wikipedia: 1165 views a day"
    ]
   },
   {
@@ -101,13 +101,13 @@
    "performer": "Ilana Glazer",
    "wikipedia": {
     "title": "Ilana Glazer",
-    "views_30d": 39715,
-    "views_prior_30d": 28104,
-    "change": 41
+    "views_30d": 39951,
+    "views_prior_30d": 28043,
+    "change": 42
    },
    "reddit": null,
    "reasons": [
-    "Wikipedia: 1324 views a day"
+    "Wikipedia: 1332 views a day"
    ]
   },
   {
@@ -123,8 +123,8 @@
    "wikipedia": {
     "title": "Adam Ray",
     "views_30d": 10854,
-    "views_prior_30d": 16384,
-    "change": -34
+    "views_prior_30d": 16120,
+    "change": -33
    },
    "reddit": null,
    "reasons": [
@@ -143,13 +143,13 @@
    "performer": "Jess Hilarious",
    "wikipedia": {
     "title": "Jess Hilarious",
-    "views_30d": 8007,
-    "views_prior_30d": 9378,
-    "change": -15
+    "views_30d": 7874,
+    "views_prior_30d": 9521,
+    "change": -17
    },
    "reddit": null,
    "reasons": [
-    "Wikipedia: 267 views a day"
+    "Wikipedia: 262 views a day"
    ]
   },
   {
@@ -164,13 +164,13 @@
    "performer": "Daniel Sloss",
    "wikipedia": {
     "title": "Daniel Sloss",
-    "views_30d": 19109,
-    "views_prior_30d": 18951,
-    "change": 1
+    "views_30d": 20815,
+    "views_prior_30d": 18049,
+    "change": 15
    },
    "reddit": null,
    "reasons": [
-    "Wikipedia: 637 views a day"
+    "Wikipedia: 694 views a day"
    ]
   },
   {
@@ -185,13 +185,34 @@
    "performer": "Jessica Kirson",
    "wikipedia": {
     "title": "Jessica Kirson",
-    "views_30d": 13923,
-    "views_prior_30d": 11415,
-    "change": 22
+    "views_30d": 13944,
+    "views_prior_30d": 11272,
+    "change": 24
    },
    "reddit": null,
    "reasons": [
-    "Wikipedia: 464 views a day"
+    "Wikipedia: 465 views a day"
+   ]
+  },
+  {
+   "id": "jacqueline-novak-bell-house-2026-11-23",
+   "title": "Jacqueline Novak",
+   "venue": "The Bell House",
+   "date": "2026-11-23",
+   "heat": 10,
+   "demand": null,
+   "availability": null,
+   "second_show": false,
+   "performer": "Jacqueline Novak",
+   "wikipedia": {
+    "title": "Jacqueline Novak",
+    "views_30d": 6049,
+    "views_prior_30d": 6171,
+    "change": -2
+   },
+   "reddit": null,
+   "reasons": [
+    "Wikipedia: 202 views a day"
    ]
   },
   {
@@ -206,13 +227,34 @@
    "performer": "Jessica Kirson",
    "wikipedia": {
     "title": "Jessica Kirson",
-    "views_30d": 13923,
-    "views_prior_30d": 11415,
-    "change": 22
+    "views_30d": 13944,
+    "views_prior_30d": 11272,
+    "change": 24
    },
    "reddit": null,
    "reasons": [
-    "Wikipedia: 464 views a day"
+    "Wikipedia: 465 views a day"
+   ]
+  },
+  {
+   "id": "jacqueline-novak-bell-house-2026-11-24",
+   "title": "Jacqueline Novak",
+   "venue": "The Bell House",
+   "date": "2026-11-24",
+   "heat": 10,
+   "demand": null,
+   "availability": null,
+   "second_show": false,
+   "performer": "Jacqueline Novak",
+   "wikipedia": {
+    "title": "Jacqueline Novak",
+    "views_30d": 6049,
+    "views_prior_30d": 6171,
+    "change": -2
+   },
+   "reddit": null,
+   "reasons": [
+    "Wikipedia: 202 views a day"
    ]
   },
   {
@@ -227,72 +269,14 @@
    "performer": "Michelle Wolf",
    "wikipedia": {
     "title": "Michelle Wolf",
-    "views_30d": 12032,
-    "views_prior_30d": 15049,
+    "views_30d": 12034,
+    "views_prior_30d": 14962,
     "change": -20
    },
    "reddit": null,
    "reasons": [
     "Wikipedia: 401 views a day"
    ]
-  },
-  {
-   "id": "brett-goldstein-2026-10-21",
-   "title": "Brett Goldstein Runs His Hour Before His Tour",
-   "venue": "The Bell House",
-   "date": "2026-10-21",
-   "heat": 0,
-   "demand": null,
-   "availability": null,
-   "second_show": false,
-   "performer": null,
-   "wikipedia": null,
-   "reddit": null,
-   "reasons": []
-  },
-  {
-   "id": "invisible-architecture-charlie-flynn-union-hall-2026-10-21",
-   "title": "Invisible Architecture: An Evening of Comedy with Charlie Flynn",
-   "venue": "Union Hall",
-   "date": "2026-10-21",
-   "heat": 0,
-   "demand": null,
-   "availability": "InStock",
-   "second_show": false,
-   "performer": null,
-   "wikipedia": null,
-   "reddit": null,
-   "reasons": [
-    "tickets available"
-   ]
-  },
-  {
-   "id": "laughs-in-the-east-eastville-2026-10-21",
-   "title": "Laughs In The East",
-   "venue": "Eastville Comedy Club",
-   "date": "2026-10-21",
-   "heat": 0,
-   "demand": null,
-   "availability": null,
-   "second_show": false,
-   "performer": null,
-   "wikipedia": null,
-   "reddit": null,
-   "reasons": []
-  },
-  {
-   "id": "jaime-ferraro-wscc-2026-10-21",
-   "title": "Jaime Ferraro en New York",
-   "venue": "West Side Comedy Club",
-   "date": "2026-10-21",
-   "heat": 0,
-   "demand": null,
-   "availability": null,
-   "second_show": false,
-   "performer": null,
-   "wikipedia": null,
-   "reddit": null,
-   "reasons": []
   },
   {
    "id": "laugh-charity-ms-wscc-2026-10-22",
@@ -320,9 +304,9 @@
    "performer": "Nico Carney",
    "wikipedia": {
     "title": "Nico Carney",
-    "views_30d": 1421,
-    "views_prior_30d": 1260,
-    "change": 13
+    "views_30d": 1443,
+    "views_prior_30d": 1254,
+    "change": 15
    },
    "reddit": null,
    "reasons": [
@@ -383,8 +367,8 @@
    "performer": "Sydnee Washington",
    "wikipedia": {
     "title": "Sydnee Washington",
-    "views_30d": 1255,
-    "views_prior_30d": 1845,
+    "views_30d": 1246,
+    "views_prior_30d": 1842,
     "change": -32
    },
    "reddit": null,
@@ -458,9 +442,9 @@
    "performer": "Mark Simmons",
    "wikipedia": {
     "title": "Mark Simmons (comedian)",
-    "views_30d": 1448,
-    "views_prior_30d": 1455,
-    "change": 0
+    "views_30d": 1435,
+    "views_prior_30d": 1468,
+    "change": -2
    },
    "reddit": null,
    "reasons": []
@@ -605,8 +589,8 @@
    "performer": "Difficult People",
    "wikipedia": {
     "title": "Difficult People",
-    "views_30d": 5400,
-    "views_prior_30d": 5162,
+    "views_30d": 5410,
+    "views_prior_30d": 5146,
     "change": 5
    },
    "reddit": null,
@@ -638,9 +622,9 @@
    "performer": "Salma Hindy",
    "wikipedia": {
     "title": "Salma Hindy",
-    "views_30d": 1664,
-    "views_prior_30d": 2854,
-    "change": -42
+    "views_30d": 1574,
+    "views_prior_30d": 2932,
+    "change": -46
    },
    "reddit": null,
    "reasons": []
@@ -699,9 +683,9 @@
    "performer": "Josh Sharp",
    "wikipedia": {
     "title": "Josh Sharp",
-    "views_30d": 921,
-    "views_prior_30d": 1080,
-    "change": -15
+    "views_30d": 916,
+    "views_prior_30d": 1032,
+    "change": -11
    },
    "reddit": null,
    "reasons": []
@@ -958,8 +942,8 @@
    "performer": "Christian Finnegan",
    "wikipedia": {
     "title": "Christian Finnegan",
-    "views_30d": 965,
-    "views_prior_30d": 938,
+    "views_30d": 962,
+    "views_prior_30d": 937,
     "change": 3
    },
    "reddit": null,
@@ -980,25 +964,6 @@
    "reasons": []
   },
   {
-   "id": "jacqueline-novak-bell-house-2026-11-23",
-   "title": "Jacqueline Novak",
-   "venue": "The Bell House",
-   "date": "2026-11-23",
-   "heat": 0,
-   "demand": null,
-   "availability": null,
-   "second_show": false,
-   "performer": "Jacqueline Novak",
-   "wikipedia": {
-    "title": "Jacqueline Novak",
-    "views_30d": 4866,
-    "views_prior_30d": 6066,
-    "change": -20
-   },
-   "reddit": null,
-   "reasons": []
-  },
-  {
    "id": "pachelbel-rant-20th-caveat-2026-11-23",
    "title": "The Pachelbel Rant 20th Anniversary Show",
    "venue": "Caveat",
@@ -1009,25 +974,6 @@
    "second_show": false,
    "performer": null,
    "wikipedia": null,
-   "reddit": null,
-   "reasons": []
-  },
-  {
-   "id": "jacqueline-novak-bell-house-2026-11-24",
-   "title": "Jacqueline Novak",
-   "venue": "The Bell House",
-   "date": "2026-11-24",
-   "heat": 0,
-   "demand": null,
-   "availability": null,
-   "second_show": false,
-   "performer": "Jacqueline Novak",
-   "wikipedia": {
-    "title": "Jacqueline Novak",
-    "views_30d": 4866,
-    "views_prior_30d": 6066,
-    "change": -20
-   },
    "reddit": null,
    "reasons": []
   },
@@ -1057,9 +1003,9 @@
    "performer": "Dewayne Perkins",
    "wikipedia": {
     "title": "Dewayne Perkins",
-    "views_30d": 2480,
-    "views_prior_30d": 2544,
-    "change": -3
+    "views_30d": 2496,
+    "views_prior_30d": 2532,
+    "change": -1
    },
    "reddit": null,
    "reasons": []

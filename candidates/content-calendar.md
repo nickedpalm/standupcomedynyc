@@ -1,4 +1,4 @@
-# Content calendar — generated 2026-10-21
+# Content calendar — generated 2026-10-22
 
 Six weeks ahead from the board. Regenerated on every build; edit the data, not this file.
 
@@ -13,12 +13,8 @@ Six weeks ahead from the board. Regenerated on every build; edit the data, not t
 
 Ranked 37; run 5, reuse 0, skip 32; ~288,000 tokens saved. No recent data: Nico Carney, Sydnee Washington, Ruby Setnik.
 
-## Week 1: Oct 21 to Oct 27 — 16 picks — 10 without artwork · 31 Eventbrite leads not yet reviewed
+## Week 1: Oct 22 to Oct 28 — 13 picks — 8 without artwork · 29 Eventbrite leads not yet reviewed
 
-- Wed Oct 21 7:30pm — **Brett Goldstein Runs His Hour Before His Tour** at The Bell House
-- Wed Oct 21 7:30pm — **Invisible Architecture: An Evening of Comedy with Charlie Flynn** at Union Hall
-- Wed Oct 21 8pm — **Laughs In The East** at Eastville Comedy Club · NO ARTWORK
-- Wed Oct 21 8pm — **Jaime Ferraro en New York** at West Side Comedy Club · NO ARTWORK
 - Thu Oct 22 7pm — **Laugh! It's for Charity! — A Comedy Benefit for the National MS Society** at West Side Comedy Club · NO ARTWORK
 - Thu Oct 22 7:30pm — **Nico Carney Live!** at Union Hall
 - Thu Oct 22 8pm — **Stand Up Shenanigans** at Eastville Comedy Club · NO ARTWORK
@@ -31,20 +27,20 @@ Ranked 37; run 5, reuse 0, skip 32; ~288,000 tokens saved. No recent data: Nico 
 - Mon Oct 26 7pm — **An Evening with Sarah Silverman: Finding Jewish Joy** at Temple Emanu-El Streicker Center
 - Tue Oct 27 7pm · 60 minutes — **Mark Simmons: Jest to Impress** at SoHo Playhouse · NO ARTWORK
 - Tue Oct 27 7:30pm — **Ruby Setnik** at The Bell House
+- Wed Oct 28 7:30pm — **Clean Up Your Act** at West Side Comedy Club
 
   Leads to review:
-  - Wed Oct 21 7pm — Econ LOL at Caveat · from $24.41 · has artwork
-  - Wed Oct 21 8pm — PTP Live! at Littlefield · from $18.71 · has artwork
-  - Wed Oct 21 8pm — The Andy Engel Show! at Comic Strip Live · from $25.71 · has artwork
-  - Wed Oct 21 9:30pm — Sorry We're Here Goes Broadway: A Sketch Variety Show at Caveat · from $18.76 · has artwork
-  - Wed Oct 21 11pm — The Late Night Comedy Show at Kellogg's Diner at Kellogg's Diner · from $5 · has artwork
   - Thu Oct 22 7pm — The Alien Everywhere II Special Taping at Littlefield · from $29.5 · has artwork
   - Thu Oct 22 8pm — Gladys Presents! at Comic Strip Live · from $25.71 · has artwork
   - Thu Oct 22 9pm — The Alien Everywhere II Special Taping at Littlefield · from $29.5 · has artwork
+  - Thu Oct 22 9:30pm — Puppets Come Home for Halloween! at Caveat · from $24.41 · has artwork
+  - Thu Oct 22 10pm — Charlie Bardey Presents  THE PROMISE OF THE HEARTH - Part I The Bidden Path at Union Hall · from $19.26 · has artwork
+  - Fri Oct 23 7pm — Looking for Laughs at Caveat · from $22.35 · has artwork
+  - Fri Oct 23 7pm — MORAL KIOSK (R.E.M.) & BASTARDS OF YOUNG (REPLACEMENTS) at Littlefield · from $18.71 · has artwork
+  - Fri Oct 23 7:30pm — Adam Cayton-Holland Stares Wistfully Toward the Horizon at Union Hall · from $19.26 · has artwork
 
-## Week 2: Oct 28 to Nov 3 — 9 picks — 5 without artwork · 5 Eventbrite leads not yet reviewed
+## Week 2: Oct 29 to Nov 4 — 10 picks — 5 without artwork · 3 Eventbrite leads not yet reviewed
 
-- Wed Oct 28 7:30pm — **Clean Up Your Act** at West Side Comedy Club
 - Thu Oct 29 8pm · doors 7pm — **Boo-Ha-Ha Comedy Show** at Comedy In Harlem · NO ARTWORK
 - Thu Oct 29 9pm — **Megan Botnick Headlines** at West Side Comedy Club · NO ARTWORK
 - Fri Oct 30 7pm · doors 6:15pm — **Laughing Lassi** at Broadway Comedy Club · NO ARTWORK
@@ -53,18 +49,16 @@ Ranked 37; run 5, reuse 0, skip 32; ~288,000 tokens saved. No recent data: Nico 
 - Sun Nov 1 7:30pm — **Sunday Night Comedy** at Eastville Comedy Club · NO ARTWORK
 - Mon Nov 2 7:30pm — **Sam Oh: The Unbearable Tightness of Being...Gay Virgin** at The Bell House
 - Tue Nov 3 7pm — **Difficult People: The Movie — A Live Table Read** at The Town Hall · NO ARTWORK
-
-  Leads to review:
-  - Wed Oct 28 8pm — NYC’s HALLOWEEN PUNDERDOME®: Pun & Pun-Costume Compuntitions – is on 10/28! at Littlefield · from $14.86 · has artwork
-  - Wed Oct 28 8pm — Christian Finnegan, Feraz Shere, Rolonda Watts, Lenny Marcus, more! at Comic Strip Live · from $25.71 · has artwork
-  - Wed Oct 28 11pm — The Late Night Comedy Show at Kellogg's Diner at Kellogg's Diner · from $5 · has artwork
-  - Thu Oct 29 8pm — Dinner for One Presents: The Spookiest Things at Littlefield · from $18.71 · has artwork
-  - Fri Oct 30 7:30pm — Rocky Horror Picture Show with The Occasionalists at Littlefield · from $18.71 · has artwork
-
-## Week 3: Nov 4 to Nov 10 — 15 picks — 13 without artwork · 1 Eventbrite lead not yet reviewed
-
 - Wed Nov 4 7pm — **Please Stay Seated** at West Side Comedy Club
 - Wed Nov 4 8pm — **Salma Hindy: 10 Years of Stand-Up Comedy** at The Stand
+
+  Leads to review:
+  - Thu Oct 29 8pm — Dinner for One Presents: The Spookiest Things at Littlefield · from $18.71 · has artwork
+  - Fri Oct 30 7:30pm — Rocky Horror Picture Show with The Occasionalists at Littlefield · from $18.71 · has artwork
+  - Wed Nov 4 11pm — The Late Night Comedy Show at Kellogg's Diner at Kellogg's Diner · from $5 · has artwork
+
+## Week 3: Nov 5 to Nov 11 — 13 picks — 13 without artwork
+
 - Thu Nov 5 7:30pm — **Sam Tallent** at The Bell House · NO ARTWORK · heat 25
 - Fri Nov 6 7pm — **Ziwe** at The Town Hall · NO ARTWORK
 - Fri Nov 6 7pm — **Adam Ray** at Gramercy Theatre · NO ARTWORK
@@ -79,10 +73,7 @@ Ranked 37; run 5, reuse 0, skip 32; ~288,000 tokens saved. No recent data: Nico 
 - Mon Nov 9 8pm — **Stand Up for Heroes (NYCF)** at David Geffen Hall (Lincoln Center) · NO ARTWORK
 - Tue Nov 10 10pm — **Eddie Pepitone Headlining Union Hall (night one)** at Union Hall · NO ARTWORK
 
-  Leads to review:
-  - Wed Nov 4 11pm — The Late Night Comedy Show at Kellogg's Diner at Kellogg's Diner · from $5 · has artwork
-
-## Week 4: Nov 11 to Nov 17 — 13 picks — 10 without artwork
+## Week 4: Nov 12 to Nov 18 — 13 picks — 10 without artwork
 
 - Thu Nov 12 8pm — **Jordan Jensen** at Beacon Theatre · NO ARTWORK
 - Fri Nov 13 6:45pm — **Ilana Glazer Live!** at Beacon Theatre · NO ARTWORK · heat 20
@@ -98,7 +89,7 @@ Ranked 37; run 5, reuse 0, skip 32; ~288,000 tokens saved. No recent data: Nico 
 - Tue Nov 17 7pm — **Jessica Kirson Live in New York** at New York Comedy Club (Midtown)
 - Tue Nov 17 7:30pm — **Jaboukie Young-White** at The Bell House · NO ARTWORK · heat 35
 
-## Week 5: Nov 18 to Nov 24 — 12 picks — 5 without artwork
+## Week 5: Nov 19 to Nov 25 — 14 picks — 6 without artwork
 
 - Thu Nov 19 7pm — **Michelle Wolf: Best Job in the World** at The Town Hall · NO ARTWORK
 - Thu Nov 19 8pm — **Stone and Stone On The Road!** at West Side Comedy Club
@@ -112,11 +103,11 @@ Ranked 37; run 5, reuse 0, skip 32; ~288,000 tokens saved. No recent data: Nico 
 - Mon Nov 23 7pm — **Jessica Kirson Live in New York** at New York Comedy Club (Midtown) · NO ARTWORK
 - Mon Nov 23 7pm — **The Pachelbel Rant 20th Anniversary Show** at Caveat
 - Tue Nov 24 7pm — **Jacqueline Novak** at The Bell House · NO ARTWORK
-
-## Week 6: Nov 25 to Dec 1 — 5 picks — only 5 picks; target 8 · 1 without artwork · weekend is thin
-
 - Wed Nov 25 7:30pm · doors 7pm — **Down Bad Comedy Show** at St. Marks Comedy Club · NO ARTWORK
 - Wed Nov 25 7:45pm — **Story Warz w/ Big Jay Oakerson, Luis J Gomez + Special Guests** at New York Comedy Club (Midtown)
+
+## Week 6: Nov 26 to Dec 2 — 3 picks — only 3 picks; target 8 · weekend is thin
+
 - Thu Nov 26 8:30pm · doors 8pm — **Date Night Comedy Show x2** at St. Marks Comedy Club
 - Fri Nov 27 8:30pm · doors 8pm — **Friday Night Laughs Comedy Show** at St. Marks Comedy Club
 - Sun Nov 29 7:30pm — **The Silver Lining with Gianmarco Soresi** at The Bell House

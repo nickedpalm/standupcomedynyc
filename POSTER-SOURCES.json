@@ -849,7 +849,7 @@
  },
  {
   "event_id": "brett-goldstein-2026-10-21",
-  "src": "/assets/posters/brett-goldstein-2026-10-21.jpg",
+  "src": "/assets/posters/archive/brett-goldstein-2026-10-21.jpg",
   "width": 640,
   "height": 427,
   "source_url": "https://www.ticketmaster.com/brett-goldstein-runs-his-hour-before-brooklyn-new-york-10-21-2026/event/300064E6E5A07BB8",
@@ -860,7 +860,8 @@
   "retrieved_at": "2026-09-15",
   "bytes": 45926,
   "sha256": "TBD",
-  "reuse_status": "Official promotional artwork from the show's Ticketmaster listing; no separate reuse license identified. Site display with credit only."
+  "reuse_status": "Official promotional artwork from the show's Ticketmaster listing; no separate reuse license identified. Site display with credit only.",
+  "archived": true
  },
  {
   "event_id": "sydnee-washington-2026-10-23",
@@ -1748,7 +1749,7 @@
  },
  {
   "event_id": "invisible-architecture-charlie-flynn-union-hall-2026-10-21",
-  "src": "/assets/posters/charlie-flynn-union-hall-2026-10-21.jpg",
+  "src": "/assets/posters/archive/charlie-flynn-union-hall-2026-10-21.jpg",
   "width": 1880,
   "height": 938,
   "source_url": "https://www.eventbrite.com/e/invisible-architecture-an-evening-of-comedy-with-charlie-flynn-tickets-2002602784838",
@@ -1759,7 +1760,8 @@
   "verified_at": "2026-10-15",
   "bytes": 99320,
   "sha256": "faa58d7989cfab0e1c1c6ae732c3a89ef37273676ae6660c122f5f0197977bca",
-  "reuse_status": "Official promotional artwork; no separate reuse license identified. Local review draft only."
+  "reuse_status": "Official promotional artwork; no separate reuse license identified. Local review draft only.",
+  "archived": true
  },
  {
   "event_id": "nico-carney-union-hall-2026-10-22",
