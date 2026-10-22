@@ -11,9 +11,9 @@ Six weeks ahead from the board. Regenerated on every build; edit the data, not t
 
 ## Research plan today
 
-Ranked 37; run 5, reuse 0, skip 32; ~288,000 tokens saved. No recent data: Nico Carney, Sydnee Washington, Ruby Setnik.
+Ranked 39; run 5, reuse 0, skip 34; ~306,000 tokens saved. No recent data: Nico Carney, Sydnee Washington, Ruby Setnik.
 
-## Week 1: Oct 22 to Oct 28 — 13 picks — 8 without artwork · 29 Eventbrite leads not yet reviewed
+## Week 1: Oct 22 to Oct 28 — 13 picks — 8 without artwork · 37 Eventbrite leads not yet reviewed
 
 - Thu Oct 22 7pm — **Laugh! It's for Charity! — A Comedy Benefit for the National MS Society** at West Side Comedy Club · NO ARTWORK
 - Thu Oct 22 7:30pm — **Nico Carney Live!** at Union Hall
@@ -39,7 +39,7 @@ Ranked 37; run 5, reuse 0, skip 32; ~288,000 tokens saved. No recent data: Nico 
   - Fri Oct 23 7pm — MORAL KIOSK (R.E.M.) & BASTARDS OF YOUNG (REPLACEMENTS) at Littlefield · from $18.71 · has artwork
   - Fri Oct 23 7:30pm — Adam Cayton-Holland Stares Wistfully Toward the Horizon at Union Hall · from $19.26 · has artwork
 
-## Week 2: Oct 29 to Nov 4 — 10 picks — 5 without artwork · 3 Eventbrite leads not yet reviewed
+## Week 2: Oct 29 to Nov 4 — 10 picks — 5 without artwork · 6 Eventbrite leads not yet reviewed
 
 - Thu Oct 29 8pm · doors 7pm — **Boo-Ha-Ha Comedy Show** at Comedy In Harlem · NO ARTWORK
 - Thu Oct 29 9pm — **Megan Botnick Headlines** at West Side Comedy Club · NO ARTWORK
@@ -55,9 +55,12 @@ Ranked 37; run 5, reuse 0, skip 32; ~288,000 tokens saved. No recent data: Nico 
   Leads to review:
   - Thu Oct 29 8pm — Dinner for One Presents: The Spookiest Things at Littlefield · from $18.71 · has artwork
   - Fri Oct 30 7:30pm — Rocky Horror Picture Show with The Occasionalists at Littlefield · from $18.71 · has artwork
-  - Wed Nov 4 11pm — The Late Night Comedy Show at Kellogg's Diner at Kellogg's Diner · from $5 · has artwork
+  - Fri Oct 30 8pm — Christian Finnegan, Nick Griffin, Connor O'Brien, Olga Namer, & more! at Comic Strip Live · from $25.71 · has artwork
+  - Sat Oct 31 8pm — Tom Van Horn, Connor O'Brien, Jocelyn Chia, Paul Mecurio, & Brian McFadden! at Comic Strip Live · from $25.71 · has artwork
+  - Sat Oct 31 10:30pm — Tom Van Horn, Connor O'Brien, Jocelyn Chia, Paul Mecurio, & Brian McFadden! at Comic Strip Live · from $25.71 · has artwork
+  - Wed Nov 4 11pm — The Late Night Comedy Show at Kellogg's Diner at Kellogg's Diner · from $10 · has artwork
 
-## Week 3: Nov 5 to Nov 11 — 13 picks — 13 without artwork
+## Week 3: Nov 5 to Nov 11 — 13 picks — 13 without artwork · 1 Eventbrite lead not yet reviewed
 
 - Thu Nov 5 7:30pm — **Sam Tallent** at The Bell House · NO ARTWORK · heat 25
 - Fri Nov 6 7pm — **Ziwe** at The Town Hall · NO ARTWORK
@@ -67,20 +70,23 @@ Ranked 37; run 5, reuse 0, skip 32; ~288,000 tokens saved. No recent data: Nico 
 - Sat Nov 7 6pm — **Joanne McNally: Pinotphile** at The Town Hall · NO ARTWORK · heat 35
 - Sun Nov 8 4pm — **Josh Sharp: An Hour of Crowd Work in the Round** at The Bell House · NO ARTWORK
 - Sun Nov 8 7pm — **Sarah Sherman & Patti Harrison** at The Town Hall · NO ARTWORK
-- Sun Nov 8 7:30pm — **Marc Maron: Yammering Into the Void Tour** at Beacon Theatre · NO ARTWORK · heat 20
+- Sun Nov 8 7:30pm — **Marc Maron: Yammering Into the Void Tour** at Beacon Theatre · NO ARTWORK · heat 39
 - Sun Nov 8 7:30pm — **Rainbow Riot** at Brooklyn Comedy Collective · NO ARTWORK
-- Mon Nov 9 7:30pm — **Dewayne Perkins** at The Bell House · NO ARTWORK
+- Mon Nov 9 7:30pm — **Dewayne Perkins** at The Bell House · NO ARTWORK · heat 20
 - Mon Nov 9 8pm — **Stand Up for Heroes (NYCF)** at David Geffen Hall (Lincoln Center) · NO ARTWORK
 - Tue Nov 10 10pm — **Eddie Pepitone Headlining Union Hall (night one)** at Union Hall · NO ARTWORK
+
+  Leads to review:
+  - Fri Nov 6 8pm — Upcoming Event at Comic Strip Live · from $25.71
 
 ## Week 4: Nov 12 to Nov 18 — 13 picks — 10 without artwork
 
 - Thu Nov 12 8pm — **Jordan Jensen** at Beacon Theatre · NO ARTWORK
-- Fri Nov 13 6:45pm — **Ilana Glazer Live!** at Beacon Theatre · NO ARTWORK · heat 20
+- Fri Nov 13 6:45pm — **Ilana Glazer Live!** at Beacon Theatre · NO ARTWORK · heat 30
 - Fri Nov 13 7pm — **Jess Hilarious: The Don t Play Wit Me Tour** at Hard Rock Hotel New York - The Venue on Music Row · NO ARTWORK
 - Fri Nov 13 8pm — **Dropout Improv** at Kings Theatre · NO ARTWORK
 - Sat Nov 14 3pm — **The Moth x Comic Relief: Funny Story** at The Town Hall · NO ARTWORK
-- Sat Nov 14 7pm — **Daniel Sloss: Bitter** at Beacon Theatre · NO ARTWORK
+- Sat Nov 14 7pm — **Daniel Sloss: Bitter** at Beacon Theatre · NO ARTWORK · heat 24
 - Sat Nov 14 7pm — **SH&T Show hosted by Jordan Klepper** at The Town Hall · NO ARTWORK
 - Sun Nov 15 5pm — **Jake Velazquez: Special Recording** at New York Comedy Club (Midtown)
 - Sun Nov 15 6:30pm — **Mojo Brookzz: Outta Pocket Comedy Tour** at Beacon Theatre · NO ARTWORK
@@ -106,9 +112,16 @@ Ranked 37; run 5, reuse 0, skip 32; ~288,000 tokens saved. No recent data: Nico 
 - Wed Nov 25 7:30pm · doors 7pm — **Down Bad Comedy Show** at St. Marks Comedy Club · NO ARTWORK
 - Wed Nov 25 7:45pm — **Story Warz w/ Big Jay Oakerson, Luis J Gomez + Special Guests** at New York Comedy Club (Midtown)
 
-## Week 6: Nov 26 to Dec 2 — 3 picks — only 3 picks; target 8 · weekend is thin
+## Week 6: Nov 26 to Dec 2 — 10 picks — 4 without artwork
 
 - Thu Nov 26 8:30pm · doors 8pm — **Date Night Comedy Show x2** at St. Marks Comedy Club
 - Fri Nov 27 8:30pm · doors 8pm — **Friday Night Laughs Comedy Show** at St. Marks Comedy Club
+- Sat Nov 28 8pm — **Eastville Saturday Showcase** at Eastville Comedy Club · NO ARTWORK
+- Sun Nov 29 7pm — **Comedy Idol Finale** at West Side Comedy Club · NO ARTWORK
 - Sun Nov 29 7:30pm — **The Silver Lining with Gianmarco Soresi** at The Bell House
+- Sun Nov 29 7:30pm — **Sunday Night Comedy** at Eastville Comedy Club · NO ARTWORK
+- Mon Nov 30 7:30pm — **Brooklyn Power Hour (Now on a New Night!)** at Eastville Comedy Club · NO ARTWORK
+- Mon Nov 30 8pm — **Stamptown** at The Bell House
+- Tue Dec 1 7pm · doors 6pm — **Jeff Scheen Special Taping Featuring Jeff Arcuri** at Littlefield
+- Wed Dec 2 7:30pm — **Ania Magliano: Peach Fuzz** at The Bell House · heat 35
 

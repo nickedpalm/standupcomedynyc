@@ -1,17 +1,21 @@
 {
- "generated_at": "2026-10-19T11:03:24.146Z",
- "performers_considered": 37,
+ "generated_at": "2026-10-22T11:15:31.938Z",
+ "performers_considered": 39,
  "shortlist": [
   {
-   "name": "Michelle Buteau",
-   "priority": 45
+   "name": "Ania Magliano",
+   "priority": 40
   },
   {
    "name": "Marc Maron",
-   "priority": 44
+   "priority": 39
   },
   {
    "name": "Nico Carney",
+   "priority": 35
+  },
+  {
+   "name": "Sydnee Washington",
    "priority": 35
   },
   {
@@ -31,36 +35,15 @@
    "priority": 25
   },
   {
-   "name": "Sydnee Washington",
-   "priority": 20
+   "name": "Daniel Sloss",
+   "priority": 24
   },
   {
    "name": "Ruby Setnik",
    "priority": 20
-  },
-  {
-   "name": "Jessica Kirson",
-   "priority": 20
   }
  ],
  "run": [
-  {
-   "name": "Michelle Buteau",
-   "priority": 45,
-   "next": {
-    "id": "michelle-buteau-2026-10-19",
-    "date": "2026-10-19",
-    "venue": "The Bell House",
-    "days": 0,
-    "featured": false,
-    "poster": true,
-    "demand": null
-   },
-   "cheap_signals": [
-    "Wikipedia: 785 views a day"
-   ],
-   "reason": "show within 3 days and not yet decided"
-  },
   {
    "name": "Nico Carney",
    "priority": 35,
@@ -68,7 +51,7 @@
     "id": "nico-carney-union-hall-2026-10-22",
     "date": "2026-10-22",
     "venue": "Union Hall",
-    "days": 3,
+    "days": 0,
     "featured": false,
     "poster": true,
     "demand": null
@@ -78,18 +61,18 @@
   },
   {
    "name": "Sydnee Washington",
-   "priority": 20,
+   "priority": 35,
    "next": {
     "id": "sydnee-washington-2026-10-23",
     "date": "2026-10-23",
     "venue": "The Bell House",
-    "days": 4,
+    "days": 1,
     "featured": false,
     "poster": true,
     "demand": null
    },
    "cheap_signals": [],
-   "reason": "in the decision window and not yet decided"
+   "reason": "show within 3 days and not yet decided"
   },
   {
    "name": "Ruby Setnik",
@@ -98,7 +81,7 @@
     "id": "ruby-setnik-bell-house-2026-10-27",
     "date": "2026-10-27",
     "venue": "The Bell House",
-    "days": 8,
+    "days": 5,
     "featured": false,
     "poster": true,
     "demand": null
@@ -107,20 +90,38 @@
    "reason": "in the decision window and not yet decided"
   },
   {
+   "name": "Ania Magliano",
+   "priority": 40,
+   "next": {
+    "id": "ania-magliano-peach-fuzz-bell-house-2026-12-02",
+    "date": "2026-12-02",
+    "venue": "The Bell House",
+    "days": 41,
+    "featured": false,
+    "poster": true,
+    "demand": null
+   },
+   "cheap_signals": [
+    "Wikipedia: 2727 views a day",
+    "Wikipedia views up 124% over the prior month"
+   ],
+   "reason": "filled to the minimum of 5"
+  },
+  {
    "name": "Marc Maron",
-   "priority": 44,
+   "priority": 39,
    "next": {
     "id": "nycf-marc-maron-beacon-2026-11-08",
     "date": "2026-11-08",
     "venue": "Beacon Theatre",
-    "days": 20,
+    "days": 17,
     "featured": false,
     "poster": false,
     "demand": null
    },
    "cheap_signals": [
-    "Wikipedia: 1186 views a day",
-    "Reddit: 4 posts in 30 days, 238 upvotes (top: r/newjersey)"
+    "Wikipedia: 1165 views a day",
+    "Reddit: 3 posts in 30 days, 232 upvotes (top: r/newjersey)"
    ],
    "reason": "filled to the minimum of 5"
   }
@@ -130,40 +131,60 @@
   {
    "name": "Joanne McNally",
    "priority": 35,
-   "reason": "next show in 19 days, outside the 10-day window"
+   "reason": "next show in 16 days, outside the 10-day window"
   },
   {
    "name": "Jaboukie Young-White",
    "priority": 35,
-   "reason": "next show in 29 days, outside the 10-day window"
+   "reason": "next show in 26 days, outside the 10-day window"
   },
   {
    "name": "Ilana Glazer",
    "priority": 30,
-   "reason": "next show in 25 days, outside the 10-day window"
+   "reason": "next show in 22 days, outside the 10-day window"
   },
   {
    "name": "Sam Tallent",
    "priority": 25,
-   "reason": "next show in 17 days, outside the 10-day window"
+   "reason": "next show in 14 days, outside the 10-day window"
   },
   {
-   "name": "Jessica Kirson",
-   "priority": 20,
-   "reason": "next show in 29 days, outside the 10-day window"
+   "name": "Daniel Sloss",
+   "priority": 24,
+   "reason": "next show in 23 days, outside the 10-day window"
   },
   {
-   "name": "Jo March Madness",
+   "name": "Nasser Al-Rayess",
    "priority": 20,
    "reason": "outside the top 10 by cheap ranking"
   },
   {
-   "name": "Econ LOL",
+   "name": "Dewayne Perkins",
+   "priority": 20,
+   "reason": "outside the top 10 by cheap ranking"
+  },
+  {
+   "name": "Jessica Kirson",
    "priority": 20,
    "reason": "outside the top 10 by cheap ranking"
   },
   {
    "name": "Charlie Bardey",
+   "priority": 20,
+   "reason": "outside the top 10 by cheap ranking"
+  },
+  {
+   "name": "Picture This",
+   "priority": 20,
+   "reason": "outside the top 10 by cheap ranking"
+  },
+  {
+   "name": "Drunk Planet Earth",
+   "priority": 20,
+   "reason": "outside the top 10 by cheap ranking"
+  },
+  {
+   "name": "Dancehall Forever",
    "priority": 20,
    "reason": "outside the top 10 by cheap ranking"
   },
@@ -178,12 +199,22 @@
    "reason": "outside the top 10 by cheap ranking"
   },
   {
-   "name": "Daniel Sloss",
+   "name": "Laughing Lassi",
    "priority": 15,
    "reason": "outside the top 10 by cheap ranking"
   },
   {
    "name": "Matthew Broussard",
+   "priority": 15,
+   "reason": "outside the top 10 by cheap ranking"
+  },
+  {
+   "name": "Christian Finnegan",
+   "priority": 15,
+   "reason": "outside the top 10 by cheap ranking"
+  },
+  {
+   "name": "Jacqueline Novak",
    "priority": 15,
    "reason": "outside the top 10 by cheap ranking"
   },
@@ -198,8 +229,8 @@
    "reason": "outside the top 10 by cheap ranking"
   },
   {
-   "name": "Nasser Al-Rayess",
-   "priority": 5,
+   "name": "Michelle Wolf",
+   "priority": 10,
    "reason": "outside the top 10 by cheap ranking"
   },
   {
@@ -243,31 +274,6 @@
    "reason": "outside the top 10 by cheap ranking"
   },
   {
-   "name": "Christian Finnegan",
-   "priority": 5,
-   "reason": "outside the top 10 by cheap ranking"
-  },
-  {
-   "name": "Jacqueline Novak",
-   "priority": 5,
-   "reason": "outside the top 10 by cheap ranking"
-  },
-  {
-   "name": "Picture This",
-   "priority": 5,
-   "reason": "outside the top 10 by cheap ranking"
-  },
-  {
-   "name": "Dancehall Forever",
-   "priority": 5,
-   "reason": "outside the top 10 by cheap ranking"
-  },
-  {
-   "name": "Laughing Lassi",
-   "priority": 0,
-   "reason": "outside the top 10 by cheap ranking"
-  },
-  {
    "name": "Difficult People",
    "priority": 0,
    "reason": "outside the top 10 by cheap ranking"
@@ -286,10 +292,15 @@
    "name": "Dropout Improv",
    "priority": 0,
    "reason": "outside the top 10 by cheap ranking"
+  },
+  {
+   "name": "Upcoming Event",
+   "priority": -10,
+   "reason": "outside the top 10 by cheap ranking"
   }
  ],
- "estimated_tokens_saved": 288000,
- "estimate_basis": "9000 tokens per last30days run, 32 runs avoided out of 37",
+ "estimated_tokens_saved": 306000,
+ "estimate_basis": "9000 tokens per last30days run, 34 runs avoided out of 39",
  "no_recent_data": [
   "Nico Carney",
   "Sydnee Washington",

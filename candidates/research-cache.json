@@ -174,6 +174,31 @@
    "at": "2026-10-15T11:09:57.870Z",
    "note": "No online footprint in the last 30 days; HN/Reddit returns only name-collision noise (Alex Gibney, Alex Honnold). Eastville Sat 10/17 is the room's Saturday 10pm showcase — pick on the room and the weekend slot, not on buzz.",
    "source": "last30days"
+  },
+  "Nico Carney": {
+   "at": "2026-10-22T11:16:19.271Z",
+   "note": "Two Reddit threads in 30 days and both are false positives from r/soccer and r/aze_geeks, no stand-up chatter about the Union Hall Thursday show.",
+   "source": "last30days"
+  },
+  "Sydnee Washington": {
+   "at": "2026-10-22T11:17:29.948Z",
+   "note": "No usable evidence in 30 days from Reddit or Hacker News despite her Bell House Friday special and a 40-year career, so the pick stands on the show page alone.",
+   "source": "last30days"
+  },
+  "Ruby Setnik": {
+   "at": "2026-10-22T11:18:59.737Z",
+   "note": "Two small Reddit threads, one her own subreddit and one in r/FemaleStandupComedy, with no heat on the Bell House Tuesday; the Hacker News hits are all about the Ruby programming language.",
+   "source": "last30days"
+  },
+  "Ania Magliano": {
+   "at": "2026-10-22T11:20:34.073Z",
+   "note": "The loudest signal on the board right now: a 9,974-upvote r/Fauxmoi thread on Oct 17 plus heavy r/SNLbabes and LiveFrom chatter on her Taskmaster season, which is why the Bell House Dec 2 Peach Fuzz date is worth a board slot two months out.",
+   "source": "last30days"
+  },
+  "Marc Maron": {
+   "at": "2026-10-22T11:22:13.600Z",
+   "note": "Twelve Reddit threads in 30 days led by a 503-upvote r/MarcMaron post and his own subreddit going active again, so the Beacon Nov 8 tour stop has genuine pre-sale demand.",
+   "source": "last30days"
   }
  }
 }

@@ -325,3 +325,17 @@ Generated from `npm run heat` + `npm run research-plan` (last30days for the 2 na
 ### Ranked on schedule alone (no recent data, ranked by show date)
 - All 36 skipped performers are outside the top 10 by cheap ranking or outside the 10-day window. The 3 new picks this session (Nico Carney Union Hall Thu 10/22, Pachelbel Rant 20th Anniversary Caveat Mon 11/23, Story Warz NYCC Wed 11/25) are outside the 10-day window or sit below the cheap-rank threshold, so the plan skipped them; the picks stand on the show pages alone.
 - The 3 RUN names that have already-pickable Reddit return (Kendall Farrell, Michelle Buteau, Johnny Pemberton) all returned topical pickup / name-collision traffic — none of it comedian-specific — so the previous caches hold and no fresh note needs to age past this 7-day window.
+
+2026-10-22 daily edition
+- Ranked 39 performers; **ran 5** (Nico Carney, Sydnee Washington, Ruby Setnik, Ania Magliano, Marc Maron); **reused 0**; **skipped 34** (outside the 10-day window or below the cheap-rank threshold); **~306,000 tokens saved**.
+- 3 names ranked on schedule alone for lack of recent data: Nico Carney, Sydnee Washington, Ruby Setnik.
+
+### Run notes
+- **Nico Carney** (Union Hall Thu 10/22, 7:30pm): 2 Reddit threads, both false positives from r/soccer and r/aze_geeks; nothing about the show. Cached for 7d.
+- **Sydnee Washington** (Bell House Fri 10/23, 7:30pm): no usable dated evidence at all from Reddit or Hacker News, despite a 40-year career and a Friday special. The pick stands on the show page alone. Cached for 7d.
+- **Ruby Setnik** (Bell House Tue 10/27, 7:30pm): 2 small Reddit threads (her own subreddit and r/FemaleStandupComedy), no heat on the date; all 5 Hacker News hits are about the Ruby programming language. Cached for 7d.
+- **Ania Magliano** (Bell House Wed 12/2, Peach Fuzz): the loudest signal on the board — a 9,974-upvote r/Fauxmoi thread on Oct 17 plus heavy r/SNLbabes and LiveFrom chatter on her Taskmaster season. Justifies the new Dec 2 pick at 41 days out. Cached for 7d.
+- **Marc Maron** (Beacon Sun 11/8, 7:30pm): 12 Reddit threads, led by a 503-upvote r/MarcMaron post and his subreddit active again; real pre-sale demand for the Beacon stop. Cached for 7d.
+
+### Ranked on schedule alone
+- All 34 skipped performers sit outside the 10-day window or below the cheap-rank threshold. The new week-6 picks (Eastville Nov 28/29/30, Stamptown Nov 30, Comedy Idol Finale Nov 29, Jeff Scheen Dec 1, Ania Magliano Dec 2) are 39+ days out, so the plan skipped four of them by the window rule; the Magliano pick was force-filled to the minimum of 5 runs and returned the strongest signal on the board.

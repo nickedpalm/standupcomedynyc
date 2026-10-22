@@ -689,3 +689,29 @@ Trimmed the Opey blurb so the lead name is the subject of the first sentence ("O
 
 ### Improvement today
 The factual correction to the Novak blurb was the day's data fix — "Get to Be Funny" → "Get on Your Knees" — and the rewrite landed before commit, not after. The Charlie Flynn blurb leads with the host credit and the undercard's strongest names (Cat Cohen, Malik Elassal, Edy Modica, Wils Pelton), then closes on the format (premieres between stand-up sets); the host's name is the subject of the first sentence so the description doesn't read as a venue marketing line.
+
+## Daily edition — 2026-10-22 (cron run)
+
+**Week 6 (Nov 26 – Dec 2) was the only week under the 8-pick floor, at 3 picks.** Added 7, all opened and read today.
+
+- `eastville-saturday-showcase-2026-11-28` — Sat 8pm, $33.46 GA, Cipha Sounds with Ayanna Dookie, Liam Dalton, Tom Zappia, Lauren Cocroft, Greg Melly. Event page read; lineup and price from the page. Two-drink minimum noted.
+- `sunday-night-comedy-eastville-2026-11-29` — Sun 7:30pm, $28.13 GA / $38.79 front row, Priya Blunts with five more. Event page read.
+- `brooklyn-power-hour-eastville-2026-11-30` — Mon 7:30pm, $12.15. Third Eastville date in the week; each has a named lineup or a price hook, so the blurbs lead on different facts rather than repeating the room.
+- `comedy-idol-finale-wscc-2026-11-29` — Sun 7pm. Source is the WSCC calendar grid; Felicia Madison named as a finalist from the Punchup ticket page (punchup.live is the club's ticketing partner, same call as the Sep 22 Freda pick).
+- `stamptown-bell-house-2026-11-30` — Mon 8pm. Live Nation mirror of the Ticketmaster page (which is CAPTCHA-gated). Lineup confirmed on the page: Stamptown + Zach Zucker. Artwork saved via the Live Nation `_next/image` proxy of the Ticketmaster CDN, the standing workaround.
+- `ania-magliano-peach-fuzz-bell-house-2026-12-02` — Wed 7:30pm. Live Nation mirror; same artwork workaround. Added on the strength of the last30days run: a 9,974-upvote r/Fauxmoi thread on Oct 17.
+- `jeff-scheen-special-littlefield-2026-12-01` — Tue 7pm, doors 6pm, 21+. Littlefield's own event page. Poster from the Eventbrite image already sitting on that page.
+
+**Open mics added (3, all from Comic Strip Live's own show-times table):**
+- `gladys-fri-comic-strip` — Fri 6pm, $14 including a drink, sign up by calling or emailing Gladys Simon.
+- `gladys-wed-comic-strip` — Wed 6pm, same terms. The club's table lists "Wednesday / Friday 6.00 PM" as two nights of one show, so they are two records per the one-record-per-night rule.
+- `df-tue-comic-strip` — Tue 6pm, the DF Sweedler workshop mic. The club's table states the night but no price or sign-up method, so both fields say so rather than guessing.
+
+**Held out:**
+- Caveat's Nov 5–7 slate was not reachable: `caveat.nyc/events` only renders the current month through Oct 31, and the query-string date filter returns the same page. Nothing from Caveat could be verified for week 6.
+- Eastville's Nov 25 Wednesday Showcase, Nov 26 Thursday Showcase and Nov 27 Friday Showcase are on the calendar but carry no named lineup on the page and reuse the club logo as their thumbnail. Held under the describe-only rule.
+- Comic Strip's Nov 11 (Kev Adams) and Nov 22 dates are on the club's schedule page but the per-show pages carry no lineup or price yet. Held; worth a re-read next week once the bill posts.
+- The Eventbrite leads (Drunk Planet Earth, On The Watchlist, The Story Collider, WFP Sketch Show, Roll For Friends, Abolish Everything) are all Caveat format nights already held on earlier sessions for the same reasons — drinking games, game shows, sketch, story panels.
+
+**Improvement today**
+`web/data/links.json`: the link-in-bio was carrying `this-week` above `neighborhoods`, `open-mics` and `clubs`, so the two pages a reader actually opens on a night out sat below a planning page. Reordered to board, mailing list, open mics, clubs, neighborhoods, this week, and bumped `updated` to today. Still six links, no copy added — no festival or special is running that needs a dated entry this week (NYCF starts Nov 6).

@@ -1,5 +1,5 @@
 {
- "retrieved_at": "2026-10-19T11:01:37.133Z",
+ "retrieved_at": "2026-10-22T11:03:26.306Z",
  "note": "Leads from Eventbrite organizer pages of registered rooms. Open the event page before adding a pick; artwork needs a POSTER-SOURCES record.",
  "organizers": [
   {
@@ -37,272 +37,6 @@
  ],
  "events": [
   {
-   "venue": "Caveat",
-   "neighborhood": "Lower East Side",
-   "organizer": "https://www.eventbrite.com/o/caveat-13580085802",
-   "title": "And Scene",
-   "date": "2026-10-19",
-   "time": "7pm",
-   "starts_at": "2026-10-19T19:00:00-04:00",
-   "ends_at": "2026-10-19T20:05:00-04:00",
-   "location_name": "Caveat",
-   "location_address": "21 A Clinton Street, New York, NY 10002, New York",
-   "price_from": 18.76,
-   "url": "https://www.eventbrite.com/e/and-scene-tickets-1999413048250",
-   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1192403913%2F207096185123%2F1%2Foriginal.20260901-185838?w=940&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2160%2C1080&s=02686a3f1125d3efa4418c462e0c4470",
-   "description": "Actors are given a scene & learn their lines, improvisers are given nothing & must make it work.",
-   "venue_name_matches": true,
-   "already_a_pick": false,
-   "seen_before": true
-  },
-  {
-   "venue": "Union Hall",
-   "neighborhood": "Park Slope",
-   "organizer": "https://www.eventbrite.com/o/union-hall-17899496497",
-   "title": "Frankenstein's Baby",
-   "date": "2026-10-19",
-   "time": "7:30pm",
-   "starts_at": "2026-10-19T19:30:00-04:00",
-   "ends_at": "2026-10-19T21:00:00-04:00",
-   "location_name": "Union Hall",
-   "location_address": "702 Union St., Brooklyn, NY 11215, Brooklyn",
-   "price_from": 15.92,
-   "url": "https://www.eventbrite.com/e/frankensteins-baby-tickets-2001231177323",
-   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1195625295%2F2330790970943%2F1%2Foriginal.20261012-181110?crop=focalpoint&fit=crop&w=940&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=2820673e040cca704bf8da8474035d58",
-   "description": "Frankenstein’s Baby - Monday, October 19 - 7:00pm Doors / 7:30pm Show",
-   "venue_name_matches": true,
-   "already_a_pick": false,
-   "seen_before": true
-  },
-  {
-   "venue": "Comic Strip Live",
-   "neighborhood": "Upper East Side",
-   "organizer": "https://www.eventbrite.com/o/comic-strip-live-comedy-club-8100188167",
-   "title": "The Peter Stewart Show! With Matt Pavich!",
-   "date": "2026-10-19",
-   "time": "8pm",
-   "starts_at": "2026-10-19T20:00:00-04:00",
-   "ends_at": "2026-10-19",
-   "location_name": "Comic Strip Live",
-   "location_address": "1568 2nd Ave, New York, NY 10028, New York",
-   "price_from": 25.71,
-   "url": "https://www.eventbrite.com/e/the-peter-stewart-show-with-matt-pavich-tickets-2002306275972",
-   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1194381918%2F136153380524%2F1%2Foriginal.20260925-184738?crop=focalpoint&fit=crop&w=940&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=622109930e55cebd3cce5ccb55b18795",
-   "description": "Be part of history, celebrating 50 years of Comedy at the World Comic Strip! Comedians from, HBO, The Tonight Show, SNL & More ~",
-   "venue_name_matches": true,
-   "already_a_pick": false,
-   "seen_before": true
-  },
-  {
-   "venue": "Caveat",
-   "neighborhood": "Lower East Side",
-   "organizer": "https://www.eventbrite.com/o/caveat-13580085802",
-   "title": "The History of Weed",
-   "date": "2026-10-19",
-   "time": "9pm",
-   "starts_at": "2026-10-19T21:00:00-04:00",
-   "ends_at": "2026-10-19T22:15:00-04:00",
-   "location_name": "Caveat",
-   "location_address": "21 A Clinton Street, New York, NY 10002, New York",
-   "price_from": 18.76,
-   "url": "https://www.eventbrite.com/e/the-history-of-weed-tickets-1999862606892",
-   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1195720577%2F207096185123%2F1%2Foriginal.20261013-193408?w=940&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C1774%2C887&s=d1cb4f67c463cb6514e5cf82697a9c0f",
-   "description": "The History of Weed chronicles the planet’s most celebrated and demonized plant.",
-   "venue_name_matches": true,
-   "already_a_pick": false,
-   "seen_before": true
-  },
-  {
-   "venue": "Caveat",
-   "neighborhood": "Lower East Side",
-   "organizer": "https://www.eventbrite.com/o/caveat-13580085802",
-   "title": "The Jewish Dating Game!",
-   "date": "2026-10-20",
-   "time": "7pm",
-   "starts_at": "2026-10-20T19:00:00-04:00",
-   "ends_at": "2026-10-20T20:30:00-04:00",
-   "location_name": "Caveat",
-   "location_address": "21 A Clinton Street, New York, NY 10002, New York",
-   "price_from": 24.41,
-   "url": "https://www.eventbrite.com/e/the-jewish-dating-game-tickets-1998065148646",
-   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1193885840%2F207096185123%2F1%2Foriginal.20260919-021259?w=940&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C1200%2C600&s=697091f3c6dd87667626145b6f733cc5",
-   "description": "Got Chutzpah? Blind date live for the chance to win dinner dates all over the city, or just come watch people fall in love!",
-   "venue_name_matches": true,
-   "already_a_pick": false,
-   "seen_before": true
-  },
-  {
-   "venue": "Union Hall",
-   "neighborhood": "Park Slope",
-   "organizer": "https://www.eventbrite.com/o/union-hall-17899496497",
-   "title": "Girl Mountain Goes Missing!",
-   "date": "2026-10-20",
-   "time": "7:30pm",
-   "starts_at": "2026-10-20T19:30:00-04:00",
-   "ends_at": "2026-10-20T21:00:00-04:00",
-   "location_name": "Union Hall",
-   "location_address": "702 Union St., Brooklyn, NY 11215, Brooklyn",
-   "price_from": 13.61,
-   "url": "https://www.eventbrite.com/e/girl-mountain-goes-missing-tickets-2002451529429",
-   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1194528212%2F282041210522%2F1%2Foriginal.20260928-151958?crop=focalpoint&fit=crop&w=940&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=b70e924048fcb0ec3312adebc246a192",
-   "description": "Girl Mountain Goes Missing! - Tuesday, October 20 - 7:00pm Doors / 7:30pm Show",
-   "venue_name_matches": true,
-   "already_a_pick": false,
-   "seen_before": true
-  },
-  {
-   "venue": "Comic Strip Live",
-   "neighborhood": "Upper East Side",
-   "organizer": "https://www.eventbrite.com/o/comic-strip-live-comedy-club-8100188167",
-   "title": "The Knicks Banner and Ring Ceremony! Knicks Vs Philly!",
-   "date": "2026-10-20",
-   "time": "8pm",
-   "starts_at": "2026-10-20T20:00:00-04:00",
-   "ends_at": "2026-10-20",
-   "location_name": "Comic Strip Live",
-   "location_address": "1568 2nd Ave, New York, NY 10028, New York",
-   "price_from": 0,
-   "url": "https://www.eventbrite.com/e/the-knicks-banner-and-ring-ceremony-knicks-vs-philly-tickets-2002306286002",
-   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1194381987%2F136153380524%2F1%2Foriginal.20260925-184848?crop=focalpoint&fit=crop&w=940&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=3d3c2fb5e8273724a50b227bcc5c2d8f",
-   "description": "Be part of history, celebrating 50 years of Comedy at the World Comic Strip! Comedians from, HBO, The Tonight Show, SNL & More ~",
-   "venue_name_matches": true,
-   "already_a_pick": false,
-   "seen_before": true
-  },
-  {
-   "venue": "Caveat",
-   "neighborhood": "Lower East Side",
-   "organizer": "https://www.eventbrite.com/o/caveat-13580085802",
-   "title": "Jo March Madness",
-   "date": "2026-10-20",
-   "time": "9:30pm",
-   "starts_at": "2026-10-20T21:30:00-04:00",
-   "ends_at": "2026-10-20T23:00:00-04:00",
-   "location_name": "Caveat",
-   "location_address": "21 A Clinton Street, New York, NY 10002, New York",
-   "price_from": 18.76,
-   "url": "https://www.eventbrite.com/e/jo-march-madness-tickets-1999942140780",
-   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1192400960%2F207096185123%2F1%2Foriginal.20260901-183008?w=940&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C4000%2C2000&s=6592ed01480ff769007c0d72765584d8",
-   "description": "Welcome to the bracket where YOU decide the winner - join our host, Ben Langhorst, on a gay fantasia of mentally ill proportions.",
-   "venue_name_matches": true,
-   "already_a_pick": false,
-   "seen_before": false
-  },
-  {
-   "venue": "Caveat",
-   "neighborhood": "Lower East Side",
-   "organizer": "https://www.eventbrite.com/o/caveat-13580085802",
-   "title": "Econ LOL",
-   "date": "2026-10-21",
-   "time": "7pm",
-   "starts_at": "2026-10-21T19:00:00-04:00",
-   "ends_at": "2026-10-21T20:30:00-04:00",
-   "location_name": "Caveat",
-   "location_address": "21 A Clinton Street, New York, NY 10002, New York",
-   "price_from": 24.41,
-   "url": "https://www.eventbrite.com/e/econ-lol-tickets-1999324536509",
-   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1195905387%2F207096185123%2F1%2Foriginal.20261015-221120?w=940&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C4050%2C2025&s=a404c9ffe2ae58b44e842743c0bf5aaa",
-   "description": "EconLoL is the world’s first, best, and only economics-themed comedy variety show.",
-   "venue_name_matches": true,
-   "already_a_pick": false,
-   "seen_before": false
-  },
-  {
-   "venue": "Union Hall",
-   "neighborhood": "Park Slope",
-   "organizer": "https://www.eventbrite.com/o/union-hall-17899496497",
-   "title": "Invisible Architecture: An Evening of Comedy with Charlie Flynn",
-   "date": "2026-10-21",
-   "time": "7:30pm",
-   "starts_at": "2026-10-21T19:30:00-04:00",
-   "ends_at": "2026-10-21T21:00:00-04:00",
-   "location_name": "Union Hall",
-   "location_address": "702 Union St., Brooklyn, NY 11215, Brooklyn",
-   "price_from": 15.92,
-   "url": "https://www.eventbrite.com/e/invisible-architecture-an-evening-of-comedy-with-charlie-flynn-tickets-2002602784838",
-   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1194790997%2F2330790970943%2F1%2Foriginal.20261001-045450?crop=focalpoint&fit=crop&w=940&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=602f220fda07fa741310b65c25736417",
-   "description": "Invisible Architecture: An Evening of Comedy with Charlie Flynn - Wednesday, October 21 - 7:00pm Doors / 7:30pm Show",
-   "venue_name_matches": true,
-   "already_a_pick": true,
-   "seen_before": true
-  },
-  {
-   "venue": "Littlefield",
-   "neighborhood": "Gowanus",
-   "organizer": "https://www.eventbrite.com/o/littlefield-18046024060",
-   "title": "PTP Live!",
-   "date": "2026-10-21",
-   "time": "8pm",
-   "starts_at": "2026-10-21T20:00:00-04:00",
-   "ends_at": "2026-10-21T23:00:00-04:00",
-   "location_name": "littlefield",
-   "location_address": "635 Sackett Street, Brooklyn, NY 11217, Brooklyn",
-   "price_from": 18.71,
-   "url": "https://www.eventbrite.com/e/ptp-live-tickets-1999551191440",
-   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1192500282%2F404652903161%2F1%2Foriginal.20260902-181818?crop=focalpoint&fit=crop&w=940&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=aad2b0d1fe10de1c221ef7896843f528",
-   "description": "PTP LIVE! Showcasing the next generation of R&B & Rap talent with elite production, authenticity, musicianship, and culture.",
-   "venue_name_matches": true,
-   "already_a_pick": false,
-   "seen_before": true
-  },
-  {
-   "venue": "Comic Strip Live",
-   "neighborhood": "Upper East Side",
-   "organizer": "https://www.eventbrite.com/o/comic-strip-live-comedy-club-8100188167",
-   "title": "The Andy Engel Show!",
-   "date": "2026-10-21",
-   "time": "8pm",
-   "starts_at": "2026-10-21T20:00:00-04:00",
-   "ends_at": "2026-10-21",
-   "location_name": "Comic Strip Live",
-   "location_address": "1568 2nd Ave, New York, NY 10028, New York",
-   "price_from": 25.71,
-   "url": "https://www.eventbrite.com/e/the-andy-engel-show-tickets-2002306602950",
-   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1194382738%2F136153380524%2F1%2Foriginal.20260925-185809?crop=focalpoint&fit=crop&w=940&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.347&fp-y=0.274&s=d6665cf3d9d8fa637cb1906cf0f43785",
-   "description": "Be part of history, celebrating 50 years of Comedy at the World Comic Strip! Comedians from, HBO, The Tonight Show, SNL & More ~",
-   "venue_name_matches": true,
-   "already_a_pick": false,
-   "seen_before": true
-  },
-  {
-   "venue": "Caveat",
-   "neighborhood": "Lower East Side",
-   "organizer": "https://www.eventbrite.com/o/caveat-13580085802",
-   "title": "Sorry We're Here Goes Broadway: A Sketch Variety Show",
-   "date": "2026-10-21",
-   "time": "9:30pm",
-   "starts_at": "2026-10-21T21:30:00-04:00",
-   "ends_at": "2026-10-21T23:00:00-04:00",
-   "location_name": "Caveat",
-   "location_address": "21 A Clinton Street, New York, NY 10002, New York",
-   "price_from": 18.76,
-   "url": "https://www.eventbrite.com/e/sorry-were-here-goes-broadway-a-sketch-variety-show-tickets-1997983115282",
-   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1191089166%2F207096185123%2F1%2Foriginal.20260814-172339?w=940&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2637%2C1318&s=98b4545a18c006a0fb9fb2523240239c",
-   "description": "Sorry We're Here presents an original sketch comedy show",
-   "venue_name_matches": true,
-   "already_a_pick": false,
-   "seen_before": false
-  },
-  {
-   "venue": "Kellogg's Diner",
-   "neighborhood": "Williamsburg",
-   "organizer": "https://www.eventbrite.com/o/danny-metz-jackson-colvin-108104564651",
-   "title": "The Late Night Comedy Show at Kellogg's Diner",
-   "date": "2026-10-21",
-   "time": "11pm",
-   "starts_at": "2026-10-21T23:00:00-04:00",
-   "ends_at": "2026-10-22T00:00:00-04:00",
-   "location_name": "Kellogg’s Diner",
-   "location_address": "518 Metropolitan Avenue, Brooklyn, NY 11211, Brooklyn",
-   "price_from": 5,
-   "url": "https://www.eventbrite.com/e/the-late-night-comedy-show-at-kelloggs-diner-tickets-2002749391342",
-   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1192096674%2F2660386777661%2F1%2Foriginal.20260828-052454?crop=focalpoint&fit=crop&w=940&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=aa018d61168e46d6d8b47857eb00996d",
-   "description": "NYC’s Best Comics Take Over Kellogg’s Diner in Williamsburg, Brooklyn — Every Wednesday Night at 11PM!",
-   "venue_name_matches": false,
-   "already_a_pick": false,
-   "seen_before": true
-  },
-  {
    "venue": "Littlefield",
    "neighborhood": "Gowanus",
    "organizer": "https://www.eventbrite.com/o/littlefield-18046024060",
@@ -338,7 +72,7 @@
    "description": "Nico Carney Live! - Thursday, October 22 - 7:00pm Doors / 7:30pm Show",
    "venue_name_matches": true,
    "already_a_pick": true,
-   "seen_before": false
+   "seen_before": true
   },
   {
    "venue": "Comic Strip Live",
@@ -395,7 +129,7 @@
    "description": "Puppets Come Home presents and evening of haunting Halloween puppetry, featuring an array of puppetry styles sure to excite!",
    "venue_name_matches": true,
    "already_a_pick": false,
-   "seen_before": false
+   "seen_before": true
   },
   {
    "venue": "Union Hall",
@@ -414,7 +148,7 @@
    "description": "Charlie Bardey Presents: The Hearth's Promise Part I: The Bidden Path - Thursday, October 22 - 9:30pm Doors / 10:00pm Show",
    "venue_name_matches": true,
    "already_a_pick": false,
-   "seen_before": false
+   "seen_before": true
   },
   {
    "venue": "Caveat",
@@ -433,7 +167,7 @@
    "description": "A Real Onstage Blind Date plus Live Comedy!",
    "venue_name_matches": true,
    "already_a_pick": false,
-   "seen_before": false
+   "seen_before": true
   },
   {
    "venue": "Littlefield",
@@ -471,7 +205,7 @@
    "description": "Adam Cayton-Holland Stares Wistfully Toward the Horizon - Friday, October 23 - 7:00pm Doors / 7:30pm Show",
    "venue_name_matches": true,
    "already_a_pick": false,
-   "seen_before": false
+   "seen_before": true
   },
   {
    "venue": "Comic Strip Live",
@@ -509,7 +243,7 @@
    "description": "In this romp through the constellations, The Skies predict the present by revealing the past—it’s Yesterday’s Horoscope, today!",
    "venue_name_matches": true,
    "already_a_pick": false,
-   "seen_before": false
+   "seen_before": true
   },
   {
    "venue": "Union Hall",
@@ -528,7 +262,7 @@
    "description": "Girl Church hosted by Amelia Ritthaler - Friday, October 23 - 9:30pm Doors / 10:00pm Show",
    "venue_name_matches": true,
    "already_a_pick": false,
-   "seen_before": false
+   "seen_before": true
   },
   {
    "venue": "Caveat",
@@ -547,7 +281,7 @@
    "description": "An early 2000s romp through the whirlwind that is girlhood and adulthood. And unemployedhood.",
    "venue_name_matches": true,
    "already_a_pick": false,
-   "seen_before": false
+   "seen_before": true
   },
   {
    "venue": "Caveat",
@@ -557,7 +291,7 @@
    "date": "2026-10-24",
    "time": "4pm",
    "starts_at": "2026-10-24T16:00:00-04:00",
-   "ends_at": "2026-10-24T18:00:00-04:00",
+   "ends_at": "2026-10-24T17:10:00-04:00",
    "location_name": "Caveat",
    "location_address": "21 A Clinton Street, New York, NY 10002, New York",
    "price_from": 20.29,
@@ -566,7 +300,7 @@
    "description": "A neuroscience-themed variety show to help you sharpen your bullshit detector.",
    "venue_name_matches": true,
    "already_a_pick": false,
-   "seen_before": false
+   "seen_before": true
   },
   {
    "venue": "Union Hall",
@@ -581,11 +315,11 @@
    "location_address": "702 Union St., Brooklyn, NY 11215, Brooklyn",
    "price_from": 0,
    "url": "https://www.eventbrite.com/e/picture-this-animation-block-party-tickets-2003160822945",
-   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1195384373%2F282041210522%2F1%2Foriginal.20261008-170508?crop=focalpoint&fit=crop&w=940&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=5f55801fd62b4cdbb83eaa3a9098eee5",
+   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1196329222%2F282041210522%2F1%2Foriginal.20261022-010004?crop=focalpoint&fit=crop&w=940&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=17c32e7407ad0e93ce266c599e20c0cf",
    "description": "Picture This: Animation Block Party - Saturday, October 24 - 4:30pm Doors / 5:00pm Show",
    "venue_name_matches": true,
    "already_a_pick": false,
-   "seen_before": false
+   "seen_before": true
   },
   {
    "venue": "Caveat",
@@ -601,10 +335,10 @@
    "price_from": 21.32,
    "url": "https://www.eventbrite.com/e/the-power-joker-a-robert-moses-comedy-show-tickets-1998478122863",
    "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1194690170%2F207096185123%2F1%2Foriginal.20260930-023220?w=940&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C1920%2C960&s=0def292b95d1a11f4de81b4f156b03dd",
-   "description": "What if RM hosted the Tonight Show? Comedy, special guests, music, and more.",
+   "description": "What if RM hosted the Tonight Show? Guests Ira Glass and Sean Carlson. Music from NAIMA.",
    "venue_name_matches": true,
    "already_a_pick": false,
-   "seen_before": false
+   "seen_before": true
   },
   {
    "venue": "Union Hall",
@@ -623,7 +357,7 @@
    "description": "Gary Simons & Friends - Saturday, October 24 - 7:00pm Doors / 7:30pm Show",
    "venue_name_matches": true,
    "already_a_pick": false,
-   "seen_before": false
+   "seen_before": true
   },
   {
    "venue": "Littlefield",
@@ -642,7 +376,7 @@
    "description": "Join us for a wild night of drag, burlesque, & queer performance from Brooklyn’s legendary Switch n’ Play collective!",
    "venue_name_matches": true,
    "already_a_pick": false,
-   "seen_before": false
+   "seen_before": true
   },
   {
    "venue": "Comic Strip Live",
@@ -664,6 +398,25 @@
    "seen_before": true
   },
   {
+   "venue": "Caveat",
+   "neighborhood": "Lower East Side",
+   "organizer": "https://www.eventbrite.com/o/caveat-13580085802",
+   "title": "Drunk Planet Earth",
+   "date": "2026-10-24",
+   "time": "9:30pm",
+   "starts_at": "2026-10-24T21:30:00-04:00",
+   "ends_at": "2026-10-24T23:00:00-04:00",
+   "location_name": "Caveat",
+   "location_address": "21 A Clinton Street, New York, NY 10002, New York",
+   "price_from": 0,
+   "url": "https://www.eventbrite.com/e/drunk-planet-earth-tickets-2001246589421",
+   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1191246388%2F207096185123%2F1%2Foriginal.20260817-145130?w=940&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C1078%2C539&s=03cd2c382c08bdea0de15c3b3b31f3af",
+   "description": "A live drinking game show.",
+   "venue_name_matches": true,
+   "already_a_pick": false,
+   "seen_before": false
+  },
+  {
    "venue": "Union Hall",
    "neighborhood": "Park Slope",
    "organizer": "https://www.eventbrite.com/o/union-hall-17899496497",
@@ -680,7 +433,7 @@
    "description": "Sureni & Lovers - Saturday, October 24 - 9:30pm Doors / 10:00pm Show",
    "venue_name_matches": true,
    "already_a_pick": false,
-   "seen_before": false
+   "seen_before": true
   },
   {
    "venue": "Comic Strip Live",
@@ -718,6 +471,101 @@
    "description": "This is a party for Dancehall lovers, bringing together the energy, music and dances behind the movement. 90% Dancehall 10% everything else.",
    "venue_name_matches": true,
    "already_a_pick": false,
+   "seen_before": true
+  },
+  {
+   "venue": "Caveat",
+   "neighborhood": "Lower East Side",
+   "organizer": "https://www.eventbrite.com/o/caveat-13580085802",
+   "title": "Great Week For Women Presents: \"Inside Jokes\" LIVE!",
+   "date": "2026-10-25",
+   "time": "2:30pm",
+   "starts_at": "2026-10-25T14:30:00-04:00",
+   "ends_at": "2026-10-25T16:30:00-04:00",
+   "location_name": "Caveat",
+   "location_address": "21 A Clinton Street, New York, NY 10002, New York",
+   "price_from": 8.46,
+   "url": "https://www.eventbrite.com/e/great-week-for-women-presents-inside-jokes-live-tickets-2002583772973",
+   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1194668361%2F207096185123%2F1%2Foriginal.20260929-204628?w=940&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C3000%2C1500&s=6c51f31e3d58bf7c660451df80930da3",
+   "description": "A book launch, a party, a show—loaded with inside jokes!",
+   "venue_name_matches": true,
+   "already_a_pick": false,
+   "seen_before": false
+  },
+  {
+   "venue": "Caveat",
+   "neighborhood": "Lower East Side",
+   "organizer": "https://www.eventbrite.com/o/caveat-13580085802",
+   "title": "On The Watchlist with Jay Servedio: The Halloween Special",
+   "date": "2026-10-25",
+   "time": "5pm",
+   "starts_at": "2026-10-25T17:00:00-04:00",
+   "ends_at": "2026-10-25T19:00:00-04:00",
+   "location_name": "Caveat",
+   "location_address": "21 A Clinton Street, New York, NY 10002, New York",
+   "price_from": 18.76,
+   "url": "https://www.eventbrite.com/e/on-the-watchlist-with-jay-servedio-the-halloween-special-tickets-2002311144534",
+   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1195507924%2F207096185123%2F1%2Foriginal.20261010-131355?w=940&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C1080%2C540&s=fbeaa32560746732ec8fd7f319dde162",
+   "description": "A funny and fearless live late-night show that dismantles the media in real time: One headline, scandal, and conspiracy at a time.",
+   "venue_name_matches": true,
+   "already_a_pick": false,
+   "seen_before": false
+  },
+  {
+   "venue": "Union Hall",
+   "neighborhood": "Park Slope",
+   "organizer": "https://www.eventbrite.com/o/union-hall-17899496497",
+   "title": "Wils & Friends",
+   "date": "2026-10-25",
+   "time": "5pm",
+   "starts_at": "2026-10-25T17:00:00-04:00",
+   "ends_at": "2026-10-25T18:30:00-04:00",
+   "location_name": "Union Hall",
+   "location_address": "702 Union St., Brooklyn, NY 11215, Brooklyn",
+   "price_from": 15.92,
+   "url": "https://www.eventbrite.com/e/wils-friends-tickets-2002948700481",
+   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1195085225%2F282041210522%2F1%2Foriginal.20261005-152741?crop=focalpoint&fit=crop&w=940&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=eb85ef43b318779cab6f6cd31f9e40ca",
+   "description": "Wils & Friends - Sunday, October 25 - 4:30pm Doors / 5:00pm Show",
+   "venue_name_matches": true,
+   "already_a_pick": false,
+   "seen_before": false
+  },
+  {
+   "venue": "Caveat",
+   "neighborhood": "Lower East Side",
+   "organizer": "https://www.eventbrite.com/o/caveat-13580085802",
+   "title": "Comedians Interview Experts: Grief, trauma and your brain with Michael Cruz Kayne and Rachel Yehuda",
+   "date": "2026-10-25",
+   "time": "7:30pm",
+   "starts_at": "2026-10-25T19:30:00-04:00",
+   "ends_at": "2026-10-25T21:30:00-04:00",
+   "location_name": "Caveat",
+   "location_address": "21 A Clinton Street, New York, NY 10002, New York",
+   "price_from": 24.41,
+   "url": "https://www.eventbrite.com/e/comedians-interview-experts-grief-trauma-and-your-brain-with-michael-cruz-kayne-and-rachel-yehuda-tickets-2000859573847",
+   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1193378247%2F207096185123%2F1%2Foriginal.20260913-145335?w=940&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C1920%2C960&s=f5447587ad84a8efe7096629652eb1e3",
+   "description": "Michael Cruz Kayne interviews Rachel Yehuda about the neuroscience of grief and trauma",
+   "venue_name_matches": true,
+   "already_a_pick": false,
+   "seen_before": false
+  },
+  {
+   "venue": "Union Hall",
+   "neighborhood": "Park Slope",
+   "organizer": "https://www.eventbrite.com/o/union-hall-17899496497",
+   "title": "Alvaro Chavez and Cameron Burger: Bein’ Like This",
+   "date": "2026-10-25",
+   "time": "7:30pm",
+   "starts_at": "2026-10-25T19:30:00-04:00",
+   "ends_at": "2026-10-25T21:00:00-04:00",
+   "location_name": "Union Hall",
+   "location_address": "702 Union St., Brooklyn, NY 11215, Brooklyn",
+   "price_from": 13.61,
+   "url": "https://www.eventbrite.com/e/alvaro-chavez-and-cameron-burger-bein-like-this-tickets-2003302558881",
+   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1195615230%2F282041210522%2F1%2Foriginal.20261012-161014?crop=focalpoint&fit=crop&w=940&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=f61225452d5cae7ac43897b39682a38c",
+   "description": "Alvaro Chavez and Cameron Burger: Bein’ Like This - Sunday, October 25 - 7:00pm Doors / 7:30pm Show",
+   "venue_name_matches": true,
+   "already_a_pick": false,
    "seen_before": false
   },
   {
@@ -737,7 +585,7 @@
    "description": "NYC locals get on stage and share their worst dating & hookup stories while a live musician turns the stories into songs!",
    "venue_name_matches": true,
    "already_a_pick": false,
-   "seen_before": false
+   "seen_before": true
   },
   {
    "venue": "Comic Strip Live",
@@ -759,6 +607,25 @@
    "seen_before": true
   },
   {
+   "venue": "Caveat",
+   "neighborhood": "Lower East Side",
+   "organizer": "https://www.eventbrite.com/o/caveat-13580085802",
+   "title": "The Story Collider",
+   "date": "2026-10-26",
+   "time": "7pm",
+   "starts_at": "2026-10-26T19:00:00-04:00",
+   "ends_at": "2026-10-26T20:30:00-04:00",
+   "location_name": "Caveat",
+   "location_address": "21 A Clinton Street, New York, NY 10002, New York",
+   "price_from": 18.76,
+   "url": "https://www.eventbrite.com/e/the-story-collider-tickets-1983379599774",
+   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1177749762%2F207096185123%2F1%2Foriginal.20260217-181113?w=940&auto=format%2Ccompress&q=75&sharp=10&rect=1%2C1%2C2000%2C1000&s=fe38d32be6f04595e6da54a8140a6ac1",
+   "description": "True, personal stories about science",
+   "venue_name_matches": true,
+   "already_a_pick": false,
+   "seen_before": false
+  },
+  {
    "venue": "Littlefield",
    "neighborhood": "Gowanus",
    "organizer": "https://www.eventbrite.com/o/littlefield-18046024060",
@@ -775,7 +642,7 @@
    "description": "Join Pam Grossman and special guests for a live podcast taping to celebrate 10 seasons of The Witch Wave!",
    "venue_name_matches": true,
    "already_a_pick": false,
-   "seen_before": false
+   "seen_before": true
   },
   {
    "venue": "Comic Strip Live",
@@ -792,6 +659,25 @@
    "url": "https://www.eventbrite.com/e/the-peter-stewart-show-with-brian-scott-mcfadden-tickets-2002306940961",
    "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1194383278%2F136153380524%2F1%2Foriginal.20260925-190548?crop=focalpoint&fit=crop&w=940&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.547&fp-y=0.243&s=2f9fb6c058c512364c07a3c5ecf953be",
    "description": "Be part of history, celebrating 50 years of Comedy at the World Comic Strip! Comedians from, HBO, The Tonight Show, SNL & More ~",
+   "venue_name_matches": true,
+   "already_a_pick": false,
+   "seen_before": true
+  },
+  {
+   "venue": "Caveat",
+   "neighborhood": "Lower East Side",
+   "organizer": "https://www.eventbrite.com/o/caveat-13580085802",
+   "title": "The WFP Sketch Show (feat. Alex Kumin, Dina Hashem)",
+   "date": "2026-10-26",
+   "time": "9:30pm",
+   "starts_at": "2026-10-26T21:30:00-04:00",
+   "ends_at": "2026-10-26T23:00:00-04:00",
+   "location_name": "Caveat",
+   "location_address": "21 A Clinton Street, New York, NY 10002, New York",
+   "price_from": 21.32,
+   "url": "https://www.eventbrite.com/e/the-wfp-sketch-show-feat-alex-kumin-dina-hashem-tickets-2000314139438",
+   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1193096466%2F207096185123%2F1%2Foriginal.20260909-200234?w=940&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2000%2C1000&s=5cad1014907aad8eb004598823fe0a1b",
+   "description": "Comedy meets all your gripes about living in this godforsaken and beautiful city.",
    "venue_name_matches": true,
    "already_a_pick": false,
    "seen_before": false
@@ -813,7 +699,7 @@
    "description": "Be part of history, celebrating 50 years of Comedy at the World Comic Strip! Comedians from, HBO, The Tonight Show, SNL & More ~",
    "venue_name_matches": true,
    "already_a_pick": false,
-   "seen_before": false
+   "seen_before": true
   },
   {
    "venue": "Littlefield",
@@ -832,7 +718,7 @@
    "description": "Hosted by Firestone, with Champs: DAFT PUN, HOT CROSS PUNS, WHEN WIT HITS THE FAN, LEXI KAHN, TOBY CONTINUED, RHYME & PUNISHMENT & More!",
    "venue_name_matches": true,
    "already_a_pick": false,
-   "seen_before": false
+   "seen_before": true
   },
   {
    "venue": "Comic Strip Live",
@@ -851,7 +737,7 @@
    "description": "Be part of history, celebrating 50 years of Comedy at the World Comic Strip! Comedians from, HBO, The Tonight Show, SNL & More ~",
    "venue_name_matches": true,
    "already_a_pick": false,
-   "seen_before": false
+   "seen_before": true
   },
   {
    "venue": "Kellogg's Diner",
@@ -864,7 +750,7 @@
    "ends_at": "2026-10-29T00:00:00-04:00",
    "location_name": "Kellogg’s Diner",
    "location_address": "518 Metropolitan Avenue, Brooklyn, NY 11211, Brooklyn",
-   "price_from": 5,
+   "price_from": 10,
    "url": "https://www.eventbrite.com/e/the-late-night-comedy-show-at-kelloggs-diner-tickets-2003203987050",
    "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1192096674%2F2660386777661%2F1%2Foriginal.20260828-052454?crop=focalpoint&fit=crop&w=940&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=aa018d61168e46d6d8b47857eb00996d",
    "description": "NYC’s Best Comics Take Over Kellogg’s Diner in Williamsburg, Brooklyn — Every Wednesday Night at 11PM!",
@@ -889,7 +775,7 @@
    "description": "Sketch comedy legends return from exile with a Halloween Spooktacular! Along with special guest stand ups & a DJ, for bone-chilling guffaws.",
    "venue_name_matches": true,
    "already_a_pick": false,
-   "seen_before": false
+   "seen_before": true
   },
   {
    "venue": "Littlefield",
@@ -908,6 +794,63 @@
    "description": "The 12th Annual Rocky Horror Picture Show Live Band Karaoke Halloween Extravaganza!!!!",
    "venue_name_matches": true,
    "already_a_pick": false,
+   "seen_before": true
+  },
+  {
+   "venue": "Comic Strip Live",
+   "neighborhood": "Upper East Side",
+   "organizer": "https://www.eventbrite.com/o/comic-strip-live-comedy-club-8100188167",
+   "title": "Christian Finnegan, Nick Griffin, Connor O'Brien, Olga Namer, & more!",
+   "date": "2026-10-30",
+   "time": "8pm",
+   "starts_at": "2026-10-30T20:00:00-04:00",
+   "ends_at": "2026-10-30",
+   "location_name": "Comic Strip Live",
+   "location_address": "1568 2nd Ave, New York, NY 10028, New York",
+   "price_from": 25.71,
+   "url": "https://www.eventbrite.com/e/christian-finnegan-nick-griffin-connor-obrien-olga-namer-more-tickets-2002307380275",
+   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1194383356%2F136153380524%2F1%2Foriginal.20260925-190653?crop=focalpoint&fit=crop&w=940&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.528&fp-y=0.257&s=d3d0fbacfd0fb65121cb201746272106",
+   "description": "Be part of history, celebrating 50 years of Comedy at the World Comic Strip! Comedians from, HBO, The Tonight Show, SNL & More ~",
+   "venue_name_matches": true,
+   "already_a_pick": false,
+   "seen_before": false
+  },
+  {
+   "venue": "Comic Strip Live",
+   "neighborhood": "Upper East Side",
+   "organizer": "https://www.eventbrite.com/o/comic-strip-live-comedy-club-8100188167",
+   "title": "Tom Van Horn, Connor O'Brien, Jocelyn Chia, Paul Mecurio, & Brian McFadden!",
+   "date": "2026-10-31",
+   "time": "8pm",
+   "starts_at": "2026-10-31T20:00:00-04:00",
+   "ends_at": "2026-10-31",
+   "location_name": "Comic Strip Live",
+   "location_address": "1568 2nd Ave, New York, NY 10028, New York",
+   "price_from": 25.71,
+   "url": "https://www.eventbrite.com/e/tom-van-horn-connor-obrien-jocelyn-chia-paul-mecurio-brian-mcfadden-tickets-2002307401338",
+   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1194383386%2F136153380524%2F1%2Foriginal.20260925-190714?crop=focalpoint&fit=crop&w=940&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=ee084daf058c0476ba5afe943749f358",
+   "description": "Be part of history, celebrating 50 years of Comedy at the World Comic Strip! Comedians from, HBO, The Tonight Show, SNL & More ~",
+   "venue_name_matches": true,
+   "already_a_pick": false,
+   "seen_before": false
+  },
+  {
+   "venue": "Comic Strip Live",
+   "neighborhood": "Upper East Side",
+   "organizer": "https://www.eventbrite.com/o/comic-strip-live-comedy-club-8100188167",
+   "title": "Tom Van Horn, Connor O'Brien, Jocelyn Chia, Paul Mecurio, & Brian McFadden!",
+   "date": "2026-10-31",
+   "time": "10:30pm",
+   "starts_at": "2026-10-31T22:30:00-04:00",
+   "ends_at": "2026-10-31",
+   "location_name": "Comic Strip Live",
+   "location_address": "1568 2nd Ave, New York, NY 10028, New York",
+   "price_from": 25.71,
+   "url": "https://www.eventbrite.com/e/tom-van-horn-connor-obrien-jocelyn-chia-paul-mecurio-brian-mcfadden-tickets-2002307414377",
+   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1194383451%2F136153380524%2F1%2Foriginal.20260925-190814?crop=focalpoint&fit=crop&w=940&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=b1cc7e9dfde8701aa5da286fc028814a",
+   "description": "Be part of history, celebrating 50 years of Comedy at the World Comic Strip! Comedians from, HBO, The Tonight Show, SNL & More ~",
+   "venue_name_matches": true,
+   "already_a_pick": false,
    "seen_before": false
   },
   {
@@ -921,13 +864,32 @@
    "ends_at": "2026-11-05T00:00:00-05:00",
    "location_name": "Kellogg’s Diner",
    "location_address": "518 Metropolitan Avenue, Brooklyn, NY 11211, Brooklyn",
-   "price_from": 5,
+   "price_from": 10,
    "url": "https://www.eventbrite.com/e/the-late-night-comedy-show-at-kelloggs-diner-tickets-2003212326995",
    "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1192096674%2F2660386777661%2F1%2Foriginal.20260828-052454?crop=focalpoint&fit=crop&w=940&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=aa018d61168e46d6d8b47857eb00996d",
-   "description": "See Top NYC Comics In Kellogg’s Diner — Every Wednesday Night at 11PM!",
+   "description": "NYC’s Best Comics Take Over Kellogg’s Diner in Williamsburg, Brooklyn — Every Wednesday Night at 11PM!",
    "venue_name_matches": false,
    "already_a_pick": false,
    "seen_before": true
+  },
+  {
+   "venue": "Comic Strip Live",
+   "neighborhood": "Upper East Side",
+   "organizer": "https://www.eventbrite.com/o/comic-strip-live-comedy-club-8100188167",
+   "title": "Upcoming Event",
+   "date": "2026-11-06",
+   "time": "8pm",
+   "starts_at": "2026-11-06T20:00:00-05:00",
+   "ends_at": "2026-11-06",
+   "location_name": "Comic Strip Live",
+   "location_address": "1568 2nd Ave, New York, NY 10028, New York",
+   "price_from": 25.71,
+   "url": "https://www.eventbrite.com/e/upcoming-event-tickets-2003224004924",
+   "image": null,
+   "description": "Be part of history, celebrating 50 years of Comedy at the World Comic Strip! Comedians from, HBO, The Tonight Show, SNL & More ~",
+   "venue_name_matches": true,
+   "already_a_pick": false,
+   "seen_before": false
   }
  ],
  "errors": []
