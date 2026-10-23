@@ -1621,5 +1621,17 @@
   "source_label": "Venue home (calendar lists upcoming events in list and grid)",
   "access_note": "Loads plainly; /events URL returns 404",
   "verified_at": "2026-10-10"
+ },
+ {
+  "name": "Oliver's Astoria",
+  "address": "37-19 Broadway, Queens",
+  "neighborhood": "Astoria",
+  "borough": "Queens",
+  "website": "https://www.oliversastoria.com/",
+  "calendar_url": "https://www.oliversastoria.com/info",
+  "source_label": "Venue's own Contact / Hours page",
+  "verified_at": "2026-10-23",
+  "eventbrite_organizer": "https://www.eventbrite.com/o/105511972661",
+  "access_note": "Craft beer bar and kitchen at 37-19 Broadway at 38th St (the room writes it 3719 Broadway, zip 11103). The /info page carries the weekly specials but no comedy listing; comedy here is producer-run and ticketed on Eventbrite, so the Popcorn Comedy organizer page is the feed."
  }
 ]

@@ -339,3 +339,19 @@ Generated from `npm run heat` + `npm run research-plan` (last30days for the 2 na
 
 ### Ranked on schedule alone
 - All 34 skipped performers sit outside the 10-day window or below the cheap-rank threshold. The new week-6 picks (Eastville Nov 28/29/30, Stamptown Nov 30, Comedy Idol Finale Nov 29, Jeff Scheen Dec 1, Ania Magliano Dec 2) are 39+ days out, so the plan skipped four of them by the window rule; the Magliano pick was force-filled to the minimum of 5 runs and returned the strongest signal on the board.
+
+2026-10-23 daily edition
+- Ranked 38 performers; **ran 1** (Nasser Al-Rayess, Town Hall Sat 10/31 - in the 10-day decision window); **reused 4** (Ania Magliano, Marc Maron, Sydnee Washington, Ruby Setnik, all cached Oct 22); **skipped 33** (outside the 10-day window or below the cheap-rank threshold); **~333,000 tokens saved** from the plan.
+- 1 name ranked on schedule alone for lack of recent data: Nasser Al-Rayess.
+
+### Run notes
+- **Nasser Al-Rayess** (Town Hall Sat 10/31, 7pm): Reddit and Hacker News both returned zero items in 30 days - no threads, no name collisions, nothing. The pick stands on the Town Hall event page and his own writing rather than on any current signal. Cached for 7d.
+
+### Reuse notes (already cached under 7d)
+- **Ania Magliano** (cached 1d ago): 9,974-upvote r/Fauxmoi thread Oct 17 plus Taskmaster chatter; keeps the Bell House Dec 2 pick.
+- **Marc Maron** (cached 1d ago): 12 Reddit threads led by a 503-upvote r/MarcMaron post; real pre-sale demand for the Beacon Nov 8 stop.
+- **Sydnee Washington** (cached 1d ago): no usable evidence despite the Bell House Friday special; pick stands on the show page.
+- **Ruby Setnik** (cached 1d ago): two small threads, no heat on the Bell House Tuesday; Hacker News hits are about the Ruby programming language.
+
+### Ranked on schedule alone
+- All 33 skipped performers sit outside the 10-day window or below the cheap-rank threshold. Today's three new picks (Alvaro Chavez and Cameron Burger, Famous Last Words at Union Hall, TJ Miller at Comic Strip) are named-headliner or named-lineup shows verified on their own Eventbrite pages; the plan scored their titles as names but scheduled no run for them.

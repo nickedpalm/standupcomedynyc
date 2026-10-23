@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-22T11:15:31.938Z",
- "performers_considered": 39,
+ "generated_at": "2026-10-23T11:15:30.154Z",
+ "performers_considered": 37,
  "shortlist": [
   {
    "name": "Ania Magliano",
@@ -11,10 +11,6 @@
    "priority": 39
   },
   {
-   "name": "Nico Carney",
-   "priority": 35
-  },
-  {
    "name": "Sydnee Washington",
    "priority": 35
   },
@@ -25,6 +21,10 @@
   {
    "name": "Jaboukie Young-White",
    "priority": 35
+  },
+  {
+   "name": "Daniel Sloss",
+   "priority": 32
   },
   {
    "name": "Ilana Glazer",
@@ -35,141 +35,106 @@
    "priority": 25
   },
   {
-   "name": "Daniel Sloss",
-   "priority": 24
+   "name": "Ruby Setnik",
+   "priority": 20
   },
   {
-   "name": "Ruby Setnik",
+   "name": "Nasser Al-Rayess",
    "priority": 20
   }
  ],
  "run": [
   {
-   "name": "Nico Carney",
-   "priority": 35,
-   "next": {
-    "id": "nico-carney-union-hall-2026-10-22",
-    "date": "2026-10-22",
-    "venue": "Union Hall",
-    "days": 0,
-    "featured": false,
-    "poster": true,
-    "demand": null
-   },
-   "cheap_signals": [],
-   "reason": "show within 3 days and not yet decided"
-  },
-  {
-   "name": "Sydnee Washington",
-   "priority": 35,
-   "next": {
-    "id": "sydnee-washington-2026-10-23",
-    "date": "2026-10-23",
-    "venue": "The Bell House",
-    "days": 1,
-    "featured": false,
-    "poster": true,
-    "demand": null
-   },
-   "cheap_signals": [],
-   "reason": "show within 3 days and not yet decided"
-  },
-  {
-   "name": "Ruby Setnik",
+   "name": "Nasser Al-Rayess",
    "priority": 20,
    "next": {
-    "id": "ruby-setnik-bell-house-2026-10-27",
-    "date": "2026-10-27",
-    "venue": "The Bell House",
-    "days": 5,
+    "id": "nasser-al-rayess-town-hall-2026-10-31",
+    "date": "2026-10-31",
+    "venue": "The Town Hall",
+    "days": 8,
     "featured": false,
     "poster": true,
     "demand": null
    },
    "cheap_signals": [],
    "reason": "in the decision window and not yet decided"
-  },
+  }
+ ],
+ "reuse": [
   {
    "name": "Ania Magliano",
    "priority": 40,
-   "next": {
-    "id": "ania-magliano-peach-fuzz-bell-house-2026-12-02",
-    "date": "2026-12-02",
-    "venue": "The Bell House",
-    "days": 41,
-    "featured": false,
-    "poster": true,
-    "demand": null
-   },
-   "cheap_signals": [
-    "Wikipedia: 2727 views a day",
-    "Wikipedia views up 124% over the prior month"
-   ],
-   "reason": "filled to the minimum of 5"
+   "cached": {
+    "at": "2026-10-22T11:20:34.073Z",
+    "age_days": 1,
+    "fresh": true,
+    "note": "The loudest signal on the board right now: a 9,974-upvote r/Fauxmoi thread on Oct 17 plus heavy r/SNLbabes and LiveFrom chatter on her Taskmaster season, which is why the Bell House Dec 2 Peach Fuzz date is worth a board slot two months out."
+   }
   },
   {
    "name": "Marc Maron",
    "priority": 39,
-   "next": {
-    "id": "nycf-marc-maron-beacon-2026-11-08",
-    "date": "2026-11-08",
-    "venue": "Beacon Theatre",
-    "days": 17,
-    "featured": false,
-    "poster": false,
-    "demand": null
-   },
-   "cheap_signals": [
-    "Wikipedia: 1165 views a day",
-    "Reddit: 3 posts in 30 days, 232 upvotes (top: r/newjersey)"
-   ],
-   "reason": "filled to the minimum of 5"
+   "cached": {
+    "at": "2026-10-22T11:22:13.600Z",
+    "age_days": 1,
+    "fresh": true,
+    "note": "Twelve Reddit threads in 30 days led by a 503-upvote r/MarcMaron post and his own subreddit going active again, so the Beacon Nov 8 tour stop has genuine pre-sale demand."
+   }
+  },
+  {
+   "name": "Sydnee Washington",
+   "priority": 35,
+   "cached": {
+    "at": "2026-10-22T11:17:29.948Z",
+    "age_days": 1,
+    "fresh": true,
+    "note": "No usable evidence in 30 days from Reddit or Hacker News despite her Bell House Friday special and a 40-year career, so the pick stands on the show page alone."
+   }
+  },
+  {
+   "name": "Ruby Setnik",
+   "priority": 20,
+   "cached": {
+    "at": "2026-10-22T11:18:59.737Z",
+    "age_days": 1,
+    "fresh": true,
+    "note": "Two small Reddit threads, one her own subreddit and one in r/FemaleStandupComedy, with no heat on the Bell House Tuesday; the Hacker News hits are all about the Ruby programming language."
+   }
   }
  ],
- "reuse": [],
  "skip": [
   {
    "name": "Joanne McNally",
    "priority": 35,
-   "reason": "next show in 16 days, outside the 10-day window"
+   "reason": "next show in 15 days, outside the 10-day window"
   },
   {
    "name": "Jaboukie Young-White",
    "priority": 35,
-   "reason": "next show in 26 days, outside the 10-day window"
+   "reason": "next show in 25 days, outside the 10-day window"
+  },
+  {
+   "name": "Daniel Sloss",
+   "priority": 32,
+   "reason": "next show in 22 days, outside the 10-day window"
   },
   {
    "name": "Ilana Glazer",
    "priority": 30,
-   "reason": "next show in 22 days, outside the 10-day window"
+   "reason": "next show in 21 days, outside the 10-day window"
   },
   {
    "name": "Sam Tallent",
    "priority": 25,
-   "reason": "next show in 14 days, outside the 10-day window"
+   "reason": "next show in 13 days, outside the 10-day window"
   },
   {
-   "name": "Daniel Sloss",
-   "priority": 24,
-   "reason": "next show in 23 days, outside the 10-day window"
-  },
-  {
-   "name": "Nasser Al-Rayess",
-   "priority": 20,
-   "reason": "outside the top 10 by cheap ranking"
-  },
-  {
-   "name": "Dewayne Perkins",
+   "name": "Sam Oh",
    "priority": 20,
    "reason": "outside the top 10 by cheap ranking"
   },
   {
    "name": "Jessica Kirson",
-   "priority": 20,
-   "reason": "outside the top 10 by cheap ranking"
-  },
-  {
-   "name": "Charlie Bardey",
    "priority": 20,
    "reason": "outside the top 10 by cheap ranking"
   },
@@ -234,11 +199,6 @@
    "reason": "outside the top 10 by cheap ranking"
   },
   {
-   "name": "Sam Oh",
-   "priority": 5,
-   "reason": "outside the top 10 by cheap ranking"
-  },
-  {
    "name": "Please Stay Seated",
    "priority": 5,
    "reason": "outside the top 10 by cheap ranking"
@@ -289,6 +249,11 @@
    "reason": "outside the top 10 by cheap ranking"
   },
   {
+   "name": "Dewayne Perkins",
+   "priority": 0,
+   "reason": "outside the top 10 by cheap ranking"
+  },
+  {
    "name": "Dropout Improv",
    "priority": 0,
    "reason": "outside the top 10 by cheap ranking"
@@ -299,11 +264,9 @@
    "reason": "outside the top 10 by cheap ranking"
   }
  ],
- "estimated_tokens_saved": 306000,
- "estimate_basis": "9000 tokens per last30days run, 34 runs avoided out of 39",
+ "estimated_tokens_saved": 324000,
+ "estimate_basis": "9000 tokens per last30days run, 36 runs avoided out of 37",
  "no_recent_data": [
-  "Nico Carney",
-  "Sydnee Washington",
-  "Ruby Setnik"
+  "Nasser Al-Rayess"
  ]
 }

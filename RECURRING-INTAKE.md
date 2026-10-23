@@ -715,3 +715,40 @@ The factual correction to the Novak blurb was the day's data fix — "Get to Be 
 
 **Improvement today**
 `web/data/links.json`: the link-in-bio was carrying `this-week` above `neighborhoods`, `open-mics` and `clubs`, so the two pages a reader actually opens on a night out sat below a planning page. Reordered to board, mailing list, open mics, clubs, neighborhoods, this week, and bumped `updated` to today. Still six links, no copy added — no festival or special is running that needs a dated entry this week (NYCF starts Nov 6).
+
+## Daily edition — 2026-10-23 (cron run)
+
+**Picks added (4, all tier=special)**, every page opened and read today:
+- `alvaro-chavez-cameron-burger-union-hall-2026-10-25` — Sun 7:30pm, Union Hall, $13.61, doors 7pm, 21+. Gary Simons, Richard Perez and Clementine Ford opening. Source: eventbrite.com/e/alvaro-chavez-and-cameron-burger-bein-like-this-tickets-2003302558881. Eventbrite flyer saved via the `_next/image` proxy (1880x940).
+- `famous-last-words-union-hall-2026-10-26` — Mon 7:30pm, Union Hall, $13.61. The monthly jam with Atsuko Okatsuka, Jay Jurden and James Austin Johnson as October's special guests, plus Michael Longfellow, Neel Ghosh, Katrina Davis and Zubi Ahmed. Source: eventbrite.com/e/famous-last-words-tickets-2002738030361. Flyer saved (1880x1058).
+- `tj-miller-comic-strip-2026-11-11` — Wed 8pm, Comic Strip Live, $25.71, doors 7:30, 17+, two-item minimum. Filled the only bare date in the next four weeks. Source: eventbrite.com/e/tj-miller-live-tickets-2003488658510. Flyer saved (1880x1257).
+- `ask-ronna-ronnukah-bell-house-2026-11-21` — Sat 8:30pm, Bell House. Ronna Glickman and Bryan Safi, the second of two tapings (5pm and 8:30pm) on the same day. Source: the Bell House November calendar; the Live Nation mirror (livenation.com/event/1kGZvPFOGA555l8/…) carries the time and the artwork, pulled through the Live Nation proxy of the Ticketmaster CDN (2048x1152).
+
+**Room registered:** **Oliver's Astoria**, 37-19 Broadway, Astoria, Queens (craft beer bar at Broadway and 38th, zip 11103 per the room's own /info page). Surfaced from three identical Reddit posts in r/nycevents, r/astoria and r/longislandcity advertising Popcorn Comedy with J.P. McDade, Friday Oct 23 8pm, $23.18. The room's own site lists trivia and bingo, no comedy, so the room was registered with the producer's Eventbrite organizer page (eventbrite.com/o/105511972661) as the feed. **The show itself was not added** — it started at 8pm tonight and the calendar's curated hours make a same-day addition useless.
+
+**Corrections found by re-reading the stale source pages (this is the day's real work):**
+- **Megan Botnick Headlines @ WSCC (Thu Oct 29) — pulled.** The per-show page returned 404 and, more tellingly, the club's own calendar no longer lists the show on Oct 29 at all (that Thursday now shows only "Thursday Fav's" at 7pm). A search turns up two different Megan Botnicks and neither is this booking. Nothing openable confirms the date, so the pick came off the board rather than pointing readers at a dead link tomorrow night.
+- **Michael Pasvar & Friends @ Fear City (Sat Nov 21) — pulled.** Both the `/shows-shop/p/` product URL and the `/shows/` variant 404, and the club's shows-shop listing has moved on (next entries 10/28 and 11/13). Search still surfaces the show and a ticketing page, but search is not a source. The Bell House Ask Ronna pick above replaces it so the night is not empty.
+- **Sunday Night Comedy @ Eastville (Sun Oct 25) — rewritten.** The record pointed at `events/sunday-night-comedy-30`, which today resolves to **No Cent Comedy headlined by Malachi Fox at 8pm**, hosted by Dajon Alford with Leo Bien-Aimé. The old record read as a generic 7:30pm closer. Now titled for the actual show with the $28.13 GA price and the named lineup off the room's dated event page.
+- **12 + 25 further picks** re-verified against their live pages today (Eastville's October grid, the WSCC calendar, Comedy In Harlem's events page, Town Hall, SoHo Playhouse, Broadway Comedy Club's Eventbrite page, Streicker, the Bell House November calendar and the NYCF schedule). The freshness warning is now clear.
+
+**Held out (with reasons):**
+- **Sounds Funny showcase @ Grove 34 (Sat Oct 24)** and **Comedy by Moonlight (Fri Oct 30)** — the show pages carry no named comics ("comedians from Comedy Central, Just for Laughs, Late Night, and more" / an empty description block). Same describe-only rule that held Gotham All-Stars. The room is registered and tracked; the specials come back when a bill posts.
+- **Adrienne Iapalucci @ Grove 34 (Fri Nov 6)** — the club is billing her as a "SPECIAL EVENT" drop-in, not a headlining ticketed set, and her own page is two sentences long.
+- **Picture This, Slumber Party, NORMAL BEHAVIOR, Three-Day Champion, The Story Collider, WFP Sketch Show, Room Full of Strangers, Nerd Nite, Vocabaret, Hot Aur Single, The Power Joker, Drunk Planet Earth, On The Watchlist (Union Hall / Caveat)** — the standing format rule: animation-live-draw, game shows, sketch and drinking games stay off a stand-up-first rail.
+- **Hotel Art Thief @ Union Hall (Wed Nov 18)** — the page itself says "sketch comedy duo". The night is otherwise bare, which is worth a look next week if the room posts a stand-up bill for it.
+
+**Lead feeds:**
+- **eventbrite**: 43 events from 8 organizers, 5 new leads. 2 taken (Chavez/Burger, Famous Last Words). Held: TJ Miller was the fourth verified lead and did go on as a pick at Comic Strip; PRETTY MAJOR and GRETA TITELMAN JOURNALS are Union Hall shows on a night the house already holds two, so they wait; Kellogg's Late Night Comedy Show is the existing Wednesday recurring.
+- **badslava**: 311 rows, **0 new** since the Sep 14 sweep closed. Nothing to review.
+- **reddit-leads**: 76 posts across 22 subs, 3 new — all three the same Oliver's Astoria post (registered above; show not added).
+
+**needs_review**: 0 rooms left with `needs_review: true` (the Badslava sweep closed Sep 14). Nothing for (2b) to do.
+**clubs.json check**: 14 clubs already present, St. Marks among them since Sep 15. (2c) had no work today.
+
+**Heat & research**: `npm run heat` scored 71 upcoming picks — 0 sold out, 0 going fast (top signal stays Marc Maron 39 and Joanne McNally 35 on Wikipedia traffic). `npm run research-plan` ranked 38 performers; **1 run** (Nasser Al-Rayess, Town Hall Oct 31 — Reddit and Hacker News both returned zero items in 30 days, cached); **4 reuse** (Ania Magliano, Marc Maron, Sydnee Washington, Ruby Setnik, all cached Oct 22); **33 skipped**; **~333,000 tokens saved**. One name ranked on schedule alone: Nasser Al-Rayess.
+
+**Venue mix**: the next 7 days hold 11 picks across 6 rooms and 6 houses, the largest at 27%. The two Union Hall additions land on a Sunday and Monday, so the Bell House / Union Hall house stays at 18% for the coming week — under the cap, and no Bell House or Union Hall pick was added to fix the Eastville week.
+
+### Improvement today
+`scripts/research-plan.js` was ranking **Famous Last Words** — Union Hall's monthly jam series, not a person — as a fourth performer on the shortlist, which is what pushed it into today's `run` list and would have spent a last30days run researching a show title. Added `famous` and `words` to the `NOT_A_NAME` filter, the same list that already stops "Picture This" and "Drunk Planet Earth" from becoming performers. After the fix the plan ranked Nasser Al-Rayess instead, and the run went to an actual comic. Worth re-running the plan whenever a pick title looks like two ordinary capitalised words.
