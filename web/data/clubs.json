@@ -278,5 +278,25 @@
   "source_label": "Home page: 21+ admission + photo ID statement; $20 minimum + cash-not-accepted per Sep 14 intake",
   "verified_at": "2026-10-04",
   "verification_note": "21+ age policy read directly from the home page hero (\"Admission is restricted to individuals 21 years of age or older. A valid government issued photo ID is required for entry\"). The $20 food/beverage minimum and the cash-not-accepted-at-door detail were confirmed in the Sep 14 venue review and are consistent with the club’s own current home-page copy (\"CASH NOT ACCEPTED\"). Tixr/Parde event pages list individual show prices; the room does not publish a flat price list — left as ‘see the show page’ per the existing clubs.json rule."
+ },
+ {
+  "id": "comedy-village",
+  "tier": "club",
+  "name": "Comedy Village",
+  "rooms": "Main Showroom and Village Lounge",
+  "address": "352 W 44th St, Manhattan",
+  "neighborhood": "Hell's Kitchen",
+  "price_label": "$22 Sunday and Monday · $25 Tuesday to Thursday · $28 Friday and Saturday",
+  "price_low": 22,
+  "price_high": 28,
+  "minimum": "Not stated on the club's own policy pages; its city guide says a 2-drink minimum is standard at most clubs",
+  "age": "Not stated on the club's own policy pages; its city guide says most clubs are 21+ because of alcohol sales",
+  "reservations": "Tickets on the club's own event pages; groups of 10 or more contact the club directly",
+  "character": "Three shows a night, seven nights a week, in a Times Square room two blocks from the Broadway houses — the room to send someone who wants a guaranteed seat and a short walk back to the train.",
+  "calendar_url": "https://comedyvillage.com/events/",
+  "source_url": "https://comedyvillage.com/comedy-in-nyc/",
+  "source_label": "Club's own city guide (lineup format, seating, age and minimum norms) plus the events calendar for prices",
+  "verified_at": "2026-10-24",
+  "verification_note": "Address, phone and the three-shows-a-night format from the club's own contact page and events calendar. Ticket prices are the per-night prices the club's own event pages list. The club does not publish a policy page with its own minimum or age rules; its city guide only describes what is standard across New York clubs, so both fields say so rather than guessing. Groups of 10 or more are directed to contact the club directly on the private-events page."
  }
 ]

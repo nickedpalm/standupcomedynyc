@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-23T11:15:30.154Z",
- "performers_considered": 37,
+ "generated_at": "2026-10-24T12:25:17.430Z",
+ "performers_considered": 36,
  "shortlist": [
   {
    "name": "Ania Magliano",
@@ -11,7 +11,7 @@
    "priority": 39
   },
   {
-   "name": "Sydnee Washington",
+   "name": "Ruby Setnik",
    "priority": 35
   },
   {
@@ -27,46 +27,30 @@
    "priority": 32
   },
   {
+   "name": "Mark Simmons",
+   "priority": 30
+  },
+  {
    "name": "Ilana Glazer",
    "priority": 30
   },
   {
-   "name": "Sam Tallent",
-   "priority": 25
-  },
-  {
-   "name": "Ruby Setnik",
+   "name": "Nasser Al-Rayess",
    "priority": 20
   },
   {
-   "name": "Nasser Al-Rayess",
+   "name": "Sam Oh",
    "priority": 20
   }
  ],
- "run": [
-  {
-   "name": "Nasser Al-Rayess",
-   "priority": 20,
-   "next": {
-    "id": "nasser-al-rayess-town-hall-2026-10-31",
-    "date": "2026-10-31",
-    "venue": "The Town Hall",
-    "days": 8,
-    "featured": false,
-    "poster": true,
-    "demand": null
-   },
-   "cheap_signals": [],
-   "reason": "in the decision window and not yet decided"
-  }
- ],
+ "run": [],
  "reuse": [
   {
    "name": "Ania Magliano",
    "priority": 40,
    "cached": {
     "at": "2026-10-22T11:20:34.073Z",
-    "age_days": 1,
+    "age_days": 2,
     "fresh": true,
     "note": "The loudest signal on the board right now: a 9,974-upvote r/Fauxmoi thread on Oct 17 plus heavy r/SNLbabes and LiveFrom chatter on her Taskmaster season, which is why the Bell House Dec 2 Peach Fuzz date is worth a board slot two months out."
    }
@@ -76,29 +60,49 @@
    "priority": 39,
    "cached": {
     "at": "2026-10-22T11:22:13.600Z",
-    "age_days": 1,
+    "age_days": 2,
     "fresh": true,
     "note": "Twelve Reddit threads in 30 days led by a 503-upvote r/MarcMaron post and his own subreddit going active again, so the Beacon Nov 8 tour stop has genuine pre-sale demand."
    }
   },
   {
-   "name": "Sydnee Washington",
+   "name": "Ruby Setnik",
    "priority": 35,
    "cached": {
-    "at": "2026-10-22T11:17:29.948Z",
-    "age_days": 1,
+    "at": "2026-10-22T11:18:59.737Z",
+    "age_days": 2,
     "fresh": true,
-    "note": "No usable evidence in 30 days from Reddit or Hacker News despite her Bell House Friday special and a 40-year career, so the pick stands on the show page alone."
+    "note": "Two small Reddit threads, one her own subreddit and one in r/FemaleStandupComedy, with no heat on the Bell House Tuesday; the Hacker News hits are all about the Ruby programming language."
    }
   },
   {
-   "name": "Ruby Setnik",
+   "name": "Mark Simmons",
+   "priority": 30,
+   "cached": {
+    "at": "2026-10-24T12:22:00.509Z",
+    "age_days": 0,
+    "fresh": true,
+    "note": "Ten items in 30 days and not one is about the comic: Reddit returned Bill Simmons, a Zappa bassist named Jeff Simmons and a Simmons Hardware lantern thread, while the four Hacker News hits are unrelated — no signal at all on his new material or the SoHo Playhouse hour, so the Jest to Impress pick stands on the show's own page."
+   }
+  },
+  {
+   "name": "Nasser Al-Rayess",
    "priority": 20,
    "cached": {
-    "at": "2026-10-22T11:18:59.737Z",
+    "at": "2026-10-23T11:15:47.799Z",
     "age_days": 1,
     "fresh": true,
-    "note": "Two small Reddit threads, one her own subreddit and one in r/FemaleStandupComedy, with no heat on the Bell House Tuesday; the Hacker News hits are all about the Ruby programming language."
+    "note": "Nothing usable in 30 days from Reddit or Hacker News, so the Town Hall Oct 31 pick stands on the venue's own event page and his own writing rather than any current buzz."
+   }
+  },
+  {
+   "name": "Sam Oh",
+   "priority": 20,
+   "cached": {
+    "at": "2026-10-24T12:25:13.623Z",
+    "age_days": 0,
+    "fresh": true,
+    "note": "Fifteen items in 30 days and none are about the comic: Hacker News returned twelve Sam Altman stories and Reddit brought Sam Morrill and a Battle for Dream Island thread, so there is no usable signal on his NYC debut — the Bell House Nov 2 pick stands on the show page and his own writing."
    }
   }
  ],
@@ -106,30 +110,25 @@
   {
    "name": "Joanne McNally",
    "priority": 35,
-   "reason": "next show in 15 days, outside the 10-day window"
+   "reason": "next show in 14 days, outside the 10-day window"
   },
   {
    "name": "Jaboukie Young-White",
    "priority": 35,
-   "reason": "next show in 25 days, outside the 10-day window"
+   "reason": "next show in 24 days, outside the 10-day window"
   },
   {
    "name": "Daniel Sloss",
    "priority": 32,
-   "reason": "next show in 22 days, outside the 10-day window"
+   "reason": "next show in 21 days, outside the 10-day window"
   },
   {
    "name": "Ilana Glazer",
    "priority": 30,
-   "reason": "next show in 21 days, outside the 10-day window"
+   "reason": "next show in 20 days, outside the 10-day window"
   },
   {
-   "name": "Sam Tallent",
-   "priority": 25,
-   "reason": "next show in 13 days, outside the 10-day window"
-  },
-  {
-   "name": "Sam Oh",
+   "name": "Dewayne Perkins",
    "priority": 20,
    "reason": "outside the top 10 by cheap ranking"
   },
@@ -154,17 +153,12 @@
    "reason": "outside the top 10 by cheap ranking"
   },
   {
-   "name": "Mark Simmons",
-   "priority": 15,
-   "reason": "outside the top 10 by cheap ranking"
-  },
-  {
-   "name": "Megan Botnick Headlines",
-   "priority": 15,
-   "reason": "outside the top 10 by cheap ranking"
-  },
-  {
    "name": "Laughing Lassi",
+   "priority": 15,
+   "reason": "outside the top 10 by cheap ranking"
+  },
+  {
+   "name": "Difficult People",
    "priority": 15,
    "reason": "outside the top 10 by cheap ranking"
   },
@@ -181,6 +175,16 @@
   {
    "name": "Jacqueline Novak",
    "priority": 15,
+   "reason": "outside the top 10 by cheap ranking"
+  },
+  {
+   "name": "Demetri Martin",
+   "priority": 15,
+   "reason": "outside the top 10 by cheap ranking"
+  },
+  {
+   "name": "Sam Tallent",
+   "priority": 10,
    "reason": "outside the top 10 by cheap ranking"
   },
   {
@@ -234,8 +238,8 @@
    "reason": "outside the top 10 by cheap ranking"
   },
   {
-   "name": "Difficult People",
-   "priority": 0,
+   "name": "Ask Ronna",
+   "priority": 5,
    "reason": "outside the top 10 by cheap ranking"
   },
   {
@@ -249,24 +253,12 @@
    "reason": "outside the top 10 by cheap ranking"
   },
   {
-   "name": "Dewayne Perkins",
-   "priority": 0,
-   "reason": "outside the top 10 by cheap ranking"
-  },
-  {
    "name": "Dropout Improv",
    "priority": 0,
-   "reason": "outside the top 10 by cheap ranking"
-  },
-  {
-   "name": "Upcoming Event",
-   "priority": -10,
    "reason": "outside the top 10 by cheap ranking"
   }
  ],
  "estimated_tokens_saved": 324000,
- "estimate_basis": "9000 tokens per last30days run, 36 runs avoided out of 37",
- "no_recent_data": [
-  "Nasser Al-Rayess"
- ]
+ "estimate_basis": "9000 tokens per last30days run, 36 runs avoided out of 36",
+ "no_recent_data": []
 }

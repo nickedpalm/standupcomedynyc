@@ -355,3 +355,19 @@ Generated from `npm run heat` + `npm run research-plan` (last30days for the 2 na
 
 ### Ranked on schedule alone
 - All 33 skipped performers sit outside the 10-day window or below the cheap-rank threshold. Today's three new picks (Alvaro Chavez and Cameron Burger, Famous Last Words at Union Hall, TJ Miller at Comic Strip) are named-headliner or named-lineup shows verified on their own Eventbrite pages; the plan scored their titles as names but scheduled no run for them.
+
+2026-10-24 daily edition
+- Ranked 36 performers; **ran 2** (Mark Simmons, Sam Oh - both inside the 10-day decision window); **reused 4**; **skipped 30** (outside the 10-day window or below the cheap-rank threshold); **~324,000 tokens saved** from the plan.
+- 2 names ranked on schedule alone for lack of recent data: Mark Simmons and Sam Oh.
+
+### Run notes
+- **Mark Simmons** (SoHo Playhouse Tue 10/27, Jest to Impress): ten items in 30 days and not one is about the comic. Reddit returned Bill Simmons, a Zappa bassist named Jeff Simmons and a Simmons Hardware lantern thread; the Hacker News hits are unrelated. No usable signal, so the pick stands on the show's own page. Cached for 7d.
+- **Sam Oh** (Bell House Mon 11/2, The Unbearable Tightness of Being...Gay Virgin): fifteen items in 30 days and none are about the comic. Hacker News returned twelve Sam Altman stories; Reddit brought Sam Morrill and a Battle for Dream Island thread. No usable signal, so the pick stands on the show page and his own writing. Cached for 7d.
+
+### Reuse notes (already cached under 7d)
+- **Ania Magliano** (cached 1d ago): keeps the Bell House Dec 2 pick.
+- **Marc Maron** (cached 1d ago): real pre-sale demand for the Beacon Nov 8 stop.
+- **Joanne McNally** and **Ruby Setnik** (cached 1d ago): no usable evidence; both picks stand on their show pages.
+
+### Ranked on schedule alone
+- All 30 skipped performers sit outside the 10-day window or below the cheap-rank threshold. Today's new picks are named-headliner or named-lineup shows verified on their own event pages; the plan scored their titles as names but scheduled no run for them.

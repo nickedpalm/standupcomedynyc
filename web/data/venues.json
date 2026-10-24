@@ -1633,5 +1633,16 @@
   "verified_at": "2026-10-23",
   "eventbrite_organizer": "https://www.eventbrite.com/o/105511972661",
   "access_note": "Craft beer bar and kitchen at 37-19 Broadway at 38th St (the room writes it 3719 Broadway, zip 11103). The /info page carries the weekly specials but no comedy listing; comedy here is producer-run and ticketed on Eventbrite, so the Popcorn Comedy organizer page is the feed."
+ },
+ {
+  "name": "The Stand West",
+  "address": "407 W 15th St, Manhattan",
+  "neighborhood": "Chelsea",
+  "borough": "Manhattan",
+  "calendar_url": "https://www.thestandnyc.com/shows",
+  "source_label": "Club shows page (show pages carry the room banner and the Chelsea Market address)",
+  "access_note": "The Stand's second room, inside Chelsea Market; the club's show pages print \"THIS EVENT WILL BE HELD AT OUR LOCATION INSIDE CHELSEA MARKET - 407 W. 15th St\" on every Stand West listing. Loads plainly.",
+  "verified_at": "2026-10-24",
+  "note": "Separate room from The Stand at 116 E 16th St (Union Square). Chelsea Market, 15th St at 9th Ave."
  }
 ]

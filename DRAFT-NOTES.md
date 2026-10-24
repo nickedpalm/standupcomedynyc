@@ -137,3 +137,44 @@ West Side Comedy Club's calendar lists a Saturday Favs slot at 8pm and a Sunday 
 
 ### Improvement today
 The Nico Carney blurb leads with the verifiable news (his debut hour just taped) rather than the room or his career résumé — that lands the why-this-one answer in the first sentence without leaning on Union Hall's "celebrating X years" tagline. The Pachelbel Rant blurb leads with the bit's place in comedy history ("the kind of pre-streaming viral clip that defined a generation of comedy-literate students") so the 20th-anniversary framing carries weight instead of feeling like a one-off gig. The Story Warz blurb names two recurring guests (Shane Gillis, Bert Kreischer) the same way past entries cited Howie Mandel and Tony Hinchcliffe — the format rule said the source-of-record ask is the box history on the show's own page, which NYCC lists verbatim.
+
+## Daily edition — 2026-10-24 (cron run, published by the 14:00 IG check)
+
+The 11:00 edition run hit its tool-iteration limit before the commit, so the work sat in the working tree unpublished until this run picked it up. Every pick below was re-verified against its own source page before it went live.
+
+- **Picks added (14, all tier=special)** — each source page opened and read today:
+  - `raising-hell-bcc-2026-10-25` — Raising Hell: A Halloween Comedy Fundraiser, Brooklyn Comedy Collective Sun Oct 25 7pm, from $16.88 ($5 off before the day of show). A Halloween standup fundraiser for Callen-Lorde with 25% of every ticket to the LGBTQ+ health center; costumes optional, 21+, doors 6:30.
+  - `frantic-free-stand-2026-10-26` — FRANTIC! Free Show, The Stand Mon Oct 26 9pm, free. The club's own Monday free show ("the best free show in Manhattan"), Aaron Berg / Chris Barnes / Josh Ocean Thomas on the card.
+  - `mark-normand-stand-2026-10-28` — The Stand Presents: Mark Normand, Caitlin Peluffo, Matthew Broussard & More!, The Stand Wed Oct 28 7pm. Price left null: the show page renders no price (Tixr checkout is gated), per the unknown-prices-stay-unknown rule.
+  - `pizzazz-gary-gulman-union-hall-2026-10-28` — Union Hall Wed Oct 28 7:30pm, $19.26. Gary Gulman works out new material in an extended set and pulls a few favorite comics up after him.
+  - `dress-rehearsal-union-hall-2026-10-29` — Union Hall Thu Oct 29 7:30pm, $15.92. The whole bill in formalwear and tuxedos; Sabrina Wu, Gary Simons, Shaunak Godkhindi, Annabel and Sabina Meschke, Ryan Roman, music by Neel Ghosh.
+  - `comedians-in-costumes-st-marks-2026-10-29` — St. Marks Thu Oct 29 8:30pm, $21.77 incl. fees. Best costume in the audience gets its bar tab paid.
+  - `emma-willmann-stand-west-2026-10-29` — The Stand West Thu Oct 29 9pm, $25. Emma Willmann heads the late card with Elle Orlando, Luis Lopez, Sienna Hubert-Ross and Chris Redd.
+  - `nyc-stand-up-comedy-village-2026-10-30` — Comedy Village Fri Oct 30 9pm, $28. Three shows a night, seven nights a week, two blocks from the Broadway houses.
+  - `df-sweedler-comic-strip-2026-11-01` — Comic Strip Live Sun Nov 1 8pm, $25.71. D.F. Sweedler with Kareem Green, Thash Mose, Matt Pavich and Feraz Shere.
+  - `speakeasy-saturday-night-st-marks-2026-11-28` — St. Marks Sat Nov 28 8:30pm, $25.59 incl. fees.
+  - `a-true-york-st-marks-2026-12-01` — St. Marks Tue Dec 1 7:30pm, $18.51 incl. fees. Keenan Steiner, Alexis Carabano, Danny Carabano and Macy Kwok.
+  - `not-ripe-bananas-wscc-2026-12-01` — West Side Comedy Club Tue Dec 1 8pm, free (no cover, no minimum, per the club's own page). A new weekly workshop show where comics try unfinished material.
+  - `date-night-comedy-st-marks-2026-12-03` — St. Marks Thu Dec 3 8:30pm, $23.95 incl. fees. No artwork: the show page has no flyer, so the pick carries no poster.
+  - `demetri-martin-bell-house-2026-12-04` — The Bell House Fri Dec 4 7pm. Price null: the event is Ticketmaster-gated. A second date (Dec 5) is on the same run and was left off the board to avoid two adjacent Bell House nights.
+- **New room registered**: The Stand West (407 W 15th St, Chelsea, Manhattan) — the club's second room inside Chelsea Market, separate from The Stand at 116 E 16th St. Every Stand West listing carries the "THIS EVENT WILL BE HELD AT OUR LOCATION INSIDE CHELSEA MARKET - 407 W. 15th St" line.
+- **New club registered**: Comedy Village (352 W 44th St, Hell's Kitchen) — 15 clubs now on the file. Price band and the three-shows-a-night format from the club's own event pages and city guide; the club publishes no minimum or age policy page, so both fields say so rather than guessing.
+- **Re-verified**: Eastville Nov 1, Sam Oh Nov 2 and Please Stay Seated Nov 4 — `verified_at` bumped to 2026-10-24, source pages still live.
+- **13 official flyers** saved to `web/assets/posters/` with POSTER-SOURCES.json records (source URL, credit, SHA-256, byte count). None marked `reuse: granted`, so none go on Instagram cards.
+
+### Held (with reasons)
+- **Callen Lorde fundraiser at BCC** was confirmed on BCC's own page with the flyer downloaded, but it is the same Oct 25 Raising Hell show already added — counted once, not twice.
+- **Badslava (3 new)**: The Rose's own calendar still does not list its two new mic slots — held per the venue-controlled-source rule. Roots Kava Bar is Port Jefferson — out of city, held.
+- **Reddit (5 new)**: two NYCF sketch nights at Caveat (sketch, not stand-up), two trash-can threads (off-topic), one duplicate of the BCC fundraiser.
+- **Eventbrite holds**: Story-oke (karaoke), Science Tonight (talk show), 3 Days Notice (play), Peter Stewart at Comic Strip (generic showcase).
+- `Garrett and Allison's Big Night` was added then dropped to keep Bell House / Union Hall under the 35% next-7 mix cap; its flyer was removed with it.
+
+### Board after this run
+Six weeks ahead: **19 / 13 / 13 / 14 / 11 / 13** picks — every week at or above the 8-pick floor. Week 1 went 15 → 19 and week 6 went 12 → 13. Every night of the next seven days has at least one pick. `npm test` passes with 83 picks and no warnings.
+
+### Research budget (required figures)
+- **36 performers ranked · 2 runs · 4 reused · 30 skipped · ~324,000 tokens saved**
+- Ranked on schedule alone: **Mark Simmons** and **Sam Oh** — both runs came back as pure name-collision noise (Simmons returned Bill Simmons / a Zappa bassist / a lantern thread; Sam Oh returned 12 Sam Altman stories on Hacker News plus Sam Morrill and a Battle for Dream Island thread). Both cached with that finding; both picks stand on their show pages.
+
+### Improvement today
+`scripts/research-plan.js` was ranking show titles as performers — **Dress Rehearsal**, **Speakeasy Saturday Night**, **Pizzazz** and **Not Ripe Bananas** are Union Hall and St. Marks formats, not comics, and each one would have burned a last30days run researching a title. Added them to the `NOT_A_NAME` filter alongside the existing entries, so today's runs went to actual people. The same rule that already stopped "Famous Last Words" from being read as a performer.
