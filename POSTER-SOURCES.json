@@ -2154,5 +2154,50 @@
   "bytes": 22456,
   "sha256": "ca4cc4c90bec1deadbf2a103eda1258f4520eb9a3062fd696862be1c0ef9175c",
   "reuse_status": "Official promotional artwork; no separate reuse license identified. Local review draft only."
+ },
+ {
+  "event_id": "friday-night-laughs-st-marks-2026-12-04",
+  "src": "/assets/posters/friday-night-laughs-st-marks-2026-12-04.png",
+  "width": 1254,
+  "height": 1254,
+  "source_url": "https://www.stmarkscomedy.com/shows/friday-night-laughs-comedy-show-2026-12-04-cef44d33",
+  "credit": "Artwork: St. Marks Comedy Club",
+  "alt": "Friday Night Laughs Comedy Show at St. Marks Comedy Club — December 4, 2026.",
+  "kind": "dated event flyer",
+  "original_image_url": "https://fidzjzqjnyushpokqxne.supabase.co/storage/v1/object/public/headshots/ea4c99ef-2daf-4dd3-8ffc-dd5230256b6c/danny-carabano-1786.png",
+  "retrieved_at": "2026-10-25",
+  "bytes": 1825491,
+  "sha256": "d4c3b4db67db746a16035c44a33b9980b0c4f05fa71116442169c7a350ad455a",
+  "reuse_status": "Official promotional artwork; no separate reuse license identified. Local review draft only."
+ },
+ {
+  "event_id": "peter-and-friends-st-marks-2026-12-05",
+  "src": "/assets/posters/peter-and-friends-st-marks-2026-12-05.png",
+  "width": 1038,
+  "height": 1516,
+  "source_url": "https://www.stmarkscomedy.com/shows/peter-friends-comedy-show-2026-12-05-fa92b902",
+  "credit": "Artwork: St. Marks Comedy Club",
+  "alt": "Peter & Friends Comedy Show at St. Marks Comedy Club — Saturday December 5, 2026, 6:30pm.",
+  "kind": "dated event flyer",
+  "original_image_url": "https://qfrmgyichufynswkwaxp.supabase.co/storage/v1/object/public/show-fliers/0.6287584107635822.png",
+  "retrieved_at": "2026-10-25",
+  "bytes": 1747089,
+  "sha256": "1127801c11dab4154333c862773d4ab201ce17c0a2237ebbaa96373b8fc3f630",
+  "reuse_status": "Official promotional artwork; no separate reuse license identified. Local review draft only."
+ },
+ {
+  "event_id": "speakeasy-saturday-night-st-marks-2026-12-05",
+  "src": "/assets/posters/speakeasy-saturday-st-marks-2026-12-05.png",
+  "width": 1254,
+  "height": 1254,
+  "source_url": "https://www.stmarkscomedy.com/shows/speakeasy-saturday-night-2026-12-05-25a637a6",
+  "credit": "Artwork: St. Marks Comedy Club",
+  "alt": "Speakeasy Saturday Night at St. Marks Comedy Club — December 5, 2026.",
+  "kind": "dated event flyer",
+  "original_image_url": "https://fidzjzqjnyushpokqxne.supabase.co/storage/v1/object/public/headshots/ea4c99ef-2daf-4dd3-8ffc-dd5230256b6c/danny-carabano-1786.png",
+  "retrieved_at": "2026-10-25",
+  "bytes": 1825491,
+  "sha256": "d4c3b4db67db746a16035c44a33b9980b0c4f05fa71116442169c7a350ad455a",
+  "reuse_status": "Official promotional artwork; no separate reuse license identified. Local review draft only."
  }
 ]

@@ -178,3 +178,53 @@ Six weeks ahead: **19 / 13 / 13 / 14 / 11 / 13** picks — every week at or abov
 
 ### Improvement today
 `scripts/research-plan.js` was ranking show titles as performers — **Dress Rehearsal**, **Speakeasy Saturday Night**, **Pizzazz** and **Not Ripe Bananas** are Union Hall and St. Marks formats, not comics, and each one would have burned a last30days run researching a title. Added them to the `NOT_A_NAME` filter alongside the existing entries, so today's runs went to actual people. The same rule that already stopped "Famous Last Words" from being read as a performer.
+
+## Daily edition — 2026-10-25 (cron run, recovered by the 14:00 IG check)
+
+The 11:00 edition job hit its tool-iteration cap and published nothing. Its verified work was
+re-checked against each source page before anything went on the board.
+
+**Picks added (4):**
+- `friday-night-laughs-st-marks-2026-12-04` — St. Marks Fri Dec 4 8:30pm, $25.59 incl. fees. Doors 8, show 8:30, 2-drink minimum, 18+. The room's own copy calls it a stacked lineup of NYC's sharpest comics.
+- `peter-and-friends-st-marks-2026-12-05` — St. Marks Sat Dec 5 6:30pm, $13.06 incl. fees. Peter Zhou's own show, produced by him, built around a gay Chinese comedian's take on the immigrant experience.
+- `speakeasy-saturday-night-st-marks-2026-12-05` — St. Marks Sat Dec 5 8:30pm, $25.59 incl. fees. The Saturday slot the room calls a True York experience.
+- `demetri-martin-bell-house-2026-12-05` — The Bell House Sat Dec 5 7pm. The second night of his first Christmas comedy tour: jokes, stories, art and live music around a live holiday album, clean enough to bring the family. Price null (Ticketmaster-gated).
+
+**Why these:** Dec 5 was a bare Saturday on the board — the only night in the six-week horizon with
+nothing on it. It now carries three shows in three different rooms. Dec 4 gained a second show
+alongside Demetri Martin.
+
+**Re-verified (the two picks npm test flagged as stale):**
+- `salma-hindy-10-years-stand-2026-11-04` — The Stand's own show page still lists Nov 4, 8pm, Upstairs, with Salma Hindy / Sabeen Sadiq / Denise Taylor. The Tixr ticket page blocks automated requests, so the recorded price stands unchanged rather than being guessed at.
+- `fahim-anwar-bell-house-2026-11-20` — The Live Nation page now reads "SOLD OUT - Fahim Anwar at The Bell House on Fri, Nov 20, 2026, 7:30 PM". The show is unchanged; it is simply gone.
+
+### Fix: sold-out detection now covers Live Nation and Ticketmaster
+
+`scripts/heat.js` only read availability from Eventbrite's JSON-LD offers block, so every
+Bell House show — which sells through Ticketmaster — read as untagged no matter what its ticket
+page said. **Fahim Anwar on Nov 20 is sold out and was carrying no tag**, which meant it would
+have gone into the Tonight carousel and the Instagram caption as if tickets were still on sale.
+A sold-out show stays on the board but never in the carousel.
+
+`heat.js` now also reads the ticket page's `<title>`, where Live Nation and Ticketmaster put the
+state ("SOLD OUT - <show> at <venue> on <date> - Live Nation"). After the fix the nightly score
+reads 2 sold out instead of 1, and Fahim Anwar is tagged.
+
+Checked every other Live Nation / Ticketmaster pick the same way (Sam Oh, Matthew Broussard,
+Ask Ronna, The Silver Lining, Stamptown, Ania Magliano, Demetri Martin): none is sold out.
+
+### Board after this run
+
+86 picks. Six weeks ahead: **20 / 12 / 15 / 12 / 12 / 15** — every week at or above the 8-pick
+floor, and no bare night left in the horizon. `npm test` passes with one warning, now down from
+two, on picks that were stale for two days and are re-verified today.
+
+### Not published, and why
+
+- **NYCF link-in-bio entry (Nov 6-15).** The festival schedule is worth linking, but the live
+  schedule page carries a held-out act's show, and a link to a third-party schedule cannot filter
+  one show out of it. Left alone; sent to Nick instead.
+- **BILT SHOW at West Side Comedy Club (Wed Nov 18)** — Nov 18 is the one remaining bare night in
+  the horizon. The club's own calendar marks the show sold out while its ticket page says
+  otherwise, and the two disagree. The week is above the floor without it, so it waits for a
+  clear answer rather than a guess.

@@ -1,5 +1,5 @@
 {
- "retrieved_at": "2026-10-24T11:01:56.132Z",
+ "retrieved_at": "2026-10-25T11:01:29.286Z",
  "note": "Promoter posts from NYC neighborhood subreddits, last 14 days. Leads only: open the linked page or the venue site before anything enters the data; register the venue first.",
  "subreddits": [
   "nycevents",
@@ -27,6 +27,128 @@
  ],
  "leads": [
   {
+   "id": "1xecqni",
+   "date": "2026-10-24",
+   "subreddit": "nycevents",
+   "title": "Brown Point Comedy tonight at 8pm!",
+   "score": 0,
+   "comments": 0,
+   "url": "https://www.reddit.com/r/nycevents/comments/1xecqni/brown_point_comedy_tonight_at_8pm/",
+   "venues_mentioned": [],
+   "when_mentioned": null,
+   "time_mentioned": "8pm",
+   "links": [
+    "https://www.eventbrite.com/e/bigger-than-me-comedy-presents-brownpoint-comedy-nyc-tickets-2002986515587?aff=oddtdtcreator"
+   ],
+   "free": false,
+   "new_since_last_run": true,
+   "excerpt": "https://www.eventbrite.com/e/bigger-than-me-comedy-presents-brownpoint-comedy-nyc-tickets-2002986515587?aff=oddtdtcreator"
+  },
+  {
+   "id": "1xecsha",
+   "date": "2026-10-24",
+   "subreddit": "nycComedy",
+   "title": "Brown Point Comedy tonight at 8pm",
+   "score": 1,
+   "comments": 0,
+   "url": "https://www.reddit.com/r/nycComedy/comments/1xecsha/brown_point_comedy_tonight_at_8pm/",
+   "venues_mentioned": [],
+   "when_mentioned": null,
+   "time_mentioned": "8pm",
+   "links": [
+    "https://www.eventbrite.com/e/bigger-than-me-comedy-presents-brownpoint-comedy-nyc-tickets-2002986515587?aff=oddtdtcreator"
+   ],
+   "free": false,
+   "new_since_last_run": true,
+   "excerpt": "https://www.eventbrite.com/e/bigger-than-me-comedy-presents-brownpoint-comedy-nyc-tickets-2002986515587?aff=oddtdtcreator"
+  },
+  {
+   "id": "1xen75s",
+   "date": "2026-10-24",
+   "subreddit": "Bushwick",
+   "title": "New Open Mic / Jam 10-25",
+   "score": 1,
+   "comments": 0,
+   "url": "https://www.reddit.com/r/Bushwick/comments/1xen75s/new_open_mic_jam_1025/",
+   "venues_mentioned": [],
+   "when_mentioned": null,
+   "time_mentioned": null,
+   "links": [],
+   "free": false,
+   "new_since_last_run": true,
+   "excerpt": ""
+  },
+  {
+   "id": "1xefwag",
+   "date": "2026-10-24",
+   "subreddit": "astoria",
+   "title": "Astoria Comedy TONIGHT!",
+   "score": 3,
+   "comments": 0,
+   "url": "https://www.reddit.com/r/astoria/comments/1xefwag/astoria_comedy_tonight/",
+   "venues_mentioned": [
+    "Grove 34"
+   ],
+   "when_mentioned": null,
+   "time_mentioned": null,
+   "links": [
+    "https://grove34.com/shows/sounds-funny-oct24"
+   ],
+   "free": false,
+   "new_since_last_run": true,
+   "excerpt": "Hi everyone! This show is happening tonight at Grove34 (34th St and Broadway) so if you're looking for something to do or wanna meet other locals interested in comedy this is a great chance to do that! Or just stop by and say hi! We are a group of comedians (stand-up, improv, ske"
+  },
+  {
+   "id": "1xemttu",
+   "date": "2026-10-24",
+   "subreddit": "AskNYC",
+   "title": "How do you hear about things to do/see/hear?",
+   "score": 8,
+   "comments": 12,
+   "url": "https://www.reddit.com/r/AskNYC/comments/1xemttu/how_do_you_hear_about_things_to_doseehear/",
+   "venues_mentioned": [],
+   "when_mentioned": null,
+   "time_mentioned": null,
+   "links": [],
+   "free": false,
+   "new_since_last_run": true,
+   "excerpt": "I just heard that there was a Stanley Kubrick exhibition in town that ended yesterday. When I used to get a hard copy of Time Out NY every week (remember actual magazines?) i would have heard about a show like that. These days I have no idea how to find my cultural fix. I look at"
+  },
+  {
+   "id": "1xen79y",
+   "date": "2026-10-24",
+   "subreddit": "ridgewood",
+   "title": "New Open Mic / Jam 10-25",
+   "score": 2,
+   "comments": 0,
+   "url": "https://www.reddit.com/r/ridgewood/comments/1xen79y/new_open_mic_jam_1025/",
+   "venues_mentioned": [],
+   "when_mentioned": null,
+   "time_mentioned": null,
+   "links": [],
+   "free": false,
+   "new_since_last_run": true,
+   "excerpt": ""
+  },
+  {
+   "id": "1xeh6w2",
+   "date": "2026-10-24",
+   "subreddit": "longislandcity",
+   "title": "New to LIC, How to make friends?",
+   "score": 22,
+   "comments": 33,
+   "url": "https://www.reddit.com/r/longislandcity/comments/1xeh6w2/new_to_lic_how_to_make_friends/",
+   "venues_mentioned": [
+    "Grove 34"
+   ],
+   "when_mentioned": null,
+   "time_mentioned": null,
+   "links": [],
+   "free": false,
+   "new_since_last_run": true,
+   "excerpt": "Hi! I've recently moved to the neighborhood less than a month ago. So far I'm loving it here; peaceful, good food, easy commute. LIC has been a great choice so far. The only thing I'm missing is I don't have friends around! Are there any groups or recommended places to make frien"
+  },
+  {
    "id": "1xdt0sk",
    "date": "2026-10-23",
    "subreddit": "nycevents",
@@ -43,7 +165,7 @@
     "https://www.caveat.nyc/events/fun-in-moderation-sketch-comedy-2026-11-14"
    ],
    "free": false,
-   "new_since_last_run": true,
+   "new_since_last_run": false,
    "excerpt": "https://www.caveat.nyc/events/fun-in-moderation-sketch-comedy-2026-11-14"
   },
   {
@@ -51,7 +173,7 @@
    "date": "2026-10-23",
    "subreddit": "nycComedy",
    "title": "New York Comedy Festival - sketch comedy Nov 14th",
-   "score": 1,
+   "score": 2,
    "comments": 0,
    "url": "https://www.reddit.com/r/nycComedy/comments/1xdt1rl/new_york_comedy_festival_sketch_comedy_nov_14th/",
    "venues_mentioned": [
@@ -63,7 +185,7 @@
     "https://www.caveat.nyc/events/fun-in-moderation-sketch-comedy-2026-11-14"
    ],
    "free": false,
-   "new_since_last_run": true,
+   "new_since_last_run": false,
    "excerpt": "https://www.caveat.nyc/events/fun-in-moderation-sketch-comedy-2026-11-14"
   },
   {
@@ -81,7 +203,7 @@
    "time_mentioned": null,
    "links": [],
    "free": false,
-   "new_since_last_run": true,
+   "new_since_last_run": false,
    "excerpt": "Hey everyone! I’m producing a comedy show this Sunday, October 25th at Brooklyn Comedy Collective. It has an all-queer lineup, and we’ll be raising money for LGBTQ healthcare organization Callen Lorde. Tickets are $15 adv, $20 at the door, and there’s no drink minimum! Would love"
   },
   {
@@ -89,15 +211,15 @@
    "date": "2026-10-23",
    "subreddit": "williamsburg",
    "title": "We Raised $2600 For New Trash Cans in McCarren Park!",
-   "score": 184,
-   "comments": 28,
+   "score": 210,
+   "comments": 34,
    "url": "https://www.reddit.com/r/williamsburg/comments/1xdjabn/we_raised_2600_for_new_trash_cans_in_mccarren_park/",
    "venues_mentioned": [],
    "when_mentioned": "Sunday since April (when we started), and the ",
    "time_mentioned": "9:30 am",
    "links": [],
    "free": false,
-   "new_since_last_run": true,
+   "new_since_last_run": false,
    "excerpt": "Last night, Stewards of McCarren Park (the new official Friends group for McCarren Park) hosted Trash Comedy Night alongside the North Brooklyn Chess Club! We aimed to raise $1200 by getting folks together for some solid laughs with a great lineup of comedians. We ended up raisin"
   },
   {
@@ -105,7 +227,7 @@
    "date": "2026-10-23",
    "subreddit": "Greenpoint",
    "title": "We Raised $2600 For New Trash Cans in McCarren Park!",
-   "score": 25,
+   "score": 31,
    "comments": 0,
    "url": "https://www.reddit.com/r/Greenpoint/comments/1xdjbl6/we_raised_2600_for_new_trash_cans_in_mccarren_park/",
    "venues_mentioned": [],
@@ -113,7 +235,7 @@
    "time_mentioned": "9:30 am",
    "links": [],
    "free": false,
-   "new_since_last_run": true,
+   "new_since_last_run": false,
    "excerpt": "Last night, Stewards of McCarren Park (the new official Friends group for McCarren Park) hosted Trash Comedy Night alongside the North Brooklyn Chess Club! We aimed to raise $1200 by getting folks together for some solid laughs with a great lineup of comedians. We ended up raisin"
   },
   {
@@ -173,7 +295,7 @@
    "date": "2026-10-22",
    "subreddit": "parkslope",
    "title": "Our $10 Magic Show is Back Tonight (Thursday) 7pm in Park Slope!",
-   "score": 11,
+   "score": 10,
    "comments": 1,
    "url": "https://www.reddit.com/r/parkslope/comments/1xc6p3f/our_10_magic_show_is_back_tonight_thursday_7pm_in/",
    "venues_mentioned": [
@@ -343,7 +465,7 @@
    "date": "2026-10-21",
    "subreddit": "astoria",
    "title": "Open Mic at The Gaf - Wednesday October 21st",
-   "score": 6,
+   "score": 5,
    "comments": 1,
    "url": "https://www.reddit.com/r/astoria/comments/1xbycde/open_mic_at_the_gaf_wednesday_october_21st/",
    "venues_mentioned": [],
@@ -413,7 +535,7 @@
    "date": "2026-10-21",
    "subreddit": "BedStuy",
    "title": "I am hosting/producing the October standup comedy showcase at The Salon on Kingston next Wednesday! (Details in comments)",
-   "score": 7,
+   "score": 9,
    "comments": 1,
    "url": "https://www.reddit.com/r/BedStuy/comments/1xbq7yc/i_am_hostingproducing_the_october_standup_comedy/",
    "venues_mentioned": [],
@@ -644,7 +766,7 @@
    "date": "2026-10-19",
    "subreddit": "Bushwick",
    "title": "Open Mic / Jam",
-   "score": 3,
+   "score": 4,
    "comments": 0,
    "url": "https://www.reddit.com/r/Bushwick/comments/1xa37ba/open_mic_jam/",
    "venues_mentioned": [],
@@ -660,7 +782,7 @@
    "date": "2026-10-19",
    "subreddit": "AskNYC",
    "title": "Anywhere to see performance magic for not too much money?",
-   "score": 13,
+   "score": 14,
    "comments": 9,
    "url": "https://www.reddit.com/r/AskNYC/comments/1xabd24/anywhere_to_see_performance_magic_for_not_too/",
    "venues_mentioned": [],
@@ -712,7 +834,7 @@
    "date": "2026-10-18",
    "subreddit": "astoria",
    "title": "Stand up Show on 10/24 at Grove34",
-   "score": 3,
+   "score": 2,
    "comments": 0,
    "url": "https://www.reddit.com/r/astoria/comments/1x9axrc/stand_up_show_on_1024_at_grove34/",
    "venues_mentioned": [],
@@ -854,7 +976,7 @@
    "date": "2026-10-15",
    "subreddit": "Bushwick",
    "title": "Need a \"Community display\"?",
-   "score": 2,
+   "score": 4,
    "comments": 0,
    "url": "https://www.reddit.com/r/Bushwick/comments/1x688c7/need_a_community_display/",
    "venues_mentioned": [],
@@ -940,7 +1062,7 @@
    "date": "2026-10-14",
    "subreddit": "crownheights",
    "title": "Crown Heights Events Thread 10/14-10/20",
-   "score": 46,
+   "score": 45,
    "comments": 10,
    "url": "https://www.reddit.com/r/crownheights/comments/1x5zih7/crown_heights_events_thread_10141020/",
    "venues_mentioned": [],
@@ -1110,7 +1232,7 @@
    "date": "2026-10-13",
    "subreddit": "lowereastside",
    "title": "Packed comedy shows are more fun and there's just 12 seats left for THURS 10/15, so plz come &amp; help make this our 3rd sold-out show in a row! • Great comics (comedian bios at link) + a one-in-35 chance your bar tab gets paid for. No drink min. Fun vibe. Whiskey Cellar-77 East 7 St . $12",
-   "score": 3,
+   "score": 2,
    "comments": 0,
    "url": "https://www.reddit.com/r/lowereastside/comments/1x596g3/packed_comedy_shows_are_more_fun_and_theres_just/",
    "venues_mentioned": [],
@@ -1208,7 +1330,7 @@
    "date": "2026-10-12",
    "subreddit": "AskNYC",
    "title": "Comedy clubs that run decent shows midweek nights?",
-   "score": 10,
+   "score": 9,
    "comments": 16,
    "url": "https://www.reddit.com/r/AskNYC/comments/1x3qn1e/comedy_clubs_that_run_decent_shows_midweek_nights/",
    "venues_mentioned": [],
@@ -1224,7 +1346,7 @@
    "date": "2026-10-12",
    "subreddit": "eastvillage",
    "title": "Where to promote shows going on in the East Village?",
-   "score": 3,
+   "score": 4,
    "comments": 14,
    "url": "https://www.reddit.com/r/eastvillage/comments/1x4bg62/where_to_promote_shows_going_on_in_the_east/",
    "venues_mentioned": [],
@@ -1286,22 +1408,6 @@
    "free": true,
    "new_since_last_run": false,
    "excerpt": "https://preview.redd.it/1hznhl73tuuh1.jpg?width=1500&amp;format=pjpg&amp;auto=webp&amp;s=8e335c40b9612dfb4f7ad63424fc7d88fa1c9f15 &gt;Hi neighbors! If you’re looking for a Halloween plan close to home, my cat-themed variety show is at Caveat (21A Clinton St) on Halloween night. &"
-  },
-  {
-   "id": "1x2kbs0",
-   "date": "2026-10-10",
-   "subreddit": "astoria",
-   "title": "Comedy show at QED tonight. I have a handful of tickets to give away if anyone is interested.",
-   "score": 7,
-   "comments": 2,
-   "url": "https://www.reddit.com/r/astoria/comments/1x2kbs0/comedy_show_at_qed_tonight_i_have_a_handful_of/",
-   "venues_mentioned": [],
-   "when_mentioned": null,
-   "time_mentioned": null,
-   "links": [],
-   "free": false,
-   "new_since_last_run": false,
-   "excerpt": ""
   }
  ]
 }

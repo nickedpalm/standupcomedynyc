@@ -758,3 +758,26 @@ The factual correction to the Novak blurb was the day's data fix — "Get to Be 
 - **The Stand West** - 407 W 15th St, Chelsea, Manhattan. The Stand's second room, inside Chelsea Market, separate from The Stand at 116 E 16th St (Union Square). The club's show pages print "THIS EVENT WILL BE HELD AT OUR LOCATION INSIDE CHELSEA MARKET - 407 W. 15th St" on every Stand West listing, which is how the address and the room split were confirmed. Calendar: thestandnyc.com/shows, which lists both rooms. First pick on the board: The Stand West Presents: Emma Willmann, Elle Orlando, Luis Lopez and More (Thu Oct 29, 9pm, $25). The room runs later and smaller than the Union Square one, which is why the Emma Willmann card is a 9pm show.
 - **Comedy Village** - 352 W 44th St, Hell's Kitchen, Manhattan. Added to clubs.json as the 15th club entry. Three shows a night, seven nights a week, two blocks from the Broadway houses. Ticket prices ($22 Sun-Mon, $25 Tue-Thu, $28 Fri-Sat) come from the club's own event pages. The club publishes no policy page of its own: its city guide describes what is standard across New York clubs (2-drink minimum, most clubs 21+), so both the `minimum` and `age` fields say exactly that rather than guessing the house rules. Groups of 10 or more are directed to the club's private-events page.
 - **Not Ripe Bananas** - new weekly Tuesday workshop show at West Side Comedy Club, free with no cover and no drink or food minimum (the club's own show page). It runs Tuesdays through late December, so the Dec 1 date went on the board as a dated pick rather than a recurring entry; the room's other Tuesday cards are already on the board as picks.
+
+## 2026-10-25 - The Stand West, Comedy Village and Bushwick Comedy Club: room audit
+
+- **Bushwick Comedy Club** - 259 Melrose St, Bushwick, Brooklyn. The room's own About page states
+  it is owned and operated by comedians, books by tape with an acceptance rate of about 4%, has
+  **no drink or item minimum and is BYOB-friendly**, and runs new lineups every weekend. The
+  Eventbrite organizer page (eventbrite.com/o/bushwick-comedy-club-96314433433) has 295 total
+  events but currently shows nothing planned, and the club's own calendar lists only "Thursday
+  Night Showcase" / "Friday Night Showcase" / "Saturday Night Showcase" with no named comics and
+  the day-of lineups on Instagram. Every night it runs is a rotating showcase with no bill on the
+  page, so it does not qualify as a pick; the room is already in venues.json and stays tracked
+  for when a bill posts. Not added to clubs.json: that page is the Manhattan clubs guide, and
+  Bushwick is in Brooklyn.
+- **West Side Comedy Club** - 201 W 75th St, Upper West Side, Manhattan. Its December dates
+  (Saturday Favs, Friday Shows, the BILT SHOW on Nov 18) are rotating showcases with no named
+  lineup on the club's own calendar, so they stay off the board under the same rule. "Not Ripe
+  Bananas" (free, Tuesdays) is the exception and is already a recurring entry and a dated pick.
+- **St. Marks Comedy Club** - 12 St Marks Pl, East Village, Manhattan. Its monthly Friday Night
+  Laughs and Saturday Speakeasy formats have no named lineup on the page either, but the pages
+  carry a real price, a real time and a 2-drink minimum, and the room's own copy describes the
+  bill ("a stacked lineup of NYC's sharpest comedians"). Dec 4 and Dec 5 went on the board on
+  those facts. The open-mic and $3 Monday nights were not added: open mics belong in
+  open-mics.json and the $3 entry is a discount night with no bill.

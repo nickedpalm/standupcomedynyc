@@ -13,7 +13,7 @@ Six weeks ahead from the board. Regenerated on every build; edit the data, not t
 
 Ranked 36; run 0, reuse 6, skip 30; ~324,000 tokens saved.
 
-## Week 1: Oct 25 to Oct 31 — 20 picks — 5 without artwork · 27 Eventbrite leads not yet reviewed
+## Week 1: Oct 25 to Oct 31 — 20 picks — 5 without artwork · 32 Eventbrite leads not yet reviewed
 
 - Sun Oct 25 7pm — **ROBYN & "FRIENDS" Comedy Show** at West Side Comedy Club · NO ARTWORK
 - Sun Oct 25 7pm · doors 6:30pm — **Raising Hell: A Halloween Comedy Fundraiser** at Brooklyn Comedy Collective
@@ -46,7 +46,7 @@ Ranked 36; run 0, reuse 6, skip 30; ~324,000 tokens saved.
   - Mon Oct 26 7pm — The Story Collider at Caveat · from $18.76 · has artwork
   - Mon Oct 26 8pm — The Witch Wave with Pam Grossman LIVE! at Littlefield · from $18.71 · has artwork
 
-## Week 2: Nov 1 to Nov 7 — 12 picks — 8 without artwork · 2 Eventbrite leads not yet reviewed
+## Week 2: Nov 1 to Nov 7 — 12 picks — 8 without artwork · 7 Eventbrite leads not yet reviewed
 
 - Sun Nov 1 7:30pm — **Sunday Night Comedy** at Eastville Comedy Club · NO ARTWORK
 - Sun Nov 1 8pm · doors 7:30pm — **DF Sweedler, Thash Mose, Matt Pavich, Feraz Shere, Kareem Green, & More!** at Comic Strip Live
@@ -62,25 +62,30 @@ Ranked 36; run 0, reuse 6, skip 30; ~324,000 tokens saved.
 - Sat Nov 7 6pm — **Joanne McNally: Pinotphile** at The Town Hall · NO ARTWORK · heat 35
 
   Leads to review:
-  - Sun Nov 1 8pm — DF Sweedler, Thash Mose, Matt Pavich, Feraz Shere, Kareem Green, & more! at Comic Strip Live · from $25.71 · has artwork
+  - Sun Nov 1 8pm — LPR Presents: Carsie Blanton w/ The Burning Hell at Littlefield · from $0 · has artwork
   - Mon Nov 2 8pm — The Peter Stewart Show! With Kareem Green! at Comic Strip Live · from $25.71 · has artwork
+  - Tue Nov 3 8pm — Spin Out With Me - An Educational Experience at Littlefield · from $18.71 · has artwork
+  - Tue Nov 3 8pm — Barry Weintraub, Rachel Lenihan, Jim Mendrinos, Nick Tilleli,  & more! at Comic Strip Live · from $25.71 · has artwork
+  - Wed Nov 4 7:30pm — LPR Presents: Las Migas at Littlefield · from $0 · has artwork
+  - Wed Nov 4 8pm — Tom Van Horn, Michele Balan, Feraz Shere, Matt Pavich, Mike Yard, & more! at Comic Strip Live · from $25.71 · has artwork
+  - Thu Nov 5 8pm — Ken Boyd, Caroline Hanes, Eagle Witt, Vanessa Hollingshead, & more! at Comic Strip Live · from $25.71 · has artwork
 
 ## Week 3: Nov 8 to Nov 14 — 15 picks — 14 without artwork
 
 - Sun Nov 8 4pm — **Josh Sharp: An Hour of Crowd Work in the Round** at The Bell House · NO ARTWORK
 - Sun Nov 8 7pm — **Sarah Sherman & Patti Harrison** at The Town Hall · NO ARTWORK
-- Sun Nov 8 7:30pm — **Marc Maron: Yammering Into the Void Tour** at Beacon Theatre · NO ARTWORK · heat 20
+- Sun Nov 8 7:30pm — **Marc Maron: Yammering Into the Void Tour** at Beacon Theatre · NO ARTWORK · heat 39
 - Sun Nov 8 7:30pm — **Rainbow Riot** at Brooklyn Comedy Collective · NO ARTWORK
-- Mon Nov 9 7:30pm — **Dewayne Perkins** at The Bell House · NO ARTWORK
+- Mon Nov 9 7:30pm — **Dewayne Perkins** at The Bell House · NO ARTWORK · heat 20
 - Mon Nov 9 8pm — **Stand Up for Heroes (NYCF)** at David Geffen Hall (Lincoln Center) · NO ARTWORK
 - Tue Nov 10 10pm — **Eddie Pepitone Headlining Union Hall (night one)** at Union Hall · NO ARTWORK
 - Wed Nov 11 8pm — **TJ Miller Live!** at Comic Strip Live · SOLD OUT · heat 100
 - Thu Nov 12 8pm — **Jordan Jensen** at Beacon Theatre · NO ARTWORK
-- Fri Nov 13 6:45pm — **Ilana Glazer Live!** at Beacon Theatre · NO ARTWORK · heat 20
+- Fri Nov 13 6:45pm — **Ilana Glazer Live!** at Beacon Theatre · NO ARTWORK · heat 30
 - Fri Nov 13 7pm — **Jess Hilarious: The Don t Play Wit Me Tour** at Hard Rock Hotel New York - The Venue on Music Row · NO ARTWORK
 - Fri Nov 13 8pm — **Dropout Improv** at Kings Theatre · NO ARTWORK
 - Sat Nov 14 3pm — **The Moth x Comic Relief: Funny Story** at The Town Hall · NO ARTWORK
-- Sat Nov 14 7pm — **Daniel Sloss: Bitter** at Beacon Theatre · NO ARTWORK
+- Sat Nov 14 7pm — **Daniel Sloss: Bitter** at Beacon Theatre · NO ARTWORK · heat 33
 - Sat Nov 14 7pm — **SH&T Show hosted by Jordan Klepper** at The Town Hall · NO ARTWORK
 
 ## Week 4: Nov 15 to Nov 21 — 12 picks — 5 without artwork
@@ -94,7 +99,7 @@ Ranked 36; run 0, reuse 6, skip 30; ~324,000 tokens saved.
 - Thu Nov 19 7pm — **Michelle Wolf: Best Job in the World** at The Town Hall · NO ARTWORK
 - Thu Nov 19 8pm — **Stone and Stone On The Road!** at West Side Comedy Club
 - Thu Nov 19 8:30pm — **Previously on Generational Curse... with Nore Davis** at New York Comedy Club (Midtown) · NO ARTWORK
-- Fri Nov 20 7:30pm — **Fahim Anwar** at The Bell House
+- Fri Nov 20 7:30pm — **Fahim Anwar** at The Bell House · SOLD OUT · heat 100
 - Fri Nov 20 7:30pm — **Opey Olagbaju** at Union Hall
 - Sat Nov 21 8:30pm — **Ask Ronna: Ronnukah Live!** at The Bell House
 
@@ -113,7 +118,7 @@ Ranked 36; run 0, reuse 6, skip 30; ~324,000 tokens saved.
 - Sat Nov 28 8pm — **Eastville Saturday Showcase** at Eastville Comedy Club · NO ARTWORK
 - Sat Nov 28 8:30pm · doors 8pm — **Speakeasy Saturday Night** at St. Marks Comedy Club
 
-## Week 6: Nov 29 to Dec 5 — 11 picks — 4 without artwork · weekend is thin
+## Week 6: Nov 29 to Dec 5 — 15 picks — 4 without artwork
 
 - Sun Nov 29 7pm — **Comedy Idol Finale** at West Side Comedy Club · NO ARTWORK
 - Sun Nov 29 7:30pm — **Sunday Night Comedy** at Eastville Comedy Club · NO ARTWORK
@@ -126,4 +131,8 @@ Ranked 36; run 0, reuse 6, skip 30; ~324,000 tokens saved.
 - Wed Dec 2 7:30pm — **Ania Magliano: Peach Fuzz** at The Bell House · heat 35
 - Thu Dec 3 8:30pm · doors 8pm — **Date Night Comedy Show x2** at St. Marks Comedy Club · NO ARTWORK
 - Fri Dec 4 7pm — **Demetri Martin: Standup Comedy for Christmas** at The Bell House
+- Fri Dec 4 8:30pm · doors 8pm — **Friday Night Laughs Comedy Show** at St. Marks Comedy Club
+- Sat Dec 5 6:30pm · doors 6pm — **Peter & Friends Comedy Show** at St. Marks Comedy Club
+- Sat Dec 5 7pm — **Demetri Martin: Standup Comedy for Christmas** at The Bell House
+- Sat Dec 5 8:30pm · doors 8pm — **Speakeasy Saturday Night** at St. Marks Comedy Club
 

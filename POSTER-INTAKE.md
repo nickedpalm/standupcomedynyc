@@ -32,3 +32,19 @@ Saved 13 official promotional images to `web/assets/posters/` with POSTER-SOURCE
 Date Night Comedy Show (St. Marks, Dec 3) has no poster: its show page carries no flyer, so the pick ships without artwork rather than with someone else's image.
 
 Reuse status is display-with-credit only for all thirteen. None are marked `reuse: granted`, so none appear on the Instagram cards.
+
+## October 25, 2026 - three flyers for the Dec 4-5 St. Marks shows
+
+Saved three official promotional images to `web/assets/posters/` with POSTER-SOURCES.json records
+(source URL, credit, SHA-256, byte count, retrieval date). Each was pulled from the show's own
+St. Marks event page and matched to a dated pick.
+
+- **Friday Night Laughs** (St. Marks, Dec 4, 1254x1254) — the show page's own headshot image.
+- **Speakeasy Saturday Night** (St. Marks, Dec 5, 1254x1254) — the same official headshot image the room uses on the show page.
+- **Peter & Friends** (St. Marks, Dec 5, 1038x1516) — the show's own flyer, carrying the date (Saturday 12/5), the 6:30pm start and the venue.
+
+Demetri Martin Dec 5 reuses the official tour art already saved for Dec 4 (the same image serves
+both dates on the room's own listing), so no second copy was stored.
+
+Reuse status is display-with-credit only for all three. None are marked `reuse: granted`, so none
+appear on the Instagram cards.

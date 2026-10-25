@@ -44,6 +44,18 @@ async function availability(url) {
   } catch {}
   return null;
 }
+
+// Live Nation and Ticketmaster have no JSON-LD offers block, but their event pages put the
+// state in the <title>: "SOLD OUT - <show> at <venue> on <date> - Live Nation". Without this,
+// a sold-out Bell House night reads as untagged and lands in the Tonight carousel.
+async function ticketPageSoldOut(url) {
+  if (!/livenation\.com\/event\/|ticketmaster\.com\/.*\/event\//.test(url || '')) return false;
+  try {
+    const html = await (await fetch(url, { headers })).text();
+    const m = html.match(/<title[^>]*>([^<]*)<\/title>/i);
+    return Boolean(m) && /SOLD\s*OUT/i.test(m[1]);
+  } catch { return false; }
+}
 async function wikipedia(name) {
   if (!name) return null;
   try {
@@ -66,7 +78,14 @@ async function wikipedia(name) {
   const out = []; const wikiCache = new Map();
   for (const p of upcoming) {
     const reasons = []; let score = 0;
-    const avail = await availability(p.ticket_url || p.source_url); await sleep(300);
+    let avail = await availability(p.ticket_url || p.source_url); await sleep(300);
+    if (!avail) {
+      // Non-Eventbrite ticket pages carry the state in the page title instead.
+      for (const u of [p.ticket_url, p.source_url].filter(Boolean)) {
+        if (await ticketPageSoldOut(u)) { avail = 'SoldOut'; break; }
+        await sleep(300);
+      }
+    }
     if (avail === 'SoldOut') { score += 100; reasons.push('sold out on the ticket page'); }
     else if (avail === 'LimitedAvailability') { score += 70; reasons.push('ticket page says limited availability'); }
     else if (avail === 'InStock') reasons.push('tickets available');
