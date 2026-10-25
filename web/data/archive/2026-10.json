@@ -1744,5 +1744,27 @@
   "demand": null,
   "demand_checked": "2026-10-23",
   "archived_at": "2026-10-24"
+ },
+ {
+  "id": "saturday-night-live-comedy-eastville-2026-10-24",
+  "title": "Saturday Night Live Comedy",
+  "date": "2026-10-24",
+  "starts_at": "2026-10-24T18:00:00-04:00",
+  "ends_at": "2026-10-24T20:00:00-04:00",
+  "end_time_confirmed": false,
+  "time_label": "6pm",
+  "venue": "Eastville Comedy Club",
+  "neighborhood": "Boerum Hill",
+  "price_amount": null,
+  "price_label": "See ticket page for price",
+  "ticket_url": "https://www.eastvillecomedy.com/events/saturday-standup-live-2026-10-24180000",
+  "source_url": "https://www.eastvillecomedy.com/calendar/2026-10",
+  "verified_at": "2026-10-23",
+  "description": "Eastville's early-Saturday show — a stacked lineup of NYC's best comics to start the weekend, before the prime-time room lights up.",
+  "tier": "special",
+  "featured": false,
+  "demand": null,
+  "demand_checked": "2026-10-24",
+  "archived_at": "2026-10-25"
  }
 ]
