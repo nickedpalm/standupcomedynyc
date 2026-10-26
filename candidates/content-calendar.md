@@ -30,7 +30,7 @@ Ranked 36; run 1, reuse 4, skip 31; ~315,000 tokens saved.
 - Fri Oct 30 7pm · doors 6:15pm — **Laughing Lassi** at Broadway Comedy Club · NO ARTWORK
 - Fri Oct 30 9pm — **NYC Stand-Up at Comedy Village** at Comedy Village
 - Sat Oct 31 7pm — **Nasser Al-Rayess** at The Town Hall
-- Sat Oct 31 7:30pm · doors 6:30pm — **Scary Good Comedy with Brittany Carney** at Littlefield
+- Sat Oct 31 7:30pm · doors 6:30pm — **Scary Good Comedy with Brittany Carney** at Littlefield · going fast · heat 25
 - Sun Nov 1 7:30pm — **Sunday Night Comedy** at Eastville Comedy Club · NO ARTWORK
 - Sun Nov 1 8pm · doors 7:30pm — **DF Sweedler, Thash Mose, Matt Pavich, Feraz Shere, Kareem Green, & More!** at Comic Strip Live
 
