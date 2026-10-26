@@ -2201,5 +2201,35 @@
   "bytes": 1825491,
   "sha256": "d4c3b4db67db746a16035c44a33b9980b0c4f05fa71116442169c7a350ad455a",
   "reuse_status": "Official promotional artwork; no separate reuse license identified. Local review draft only."
+ },
+ {
+  "event_id": "story-warz-nycc-2026-11-18",
+  "src": "/assets/posters/story-warz-nycc-2026-11-18.jpg",
+  "width": 1040,
+  "height": 660,
+  "source_url": "https://newyorkcomedyclub.com/events/story-warz-w-big-jay-oakerson-luis-j-gomez-special-guests-2026-11-18194500",
+  "credit": "Artwork: New York Comedy Club / show organizer",
+  "alt": "Story Warz w/ Big Jay Oakerson, Luis J Gomez + Special Guests at NYCC Midtown — November 18, 2026.",
+  "kind": "dated event flyer",
+  "original_image_url": "https://newyorkcomedyclub.com/img/shows/Story-Warz-NYCC-Graphics-1072x680-e4fb1064-main-image.jpg",
+  "retrieved_at": "2026-10-26",
+  "bytes": 83635,
+  "sha256": "2284ff0934a8d6a5465e57f1240d64a6bc099dd38fabf4040a38bad388063c3f",
+  "reuse_status": "Official promotional artwork; no separate reuse license identified. Local review draft only."
+ },
+ {
+  "event_id": "a-true-york-st-marks-2026-11-18",
+  "src": "/assets/posters/a-true-york-st-marks-2026-11-18.jpg",
+  "width": 2054,
+  "height": 1540,
+  "source_url": "https://www.stmarkscomedy.com/shows/a-true-york-comedy-experience-2026-11-18-fa73225f",
+  "credit": "Artwork: St. Marks Comedy Club",
+  "alt": "A True York Comedy Experience at St. Marks Comedy Club — November 18, 2026.",
+  "kind": "venue photo",
+  "original_image_url": "https://qfrmgyichufynswkwaxp.supabase.co/storage/v1/object/public/show-fliers/0.7862414551778034.jpeg",
+  "retrieved_at": "2026-10-26",
+  "bytes": 394151,
+  "sha256": "4318d81fa5e67712d7fbdad24e4830a8d8066a3bc056835a128a3f90014d631d",
+  "reuse_status": "Official venue photo; no separate reuse license identified. Local review draft only."
  }
 ]

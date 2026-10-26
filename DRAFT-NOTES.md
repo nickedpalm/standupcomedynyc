@@ -228,3 +228,56 @@ two, on picks that were stale for two days and are re-verified today.
   the horizon. The club's own calendar marks the show sold out while its ticket page says
   otherwise, and the two disagree. The week is above the floor without it, so it waits for a
   clear answer rather than a guess.
+
+## 2026-10-26 (recovery of the 11:00 edition run)
+
+The 11:00 edition cron died before it committed, for the third day running
+(`cron_incomplete_no_output`). It had left work in the tree — verified sources, downloaded
+artwork and a `research-cache.json` write — and the 09:15 nightly job does `git add -A`, so
+that work would have landed in a commit titled "Nightly: rotate expired picks". Recovered it
+here instead, re-opening every source page myself rather than trusting the dead run.
+
+### Picks added (3), each read on its own venue page today
+
+- `story-warz-nycc-2026-11-18` — **Story Warz w/ Big Jay Oakerson, Luis J Gomez + Special
+  Guests**, NYCC Midtown, Wed Nov 18, 7:45pm, $30.85 GA / $41.72 Premium, $20-item minimum in
+  the showroom, 18+. The deception game goes up a week before its Thanksgiving-night return
+  (that one is already on the board). Source: NYCC's own event page. Artwork: the club's show
+  graphic, recorded in POSTER-SOURCES.json.
+- `a-true-york-st-marks-2026-11-18` — **A TRUE YORK COMEDY EXPERIENCE**, St. Marks Comedy Club,
+  Wed Nov 18, doors 9 / show 9:30, $18.51 incl. fees, two-drink minimum, 18+. Bill is Keenan
+  Steiner, Alexis Carabano, Danny Carabano and Macy Kwok, read off the show page. Source: the
+  venue's show page. Artwork: the venue's own photo for the show, credited to St. Marks.
+- `prime-time-comedy-show-st-marks-2026-11-21` — **Prime Time Comedy Show**, St. Marks Comedy
+  Club, Sat Nov 21, doors 4 / show 4:30, ends 6:00, $15.24 incl. fees. Brett Singer and Brandon
+  Ledesma on the bill. Source: the venue's show page.
+
+**Why Nov 18 mattered:** it was completely bare on the board, in a week already at 11 picks.
+Two shows in two different rooms now cover it, plus a Saturday afternoon option on the 21st.
+
+### Freshness refresh
+
+Three picks had gone over the 14-day check. Their own pages were opened today and all three
+are still live with the same dates, times and prices, so `verified_at` moved to 2026-10-26:
+`jake-velazquez-special-nycc-2026-11-15` ($30.85 GA), `brooklyn-power-hour-eastville-2026-11-16`
+($12.15, still Monday at 7:30), `stone-and-stone-on-the-road-wscc-2026-11-19` (From $36, via
+the club's own show page). `npm test` now runs with no warnings at all.
+
+### Not published, and why
+
+- **THE GUYGULY EXPERIENCE at Eastville Comedy Club, Wed Nov 18, 10pm, $22.81.** The dead run
+  had this one verified and downloaded artwork for it. Two things stopped it going on the board:
+  the page lists no lineup at all — it sells "stand-up, crowd work, surprise comedians", so
+  there is nobody to write a "why this one" line about — and the headliner's public material is
+  explicitly political in a way the editorial policy does not promote. Left off, and sent to Nick.
+- **Down Bad Comedy Show at St. Marks, Wed Nov 18, 7:30pm, $18.51.** The page is live and the
+  price reads off it, but the only artwork the venue publishes for the show is a single
+  comedian's headshot rather than a flyer, and the show's own listing names no lineup either.
+  The two shows above cover the same night with real bills, so this one waits for a lineup to
+  write about rather than going on as a bare listing.
+
+### Board after this run
+
+85 picks. Six weeks ahead: **18 / 14 / 14 / 14 / 13 / 12** — every week at or above the 8-pick
+floor and no bare night left in the horizon. `npm test` passes clean: 85 picks, 8 sitemap pages,
+16 scripts, zero warnings.

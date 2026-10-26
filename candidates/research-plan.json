@@ -1,7 +1,11 @@
 {
- "generated_at": "2026-10-24T12:25:17.430Z",
+ "generated_at": "2026-10-26T11:06:28.709Z",
  "performers_considered": 36,
  "shortlist": [
+  {
+   "name": "Fahim Anwar",
+   "priority": 105
+  },
   {
    "name": "Ania Magliano",
    "priority": 40
@@ -24,7 +28,7 @@
   },
   {
    "name": "Daniel Sloss",
-   "priority": 32
+   "priority": 33
   },
   {
    "name": "Mark Simmons",
@@ -35,22 +39,36 @@
    "priority": 30
   },
   {
-   "name": "Nasser Al-Rayess",
-   "priority": 20
-  },
-  {
-   "name": "Sam Oh",
-   "priority": 20
+   "name": "Sam Tallent",
+   "priority": 25
   }
  ],
- "run": [],
+ "run": [
+  {
+   "name": "Sam Tallent",
+   "priority": 25,
+   "next": {
+    "id": "sam-tallent-bell-house-2026-11-05",
+    "date": "2026-11-05",
+    "venue": "The Bell House",
+    "days": 10,
+    "featured": false,
+    "poster": false,
+    "demand": null
+   },
+   "cheap_signals": [
+    "Wikipedia: 287 views a day"
+   ],
+   "reason": "in the decision window and not yet decided"
+  }
+ ],
  "reuse": [
   {
    "name": "Ania Magliano",
    "priority": 40,
    "cached": {
     "at": "2026-10-22T11:20:34.073Z",
-    "age_days": 2,
+    "age_days": 4,
     "fresh": true,
     "note": "The loudest signal on the board right now: a 9,974-upvote r/Fauxmoi thread on Oct 17 plus heavy r/SNLbabes and LiveFrom chatter on her Taskmaster season, which is why the Bell House Dec 2 Peach Fuzz date is worth a board slot two months out."
    }
@@ -60,7 +78,7 @@
    "priority": 39,
    "cached": {
     "at": "2026-10-22T11:22:13.600Z",
-    "age_days": 2,
+    "age_days": 4,
     "fresh": true,
     "note": "Twelve Reddit threads in 30 days led by a 503-upvote r/MarcMaron post and his own subreddit going active again, so the Beacon Nov 8 tour stop has genuine pre-sale demand."
    }
@@ -70,7 +88,7 @@
    "priority": 35,
    "cached": {
     "at": "2026-10-22T11:18:59.737Z",
-    "age_days": 2,
+    "age_days": 4,
     "fresh": true,
     "note": "Two small Reddit threads, one her own subreddit and one in r/FemaleStandupComedy, with no heat on the Bell House Tuesday; the Hacker News hits are all about the Ruby programming language."
    }
@@ -80,52 +98,57 @@
    "priority": 30,
    "cached": {
     "at": "2026-10-24T12:22:00.509Z",
-    "age_days": 0,
+    "age_days": 1.9,
     "fresh": true,
     "note": "Ten items in 30 days and not one is about the comic: Reddit returned Bill Simmons, a Zappa bassist named Jeff Simmons and a Simmons Hardware lantern thread, while the four Hacker News hits are unrelated — no signal at all on his new material or the SoHo Playhouse hour, so the Jest to Impress pick stands on the show's own page."
-   }
-  },
-  {
-   "name": "Nasser Al-Rayess",
-   "priority": 20,
-   "cached": {
-    "at": "2026-10-23T11:15:47.799Z",
-    "age_days": 1,
-    "fresh": true,
-    "note": "Nothing usable in 30 days from Reddit or Hacker News, so the Town Hall Oct 31 pick stands on the venue's own event page and his own writing rather than any current buzz."
-   }
-  },
-  {
-   "name": "Sam Oh",
-   "priority": 20,
-   "cached": {
-    "at": "2026-10-24T12:25:13.623Z",
-    "age_days": 0,
-    "fresh": true,
-    "note": "Fifteen items in 30 days and none are about the comic: Hacker News returned twelve Sam Altman stories and Reddit brought Sam Morrill and a Battle for Dream Island thread, so there is no usable signal on his NYC debut — the Bell House Nov 2 pick stands on the show page and his own writing."
    }
   }
  ],
  "skip": [
   {
+   "name": "Fahim Anwar",
+   "priority": 105,
+   "reason": "already sold out; research cannot change the call"
+  },
+  {
    "name": "Joanne McNally",
    "priority": 35,
-   "reason": "next show in 14 days, outside the 10-day window"
+   "reason": "next show in 12 days, outside the 10-day window"
   },
   {
    "name": "Jaboukie Young-White",
    "priority": 35,
-   "reason": "next show in 24 days, outside the 10-day window"
+   "reason": "next show in 22 days, outside the 10-day window"
   },
   {
    "name": "Daniel Sloss",
-   "priority": 32,
-   "reason": "next show in 21 days, outside the 10-day window"
+   "priority": 33,
+   "reason": "next show in 19 days, outside the 10-day window"
   },
   {
    "name": "Ilana Glazer",
    "priority": 30,
-   "reason": "next show in 20 days, outside the 10-day window"
+   "reason": "next show in 18 days, outside the 10-day window"
+  },
+  {
+   "name": "Nasser Al-Rayess",
+   "priority": 20,
+   "reason": "outside the top 10 by cheap ranking"
+  },
+  {
+   "name": "Sam Oh",
+   "priority": 20,
+   "reason": "outside the top 10 by cheap ranking"
+  },
+  {
+   "name": "Please Stay Seated",
+   "priority": 20,
+   "reason": "outside the top 10 by cheap ranking"
+  },
+  {
+   "name": "Salma Hindy",
+   "priority": 20,
+   "reason": "outside the top 10 by cheap ranking"
   },
   {
    "name": "Dewayne Perkins",
@@ -134,21 +157,6 @@
   },
   {
    "name": "Jessica Kirson",
-   "priority": 20,
-   "reason": "outside the top 10 by cheap ranking"
-  },
-  {
-   "name": "Picture This",
-   "priority": 20,
-   "reason": "outside the top 10 by cheap ranking"
-  },
-  {
-   "name": "Drunk Planet Earth",
-   "priority": 20,
-   "reason": "outside the top 10 by cheap ranking"
-  },
-  {
-   "name": "Dancehall Forever",
    "priority": 20,
    "reason": "outside the top 10 by cheap ranking"
   },
@@ -183,11 +191,6 @@
    "reason": "outside the top 10 by cheap ranking"
   },
   {
-   "name": "Sam Tallent",
-   "priority": 10,
-   "reason": "outside the top 10 by cheap ranking"
-  },
-  {
    "name": "Adam Ray",
    "priority": 10,
    "reason": "outside the top 10 by cheap ranking"
@@ -200,16 +203,6 @@
   {
    "name": "Michelle Wolf",
    "priority": 10,
-   "reason": "outside the top 10 by cheap ranking"
-  },
-  {
-   "name": "Please Stay Seated",
-   "priority": 5,
-   "reason": "outside the top 10 by cheap ranking"
-  },
-  {
-   "name": "Salma Hindy",
-   "priority": 5,
    "reason": "outside the top 10 by cheap ranking"
   },
   {
@@ -228,17 +221,27 @@
    "reason": "outside the top 10 by cheap ranking"
   },
   {
-   "name": "Fahim Anwar",
-   "priority": 5,
-   "reason": "outside the top 10 by cheap ranking"
-  },
-  {
    "name": "Opey Olagbaju",
    "priority": 5,
    "reason": "outside the top 10 by cheap ranking"
   },
   {
    "name": "Ask Ronna",
+   "priority": 5,
+   "reason": "outside the top 10 by cheap ranking"
+  },
+  {
+   "name": "Not Ripe Bananas",
+   "priority": 5,
+   "reason": "outside the top 10 by cheap ranking"
+  },
+  {
+   "name": "Abolish Everything",
+   "priority": 5,
+   "reason": "outside the top 10 by cheap ranking"
+  },
+  {
+   "name": "Halloween Spooktackular",
    "priority": 5,
    "reason": "outside the top 10 by cheap ranking"
   },
@@ -258,7 +261,7 @@
    "reason": "outside the top 10 by cheap ranking"
   }
  ],
- "estimated_tokens_saved": 324000,
- "estimate_basis": "9000 tokens per last30days run, 36 runs avoided out of 36",
+ "estimated_tokens_saved": 315000,
+ "estimate_basis": "9000 tokens per last30days run, 35 runs avoided out of 36",
  "no_recent_data": []
 }

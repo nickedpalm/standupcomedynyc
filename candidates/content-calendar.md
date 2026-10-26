@@ -11,9 +11,9 @@ Six weeks ahead from the board. Regenerated on every build; edit the data, not t
 
 ## Research plan today
 
-Ranked 36; run 0, reuse 6, skip 30; ~324,000 tokens saved.
+Ranked 36; run 1, reuse 4, skip 31; ~315,000 tokens saved.
 
-## Week 1: Oct 26 to Nov 1 — 18 picks — 4 without artwork · 27 Eventbrite leads not yet reviewed
+## Week 1: Oct 26 to Nov 1 — 18 picks — 4 without artwork · 31 Eventbrite leads not yet reviewed
 
 - Mon Oct 26 7pm — **An Evening with Sarah Silverman: Finding Jewish Joy** at Temple Emanu-El Streicker Center
 - Mon Oct 26 7:30pm — **Famous Last Words** at Union Hall
@@ -44,7 +44,7 @@ Ranked 36; run 0, reuse 6, skip 30; ~324,000 tokens saved.
   - Tue Oct 27 9:30pm — Story-oke: Sing and Tell at Caveat · from $18.76 · has artwork
   - Tue Oct 27 10pm — GRETA TITELMAN JOURNALS at Union Hall · from $15.92 · has artwork
 
-## Week 2: Nov 2 to Nov 8 — 14 picks — 11 without artwork · 6 Eventbrite leads not yet reviewed
+## Week 2: Nov 2 to Nov 8 — 14 picks — 11 without artwork · 9 Eventbrite leads not yet reviewed
 
 - Mon Nov 2 7:30pm — **Sam Oh: The Unbearable Tightness of Being...Gay Virgin** at The Bell House
 - Tue Nov 3 7pm — **Difficult People: The Movie — A Live Table Read** at The Town Hall · NO ARTWORK
@@ -58,7 +58,7 @@ Ranked 36; run 0, reuse 6, skip 30; ~324,000 tokens saved.
 - Sat Nov 7 6pm — **Joanne McNally: Pinotphile** at The Town Hall · NO ARTWORK · heat 35
 - Sun Nov 8 4pm — **Josh Sharp: An Hour of Crowd Work in the Round** at The Bell House · NO ARTWORK
 - Sun Nov 8 7pm — **Sarah Sherman & Patti Harrison** at The Town Hall · NO ARTWORK
-- Sun Nov 8 7:30pm — **Marc Maron: Yammering Into the Void Tour** at Beacon Theatre · NO ARTWORK · heat 20
+- Sun Nov 8 7:30pm — **Marc Maron: Yammering Into the Void Tour** at Beacon Theatre · NO ARTWORK · heat 39
 - Sun Nov 8 7:30pm — **Rainbow Riot** at Brooklyn Comedy Collective · NO ARTWORK
 
   Leads to review:
@@ -67,35 +67,40 @@ Ranked 36; run 0, reuse 6, skip 30; ~324,000 tokens saved.
   - Tue Nov 3 8pm — Barry Weintraub, Rachel Lenihan, Jim Mendrinos, Nick Tilleli,  & more! at Comic Strip Live · from $25.71 · has artwork
   - Wed Nov 4 7:30pm — LPR Presents: Las Migas at Littlefield · from $0 · has artwork
   - Wed Nov 4 8pm — Tom Van Horn, Michele Balan, Feraz Shere, Matt Pavich, Mike Yard, & more! at Comic Strip Live · from $25.71 · has artwork
+  - Thu Nov 5 8pm — Once More, With Feeling: Live! 25th Anniversary Show at Littlefield · from $11.79 · has artwork
   - Thu Nov 5 8pm — Ken Boyd, Caroline Hanes, Eagle Witt, Vanessa Hollingshead, & more! at Comic Strip Live · from $25.71 · has artwork
+  - Fri Nov 6 8pm — NY Comedy Festival Presents: Putería con PAPIROSSA: Celebration of Life at Littlefield · from $29.5 · has artwork
 
 ## Week 3: Nov 9 to Nov 15 — 14 picks — 11 without artwork
 
-- Mon Nov 9 7:30pm — **Dewayne Perkins** at The Bell House · NO ARTWORK
+- Mon Nov 9 7:30pm — **Dewayne Perkins** at The Bell House · NO ARTWORK · heat 20
 - Mon Nov 9 8pm — **Stand Up for Heroes (NYCF)** at David Geffen Hall (Lincoln Center) · NO ARTWORK
 - Tue Nov 10 10pm — **Eddie Pepitone Headlining Union Hall (night one)** at Union Hall · NO ARTWORK
 - Wed Nov 11 8pm — **TJ Miller Live!** at Comic Strip Live · SOLD OUT · heat 100
 - Thu Nov 12 8pm — **Jordan Jensen** at Beacon Theatre · NO ARTWORK
-- Fri Nov 13 6:45pm — **Ilana Glazer Live!** at Beacon Theatre · NO ARTWORK · heat 20
+- Fri Nov 13 6:45pm — **Ilana Glazer Live!** at Beacon Theatre · NO ARTWORK · heat 30
 - Fri Nov 13 7pm — **Jess Hilarious: The Don t Play Wit Me Tour** at Hard Rock Hotel New York - The Venue on Music Row · NO ARTWORK
 - Fri Nov 13 8pm — **Dropout Improv** at Kings Theatre · NO ARTWORK
 - Sat Nov 14 3pm — **The Moth x Comic Relief: Funny Story** at The Town Hall · NO ARTWORK
-- Sat Nov 14 7pm — **Daniel Sloss: Bitter** at Beacon Theatre · NO ARTWORK
+- Sat Nov 14 7pm — **Daniel Sloss: Bitter** at Beacon Theatre · NO ARTWORK · heat 33
 - Sat Nov 14 7pm — **SH&T Show hosted by Jordan Klepper** at The Town Hall · NO ARTWORK
 - Sun Nov 15 5pm — **Jake Velazquez: Special Recording** at New York Comedy Club (Midtown)
 - Sun Nov 15 6:30pm — **Mojo Brookzz: Outta Pocket Comedy Tour** at Beacon Theatre · NO ARTWORK
 - Sun Nov 15 7pm — **Matthew Broussard** at The Bell House
 
-## Week 4: Nov 16 to Nov 22 — 11 picks — 4 without artwork
+## Week 4: Nov 16 to Nov 22 — 14 picks — 5 without artwork
 
 - Mon Nov 16 7:30pm — **Brooklyn Power Hour (Now on a New Night!)** at Eastville Comedy Club · NO ARTWORK
 - Tue Nov 17 7pm — **Jessica Kirson Live in New York** at New York Comedy Club (Midtown)
 - Tue Nov 17 7:30pm — **Jaboukie Young-White** at The Bell House · NO ARTWORK · heat 35
+- Wed Nov 18 7:45pm — **Story Warz w/ Big Jay Oakerson, Luis J Gomez + Special Guests** at New York Comedy Club (Midtown)
+- Wed Nov 18 9:30pm · doors 9pm — **A TRUE YORK COMEDY EXPERIENCE** at St. Marks Comedy Club
 - Thu Nov 19 7pm — **Michelle Wolf: Best Job in the World** at The Town Hall · NO ARTWORK
 - Thu Nov 19 8pm — **Stone and Stone On The Road!** at West Side Comedy Club
 - Thu Nov 19 8:30pm — **Previously on Generational Curse... with Nore Davis** at New York Comedy Club (Midtown) · NO ARTWORK
 - Fri Nov 20 7:30pm — **Fahim Anwar** at The Bell House · SOLD OUT · heat 100
 - Fri Nov 20 7:30pm — **Opey Olagbaju** at Union Hall
+- Sat Nov 21 4:30pm · doors 4pm — **Prime Time Comedy Show** at St. Marks Comedy Club · NO ARTWORK
 - Sat Nov 21 8:30pm — **Ask Ronna: Ronnukah Live!** at The Bell House
 - Sun Nov 22 5pm — **Christian Finnegan: A Lot of Heart (Live Special Taping!)** at New York Comedy Club (Midtown)
 - Sun Nov 22 7:30pm — **John Oliver & Seth Meyers** at Beacon Theatre
