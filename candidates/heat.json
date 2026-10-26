@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-26T14:35:07.905Z",
+ "generated_at": "2026-10-26T19:18:44.303Z",
  "note": "Demand signals for the editor. Only availability and second shows set the public demand tag.",
  "picks": [
   {
@@ -60,7 +60,7 @@
    "reddit": {
     "phrase": "Marc Maron",
     "posts_30d": 3,
-    "upvotes": 234,
+    "upvotes": 231,
     "comments": 10,
     "subreddits": [
      "newjersey",
@@ -70,13 +70,13 @@
     "top": {
      "title": "Happy birthday to stand-up comedian, podcaster, writer, actor, and Hudson county legend Marc Maron. Born in Jersey City; lived in Wayne; co-starred in the Netflix comedy series GLOW from 2017 to 2019",
      "subreddit": "newjersey",
-     "score": 153,
+     "score": 152,
      "url": "https://www.reddit.com/r/newjersey/comments/1wriu7c/happy_birthday_to_standup_comedian_podcaster/"
     }
    },
    "reasons": [
     "Wikipedia: 1145 views a day",
-    "Reddit: 3 posts in 30 days, 234 upvotes (top: r/newjersey)"
+    "Reddit: 3 posts in 30 days, 231 upvotes (top: r/newjersey)"
    ]
   },
   {
@@ -185,8 +185,8 @@
    "reddit": {
     "phrase": "Daniel Sloss",
     "posts_30d": 3,
-    "upvotes": 409,
-    "comments": 700,
+    "upvotes": 413,
+    "comments": 711,
     "subreddits": [
      "Standup",
      "uknews",
@@ -201,7 +201,7 @@
    },
    "reasons": [
     "Wikipedia: 786 views a day",
-    "Reddit: 3 posts in 30 days, 409 upvotes (top: r/Standup)"
+    "Reddit: 3 posts in 30 days, 413 upvotes (top: r/Standup)"
    ]
   },
   {
@@ -223,7 +223,7 @@
    "reddit": {
     "phrase": "Ilana Glazer",
     "posts_30d": 2,
-    "upvotes": 16,
+    "upvotes": 15,
     "comments": 6,
     "subreddits": [
      "BroadCity",
@@ -232,13 +232,29 @@
     "top": {
      "title": "LA - Tix for Sale - Ilana Glazer Stand-up Show 10/15",
      "subreddit": "BroadCity",
-     "score": 15,
+     "score": 14,
      "url": "https://www.reddit.com/r/BroadCity/comments/1x61937/la_tix_for_sale_ilana_glazer_standup_show_1015/"
     }
    },
    "reasons": [
     "Wikipedia: 1333 views a day",
-    "Reddit: 2 posts in 30 days, 16 upvotes (top: r/BroadCity)"
+    "Reddit: 2 posts in 30 days, 15 upvotes (top: r/BroadCity)"
+   ]
+  },
+  {
+   "id": "scary-good-comedy-brittany-carney-littlefield-2026-10-31",
+   "title": "Scary Good Comedy with Brittany Carney",
+   "venue": "Littlefield",
+   "date": "2026-10-31",
+   "heat": 25,
+   "demand": "going_fast",
+   "availability": null,
+   "second_show": true,
+   "performer": null,
+   "wikipedia": null,
+   "reddit": null,
+   "reasons": [
+    "a second show the same night at the same room"
    ]
   },
   {
@@ -260,7 +276,7 @@
    "reddit": {
     "phrase": "Dewayne Perkins",
     "posts_30d": 3,
-    "upvotes": 252,
+    "upvotes": 255,
     "comments": 30,
     "subreddits": [
      "BlackLGBT"
@@ -268,12 +284,12 @@
     "top": {
      "title": "I Swear We're Friends is a upcoming sketch comedy web series on YouTube, premiering it's first 2 episodes on Oct 14th, episodes 3-4 on Oct 21st and the last two episodes on Oct 28th. Executive produced by and starring Dewayne Perkins, along with a cast of black queer men.",
      "subreddit": "BlackLGBT",
-     "score": 160,
+     "score": 159,
      "url": "https://www.reddit.com/r/BlackLGBT/comments/1x0d8gq/i_swear_were_friends_is_a_upcoming_sketch_comedy/"
     }
    },
    "reasons": [
-    "Reddit: 3 posts in 30 days, 252 upvotes (top: r/BlackLGBT)"
+    "Reddit: 3 posts in 30 days, 255 upvotes (top: r/BlackLGBT)"
    ]
   },
   {
@@ -446,7 +462,7 @@
    "reddit": {
     "phrase": "Matthew Broussard",
     "posts_30d": 2,
-    "upvotes": 7,
+    "upvotes": 4,
     "comments": 4,
     "subreddits": [
      "comedy",
@@ -455,12 +471,12 @@
     "top": {
      "title": "JUST ANNOUNCED: Joe List and Matthew Broussard 10/14 NYC",
      "subreddit": "comedy",
-     "score": 7,
+     "score": 4,
      "url": "https://www.reddit.com/r/comedy/comments/1x1tpt6/just_announced_joe_list_and_matthew_broussard/"
     }
    },
    "reasons": [
-    "Reddit: 2 posts in 30 days, 7 upvotes (top: r/comedy)"
+    "Reddit: 2 posts in 30 days, 4 upvotes (top: r/comedy)"
    ]
   },
   {
@@ -675,7 +691,7 @@
    "reddit": {
     "phrase": "Mojo Brookzz",
     "posts_30d": 1,
-    "upvotes": 5,
+    "upvotes": 6,
     "comments": 6,
     "subreddits": [
      "Standup"
@@ -683,12 +699,12 @@
     "top": {
      "title": "Mojo Brookzz ripping off Katt Williams",
      "subreddit": "Standup",
-     "score": 5,
+     "score": 6,
      "url": "https://www.reddit.com/r/Standup/comments/1x0h9s0/mojo_brookzz_ripping_off_katt_williams/"
     }
    },
    "reasons": [
-    "Reddit: 1 post in 30 days, 5 upvotes (top: r/Standup)"
+    "Reddit: 1 post in 30 days, 6 upvotes (top: r/Standup)"
    ]
   },
   {
@@ -698,12 +714,14 @@
    "date": "2026-10-26",
    "heat": 0,
    "demand": null,
-   "availability": null,
+   "availability": "InStock",
    "second_show": false,
    "performer": null,
    "wikipedia": null,
    "reddit": null,
-   "reasons": []
+   "reasons": [
+    "tickets available"
+   ]
   },
   {
    "id": "famous-last-words-union-hall-2026-10-26",
@@ -954,20 +972,6 @@
     "subreddits": [],
     "top": null
    },
-   "reasons": []
-  },
-  {
-   "id": "scary-good-comedy-brittany-carney-littlefield-2026-10-31",
-   "title": "Scary Good Comedy with Brittany Carney",
-   "venue": "Littlefield",
-   "date": "2026-10-31",
-   "heat": 0,
-   "demand": null,
-   "availability": null,
-   "second_show": false,
-   "performer": null,
-   "wikipedia": null,
-   "reddit": null,
    "reasons": []
   },
   {
@@ -1387,6 +1391,20 @@
    "reasons": [
     "tickets available"
    ]
+  },
+  {
+   "id": "prime-time-comedy-show-st-marks-2026-11-21",
+   "title": "Prime Time Comedy Show",
+   "venue": "St. Marks Comedy Club",
+   "date": "2026-11-21",
+   "heat": 0,
+   "demand": null,
+   "availability": null,
+   "second_show": false,
+   "performer": null,
+   "wikipedia": null,
+   "reddit": null,
+   "reasons": []
   },
   {
    "id": "ask-ronna-ronnukah-bell-house-2026-11-21",

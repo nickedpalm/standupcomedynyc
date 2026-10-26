@@ -25,14 +25,40 @@ const ebId = (u) => ((String(u || '').match(/tickets-(\d+)|wfea_eb_id=(\d+)/) ||
 const NOT_A_NAME = /\b(comedy|show|night|live|club|architecture|game|party|hour|tour|special|presents|festival|showcase|open|mic|the|an|a|of|and|with|in|at|for|from|to|vs|trivia|taping|drinking|fun|looking|laugh|laughs|whine|list|bisque|charity|obey|advance|fun|moderation|invisible|jokes|jranks|backroom|wits|end|stand|up|sorry|here|fix|laff|spell|checc|voices|cabaret|interview|experts|watch|dating|story|facts|machine|major|just)\b/i;
 const performer = (title) => { const t = String(title || ''); const m = t.match(/^([A-Z][a-z]+(?: [A-Z][a-zA-Z'’.-]+){1,2})(?::| Live| Presents| Headlines|$)/); if (!m) return null; const name = m[1]; return NOT_A_NAME.test(name) ? null : name; };
 
+// Eventbrite shows can be listed under a vanity domain (e.g. silverman_ip.eventbrite.com) instead of
+// the canonical /e/ path, so resolve the vanity URL to its event id before deciding we cannot read it.
+const ebIdCache = new Map();
+async function eventbriteEventId(url) {
+  if (!/eventbrite\.com/i.test(url || '')) return null;
+  const direct = ebId(url);
+  if (direct) return direct;
+  if (ebIdCache.has(url)) return ebIdCache.get(url);
+  let found = null;
+  try {
+    const html = await (await fetch(url, { headers })).text();
+    const fromPage = ebId(html.match(/"(?:event_id|eventId|event_id_str)"\s*:\s*"?(\d{10,})"?/) ?.[1] || '');
+    if (fromPage) found = fromPage;
+    if (!found) {
+      const canonical = html.match(/"(?:url|vanity_url)"\s*:\s*"([^"]*eventbrite\.com\/e\/[^"]*tickets-(\d{10,}))"/);
+      if (canonical) found = canonical[2];
+    }
+  } catch {}
+  ebIdCache.set(url, found);
+  return found;
+}
+
+// Eventbrite's JSON-LD offers block states availability, but the event type is not always "Event":
+// a talk or a panel is published as "EducationEvent" (and "SocialEvent"). Read every event-ish type.
 async function availability(url) {
-  if (!/eventbrite\.com\/e\//.test(url || '')) return null;
+  if (!/eventbrite\.com/i.test(url || '')) return null;
   try {
     const html = await (await fetch(url, { headers })).text();
     for (const m of html.matchAll(/<script[^>]*application\/ld\+json[^>]*>([\s\S]*?)<\/script>/g)) {
       let j; try { j = JSON.parse(m[1]); } catch { continue; }
       for (const x of (Array.isArray(j) ? j : [j])) {
-        if (x['@type'] !== 'Event') continue;
+        if (!x || typeof x !== 'object') continue;
+        const type = String(x['@type'] || '');
+        if (!/Event$/.test(type) || /WebPage|BreadcrumbList|ImageObject|Organization/.test(type)) continue;
         const offers = [].concat(x.offers || []);
         const a = offers.map((o) => String(o.availability || '').replace(/.*\//, '')).filter(Boolean);
         if (a.includes('SoldOut') && a.every((v) => v === 'SoldOut')) return 'SoldOut';
@@ -90,7 +116,12 @@ async function wikipedia(name) {
     else if (avail === 'LimitedAvailability') { score += 70; reasons.push('ticket page says limited availability'); }
     else if (avail === 'InStock') reasons.push('tickets available');
     const key = norm(p.title);
-    const sameDay = [...picks.filter((q) => q.id !== p.id && q.venue === p.venue && q.date === p.date && norm(q.title) === key), ...leads.filter((l) => l.venue === p.venue && l.date === p.date && norm(l.title) === key && ebId(l.url) !== ebId(p.ticket_url || p.source_url) && !picks.some((q) => ebId(q.ticket_url || q.source_url) === ebId(l.url)))];
+    // A vanity Eventbrite URL resolves to the same event id as its canonical /e/ page, so compare
+    // resolved ids: otherwise a show and its own lead page look like two different shows.
+    const myId = await eventbriteEventId(p.ticket_url || p.source_url);
+    const pickIds = new Map();
+    for (const q of picks) pickIds.set(q.id, await eventbriteEventId(q.ticket_url || q.source_url));
+    const sameDay = [...picks.filter((q) => q.id !== p.id && q.venue === p.venue && q.date === p.date && norm(q.title) === key), ...leads.filter((l) => l.venue === p.venue && l.date === p.date && norm(l.title) === key && ebId(l.url) !== myId && ![...pickIds.values()].includes(ebId(l.url)))];
     if (sameDay.length) { score += 25; reasons.push('a second show the same night at the same room'); }
     const name = performer(p.title);
     const bookings = name ? [...picks.filter((q) => norm(q.title).includes(name.toLowerCase())), ...leads.filter((l) => norm(l.title).includes(name.toLowerCase()))].length : 0;
