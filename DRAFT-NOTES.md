@@ -266,10 +266,11 @@ the club's own show page). `npm test` now runs with no warnings at all.
 ### Not published, and why
 
 - **THE GUYGULY EXPERIENCE at Eastville Comedy Club, Wed Nov 18, 10pm, $22.81.** The dead run
-  had this one verified and downloaded artwork for it. Two things stopped it going on the board:
-  the page lists no lineup at all — it sells "stand-up, crowd work, surprise comedians", so
-  there is nobody to write a "why this one" line about — and the headliner's public material is
-  explicitly political in a way the editorial policy does not promote. Left off, and sent to Nick.
+  had this one verified and downloaded artwork for it. It stays off the board and goes to Nick
+  as a call for him: the page publishes no lineup at all — it sells "stand-up, crowd work,
+  surprise comedians" — so there is nobody to write a "why this one" line about, and the
+  headliner's public material is political in a way that is Nick's judgment to make, not ours.
+  Not a held-out act, just an open question and a blank bill.
 - **Down Bad Comedy Show at St. Marks, Wed Nov 18, 7:30pm, $18.51.** The page is live and the
   price reads off it, but the only artwork the venue publishes for the show is a single
   comedian's headshot rather than a flyer, and the show's own listing names no lineup either.
