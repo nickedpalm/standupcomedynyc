@@ -1,4 +1,4 @@
-# Content calendar — generated 2026-10-25
+# Content calendar — generated 2026-10-26
 
 Six weeks ahead from the board. Regenerated on every build; edit the data, not this file.
 
@@ -13,12 +13,8 @@ Six weeks ahead from the board. Regenerated on every build; edit the data, not t
 
 Ranked 36; run 0, reuse 6, skip 30; ~324,000 tokens saved.
 
-## Week 1: Oct 25 to Oct 31 — 20 picks — 5 without artwork · 32 Eventbrite leads not yet reviewed
+## Week 1: Oct 26 to Nov 1 — 18 picks — 4 without artwork · 27 Eventbrite leads not yet reviewed
 
-- Sun Oct 25 7pm — **ROBYN & "FRIENDS" Comedy Show** at West Side Comedy Club · NO ARTWORK
-- Sun Oct 25 7pm · doors 6:30pm — **Raising Hell: A Halloween Comedy Fundraiser** at Brooklyn Comedy Collective
-- Sun Oct 25 7:30pm — **Alvaro Chavez and Cameron Burger: Bein’ Like This** at Union Hall
-- Sun Oct 25 8pm — **No Cent Comedy: Malachi Fox** at Eastville Comedy Club · NO ARTWORK
 - Mon Oct 26 7pm — **An Evening with Sarah Silverman: Finding Jewish Joy** at Temple Emanu-El Streicker Center
 - Mon Oct 26 7:30pm — **Famous Last Words** at Union Hall
 - Mon Oct 26 9pm — **FRANTIC! Free Show** at The Stand
@@ -35,21 +31,21 @@ Ranked 36; run 0, reuse 6, skip 30; ~324,000 tokens saved.
 - Fri Oct 30 9pm — **NYC Stand-Up at Comedy Village** at Comedy Village
 - Sat Oct 31 7pm — **Nasser Al-Rayess** at The Town Hall
 - Sat Oct 31 7:30pm · doors 6:30pm — **Scary Good Comedy with Brittany Carney** at Littlefield
-
-  Leads to review:
-  - Sun Oct 25 2:30pm — Great Week For Women Presents: "Inside Jokes" LIVE! at Caveat · from $8.46 · has artwork
-  - Sun Oct 25 5pm — On The Watchlist with Jay Servedio: The Halloween Special at Caveat · from $18.76 · has artwork
-  - Sun Oct 25 5pm — Wils & Friends at Union Hall · from $15.92 · has artwork
-  - Sun Oct 25 7:30pm — Comedians Interview Experts: Grief, trauma and your brain with Michael Cruz Kayne and Rachel Yehuda at Caveat · from $24.41 · has artwork
-  - Sun Oct 25 8pm — About Last Night: Dating Disaster Stories NYC! at Littlefield · from $24.36 · has artwork
-  - Sun Oct 25 8pm — DF Sweedler, Tobin Miller, Carla Oakerson, Feraz Shere, Marla Schultz, more at Comic Strip Live · from $25.71 · has artwork
-  - Mon Oct 26 7pm — The Story Collider at Caveat · from $18.76 · has artwork
-  - Mon Oct 26 8pm — The Witch Wave with Pam Grossman LIVE! at Littlefield · from $18.71 · has artwork
-
-## Week 2: Nov 1 to Nov 7 — 12 picks — 8 without artwork · 7 Eventbrite leads not yet reviewed
-
 - Sun Nov 1 7:30pm — **Sunday Night Comedy** at Eastville Comedy Club · NO ARTWORK
 - Sun Nov 1 8pm · doors 7:30pm — **DF Sweedler, Thash Mose, Matt Pavich, Feraz Shere, Kareem Green, & More!** at Comic Strip Live
+
+  Leads to review:
+  - Mon Oct 26 7pm — The Story Collider at Caveat · from $18.76 · has artwork
+  - Mon Oct 26 8pm — The Witch Wave with Pam Grossman LIVE! at Littlefield · from $18.71 · has artwork
+  - Mon Oct 26 8pm — The Peter Stewart Show! With Brian Scott McFadden! at Comic Strip Live · from $25.71 · has artwork
+  - Mon Oct 26 9:30pm — The WFP Sketch Show (feat. Alex Kumin, Dina Hashem) at Caveat · from $21.32 · has artwork
+  - Tue Oct 27 7:30pm — PRETTY  MAJOR Hosted by Jay Jurden at Union Hall · from $15.92 · has artwork
+  - Tue Oct 27 8pm — Jim Mendrinos, Jason Choi, Nick Tilleli, Paul Mecurio, JJ Ramirez, & more! at Comic Strip Live · from $25.71 · has artwork
+  - Tue Oct 27 9:30pm — Story-oke: Sing and Tell at Caveat · from $18.76 · has artwork
+  - Tue Oct 27 10pm — GRETA TITELMAN JOURNALS at Union Hall · from $15.92 · has artwork
+
+## Week 2: Nov 2 to Nov 8 — 14 picks — 11 without artwork · 6 Eventbrite leads not yet reviewed
+
 - Mon Nov 2 7:30pm — **Sam Oh: The Unbearable Tightness of Being...Gay Virgin** at The Bell House
 - Tue Nov 3 7pm — **Difficult People: The Movie — A Live Table Read** at The Town Hall · NO ARTWORK
 - Wed Nov 4 7pm — **Please Stay Seated** at West Side Comedy Club
@@ -60,9 +56,12 @@ Ranked 36; run 0, reuse 6, skip 30; ~324,000 tokens saved.
 - Fri Nov 6 7pm — **Ms. Pat** at Hard Rock Hotel New York - The Venue on Music Row · NO ARTWORK
 - Fri Nov 6 7pm — **Ziwe** at The Town Hall · NO ARTWORK
 - Sat Nov 7 6pm — **Joanne McNally: Pinotphile** at The Town Hall · NO ARTWORK · heat 35
+- Sun Nov 8 4pm — **Josh Sharp: An Hour of Crowd Work in the Round** at The Bell House · NO ARTWORK
+- Sun Nov 8 7pm — **Sarah Sherman & Patti Harrison** at The Town Hall · NO ARTWORK
+- Sun Nov 8 7:30pm — **Marc Maron: Yammering Into the Void Tour** at Beacon Theatre · NO ARTWORK · heat 20
+- Sun Nov 8 7:30pm — **Rainbow Riot** at Brooklyn Comedy Collective · NO ARTWORK
 
   Leads to review:
-  - Sun Nov 1 8pm — LPR Presents: Carsie Blanton w/ The Burning Hell at Littlefield · from $0 · has artwork
   - Mon Nov 2 8pm — The Peter Stewart Show! With Kareem Green! at Comic Strip Live · from $25.71 · has artwork
   - Tue Nov 3 8pm — Spin Out With Me - An Educational Experience at Littlefield · from $18.71 · has artwork
   - Tue Nov 3 8pm — Barry Weintraub, Rachel Lenihan, Jim Mendrinos, Nick Tilleli,  & more! at Comic Strip Live · from $25.71 · has artwork
@@ -70,29 +69,25 @@ Ranked 36; run 0, reuse 6, skip 30; ~324,000 tokens saved.
   - Wed Nov 4 8pm — Tom Van Horn, Michele Balan, Feraz Shere, Matt Pavich, Mike Yard, & more! at Comic Strip Live · from $25.71 · has artwork
   - Thu Nov 5 8pm — Ken Boyd, Caroline Hanes, Eagle Witt, Vanessa Hollingshead, & more! at Comic Strip Live · from $25.71 · has artwork
 
-## Week 3: Nov 8 to Nov 14 — 15 picks — 14 without artwork
+## Week 3: Nov 9 to Nov 15 — 14 picks — 11 without artwork
 
-- Sun Nov 8 4pm — **Josh Sharp: An Hour of Crowd Work in the Round** at The Bell House · NO ARTWORK
-- Sun Nov 8 7pm — **Sarah Sherman & Patti Harrison** at The Town Hall · NO ARTWORK
-- Sun Nov 8 7:30pm — **Marc Maron: Yammering Into the Void Tour** at Beacon Theatre · NO ARTWORK · heat 39
-- Sun Nov 8 7:30pm — **Rainbow Riot** at Brooklyn Comedy Collective · NO ARTWORK
-- Mon Nov 9 7:30pm — **Dewayne Perkins** at The Bell House · NO ARTWORK · heat 20
+- Mon Nov 9 7:30pm — **Dewayne Perkins** at The Bell House · NO ARTWORK
 - Mon Nov 9 8pm — **Stand Up for Heroes (NYCF)** at David Geffen Hall (Lincoln Center) · NO ARTWORK
 - Tue Nov 10 10pm — **Eddie Pepitone Headlining Union Hall (night one)** at Union Hall · NO ARTWORK
 - Wed Nov 11 8pm — **TJ Miller Live!** at Comic Strip Live · SOLD OUT · heat 100
 - Thu Nov 12 8pm — **Jordan Jensen** at Beacon Theatre · NO ARTWORK
-- Fri Nov 13 6:45pm — **Ilana Glazer Live!** at Beacon Theatre · NO ARTWORK · heat 30
+- Fri Nov 13 6:45pm — **Ilana Glazer Live!** at Beacon Theatre · NO ARTWORK · heat 20
 - Fri Nov 13 7pm — **Jess Hilarious: The Don t Play Wit Me Tour** at Hard Rock Hotel New York - The Venue on Music Row · NO ARTWORK
 - Fri Nov 13 8pm — **Dropout Improv** at Kings Theatre · NO ARTWORK
 - Sat Nov 14 3pm — **The Moth x Comic Relief: Funny Story** at The Town Hall · NO ARTWORK
-- Sat Nov 14 7pm — **Daniel Sloss: Bitter** at Beacon Theatre · NO ARTWORK · heat 33
+- Sat Nov 14 7pm — **Daniel Sloss: Bitter** at Beacon Theatre · NO ARTWORK
 - Sat Nov 14 7pm — **SH&T Show hosted by Jordan Klepper** at The Town Hall · NO ARTWORK
-
-## Week 4: Nov 15 to Nov 21 — 12 picks — 5 without artwork
-
 - Sun Nov 15 5pm — **Jake Velazquez: Special Recording** at New York Comedy Club (Midtown)
 - Sun Nov 15 6:30pm — **Mojo Brookzz: Outta Pocket Comedy Tour** at Beacon Theatre · NO ARTWORK
 - Sun Nov 15 7pm — **Matthew Broussard** at The Bell House
+
+## Week 4: Nov 16 to Nov 22 — 11 picks — 4 without artwork
+
 - Mon Nov 16 7:30pm — **Brooklyn Power Hour (Now on a New Night!)** at Eastville Comedy Club · NO ARTWORK
 - Tue Nov 17 7pm — **Jessica Kirson Live in New York** at New York Comedy Club (Midtown)
 - Tue Nov 17 7:30pm — **Jaboukie Young-White** at The Bell House · NO ARTWORK · heat 35
@@ -102,11 +97,11 @@ Ranked 36; run 0, reuse 6, skip 30; ~324,000 tokens saved.
 - Fri Nov 20 7:30pm — **Fahim Anwar** at The Bell House · SOLD OUT · heat 100
 - Fri Nov 20 7:30pm — **Opey Olagbaju** at Union Hall
 - Sat Nov 21 8:30pm — **Ask Ronna: Ronnukah Live!** at The Bell House
-
-## Week 5: Nov 22 to Nov 28 — 12 picks — 4 without artwork
-
 - Sun Nov 22 5pm — **Christian Finnegan: A Lot of Heart (Live Special Taping!)** at New York Comedy Club (Midtown)
 - Sun Nov 22 7:30pm — **John Oliver & Seth Meyers** at Beacon Theatre
+
+## Week 5: Nov 23 to Nov 29 — 13 picks — 6 without artwork
+
 - Mon Nov 23 7pm — **The Pachelbel Rant 20th Anniversary Show** at Caveat
 - Mon Nov 23 7pm — **Jessica Kirson Live in New York** at New York Comedy Club (Midtown) · NO ARTWORK
 - Mon Nov 23 7pm — **Jacqueline Novak** at The Bell House
@@ -117,12 +112,12 @@ Ranked 36; run 0, reuse 6, skip 30; ~324,000 tokens saved.
 - Fri Nov 27 8:30pm · doors 8pm — **Friday Night Laughs Comedy Show** at St. Marks Comedy Club
 - Sat Nov 28 8pm — **Eastville Saturday Showcase** at Eastville Comedy Club · NO ARTWORK
 - Sat Nov 28 8:30pm · doors 8pm — **Speakeasy Saturday Night** at St. Marks Comedy Club
-
-## Week 6: Nov 29 to Dec 5 — 15 picks — 4 without artwork
-
 - Sun Nov 29 7pm — **Comedy Idol Finale** at West Side Comedy Club · NO ARTWORK
 - Sun Nov 29 7:30pm — **Sunday Night Comedy** at Eastville Comedy Club · NO ARTWORK
 - Sun Nov 29 7:30pm — **The Silver Lining with Gianmarco Soresi** at The Bell House
+
+## Week 6: Nov 30 to Dec 6 — 12 picks — 2 without artwork
+
 - Mon Nov 30 7:30pm — **Brooklyn Power Hour (Now on a New Night!)** at Eastville Comedy Club · NO ARTWORK
 - Mon Nov 30 8pm — **Stamptown** at The Bell House
 - Tue Dec 1 7pm · doors 6pm — **Jeff Scheen Special Taping Featuring Jeff Arcuri** at Littlefield

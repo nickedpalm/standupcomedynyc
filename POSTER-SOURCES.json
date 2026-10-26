@@ -1917,7 +1917,7 @@
  },
  {
   "event_id": "alvaro-chavez-cameron-burger-union-hall-2026-10-25",
-  "src": "/assets/posters/alvaro-chavez-cameron-burger-union-hall-2026-10-25.jpg",
+  "src": "/assets/posters/archive/alvaro-chavez-cameron-burger-union-hall-2026-10-25.jpg",
   "width": 1880,
   "height": 940,
   "source_url": "https://www.eventbrite.com/e/alvaro-chavez-and-cameron-burger-bein-like-this-tickets-2003302558881",
@@ -1928,7 +1928,8 @@
   "retrieved_at": "2026-10-23",
   "bytes": 116371,
   "sha256": "b1be246c2d47d49a1fb2353e1458f7272ff1f5eb8ca31c5aae07fb79a4bf8b58",
-  "reuse_status": "Official promotional artwork; no separate reuse license identified. Local review draft only."
+  "reuse_status": "Official promotional artwork; no separate reuse license identified. Local review draft only.",
+  "archived": true
  },
  {
   "event_id": "tj-miller-comic-strip-2026-11-11",
@@ -2082,7 +2083,7 @@
  },
  {
   "event_id": "raising-hell-bcc-2026-10-25",
-  "src": "/assets/posters/raising-hell-bcc-2026-10-25.webp",
+  "src": "/assets/posters/archive/raising-hell-bcc-2026-10-25.webp",
   "width": 1080,
   "height": 1350,
   "source_url": "https://www.brooklyncc.com/show-schedule/raising-hell-10-25",
@@ -2093,7 +2094,8 @@
   "retrieved_at": "2026-10-24",
   "bytes": 1475970,
   "sha256": "0657fbde4f014e1705f3f1306556375e5c5c3a40e80d110bd7f0a5c3958c8987",
-  "reuse_status": "Official promotional artwork; no separate reuse license identified. Local review draft only."
+  "reuse_status": "Official promotional artwork; no separate reuse license identified. Local review draft only.",
+  "archived": true
  },
  {
   "event_id": "frantic-free-stand-2026-10-26",
