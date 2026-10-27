@@ -2234,5 +2234,50 @@
   "bytes": 394151,
   "sha256": "4318d81fa5e67712d7fbdad24e4830a8d8066a3bc056835a128a3f90014d631d",
   "reuse_status": "Official venue photo; no separate reuse license identified. Local review draft only."
+ },
+ {
+  "event_id": "greta-titelman-journals-union-hall-2026-10-27",
+  "src": "/assets/posters/greta-titelman-journals-union-hall-2026-10-27.jpg",
+  "width": 1880,
+  "height": 940,
+  "source_url": "https://www.eventbrite.com/e/greta-titelman-journals-tickets-2002951228041",
+  "credit": "Artwork: Union Hall / show organizer",
+  "alt": "Greta Titelman Journals at Union Hall — October 27, 2026 promotional artwork.",
+  "kind": "dated event flyer",
+  "original_image_url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1195089831%2F282041210522%2F1%2Foriginal.20261005-161032",
+  "retrieved_at": "2026-10-27",
+  "bytes": 150941,
+  "sha256": "dcfc344a387bd44d7b5524f8c27f2a62435ad66d71d5cb116d40c44deb5a4e63",
+  "reuse_status": "Official promotional artwork; no separate reuse license identified. Local review draft only."
+ },
+ {
+  "event_id": "cattywampus-ellen-skrmetti-wscc-2026-11-07",
+  "src": "/assets/posters/cattywampus-ellen-skrmetti-wscc-2026-11-07.png",
+  "width": 1200,
+  "height": 630,
+  "source_url": "https://www.westsidecomedyclub.com/shows/new-york-comedy-festival-presents-cattywampus-with-ellen-skrmetti",
+  "credit": "Artwork: West Side Comedy Club / show organizer",
+  "alt": "Cattywampus with Ellen Skrmetti at West Side Comedy Club — November 7, 2026 promotional artwork.",
+  "kind": "dated event flyer",
+  "original_image_url": "https://www.westsidecomedyclub.com/shows/new-york-comedy-festival-presents-cattywampus-with-ellen-skrmetti/opengraph-image",
+  "retrieved_at": "2026-10-27",
+  "bytes": 180361,
+  "sha256": "627b345dc3f840196bd84d0d92a260a92213d36afb10b99aab147bf754874740",
+  "reuse_status": "Official promotional artwork; no separate reuse license identified. Local review draft only."
+ },
+ {
+  "event_id": "simeon-goodson-eastville-2026-12-06",
+  "src": "/assets/posters/simeon-goodson-eastville-2026-12-06.png",
+  "width": 510,
+  "height": 660,
+  "source_url": "https://www.eastvillecomedy.com/events/simeon-goodson-back-in-brooklyn-live-album-recording",
+  "credit": "Artwork: Eastville Comedy Club / show organizer",
+  "alt": "Simeon Goodson Back in Brooklyn! Live Album Recording at Eastville Comedy Club — December 6, 2026 promotional artwork.",
+  "kind": "dated event flyer",
+  "original_image_url": "https://www.eastvillecomedy.com/img/events/hangingflyer-bdb20aa7-main-image.png",
+  "retrieved_at": "2026-10-27",
+  "bytes": 33888,
+  "sha256": "dbb57a2d47aae64a9cd770e786a9358a9823a67d4c30bdd7461642a309a1446b",
+  "reuse_status": "Official promotional artwork; no separate reuse license identified. Local review draft only."
  }
 ]

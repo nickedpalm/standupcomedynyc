@@ -1,5 +1,5 @@
 {
- "retrieved_at": "2026-10-26T11:02:12.473Z",
+ "retrieved_at": "2026-10-27T11:01:42.092Z",
  "note": "Leads from Eventbrite organizer pages of registered rooms. Open the event page before adding a pick; artwork needs a POSTER-SOURCES record.",
  "organizers": [
   {
@@ -40,101 +40,6 @@
   }
  ],
  "events": [
-  {
-   "venue": "Caveat",
-   "neighborhood": "Lower East Side",
-   "organizer": "https://www.eventbrite.com/o/caveat-13580085802",
-   "title": "The Story Collider",
-   "date": "2026-10-26",
-   "time": "7pm",
-   "starts_at": "2026-10-26T19:00:00-04:00",
-   "ends_at": "2026-10-26T20:30:00-04:00",
-   "location_name": "Caveat",
-   "location_address": "21 A Clinton Street, New York, NY 10002, New York",
-   "price_from": 18.76,
-   "url": "https://www.eventbrite.com/e/the-story-collider-tickets-1983379599774",
-   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1177749762%2F207096185123%2F1%2Foriginal.20260217-181113?w=940&auto=format%2Ccompress&q=75&sharp=10&rect=1%2C1%2C2000%2C1000&s=fe38d32be6f04595e6da54a8140a6ac1",
-   "description": "True, personal stories about science",
-   "venue_name_matches": true,
-   "already_a_pick": false,
-   "seen_before": true
-  },
-  {
-   "venue": "Union Hall",
-   "neighborhood": "Park Slope",
-   "organizer": "https://www.eventbrite.com/o/union-hall-17899496497",
-   "title": "Famous Last Words",
-   "date": "2026-10-26",
-   "time": "7:30pm",
-   "starts_at": "2026-10-26T19:30:00-04:00",
-   "ends_at": "2026-10-26T21:00:00-04:00",
-   "location_name": "Union Hall",
-   "location_address": "702 Union St., Brooklyn, NY 11215, Brooklyn",
-   "price_from": 13.61,
-   "url": "https://www.eventbrite.com/e/famous-last-words-tickets-2002738030361",
-   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1196155860%2F2330790970943%2F1%2Foriginal.20261020-025406?crop=focalpoint&fit=crop&w=940&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=7754371ea7646d06f478d32ad23f6437",
-   "description": "Famous Last Words - Monday, October 26 - 7:00pm Doors / 7:30pm Show",
-   "venue_name_matches": true,
-   "already_a_pick": true,
-   "seen_before": true
-  },
-  {
-   "venue": "Littlefield",
-   "neighborhood": "Gowanus",
-   "organizer": "https://www.eventbrite.com/o/littlefield-18046024060",
-   "title": "The Witch Wave with Pam Grossman LIVE!",
-   "date": "2026-10-26",
-   "time": "8pm",
-   "starts_at": "2026-10-26T20:00:00-04:00",
-   "ends_at": "2026-10-26",
-   "location_name": "littlefield",
-   "location_address": "635 Sackett Street, Brooklyn, NY 11217, Brooklyn",
-   "price_from": 18.71,
-   "url": "https://www.eventbrite.com/e/the-witch-wave-with-pam-grossman-live-tickets-2001992815403",
-   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1194066943%2F404652903161%2F1%2Foriginal.20260922-020705?crop=focalpoint&fit=crop&w=940&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=5dfc518e2e3029cd7801ebdb369294ce",
-   "description": "Join Pam Grossman and special guests for a live podcast taping to celebrate 10 seasons of The Witch Wave!",
-   "venue_name_matches": true,
-   "already_a_pick": false,
-   "seen_before": true
-  },
-  {
-   "venue": "Comic Strip Live",
-   "neighborhood": "Upper East Side",
-   "organizer": "https://www.eventbrite.com/o/comic-strip-live-comedy-club-8100188167",
-   "title": "The Peter Stewart Show! With Brian Scott McFadden!",
-   "date": "2026-10-26",
-   "time": "8pm",
-   "starts_at": "2026-10-26T20:00:00-04:00",
-   "ends_at": "2026-10-26",
-   "location_name": "Comic Strip Live",
-   "location_address": "1568 2nd Ave, New York, NY 10028, New York",
-   "price_from": 25.71,
-   "url": "https://www.eventbrite.com/e/the-peter-stewart-show-with-brian-scott-mcfadden-tickets-2002306940961",
-   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1194383278%2F136153380524%2F1%2Foriginal.20260925-190548?crop=focalpoint&fit=crop&w=940&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.547&fp-y=0.243&s=2f9fb6c058c512364c07a3c5ecf953be",
-   "description": "Be part of history, celebrating 50 years of Comedy at the World Comic Strip! Comedians from, HBO, The Tonight Show, SNL & More ~",
-   "venue_name_matches": true,
-   "already_a_pick": false,
-   "seen_before": true
-  },
-  {
-   "venue": "Caveat",
-   "neighborhood": "Lower East Side",
-   "organizer": "https://www.eventbrite.com/o/caveat-13580085802",
-   "title": "The WFP Sketch Show (feat. Alex Kumin, Dina Hashem)",
-   "date": "2026-10-26",
-   "time": "9:30pm",
-   "starts_at": "2026-10-26T21:30:00-04:00",
-   "ends_at": "2026-10-26T23:00:00-04:00",
-   "location_name": "Caveat",
-   "location_address": "21 A Clinton Street, New York, NY 10002, New York",
-   "price_from": 21.32,
-   "url": "https://www.eventbrite.com/e/the-wfp-sketch-show-feat-alex-kumin-dina-hashem-tickets-2000314139438",
-   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1193096466%2F207096185123%2F1%2Foriginal.20260909-200234?w=940&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2000%2C1000&s=5cad1014907aad8eb004598823fe0a1b",
-   "description": "Comedy meets all your gripes about living in this godforsaken and beautiful city.",
-   "venue_name_matches": true,
-   "already_a_pick": false,
-   "seen_before": true
-  },
   {
    "venue": "Union Hall",
    "neighborhood": "Park Slope",
@@ -608,7 +513,7 @@
    "description": "The cult classic The Rocky Horror Picture Show performed by the NeckBiters Shadowcast",
    "venue_name_matches": true,
    "already_a_pick": false,
-   "seen_before": false
+   "seen_before": true
   },
   {
    "venue": "Union Hall",
@@ -627,7 +532,7 @@
    "description": "Halloween Spooktackular - Saturday, October 31 - 9:30pm Doors / 10:00pm Show",
    "venue_name_matches": true,
    "already_a_pick": false,
-   "seen_before": false
+   "seen_before": true
   },
   {
    "venue": "Comic Strip Live",
@@ -665,7 +570,7 @@
    "description": "Join this journey to hormones, mating, and the complex behavioral dynamics of sexy creatures.",
    "venue_name_matches": true,
    "already_a_pick": false,
-   "seen_before": false
+   "seen_before": true
   },
   {
    "venue": "Caveat",
@@ -682,6 +587,25 @@
    "url": "https://www.eventbrite.com/e/phdd-tickets-2003010487287",
    "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1195185745%2F207096185123%2F1%2Foriginal.20261006-152150?w=940&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2000%2C1000&s=9327e5154dd81cb3e8acf0f29ab0dfdd",
    "description": "Caveat plays D&D the only way we know how: WITH SCIENCE!",
+   "venue_name_matches": true,
+   "already_a_pick": false,
+   "seen_before": true
+  },
+  {
+   "venue": "Caveat",
+   "neighborhood": "Lower East Side",
+   "organizer": "https://www.eventbrite.com/o/caveat-13580085802",
+   "title": "Comedians Interview Experts: Astronomy and mythology with Ben Lillie and Moiya McTier",
+   "date": "2026-11-01",
+   "time": "7:30pm",
+   "starts_at": "2026-11-01T19:30:00-05:00",
+   "ends_at": "2026-11-01T21:30:00-05:00",
+   "location_name": "Caveat",
+   "location_address": "21 A Clinton Street, New York, NY 10002, New York",
+   "price_from": 24.41,
+   "url": "https://www.eventbrite.com/e/comedians-interview-experts-astronomy-and-mythology-with-ben-lillie-and-moiya-mctier-tickets-2002433280847",
+   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1194521219%2F207096185123%2F1%2Foriginal.20260928-141847?w=940&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C1920%2C960&s=3dc89a84cd1e3132e62c25cecfe8e485",
+   "description": "Every week one of your favorite comedians interviews an expert on a topic they've always wanted to know more about.",
    "venue_name_matches": true,
    "already_a_pick": false,
    "seen_before": false
@@ -723,6 +647,25 @@
    "venue_name_matches": true,
    "already_a_pick": true,
    "seen_before": true
+  },
+  {
+   "venue": "Caveat",
+   "neighborhood": "Lower East Side",
+   "organizer": "https://www.eventbrite.com/o/caveat-13580085802",
+   "title": "Caveat Presents: Blow My Mind LIVE! Fact-A-Thon",
+   "date": "2026-11-02",
+   "time": "7pm",
+   "starts_at": "2026-11-02T19:00:00-05:00",
+   "ends_at": "2026-11-02T21:00:00-05:00",
+   "location_name": "Caveat",
+   "location_address": "21 A Clinton Street, New York, NY 10002, New York",
+   "price_from": 18.76,
+   "url": "https://www.eventbrite.com/e/caveat-presents-blow-my-mind-live-fact-a-thon-tickets-2003026151138",
+   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1195216124%2F207096185123%2F1%2Foriginal.20261006-194820?w=940&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C800%2C400&s=b051c2b7b812aead26115ad6bb12a2fd",
+   "description": "20 people compete to see who has the best fact!",
+   "venue_name_matches": true,
+   "already_a_pick": false,
+   "seen_before": false
   },
   {
    "venue": "Comic Strip Live",
@@ -836,7 +779,7 @@
    "description": "Celebrate the 25th anniversary of the Buffy the Vampire Slayer musical episode with a full cast and live band!",
    "venue_name_matches": true,
    "already_a_pick": false,
-   "seen_before": false
+   "seen_before": true
   },
   {
    "venue": "Comic Strip Live",
@@ -874,7 +817,7 @@
    "description": "Celebration of Life is the 8th installment in the Putería con PAPIROSSA series.",
    "venue_name_matches": true,
    "already_a_pick": false,
-   "seen_before": false
+   "seen_before": true
   },
   {
    "venue": "Comic Strip Live",
@@ -890,6 +833,25 @@
    "price_from": 25.71,
    "url": "https://www.eventbrite.com/e/ken-boyd-thash-mose-craig-gass-kyle-grooms-mike-yard-tickets-2003224004924",
    "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1196474978%2F136153380524%2F1%2Foriginal.20261023-214219?crop=focalpoint&fit=crop&w=940&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.494&fp-y=0.168&s=bfaebde694d169cf636d6d1888082454",
+   "description": "Be part of history, celebrating 50 years of Comedy at the World Comic Strip! Comedians from, HBO, The Tonight Show, SNL & More ~",
+   "venue_name_matches": true,
+   "already_a_pick": false,
+   "seen_before": true
+  },
+  {
+   "venue": "Comic Strip Live",
+   "neighborhood": "Upper East Side",
+   "organizer": "https://www.eventbrite.com/o/comic-strip-live-comedy-club-8100188167",
+   "title": "Ken Boyd, Caroline Hanes, Craig Gass, Kyle Grooms, & Mike Yard!",
+   "date": "2026-11-07",
+   "time": "8pm",
+   "starts_at": "2026-11-07T20:00:00-05:00",
+   "ends_at": "2026-11-07",
+   "location_name": "Comic Strip Live",
+   "location_address": "1568 2nd Ave, New York, NY 10028, New York",
+   "price_from": 25.71,
+   "url": "https://www.eventbrite.com/e/ken-boyd-caroline-hanes-craig-gass-kyle-grooms-mike-yard-tickets-2003839881026",
+   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1196471787%2F136153380524%2F1%2Foriginal.20261023-204421?crop=focalpoint&fit=crop&w=940&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=4015cde2a6f396d52412971615f0d5a2",
    "description": "Be part of history, celebrating 50 years of Comedy at the World Comic Strip! Comedians from, HBO, The Tonight Show, SNL & More ~",
    "venue_name_matches": true,
    "already_a_pick": false,

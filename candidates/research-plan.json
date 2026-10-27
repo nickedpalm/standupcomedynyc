@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-26T11:06:28.709Z",
+ "generated_at": "2026-10-27T12:02:51.183Z",
  "performers_considered": 36,
  "shortlist": [
   {
@@ -11,10 +11,6 @@
    "priority": 40
   },
   {
-   "name": "Marc Maron",
-   "priority": 39
-  },
-  {
    "name": "Ruby Setnik",
    "priority": 35
   },
@@ -27,60 +23,79 @@
    "priority": 35
   },
   {
-   "name": "Daniel Sloss",
-   "priority": 33
-  },
-  {
    "name": "Mark Simmons",
    "priority": 30
   },
   {
-   "name": "Ilana Glazer",
+   "name": "Laughing Lassi",
    "priority": 30
   },
   {
    "name": "Sam Tallent",
    "priority": 25
+  },
+  {
+   "name": "Adam Ray",
+   "priority": 25
+  },
+  {
+   "name": "Daniel Sloss",
+   "priority": 25
   }
  ],
  "run": [
   {
-   "name": "Sam Tallent",
+   "name": "Laughing Lassi",
+   "priority": 30,
+   "next": {
+    "id": "laughing-lassi-broadway-comedy-club-2026-10-30",
+    "date": "2026-10-30",
+    "venue": "Broadway Comedy Club",
+    "days": 3,
+    "featured": false,
+    "poster": false,
+    "demand": null
+   },
+   "cheap_signals": [],
+   "reason": "show within 3 days and not yet decided"
+  },
+  {
+   "name": "Adam Ray",
    "priority": 25,
    "next": {
-    "id": "sam-tallent-bell-house-2026-11-05",
-    "date": "2026-11-05",
-    "venue": "The Bell House",
+    "id": "nycf-adam-ray-gramercy-2026-11-06",
+    "date": "2026-11-06",
+    "venue": "Gramercy Theatre",
     "days": 10,
     "featured": false,
     "poster": false,
     "demand": null
    },
    "cheap_signals": [
-    "Wikipedia: 287 views a day"
+    "Wikipedia: 379 views a day"
    ],
    "reason": "in the decision window and not yet decided"
   }
  ],
  "reuse": [
   {
+   "name": "Fahim Anwar",
+   "priority": 105,
+   "cached": {
+    "at": "2026-10-26T13:22:16.706Z",
+    "age_days": 0.9,
+    "fresh": true,
+    "note": "Four Reddit threads in 30 days, none about the comic: a Kill Tony episode complaint, a r/Goldpilltalk clip, a dating-skills thread and a Victoria BC show. No New York signal; his Bell House Nov 20 date is sold out anyway."
+   }
+  },
+  {
    "name": "Ania Magliano",
    "priority": 40,
    "cached": {
     "at": "2026-10-22T11:20:34.073Z",
-    "age_days": 4,
+    "age_days": 5,
     "fresh": true,
     "note": "The loudest signal on the board right now: a 9,974-upvote r/Fauxmoi thread on Oct 17 plus heavy r/SNLbabes and LiveFrom chatter on her Taskmaster season, which is why the Bell House Dec 2 Peach Fuzz date is worth a board slot two months out."
-   }
-  },
-  {
-   "name": "Marc Maron",
-   "priority": 39,
-   "cached": {
-    "at": "2026-10-22T11:22:13.600Z",
-    "age_days": 4,
-    "fresh": true,
-    "note": "Twelve Reddit threads in 30 days led by a 503-upvote r/MarcMaron post and his own subreddit going active again, so the Beacon Nov 8 tour stop has genuine pre-sale demand."
    }
   },
   {
@@ -88,9 +103,29 @@
    "priority": 35,
    "cached": {
     "at": "2026-10-22T11:18:59.737Z",
-    "age_days": 4,
+    "age_days": 5,
     "fresh": true,
     "note": "Two small Reddit threads, one her own subreddit and one in r/FemaleStandupComedy, with no heat on the Bell House Tuesday; the Hacker News hits are all about the Ruby programming language."
+   }
+  },
+  {
+   "name": "Joanne McNally",
+   "priority": 35,
+   "cached": {
+    "at": "2026-10-26T13:22:16.736Z",
+    "age_days": 0.9,
+    "fresh": true,
+    "note": "Heavy signal but all of it is the Tonight Show debut and the McGregor boycott refusal, not the New York show: a 760-upvote r/entertainment thread on Oct 21 plus a 273-upvote r/ireland thread and a 125-upvote 'proud day for the parish' thread Oct 20. The Town Hall Nov 7 Pinotphile taping is what a reader can act on."
+   }
+  },
+  {
+   "name": "Jaboukie Young-White",
+   "priority": 35,
+   "cached": {
+    "at": "2026-10-26T13:22:16.765Z",
+    "age_days": 0.9,
+    "fresh": true,
+    "note": "Zero usable items. Reddit returned Boston weekend guides and a ticket-sale post; no comedy coverage. His Bell House Nov 17 date has no recent signal, so do not call him a buzz pick."
    }
   },
   {
@@ -98,36 +133,26 @@
    "priority": 30,
    "cached": {
     "at": "2026-10-24T12:22:00.509Z",
-    "age_days": 1.9,
+    "age_days": 3,
     "fresh": true,
     "note": "Ten items in 30 days and not one is about the comic: Reddit returned Bill Simmons, a Zappa bassist named Jeff Simmons and a Simmons Hardware lantern thread, while the four Hacker News hits are unrelated — no signal at all on his new material or the SoHo Playhouse hour, so the Jest to Impress pick stands on the show's own page."
+   }
+  },
+  {
+   "name": "Sam Tallent",
+   "priority": 25,
+   "cached": {
+    "at": "2026-10-26T11:19:50.262Z",
+    "age_days": 1,
+    "fresh": true,
+    "note": "Ten Reddit threads in 30 days, most of them about his new book Brut (a 132-upvote r/JeselnikBookClub discussion and a 39-upvote r/AllFantasyEverything thread), plus r/Killtony naming him the best guest of the show and a fresh Chubby Behemoth episode on Oct 25 — the book's release is the real story and it is worth the Bell House Thursday slot."
    }
   }
  ],
  "skip": [
   {
-   "name": "Fahim Anwar",
-   "priority": 105,
-   "reason": "already sold out; research cannot change the call"
-  },
-  {
-   "name": "Joanne McNally",
-   "priority": 35,
-   "reason": "next show in 12 days, outside the 10-day window"
-  },
-  {
-   "name": "Jaboukie Young-White",
-   "priority": 35,
-   "reason": "next show in 22 days, outside the 10-day window"
-  },
-  {
    "name": "Daniel Sloss",
-   "priority": 33,
-   "reason": "next show in 19 days, outside the 10-day window"
-  },
-  {
-   "name": "Ilana Glazer",
-   "priority": 30,
+   "priority": 25,
    "reason": "next show in 18 days, outside the 10-day window"
   },
   {
@@ -151,18 +176,18 @@
    "reason": "outside the top 10 by cheap ranking"
   },
   {
-   "name": "Dewayne Perkins",
+   "name": "Marc Maron",
    "priority": 20,
    "reason": "outside the top 10 by cheap ranking"
   },
   {
-   "name": "Jessica Kirson",
+   "name": "Ilana Glazer",
    "priority": 20,
    "reason": "outside the top 10 by cheap ranking"
   },
   {
-   "name": "Laughing Lassi",
-   "priority": 15,
+   "name": "Abolish Everything",
+   "priority": 20,
    "reason": "outside the top 10 by cheap ranking"
   },
   {
@@ -171,7 +196,7 @@
    "reason": "outside the top 10 by cheap ranking"
   },
   {
-   "name": "Matthew Broussard",
+   "name": "Jessica Kirson",
    "priority": 15,
    "reason": "outside the top 10 by cheap ranking"
   },
@@ -191,11 +216,6 @@
    "reason": "outside the top 10 by cheap ranking"
   },
   {
-   "name": "Adam Ray",
-   "priority": 10,
-   "reason": "outside the top 10 by cheap ranking"
-  },
-  {
    "name": "Jess Hilarious",
    "priority": 10,
    "reason": "outside the top 10 by cheap ranking"
@@ -206,17 +226,12 @@
    "reason": "outside the top 10 by cheap ranking"
   },
   {
-   "name": "Jordan Jensen",
-   "priority": 5,
-   "reason": "outside the top 10 by cheap ranking"
-  },
-  {
    "name": "Jake Velazquez",
    "priority": 5,
    "reason": "outside the top 10 by cheap ranking"
   },
   {
-   "name": "Mojo Brookzz",
+   "name": "Matthew Broussard",
    "priority": 5,
    "reason": "outside the top 10 by cheap ranking"
   },
@@ -236,11 +251,6 @@
    "reason": "outside the top 10 by cheap ranking"
   },
   {
-   "name": "Abolish Everything",
-   "priority": 5,
-   "reason": "outside the top 10 by cheap ranking"
-  },
-  {
    "name": "Halloween Spooktackular",
    "priority": 5,
    "reason": "outside the top 10 by cheap ranking"
@@ -256,12 +266,29 @@
    "reason": "outside the top 10 by cheap ranking"
   },
   {
+   "name": "Dewayne Perkins",
+   "priority": 0,
+   "reason": "outside the top 10 by cheap ranking"
+  },
+  {
+   "name": "Jordan Jensen",
+   "priority": 0,
+   "reason": "outside the top 10 by cheap ranking"
+  },
+  {
    "name": "Dropout Improv",
+   "priority": 0,
+   "reason": "outside the top 10 by cheap ranking"
+  },
+  {
+   "name": "Mojo Brookzz",
    "priority": 0,
    "reason": "outside the top 10 by cheap ranking"
   }
  ],
- "estimated_tokens_saved": 315000,
- "estimate_basis": "9000 tokens per last30days run, 35 runs avoided out of 36",
- "no_recent_data": []
+ "estimated_tokens_saved": 306000,
+ "estimate_basis": "9000 tokens per last30days run, 34 runs avoided out of 36",
+ "no_recent_data": [
+  "Laughing Lassi"
+ ]
 }

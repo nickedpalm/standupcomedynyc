@@ -282,3 +282,59 @@ the club's own show page). `npm test` now runs with no warnings at all.
 85 picks. Six weeks ahead: **18 / 14 / 14 / 14 / 13 / 12** — every week at or above the 8-pick
 floor and no bare night left in the horizon. `npm test` passes clean: 85 picks, 8 sitemap pages,
 16 scripts, zero warnings.
+
+## Recovery of the 2026-10-27 edition (published 2026-10-27, 14:00 UTC)
+
+The 11:00 edition run hit its tool-iteration cap and never committed. Its verified work
+was sitting in the working tree, where the 09:15 nightly would have swept it under the
+wrong commit message. Every source below was re-opened and checked by hand before it
+went up; none of the dead run's findings were taken on trust.
+
+### Published
+
+- **Greta Titelman Journals** — Union Hall, Tue Oct 27, 10pm, doors 9:30, $15.92, 21+.
+  Official Eventbrite flyer saved (1880x940). Patti Harrison opens.
+- **The Peter Stewart Show! With Kareem Green!** — Comic Strip Live, Mon Nov 2, 8pm,
+  doors 7:30, $25.71, 17+, two-item minimum.
+- **Cattywampus with Ellen Skrmetti** — West Side Comedy Club, Sat Nov 7, 6pm, from $25.
+  NYCF lineup page and the club's own show page agree. Club artwork saved (1200x630).
+- **Ken Boyd, Caroline Hanes, Craig Gass, Kyle Grooms and Mike Yard** — Comic Strip Live,
+  Sat Nov 7, 8pm, $25.71.
+- **Simeon Goodson: Back in Brooklyn! Live Album Recording** — Eastville Comedy Club,
+  Sun Dec 6, 6pm, $33.46 GA ($30 + $3.46 fee). Fills a bare December night. Flyer saved.
+- **Bar Bayeux** registered — 1066 Nostrand Ave, Brooklyn, Prospect Lefferts Gardens.
+  The room's own site calls itself "Live Jazz in Prospect Lefferts Gardens".
+- **Post Moves Comedy** added as a recurring Sunday 8:30pm free show (one drink minimum
+  asked of guests), with the producer's Eventbrite organizer page registered so the feed
+  covers the room.
+- **The Comedy Shop** added to clubs.json — 167 Bleecker St, three rooms, two-item minimum,
+  daily 4pm and 6pm open mics.
+
+### Corrections I made to the dead run's work
+
+- **Eastville Nov 1 title.** The pick was titled "Sunday Night Comedy"; the venue's own
+  calendar and event page title that date **Fallback Comedy** (it still sits inside the
+  Sunday Night Comedy series). Retitled, and the blurb rewritten to say what it is.
+- **Peter Stewart blurb.** Said the show was "at the Second Stage". Nothing on the club's
+  page mentions a second stage — it is the Monday 8pm set in the main room at 1568 Second
+  Ave. Rewritten.
+- **Simeon Goodson blurb.** Called Eastville a 60-seat room. The club's own About page
+  says it seats 120. Corrected.
+- **Comedy Shop price.** Listed as "From $15". The club's own ticket pages show $20 for
+  the regular 8pm and 10pm shows; the $10 figure belongs to a one-off watch party.
+  Corrected to $20, and the three rooms on the club's Rooms page added.
+- **Bar Bayeux provenance.** The venue note credited r/parkslope as well as
+  r/crownheights; only r/crownheights threads mention the room. Fixed.
+- **Price format.** Both Comic Strip picks read $25.71 on Eventbrite's own page schema.
+  (The ticket-classes API reports $23.61, which omits part of the fee — the page schema
+  is the figure the reader sees, and it matches the existing Comic Strip picks.)
+
+### Not published
+
+- **Eastville's Sunday Night Comedy for Nov 8 and Dec 13/20/27** — those dates are on the
+  venue's calendar but carry no published bill, so there is no "why this one" line to write.
+
+### Board after this run
+
+87 picks. Six weeks ahead: **18 / 17 / 13 / 16 / 12 / 11** — every week at or above the
+8-pick floor. `npm test` passes clean: 87 picks, 8 sitemap pages, 16 scripts, zero warnings.

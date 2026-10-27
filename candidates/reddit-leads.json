@@ -1,5 +1,5 @@
 {
- "retrieved_at": "2026-10-26T11:03:10.729Z",
+ "retrieved_at": "2026-10-27T11:02:07.740Z",
  "note": "Promoter posts from NYC neighborhood subreddits, last 14 days. Leads only: open the linked page or the venue site before anything enters the data; register the venue first.",
  "subreddits": [
   "nycevents",
@@ -27,6 +27,66 @@
  ],
  "leads": [
   {
+   "id": "1xgiw4y",
+   "date": "2026-10-27",
+   "subreddit": "nycevents",
+   "title": "NYC Family Friendly Magic Show (Clean Comedy &amp; Astounding Magic!)",
+   "score": 1,
+   "comments": 0,
+   "url": "https://www.reddit.com/r/nycevents/comments/1xgiw4y/nyc_family_friendly_magic_show_clean_comedy/",
+   "venues_mentioned": [
+    "Broadway Comedy Club"
+   ],
+   "when_mentioned": "Saturday, November 7 and Sunday, November 8 (bot",
+   "time_mentioned": "2pm",
+   "links": [
+    "https://broadwaymagichour.com"
+   ],
+   "free": false,
+   "new_since_last_run": true,
+   "excerpt": "NYC's family magic show The Broadway Magic Hour is back again next weekend in Times Square! See the show live on Saturday, November 7 and Sunday, November 8 (both shows at 2pm) at the historic Broadway Comedy Club on We. 53rd St. \"Unforgettable!\" - NY Post \"Brilliant\" - Penn &amp"
+  },
+  {
+   "id": "1xg2tcu",
+   "date": "2026-10-26",
+   "subreddit": "nycevents",
+   "title": "Catholic Guilt at SoHo Playhouse, October 29th - November 13th",
+   "score": 1,
+   "comments": 0,
+   "url": "https://www.reddit.com/r/nycevents/comments/1xg2tcu/catholic_guilt_at_soho_playhouse_october_29th/",
+   "venues_mentioned": [
+    "SoHo Playhouse"
+   ],
+   "when_mentioned": null,
+   "time_mentioned": null,
+   "links": [
+    "https://www.sohoplayhouse.com/shows/kelly-mccaughan-catholic-guilt"
+   ],
+   "free": false,
+   "new_since_last_run": true,
+   "excerpt": "Does Daddy Jesus’s naked body on the cross make you wet? Spoiler alert: so will this show - seriously, there’s water. *Catholic Guilt* is a deranged, fractured church service blending stand-up, clown, bouffon, physical comedy, and audience interaction as Kelly takes on religion, "
+  },
+  {
+   "id": "1xg2h36",
+   "date": "2026-10-26",
+   "subreddit": "nycevents",
+   "title": "Drunk Black History Shares More Untold Black History Stories @ New York Comedy Festival",
+   "score": 1,
+   "comments": 0,
+   "url": "https://www.reddit.com/r/nycevents/comments/1xg2h36/drunk_black_history_shares_more_untold_black/",
+   "venues_mentioned": [
+    "Caveat"
+   ],
+   "when_mentioned": "saturday, november 7th to hear untold Black hist",
+   "time_mentioned": null,
+   "links": [
+    "https://caveat.nyc/events/drunk-black-history-new-york-comedy-festival-edition-2026-11-07"
+   ],
+   "free": false,
+   "new_since_last_run": true,
+   "excerpt": "check out #drunkblackhistory, part of this year's New York Comedy Festival, on saturday, november 7th to hear untold Black history stories from hilarious, incredible Black comedians, storytellers, and podcasters! tickets are available at [https://caveat.nyc/events/drunk-black-his"
+  },
+  {
    "id": "1xf05ch",
    "date": "2026-10-25",
    "subreddit": "crownheights",
@@ -41,7 +101,7 @@
     "https://www.eventbrite.com/e/free-brooklyn-nyc-standup-comedy-show-post-moves-comedy-every-sunday-tickets-662659320867?sg=e553b9543b53cc2e41fef8e2e04ef5dfb5a57b1d7003be5c49a28b5fc679b4661487c473729d7806e9298fd65cf543d692d9535c5082632e8ad1cabd40f90ef8b44a9e9269e072323701c812ec&amp;aff=ebdsshios"
    ],
    "free": true,
-   "new_since_last_run": true,
+   "new_since_last_run": false,
    "excerpt": "Hey all, I co-host a weekly-ish standup show called Post Moves at Bar Bayeux in Brooklyn and we've got a hot one tonight. Small room, good drinks, dope comics who actually prepared. It's the kind of show where you're close enough to see the comedian sweat, which is either a selli"
   },
   {
@@ -101,7 +161,7 @@
    "date": "2026-10-24",
    "subreddit": "astoria",
    "title": "Astoria Comedy TONIGHT!",
-   "score": 4,
+   "score": 5,
    "comments": 0,
    "url": "https://www.reddit.com/r/astoria/comments/1xefwag/astoria_comedy_tonight/",
    "venues_mentioned": [
@@ -122,7 +182,7 @@
    "subreddit": "AskNYC",
    "title": "How do you hear about things to do/see/hear?",
    "score": 18,
-   "comments": 19,
+   "comments": 23,
    "url": "https://www.reddit.com/r/AskNYC/comments/1xemttu/how_do_you_hear_about_things_to_doseehear/",
    "venues_mentioned": [],
    "when_mentioned": null,
@@ -137,7 +197,7 @@
    "date": "2026-10-24",
    "subreddit": "ridgewood",
    "title": "New Open Mic / Jam 10-25",
-   "score": 2,
+   "score": 1,
    "comments": 0,
    "url": "https://www.reddit.com/r/ridgewood/comments/1xen79y/new_open_mic_jam_1025/",
    "venues_mentioned": [],
@@ -153,8 +213,8 @@
    "date": "2026-10-24",
    "subreddit": "longislandcity",
    "title": "New to LIC, How to make friends?",
-   "score": 29,
-   "comments": 52,
+   "score": 33,
+   "comments": 64,
    "url": "https://www.reddit.com/r/longislandcity/comments/1xeh6w2/new_to_lic_how_to_make_friends/",
    "venues_mentioned": [
     "Grove 34"
@@ -229,8 +289,8 @@
    "date": "2026-10-23",
    "subreddit": "williamsburg",
    "title": "We Raised $2600 For New Trash Cans in McCarren Park!",
-   "score": 225,
-   "comments": 34,
+   "score": 228,
+   "comments": 35,
    "url": "https://www.reddit.com/r/williamsburg/comments/1xdjabn/we_raised_2600_for_new_trash_cans_in_mccarren_park/",
    "venues_mentioned": [],
    "when_mentioned": "Sunday since April (when we started), and the ",
@@ -245,7 +305,7 @@
    "date": "2026-10-23",
    "subreddit": "Greenpoint",
    "title": "We Raised $2600 For New Trash Cans in McCarren Park!",
-   "score": 36,
+   "score": 43,
    "comments": 0,
    "url": "https://www.reddit.com/r/Greenpoint/comments/1xdjbl6/we_raised_2600_for_new_trash_cans_in_mccarren_park/",
    "venues_mentioned": [],
@@ -313,7 +373,7 @@
    "date": "2026-10-22",
    "subreddit": "parkslope",
    "title": "Our $10 Magic Show is Back Tonight (Thursday) 7pm in Park Slope!",
-   "score": 9,
+   "score": 11,
    "comments": 1,
    "url": "https://www.reddit.com/r/parkslope/comments/1xc6p3f/our_10_magic_show_is_back_tonight_thursday_7pm_in/",
    "venues_mentioned": [
@@ -335,7 +395,7 @@
    "date": "2026-10-22",
    "subreddit": "Greenpoint",
    "title": "Super Duper Free and Awesome Comedy Show @ Word Bookstore 8pm Oct 22",
-   "score": 7,
+   "score": 6,
    "comments": 0,
    "url": "https://www.reddit.com/r/Greenpoint/comments/1xc5mcu/super_duper_free_and_awesome_comedy_show_word/",
    "venues_mentioned": [],
@@ -425,7 +485,7 @@
    "date": "2026-10-21",
    "subreddit": "williamsburg",
    "title": "Free Stand-Up Comedy Show Fundraiser For McCarren Park 10/22 7pm",
-   "score": 17,
+   "score": 14,
    "comments": 2,
    "url": "https://www.reddit.com/r/williamsburg/comments/1xbsi0v/free_standup_comedy_show_fundraiser_for_mccarren/",
    "venues_mentioned": [],
@@ -483,7 +543,7 @@
    "date": "2026-10-21",
    "subreddit": "astoria",
    "title": "Open Mic at The Gaf - Wednesday October 21st",
-   "score": 5,
+   "score": 4,
    "comments": 1,
    "url": "https://www.reddit.com/r/astoria/comments/1xbycde/open_mic_at_the_gaf_wednesday_october_21st/",
    "venues_mentioned": [],
@@ -517,7 +577,7 @@
    "date": "2026-10-21",
    "subreddit": "crownheights",
    "title": "Crown Heights Events Thread 10/21-10/28",
-   "score": 30,
+   "score": 31,
    "comments": 4,
    "url": "https://www.reddit.com/r/crownheights/comments/1xbye19/crown_heights_events_thread_10211028/",
    "venues_mentioned": [],
@@ -537,7 +597,7 @@
    "date": "2026-10-21",
    "subreddit": "crownheights",
    "title": "I am hosting/producing the October standup comedy showcase at The Salon on Kingston next Wednesday! (Details in comments)",
-   "score": 4,
+   "score": 5,
    "comments": 1,
    "url": "https://www.reddit.com/r/crownheights/comments/1xbq5u9/i_am_hostingproducing_the_october_standup_comedy/",
    "venues_mentioned": [],
@@ -800,7 +860,7 @@
    "date": "2026-10-19",
    "subreddit": "AskNYC",
    "title": "Anywhere to see performance magic for not too much money?",
-   "score": 15,
+   "score": 14,
    "comments": 9,
    "url": "https://www.reddit.com/r/AskNYC/comments/1xabd24/anywhere_to_see_performance_magic_for_not_too/",
    "venues_mentioned": [],
@@ -1080,7 +1140,7 @@
    "date": "2026-10-14",
    "subreddit": "crownheights",
    "title": "Crown Heights Events Thread 10/14-10/20",
-   "score": 46,
+   "score": 49,
    "comments": 10,
    "url": "https://www.reddit.com/r/crownheights/comments/1x5zih7/crown_heights_events_thread_10141020/",
    "venues_mentioned": [],
@@ -1151,24 +1211,6 @@
    "free": false,
    "new_since_last_run": false,
    "excerpt": "Come check out a comedy show at a GYM on the Lower East Side THIS SATURDAY 10/17 at 7pm! Unbelievable lineup (flyer attached). BYOB. Venue: [720 Strength Lower East Side (36 Ludlow Street)](https://www.google.com/maps/place/720+Strength+Lower+East+Side/@40.716001,-73.9927479,17z/"
-  },
-  {
-   "id": "1x4ib5s",
-   "date": "2026-10-13",
-   "subreddit": "nycevents",
-   "title": "Packed comedy shows are more fun and there's just 12 seats left for THURS 10/15, so plz come &amp; help make this our 3rd sold-out show in a row! • Great comics (bios at link) + a one-in-35 chance your bar tab gets paid for. No drink min. Fun vibe. Whiskey Cellar-77 East 7 St in NYC's East Village. $12",
-   "score": 1,
-   "comments": 0,
-   "url": "https://www.reddit.com/r/nycevents/comments/1x4ib5s/packed_comedy_shows_are_more_fun_and_theres_just/",
-   "venues_mentioned": [],
-   "when_mentioned": null,
-   "time_mentioned": null,
-   "links": [
-    "http://Onein35.com"
-   ],
-   "free": false,
-   "new_since_last_run": false,
-   "excerpt": "Thanks for looking. [Onein35.com](http://Onein35.com) "
   },
   {
    "id": "1x594ia",
@@ -1250,7 +1292,7 @@
    "date": "2026-10-13",
    "subreddit": "lowereastside",
    "title": "Packed comedy shows are more fun and there's just 12 seats left for THURS 10/15, so plz come &amp; help make this our 3rd sold-out show in a row! • Great comics (comedian bios at link) + a one-in-35 chance your bar tab gets paid for. No drink min. Fun vibe. Whiskey Cellar-77 East 7 St . $12",
-   "score": 4,
+   "score": 3,
    "comments": 0,
    "url": "https://www.reddit.com/r/lowereastside/comments/1x596g3/packed_comedy_shows_are_more_fun_and_theres_just/",
    "venues_mentioned": [],
@@ -1288,7 +1330,7 @@
    "date": "2026-10-13",
    "subreddit": "lowereastside",
    "title": "Comedy Show inside a Ludlow St GYM this Saturday 10/17!",
-   "score": 4,
+   "score": 5,
    "comments": 0,
    "url": "https://www.reddit.com/r/lowereastside/comments/1x4zshz/comedy_show_inside_a_ludlow_st_gym_this_saturday/",
    "venues_mentioned": [],
@@ -1321,43 +1363,6 @@
    "free": false,
    "new_since_last_run": false,
    "excerpt": "🗣️ Ask Comedians Anything Show 9 is LIVE at Brooklyn Improv with Jamie Wolf, Orion Levine, Ontonio Kareem (The Tonight Show), Evan Lazarus &amp; more THIS Wednesday October 14th, 7:30pm‼️ 🎟️ Tickets here: [https://improv.com/brooklyn/event/ask+comedians+anything+ft.+orion+levin"
-  },
-  {
-   "id": "1x47wv3",
-   "date": "2026-10-12",
-   "subreddit": "nycevents",
-   "title": "Hidden late-night comedy show in Williamsburg this Wednesday! | 10/14 10:30PM Doors Open, Only $10.",
-   "score": 1,
-   "comments": 0,
-   "url": "https://www.reddit.com/r/nycevents/comments/1x47wv3/hidden_latenight_comedy_show_in_williamsburg_this/",
-   "venues_mentioned": [
-    "Kellogg's Diner"
-   ],
-   "when_mentioned": "Wednesday",
-   "time_mentioned": "10:30PM",
-   "links": [
-    "https://www.eventbrite.com/e/the-late-night-comedy-show-at-kelloggs-diner-tickets-2002748857746?",
-    "https://www.eventbrite.com/e/the-late-night-comedy-show-at-kelloggs-diner-tickets-2002748857746?aff=odcleoeventsincollection"
-   ],
-   "free": false,
-   "new_since_last_run": false,
-   "excerpt": "This Wednesday 10/14• Doors Open at 10:30PM • Show at 11PM • 518 Metropolitan Ave. (Kellogg's Diner) Late-night hidden comedy show in the back room of Kellogg’s Diner in Williamsburg. Featuring top-tier comedians from Netflix, HBO, Comedy Central, Viral Tik-Toks and more! The roo"
-  },
-  {
-   "id": "1x4bg62",
-   "date": "2026-10-12",
-   "subreddit": "eastvillage",
-   "title": "Where to promote shows going on in the East Village?",
-   "score": 5,
-   "comments": 14,
-   "url": "https://www.reddit.com/r/eastvillage/comments/1x4bg62/where_to_promote_shows_going_on_in_the_east/",
-   "venues_mentioned": [],
-   "when_mentioned": "Saturday night but saw in the rules that no come",
-   "time_mentioned": null,
-   "links": [],
-   "free": false,
-   "new_since_last_run": false,
-   "excerpt": "Hello! I'm a Drag King and I run weekly bingos and monthly drag shows out of Club Cumming over on East 6th. I came on to post about our big Halloween Show this Saturday night but saw in the rules that no comedy events/shows can be promoted. This is not a comedy event it's a drag "
   }
  ]
 }

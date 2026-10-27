@@ -298,5 +298,25 @@
   "source_label": "Club's own city guide (lineup format, seating, age and minimum norms) plus the events calendar for prices",
   "verified_at": "2026-10-24",
   "verification_note": "Address, phone and the three-shows-a-night format from the club's own contact page and events calendar. Ticket prices are the per-night prices the club's own event pages list. The club does not publish a policy page with its own minimum or age rules; its city guide only describes what is standard across New York clubs, so both fields say so rather than guessing. Groups of 10 or more are directed to contact the club directly on the private-events page."
+ },
+ {
+  "id": "comedy-shop",
+  "tier": "club",
+  "name": "The Comedy Shop",
+  "rooms": "Main Showroom, Speakeasy Showroom and Ways & Means Bar Room",
+  "address": "167 Bleecker St, Manhattan",
+  "neighborhood": "Greenwich Village",
+  "price_label": "$20 a show (per the club’s ticket pages)",
+  "price_low": 20,
+  "price_high": null,
+  "minimum": "Two items per person: food, drink, or a non-alcoholic drink",
+  "age": "Not stated on the club’s pages",
+  "reservations": "Buy online; the club takes reservations by phone, email or text for named show dates and parties",
+  "character": "A Bleecker Street room behind the Ways & Means, running since 2003 under the Village Lantern name. Daily 4pm and 6pm open mics feed the main shows.",
+  "calendar_url": "https://www.comedyshopnyc.com/",
+  "source_url": "https://web.archive.org/web/20260511022211/https://www.comedyshopnyc.com/location/comedy-shop-nyc/",
+  "source_label": "Hours & Location page (club site, archived copy)",
+  "verified_at": "2026-10-27",
+  "verification_note": "The club’s live site currently resolves to a BentoBox placeholder page, so the details were read from Internet Archive captures of the club’s own pages in May 2026: 167 Bleecker Street, a two-item purchase minimum on every show, open mics every day at 4pm and 6pm, three rooms on the Rooms page, and $20 tickets for the regular 8pm and 10pm shows."
  }
 ]

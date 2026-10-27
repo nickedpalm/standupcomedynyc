@@ -781,3 +781,10 @@ The factual correction to the Novak blurb was the day's data fix — "Get to Be 
   bill ("a stacked lineup of NYC's sharpest comedians"). Dec 4 and Dec 5 went on the board on
   those facts. The open-mic and $3 Monday nights were not added: open mics belong in
   open-mics.json and the $3 entry is a discount night with no bill.
+
+- **Bar Bayeux** - 1066 Nostrand Ave, Prospect Lefferts Gardens, Brooklyn. A cocktail bar
+  that books live jazz and now posts stand-up on its own /comedy page: every Sunday 8:30pm,
+  brought in by Post Moves Comedy, free with a one drink minimum asked of guests, secret
+  lineup, nothing announced ahead. The room's own site describes itself as "Live Jazz in
+  Prospect Lefferts Gardens", which is where the neighborhood comes from. The producer's
+  Eventbrite organizer page is registered against the venue, so the lead feed covers it.

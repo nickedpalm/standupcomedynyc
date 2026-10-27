@@ -1644,5 +1644,18 @@
   "access_note": "The Stand's second room, inside Chelsea Market; the club's show pages print \"THIS EVENT WILL BE HELD AT OUR LOCATION INSIDE CHELSEA MARKET - 407 W. 15th St\" on every Stand West listing. Loads plainly.",
   "verified_at": "2026-10-24",
   "note": "Separate room from The Stand at 116 E 16th St (Union Square). Chelsea Market, 15th St at 9th Ave."
+ },
+ {
+  "name": "Bar Bayeux",
+  "address": "1066 Nostrand Ave, Brooklyn",
+  "neighborhood": "Prospect Lefferts Gardens",
+  "borough": "Brooklyn",
+  "calendar_url": "https://www.barbayeux.com/comedy",
+  "website": "https://www.barbayeux.com/",
+  "source_label": "Venue comedy page and contact page",
+  "access_note": "Cocktail bar and live-jazz room on Nostrand Ave; the room\u2019s own site describes it as \"Live Jazz in Prospect Lefferts Gardens\". It posts stand-up on its /comedy page (Sundays 8:30pm, produced by Post Moves Comedy); the jazz calendar is at /jazz. Address and hours from the contact page.",
+  "eventbrite_organizer": "https://www.eventbrite.com/o/67515401553",
+  "verified_at": "2026-10-27",
+  "note": "Room added from a Reddit lead (r/crownheights, Oct 2026) and confirmed on the room\u2019s own comedy page plus the producer\u2019s Eventbrite organizer page, which lists the free Sunday 8:30pm show at this address."
  }
 ]

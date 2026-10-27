@@ -530,5 +530,24 @@
   "source_label": "Plain Slice Comedy Eventbrite series page",
   "verified_at": "2026-10-07",
   "verification_note": "Series page lists 3rd-Friday dates (Oct 16, Nov 1) under the Fort Hamilton Distillery & Tasting Room location (68 34th St, Building 6, 2nd Floor). The distillery's own events page is a stale May 2025 stub and is not the source of record. Alex Shklar is the listed organizer with 459 total events on Eventbrite."
+ },
+ {
+  "id": "post-moves-comedy-bar-bayeux",
+  "tier": "recurring",
+  "title": "Post Moves Comedy",
+  "cadence": "Every Sunday",
+  "weekday": 0,
+  "time_label": "8:30pm",
+  "venue": "Bar Bayeux",
+  "address": "1066 Nostrand Ave, Brooklyn",
+  "neighborhood": "Prospect Lefferts Gardens",
+  "price_label": "Free \u00b7 one drink minimum",
+  "price_amount": 0,
+  "format": "Stand-up",
+  "description": "A free Sunday showcase in a cocktail bar that usually books jazz, with a secret lineup of comics from SNL, HBO, Don\u2019t Tell and the Cellar. Nothing is announced in advance, so show up early.",
+  "source_url": "https://www.barbayeux.com/comedy",
+  "source_label": "Bar Bayeux comedy page",
+  "verified_at": "2026-10-27",
+  "verification_note": "The room\u2019s own comedy page states stand-up every Sunday at 8:30pm, brought to the room by Post Moves Comedy. The producer\u2019s Eventbrite listing for the same show is marked Free, names the same address, and asks guests to support the venue with a one drink minimum."
  }
 ]
