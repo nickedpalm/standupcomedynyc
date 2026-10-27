@@ -1041,7 +1041,7 @@
  },
  {
   "event_id": "sarah-silverman-streicker-2026-10-26",
-  "src": "/assets/posters/sarah-silverman-streicker-2026-10-26.jpg",
+  "src": "/assets/posters/archive/sarah-silverman-streicker-2026-10-26.jpg",
   "width": 940,
   "height": 470,
   "source_url": "https://streicker.nyc/event/silverman/",
@@ -1052,7 +1052,8 @@
   "bytes": 196273,
   "sha256": "8ab5777c1e570d4b066be8a1b9b3204b0b5b30e8dbae50f4f9c454f7b63c4e6c",
   "reuse_status": "Official promotional artwork from the Streicker Center's event page; no separate reuse license identified. Site display with credit only.",
-  "original_image_url": "https://streicker.nyc/wp-content/uploads/2026/08/Sarah-Silverman5.jpg"
+  "original_image_url": "https://streicker.nyc/wp-content/uploads/2026/08/Sarah-Silverman5.jpg",
+  "archived": true
  },
  {
   "event_id": "girl-church-union-hall-2026-09-25",
@@ -1902,7 +1903,7 @@
  },
  {
   "event_id": "famous-last-words-union-hall-2026-10-26",
-  "src": "/assets/posters/famous-last-words-union-hall-2026-10-26.jpg",
+  "src": "/assets/posters/archive/famous-last-words-union-hall-2026-10-26.jpg",
   "width": 1880,
   "height": 1058,
   "source_url": "https://www.eventbrite.com/e/famous-last-words-tickets-2002738030361",
@@ -1913,7 +1914,8 @@
   "retrieved_at": "2026-10-23",
   "bytes": 94482,
   "sha256": "e1c5fcf81ab8a4823cb2e1bfb4abde36cf495a588615633b737a28cd404a2435",
-  "reuse_status": "Official promotional artwork; no separate reuse license identified. Local review draft only."
+  "reuse_status": "Official promotional artwork; no separate reuse license identified. Local review draft only.",
+  "archived": true
  },
  {
   "event_id": "alvaro-chavez-cameron-burger-union-hall-2026-10-25",
@@ -2099,7 +2101,7 @@
  },
  {
   "event_id": "frantic-free-stand-2026-10-26",
-  "src": "/assets/posters/frantic-free-stand-2026-10-26.png",
+  "src": "/assets/posters/archive/frantic-free-stand-2026-10-26.png",
   "width": 1000,
   "height": 1000,
   "source_url": "https://www.thestandnyc.com/shows/show/2026-10-26-210000-frantic-free-show",
@@ -2110,7 +2112,8 @@
   "retrieved_at": "2026-10-24",
   "bytes": 832518,
   "sha256": "9bb1fef7c65334587e5e94c4a8e93218cf3871f162d17124fb9de5532d5a2203",
-  "reuse_status": "Official promotional artwork; no separate reuse license identified. Local review draft only."
+  "reuse_status": "Official promotional artwork; no separate reuse license identified. Local review draft only.",
+  "archived": true
  },
  {
   "event_id": "mark-normand-stand-2026-10-28",
