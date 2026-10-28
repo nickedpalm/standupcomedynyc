@@ -1167,7 +1167,7 @@
  },
  {
   "event_id": "ruby-setnik-bell-house-2026-10-27",
-  "src": "/assets/posters/ruby-setnik-bell-house-2026-10-27.jpg",
+  "src": "/assets/posters/archive/ruby-setnik-bell-house-2026-10-27.jpg",
   "width": 640,
   "height": 427,
   "source_url": "https://www.livenation.com/event/1AdZZ_oGktGtTFR/ruby-setnik",
@@ -1178,7 +1178,8 @@
   "retrieved_at": "2026-09-21",
   "bytes": 34259,
   "sha256": "a53d515aa3ec383b50d8dd1cd14e62ad3659a86f2350a5a168f838f68068d307",
-  "reuse_status": "Official promotional artwork; no separate reuse license identified. Local review draft only."
+  "reuse_status": "Official promotional artwork; no separate reuse license identified. Local review draft only.",
+  "archived": true
  },
  {
   "event_id": "nasser-al-rayess-town-hall-2026-10-31",
@@ -2237,7 +2238,7 @@
  },
  {
   "event_id": "greta-titelman-journals-union-hall-2026-10-27",
-  "src": "/assets/posters/greta-titelman-journals-union-hall-2026-10-27.jpg",
+  "src": "/assets/posters/archive/greta-titelman-journals-union-hall-2026-10-27.jpg",
   "width": 1880,
   "height": 940,
   "source_url": "https://www.eventbrite.com/e/greta-titelman-journals-tickets-2002951228041",
@@ -2248,7 +2249,8 @@
   "retrieved_at": "2026-10-27",
   "bytes": 150941,
   "sha256": "dcfc344a387bd44d7b5524f8c27f2a62435ad66d71d5cb116d40c44deb5a4e63",
-  "reuse_status": "Official promotional artwork; no separate reuse license identified. Local review draft only."
+  "reuse_status": "Official promotional artwork; no separate reuse license identified. Local review draft only.",
+  "archived": true
  },
  {
   "event_id": "cattywampus-ellen-skrmetti-wscc-2026-11-07",
