@@ -48,3 +48,36 @@ both dates on the room's own listing), so no second copy was stored.
 
 Reuse status is display-with-credit only for all three. None are marked `reuse: granted`, so none
 appear on the Instagram cards.
+
+## October 28, 2026 - eight flyers for the Oct 30 - Dec 8 shows
+
+Saved eight official promotional images to `web/assets/posters/` with POSTER-SOURCES.json
+records (source URL, credit, SHA-256, byte count, retrieval date, alt text).
+
+- **Sup, Boo? with Alison Leiby and Josh Gondelman** (Union Hall, Oct 30, 1880x940) - the
+  Union Hall house card with the show date and the full bill on it.
+- **Hot Gossip with Jonathan van Halem** (Union Hall, Oct 31, 1880x940) - the same card
+  format, with "Jonathan van Halem" and "Host" across the top and the guests listed.
+- **Steve Martin Presents with Andrew Dismukes and Michael Good** (Union Hall, Nov 1,
+  1880x940) - the Union Hall card naming Dismukes and Good.
+- **Kevin McDonald: My Stupid Career** (Union Hall, Nov 1, 1880x940) - the Union Hall card.
+- **Infamous Ray** (The Stand, Nov 3, 773x1000) - the room's own show artwork.
+- **Alyce Chan** (NYCC Upper West Side, Dec 8, 768x660) - the club's flyer for the date.
+- **PUNDERDOME: NYC's Comedy PUN-SLAM** (Littlefield, Dec 8, 1880x1255) - show photography
+  from the competition itself; it carries the Punderdome branding but no December date, so
+  the record says "undated official promotional artwork" rather than "dated event flyer".
+- **Brooklyn Power Hour** (Eastville, Dec 4, 495x660) - the recurring Friday 6pm show card.
+  It names the hosts and the day and time but no calendar date, so the record says "undated
+  official show artwork".
+- **The Friday Showcase** (Greenpoint Comedy Club, Oct 30, 900x1200) - a photograph of the
+  room with the show name set over it. It names neither a date nor the comics, so the record
+  says "venue photo" and the alt text says so too.
+- **Not Ripe Bananas** (West Side Comedy Club, Dec 8, 792x660) - the room's weekly card.
+  It prints "EVERY TUESDAY" and names no calendar date, so the record says "undated
+  official show artwork" rather than "dated event flyer".
+
+Reuse status is display-with-credit only for all of them. None are marked `reuse: granted`, so
+none appear on the Instagram cards.
+
+The `$3 Monday Night StandUp Show` flyer for St. Marks was taken down with the pick: the show
+did not make the board, so the artwork record had nothing to attach to.

@@ -134,8 +134,8 @@
   "source_url": "https://www.comedyinharlem.com/events",
   "verified_at": "2026-10-23",
   "description": "EngageBX’s Halloween show is free, food and drinks included, with Imagine headlining and Simeon Goodson, Nicky Sunshine and Sofia Angeron on the bill; Sashalyn Medina hosts. A named lineup uptown at no cost is the reason to go. Space is limited, so RSVP early.",
-  "featured": false,
   "tier": "special",
+  "featured": false,
   "demand": null,
   "demand_checked": "2026-10-28"
  },
@@ -214,8 +214,38 @@
   "source_url": "https://www.eventbrite.com/e/laughing-lassi-the-1-south-asian-stand-up-comedy-show-in-new-york-city-tickets-1988220002549",
   "verified_at": "2026-10-23",
   "description": "A full bill of South Asian stand-ups from New York and beyond, at 7pm sharp on a Friday in Midtown. Go for a show built around one scene from top to bottom, early enough to leave the rest of the night open.",
-  "featured": false,
   "tier": "special",
+  "featured": false,
+  "demand": null,
+  "demand_checked": "2026-10-28"
+ },
+ {
+  "id": "friday-showcase-greenpoint-2026-10-30",
+  "title": "The Friday Showcase",
+  "date": "2026-10-30",
+  "starts_at": "2026-10-30T20:00:00-04:00",
+  "ends_at": "2026-10-30T21:30:00-04:00",
+  "end_time_confirmed": false,
+  "time_label": "8pm",
+  "venue": "Greenpoint Comedy Club",
+  "neighborhood": "Greenpoint",
+  "price_amount": 25,
+  "price_label": "From $25",
+  "ticket_url": "https://punchup.live/show/91afc93b-f0af-4a30-afe9-762128a974b1",
+  "source_url": "https://punchup.live/venue/greenpointcomedyclub/shows/the-friday-showcase",
+  "verified_at": "2026-10-28",
+  "description": "Greenpoint's own Friday showcase, hosted out of the room Jeremy Pinsly founded: Jessica Levin, Chanel Ali, Daniel Simonsen, Jeremy Pinsly and James Davis on the bill, $25 with a one-item minimum — a weeknight room with a neighborhood regulars' feel to it.",
+  "tier": "special",
+  "featured": false,
+  "poster": {
+   "src": "/assets/posters/friday-showcase-greenpoint-2026-10-30.webp",
+   "width": 900,
+   "height": 1200,
+   "source_url": "https://punchup.live/venue/greenpointcomedyclub/shows/the-friday-showcase",
+   "credit": "Artwork: Greenpoint Comedy Club / show organizer",
+   "alt": "The Friday Showcase at Greenpoint Comedy Club — the room itself, photographed on a show night.",
+   "kind": "venue photo"
+  },
   "demand": null,
   "demand_checked": "2026-10-28"
  },
@@ -245,6 +275,36 @@
    "credit": "Artwork: Comedy Village",
    "alt": "NYC Stand-Up at Comedy Village Oct 30, 2026 — promotional artwork.",
    "kind": "dated event flyer"
+  },
+  "demand": null,
+  "demand_checked": "2026-10-28"
+ },
+ {
+  "id": "sup-boo-union-hall-2026-10-30",
+  "title": "Sup, Boo? with Alison Leiby and Josh Gondelman",
+  "date": "2026-10-30",
+  "starts_at": "2026-10-30T22:00:00-04:00",
+  "ends_at": "2026-10-30T23:30:00-04:00",
+  "end_time_confirmed": true,
+  "time_label": "10pm · doors 9:30pm",
+  "venue": "Union Hall",
+  "neighborhood": "Park Slope",
+  "price_amount": 15.92,
+  "price_label": "$15.92",
+  "ticket_url": "https://www.eventbrite.com/e/sup-boo-with-alison-leiby-and-josh-gondelman-tickets-2003297834751",
+  "source_url": "https://www.eventbrite.com/e/sup-boo-with-alison-leiby-and-josh-gondelman-tickets-2003297834751",
+  "verified_at": "2026-10-28",
+  "description": "Two of the sharpest quick-story voices in the city goofing off together on stage, with Isabel Hagen, Anthony DeVito, Meka Mo and Carson Olshansky as the guests — the 10pm Union Hall slot where the room is at its loudest and the beer is closest.",
+  "tier": "special",
+  "featured": false,
+  "poster": {
+   "src": "/assets/posters/sup-boo-union-hall-2026-10-30.jpg",
+   "width": 1880,
+   "height": 500,
+   "source_url": "https://www.eventbrite.com/e/sup-boo-with-alison-leiby-and-josh-gondelman-tickets-2003297834751",
+   "credit": "Artwork: Union Hall / show organizer",
+   "alt": "Sup, Boo? with Alison Leiby and Josh Gondelman at Union Hall — the show's own artwork, a performer on stage under the Sup, Boo? title.",
+   "kind": "show photography"
   },
   "demand": null,
   "demand_checked": "2026-10-28"
@@ -294,8 +354,8 @@
   "source_url": "https://littlefieldnyc.com/event/?wfea_eb_id=2000220257635",
   "verified_at": "2026-10-23",
   "description": "Halloween at Littlefield: Brittany Carney hosts a stand-up night where every comic arrives in costume and runs their set from that character's POV — Ike Ufomadu, Jenny Zigrino, Shaunak Godkhindi on the lineup, plus an audience costume contest. A weird, fun one for the 31st.",
-  "featured": false,
   "tier": "special",
+  "featured": false,
   "poster": {
    "src": "/assets/posters/scary-good-comedy-brittany-carney-2026-10-31.jpg",
    "width": 940,
@@ -309,11 +369,71 @@
   "demand_checked": "2026-10-28"
  },
  {
+  "id": "hot-gossip-union-hall-2026-10-31",
+  "title": "Hot Gossip with Jonathan van Halem",
+  "date": "2026-10-31",
+  "starts_at": "2026-10-31T19:30:00-04:00",
+  "ends_at": "2026-10-31T21:00:00-04:00",
+  "end_time_confirmed": true,
+  "time_label": "7:30pm · doors 7pm",
+  "venue": "Union Hall",
+  "neighborhood": "Park Slope",
+  "price_amount": 15.92,
+  "price_label": "$15.92",
+  "ticket_url": "https://www.eventbrite.com/e/hot-gossip-with-jonathan-van-halem-tickets-2003321943862",
+  "source_url": "https://www.eventbrite.com/e/hot-gossip-with-jonathan-van-halem-tickets-2003321943862",
+  "verified_at": "2026-10-28",
+  "description": "Jonathan van Halem stops the perpetual gab sesh to host an evening of stand-up, with Jon Rudnitsky, Ash Diggs, Meredith Dietz and Jenna Sherriton on the bill — the 7:30 Halloween Saturday slot, when the Park Slope room keeps its front row loud.",
+  "tier": "special",
+  "featured": false,
+  "poster": {
+   "src": "/assets/posters/hot-gossip-union-hall-2026-10-31.jpg",
+   "width": 1880,
+   "height": 940,
+   "source_url": "https://www.eventbrite.com/e/hot-gossip-with-jonathan-van-halem-tickets-2003321943862",
+   "credit": "Artwork: Union Hall / show organizer",
+   "alt": "Hot Gossip with Jonathan van Halem at Union Hall — a performer holding cue cards that read HOT GOSSIP.",
+   "kind": "performer photo from the event page"
+  },
+  "demand": null,
+  "demand_checked": "2026-10-28"
+ },
+ {
+  "id": "steve-martin-presents-union-hall-2026-11-01",
+  "title": "Steve Martin Presents with Andrew Dismukes and Michael Good",
+  "date": "2026-11-01",
+  "starts_at": "2026-11-01T17:00:00-05:00",
+  "ends_at": "2026-11-01T18:30:00-05:00",
+  "end_time_confirmed": true,
+  "time_label": "5pm · doors 4:30pm",
+  "venue": "Union Hall",
+  "neighborhood": "Park Slope",
+  "price_amount": 15.92,
+  "price_label": "$15.92",
+  "ticket_url": "https://www.eventbrite.com/e/steve-martin-presents-with-andrew-dismukes-and-michael-good-tickets-2003615876021",
+  "source_url": "https://www.eventbrite.com/e/steve-martin-presents-with-andrew-dismukes-and-michael-good-tickets-2003615876021",
+  "verified_at": "2026-10-28",
+  "description": "The long-running Sunday-afternoon showcase that borrows Steve Martin's name without him in it — Andrew Dismukes and Michael Good hosting, with Allison O'Conor, Wally Baram and Ashton Womack along for the ride, and an early 5pm start that leaves the rest of the Sunday open.",
+  "tier": "special",
+  "featured": false,
+  "poster": {
+   "src": "/assets/posters/steve-martin-presents-union-hall-2026-11-01.jpg",
+   "width": 1880,
+   "height": 940,
+   "source_url": "https://www.eventbrite.com/e/steve-martin-presents-with-andrew-dismukes-and-michael-good-tickets-2003615876021",
+   "credit": "Artwork: Union Hall / show organizer",
+   "alt": "Steve Martin Presents with Andrew Dismukes and Michael Good at Union Hall — November 1, 2026 promotional artwork.",
+   "kind": "dated event flyer"
+  },
+  "demand": null,
+  "demand_checked": "2026-10-28"
+ },
+ {
   "id": "sunday-night-comedy-eastville-2026-11-01",
   "title": "Fallback Comedy",
   "date": "2026-11-01",
-  "starts_at": "2026-11-01T19:30:00-04:00",
-  "ends_at": "2026-11-01T21:30:00-04:00",
+  "starts_at": "2026-11-01T19:30:00-05:00",
+  "ends_at": "2026-11-01T21:30:00-05:00",
   "end_time_confirmed": false,
   "time_label": "7:30pm",
   "venue": "Eastville Comedy Club",
@@ -324,8 +444,38 @@
   "source_url": "https://www.eastvillecomedy.com/events/sunday-night-comedy-31",
   "verified_at": "2026-10-27",
   "description": "Eastville renames its Sunday closer for this date only: the 7:30pm set is billed as Fallback Comedy, with the lineup posted week-of and a two-drink minimum.",
-  "featured": false,
   "tier": "special",
+  "featured": false,
+  "demand": null,
+  "demand_checked": "2026-10-28"
+ },
+ {
+  "id": "kevin-mcdonald-union-hall-2026-11-01",
+  "title": "Kevin McDonald: My Stupid Career",
+  "date": "2026-11-01",
+  "starts_at": "2026-11-01T19:30:00-05:00",
+  "ends_at": "2026-11-01T21:00:00-05:00",
+  "end_time_confirmed": true,
+  "time_label": "7:30pm · doors 7pm",
+  "venue": "Union Hall",
+  "neighborhood": "Park Slope",
+  "price_amount": 35.99,
+  "price_label": "$35.99",
+  "ticket_url": "https://www.eventbrite.com/e/kevin-mcdonald-my-stupid-career-tickets-1997894136143",
+  "source_url": "https://www.eventbrite.com/e/kevin-mcdonald-my-stupid-career-tickets-1997894136143",
+  "verified_at": "2026-10-28",
+  "description": "The Kids in the Hall alum tells stories from a career he calls stupid, part talk and part one-man show, then stays for an audience Q&A that the ticket page invites you to point at world geopolitics — a Sunday night with a very specific kind of nerve in it.",
+  "tier": "special",
+  "featured": false,
+  "poster": {
+   "src": "/assets/posters/kevin-mcdonald-union-hall-2026-11-01.jpg",
+   "width": 1880,
+   "height": 940,
+   "source_url": "https://www.eventbrite.com/e/kevin-mcdonald-my-stupid-career-tickets-1997894136143",
+   "credit": "Artwork: Union Hall / show organizer",
+   "alt": "Kevin McDonald: My Stupid Career at Union Hall — a photograph of Kevin McDonald.",
+   "kind": "performer photo from the event page"
+  },
   "demand": null,
   "demand_checked": "2026-10-28"
  },
@@ -363,8 +513,8 @@
   "id": "sam-oh-gay-virgin-bell-house-2026-11-02",
   "title": "Sam Oh: The Unbearable Tightness of Being...Gay Virgin",
   "date": "2026-11-02",
-  "starts_at": "2026-11-02T19:30:00-04:00",
-  "ends_at": "2026-11-02T21:30:00-04:00",
+  "starts_at": "2026-11-02T19:30:00-05:00",
+  "ends_at": "2026-11-02T21:30:00-05:00",
   "end_time_confirmed": false,
   "time_label": "7:30pm",
   "venue": "The Bell House",
@@ -375,8 +525,8 @@
   "source_url": "https://www.livenation.com/event/1AYZkf8Gkdzo4Up/sam-oh-the-unbearable-tightness-of-being-gay-virgin",
   "verified_at": "2026-10-24",
   "description": "Sam Oh's NYC debut — part stand-up, part storytelling, part pop-concert fantasia on growing up evangelical and then everything else — with Sabrina Wu opening; a Monday-night Bell House taping ahead of his dates elsewhere.",
-  "featured": false,
   "tier": "special",
+  "featured": false,
   "poster": {
    "src": "/assets/posters/sam-oh-gay-virgin-bell-house-2026-11-02.jpg",
    "width": 2048,
@@ -415,8 +565,8 @@
   "id": "difficult-people-the-movie-town-hall-2026-11-03",
   "title": "Difficult People: The Movie — A Live Table Read",
   "date": "2026-11-03",
-  "starts_at": "2026-11-03T19:00:00-04:00",
-  "ends_at": "2026-11-03T21:00:00-04:00",
+  "starts_at": "2026-11-03T19:00:00-05:00",
+  "ends_at": "2026-11-03T21:00:00-05:00",
   "end_time_confirmed": false,
   "time_label": "7pm",
   "venue": "The Town Hall",
@@ -432,11 +582,41 @@
   "demand_checked": "2026-10-28"
  },
  {
+  "id": "infamous-ray-stand-2026-11-03",
+  "title": "Infamous Ray",
+  "date": "2026-11-03",
+  "starts_at": "2026-11-03T20:00:00-05:00",
+  "ends_at": "2026-11-03T22:00:00-05:00",
+  "end_time_confirmed": false,
+  "time_label": "8pm",
+  "venue": "The Stand",
+  "neighborhood": "Union Square",
+  "price_amount": 30.75,
+  "price_label": "$30.75 ($25 + $5.75 fees)",
+  "ticket_url": "https://www.tixr.com/groups/thestandnyc/events/infamous-ray-212281",
+  "source_url": "https://www.thestandnyc.com/shows/show/14129/2026-11-03-200000-infamous-ray",
+  "verified_at": "2026-10-28",
+  "description": "Ray Devito headlines the upstairs room on a Tuesday with a bill built for people who like their comics tight: Joe List, Todd Barry and Caitlin Peluffo on the card, plus Danny Polishchuk, Sherrod Small and Rebecca Reingold — an 8pm that clears out before the dinner crowd takes the room.",
+  "tier": "special",
+  "featured": false,
+  "poster": {
+   "src": "/assets/posters/infamous-ray-stand-2026-11-03.png",
+   "width": 773,
+   "height": 1000,
+   "source_url": "https://www.thestandnyc.com/shows/show/14129/2026-11-03-200000-infamous-ray",
+   "credit": "Artwork: The Stand",
+   "alt": "Infamous Ray at The Stand — the club's standing show card, which names Ray DeVito, Danny Polishchuk, Joe List, Todd Barry, Caitlin Peluffo, Sherrod Small and Rebecca Reingold and runs on the first Tuesday of the month.",
+   "kind": "undated official show artwork"
+  },
+  "demand": null,
+  "demand_checked": "2026-10-28"
+ },
+ {
   "id": "please-stay-seated-wscc-2026-11-04",
   "title": "Please Stay Seated",
   "date": "2026-11-04",
-  "starts_at": "2026-11-04T19:00:00-04:00",
-  "ends_at": "2026-11-04T20:30:00-04:00",
+  "starts_at": "2026-11-04T19:00:00-05:00",
+  "ends_at": "2026-11-04T20:30:00-05:00",
   "end_time_confirmed": false,
   "time_label": "7pm",
   "venue": "West Side Comedy Club",
@@ -465,8 +645,8 @@
   "id": "salma-hindy-10-years-stand-2026-11-04",
   "title": "Salma Hindy: 10 Years of Stand-Up Comedy",
   "date": "2026-11-04",
-  "starts_at": "2026-11-04T20:00:00-04:00",
-  "ends_at": "2026-11-04T22:00:00-04:00",
+  "starts_at": "2026-11-04T20:00:00-05:00",
+  "ends_at": "2026-11-04T22:00:00-05:00",
   "end_time_confirmed": false,
   "time_label": "8pm",
   "venue": "The Stand",
@@ -477,8 +657,8 @@
   "source_url": "https://thestandnyc.com/shows/show/13673/2026-11-04-200000-salma-hindy-10-years-of-stand-up-comedy",
   "verified_at": "2026-10-25",
   "description": "Salma Hindy takes The Stand's Upstairs room with Sabeen Sadiq and Denise Taylor opening — ten years of material in a tight, table-seated room that suits her set.",
-  "featured": false,
   "tier": "special",
+  "featured": false,
   "poster": {
    "src": "/assets/posters/salma-hindy-10-years-stand-2026-11-04.jpg",
    "width": 1080,
@@ -495,8 +675,8 @@
   "id": "sam-tallent-bell-house-2026-11-05",
   "title": "Sam Tallent",
   "date": "2026-11-05",
-  "starts_at": "2026-11-05T19:30:00-04:00",
-  "ends_at": "2026-11-05T21:30:00-04:00",
+  "starts_at": "2026-11-05T19:30:00-05:00",
+  "ends_at": "2026-11-05T21:30:00-05:00",
   "end_time_confirmed": false,
   "time_label": "7:30pm",
   "venue": "The Bell House",
@@ -507,8 +687,8 @@
   "source_url": "https://www.thebellhouseny.com/shows/calendar/2026-11",
   "verified_at": "2026-10-23",
   "description": "Elizabeth, Colorado's Sam Tallent — two specials on YouTube, a novel (Running the Light), and the Chubby Behemoth podcast — headlines Bell House. Black, blue, surreal and anti-humor in the room that helped put him on the map.",
-  "featured": false,
   "tier": "special",
+  "featured": false,
   "demand": null,
   "demand_checked": "2026-10-28"
  },
@@ -1042,8 +1222,8 @@
   "source_url": "https://www.livenation.com/event/1AdZZ_8GkULUS7p/matthew-broussard",
   "verified_at": "2026-10-23",
   "description": "Matthew Broussard has the math-and-meltdowns hour New York is short on — the Set List and Conan-circuit clean Texas set that earned him Dry Bar and a half-hour before heading to Bell House for two shows on a Sunday.",
-  "featured": false,
   "tier": "special",
+  "featured": false,
   "poster": {
    "src": "/assets/posters/matthew-broussard-bell-house-2026-11-15.jpg",
    "width": 2570,
@@ -1092,11 +1272,9 @@
   "price_label": "$45.53 ($35 + $10.53 fee)",
   "ticket_url": "https://newyorkcomedyclub.com/events/jessica-kirson-live-in-new-york-2026-11-17190000",
   "source_url": "https://newyorkcomedyclub.com/events/jessica-kirson-live-in-new-york-2026-11-17190000",
-  "verified_at": "2026-10-13",
+  "verified_at": "2026-10-28",
   "description": "Jessica Kirson in the early Tuesday set at NYCC Midtown — the This Week at the Comedy Cellar regular and Robert De Niro's 'The Comedian' consultant, working her character-led bits in front of the 7pm crowd. Premium seating has sold out, but general admission is still on the page; a 9:30pm second show runs the same night.",
   "tier": "special",
-  "demand": null,
-  "demand_checked": "2026-10-28",
   "poster": {
    "src": "/assets/posters/jessica-kirson-nycc-2026-11-17.jpg",
    "width": 990,
@@ -1105,7 +1283,9 @@
    "credit": "Artwork: New York Comedy Club",
    "alt": "Jessica Kirson Live in New York at NYCC Midtown — November 17.",
    "kind": "dated event flyer"
-  }
+  },
+  "demand": null,
+  "demand_checked": "2026-10-28"
  },
  {
   "id": "jaboukie-young-white-bell-house-2026-11-17",
@@ -1123,8 +1303,8 @@
   "source_url": "https://www.thebellhouseny.com/shows/calendar/2026-11",
   "verified_at": "2026-10-23",
   "description": "Jaboukie Young-White (Daily Show correspondent, BuzzFeed, voice of the Yearbook trend that did a number on Twitter) brings the post-millennial set he's been building since Straight College White Kid to a Tuesday Bell House that should feel like a weekend.",
-  "featured": false,
   "tier": "special",
+  "featured": false,
   "demand": null,
   "demand_checked": "2026-10-28"
  },
@@ -1305,11 +1485,9 @@
   "price_label": "$19.26 (from $16 + Eventbrite fees)",
   "ticket_url": "https://www.eventbrite.com/e/opey-olagbaju-tickets-2002401987247",
   "source_url": "https://unionhallny.com/",
-  "verified_at": "2026-10-13",
+  "verified_at": "2026-10-28",
   "description": "Opey Olagbaju headlining Union Hall on a Friday — Vulture's 2023 'Comics You Should and Will Know,' a Netflix Is a Joke and Just for Laughs festival regular, and a CBS After Midnight contributor whose writer's-room résumé (Bob Hearts Abishola, Betty, Close Enough, This Fool) is the part of his bio readers usually skip to.",
   "tier": "special",
-  "demand": null,
-  "demand_checked": "2026-10-28",
   "poster": {
    "src": "/assets/posters/opey-olagbaju-union-hall-2026-11-20.jpg",
    "width": 768,
@@ -1318,7 +1496,9 @@
    "credit": "Artwork: Union Hall / Opey Olagbaju",
    "alt": "Opey Olagbaju at Union Hall — November 20.",
    "kind": "dated event flyer"
-  }
+  },
+  "demand": null,
+  "demand_checked": "2026-10-28"
  },
  {
   "id": "prime-time-comedy-show-st-marks-2026-11-21",
@@ -1386,11 +1566,9 @@
   "price_label": "$30.85 ($25 + $5.85 fee)",
   "ticket_url": "https://newyorkcomedyclub.com/events/christian-finnegan-live-special-taping-2026-10-18170000",
   "source_url": "https://newyorkcomedyclub.com/events/christian-finnegan-live-special-taping-2026-10-18170000",
-  "verified_at": "2026-10-13",
+  "verified_at": "2026-10-28",
   "description": "Finnegan tapes his fourth hour in the NYCC Midtown room, the Sunday-afternoon special-taping slot: a fully-formed new hour (Are dogs better than spouses? Should you be concerned if your surgeon has tattoos?) before a live audience, with a second 7pm taping to follow the same night.",
   "tier": "special",
-  "demand": null,
-  "demand_checked": "2026-10-28",
   "poster": {
    "src": "/assets/posters/christian-finnegan-nycc-2026-11-22.png",
    "width": 660,
@@ -1399,7 +1577,9 @@
    "credit": "Artwork: New York Comedy Club",
    "alt": "Christian Finnegan: A Lot of Heart live special taping at NYCC Midtown — November 22.",
    "kind": "dated event flyer"
-  }
+  },
+  "demand": null,
+  "demand_checked": "2026-10-28"
  },
  {
   "id": "john-oliver-seth-meyers-beacon-2026-11-22",
@@ -1415,11 +1595,9 @@
   "price_label": "See Beacon ticket page for price",
   "ticket_url": "https://www.ticketmaster.com/john-oliver-seth-meyers-new-york-new-york-11-22-2026/event/3B00649092832D66",
   "source_url": "https://www.msg.com/events-tickets/john-oliver-seth-meyers-beacon-theatre-november-2026/3B00649092832D66",
-  "verified_at": "2026-10-13",
+  "verified_at": "2026-10-28",
   "description": "Last Week Tonight's John Oliver and Late Night's Seth Meyers continue their fall residency at the Beacon, a Sunday-night double-bill that has become one of the Broadway room's marquee comedy slots. Their joint page on iamjohnoliver.com lists this as the second of three November/December dates.",
   "tier": "special",
-  "demand": null,
-  "demand_checked": "2026-10-28",
   "poster": {
    "src": "/assets/posters/john-oliver-seth-meyers-beacon-2026-11-22.jpg",
    "width": 1024,
@@ -1428,7 +1606,9 @@
    "credit": "Artwork: Beacon Theatre / MSG",
    "alt": "John Oliver & Seth Meyers at the Beacon Theatre — November 22.",
    "kind": "dated event flyer"
-  }
+  },
+  "demand": null,
+  "demand_checked": "2026-10-28"
  },
  {
   "id": "pachelbel-rant-20th-caveat-2026-11-23",
@@ -1661,9 +1841,9 @@
   "description": "Cipha Sounds headlines a six-comic Boerum Hill bill with Ayanna Dookie, Liam Dalton, Tom Zappia, Lauren Cocroft and Greg Melly — Saturday is the night Eastville stacks its deepest lineup, and the two-drink minimum makes it a sit-down-and-stay night.",
   "tier": "special",
   "featured": false,
+  "poster": null,
   "demand": null,
-  "demand_checked": "2026-10-28",
-  "poster": null
+  "demand_checked": "2026-10-28"
  },
  {
   "id": "speakeasy-saturday-night-st-marks-2026-11-28",
@@ -1713,9 +1893,9 @@
   "description": "The Comedy Idol season closes at the West Side club with Felicia Madison among the finalists, and the finale night is the one where the runners-up show what they would have done with the win.",
   "tier": "special",
   "featured": false,
+  "poster": null,
   "demand": null,
-  "demand_checked": "2026-10-28",
-  "poster": null
+  "demand_checked": "2026-10-28"
  },
  {
   "id": "sunday-night-comedy-eastville-2026-11-29",
@@ -1735,9 +1915,9 @@
   "description": "Priya Blunts tops a six-comic Sunday closer at Eastville with Eeland Stribling, Jaclyn Lore-Edwards, Michael Agunbiade, Aamir Arshad and Joe Fenti — a 7:30pm start that still gets you home before Monday.",
   "tier": "special",
   "featured": false,
+  "poster": null,
   "demand": null,
-  "demand_checked": "2026-10-28",
-  "poster": null
+  "demand_checked": "2026-10-28"
  },
  {
   "id": "silver-lining-gianmarco-soresi-bell-house-2026-11-29",
@@ -1787,9 +1967,9 @@
   "description": "Brooklyn's cheapest full hour on a Monday: $10 gets you Eastville's four-host early-format showcase on its new night, ending well before the dinner crowd so you can still take the train home.",
   "tier": "special",
   "featured": false,
+  "poster": null,
   "demand": null,
-  "demand_checked": "2026-10-28",
-  "poster": null
+  "demand_checked": "2026-10-28"
  },
  {
   "id": "stamptown-bell-house-2026-11-30",
@@ -1905,7 +2085,8 @@
    "height": 660,
    "source_url": "https://www.westsidecomedyclub.com/shows/not-ripe-bananas",
    "credit": "Artwork: West Side Comedy Club",
-   "alt": "Not Ripe Bananas at West Side Comedy Club — December 1, 2026."
+   "alt": "Not Ripe Bananas at West Side Comedy Club — the club's weekly card, which says EVERY TUESDAY and names no calendar date.",
+   "kind": "undated official show artwork"
   },
   "demand": null,
   "demand_checked": "2026-10-28"
@@ -1958,6 +2139,36 @@
   "description": "Two tickets, one brick-walled room: the East Village club's date-night format on a Thursday in December, with Keenan Steiner, Alexis Carabano, Danny Carabano and Macy Kwok on the bill, 2-drink minimum, 18+, doors at 8, show at 8:30.",
   "tier": "special",
   "featured": false,
+  "demand": null,
+  "demand_checked": "2026-10-28"
+ },
+ {
+  "id": "brooklyn-power-hour-eastville-2026-12-04",
+  "title": "Brooklyn Power Hour",
+  "date": "2026-12-04",
+  "starts_at": "2026-12-04T18:00:00-05:00",
+  "ends_at": "2026-12-04T20:00:00-05:00",
+  "end_time_confirmed": false,
+  "time_label": "6pm",
+  "venue": "Eastville Comedy Club",
+  "neighborhood": "Boerum Hill",
+  "price_amount": 28.13,
+  "price_label": "$28.13 GA ($25 + $3.13 service fee)",
+  "ticket_url": "https://www.eastvillecomedy.com/events/brooklyn-power-hour-17",
+  "source_url": "https://www.eastvillecomedy.com/events/brooklyn-power-hour-17",
+  "verified_at": "2026-10-28",
+  "description": "The Friday 6pm happy hour is back on the calendar for December — Annette Mullaney, Dara Jemmott, Sara Shipley and Sarah Barnitt hosting, two-drink minimum, and an early start that ends before the Atlantic Avenue bar rush.",
+  "tier": "special",
+  "featured": false,
+  "poster": {
+   "src": "/assets/posters/brooklyn-power-hour-eastville-2026-12-04.jpg",
+   "width": 495,
+   "height": 660,
+   "source_url": "https://www.eastvillecomedy.com/events/brooklyn-power-hour-17",
+   "credit": "Artwork: Eastville Comedy Club / show organizer",
+   "alt": "Brooklyn Power Hour at Eastville Comedy Club — the recurring Friday 6pm show card.",
+   "kind": "undated official show artwork"
+  },
   "demand": null,
   "demand_checked": "2026-10-28"
  },
@@ -2069,7 +2280,6 @@
   "description": "The second night of his first Christmas comedy tour — jokes, stories, art and live music around a live holiday album, and clean enough to bring the family, in a Gowanus room with a Christmas tree up.",
   "tier": "special",
   "featured": false,
-  "verification_note": "Date, 7pm time and the Bell House venue from the Live Nation mirror of the Ticketmaster event page (the Ticketmaster page itself is CAPTCHA-gated). The tour's shape, the live Christmas album, the live music and the clean bill come from the comic's own site, demetrimartin.com, which lists The Bell House on Dec 4 and Dec 5. The poster is the same official tour art as the Dec 4 date.",
   "poster": {
    "src": "/assets/posters/demetri-martin-bell-house-2026-12-04.jpg",
    "width": 2048,
@@ -2080,7 +2290,8 @@
    "kind": "dated event flyer"
   },
   "demand": null,
-  "demand_checked": "2026-10-28"
+  "demand_checked": "2026-10-28",
+  "verification_note": "Date, 7pm time and the Bell House venue from the Live Nation mirror of the Ticketmaster event page (the Ticketmaster page itself is CAPTCHA-gated). The tour's shape, the live Christmas album, the live music and the clean bill come from the comic's own site, demetrimartin.com, which lists The Bell House on Dec 4 and Dec 5. The poster is the same official tour art as the Dec 4 date."
  },
  {
   "id": "speakeasy-saturday-night-st-marks-2026-12-05",
@@ -2138,6 +2349,96 @@
    "credit": "Artwork: Eastville Comedy Club / show organizer",
    "alt": "Simeon Goodson Back in Brooklyn! Live Album Recording at Eastville Comedy Club — December 6, 2026 promotional artwork.",
    "kind": "dated event flyer"
+  },
+  "demand": null,
+  "demand_checked": "2026-10-28"
+ },
+ {
+  "id": "alyce-chan-nycc-2026-12-08",
+  "title": "Alyce Chan",
+  "date": "2026-12-08",
+  "starts_at": "2026-12-08T19:30:00-05:00",
+  "ends_at": "2026-12-08T21:00:00-05:00",
+  "end_time_confirmed": false,
+  "time_label": "7:30pm",
+  "venue": "New York Comedy Club (Upper West Side)",
+  "neighborhood": "Upper West Side",
+  "price_amount": 30.85,
+  "price_label": "$30.85 GA ($25 + $5.85 fee)",
+  "ticket_url": "https://newyorkcomedyclub.com/events/alyce-chan-2026-12-08193000",
+  "source_url": "https://newyorkcomedyclub.com/events/alyce-chan-2026-12-08193000",
+  "verified_at": "2026-10-28",
+  "description": "The creator of the 'If Adults Acted Like Kids' series takes the Upper West Side room with her dry, honest writing about immigrant upbringing, marriage and midlife — the room where she sold out a 500-seat headline show in California.",
+  "tier": "special",
+  "featured": false,
+  "poster": {
+   "src": "/assets/posters/alyce-chan-nycc-2026-12-08.jpg",
+   "width": 768,
+   "height": 660,
+   "source_url": "https://newyorkcomedyclub.com/events/alyce-chan-2026-12-08193000",
+   "credit": "Artwork: New York Comedy Club",
+   "alt": "Alyce Chan at New York Comedy Club — the club's artwork, her photo under the words NEW YORK CITY / ALYCE CHAN.",
+   "kind": "performer headshot from the event page"
+  },
+  "demand": null,
+  "demand_checked": "2026-10-28"
+ },
+ {
+  "id": "punderdrome-littlefield-2026-12-08",
+  "title": "PUNDERDOME: NYC's Comedy PUN-SLAM Competition",
+  "date": "2026-12-08",
+  "starts_at": "2026-12-08T20:00:00-05:00",
+  "ends_at": "2026-12-08T22:30:00-05:00",
+  "end_time_confirmed": true,
+  "time_label": "8pm · doors 7pm",
+  "venue": "Littlefield",
+  "neighborhood": "Gowanus",
+  "price_amount": 14.86,
+  "price_label": "From $14.86 (early bird)",
+  "ticket_url": "https://littlefieldnyc.com/event/?wfea_eb_id=2003588724811",
+  "source_url": "https://littlefieldnyc.com/event/?wfea_eb_id=2003588724811",
+  "verified_at": "2026-10-28",
+  "description": "Punsters get two minutes of preparation and two minutes on stage, and the room decides the winner with a calibrated clap-o-meter — fifteen years of New York tradition, and the loudest night in Gowanus while it lasts.",
+  "tier": "special",
+  "featured": false,
+  "poster": {
+   "src": "/assets/posters/punderdrome-littlefield-2026-12-08.jpg",
+   "width": 1880,
+   "height": 1255,
+   "source_url": "https://littlefieldnyc.com/event/?wfea_eb_id=2003588724811",
+   "credit": "Artwork: Littlefield / PUNDERDOME",
+   "alt": "PUNDERDOME at Littlefield — the pun competition's own show photography.",
+   "kind": "undated official promotional artwork"
+  },
+  "demand": null,
+  "demand_checked": "2026-10-28"
+ },
+ {
+  "id": "not-ripe-bananas-wscc-2026-12-08",
+  "title": "Not Ripe Bananas",
+  "date": "2026-12-08",
+  "starts_at": "2026-12-08T20:00:00-05:00",
+  "ends_at": "2026-12-08T21:30:00-05:00",
+  "end_time_confirmed": false,
+  "time_label": "8pm",
+  "venue": "West Side Comedy Club",
+  "neighborhood": "Upper West Side",
+  "price_amount": 0,
+  "price_label": "Free (no cover, no drink or food minimum, per the club page)",
+  "ticket_url": "https://punchup.live/show/904e34af-5eef-45cf-af7e-61a4f0d75406",
+  "source_url": "https://www.westsidecomedyclub.com/shows/not-ripe-bananas",
+  "verified_at": "2026-10-28",
+  "description": "The West Side room's weekly Tuesday workshop is still running through December — comics working out unfinished material for free, no cover and no minimum, which is the easiest way to find out who is working on something.",
+  "tier": "special",
+  "featured": false,
+  "poster": {
+   "src": "/assets/posters/not-ripe-bananas-wscc-2026-12-08.webp",
+   "width": 792,
+   "height": 660,
+   "source_url": "https://www.westsidecomedyclub.com/shows/not-ripe-bananas",
+   "credit": "Artwork: West Side Comedy Club",
+   "alt": "Not Ripe Bananas at West Side Comedy Club — the club's weekly card, which says EVERY TUESDAY and names no calendar date.",
+   "kind": "undated official show artwork"
   },
   "demand": null,
   "demand_checked": "2026-10-28"

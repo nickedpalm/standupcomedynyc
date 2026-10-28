@@ -1,91 +1,88 @@
 {
- "generated_at": "2026-10-27T12:02:51.183Z",
- "performers_considered": 36,
+ "generated_at": "2026-10-28T14:51:16.163Z",
+ "performers_considered": 41,
  "shortlist": [
   {
    "name": "Fahim Anwar",
    "priority": 105
   },
   {
+   "name": "Andrew Dismukes",
+   "priority": 50
+  },
+  {
+   "name": "Michael Good",
+   "priority": 50
+  },
+  {
+   "name": "Joanne McNally",
+   "priority": 50
+  },
+  {
+   "name": "Daniel Sloss",
+   "priority": 50
+  },
+  {
    "name": "Ania Magliano",
    "priority": 40
   },
   {
-   "name": "Ruby Setnik",
+   "name": "Nasser Al-Rayess",
    "priority": 35
-  },
-  {
-   "name": "Joanne McNally",
-   "priority": 35
-  },
-  {
-   "name": "Jaboukie Young-White",
-   "priority": 35
-  },
-  {
-   "name": "Mark Simmons",
-   "priority": 30
   },
   {
    "name": "Laughing Lassi",
    "priority": 30
   },
   {
-   "name": "Sam Tallent",
-   "priority": 25
+   "name": "Kevin McDonald",
+   "priority": 30
   },
   {
-   "name": "Adam Ray",
-   "priority": 25
-  },
-  {
-   "name": "Daniel Sloss",
-   "priority": 25
+   "name": "Ilana Glazer",
+   "priority": 30
   }
  ],
- "run": [
-  {
-   "name": "Laughing Lassi",
-   "priority": 30,
-   "next": {
-    "id": "laughing-lassi-broadway-comedy-club-2026-10-30",
-    "date": "2026-10-30",
-    "venue": "Broadway Comedy Club",
-    "days": 3,
-    "featured": false,
-    "poster": false,
-    "demand": null
-   },
-   "cheap_signals": [],
-   "reason": "show within 3 days and not yet decided"
-  },
-  {
-   "name": "Adam Ray",
-   "priority": 25,
-   "next": {
-    "id": "nycf-adam-ray-gramercy-2026-11-06",
-    "date": "2026-11-06",
-    "venue": "Gramercy Theatre",
-    "days": 10,
-    "featured": false,
-    "poster": false,
-    "demand": null
-   },
-   "cheap_signals": [
-    "Wikipedia: 379 views a day"
-   ],
-   "reason": "in the decision window and not yet decided"
-  }
- ],
+ "run": [],
  "reuse": [
   {
    "name": "Fahim Anwar",
    "priority": 105,
    "cached": {
     "at": "2026-10-26T13:22:16.706Z",
-    "age_days": 0.9,
+    "age_days": 2.1,
     "fresh": true,
     "note": "Four Reddit threads in 30 days, none about the comic: a Kill Tony episode complaint, a r/Goldpilltalk clip, a dating-skills thread and a Victoria BC show. No New York signal; his Bell House Nov 20 date is sold out anyway."
+   }
+  },
+  {
+   "name": "Andrew Dismukes",
+   "priority": 50,
+   "cached": {
+    "at": "2026-10-28T12:19:03.974Z",
+    "age_days": 0.1,
+    "fresh": true,
+    "note": "Three Reddit threads in 30 days, none about the Union Hall date: a 405-upvote r/LiveFromNewYork post praising his Sam I Am on SNL (Oct 12) and a 764-upvote clip of him improvising with Carl Tart at The Ultimate Improv Show; Hacker News returned two Andrew Ng AI stories and an Andrew Kelley video. The buzz is real but about his TV and improv work, not the show, so the pick stands on the Union Hall page."
+   }
+  },
+  {
+   "name": "Michael Good",
+   "priority": 50,
+   "cached": {
+    "at": "2026-10-28T12:20:56.031Z",
+    "age_days": 0.1,
+    "fresh": true,
+    "note": "Nothing about the comic: Reddit returned ten threads and 42,000 upvotes about Michael Bay, Michael Jordan, Michael Jackson and Michael Penix, and Hacker News an economics Nobel, with no mention of the comedian, Steve Martin Presents or the Union Hall date. The pick stands on the event page and the room's own lineup."
+   }
+  },
+  {
+   "name": "Joanne McNally",
+   "priority": 50,
+   "cached": {
+    "at": "2026-10-26T13:22:16.736Z",
+    "age_days": 2.1,
+    "fresh": true,
+    "note": "Heavy signal but all of it is the Tonight Show debut and the McGregor boycott refusal, not the New York show: a 760-upvote r/entertainment thread on Oct 21 plus a 273-upvote r/ireland thread and a 125-upvote 'proud day for the parish' thread Oct 20. The Town Hall Nov 7 Pinotphile taping is what a reader can act on."
    }
   },
   {
@@ -93,75 +90,70 @@
    "priority": 40,
    "cached": {
     "at": "2026-10-22T11:20:34.073Z",
-    "age_days": 5,
+    "age_days": 6.1,
     "fresh": true,
     "note": "The loudest signal on the board right now: a 9,974-upvote r/Fauxmoi thread on Oct 17 plus heavy r/SNLbabes and LiveFrom chatter on her Taskmaster season, which is why the Bell House Dec 2 Peach Fuzz date is worth a board slot two months out."
    }
   },
   {
-   "name": "Ruby Setnik",
+   "name": "Nasser Al-Rayess",
    "priority": 35,
    "cached": {
-    "at": "2026-10-22T11:18:59.737Z",
-    "age_days": 5,
+    "at": "2026-10-23T11:15:47.799Z",
+    "age_days": 5.1,
     "fresh": true,
-    "note": "Two small Reddit threads, one her own subreddit and one in r/FemaleStandupComedy, with no heat on the Bell House Tuesday; the Hacker News hits are all about the Ruby programming language."
+    "note": "Nothing usable in 30 days from Reddit or Hacker News, so the Town Hall Oct 31 pick stands on the venue's own event page and his own writing rather than any current buzz."
    }
   },
   {
-   "name": "Joanne McNally",
-   "priority": 35,
-   "cached": {
-    "at": "2026-10-26T13:22:16.736Z",
-    "age_days": 0.9,
-    "fresh": true,
-    "note": "Heavy signal but all of it is the Tonight Show debut and the McGregor boycott refusal, not the New York show: a 760-upvote r/entertainment thread on Oct 21 plus a 273-upvote r/ireland thread and a 125-upvote 'proud day for the parish' thread Oct 20. The Town Hall Nov 7 Pinotphile taping is what a reader can act on."
-   }
-  },
-  {
-   "name": "Jaboukie Young-White",
-   "priority": 35,
-   "cached": {
-    "at": "2026-10-26T13:22:16.765Z",
-    "age_days": 0.9,
-    "fresh": true,
-    "note": "Zero usable items. Reddit returned Boston weekend guides and a ticket-sale post; no comedy coverage. His Bell House Nov 17 date has no recent signal, so do not call him a buzz pick."
-   }
-  },
-  {
-   "name": "Mark Simmons",
+   "name": "Laughing Lassi",
    "priority": 30,
    "cached": {
-    "at": "2026-10-24T12:22:00.509Z",
-    "age_days": 3,
+    "at": "2026-10-27T12:55:53.401Z",
+    "age_days": 1.1,
     "fresh": true,
-    "note": "Ten items in 30 days and not one is about the comic: Reddit returned Bill Simmons, a Zappa bassist named Jeff Simmons and a Simmons Hardware lantern thread, while the four Hacker News hits are unrelated — no signal at all on his new material or the SoHo Playhouse hour, so the Jest to Impress pick stands on the show's own page."
+    "note": "One Reddit thread in 30 days and it is not about the show: a r/TheRiseandFallIndia post about a character named Lassi, 62 points. Hacker News returned nothing. No recent signal on the Broadway Comedy Club show itself, so it stands on the room's own listing."
    }
   },
   {
-   "name": "Sam Tallent",
-   "priority": 25,
+   "name": "Kevin McDonald",
+   "priority": 30,
    "cached": {
-    "at": "2026-10-26T11:19:50.262Z",
-    "age_days": 1,
+    "at": "2026-10-28T12:23:09.007Z",
+    "age_days": 0.1,
     "fresh": true,
-    "note": "Ten Reddit threads in 30 days, most of them about his new book Brut (a 132-upvote r/JeselnikBookClub discussion and a 39-upvote r/AllFantasyEverything thread), plus r/Killtony naming him the best guest of the show and a fresh Chubby Behemoth episode on Oct 25 — the book's release is the real story and it is worth the Bell House Thursday slot."
+    "note": "One relevant thread in 30 days: a 554-upvote r/SaveTheCBC post marking 38 years since The Kids in the Hall premiered on CBC, naming him in the cast (Oct 16). Hacker News was eight Kevin Bacon stories and Reddit an A-League match thread, so there is no New York signal on the Union Hall date — the pick stands on the show's own page and his Kids in the Hall and new album credits."
    }
   }
  ],
  "skip": [
   {
    "name": "Daniel Sloss",
-   "priority": 25,
-   "reason": "next show in 18 days, outside the 10-day window"
+   "priority": 50,
+   "reason": "next show in 17 days, outside the 10-day window"
   },
   {
-   "name": "Nasser Al-Rayess",
-   "priority": 20,
+   "name": "Ilana Glazer",
+   "priority": 30,
+   "reason": "next show in 16 days, outside the 10-day window"
+  },
+  {
+   "name": "Sam Tallent",
+   "priority": 25,
+   "reason": "outside the top 10 by cheap ranking"
+  },
+  {
+   "name": "Adam Ray",
+   "priority": 25,
    "reason": "outside the top 10 by cheap ranking"
   },
   {
    "name": "Sam Oh",
+   "priority": 20,
+   "reason": "outside the top 10 by cheap ranking"
+  },
+  {
+   "name": "Infamous Ray",
    "priority": 20,
    "reason": "outside the top 10 by cheap ranking"
   },
@@ -181,7 +173,17 @@
    "reason": "outside the top 10 by cheap ranking"
   },
   {
-   "name": "Ilana Glazer",
+   "name": "Dewayne Perkins",
+   "priority": 20,
+   "reason": "outside the top 10 by cheap ranking"
+  },
+  {
+   "name": "Jessica Kirson",
+   "priority": 20,
+   "reason": "outside the top 10 by cheap ranking"
+  },
+  {
+   "name": "Jaboukie Young-White",
    "priority": 20,
    "reason": "outside the top 10 by cheap ranking"
   },
@@ -191,12 +193,17 @@
    "reason": "outside the top 10 by cheap ranking"
   },
   {
+   "name": "Halloween Spooktackular",
+   "priority": 20,
+   "reason": "outside the top 10 by cheap ranking"
+  },
+  {
    "name": "Difficult People",
    "priority": 15,
    "reason": "outside the top 10 by cheap ranking"
   },
   {
-   "name": "Jessica Kirson",
+   "name": "Matthew Broussard",
    "priority": 15,
    "reason": "outside the top 10 by cheap ranking"
   },
@@ -216,6 +223,11 @@
    "reason": "outside the top 10 by cheap ranking"
   },
   {
+   "name": "Jordan Jensen",
+   "priority": 10,
+   "reason": "outside the top 10 by cheap ranking"
+  },
+  {
    "name": "Jess Hilarious",
    "priority": 10,
    "reason": "outside the top 10 by cheap ranking"
@@ -231,7 +243,7 @@
    "reason": "outside the top 10 by cheap ranking"
   },
   {
-   "name": "Matthew Broussard",
+   "name": "Mojo Brookzz",
    "priority": 5,
    "reason": "outside the top 10 by cheap ranking"
   },
@@ -251,7 +263,17 @@
    "reason": "outside the top 10 by cheap ranking"
   },
   {
-   "name": "Halloween Spooktackular",
+   "name": "Simeon Goodson",
+   "priority": 5,
+   "reason": "outside the top 10 by cheap ranking"
+  },
+  {
+   "name": "Alyce Chan",
+   "priority": 5,
+   "reason": "outside the top 10 by cheap ranking"
+  },
+  {
+   "name": "Hillbilly Allegedly",
    "priority": 5,
    "reason": "outside the top 10 by cheap ranking"
   },
@@ -266,29 +288,12 @@
    "reason": "outside the top 10 by cheap ranking"
   },
   {
-   "name": "Dewayne Perkins",
-   "priority": 0,
-   "reason": "outside the top 10 by cheap ranking"
-  },
-  {
-   "name": "Jordan Jensen",
-   "priority": 0,
-   "reason": "outside the top 10 by cheap ranking"
-  },
-  {
    "name": "Dropout Improv",
-   "priority": 0,
-   "reason": "outside the top 10 by cheap ranking"
-  },
-  {
-   "name": "Mojo Brookzz",
    "priority": 0,
    "reason": "outside the top 10 by cheap ranking"
   }
  ],
- "estimated_tokens_saved": 306000,
- "estimate_basis": "9000 tokens per last30days run, 34 runs avoided out of 36",
- "no_recent_data": [
-  "Laughing Lassi"
- ]
+ "estimated_tokens_saved": 369000,
+ "estimate_basis": "9000 tokens per last30days run, 41 runs avoided out of 41",
+ "no_recent_data": []
 }

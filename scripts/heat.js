@@ -25,6 +25,22 @@ const ebId = (u) => ((String(u || '').match(/tickets-(\d+)|wfea_eb_id=(\d+)/) ||
 const NOT_A_NAME = /\b(comedy|show|night|live|club|architecture|game|party|hour|tour|special|presents|festival|showcase|open|mic|the|an|a|of|and|with|in|at|for|from|to|vs|trivia|taping|drinking|fun|looking|laugh|laughs|whine|list|bisque|charity|obey|advance|fun|moderation|invisible|jokes|jranks|backroom|wits|end|stand|up|sorry|here|fix|laff|spell|checc|voices|cabaret|interview|experts|watch|dating|story|facts|machine|major|just)\b/i;
 const performer = (title) => { const t = String(title || ''); const m = t.match(/^([A-Z][a-z]+(?: [A-Z][a-zA-Z'’.-]+){1,2})(?::| Live| Presents| Headlines|$)/); if (!m) return null; const name = m[1]; return NOT_A_NAME.test(name) ? null : name; };
 
+// A title can name a brand before "Presents with" and put the actual performers after it
+// ("Steve Martin Presents with Andrew Dismukes and Michael Good"). The brand is not on the bill,
+// so credit the hosts instead of the brand. Mirrors the same fix in research-plan.js.
+const HOSTED_WITH = /^.+?\bPresents with\s+(.+)$/;
+const performers = (title) => {
+  const hosted = String(title || '').trim().match(HOSTED_WITH);
+  if (hosted) {
+    return hosted[1]
+      .split(/\s+(?:and|with|w\/|&)\s+/i)
+      .map((s) => s.trim())
+      .filter((s) => s && s.length <= 40 && !NOT_A_NAME.test(s));
+  }
+  const name = performer(title);
+  return name ? [name] : [];
+};
+
 // Eventbrite shows can be listed under a vanity domain (e.g. silverman_ip.eventbrite.com) instead of
 // the canonical /e/ path, so resolve the vanity URL to its event id before deciding we cannot read it.
 const ebIdCache = new Map();
@@ -123,11 +139,14 @@ async function wikipedia(name) {
     for (const q of picks) pickIds.set(q.id, await eventbriteEventId(q.ticket_url || q.source_url));
     const sameDay = [...picks.filter((q) => q.id !== p.id && q.venue === p.venue && q.date === p.date && norm(q.title) === key), ...leads.filter((l) => l.venue === p.venue && l.date === p.date && norm(l.title) === key && ebId(l.url) !== myId && ![...pickIds.values()].includes(ebId(l.url)))];
     if (sameDay.length) { score += 25; reasons.push('a second show the same night at the same room'); }
-    const name = performer(p.title);
-    const bookings = name ? [...picks.filter((q) => norm(q.title).includes(name.toLowerCase())), ...leads.filter((l) => norm(l.title).includes(name.toLowerCase()))].length : 0;
+    // Every performer the title actually names, so "Steve Martin Presents with Andrew Dismukes
+    // and Michael Good" is scored on Dismukes and Good, not on the brand in front.
+    const names = performers(p.title);
+    const name = names[0] || null;
+    const bookings = names.length ? [...picks.filter((q) => names.some((n) => norm(q.title).includes(n.toLowerCase()))), ...leads.filter((l) => names.some((n) => norm(l.title).includes(n.toLowerCase())))].length : 0;
     if (bookings >= 3) { score += 10; reasons.push(`${bookings} listings this month`); }
     let wiki = null;
-    if (name) { if (!wikiCache.has(name)) { wikiCache.set(name, await wikipedia(name)); await sleep(300); } wiki = wikiCache.get(name); }
+    for (const n of names) { if (!wikiCache.has(n)) { wikiCache.set(n, await wikipedia(n)); await sleep(300); } const w = wikiCache.get(n); if (w && !wiki) wiki = w; }
     if (wiki) { const perDay = wiki.views_30d / 30; if (perDay >= 1000) { score += 20; reasons.push(`Wikipedia: ${Math.round(perDay)} views a day`); } else if (perDay >= 200) { score += 10; reasons.push(`Wikipedia: ${Math.round(perDay)} views a day`); } if (wiki.change !== null && wiki.change >= 50) { score += 15; reasons.push(`Wikipedia views up ${wiki.change}% over the prior month`); } }
     let reddit = null;
     if (name && process.env.REDDIT_CLIENT_ID) { try { reddit = await buzz(name); await sleep(1100); } catch (e) { reddit = { error: e.message }; } }

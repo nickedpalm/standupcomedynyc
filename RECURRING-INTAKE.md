@@ -788,3 +788,21 @@ The factual correction to the Novak blurb was the day's data fix — "Get to Be 
   lineup, nothing announced ahead. The room's own site describes itself as "Live Jazz in
   Prospect Lefferts Gardens", which is where the neighborhood comes from. The producer's
   Eventbrite organizer page is registered against the venue, so the lead feed covers it.
+
+## October 28, 2026 - Eastville's Brooklyn Power Hour is back on Fridays, and the $3 Monday stays off
+
+- **Brooklyn Power Hour** - Eastville Comedy Club, 487 Atlantic Ave, Boerum Hill. The room's
+  own show page (eastvillecomedy.com/shows/brooklyn-power-hour) lists the Monday 7:30pm run
+  through Nov 30 and then Fridays at 6pm from Dec 4, with "Join us every Friday at 6 PM" in
+  the description and a calendar that goes out to next June. The rail carries the Monday hour,
+  because that is the next one out; the December Friday dates go on the board as dated picks,
+  where the $25 GA price ($28.13 with the service fee) and the two-drink minimum sit. The rail
+  row's old "moved off Fridays this fall to Monday" wording was a description of the fall run
+  only, so it is replaced with "Every Monday through November 30".
+- **St. Marks `$3 Monday Night StandUp Show`** - re-checked for Dec 7 and still left off. The
+  show page carries a real price ($3 for entry: $1 ticket plus $2 service plus tax), a real
+  time (7:30pm, doors 7pm) and a 2-drink minimum, but it names no performers - the only
+  "Featured Comedians" block on the page is the room's site-wide widget, identical on every
+  show page, so it says nothing about this night. Our standing decision from the earlier
+  intake holds: a discount night with no bill does not go on the board, and it does not go on
+  the rail either.

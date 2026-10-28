@@ -212,7 +212,7 @@
   "id": "brooklyn-power-hour-eastville",
   "tier": "recurring",
   "title": "Brooklyn Power Hour",
-  "cadence": "Every Monday",
+  "cadence": "Every Monday through November 30",
   "weekday": 1,
   "time_label": "7:30pm",
   "venue": "Eastville Comedy Club",
@@ -221,11 +221,11 @@
   "price_label": "From $10",
   "price_amount": 10,
   "format": "Stand-up",
-  "description": "Eastville's four-host rotating showcase, moved off Fridays this fall to Monday at 7:30pm — same early-format lineup, same two-drink minimum, still a working-night-friendly hour.",
-  "source_url": "https://www.eastvillecomedy.com/calendar",
-  "source_label": "Eastville calendar",
-  "verified_at": "2026-10-11",
-  "verification_note": "Eastville calendar now lists Brooklyn Power Hour on Mondays at 7:30pm with the banner \"NOW ON A NEW NIGHT\" (Mon Oct 5, Mon Oct 12). Old Friday 6pm series retired; the per-show pages for the September Friday dates 404."
+  "description": "Eastville's four-host rotating showcase \u2014 Mondays at 7:30pm through November, then back to Fridays at 6pm from December, same early-format lineup and same two-drink minimum.",
+  "source_url": "https://www.eastvillecomedy.com/shows/brooklyn-power-hour",
+  "source_label": "Eastville show page",
+  "verified_at": "2026-10-28",
+  "verification_note": "The room's own show page lists the Monday 7:30pm run through Nov 30 and then Fridays at 6pm from Dec 4 onward, with \"Join us every Friday at 6 PM\" in the description. The rail carries the Monday hour because that is the next one out; the December Friday dates go on the board as dated picks, where the $25 price and the 2-drink minimum sit."
  },
  {
   "id": "grove-comedy-grove-34",

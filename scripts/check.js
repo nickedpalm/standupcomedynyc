@@ -102,12 +102,20 @@ const venueCheck = (file, rows) => rows.forEach((r) => {
 venueCheck('picks', picks); venueCheck('recurring', readJson('recurring.json')); venueCheck('open-mics', readJson('open-mics.json'));
 
 // Editorial hold-outs: a held-out name must not appear in any listing.
+// venues.json and links.json are served publicly from /data/, so a held-out name in a venue
+// access_note or a link label is readable on the live site even when no listing carries it.
 try {
   const holds = JSON.parse(fs.readFileSync(path.join(root, 'editorial', 'holdouts.json'), 'utf8')).holdouts || [];
-  const rows = [...picks.map((r) => ['picks', r]), ...readJson('recurring.json').map((r) => ['recurring', r]), ...readJson('open-mics.json').map((r) => ['open-mics', r]), ...readJson('clubs.json').map((r) => ['clubs', r])];
+  // links.json is an object, not an array, so it cannot go through readJson().
+  let linkRows = [];
+  try {
+    const links = JSON.parse(fs.readFileSync(path.join(web, 'data', 'links.json'), 'utf8'));
+    linkRows = Array.isArray(links.links) ? links.links : [];
+  } catch (err) { fail(`links.json: ${err.message}`); }
+  const rows = [...picks.map((r) => ['picks', r]), ...readJson('recurring.json').map((r) => ['recurring', r]), ...readJson('open-mics.json').map((r) => ['open-mics', r]), ...readJson('clubs.json').map((r) => ['clubs', r]), ...readJson('venues.json').map((r) => ['venues', r]), ...linkRows.map((r) => ['links', r])];
   for (const h of holds) {
     const re = new RegExp('\\b' + String(h.name).replace(/[.*+?^${}()|[\]\\]/g, '\\$&') + '\\b', 'i');
-    rows.forEach(([file, r]) => { if (re.test([r.title, r.name, r.description, r.notes, r.character].filter(Boolean).join(' '))) fail(`${file} ${r.id}: names a held-out act (${h.name}); see editorial/EDITORIAL-POLICY.md`); });
+    rows.forEach(([file, r]) => { if (re.test([r.title, r.name, r.description, r.notes, r.character, r.access_note, r.note, r.label].filter(Boolean).join(' '))) fail(`${file} ${r.id || r.name}: names a held-out act (${h.name}); see editorial/EDITORIAL-POLICY.md`); });
   }
 } catch (err) { fail(`editorial/holdouts.json: ${err.message}`); }
 

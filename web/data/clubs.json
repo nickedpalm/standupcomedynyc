@@ -318,5 +318,25 @@
   "source_label": "Hours & Location page (club site, archived copy)",
   "verified_at": "2026-10-27",
   "verification_note": "The club’s live site currently resolves to a BentoBox placeholder page, so the details were read from Internet Archive captures of the club’s own pages in May 2026: 167 Bleecker Street, a two-item purchase minimum on every show, open mics every day at 4pm and 6pm, three rooms on the Rooms page, and $20 tickets for the regular 8pm and 10pm shows."
+ },
+ {
+  "id": "greenpoint-comedy-club",
+  "tier": "club",
+  "name": "Greenpoint Comedy Club",
+  "rooms": "Comedy club and bar at 66 Greenpoint Ave",
+  "address": "66 Greenpoint Ave, Brooklyn",
+  "neighborhood": "Greenpoint",
+  "price_label": "From $25 for showcase shows",
+  "price_low": 25,
+  "price_high": null,
+  "minimum": "One item per person on showcase shows",
+  "age": "21+ for all shows unless the listing says otherwise",
+  "reservations": "Tickets through the room's Punchup page; lineups drop on @greenpointcomedyclub",
+  "character": "A comedy club and bar in Greenpoint founded by the comedian Jeremy Pinsly, running nightly showcases with a weeknight-neighborhood feel.",
+  "calendar_url": "https://punchup.live/venue/greenpointcomedyclub",
+  "source_url": "https://punchup.live/venue/greenpointcomedyclub/shows/the-friday-showcase",
+  "source_label": "Venue listing on its ticketing partner (Punchup)",
+  "verified_at": "2026-10-28",
+  "verification_note": "Price, one-item minimum, the 21+ rule and the Tuesday-to-Sunday opening hours come from the room's own listing on Punchup, its ticketing partner, which also gives the 66 Greenpoint Ave address. The club's Squarespace site links out to Punchup for tickets and has no policy page of its own."
  }
 ]

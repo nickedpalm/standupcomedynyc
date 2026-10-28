@@ -338,3 +338,74 @@ went up; none of the dead run's findings were taken on trust.
 
 87 picks. Six weeks ahead: **18 / 17 / 13 / 16 / 12 / 11** — every week at or above the
 8-pick floor. `npm test` passes clean: 87 picks, 8 sitemap pages, 16 scripts, zero warnings.
+
+## October 28, 2026 — recovery of the stranded 11:00 edition
+
+The 11:00 edition cron hit its tool-iteration cap before it could commit, leaving 11 verified
+picks stranded in the working tree. Every source was re-opened and re-checked by hand before
+anything was published.
+
+### Picks added (10, all tier `special`, all verified today)
+
+| Date | Show | Room | Price |
+|---|---|---|---|
+| Oct 30 | Sup, Boo? with Alison Leiby and Josh Gondelman (10pm) | Union Hall | $15.92 |
+| Oct 30 | The Friday Showcase (8pm) | Greenpoint Comedy Club | From $25 |
+| Oct 31 | Hot Gossip with Jonathan van Halem (7:30pm) | Union Hall | $15.92 |
+| Nov 1 | Steve Martin Presents with Andrew Dismukes and Michael Good (5pm) | Union Hall | $15.92 |
+| Nov 1 | Kevin McDonald: My Stupid Career (7:30pm) | Union Hall | $35.99 |
+| Nov 3 | Infamous Ray (8pm) | The Stand | $30.75 |
+| Dec 4 | Brooklyn Power Hour (6pm) | Eastville Comedy Club | $28.13 GA |
+| Dec 8 | Alyce Chan (7:30pm) | New York Comedy Club (UWS) | $30.85 GA |
+| Dec 8 | PUNDERDOME: NYC's Comedy PUN-SLAM (8pm) | Littlefield | From $14.86 |
+| Dec 8 | Not Ripe Bananas (8pm) | West Side Comedy Club | Free |
+
+**Horizon:** six weeks ahead now 22 / 17 / 14 / 15 / 14 / 12 — every week at or above the
+8-pick floor. Dec 7 and Dec 8 were both bare before this run.
+
+**Also:** Greenpoint Comedy Club added to `clubs.json` (66 Greenpoint Ave, one-item minimum,
+21+, Tue-Sun 5pm-midnight) and its `venues.json` row repointed at the room's live Punchup
+calendar, which is where the show grid actually lives — the Squarespace site has no listings.
+
+### Corrections I made to the dead run's work
+
+- **Daylight saving time.** Every pick dated on or after Nov 1 was still carrying `-04:00`,
+  but America/New_York leaves EDT at 2am on Nov 1 2026. Seven picks were a full hour off
+  (Nov 1-5, including Steve Martin Presents on Nov 1). Offsets are now recomputed from the
+  zoneinfo database for every pick, so they are right by construction.
+- **Infamous Ray price.** Listed $25. The Stand's own Tixr page shows $30.75 ($25 + $5.75 fees).
+- **`$3 Monday Night StandUp Show` (St. Marks, Dec 7) removed.** The show page names no
+  performers, and RECURRING-INTAKE.md already ruled on this night: "the $3 entry is a discount
+  night with no bill." It stays off the board and off the rail. Its flyer and POSTER-SOURCES
+  record came off with it.
+- **Brooklyn Power Hour rail row.** The dead run set the rail to Friday 6pm from December, but
+  the room's own show page still lists the Monday 7:30pm run through Nov 30, and the rail
+  should carry the next one out. The rail row is back to "Every Monday through November 30,
+  7:30pm, From $10"; the December Fridays go on the board as dated picks, where the $25 price
+  and the 2-drink minimum belong.
+- **Artwork metadata.** Three posters were described as dated flyers but are not:
+  Greenpoint's Friday Showcase file is a photo of the room with the show name over it, so it is
+  now `venue photo`; the Eastville Brooklyn Power Hour file is the recurring "Fridays 6pm at
+  Eastville" card with no calendar date, so it is `undated official show artwork`; the
+  PUNDERDOME file is show photography with no Dec 8 on it, so it is `undated official
+  promotional artwork`. Alt text rewritten to match what the images actually show.
+- **`end_time_confirmed`** set true only where the source page prints the end time (the five
+  Eventbrite listings). The Stand, Greenpoint, Eastville, NYCC and WSCC pages print a start
+  time only, so those stay false.
+- **Sorting.** `picks.json` was left unsorted by the dead run; it is back to `starts_at`
+  ascending, which is the repo convention.
+
+### Fixed in the scripts
+
+- **`scripts/heat.js`** attributed "Steve Martin Presents with Andrew Dismukes and Michael Good"
+  to Steve Martin, so the heat score and the Wikipedia/Reddit lookups were reading his numbers
+  for a show he is not in — the Eventbrite page says so outright ("Okay, Steve Martin doesn't
+  present"). `heat.js` now uses the same "Presents with" parsing that `research-plan.js` had
+  already been given, and credits Dismukes and Good. The show now scores on its real hosts.
+- **`scripts/research-plan.js`** gained that "Presents with" parsing so the planner ranks the
+  hosts rather than the brand name.
+
+### Not published
+
+- **Stand-Up On The Spot** (NYCC, Dec 8, 10:30pm) — audience-improvised stand-up, which does
+  not fit a stand-up-first board. The artwork record was retired with it.

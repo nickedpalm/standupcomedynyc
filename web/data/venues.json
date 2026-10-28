@@ -264,10 +264,12 @@
   "address": "66 Greenpoint Ave, Brooklyn",
   "neighborhood": "Greenpoint",
   "borough": "Brooklyn",
-  "calendar_url": "https://www.greenpointcomedyclub.com/",
-  "source_label": "Venue home (Showtimes link in nav)",
-  "access_note": "Loads plainly; internal Showtimes/Mics subpages return 404, listings live on the home grid",
-  "verified_at": "2026-09-14"
+  "calendar_url": "https://punchup.live/venue/greenpointcomedyclub",
+  "source_label": "Venue site (tickets via Punchup)",
+  "access_note": "The Squarespace site loads plainly but has no show grid; the live calendar is the room's Punchup venue page.",
+  "verified_at": "2026-10-28",
+  "website": "https://www.greenpointcomedyclub.com/",
+  "note": "Greenpoint Comedy Club & Bar, 66 Greenpoint Ave, Brooklyn. Founded by comedian Jeremy Pinsly. Open Tuesday through Sunday, 5pm to midnight."
  },
  {
   "name": "Flop House Comedy",
@@ -1514,7 +1516,7 @@
   "calendar_url": "https://www.msg.com/madison-square-garden",
   "kind": "theater",
   "source_label": "MSG venue page",
-  "access_note": "MSG arena is registered separately from the smaller Infosys Theater at MSG. NYCF uses MSG for the Dave Chappelle Karmageddon show Nov 6.",
+  "access_note": "MSG arena is registered separately from the smaller Infosys Theater at MSG. The festival uses MSG for one of its Nov 6 shows.",
   "verified_at": "2026-09-15"
  },
  {

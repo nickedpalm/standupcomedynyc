@@ -1,5 +1,5 @@
 {
- "retrieved_at": "2026-10-27T11:01:42.092Z",
+ "retrieved_at": "2026-10-28T11:01:19.775Z",
  "note": "Leads from Eventbrite organizer pages of registered rooms. Open the event page before adding a pick; artwork needs a POSTER-SOURCES record.",
  "organizers": [
   {
@@ -37,85 +37,13 @@
   {
    "venue": "Oliver's Astoria",
    "organizer": "https://www.eventbrite.com/o/105511972661"
+  },
+  {
+   "venue": "Bar Bayeux",
+   "organizer": "https://www.eventbrite.com/o/67515401553"
   }
  ],
  "events": [
-  {
-   "venue": "Union Hall",
-   "neighborhood": "Park Slope",
-   "organizer": "https://www.eventbrite.com/o/union-hall-17899496497",
-   "title": "PRETTY  MAJOR Hosted by Jay Jurden",
-   "date": "2026-10-27",
-   "time": "7:30pm",
-   "starts_at": "2026-10-27T19:30:00-04:00",
-   "ends_at": "2026-10-27T21:00:00-04:00",
-   "location_name": "Union Hall",
-   "location_address": "702 Union St., Brooklyn, NY 11215, Brooklyn",
-   "price_from": 15.92,
-   "url": "https://www.eventbrite.com/e/pretty-major-hosted-by-jay-jurden-tickets-2001137905344",
-   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1127766923%2F282041210522%2F1%2Foriginal.20250918-031114?crop=focalpoint&fit=crop&w=940&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=947b2715fe8cfa0ac5ab18e8ce99319c",
-   "description": "PRETTY MAJOR - Tuesday, October 27 - 7:00pm Doors / 7:30pm Show",
-   "venue_name_matches": true,
-   "already_a_pick": false,
-   "seen_before": true
-  },
-  {
-   "venue": "Comic Strip Live",
-   "neighborhood": "Upper East Side",
-   "organizer": "https://www.eventbrite.com/o/comic-strip-live-comedy-club-8100188167",
-   "title": "Jim Mendrinos, Jason Choi, Nick Tilleli, Paul Mecurio, JJ Ramirez, & more!",
-   "date": "2026-10-27",
-   "time": "8pm",
-   "starts_at": "2026-10-27T20:00:00-04:00",
-   "ends_at": "2026-10-27",
-   "location_name": "Comic Strip Live",
-   "location_address": "1568 2nd Ave, New York, NY 10028, New York",
-   "price_from": 25.71,
-   "url": "https://www.eventbrite.com/e/jim-mendrinos-jason-choi-nick-tilleli-paul-mecurio-jj-ramirez-more-tickets-2002306966036",
-   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1194383331%2F136153380524%2F1%2Foriginal.20260925-190633?crop=focalpoint&fit=crop&w=940&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=16635807559465e84afba80301fb46b6",
-   "description": "Be part of history, celebrating 50 years of Comedy at the World Comic Strip! Comedians from, HBO, The Tonight Show, SNL & More ~",
-   "venue_name_matches": true,
-   "already_a_pick": false,
-   "seen_before": true
-  },
-  {
-   "venue": "Caveat",
-   "neighborhood": "Lower East Side",
-   "organizer": "https://www.eventbrite.com/o/caveat-13580085802",
-   "title": "Story-oke: Sing and Tell",
-   "date": "2026-10-27",
-   "time": "9:30pm",
-   "starts_at": "2026-10-27T21:30:00-04:00",
-   "ends_at": "2026-10-27T23:00:00-04:00",
-   "location_name": "Caveat",
-   "location_address": "21 A Clinton Street, New York, NY 10002, New York",
-   "price_from": 18.76,
-   "url": "https://www.eventbrite.com/e/story-oke-sing-and-tell-tickets-1998065884848",
-   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1196552193%2F207096185123%2F1%2Foriginal.20261025-193754?w=940&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C3024%2C1512&s=8d09d33b6cdeceef7c81c8e0f947d96e",
-   "description": "Part karaoke, part confessional. Share a story about a song… then sing the hell out of it.",
-   "venue_name_matches": true,
-   "already_a_pick": false,
-   "seen_before": true
-  },
-  {
-   "venue": "Union Hall",
-   "neighborhood": "Park Slope",
-   "organizer": "https://www.eventbrite.com/o/union-hall-17899496497",
-   "title": "GRETA TITELMAN JOURNALS",
-   "date": "2026-10-27",
-   "time": "10pm",
-   "starts_at": "2026-10-27T22:00:00-04:00",
-   "ends_at": "2026-10-27T23:30:00-04:00",
-   "location_name": "Union Hall",
-   "location_address": "702 Union St., Brooklyn, NY 11215, Brooklyn",
-   "price_from": 15.92,
-   "url": "https://www.eventbrite.com/e/greta-titelman-journals-tickets-2002951228041",
-   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1195089831%2F282041210522%2F1%2Foriginal.20261005-161032?crop=focalpoint&fit=crop&w=940&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=38a436c4d9a50a83dc3b008b41ca4813",
-   "description": "GRETA TITELMAN JOURNALS - Tuesday, October 27 - 9:30pm Doors / 10:00pm Show",
-   "venue_name_matches": true,
-   "already_a_pick": false,
-   "seen_before": true
-  },
   {
    "venue": "Caveat",
    "neighborhood": "Lower East Side",
@@ -592,6 +520,25 @@
    "seen_before": true
   },
   {
+   "venue": "Union Hall",
+   "neighborhood": "Park Slope",
+   "organizer": "https://www.eventbrite.com/o/union-hall-17899496497",
+   "title": "Steve Martin Presents with Andrew Dismukes and Michael Good",
+   "date": "2026-11-01",
+   "time": "5pm",
+   "starts_at": "2026-11-01T17:00:00-05:00",
+   "ends_at": "2026-11-01T18:30:00-05:00",
+   "location_name": "Union Hall",
+   "location_address": "702 Union St., Brooklyn, NY 11215, Brooklyn",
+   "price_from": 15.92,
+   "url": "https://www.eventbrite.com/e/steve-martin-presents-with-andrew-dismukes-and-michael-good-tickets-2003615876021",
+   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1196197569%2F282041210522%2F1%2Foriginal.20261020-153855?crop=focalpoint&fit=crop&w=940&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=02637d959181800000dd79f0ff1fd5bc",
+   "description": "Steve Martin Presents - Sunday, November 1 - 4:30pm Doors / 5:00pm Show",
+   "venue_name_matches": true,
+   "already_a_pick": false,
+   "seen_before": false
+  },
+  {
    "venue": "Caveat",
    "neighborhood": "Lower East Side",
    "organizer": "https://www.eventbrite.com/o/caveat-13580085802",
@@ -608,7 +555,7 @@
    "description": "Every week one of your favorite comedians interviews an expert on a topic they've always wanted to know more about.",
    "venue_name_matches": true,
    "already_a_pick": false,
-   "seen_before": false
+   "seen_before": true
   },
   {
    "venue": "Littlefield",
@@ -665,7 +612,7 @@
    "description": "20 people compete to see who has the best fact!",
    "venue_name_matches": true,
    "already_a_pick": false,
-   "seen_before": false
+   "seen_before": true
   },
   {
    "venue": "Comic Strip Live",
@@ -683,8 +630,27 @@
    "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1196471580%2F136153380524%2F1%2Foriginal.20261023-204146?crop=focalpoint&fit=crop&w=940&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=f6b033a5726064e69f9c714440f2a16b",
    "description": "Be part of history, celebrating 50 years of Comedy at the World Comic Strip! Comedians from, HBO, The Tonight Show, SNL & More ~",
    "venue_name_matches": true,
-   "already_a_pick": false,
+   "already_a_pick": true,
    "seen_before": true
+  },
+  {
+   "venue": "Caveat",
+   "neighborhood": "Lower East Side",
+   "organizer": "https://www.eventbrite.com/o/caveat-13580085802",
+   "title": "Hillbilly Allegedly: An Evening with the Vice President",
+   "date": "2026-11-02",
+   "time": "9:30pm",
+   "starts_at": "2026-11-02T21:30:00-05:00",
+   "ends_at": "2026-11-02T22:45:00-05:00",
+   "location_name": "Caveat",
+   "location_address": "21 A Clinton Street, New York, NY 10002, New York",
+   "price_from": 18.76,
+   "url": "https://www.eventbrite.com/e/hillbilly-allegedly-an-evening-with-the-vice-president-tickets-2000656116300",
+   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1193287753%2F207096185123%2F1%2Foriginal.20260911-192542?w=940&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C1000%2C500&s=b4e1ae641b290919ac47049636570a6b",
+   "description": "Comedian & JD Vance impersonator Dan Wilbur rewrites Vance's old wrongs and his old memoir in his own one-man show - the REAL story.",
+   "venue_name_matches": true,
+   "already_a_pick": false,
+   "seen_before": false
   },
   {
    "venue": "Littlefield",
@@ -809,13 +775,13 @@
    "time": "8pm",
    "starts_at": "2026-11-06T20:00:00-05:00",
    "ends_at": "2026-11-06",
-   "location_name": "littlefield",
-   "location_address": "635 Sackett Street, Brooklyn, NY 11217, Brooklyn",
+   "location_name": "TBD",
+   "location_address": null,
    "price_from": 29.5,
    "url": "https://www.eventbrite.com/e/ny-comedy-festival-presents-puteria-con-papirossa-celebration-of-life-tickets-1998383402552",
    "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1195219225%2F404652903161%2F1%2Foriginal.20261006-201533?crop=focalpoint&fit=crop&w=940&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.805&fp-y=0.49&s=81e71c05ab177a008a86928b5f8e0e44",
    "description": "Celebration of Life is the 8th installment in the Putería con PAPIROSSA series.",
-   "venue_name_matches": true,
+   "venue_name_matches": false,
    "already_a_pick": false,
    "seen_before": true
   },
@@ -854,8 +820,8 @@
    "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1196471787%2F136153380524%2F1%2Foriginal.20261023-204421?crop=focalpoint&fit=crop&w=940&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=4015cde2a6f396d52412971615f0d5a2",
    "description": "Be part of history, celebrating 50 years of Comedy at the World Comic Strip! Comedians from, HBO, The Tonight Show, SNL & More ~",
    "venue_name_matches": true,
-   "already_a_pick": false,
-   "seen_before": false
+   "already_a_pick": true,
+   "seen_before": true
   }
  ],
  "errors": []

@@ -26,7 +26,20 @@ if (arg('--record')) {
 }
 
 const NOT_A_NAME = /\b(comedy|show|night|live|club|architecture|game|party|hour|tour|special|presents|festival|showcase|open|mic|the|an|a|of|and|with|in|at|for|from|to|vs|trivia|taping|drinking|fun|looking|laugh|laughs|whine|list|bisque|charity|obey|advance|moderation|invisible|jokes|jranks|backroom|wits|end|stand|up|sorry|here|fix|laff|spell|checc|voices|cabaret|interview|experts|watch|dating|story|facts|machine|major|just|famous|words|charity|obey|advance|moderation|invisible|jokes|jranks|backroom|wits|end|stand|up|sorry|here|fix|laff|spell|checc|voices|cabaret|interview|experts|watch|dating|story|facts|machine|major|just|famous|words|dress|rehearsal|speakeasy|pizzazz|banana)\b/i;
-const performer = (title) => { const m = String(title || '').match(/^([A-Z][a-z]+(?: [A-Z][a-zA-Z'’.-]+){1,2})(?::| Live| Presents| Headlines|$)/); return m && !NOT_A_NAME.test(m[1]) ? m[1] : null; };
+// A title can name a brand before "Presents with" and put the actual performers after it
+// ("Steve Martin Presents with Andrew Dismukes and Michael Good"). Rank the hosts, not the brand.
+const performers = (title) => {
+  const t = String(title || '').trim();
+  const hosted = t.match(/^.+?\bPresents with\s+(.+)$/);
+  if (hosted) {
+    return hosted[1]
+      .split(/\s+(?:and|with|w\/|&)\s+/i)
+      .map((s) => s.trim())
+      .filter((s) => s && s.length <= 40 && !NOT_A_NAME.test(s));
+  }
+  const m = t.match(/^([A-Z][a-z]+(?: [A-Z][a-zA-Z'’.-]+){1,2})(?::| Live| Presents| Headlines|$)/);
+  return m && !NOT_A_NAME.test(m[1]) ? [m[1]] : [];
+};
 
 const picks = readJson(path.join(root, 'web', 'data', 'picks.json'), []).filter((p) => Date.parse(p.ends_at) > Date.now());
 const heat = new Map((readJson(cand('heat.json'), { picks: [] }).picks || []).map((h) => [h.id, h]));
@@ -35,14 +48,15 @@ const leads = (readJson(cand('eventbrite.json'), { events: [] }).events || []);
 // One row per performer, best (soonest) show first.
 const byName = new Map();
 for (const p of picks) {
-  const name = performer(p.title); if (!name) continue;
-  const h = heat.get(p.id) || {};
-  const row = byName.get(name) || { name, shows: [], cheap: 0, signals: [] };
-  row.shows.push({ id: p.id, date: p.date, venue: p.venue, days: days(p.date), featured: !!p.featured, poster: !!p.poster, demand: h.demand || null });
-  if ((h.heat || 0) > row.cheap) { row.cheap = h.heat || 0; row.signals = h.reasons || []; }
-  byName.set(name, row);
+  for (const name of performers(p.title)) {
+    const h = heat.get(p.id) || {};
+    const row = byName.get(name) || { name, shows: [], cheap: 0, signals: [] };
+    row.shows.push({ id: p.id, date: p.date, venue: p.venue, days: days(p.date), featured: !!p.featured, poster: !!p.poster, demand: h.demand || null });
+    if ((h.heat || 0) > row.cheap) { row.cheap = h.heat || 0; row.signals = h.reasons || []; }
+    byName.set(name, row);
+  }
 }
-for (const l of leads) { const name = performer(l.title); if (name && !byName.has(name)) byName.set(name, { name, shows: [{ id: null, date: l.date, venue: l.venue, days: days(l.date), lead: true }], cheap: 0, signals: ['Eventbrite lead only'] }); }
+for (const l of leads) { for (const name of performers(l.title)) { if (!byName.has(name)) byName.set(name, { name, shows: [{ id: null, date: l.date, venue: l.venue, days: days(l.date), lead: true }], cheap: 0, signals: ['Eventbrite lead only'] }); } }
 
 const rows = [...byName.values()].map((r) => {
   r.shows.sort((a, b) => a.days - b.days); const next = r.shows[0];
