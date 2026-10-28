@@ -1090,16 +1090,16 @@
  {
   "event_id": "clean-up-your-act-wscc-2026-10-28",
   "src": "/assets/posters/clean-up-your-act-wscc-2026-10-28.webp",
-  "width": 300,
-  "height": 426,
+  "width": 512,
+  "height": 640,
   "source_url": "https://www.westsidecomedyclub.com/shows/clean-up-your-act",
   "credit": "Artwork: West Side Comedy Club / show organizer",
-  "alt": "Clean Up Your Act promotional artwork.",
+  "alt": "Clean Up Your Act at West Side Comedy Club — the flyer for Wednesday, Oct 28, 2026, with six headshots and the 7:30pm start.",
   "kind": "dated event flyer",
-  "original_image_url": "https://storage.googleapis.com/partner-portal-storage/ticketing/others/6204D75DCA454BA8BF89527E04A99660pngfd396033-b9a9-49b6-a068-5ecd4dde8084.webp",
-  "retrieved_at": "2026-09-20",
-  "bytes": 112190,
-  "sha256": "0460c46fc2ba965c76cf54aa27db5df313113f0555c4e9ad09cb7d1efbb77bfb",
+  "original_image_url": "https://storage.googleapis.com/partner-portal-storage/ticketing/others/image0png4a5ea1ef-4df9-4c16-ae73-781a8782717c.webp",
+  "retrieved_at": "2026-10-28",
+  "bytes": 45644,
+  "sha256": "771ad612da6dd9813bb465d0b00217d1bc981d118e7d90bf9104c1dda4a57d9d",
   "reuse_status": "Official promotional artwork; no separate reuse license identified. Local review draft only."
  },
  {

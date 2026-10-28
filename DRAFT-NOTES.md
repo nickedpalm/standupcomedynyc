@@ -409,3 +409,49 @@ calendar, which is where the show grid actually lives — the Squarespace site h
 
 - **Stand-Up On The Spot** (NYCC, Dec 8, 10:30pm) — audience-improvised stand-up, which does
   not fit a stand-up-first board. The artwork record was retired with it.
+
+## October 28, 2026 — corrections found while rendering the Instagram cards
+
+The 19:00 card job turned up two wrong facts on picks that are on the board tonight. Both were
+fixed before anything was published, and both came from re-opening the source pages rather than
+from the data files.
+
+### Clean Up Your Act (West Side Comedy Club, tonight 7:30pm)
+
+- **The flyer we had was for the wrong night.** The stored file was the card for a **August 26**
+  show — six different comics, a "$20 COVER" line. The live ticket page (Tixologi, event 15037)
+  carries a different image, the one for **Wednesday, Oct 28, 2026**: Larry Beyah, Stephanie
+  Goldklang, Jeffrey Gurian, Kacey Lane Spivey, Harris Stanton and Mariel Jimenez. The old file
+  has been replaced with the one actually on the ticket page, and the poster record's source URL,
+  byte count and SHA-256 updated to match.
+- **The price was off because it was read off that stale flyer.** The board said "From $20".
+  The live checkout sells a single **General Admission at $17.60 including $2.60 of fees**
+  ($15 + $2.60). Price is now $17.60, `price_amount` 15, and `verified_at` moved to today.
+  The flyer still advertises "$20 cover", which is what the room prints on its own artwork —
+  the checkout price is what a reader pays, so that is what we list.
+- **The blurb now names the actual six comics** instead of describing the format generically.
+
+### The Stand Presents: Mark Normand (tonight 7pm)
+
+- **The blurb named a comic who is not on the bill.** It said "Sahib Singh". The room's own page
+  lists Mark Normand, Caitlin Peluffo, Matthew Broussard, Dan Ahdoot, Olivia Carter and Chris
+  Riggins. The blurb now names that bill.
+- **Price filled in from the ticketing page.** The pick carried "See ticket page for price".
+  Tixr sells General Admission at **$36.90 ($30 + $6.90 fees)**, so the price is now stated.
+  The pick also shows as "At Limit" on Tixr, which is not sold out, so it stays on the board.
+
+### Checked and left alone
+
+- **Pizzazz with Gary Gulman** (Union Hall, tonight 7:30pm) — Eventbrite confirms $19.26
+  including fees, tickets available, and the lineup and description match the page.
+- **All three of tonight's picks have tickets.** Pizzazz reads InStock on Eventbrite, Clean Up
+  Your Act sells at the Tixologi checkout, and the Stand's Mark Normand show is At Limit, not
+  sold out. None carries a `sold_out` tag and none needs one.
+
+### Also fixed in the artwork records
+
+Seven posters were filed as "dated event flyers" when the image prints no calendar date at all.
+Their `kind` and alt text now describe what the artwork actually is — a standing show card, a
+performer's photo, show photography or a headshot. The details are in POSTER-INTAKE.md. None of
+them is marked `reuse: granted`, so none appears on an Instagram card; this only makes the
+records honest for whoever reads them later.

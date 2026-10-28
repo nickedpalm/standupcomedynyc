@@ -72,12 +72,52 @@ records (source URL, credit, SHA-256, byte count, retrieval date, alt text).
 - **The Friday Showcase** (Greenpoint Comedy Club, Oct 30, 900x1200) - a photograph of the
   room with the show name set over it. It names neither a date nor the comics, so the record
   says "venue photo" and the alt text says so too.
-- **Not Ripe Bananas** (West Side Comedy Club, Dec 8, 792x660) - the room's weekly card.
-  It prints "EVERY TUESDAY" and names no calendar date, so the record says "undated
-  official show artwork" rather than "dated event flyer".
+- **Not Ripe Bananas** (West Side Comedy Club, Dec 8, 792x660) - the room's weekly card,
+  which prints the full run of Tuesdays including December 8, so it stays a dated event flyer.
 
 Reuse status is display-with-credit only for all of them. None are marked `reuse: granted`, so
 none appear on the Instagram cards.
 
 The `$3 Monday Night StandUp Show` flyer for St. Marks was taken down with the pick: the show
 did not make the board, so the artwork record had nothing to attach to.
+
+## October 28, 2026 - artwork labels corrected against the images themselves
+
+Every one of these files was opened and read before its `kind` and `alt` were changed. The
+problem was consistent: artwork was filed as a "dated event flyer" when the image prints no
+calendar date at all, and the alt text described a date that the file does not contain.
+
+- **Clean Up Your Act (Oct 28) - file replaced.** The stored flyer was the **Aug 26** card,
+  with a different lineup and a "$20 COVER" line. The live Tixologi ticket page
+  (event 15037) carries the Oct 28 flyer, which is the file now in
+  `web/assets/posters/clean-up-your-act-wscc-2026-10-28.webp` (512x640). The record's
+  `original_image_url`, `retrieved_at`, `bytes` and `sha256` were updated to match.
+  The old image is not archived; it was never the right show's flyer.
+- **Sup, Boo? with Alison Leiby and Josh Gondelman (Oct 30)** - show photography, not a flyer.
+  The image prints "SUP, BRO? / A COMEDY SHOW" over a stage shot and no date. `kind` is now
+  `show photography`.
+- **Hot Gossip with Jonathan van Halem (Oct 31)** - a performer holding cue cards that read
+  "HOT GOSSIP". No date printed anywhere, including the handwritten cards, which are
+  illegible at the file's native resolution. `kind` is now `performer photo from the event page`.
+- **Kevin McDonald: My Stupid Career (Nov 1)** - a photograph of Kevin McDonald, no text at all.
+  `kind` is now `performer photo from the event page`.
+- **Infamous Ray (Nov 3)** - The Stand's standing show card. It names the seven comics and
+  prints "FIRST TUESDAY OF THE MONTH | 8 PM", but no calendar date. `kind` is now
+  `undated official show artwork`.
+- **Alyce Chan (Dec 8)** - the club's own artwork for the show: a photograph of Alyce Chan
+  under the words "NEW YORK CITY / ALYCE CHAN". It prints no calendar date, so it is
+  `performer headshot from the event page`, not a dated flyer.
+- **Not Ripe Bananas (Dec 1 and Dec 8)** - the club's weekly card. It prints "EVERY TUESDAY"
+  and "Comics working out fresh material!" with no calendar date, so both records are now
+  `undated official show artwork` and neither alt text claims a December date. The two picks
+  share one source image, which is why they carry identical `sha256` values.
+- **Brooklyn Power Hour (Dec 4)** - "Fridays 6pm", no calendar date. Already labelled
+  `undated official show artwork`; left as it was.
+- **PUNDERDOME (Dec 8)** - show photography of the competition itself, with the Punderdome
+  arch, the clap-o-meter and the cardboard props. No December date printed anywhere in it,
+  including the props. Already labelled `undated official promotional artwork`; left as it was.
+- **The Friday Showcase (Greenpoint, Oct 30)** - a photograph of the room with the show name
+  over it. Already labelled `venue photo`; left as it was.
+
+None of these is marked `reuse: granted`, so none appears on an Instagram card. The changes
+make the records accurate for whoever reads them later.
