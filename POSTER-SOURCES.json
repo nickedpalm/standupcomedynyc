@@ -1089,7 +1089,7 @@
  },
  {
   "event_id": "clean-up-your-act-wscc-2026-10-28",
-  "src": "/assets/posters/clean-up-your-act-wscc-2026-10-28.webp",
+  "src": "/assets/posters/archive/clean-up-your-act-wscc-2026-10-28.webp",
   "width": 512,
   "height": 640,
   "source_url": "https://www.westsidecomedyclub.com/shows/clean-up-your-act",
@@ -1100,7 +1100,8 @@
   "retrieved_at": "2026-10-28",
   "bytes": 45644,
   "sha256": "771ad612da6dd9813bb465d0b00217d1bc981d118e7d90bf9104c1dda4a57d9d",
-  "reuse_status": "Official promotional artwork; no separate reuse license identified. Local review draft only."
+  "reuse_status": "Official promotional artwork; no separate reuse license identified. Local review draft only.",
+  "archived": true
  },
  {
   "event_id": "scary-good-comedy-brittany-carney-littlefield-2026-10-31",
@@ -1966,7 +1967,7 @@
  },
  {
   "event_id": "pizzazz-gary-gulman-union-hall-2026-10-28",
-  "src": "/assets/posters/pizzazz-gary-gulman-union-hall-2026-10-28.jpg",
+  "src": "/assets/posters/archive/pizzazz-gary-gulman-union-hall-2026-10-28.jpg",
   "width": 1880,
   "height": 940,
   "source_url": "https://www.eventbrite.com/e/pizzazz-with-gary-gulman-tickets-2002228886498",
@@ -1977,7 +1978,8 @@
   "retrieved_at": "2026-10-24",
   "bytes": 152728,
   "sha256": "8d101f03e9bf4c14b84163d96d192c726f5f839dd1da15f69da12def0bab1ef0",
-  "reuse_status": "Official promotional artwork; no separate reuse license identified. Local review draft only."
+  "reuse_status": "Official promotional artwork; no separate reuse license identified. Local review draft only.",
+  "archived": true
  },
  {
   "event_id": "dress-rehearsal-union-hall-2026-10-29",
@@ -2118,7 +2120,7 @@
  },
  {
   "event_id": "mark-normand-stand-2026-10-28",
-  "src": "/assets/posters/mark-normand-stand-2026-10-28.png",
+  "src": "/assets/posters/archive/mark-normand-stand-2026-10-28.png",
   "width": 450,
   "height": 600,
   "source_url": "https://www.thestandnyc.com/shows/show/14038/2026-10-28-190000-the-stand-presents",
@@ -2129,7 +2131,8 @@
   "retrieved_at": "2026-10-24",
   "bytes": 461579,
   "sha256": "c13a39d5d848dfa50c803ec0c85b2ae2473db64e9b25356c25dd0f9630f25e19",
-  "reuse_status": "Official promotional artwork; no separate reuse license identified. Local review draft only."
+  "reuse_status": "Official promotional artwork; no separate reuse license identified. Local review draft only.",
+  "archived": true
  },
  {
   "event_id": "comedians-in-costumes-st-marks-2026-10-29",
