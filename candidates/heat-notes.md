@@ -371,3 +371,22 @@ Generated from `npm run heat` + `npm run research-plan` (last30days for the 2 na
 
 ### Ranked on schedule alone
 - All 30 skipped performers sit outside the 10-day window or below the cheap-rank threshold. Today's new picks are named-headliner or named-lineup shows verified on their own event pages; the plan scored their titles as names but scheduled no run for them.
+
+2026-10-29 daily edition
+- Ranked 49 performers; **ran 1** (Michael Longfellow, Union Hall Tue 11/3 - inside the 10-day decision window, tickets still available); **reused 7** (Fahim Anwar, Andrew Dismukes, Michael Good, Joanne McNally, Kevin McDonald, Nasser Al-Rayess, Marc Maron - all cached under 7d); **skipped 42** (outside the 10-day window, below the cheap-rank threshold, or already sold out); **~441,000 tokens saved** from the plan.
+- 1 name ranked on schedule alone for lack of recent data: Michael Longfellow.
+
+### Run notes
+- **Michael Longfellow** (Union Hall Tue 11/3, 7:30pm): two Reddit threads in 30 days and only one is positive - an 83-upvote r/LiveFromNewYork post on Oct 25 says he is on tour and "I highly recommend going" after seeing him in Charlotte; the other, an Oct 11 r/saturdaynightlive thread, argues his SNL clips are unfunny. The Hacker News hit is a Nobel laureate named Michael Woodford, not the comic. The tour thread is the live signal, so the Nov 3 date keeps its slot. Cached for 7d.
+
+### Reuse notes (already cached under 7d)
+- **Fahim Anwar** (cached 2.9d ago): four Reddit threads, none about the comic; his Bell House Nov 20 date is sold out anyway.
+- **Andrew Dismukes** (cached 1d ago): the buzz is about his SNL and improv work, not the Union Hall date.
+- **Michael Good** (cached 1d ago): nothing about the comic; the pick stands on the event page.
+- **Joanne McNally** (cached 1d ago): heavy signal, but all of it is the Tonight Show debut and the McGregor boycott, not the Town Hall taping.
+- **Kevin McDonald** (cached 1d ago): one CBC nostalgia thread, no New York signal on the Union Hall date.
+- **Nasser Al-Rayess** (cached 6d ago): Reddit and Hacker News both returned nothing usable; the Town Hall Oct 31 pick stands on the event page.
+- **Marc Maron** (cached 7d ago): 12 Reddit threads led by a 503-upvote r/MarcMaron post; real pre-sale demand for the Beacon Nov 8 stop.
+
+### Ranked on schedule alone
+- All 42 skipped performers sit outside the 10-day window, below the cheap-rank threshold, or on a show already sold out. The 22 picks added today are named-headliner or named-lineup shows verified on their own pages; the plan scored their titles as names but scheduled no run for them. Maddy Kelly was skipped as sold out - the Union Hall Nov 11 page reads "Tickets Sold Out", so her pick stays on the board with the Sold out tag and does not enter the Tonight carousel.

@@ -121,3 +121,48 @@ calendar date at all, and the alt text described a date that the file does not c
 
 None of these is marked `reuse: granted`, so none appears on an Instagram card. The changes
 make the records accurate for whoever reads them later.
+
+## 2026-10-29 — artwork audit of the recovered 2026-10-29 edition
+
+All 22 posters added by the edition run were opened and compared with the venue's own page.
+
+**One file was replaced outright:**
+
+- **A True York Comedy Experience (Dec 7)** — the file was a photograph of a dog. St. Marks
+  sets `og:image` to a stray upload in its `headshots/` bucket
+  (`.../headshots/c71785e6-.../0.7668992046349478.png`), which is not the show's flyer. The
+  real flyer lives in the venue's `show-fliers` bucket
+  (`https://qfrmgyichufynswkwaxp.supabase.co/storage/v1/object/public/show-fliers/0.7862414551778034.jpeg`)
+  and has been downloaded and swapped in. Dimensions 2054x1540, 394,151 bytes, SHA-256
+  `4318d81fa5e67712d7fbdad24e4830a8d8066a3bc056835a128a3f90014d631d`. The `source_url` now
+  points at the `show-fliers` original rather than the headshot path.
+
+**Six records described their image wrongly:**
+
+- **Michael Longfellow (Nov 3)** — a bare headshot against a painted shutter, no title and no
+  date printed. Was filed as `dated event flyer`; now `performer photo from the event page`.
+- **Jessie "Jetski" Johnson (Nov 5)** — a photograph of her standing in the Union Hall room in
+  front of the stage logo, no title and no date. Was filed as `dated event flyer`; now
+  `performer photo from the event page`.
+- **Corinne Fisher (Nov 5)** — a square headshot of Rosey Catherine, pulled from the venue's
+  `img/comedians/` path, with no date. Was filed as `dated event flyer`; now
+  `performer photo from the event page`.
+- **Nore Davis (Nov 7)** — a headshot of Janeane Garofalo from `img/imagetest/`, with no date.
+  Was filed as `dated event flyer`; now `performer photo from the event page`.
+- **George Willborn (Nov 6)** — the reverse mistake. The file is a full flyer: the show title
+  "THE STRESS RELIEVER", the venue "COMEDY IN HARLEM", "FRI NOV 6", "8 PM" and "$30 ADVANCE".
+  It was filed as `performer headshot from the event page`; now `dated event flyer`, with the
+  credit changed from "Photo:" to "Artwork:".
+
+**Sixteen records were already right** and are unchanged: Skintag and Friends, Girl Church,
+Pizzazz with Gary Gulman, Famous Last Words, Ismael Loutfi, Cold Plunge, Jenny and Alex Try New
+Jokes, Gavin Matts: profound, Maddy Kelly, The Stand's Francis Ellis show, Good Eggs, Double
+Edged, Ester Steinberg, Yamaneika Saunders, and Dylan's Last Show Ever are all title cards
+that print the show, the venue, the date and the lineup.
+
+Two of those needed a note rather than a change: **Ester Steinberg**'s card is the NYCF
+"SHOWGIRL" card, which looks like a different show but is the artwork for her Vegas hour, so
+the record stays. **Dylan's Last Show Ever** prints 9pm doors / 9:30 show, which matches the
+ticket page, so the pick's 9:30pm start is right.
+
+None of these is marked `reuse: granted`, so none appears on an Instagram card.

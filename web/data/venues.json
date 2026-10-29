@@ -536,7 +536,7 @@
   "website": "https://www.pineboxrockshop.com/",
   "calendar_url": "https://www.pineboxrockshop.com/event-calender",
   "source_label": "Pine Box Rock Shop event calendar",
-  "access_note": "Bushwick (the venue's own homepage says 'East Williamsburg/Bushwick, just steps from the Morgan Ave L') bar in a former casket factory. Multiple recurring stand-up mics: Deadass (every Friday 6pm, free), CHAMPS (every Wednesday), Pillow Fight, Jeans & A Nice Top, JesterMAXXING, plus Mi\u00e9rcoles con Mateo Wednesdays and the monthly Sketch Mic NYC on the last Tuesday",
+  "access_note": "Bushwick (the venue's own homepage says 'East Williamsburg/Bushwick, just steps from the Morgan Ave L') bar in a former casket factory. Multiple recurring stand-up mics: Deadass (every Friday 6pm, free), CHAMPS (every Wednesday), Pillow Fight, Jeans & A Nice Top, JesterMAXXING, plus Miércoles con Mateo Wednesdays and the monthly Sketch Mic NYC on the last Tuesday",
   "verified_at": "2026-09-14",
   "note": "Registry keeps Bushwick; the venue labels the area East Williamsburg/Bushwick on its site."
  },
@@ -1655,9 +1655,32 @@
   "calendar_url": "https://www.barbayeux.com/comedy",
   "website": "https://www.barbayeux.com/",
   "source_label": "Venue comedy page and contact page",
-  "access_note": "Cocktail bar and live-jazz room on Nostrand Ave; the room\u2019s own site describes it as \"Live Jazz in Prospect Lefferts Gardens\". It posts stand-up on its /comedy page (Sundays 8:30pm, produced by Post Moves Comedy); the jazz calendar is at /jazz. Address and hours from the contact page.",
+  "access_note": "Cocktail bar and live-jazz room on Nostrand Ave; the room’s own site describes it as \"Live Jazz in Prospect Lefferts Gardens\". It posts stand-up on its /comedy page (Sundays 8:30pm, produced by Post Moves Comedy); the jazz calendar is at /jazz. Address and hours from the contact page.",
   "eventbrite_organizer": "https://www.eventbrite.com/o/67515401553",
   "verified_at": "2026-10-27",
-  "note": "Room added from a Reddit lead (r/crownheights, Oct 2026) and confirmed on the room\u2019s own comedy page plus the producer\u2019s Eventbrite organizer page, which lists the free Sunday 8:30pm show at this address."
+  "note": "Room added from a Reddit lead (r/crownheights, Oct 2026) and confirmed on the room’s own comedy page plus the producer’s Eventbrite organizer page, which lists the free Sunday 8:30pm show at this address."
+ },
+ {
+  "name": "Rose's R&R Bar",
+  "address": "457 Graham Ave, Brooklyn",
+  "neighborhood": "Williamsburg",
+  "borough": "Brooklyn",
+  "website": "https://rosesrandrbar.com/",
+  "calendar_url": "https://rosesrandrbar.com/",
+  "source_label": "Venue home (footer carries the address; events and menus run through Instagram)",
+  "access_note": "Williamsburg bar and kitchen with a garden patio, open 4pm-4am. The site lists no comedy calendar; a free biweekly comedy show runs here on Wednesdays and Fridays, produced from outside the room.",
+  "verified_at": "2026-10-29"
+ },
+ {
+  "name": "The Buddha Room",
+  "address": "410 8th Ave 2nd floor, Manhattan",
+  "neighborhood": "Chelsea",
+  "borough": "Manhattan",
+  "website": "https://www.laughingbuddhacomedy.com/",
+  "calendar_url": "https://www.laughingbuddhacomedy.com/tickets",
+  "source_label": "Laughing Buddha tickets page and the Ticket Tailor event pages, which print the room's own address",
+  "access_note": "Second-floor room at 410 8th Ave, a block from Penn Station and MSG, run by Laughing Buddha Comedy. Weekly Friday prime-time all-star show at 8pm plus a full week of one-hour mics through the week. $15 beverage minimum.",
+  "verified_at": "2026-10-29",
+  "note": "Address '410 8th Ave, 2nd Floor, New York, NY 10001' comes from the room's own Ticket Tailor event page. The 8th Ave address is on the boundary of Chelsea and the Garment District; the registry keeps Chelsea."
  }
 ]

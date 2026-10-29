@@ -1,18 +1,22 @@
 {
- "generated_at": "2026-10-28T14:51:16.163Z",
- "performers_considered": 41,
+ "generated_at": "2026-10-29T12:04:26.628Z",
+ "performers_considered": 49,
  "shortlist": [
   {
    "name": "Fahim Anwar",
    "priority": 105
   },
   {
+   "name": "Maddy Kelly",
+   "priority": 105
+  },
+  {
    "name": "Andrew Dismukes",
-   "priority": 50
+   "priority": 60
   },
   {
    "name": "Michael Good",
-   "priority": 50
+   "priority": 60
   },
   {
    "name": "Joanne McNally",
@@ -23,24 +27,20 @@
    "priority": 50
   },
   {
+   "name": "Kevin McDonald",
+   "priority": 45
+  },
+  {
+   "name": "Michael Longfellow",
+   "priority": 45
+  },
+  {
    "name": "Ania Magliano",
    "priority": 40
   },
   {
    "name": "Nasser Al-Rayess",
    "priority": 35
-  },
-  {
-   "name": "Laughing Lassi",
-   "priority": 30
-  },
-  {
-   "name": "Kevin McDonald",
-   "priority": 30
-  },
-  {
-   "name": "Ilana Glazer",
-   "priority": 30
   }
  ],
  "run": [],
@@ -50,27 +50,27 @@
    "priority": 105,
    "cached": {
     "at": "2026-10-26T13:22:16.706Z",
-    "age_days": 2.1,
+    "age_days": 2.9,
     "fresh": true,
     "note": "Four Reddit threads in 30 days, none about the comic: a Kill Tony episode complaint, a r/Goldpilltalk clip, a dating-skills thread and a Victoria BC show. No New York signal; his Bell House Nov 20 date is sold out anyway."
    }
   },
   {
    "name": "Andrew Dismukes",
-   "priority": 50,
+   "priority": 60,
    "cached": {
     "at": "2026-10-28T12:19:03.974Z",
-    "age_days": 0.1,
+    "age_days": 1,
     "fresh": true,
     "note": "Three Reddit threads in 30 days, none about the Union Hall date: a 405-upvote r/LiveFromNewYork post praising his Sam I Am on SNL (Oct 12) and a 764-upvote clip of him improvising with Carl Tart at The Ultimate Improv Show; Hacker News returned two Andrew Ng AI stories and an Andrew Kelley video. The buzz is real but about his TV and improv work, not the show, so the pick stands on the Union Hall page."
    }
   },
   {
    "name": "Michael Good",
-   "priority": 50,
+   "priority": 60,
    "cached": {
     "at": "2026-10-28T12:20:56.031Z",
-    "age_days": 0.1,
+    "age_days": 1,
     "fresh": true,
     "note": "Nothing about the comic: Reddit returned ten threads and 42,000 upvotes about Michael Bay, Michael Jordan, Michael Jackson and Michael Penix, and Hacker News an economics Nobel, with no mention of the comedian, Steve Martin Presents or the Union Hall date. The pick stands on the event page and the room's own lineup."
    }
@@ -80,19 +80,29 @@
    "priority": 50,
    "cached": {
     "at": "2026-10-26T13:22:16.736Z",
-    "age_days": 2.1,
+    "age_days": 2.9,
     "fresh": true,
     "note": "Heavy signal but all of it is the Tonight Show debut and the McGregor boycott refusal, not the New York show: a 760-upvote r/entertainment thread on Oct 21 plus a 273-upvote r/ireland thread and a 125-upvote 'proud day for the parish' thread Oct 20. The Town Hall Nov 7 Pinotphile taping is what a reader can act on."
    }
   },
   {
-   "name": "Ania Magliano",
-   "priority": 40,
+   "name": "Kevin McDonald",
+   "priority": 45,
    "cached": {
-    "at": "2026-10-22T11:20:34.073Z",
-    "age_days": 6.1,
+    "at": "2026-10-28T12:23:09.007Z",
+    "age_days": 1,
     "fresh": true,
-    "note": "The loudest signal on the board right now: a 9,974-upvote r/Fauxmoi thread on Oct 17 plus heavy r/SNLbabes and LiveFrom chatter on her Taskmaster season, which is why the Bell House Dec 2 Peach Fuzz date is worth a board slot two months out."
+    "note": "One relevant thread in 30 days: a 554-upvote r/SaveTheCBC post marking 38 years since The Kids in the Hall premiered on CBC, naming him in the cast (Oct 16). Hacker News was eight Kevin Bacon stories and Reddit an A-League match thread, so there is no New York signal on the Union Hall date — the pick stands on the show's own page and his Kids in the Hall and new album credits."
+   }
+  },
+  {
+   "name": "Michael Longfellow",
+   "priority": 45,
+   "cached": {
+    "at": "2026-10-29T12:04:21.699Z",
+    "age_days": 0,
+    "fresh": true,
+    "note": "Two Reddit threads in 30 days and only one is positive: an 83-upvote r/LiveFromNewYork post on Oct 25 says he is on tour and 'I highly recommend going', while an Oct 11 r/saturdaynightlive thread argues his SNL clips are unfunny; the Hacker News hit is a Nobel laureate named Michael Woodford, not the comic. The tour thread is the live signal for the Union Hall Nov 3 date."
    }
   },
   {
@@ -100,42 +110,47 @@
    "priority": 35,
    "cached": {
     "at": "2026-10-23T11:15:47.799Z",
-    "age_days": 5.1,
+    "age_days": 6,
     "fresh": true,
     "note": "Nothing usable in 30 days from Reddit or Hacker News, so the Town Hall Oct 31 pick stands on the venue's own event page and his own writing rather than any current buzz."
-   }
-  },
-  {
-   "name": "Laughing Lassi",
-   "priority": 30,
-   "cached": {
-    "at": "2026-10-27T12:55:53.401Z",
-    "age_days": 1.1,
-    "fresh": true,
-    "note": "One Reddit thread in 30 days and it is not about the show: a r/TheRiseandFallIndia post about a character named Lassi, 62 points. Hacker News returned nothing. No recent signal on the Broadway Comedy Club show itself, so it stands on the room's own listing."
-   }
-  },
-  {
-   "name": "Kevin McDonald",
-   "priority": 30,
-   "cached": {
-    "at": "2026-10-28T12:23:09.007Z",
-    "age_days": 0.1,
-    "fresh": true,
-    "note": "One relevant thread in 30 days: a 554-upvote r/SaveTheCBC post marking 38 years since The Kids in the Hall premiered on CBC, naming him in the cast (Oct 16). Hacker News was eight Kevin Bacon stories and Reddit an A-League match thread, so there is no New York signal on the Union Hall date — the pick stands on the show's own page and his Kids in the Hall and new album credits."
    }
   }
  ],
  "skip": [
   {
+   "name": "Maddy Kelly",
+   "priority": 105,
+   "reason": "already sold out; research cannot change the call"
+  },
+  {
    "name": "Daniel Sloss",
    "priority": 50,
-   "reason": "next show in 17 days, outside the 10-day window"
+   "reason": "next show in 16 days, outside the 10-day window"
+  },
+  {
+   "name": "Ania Magliano",
+   "priority": 40,
+   "reason": "next show in 34 days, outside the 10-day window"
+  },
+  {
+   "name": "Marc Maron",
+   "priority": 35,
+   "reason": "outside the top 10 by cheap ranking"
+  },
+  {
+   "name": "Laughing Lassi",
+   "priority": 30,
+   "reason": "outside the top 10 by cheap ranking"
   },
   {
    "name": "Ilana Glazer",
    "priority": 30,
-   "reason": "next show in 16 days, outside the 10-day window"
+   "reason": "outside the top 10 by cheap ranking"
+  },
+  {
+   "name": "Gavin Matts",
+   "priority": 30,
+   "reason": "outside the top 10 by cheap ranking"
   },
   {
    "name": "Sam Tallent",
@@ -168,11 +183,6 @@
    "reason": "outside the top 10 by cheap ranking"
   },
   {
-   "name": "Marc Maron",
-   "priority": 20,
-   "reason": "outside the top 10 by cheap ranking"
-  },
-  {
    "name": "Dewayne Perkins",
    "priority": 20,
    "reason": "outside the top 10 by cheap ranking"
@@ -184,6 +194,11 @@
   },
   {
    "name": "Jaboukie Young-White",
+   "priority": 20,
+   "reason": "outside the top 10 by cheap ranking"
+  },
+  {
+   "name": "George Willborn",
    "priority": 20,
    "reason": "outside the top 10 by cheap ranking"
   },
@@ -203,12 +218,17 @@
    "reason": "outside the top 10 by cheap ranking"
   },
   {
-   "name": "Matthew Broussard",
+   "name": "Josh Sharp",
    "priority": 15,
    "reason": "outside the top 10 by cheap ranking"
   },
   {
-   "name": "Christian Finnegan",
+   "name": "Rainbow Riot",
+   "priority": 15,
+   "reason": "outside the top 10 by cheap ranking"
+  },
+  {
+   "name": "Matthew Broussard",
    "priority": 15,
    "reason": "outside the top 10 by cheap ranking"
   },
@@ -224,7 +244,7 @@
   },
   {
    "name": "Jordan Jensen",
-   "priority": 10,
+   "priority": 11,
    "reason": "outside the top 10 by cheap ranking"
   },
   {
@@ -243,17 +263,17 @@
    "reason": "outside the top 10 by cheap ranking"
   },
   {
-   "name": "Mojo Brookzz",
-   "priority": 5,
-   "reason": "outside the top 10 by cheap ranking"
-  },
-  {
    "name": "Opey Olagbaju",
    "priority": 5,
    "reason": "outside the top 10 by cheap ranking"
   },
   {
    "name": "Ask Ronna",
+   "priority": 5,
+   "reason": "outside the top 10 by cheap ranking"
+  },
+  {
+   "name": "Christian Finnegan",
    "priority": 5,
    "reason": "outside the top 10 by cheap ranking"
   },
@@ -273,27 +293,42 @@
    "reason": "outside the top 10 by cheap ranking"
   },
   {
+   "name": "Ester Steinberg",
+   "priority": 5,
+   "reason": "outside the top 10 by cheap ranking"
+  },
+  {
+   "name": "Double Edged",
+   "priority": 5,
+   "reason": "outside the top 10 by cheap ranking"
+  },
+  {
+   "name": "Ismael Loutfi",
+   "priority": 5,
+   "reason": "outside the top 10 by cheap ranking"
+  },
+  {
    "name": "Hillbilly Allegedly",
    "priority": 5,
    "reason": "outside the top 10 by cheap ranking"
   },
   {
-   "name": "Josh Sharp",
-   "priority": 0,
-   "reason": "outside the top 10 by cheap ranking"
-  },
-  {
-   "name": "Rainbow Riot",
-   "priority": 0,
+   "name": "Real Life Tonight",
+   "priority": 5,
    "reason": "outside the top 10 by cheap ranking"
   },
   {
    "name": "Dropout Improv",
    "priority": 0,
    "reason": "outside the top 10 by cheap ranking"
+  },
+  {
+   "name": "Mojo Brookzz",
+   "priority": 0,
+   "reason": "outside the top 10 by cheap ranking"
   }
  ],
- "estimated_tokens_saved": 369000,
- "estimate_basis": "9000 tokens per last30days run, 41 runs avoided out of 41",
+ "estimated_tokens_saved": 441000,
+ "estimate_basis": "9000 tokens per last30days run, 49 runs avoided out of 49",
  "no_recent_data": []
 }

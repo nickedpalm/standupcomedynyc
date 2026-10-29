@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-27",
+ "updated": "2026-10-29",
  "handle": "@standupcomedynyc",
  "tagline": "The neighborhood bulletin for NYC stand-up. Tonight's picks first, then the rest of the board.",
  "links": [
@@ -22,7 +22,7 @@
   {
    "id": "nycf",
    "label": "New York Comedy Festival",
-   "note": "20 shows on our board, Nov 6-15",
+   "note": "23 shows on our board, Nov 6-15",
    "url": "https://nycomedyfestival.com/schedule/",
    "kind": "external",
    "starts": "2026-11-06",

@@ -455,3 +455,50 @@ Their `kind` and alt text now describe what the artwork actually is — a standi
 performer's photo, show photography or a headshot. The details are in POSTER-INTAKE.md. None of
 them is marked `reuse: granted`, so none appears on an Instagram card; this only makes the
 records honest for whoever reads them later.
+
+### Recovery of the 2026-10-29 edition (Oct 29, evening)
+
+The 11:00 edition run died at its tool-iteration cap and left 22 verified picks in the working
+tree with no commit. Every one of them was re-checked here before publishing: all 22 source
+pages return 200 and print the date on the board, and every factual claim in the blurbs was
+matched against the venue's own page (SNL for Longfellow, Kill Tony and Bad Friends for
+Jetski, the Tonight Show for Maddy Kelly, Love Island USA and OFTV for Hanes and Zaky, the
+Edinburgh Fringe for Loutfi, Just for Laughs for Matts).
+
+**Two facts were wrong in the blurbs and are now corrected:**
+
+- **Jessie "Jetski" Johnson (Nov 5)** said the show was "a week after Thanksgiving". November 5
+  is a week *before* it — Thanksgiving is November 26. The blurb now says the night is a week
+  before Thanksgiving.
+- **Corinne Fisher (Nov 5)** called Eastville "near the Barclays". Eastville is at 487 Atlantic
+  Avenue in Boerum Hill, and the club's own site is the one that calls itself "right by the
+  Barclays Center". The blurb now names the address block instead of leaning on the venue's
+  self-description.
+
+**Six artwork records were wrong and are now honest (details in POSTER-INTAKE.md):**
+
+- **A True York Comedy Experience (Dec 7)** was filed with a photo of a dog. St. Marks' page
+  points its `og:image` at a stray `headshots/` upload, which the dead run downloaded. The real
+  flyer is published under the venue's `show-fliers` bucket and has been downloaded and swapped
+  in, with the record's dimensions, byte count and SHA-256 updated to match.
+- **Michael Longfellow (Nov 3)** and **Jessie "Jetski" Johnson (Nov 5)** were filed as "dated
+  event flyers" but both are bare performer photos with no title or date printed. Both records
+  now say `performer photo from the event page`.
+- **Corinne Fisher (Nov 5)** and **Nore Davis (Nov 7)** were filed as dated flyers but are one
+  performer's photo each (Rosey Catherine and Janeane Garofalo) pulled from the venue's
+  headshot image path. Both records now say `performer photo from the event page`.
+- **George Willborn (Nov 6)** was the opposite mistake: the record said `performer headshot`,
+  but the file is a full flyer naming the show, the date and the 8pm start. The record is
+  upgraded to `dated event flyer`.
+
+The other sixteen posters are title cards that print the show, the venue, the date and the
+lineup, and they match their pages. The St. Marks Dec 9 flyer prints 9pm doors / 9:30 show,
+which agrees with the ticket page, so the pick's 9:30pm start is right.
+
+**Other data work carried over from the dead run and verified here:** Rose's R&R Bar
+(457 Graham Ave, Williamsburg) and The Buddha Room (410 8th Ave, Chelsea) are registered, and
+Laughing Buddha's own Wednesday and Thursday one-hour mics are in `open-mics.json`. St. Marks
+Comedy Club's club entry now points at its own FAQ for the two-drink minimum instead of a
+competition form.
+
+All six weeks of the board now clear the eight-pick horizon.
