@@ -554,3 +554,12 @@ skipped, ~441,000 tokens saved. Nasser Al-Rayess is the one name ranked on
 schedule alone — his run returned a single unrelated r/Columbus thread with 4
 upvotes and nothing on Hacker News, so the Town Hall Oct 31 pick rests on the
 venue's own listing.
+
+## 2026-10-30 — IG carousel cover art
+
+Tonight's cover was going to use the Comedy Village flyer, but that flyer bakes
+"FRIDAY 3 SHOWS" into the image, which contradicts the overlay's "4 SHOWS
+WORTH YOUR FRIDAY". Set `cover_art: true` on the Sup, Boo? pick instead: the
+Union Hall artwork is a wide stage shot of two comics under the show title, no
+baked-in count, and it reads as the strongest visual of the four. Credit on the
+card: "Artwork: Union Hall / show organizer".
