@@ -390,3 +390,21 @@ Generated from `npm run heat` + `npm run research-plan` (last30days for the 2 na
 
 ### Ranked on schedule alone
 - All 42 skipped performers sit outside the 10-day window, below the cheap-rank threshold, or on a show already sold out. The 22 picks added today are named-headliner or named-lineup shows verified on their own pages; the plan scored their titles as names but scheduled no run for them. Maddy Kelly was skipped as sold out - the Union Hall Nov 11 page reads "Tickets Sold Out", so her pick stays on the board with the Sold out tag and does not enter the Tonight carousel.
+
+2026-10-30 recovery edition (the 11:00 run hit its tool cap and published nothing; recovered and published here)
+- Ranked 50 performers; **ran 1** (Nasser Al-Rayess, The Town Hall Sat 10/31 - inside the 10-day window and his cache had just aged out); **reused 6** (Fahim Anwar, Joanne McNally, Andrew Dismukes, Michael Good, Kevin McDonald, Michael Longfellow - all cached under 7d); **skipped 43** (outside the 10-day window, below the cheap-rank threshold, or already sold out); **~441,000 tokens saved** from the plan.
+- 1 name ranked on schedule alone for lack of recent data: Nasser Al-Rayess.
+
+### Run notes
+- **Nasser Al-Rayess** (The Town Hall Sat 10/31): one Reddit thread in 30 days and it was not about the comic - a single r/Columbus post with 4 upvotes - and Hacker News returned nothing. There is no New York signal on the date, so the pick stands on the Town Hall's own listing. Cached for 7d.
+
+### Reuse notes (already cached under 7d)
+- **Fahim Anwar**: the buzz is about a Kill Tony complaint and a Victoria BC show, not New York; his Bell House Nov 20 date is sold out anyway.
+- **Joanne McNally**: heavy signal, but all of it is the Tonight Show debut and the McGregor boycott refusal, not the Town Hall Pinotphile taping.
+- **Andrew Dismukes**: the buzz is about his SNL and improv work, not the Union Hall date.
+- **Michael Good**: name-collision noise only; the pick stands on the event page.
+- **Kevin McDonald**: one CBC nostalgia thread, no New York signal on the Union Hall date.
+- **Michael Longfellow**: an 83-upvote r/LiveFromNewYork post recommending his tour against an Oct 11 thread calling his SNL clips unfunny; the tour thread is the live signal for Union Hall Nov 3.
+
+### Ranked on schedule alone
+- All 43 skipped performers sit outside the 10-day window, below the cheap-rank threshold, or on a show already sold out. The 16 picks added today are named-headliner or named-lineup shows verified on their own event pages; the plan scored their titles as names but scheduled no run for them. Maddy Kelly was skipped as sold out - the Union Hall Nov 11 page reads "Tickets Sold Out", so her pick stays on the board with the Sold out tag and does not enter the Tonight carousel.

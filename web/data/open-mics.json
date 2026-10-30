@@ -446,5 +446,25 @@
   "source_url": "https://www.laughingbuddhacomedy.com/mics",
   "source_label": "Laughing Buddha open mics page",
   "verified_at": "2026-10-29"
+ },
+ {
+  "id": "st-marks-audience-mic",
+  "tier": "open-mic",
+  "title": "Mic — Audience (Drink Included)",
+  "weekday": 1,
+  "cadence": "Every Monday through Friday · 6pm on Mon, Tue, Fri and 5pm on Wed, Thu",
+  "time_label": "5pm or 6pm · doors 15 minutes earlier",
+  "venue": "St. Marks Comedy Club",
+  "address": "12 St Marks Pl, Manhattan",
+  "neighborhood": "East Village",
+  "cost_label": "$10 ticket with one drink included ($12 all-in)",
+  "signup": "Comics sign up through sendyouravails.com, one week ahead; audience tickets do not include stage time",
+  "set_length": "One hour, raw unfiltered material",
+  "formats": "Stand-up, new material",
+  "age": "18 and up",
+  "notes": "An hour of comics working out new material in the brick-walled back room, and the ticket comes with a drink. Worth the trip for the early slot, when the room is still filling up.",
+  "source_url": "https://www.stmarkscomedy.com/shows/mic-audience-drink-included-2026-11-12-b954927d",
+  "source_label": "St. Marks Comedy Club show page",
+  "verified_at": "2026-10-30"
  }
 ]

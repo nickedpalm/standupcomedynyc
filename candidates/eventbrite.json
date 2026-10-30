@@ -1,5 +1,5 @@
 {
- "retrieved_at": "2026-10-29T11:01:14.932Z",
+ "retrieved_at": "2026-10-30T11:01:20.204Z",
  "note": "Leads from Eventbrite organizer pages of registered rooms. Open the event page before adding a pick; artwork needs a POSTER-SOURCES record.",
  "organizers": [
   {
@@ -44,44 +44,6 @@
   }
  ],
  "events": [
-  {
-   "venue": "Union Hall",
-   "neighborhood": "Park Slope",
-   "organizer": "https://www.eventbrite.com/o/union-hall-17899496497",
-   "title": "Dress Rehearsal",
-   "date": "2026-10-29",
-   "time": "7:30pm",
-   "starts_at": "2026-10-29T19:30:00-04:00",
-   "ends_at": "2026-10-29T21:00:00-04:00",
-   "location_name": "Union Hall",
-   "location_address": "702 Union St., Brooklyn, NY 11215, Brooklyn",
-   "price_from": 15.92,
-   "url": "https://www.eventbrite.com/e/dress-rehearsal-tickets-2003163619309",
-   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1196038936%2F282041210522%2F1%2Foriginal.20261018-145407?crop=focalpoint&fit=crop&w=940&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=32faeacb4486c3cfcdcdefc64bcf1314",
-   "description": "Dress Rehearsal - Thursday, October 29 - 7:00pm Doors / 7:30pm Show",
-   "venue_name_matches": true,
-   "already_a_pick": true,
-   "seen_before": true
-  },
-  {
-   "venue": "Littlefield",
-   "neighborhood": "Gowanus",
-   "organizer": "https://www.eventbrite.com/o/littlefield-18046024060",
-   "title": "Dinner for One Presents: The Spookiest Things",
-   "date": "2026-10-29",
-   "time": "8pm",
-   "starts_at": "2026-10-29T20:00:00-04:00",
-   "ends_at": "2026-10-29",
-   "location_name": "littlefield",
-   "location_address": "635 Sackett Street, Brooklyn, NY 11217, Brooklyn",
-   "price_from": 18.71,
-   "url": "https://www.eventbrite.com/e/dinner-for-one-presents-the-spookiest-things-tickets-2000323337951",
-   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1193111747%2F404652903161%2F1%2Foriginal.20260909-224916?crop=focalpoint&fit=crop&w=940&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=e25fbe07bc90ce22b50f7f1b13a63fcf",
-   "description": "Sketch comedy legends return from exile with a Halloween Spooktacular! Along with special guest stand ups & a DJ, for bone-chilling guffaws.",
-   "venue_name_matches": true,
-   "already_a_pick": false,
-   "seen_before": true
-  },
   {
    "venue": "Caveat",
    "neighborhood": "Lower East Side",
@@ -399,7 +361,7 @@
    "location_address": "21 A Clinton Street, New York, NY 10002, New York",
    "price_from": 13.61,
    "url": "https://www.eventbrite.com/e/phdd-tickets-2003010487287",
-   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1195185745%2F207096185123%2F1%2Foriginal.20261006-152150?w=940&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2000%2C1000&s=9327e5154dd81cb3e8acf0f29ab0dfdd",
+   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1196883140%2F207096185123%2F1%2Foriginal.20261029-195024?w=940&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2160%2C1080&s=a89b67d2891c52c5221fe87c4b403960",
    "description": "Caveat plays D&D the only way we know how: WITH SCIENCE!",
    "venue_name_matches": true,
    "already_a_pick": false,
@@ -460,7 +422,7 @@
    "description": "Kevin McDonald: My Stupid Career - Sunday, November 1 - 7:00pm Doors / 7:30pm Show",
    "venue_name_matches": true,
    "already_a_pick": true,
-   "seen_before": false
+   "seen_before": true
   },
   {
    "venue": "Littlefield",
@@ -520,6 +482,25 @@
    "seen_before": true
   },
   {
+   "venue": "Union Hall",
+   "neighborhood": "Park Slope",
+   "organizer": "https://www.eventbrite.com/o/union-hall-17899496497",
+   "title": "Frankenstein's Baby",
+   "date": "2026-11-02",
+   "time": "7:30pm",
+   "starts_at": "2026-11-02T19:30:00-05:00",
+   "ends_at": "2026-11-02T21:00:00-05:00",
+   "location_name": "Union Hall",
+   "location_address": "702 Union St., Brooklyn, NY 11215, Brooklyn",
+   "price_from": 15.92,
+   "url": "https://www.eventbrite.com/e/frankensteins-baby-tickets-2003308122522",
+   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1196603236%2F2330790970943%2F1%2Foriginal.20261026-153751?crop=focalpoint&fit=crop&w=940&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=c271168e53ecac04e35e9048a74b6918",
+   "description": "Frankenstein’s Baby - Monday, November 2 - 7:00pm Doors / 7:30pm Show",
+   "venue_name_matches": true,
+   "already_a_pick": false,
+   "seen_before": false
+  },
+  {
    "venue": "Comic Strip Live",
    "neighborhood": "Upper East Side",
    "organizer": "https://www.eventbrite.com/o/comic-strip-live-comedy-club-8100188167",
@@ -574,7 +555,7 @@
    "description": "A live show about how to be a better New Yorker, from the journalists behind The New York Groove",
    "venue_name_matches": true,
    "already_a_pick": false,
-   "seen_before": false
+   "seen_before": true
   },
   {
    "venue": "Littlefield",
@@ -631,7 +612,7 @@
    "description": "Amelia and Ian host a late-night show in front a live studio audience featuring a variety of acts.",
    "venue_name_matches": true,
    "already_a_pick": false,
-   "seen_before": false
+   "seen_before": true
   },
   {
    "venue": "Littlefield",
@@ -783,7 +764,7 @@
    "description": "Be part of history, celebrating 50 years of Comedy at the World Comic Strip! Comedians from, HBO, The Tonight Show, SNL & More ~",
    "venue_name_matches": true,
    "already_a_pick": false,
-   "seen_before": false
+   "seen_before": true
   },
   {
    "venue": "Littlefield",
@@ -800,6 +781,25 @@
    "url": "https://www.eventbrite.com/e/ny-comedy-festival-presents-hot-guy-draft-a-comedy-fantasy-draft-tickets-1998384216988",
    "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1195832798%2F404652903161%2F1%2Foriginal.20261015-010149?crop=focalpoint&fit=crop&w=940&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.498&fp-y=0.425&s=0cbacd1bc15d1eb093bde287ec79742a",
    "description": "The 11th Annual Hot Guy Draft pits 4 comedians against each other in a fantasy draft of the hot guys of 2026.",
+   "venue_name_matches": true,
+   "already_a_pick": false,
+   "seen_before": true
+  },
+  {
+   "venue": "Comic Strip Live",
+   "neighborhood": "Upper East Side",
+   "organizer": "https://www.eventbrite.com/o/comic-strip-live-comedy-club-8100188167",
+   "title": "DF Sweedler, Nick Tilleli, Carla Oakerson, Dan Naturman, Jason Choi, & more",
+   "date": "2026-11-08",
+   "time": "8pm",
+   "starts_at": "2026-11-08T20:00:00-05:00",
+   "ends_at": "2026-11-08",
+   "location_name": "Comic Strip Live",
+   "location_address": "1568 2nd Ave, New York, NY 10028, New York",
+   "price_from": 25.71,
+   "url": "https://www.eventbrite.com/e/df-sweedler-nick-tilleli-carla-oakerson-dan-naturman-jason-choi-more-tickets-2003839890053",
+   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1196472120%2F136153380524%2F1%2Foriginal.20261023-204904?crop=focalpoint&fit=crop&w=940&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=29c9a9016a29ccf8c28df2e91d161f50",
+   "description": "Be part of history, celebrating 50 years of Comedy at the World Comic Strip! Comedians from, HBO, The Tonight Show, SNL & More ~",
    "venue_name_matches": true,
    "already_a_pick": false,
    "seen_before": false

@@ -806,3 +806,19 @@ The factual correction to the Novak blurb was the day's data fix — "Get to Be 
   show page, so it says nothing about this night. Our standing decision from the earlier
   intake holds: a discount night with no bill does not go on the board, and it does not go on
   the rail either.
+
+### 2026-10-30 — St. Marks' own audience mic added to the open-mics page
+
+The club runs "Mic — Audience (Drink Included)" every weekday and it was on
+none of our pages. Read off the club's own dated show pages: 6pm on Mondays,
+Tuesdays and Fridays and 5pm on Wednesdays and Thursdays, $10 with one drink
+included ($12 all-in), one hour of comics working out new material in the
+brick-walled back room.
+
+The show page is explicit that comics do not buy a ticket there — stage time is
+booked through Send Your Avails, a week ahead — and that audience tickets do
+not include stage time. Both facts are in the record, because a reader looking
+for a spot and a reader looking for a seat are looking for two different things.
+
+It runs through the end of December on the club's calendar, with no break
+across the holidays. Verified 2026-10-30.

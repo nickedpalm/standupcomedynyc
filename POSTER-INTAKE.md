@@ -166,3 +166,23 @@ the record stays. **Dylan's Last Show Ever** prints 9pm doors / 9:30 show, which
 ticket page, so the pick's 9:30pm start is right.
 
 None of these is marked `reuse: granted`, so none appears on an Instagram card.
+
+### 2026-10-30 — Recovery edition artwork
+
+Three flyers added, each opened and read before it was attached.
+
+- **Shelly Belly** (NYCC Upper West Side, Nov 12) — the NYCF card, a full-frame
+  portrait on a yellow-to-black gradient with the New York Comedy Club logo and
+  the festival mark. Prints the performer's name; no date is printed on the
+  card itself, but it is the artwork the club's own show page serves.
+- **Judy Gold** (NYCC Upper West Side, Nov 24) — the NYCF card for the Upper
+  West Side, a full-frame portrait on a teal gradient. Same logo treatment.
+- **Frankenstein's Baby** (Union Hall, Nov 2) — the show's own flyer: a green
+  monster head against a red brick wall, with the hosts, the guests and "Music
+  by Donwill" printed on it. The flyer says 7PM; the ticket page says doors 7pm
+  and show 7:30pm, and the pick follows the ticket page.
+
+The two NYCC images came from the club's own image host. The Frankenstein's
+Baby image only resolves through Eventbrite's image proxy with the signed URL
+from the listing — the bare CDN link returns "sig_invalid", which is worth
+knowing the next time one is needed.

@@ -502,3 +502,55 @@ Comedy Club's club entry now points at its own FAQ for the two-drink minimum ins
 competition form.
 
 All six weeks of the board now clear the eight-pick horizon.
+
+### 2026-10-30 — Recovery of the dead 11:00 edition
+
+The 11:00 edition run died on its tool cap and published nothing, leaving the
+working tree dirty and the board thin on the back half of the horizon. This
+recovery re-opened every source by hand before anything was added.
+
+**16 new picks, all verified on their own event pages today:**
+
+| Date | Show | Room |
+|---|---|---|
+| Nov 2 | Frankenstein's Baby | Union Hall |
+| Nov 12 | Shelly Belly (NYCF) | NYCC Upper West Side |
+| Nov 12 | Bourne With Talent Comedy Show | St. Marks |
+| Nov 16 | Good Bits (Griffin, Surka, Cole, Moore) | NYCC East Village |
+| Nov 16 | $3 Monday Night StandUp Show | St. Marks |
+| Nov 24 | Judy Gold | NYCC Upper West Side |
+| Nov 24 | The Gong Show w/ Robert Punchur | St. Marks |
+| Nov 26 | A TRUE YORK COMEDY EXPERIENCE | St. Marks |
+| Dec 8 | The Gong Show w/ Robert Punchur | St. Marks |
+| Dec 9 | Down Bad Comedy Show | St. Marks |
+| Dec 10 | A TRUE YORK COMEDY EXPERIENCE | St. Marks |
+| Dec 10 | Date Night Comedy Show x2 | St. Marks |
+| Dec 11 | A TRUE YORK COMEDY EXPERIENCE | St. Marks |
+| Dec 11 | Friday Night Laughs Comedy Show | St. Marks |
+| Dec 12 | A TRUE YORK COMEDY EXPERIENCE | St. Marks |
+| Dec 12 | Speakeasy Saturday Night | St. Marks |
+
+**One thing worth flagging:** the Frankenstein's Baby flyer prints "7PM" while the
+ticket page says doors 7pm, show 7:30pm. The pick uses the ticket page, since
+that is the time people buy against, and the time label says "7:30pm · doors 7pm".
+
+**Prices** came from the pages themselves: $15.92 for Frankenstein's Baby,
+$30.85 for Shelly Belly and Good Bits, $41.72 for Judy Gold, and $3 to $23.50
+across the St. Marks dates. Nothing was guessed.
+
+**Board state:** 125 picks. Six weeks now read 24/26/19/18/16/18, every week
+clear of the eight-pick floor. Every night from Oct 30 through Dec 12 has at
+least two picks; Dec 13 and Dec 14 are still bare and sit past the six-week
+horizon.
+
+**Artwork:** three flyers saved with provenance — Shelly Belly, Judy Gold and
+Frankenstein's Baby. All three were opened and read before they were attached;
+the Frankenstein's Baby card is the show's own monster-head-on-brick-wall flyer
+with the full host list, and the two NYCC cards print the performer's name and
+the festival branding.
+
+**Research:** 50 performers ranked, 1 run (Nasser Al-Rayess), 6 reused, 43
+skipped, ~441,000 tokens saved. Nasser Al-Rayess is the one name ranked on
+schedule alone — his run returned a single unrelated r/Columbus thread with 4
+upvotes and nothing on Hacker News, so the Town Hall Oct 31 pick rests on the
+venue's own listing.

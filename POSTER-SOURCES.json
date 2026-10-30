@@ -2767,5 +2767,50 @@
   "bytes": 864797,
   "sha256": "7c372fa76f6a7383eb33ef7b55ea64aea33516f62f914e27149addd3622e3122",
   "reuse_status": "Official promotional artwork; no separate reuse license identified. Local review draft only."
+ },
+ {
+  "event_id": "shelly-belly-nycc-2026-11-12",
+  "src": "/assets/posters/shelly-belly-nycc-2026-11-12.jpg",
+  "width": 1040,
+  "height": 660,
+  "source_url": "https://newyorkcomedyclub.com/events/shelly-belly-presented-by-the-new-york-comedy-festival",
+  "credit": "Artwork: New York Comedy Festival / New York Comedy Club",
+  "alt": "Shelly Belly at the New York Comedy Festival at New York Comedy Club — November 12, 2026 promotional artwork.",
+  "kind": "dated event flyer",
+  "original_image_url": "https://newyorkcomedyclub.com/img/events/NYCF-Shelly-Belly-11-12-Graphics-1072x680-2-863a1289-main-image.jpg",
+  "retrieved_at": "2026-10-30",
+  "bytes": 81064,
+  "sha256": "ef4486e7c39dfcecec6392bafb7c14d47c6fc5dcea1cda8269cccc1d3b382493",
+  "reuse_status": "Official promotional artwork; no separate reuse license identified. Local review draft only."
+ },
+ {
+  "event_id": "judy-gold-nycc-2026-11-24",
+  "src": "/assets/posters/judy-gold-nycc-2026-11-24.jpg",
+  "width": 1040,
+  "height": 660,
+  "source_url": "https://newyorkcomedyclub.com/events/judy-gold-2026-11-24193000",
+  "credit": "Artwork: New York Comedy Club",
+  "alt": "Judy Gold at New York Comedy Club Upper West Side — November 24, 2026 promotional artwork.",
+  "kind": "dated event flyer",
+  "original_image_url": "https://newyorkcomedyclub.com/img/events/Judy-Gold-NYCC-UWS-Nov-24-2026-Graphics-1072x680-2-0ed61442-main-image.jpg",
+  "retrieved_at": "2026-10-30",
+  "bytes": 49215,
+  "sha256": "d2ecb4858c6924a6657710a4b10148db1b9be482700f2f400713eeae5774ea54",
+  "reuse_status": "Official promotional artwork; no separate reuse license identified. Local review draft only."
+ },
+ {
+  "event_id": "frankensteins-baby-union-hall-2026-11-02",
+  "src": "/assets/posters/frankensteins-baby-union-hall-2026-11-02.jpg",
+  "width": 1880,
+  "height": 938,
+  "source_url": "https://www.eventbrite.com/e/frankensteins-baby-tickets-2003308122522",
+  "credit": "Artwork: Union Hall / show organizer",
+  "alt": "Frankenstein's Baby at Union Hall — the show's own artwork, a green monster head on a red brick wall.",
+  "kind": "dated event flyer",
+  "original_image_url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1196603236%2F2330790970943%2F1%2Foriginal.20261026-153751",
+  "retrieved_at": "2026-10-30",
+  "bytes": 146273,
+  "sha256": "e4d634053ec7478261bb6f47947aea0821f3c035d722277ad9fb4b5c70501c0e",
+  "reuse_status": "Official promotional artwork; no separate reuse license identified. Local review draft only."
  }
 ]
