@@ -108,7 +108,8 @@
    "kind": "show photography"
   },
   "demand": null,
-  "demand_checked": "2026-10-30"
+  "demand_checked": "2026-10-30",
+  "cover_art": true
  },
  {
   "id": "nasser-al-rayess-town-hall-2026-10-31",
