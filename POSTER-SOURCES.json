@@ -2075,7 +2075,7 @@
  },
  {
   "event_id": "nyc-stand-up-comedy-village-2026-10-30",
-  "src": "/assets/posters/nyc-stand-up-comedy-village-2026-10-30.webp",
+  "src": "/assets/posters/archive/nyc-stand-up-comedy-village-2026-10-30.webp",
   "width": 1080,
   "height": 1350,
   "source_url": "https://comedyvillage.com/event/nyc-stand-up-fri-october-30th-9-pm/",
@@ -2086,7 +2086,8 @@
   "retrieved_at": "2026-10-24",
   "bytes": 277110,
   "sha256": "e07cf472ad1ea42a6561fd18d07010eb40da6d65ddba508b3f78f384ab85d40e",
-  "reuse_status": "Official promotional artwork; no separate reuse license identified. Local review draft only."
+  "reuse_status": "Official promotional artwork; no separate reuse license identified. Local review draft only.",
+  "archived": true
  },
  {
   "event_id": "raising-hell-bcc-2026-10-25",
@@ -2320,7 +2321,7 @@
  },
  {
   "event_id": "sup-boo-union-hall-2026-10-30",
-  "src": "/assets/posters/sup-boo-union-hall-2026-10-30.jpg",
+  "src": "/assets/posters/archive/sup-boo-union-hall-2026-10-30.jpg",
   "width": 1880,
   "height": 940,
   "source_url": "https://www.eventbrite.com/e/sup-boo-with-alison-leiby-and-josh-gondelman-tickets-2003297834751",
@@ -2331,7 +2332,8 @@
   "retrieved_at": "2026-10-28",
   "reuse_status": "Official promotional artwork; no separate reuse license identified. Local review draft only.",
   "bytes": 167746,
-  "sha256": "cb50ee137777b52e2827a4eea657f7980b660e233c07bf8c0d52173f5d3266f9"
+  "sha256": "cb50ee137777b52e2827a4eea657f7980b660e233c07bf8c0d52173f5d3266f9",
+  "archived": true
  },
  {
   "event_id": "hot-gossip-union-hall-2026-10-31",
@@ -2410,7 +2412,7 @@
  },
  {
   "event_id": "friday-showcase-greenpoint-2026-10-30",
-  "src": "/assets/posters/friday-showcase-greenpoint-2026-10-30.webp",
+  "src": "/assets/posters/archive/friday-showcase-greenpoint-2026-10-30.webp",
   "width": 900,
   "height": 1200,
   "source_url": "https://punchup.live/venue/greenpointcomedyclub/shows/the-friday-showcase",
@@ -2421,7 +2423,8 @@
   "retrieved_at": "2026-10-28",
   "reuse_status": "Official promotional artwork; no separate reuse license identified. Local review draft only.",
   "bytes": 88386,
-  "sha256": "063ecaf7d7a8b350f44e8d9a9761b0ba6c4edf742ad3afc8eac085b4e691fe44"
+  "sha256": "063ecaf7d7a8b350f44e8d9a9761b0ba6c4edf742ad3afc8eac085b4e691fe44",
+  "archived": true
  },
  {
   "event_id": "infamous-ray-stand-2026-11-03",

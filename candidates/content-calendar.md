@@ -1,4 +1,4 @@
-# Content calendar — generated 2026-10-30
+# Content calendar — generated 2026-10-31
 
 Six weeks ahead from the board. Regenerated on every build; edit the data, not this file.
 
@@ -13,12 +13,8 @@ Six weeks ahead from the board. Regenerated on every build; edit the data, not t
 
 Ranked 50; run 1, reuse 6, skip 43; ~441,000 tokens saved. No recent data: Nasser Al-Rayess.
 
-## Week 1: Oct 30 to Nov 5 — 24 picks — 5 without artwork · 27 Eventbrite leads not yet reviewed
+## Week 1: Oct 31 to Nov 6 — 26 picks — 8 without artwork · 25 Eventbrite leads not yet reviewed
 
-- Fri Oct 30 7pm · doors 6:15pm — **Laughing Lassi** at Broadway Comedy Club · NO ARTWORK
-- Fri Oct 30 8pm — **The Friday Showcase** at Greenpoint Comedy Club
-- Fri Oct 30 9pm — **NYC Stand-Up at Comedy Village** at Comedy Village
-- Fri Oct 30 10pm · doors 9:30pm — **Sup, Boo? with Alison Leiby and Josh Gondelman** at Union Hall
 - Sat Oct 31 7pm — **Nasser Al-Rayess** at The Town Hall
 - Sat Oct 31 7:30pm · doors 6:30pm — **Scary Good Comedy with Brittany Carney** at Littlefield · going fast · heat 25
 - Sat Oct 31 7:30pm · doors 7pm — **Hot Gossip with Jonathan van Halem** at Union Hall
@@ -31,7 +27,7 @@ Ranked 50; run 1, reuse 6, skip 43; ~441,000 tokens saved. No recent data: Nasse
 - Mon Nov 2 8pm · doors 7:30pm — **The Peter Stewart Show! With Kareem Green!** at Comic Strip Live · NO ARTWORK
 - Tue Nov 3 7pm — **Difficult People: The Movie — A Live Table Read** at The Town Hall · NO ARTWORK
 - Tue Nov 3 7pm — **The Stand Presents: Francis Ellis, Caitlin Peluffo, Peyton Ruddy, & More!** at The Stand
-- Tue Nov 3 7:30pm · doors 7pm — **Michael Longfellow** at Union Hall · heat 25
+- Tue Nov 3 7:30pm · doors 7pm — **Michael Longfellow** at Union Hall
 - Tue Nov 3 8pm — **Infamous Ray** at The Stand
 - Wed Nov 4 7pm — **Please Stay Seated** at West Side Comedy Club
 - Wed Nov 4 8pm — **Salma Hindy: 10 Years of Stand-Up Comedy** at The Stand
@@ -39,25 +35,25 @@ Ranked 50; run 1, reuse 6, skip 43; ~441,000 tokens saved. No recent data: Nasse
 - Thu Nov 5 8pm · doors 7pm — **Angelo Colina en Harlem** at Comedy In Harlem
 - Thu Nov 5 8pm · doors 7:30pm — **Corinne Fisher, Priya Blunts, Peter Stewart, Rosey Catherine, Lauren Cocroft, Peter Gurl, kyle mara** at Eastville Comedy Club
 - Thu Nov 5 10pm · doors 9:30pm — **Jessie "Jetski" Johnson** at Union Hall
-
-  Leads to review:
-  - Fri Oct 30 7pm — Abolish Everything: World Championship III at Caveat · from $26.68 · has artwork
-  - Fri Oct 30 7:30pm — Rocky Horror Picture Show with The Occasionalists at Littlefield · from $18.71 · has artwork
-  - Fri Oct 30 7:30pm — Garrett and Allison's Big Night at Union Hall · from $15.92 · has artwork
-  - Fri Oct 30 8pm — Christian Finnegan, Nick Griffin, Connor O'Brien, Olga Namer, & more! at Comic Strip Live · from $25.71 · has artwork
-  - Sat Oct 31 1:30pm — Roll for Friends at Caveat · from $24.41 · has artwork
-  - Sat Oct 31 4pm — 3 Days Notice at Caveat · from $22.35 · has artwork
-  - Sat Oct 31 5pm — Maggie's Scary Story Contest at Union Hall · from $15.92 · has artwork
-  - Sat Oct 31 7pm — Catbaret! NYC’s Cat-Themed Variety Show: Meowloween! at Caveat · from $24.41 · has artwork
-
-## Week 2: Nov 6 to Nov 12 — 26 picks — 15 without artwork · 5 Eventbrite leads not yet reviewed
-
 - Fri Nov 6 7pm — **Gayme Show! starring Matt Rogers and Dave Mizzoni** at BMCC Tribeca Performing Arts Center · NO ARTWORK
 - Fri Nov 6 7pm — **Adam Ray** at Gramercy Theatre · NO ARTWORK
 - Fri Nov 6 7pm — **Ms. Pat** at Hard Rock Hotel New York - The Venue on Music Row · NO ARTWORK
 - Fri Nov 6 7pm — **Ziwe** at The Town Hall · NO ARTWORK
 - Fri Nov 6 7:30pm · doors 7pm — **Skintag and Friends** at Union Hall
 - Fri Nov 6 8pm · doors 7pm — **George Willborn: "The Stress Reliever"** at Comedy In Harlem
+
+  Leads to review:
+  - Sat Oct 31 1:30pm — Roll for Friends at Caveat · from $24.41 · has artwork
+  - Sat Oct 31 4pm — 3 Days Notice at Caveat · from $22.35 · has artwork
+  - Sat Oct 31 5pm — Maggie's Scary Story Contest at Union Hall · from $15.92 · has artwork
+  - Sat Oct 31 7pm — Catbaret! NYC’s Cat-Themed Variety Show: Meowloween! at Caveat · from $24.41 · has artwork
+  - Sat Oct 31 8pm — Tom Van Horn, Connor O'Brien, Jocelyn Chia, Paul Mecurio, & Brian McFadden! at Comic Strip Live · from $25.71 · has artwork
+  - Sat Oct 31 9:30pm — The Rocky Horror Picture Show at Caveat · from $24.41 · has artwork
+  - Sat Oct 31 10pm — Halloween Spooktackular at Union Hall · from $15.92 · has artwork
+  - Sat Oct 31 10:30pm — Tom Van Horn, Connor O'Brien, Jocelyn Chia, Paul Mecurio, & Brian McFadden! at Comic Strip Live · from $25.71 · has artwork
+
+## Week 2: Nov 7 to Nov 13 — 23 picks — 14 without artwork · 3 Eventbrite leads not yet reviewed
+
 - Sat Nov 7 6pm — **Joanne McNally: Pinotphile** at The Town Hall · NO ARTWORK · heat 35
 - Sat Nov 7 6pm — **Cattywampus with Ellen Skrmetti** at West Side Comedy Club
 - Sat Nov 7 8pm · doors 7:30pm — **Ken Boyd, Caroline Hanes, Craig Gass, Kyle Grooms & Mike Yard** at Comic Strip Live · NO ARTWORK · going fast · heat 25
@@ -66,7 +62,7 @@ Ranked 50; run 1, reuse 6, skip 43; ~441,000 tokens saved. No recent data: Nasse
 - Sun Nov 8 7pm — **Sarah Sherman & Patti Harrison** at The Town Hall · NO ARTWORK
 - Sun Nov 8 7:30pm — **Marc Maron: Yammering Into the Void Tour** at Beacon Theatre · NO ARTWORK · heat 20
 - Sun Nov 8 7:30pm — **Rainbow Riot** at Brooklyn Comedy Collective · NO ARTWORK
-- Mon Nov 9 7:30pm — **Dewayne Perkins** at The Bell House · NO ARTWORK · heat 20
+- Mon Nov 9 7:30pm — **Dewayne Perkins** at The Bell House · NO ARTWORK
 - Mon Nov 9 8pm — **Stand Up for Heroes (NYCF)** at David Geffen Hall (Lincoln Center) · NO ARTWORK
 - Tue Nov 10 7pm — **Ester Steinberg** at New York Comedy Club (Midtown)
 - Tue Nov 10 7:30pm — **Double Edged: Caroline Hanes and Salma Zaky** at New York Comedy Club (Upper West Side)
@@ -78,21 +74,19 @@ Ranked 50; run 1, reuse 6, skip 43; ~441,000 tokens saved. No recent data: Nasse
 - Thu Nov 12 6pm — **Shelly Belly Presented by the New York Comedy Festival** at New York Comedy Club (Upper West Side)
 - Thu Nov 12 8pm — **Jordan Jensen** at Beacon Theatre · NO ARTWORK
 - Thu Nov 12 8:30pm · doors 8pm — **Bourne With Talent Comedy Show** at St. Marks Comedy Club · NO ARTWORK
+- Fri Nov 13 6:45pm — **Ilana Glazer Live!** at Beacon Theatre · NO ARTWORK · heat 20
+- Fri Nov 13 7pm — **Jess Hilarious: The Don t Play Wit Me Tour** at Hard Rock Hotel New York - The Venue on Music Row · NO ARTWORK
+- Fri Nov 13 8pm — **Dropout Improv** at Kings Theatre · NO ARTWORK
 
   Leads to review:
-  - Fri Nov 6 8pm — NY Comedy Festival Presents: Putería con PAPIROSSA: Celebration of Life at Littlefield · from $29.5 · has artwork
-  - Fri Nov 6 8pm — Ken Boyd, Thash Mose, Craig Gass, Kyle Grooms, & Mike Yard! at Comic Strip Live · from $25.71 · has artwork
   - Sat Nov 7 10:30pm — Ken Boyd, Caroline Hanes, Craig Gass, Kyle Grooms, & Mike Yard! at Comic Strip Live · from $25.71 · has artwork
   - Sun Nov 8 3pm — NY Comedy Festival Presents: Hot Guy Draft: A Comedy Fantasy Draft at Littlefield · from $18.71 · has artwork
   - Sun Nov 8 8pm — DF Sweedler, Nick Tilleli, Carla Oakerson, Dan Naturman, Jason Choi, & more at Comic Strip Live · from $25.71 · has artwork
 
-## Week 3: Nov 13 to Nov 19 — 19 picks — 13 without artwork
+## Week 3: Nov 14 to Nov 20 — 18 picks — 10 without artwork
 
-- Fri Nov 13 6:45pm — **Ilana Glazer Live!** at Beacon Theatre · NO ARTWORK · heat 30
-- Fri Nov 13 7pm — **Jess Hilarious: The Don t Play Wit Me Tour** at Hard Rock Hotel New York - The Venue on Music Row · NO ARTWORK
-- Fri Nov 13 8pm — **Dropout Improv** at Kings Theatre · NO ARTWORK
 - Sat Nov 14 3pm — **The Moth x Comic Relief: Funny Story** at The Town Hall · NO ARTWORK
-- Sat Nov 14 7pm — **Daniel Sloss: Bitter** at Beacon Theatre · NO ARTWORK · heat 50
+- Sat Nov 14 7pm — **Daniel Sloss: Bitter** at Beacon Theatre · NO ARTWORK
 - Sat Nov 14 7pm — **SH&T Show hosted by Jordan Klepper** at The Town Hall · NO ARTWORK
 - Sun Nov 15 5pm — **Jake Velazquez: Special Recording** at New York Comedy Club (Midtown)
 - Sun Nov 15 6:30pm — **Mojo Brookzz: Outta Pocket Comedy Tour** at Beacon Theatre · NO ARTWORK
@@ -107,11 +101,11 @@ Ranked 50; run 1, reuse 6, skip 43; ~441,000 tokens saved. No recent data: Nasse
 - Thu Nov 19 7pm — **Michelle Wolf: Best Job in the World** at The Town Hall · NO ARTWORK
 - Thu Nov 19 8pm — **Stone and Stone On The Road!** at West Side Comedy Club
 - Thu Nov 19 8:30pm — **Previously on Generational Curse... with Nore Davis** at New York Comedy Club (Midtown) · NO ARTWORK
-
-## Week 4: Nov 20 to Nov 26 — 18 picks — 6 without artwork
-
 - Fri Nov 20 7:30pm — **Fahim Anwar** at The Bell House · SOLD OUT · heat 100
 - Fri Nov 20 7:30pm — **Opey Olagbaju** at Union Hall
+
+## Week 4: Nov 21 to Nov 27 — 18 picks — 6 without artwork
+
 - Sat Nov 21 4:30pm · doors 4pm — **Prime Time Comedy Show** at St. Marks Comedy Club · NO ARTWORK
 - Sat Nov 21 8:30pm — **Ask Ronna: Ronnukah Live!** at The Bell House
 - Sun Nov 22 5pm — **Christian Finnegan: A Lot of Heart (Live Special Taping!)** at New York Comedy Club (Midtown)
@@ -128,11 +122,11 @@ Ranked 50; run 1, reuse 6, skip 43; ~441,000 tokens saved. No recent data: Nasse
 - Wed Nov 25 7:45pm — **Story Warz w/ Big Jay Oakerson, Luis J Gomez + Special Guests** at New York Comedy Club (Midtown)
 - Thu Nov 26 6:30pm · doors 6pm — **A TRUE YORK COMEDY EXPERIENCE** at St. Marks Comedy Club · NO ARTWORK
 - Thu Nov 26 8:30pm · doors 8pm — **Date Night Comedy Show x2** at St. Marks Comedy Club
-
-## Week 5: Nov 27 to Dec 3 — 16 picks — 5 without artwork
-
 - Fri Nov 27 8:30pm · doors 8pm — **Friday Night Laughs Comedy Show** at St. Marks Comedy Club
 - Fri Nov 27 10pm · doors 9:30pm — **Girl Church hosted by Amelia Ritthaler** at Union Hall
+
+## Week 5: Nov 28 to Dec 4 — 17 picks — 5 without artwork
+
 - Sat Nov 28 8pm — **Eastville Saturday Showcase** at Eastville Comedy Club · NO ARTWORK
 - Sat Nov 28 8:30pm · doors 8pm — **Speakeasy Saturday Night** at St. Marks Comedy Club
 - Sun Nov 29 7pm — **Comedy Idol Finale** at West Side Comedy Club · NO ARTWORK
@@ -147,12 +141,12 @@ Ranked 50; run 1, reuse 6, skip 43; ~441,000 tokens saved. No recent data: Nasse
 - Wed Dec 2 7:30pm — **Ania Magliano: Peach Fuzz** at The Bell House · heat 35
 - Wed Dec 2 7:30pm · doors 7pm — **Cold Plunge with Kurt Braunohler** at Union Hall
 - Thu Dec 3 8:30pm · doors 8pm — **Date Night Comedy Show x2** at St. Marks Comedy Club · NO ARTWORK
-
-## Week 6: Dec 4 to Dec 10 — 18 picks — 4 without artwork
-
 - Fri Dec 4 6pm — **Brooklyn Power Hour** at Eastville Comedy Club
 - Fri Dec 4 7pm — **Demetri Martin: Standup Comedy for Christmas** at The Bell House
 - Fri Dec 4 8:30pm · doors 8pm — **Friday Night Laughs Comedy Show** at St. Marks Comedy Club
+
+## Week 6: Dec 5 to Dec 11 — 17 picks — 6 without artwork
+
 - Sat Dec 5 6:30pm · doors 6pm — **Peter & Friends Comedy Show** at St. Marks Comedy Club
 - Sat Dec 5 7pm — **Demetri Martin: Standup Comedy for Christmas** at The Bell House
 - Sat Dec 5 8:30pm · doors 8pm — **Speakeasy Saturday Night** at St. Marks Comedy Club
@@ -165,7 +159,9 @@ Ranked 50; run 1, reuse 6, skip 43; ~441,000 tokens saved. No recent data: Nasse
 - Tue Dec 8 9:30pm · doors 9pm — **The Gong Show - Hosted by Robert Punchur** at St. Marks Comedy Club · NO ARTWORK
 - Wed Dec 9 7:30pm · doors 7pm — **Down Bad Comedy Show** at St. Marks Comedy Club · NO ARTWORK
 - Wed Dec 9 9:30pm · doors 9pm — **DYLAN'S LAST SHOW EVER** at St. Marks Comedy Club
-- Wed Dec 9 10pm · doors 9:30pm — **Gavin Matts: profound** at Union Hall · heat 25
+- Wed Dec 9 10pm · doors 9:30pm — **Gavin Matts: profound** at Union Hall
 - Thu Dec 10 6:30pm · doors 6pm — **A TRUE YORK COMEDY EXPERIENCE** at St. Marks Comedy Club · NO ARTWORK
 - Thu Dec 10 8:30pm · doors 8pm — **Date Night Comedy Show x2** at St. Marks Comedy Club · NO ARTWORK
+- Fri Dec 11 6:30pm · doors 6pm — **A TRUE YORK COMEDY EXPERIENCE** at St. Marks Comedy Club · NO ARTWORK
+- Fri Dec 11 8:30pm · doors 8pm — **Friday Night Laughs Comedy Show** at St. Marks Comedy Club · NO ARTWORK
 
