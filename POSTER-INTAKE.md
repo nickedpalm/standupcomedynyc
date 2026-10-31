@@ -186,3 +186,30 @@ The two NYCC images came from the club's own image host. The Frankenstein's
 Baby image only resolves through Eventbrite's image proxy with the signed URL
 from the listing — the bare CDN link returns "sig_invalid", which is worth
 knowing the next time one is needed.
+
+### 2026-10-31 - Recovery edition artwork
+
+Five pieces added, each opened and read before it was attached.
+
+- **Peyton Ruddy** (Union Hall, Nov 2) - the performer's photo from the
+  Eventbrite listing, not a flyer: a head-and-shoulders shot in a plaid shirt.
+  Recorded as a performer photo, not show art.
+- **Doctors Without Boundaries** (Caveat, Nov 4) - the room's own flyer, black
+  background with the caduceus mark, "DOCTORS WITHOUT BOUNDARIES / MEDICINE
+  AND COMEDY HOSTED BY DR. AARON BOLA / NOVEMBER 4 / 7:00P", the Caveat logo
+  and the four comics' headshots (Brittany Carney, Nadia Pinder, Shafi
+  Hossain, Jack Cloonan).
+- **The Workout** (Upper East Side Comedy Club, Nov 7) - the club's own show
+  card for the festival's warm-up room, served from its own /assets/flyers
+  path and byte-identical to what the club publishes.
+- **NYC's Best Weekly Thursday Show** (Upper East Side Comedy Club, Nov 5) -
+  the club's own flyer for that date, from its /assets/flyers path.
+- **Demi Adejuyigbe Sells Out** (Littlefield, Nov 9) - the festival's card for
+  the show: "DEMI ADEJUYIGBE / SELLS OUT!", Littlefield NYC, NOV 9 2026,
+  7PM and 9:30PM, with the New York Comedy Festival mark.
+
+The two Eventbrite images resolve through Eventbrite's image proxy with the
+signed URL from the listing; the bare CDN link does not return the file, which
+is worth remembering the next time one is needed.
+
+None of these is marked `reuse: granted`, so none appears on an Instagram card.

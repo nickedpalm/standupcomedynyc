@@ -1682,5 +1682,18 @@
   "access_note": "Second-floor room at 410 8th Ave, a block from Penn Station and MSG, run by Laughing Buddha Comedy. Weekly Friday prime-time all-star show at 8pm plus a full week of one-hour mics through the week. $15 beverage minimum.",
   "verified_at": "2026-10-29",
   "note": "Address '410 8th Ave, 2nd Floor, New York, NY 10001' comes from the room's own Ticket Tailor event page. The 8th Ave address is on the boundary of Chelsea and the Garment District; the registry keeps Chelsea."
+ },
+ {
+  "name": "Upper East Side Comedy Club",
+  "address": "206 E 67th St, Manhattan",
+  "neighborhood": "Upper East Side",
+  "borough": "Manhattan",
+  "website": "https://www.uppereastsidecomedyclub.com/",
+  "calendar_url": "https://www.uppereastsidecomedyclub.com/comedy-shows-bedfordfalls-nyc",
+  "eventbrite_organizer": "https://www.eventbrite.com/o/121391640642",
+  "source_label": "Club home + shows page (the room is inside Bedford Falls NYC)",
+  "access_note": "A 40-seat room in the back of Bedford Falls NYC; enter through the bar. The club's own site and Eventbrite organizer page both load plainly.",
+  "verified_at": "2026-10-31",
+  "note": "Neighborhood from the club's own address: 206 E 67th St, between Second and Third Avenue. The club says the room is 40 seats, one item food or drink minimum, 21+, and runs Thursday at 8pm with 8pm and 10pm sets Friday and Saturday."
  }
 ]

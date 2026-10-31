@@ -338,5 +338,25 @@
   "source_label": "Venue listing on its ticketing partner (Punchup)",
   "verified_at": "2026-10-28",
   "verification_note": "Price, one-item minimum, the 21+ rule and the Tuesday-to-Sunday opening hours come from the room's own listing on Punchup, its ticketing partner, which also gives the 66 Greenpoint Ave address. The club's Squarespace site links out to Punchup for tickets and has no policy page of its own."
+ },
+ {
+  "id": "upper-east-side-comedy-club",
+  "tier": "club",
+  "name": "Upper East Side Comedy Club",
+  "rooms": "One 40-seat room behind the bar at Bedford Falls NYC",
+  "address": "206 E 67th St, Manhattan",
+  "neighborhood": "Upper East Side",
+  "price_label": "$12 super early bird · $15 early bird · $20 online · $25 at the door",
+  "price_low": 12,
+  "price_high": 25,
+  "minimum": "One food or drink item per person",
+  "age": "21+, with valid ID",
+  "reservations": "Book online through Eventbrite. Doors 30 minutes before showtime; arrive 15–30 minutes early to check in and get a drink. Groups are seated together if you book in one order and email ahead. Tickets are non-refundable but can be exchanged for another show up to 24 hours before.",
+  "character": "The smallest room we cover — 40 seats at the back of a neighborhood bar on the Upper East Side. Comics use it to work out new material, so unannounced drop-ins are part of the night.",
+  "calendar_url": "https://www.uppereastsidecomedyclub.com/comedy-shows-bedfordfalls-nyc",
+  "source_url": "https://www.uppereastsidecomedyclub.com/frequently-asked-questions",
+  "source_label": "Club FAQ",
+  "verified_at": "2026-10-31",
+  "verification_note": "Read from the club's own FAQ on 2026-10-31: the one-item minimum, the 21+ rule with ID, the 12/15/20/25 price tiers and what each closes at, the 30-minute door time, the group policy, the non-refundable terms and the 24-hour exchange. The 40-seat size and the address come from the club's home page and its Eventbrite listings."
  }
 ]

@@ -563,3 +563,64 @@ WORTH YOUR FRIDAY". Set `cover_art: true` on the Sup, Boo? pick instead: the
 Union Hall artwork is a wide stage shot of two comics under the show title, no
 baked-in count, and it reads as the strongest visual of the four. Credit on the
 card: "Artwork: Union Hall / show organizer".
+
+## 2026-10-31 — Recovery of the 2026-10-31 edition (the 11:00 cron hit its tool cap)
+
+The 11:00 edition cron died before it committed. Its work was left in the tree:
+nine new picks, a new room, artwork, and a research-plan fix. Every source was
+re-opened and re-read before any of it shipped, and several things were wrong.
+
+**Nine picks added** (all tier special, each opened on its own page first):
+Peyton Ruddy at Union Hall (Nov 2, $25.69); Doctors Without Boundaries at Caveat
+(Nov 4, $24.41); Stand-Up Comedy NYC's Thursday showcase at Upper East Side
+Comedy Club (Nov 5, from $13.06); The Workout, the festival's warm-up room, at
+Upper East Side Comedy Club (Nov 7, $24.86); Demi Adejuyigbe Sells Out at
+Littlefield (Nov 9, from $24.36); Daniela Mora, Laz Rivero and Alexis Carabaño at
+St. Marks (Dec 6); R&B Karaoke and Comedy at Comedy In Harlem (Dec 7, $12.50
+all-in); Brooklyn Power Hour at Eastville (Dec 11, $28.13); Grove Comedy at
+Grove 34 (Dec 11).
+
+**Corrections made on top of the dead run's work:**
+- **Doctors Without Boundaries price** $18.76 → $24.41. The $18.76 tier was an
+  early bird that ended Oct 28; the page now shows $24.41 standard and $25 at
+  the door.
+- **Peyton Ruddy blurb** claimed the room "only holds a few hundred". No page
+  states a capacity. Union Hall's own info page says it is a 5,000 sq ft
+  basement room with mixed seating/standing; the blurb says that instead.
+- **Daniela Mora** said she has been "selling out the Cellar" and listed
+  "& More". The Tixr page names three comics and says "Comedy Cellar plus viral
+  social media"; the title and blurb now match the page. The club's own /shows
+  page renders an empty JS shell and its dated show URL 404s, so the source is
+  the Tixr page that carries the facts.
+- **Grove Comedy** said "two minutes from the Broadway stop" — an invented
+  distance. The room's own page says N, W to the Broadway stop and that BYOB is
+  allowed with a $25 corking fee, which is the better detail.
+- **R&B Karaoke** said "a twelve-dollar ticket"; the page says $12.50 all-in.
+- **Comedy Mob Open Mic** was on the board as a pick. Open mics belong in
+  open-mics.json, so it moved to the Sunday rail with the Mob's real sign-up
+  rule (one Google Form, Wednesday 10am).
+- **Jessica Kirson Nov 23** listed Premium at $56.40; the page says $45.00 sold
+  out. Both Jessica Kirson dates and Nore Davis were re-opened today, so their
+  verified_at is bumped and they are no longer stale.
+- **NYCF link note** said 23 shows. Counted against the festival's own schedule
+  page (our URL on nycomedyfestival.com, or the festival's Get Tickets link
+  pointing at the same ticket we use, or the festival listing that show at our
+  venue): 26 on HEAD, so the published number was already stale, and 28 with
+  The Workout and Demi Adejuyigbe Sells Out added.
+
+**New room:** Upper East Side Comedy Club, 206 E 67th St — 40 seats behind
+Bedford Falls, one-item minimum, 21+, $12 to $25 by how early you book. It is
+in venues.json, clubs.json and on the recurring rail as the Thursday showcase.
+
+**Improvement (the small one):** research-plan.js was ranking show titles as
+performers — "Difficult People" (a Town Hall table read) and six more were
+eating research runs. It now splits credit lists on commas and conjunctions,
+drops trailing "More", and treats a title carrying a function word
+("Doctors Without Boundaries", "Not Ripe Bananas") as a show, not a person. The
+run that was queued on "Difficult People" now goes to Sam Oh, whose Bell House
+date is in two days.
+
+**Board state:** 130 picks. Six weeks read 29/25/18/18/17/21, every week clear
+of the eight-pick floor. Availability was checked for every new pick with the
+ticket pages and Eventbrite's availability endpoint; none of the nine is sold
+out or going fast.

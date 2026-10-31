@@ -1,5 +1,5 @@
 {
- "retrieved_at": "2026-10-30T11:01:41.510Z",
+ "retrieved_at": "2026-10-31T11:02:02.439Z",
  "note": "Promoter posts from NYC neighborhood subreddits, last 14 days. Leads only: open the linked page or the venue site before anything enters the data; register the venue first.",
  "subreddits": [
   "nycevents",
@@ -27,11 +27,105 @@
  ],
  "leads": [
   {
+   "id": "1xjtrjg",
+   "date": "2026-10-30",
+   "subreddit": "nycComedy",
+   "title": "Gotham Comedy Club",
+   "score": 2,
+   "comments": 0,
+   "url": "https://www.reddit.com/r/nycComedy/comments/1xjtrjg/gotham_comedy_club/",
+   "venues_mentioned": [
+    "Gotham Comedy Club"
+   ],
+   "when_mentioned": null,
+   "time_mentioned": null,
+   "links": [],
+   "free": false,
+   "new_since_last_run": true,
+   "excerpt": "hi! i'm visiting from out of town and am curious about the nov 2 (marcello hernandez) show. i know it's sold out and no ticket re-sales (yay to avoid scalpers). but any idea if i can just show up and try my luck? or don't bother? thanks!"
+  },
+  {
+   "id": "1xjlhkz",
+   "date": "2026-10-30",
+   "subreddit": "williamsburg",
+   "title": "Halloween Art Show &amp; Tell 7PM-2AM",
+   "score": 1,
+   "comments": 0,
+   "url": "https://www.reddit.com/r/williamsburg/comments/1xjlhkz/halloween_art_show_tell_7pm2am/",
+   "venues_mentioned": [],
+   "when_mentioned": "Friday",
+   "time_mentioned": "7PM",
+   "links": [
+    "https://www.instagram.com/thetinycupboard/",
+    "https://www.instagram.com/parkyouseung/",
+    "https://www.instagram.com/hellokiboy/"
+   ],
+   "free": true,
+   "new_since_last_run": true,
+   "excerpt": "**Happy Halloween Eve!** Still looking for something to do tonight? Stop by [thetinycupboard](https://www.instagram.com/thetinycupboard/) for a nite of candy, costumes, creativity, drinks, karakoke, performances, and showcases. BYOwork to share! 🎃 All mediums are welcomed so cal"
+  },
+  {
+   "id": "1xjgvy8",
+   "date": "2026-10-30",
+   "subreddit": "williamsburg",
+   "title": "Winter is coming to Williamsburg...",
+   "score": 14,
+   "comments": 4,
+   "url": "https://www.reddit.com/r/williamsburg/comments/1xjgvy8/winter_is_coming_to_williamsburg/",
+   "venues_mentioned": [],
+   "when_mentioned": null,
+   "time_mentioned": null,
+   "links": [
+    "https://ooonyc.substack.com/p/fall-2026-hobby-guide"
+   ],
+   "free": true,
+   "new_since_last_run": true,
+   "excerpt": "So I'm looking for upcoming courses in Williamsburg (multi-part ideally) to help kickstart a hobby. I'm hoping you'll help again as I've had great responses here before when crowdsourcing for previous seasons (**see:** [**Free Fall Hobby Guide (Brooklyn Edition)**](https://ooonyc"
+  },
+  {
+   "id": "1xjh31u",
+   "date": "2026-10-30",
+   "subreddit": "lowereastside",
+   "title": "winter courses in LES",
+   "score": 12,
+   "comments": 0,
+   "url": "https://www.reddit.com/r/lowereastside/comments/1xjh31u/winter_courses_in_les/",
+   "venues_mentioned": [],
+   "when_mentioned": null,
+   "time_mentioned": null,
+   "links": [
+    "https://ooonyc.substack.com/p/fall-2026-hobby-guide-manhattan-edition"
+   ],
+   "free": true,
+   "new_since_last_run": true,
+   "excerpt": "With winter around the corner (ugh, I know...) I'm looking for upcoming courses in LES (multi-part ideally) to help kickstart a hobby. I'm hoping you'll help again as I've had great responses here before when crowdsourcing for previous seasons (**see:** [**Free Fall Hobby Guide ("
+  },
+  {
+   "id": "1xjloox",
+   "date": "2026-10-30",
+   "subreddit": "ridgewood",
+   "title": "Halloweve Creative Visual Arts Show &amp; Tell Event (7PM-2AM)",
+   "score": 0,
+   "comments": 0,
+   "url": "https://www.reddit.com/r/ridgewood/comments/1xjloox/halloweve_creative_visual_arts_show_tell_event/",
+   "venues_mentioned": [],
+   "when_mentioned": "Friday",
+   "time_mentioned": "7PM",
+   "links": [
+    "https://www.instagram.com/thetinycupboard/",
+    "https://www.instagram.com/parkyouseung/",
+    "https://www.instagram.com/hellokiboy/"
+   ],
+   "free": true,
+   "new_since_last_run": true,
+   "excerpt": "**Happy Halloween Eve!** Still looking for something to do tonight? Stop by [thetinycupboard](https://www.instagram.com/thetinycupboard/) for a nite of candy, costumes, creativity, drinks, karakoke, performances, and showcases. BYOwork to share! 🎃 All mediums are welcomed so cal"
+  },
+  {
    "id": "1xi7ub7",
    "date": "2026-10-29",
    "subreddit": "astoria",
    "title": "Musical Comedy Night Thurs, Oct 29th @ Grove 34",
-   "score": 5,
+   "score": 6,
    "comments": 0,
    "url": "https://www.reddit.com/r/astoria/comments/1xi7ub7/musical_comedy_night_thurs_oct_29th_grove_34/",
    "venues_mentioned": [
@@ -49,7 +143,7 @@
    "date": "2026-10-29",
    "subreddit": "eastvillage",
    "title": "Who remembers Rififi Lounge?",
-   "score": 10,
+   "score": 12,
    "comments": 1,
    "url": "https://www.reddit.com/r/eastvillage/comments/1xilzcq/who_remembers_rififi_lounge/",
    "venues_mentioned": [],
@@ -57,7 +151,7 @@
    "time_mentioned": null,
    "links": [],
    "free": false,
-   "new_since_last_run": true,
+   "new_since_last_run": false,
    "excerpt": "Producer Marianne Ways is working on documenting Rififi Lounge and the alt-comedy scene that set the stage for much of today's mainstream entertainment. "
   },
   {
@@ -113,7 +207,7 @@
    "date": "2026-10-28",
    "subreddit": "Greenpoint",
    "title": "Come to Rose''s R&amp;R Bar tonight 10/28 for Free Comedy!",
-   "score": 3,
+   "score": 4,
    "comments": 0,
    "url": "https://www.reddit.com/r/Greenpoint/comments/1xhw27f/come_to_roses_rr_bar_tonight_1028_for_free_comedy/",
    "venues_mentioned": [],
@@ -131,7 +225,7 @@
    "date": "2026-10-28",
    "subreddit": "crownheights",
    "title": "Crown Heights Events Thread 10/28-11/4 HALLOWEEN EDITION",
-   "score": 20,
+   "score": 26,
    "comments": 0,
    "url": "https://www.reddit.com/r/crownheights/comments/1xhw615/crown_heights_events_thread_1028114_halloween/",
    "venues_mentioned": [
@@ -305,7 +399,7 @@
    "date": "2026-10-24",
    "subreddit": "AskNYC",
    "title": "How do you hear about things to do/see/hear?",
-   "score": 18,
+   "score": 17,
    "comments": 24,
    "url": "https://www.reddit.com/r/AskNYC/comments/1xemttu/how_do_you_hear_about_things_to_doseehear/",
    "venues_mentioned": [],
@@ -337,7 +431,7 @@
    "date": "2026-10-24",
    "subreddit": "longislandcity",
    "title": "New to LIC, How to make friends?",
-   "score": 42,
+   "score": 41,
    "comments": 78,
    "url": "https://www.reddit.com/r/longislandcity/comments/1xeh6w2/new_to_lic_how_to_make_friends/",
    "venues_mentioned": [
@@ -413,7 +507,7 @@
    "date": "2026-10-23",
    "subreddit": "williamsburg",
    "title": "We Raised $2600 For New Trash Cans in McCarren Park!",
-   "score": 238,
+   "score": 240,
    "comments": 35,
    "url": "https://www.reddit.com/r/williamsburg/comments/1xdjabn/we_raised_2600_for_new_trash_cans_in_mccarren_park/",
    "venues_mentioned": [],
@@ -429,7 +523,7 @@
    "date": "2026-10-23",
    "subreddit": "Greenpoint",
    "title": "We Raised $2600 For New Trash Cans in McCarren Park!",
-   "score": 41,
+   "score": 45,
    "comments": 1,
    "url": "https://www.reddit.com/r/Greenpoint/comments/1xdjbl6/we_raised_2600_for_new_trash_cans_in_mccarren_park/",
    "venues_mentioned": [],
@@ -497,7 +591,7 @@
    "date": "2026-10-22",
    "subreddit": "parkslope",
    "title": "Our $10 Magic Show is Back Tonight (Thursday) 7pm in Park Slope!",
-   "score": 10,
+   "score": 11,
    "comments": 1,
    "url": "https://www.reddit.com/r/parkslope/comments/1xc6p3f/our_10_magic_show_is_back_tonight_thursday_7pm_in/",
    "venues_mentioned": [
@@ -519,7 +613,7 @@
    "date": "2026-10-22",
    "subreddit": "Greenpoint",
    "title": "Super Duper Free and Awesome Comedy Show @ Word Bookstore 8pm Oct 22",
-   "score": 7,
+   "score": 8,
    "comments": 0,
    "url": "https://www.reddit.com/r/Greenpoint/comments/1xc5mcu/super_duper_free_and_awesome_comedy_show_word/",
    "venues_mentioned": [],
@@ -609,7 +703,7 @@
    "date": "2026-10-21",
    "subreddit": "williamsburg",
    "title": "Free Stand-Up Comedy Show Fundraiser For McCarren Park 10/22 7pm",
-   "score": 15,
+   "score": 17,
    "comments": 2,
    "url": "https://www.reddit.com/r/williamsburg/comments/1xbsi0v/free_standup_comedy_show_fundraiser_for_mccarren/",
    "venues_mentioned": [],
@@ -647,7 +741,7 @@
    "date": "2026-10-21",
    "subreddit": "lowereastside",
    "title": "Four Top at Casino restaurant on the LES",
-   "score": 13,
+   "score": 15,
    "comments": 0,
    "url": "https://www.reddit.com/r/lowereastside/comments/1xbmb3g/four_top_at_casino_restaurant_on_the_les/",
    "venues_mentioned": [],
@@ -667,7 +761,7 @@
    "date": "2026-10-21",
    "subreddit": "astoria",
    "title": "Open Mic at The Gaf - Wednesday October 21st",
-   "score": 5,
+   "score": 6,
    "comments": 2,
    "url": "https://www.reddit.com/r/astoria/comments/1xbycde/open_mic_at_the_gaf_wednesday_october_21st/",
    "venues_mentioned": [],
@@ -683,7 +777,7 @@
    "date": "2026-10-21",
    "subreddit": "Greenpoint",
    "title": "Free Stand-Up Comedy Show Fundraiser For McCarren Park 10/22 7pm",
-   "score": 9,
+   "score": 10,
    "comments": 0,
    "url": "https://www.reddit.com/r/Greenpoint/comments/1xbshdd/free_standup_comedy_show_fundraiser_for_mccarren/",
    "venues_mentioned": [],
@@ -723,7 +817,7 @@
    "date": "2026-10-21",
    "subreddit": "crownheights",
    "title": "I am hosting/producing the October standup comedy showcase at The Salon on Kingston next Wednesday! (Details in comments)",
-   "score": 4,
+   "score": 3,
    "comments": 1,
    "url": "https://www.reddit.com/r/crownheights/comments/1xbq5u9/i_am_hostingproducing_the_october_standup_comedy/",
    "venues_mentioned": [],
@@ -739,7 +833,7 @@
    "date": "2026-10-21",
    "subreddit": "BedStuy",
    "title": "I am hosting/producing the October standup comedy showcase at The Salon on Kingston next Wednesday! (Details in comments)",
-   "score": 10,
+   "score": 9,
    "comments": 1,
    "url": "https://www.reddit.com/r/BedStuy/comments/1xbq7yc/i_am_hostingproducing_the_october_standup_comedy/",
    "venues_mentioned": [],
@@ -986,7 +1080,7 @@
    "date": "2026-10-19",
    "subreddit": "AskNYC",
    "title": "Anywhere to see performance magic for not too much money?",
-   "score": 14,
+   "score": 15,
    "comments": 9,
    "url": "https://www.reddit.com/r/AskNYC/comments/1xabd24/anywhere_to_see_performance_magic_for_not_too/",
    "venues_mentioned": [],
@@ -1038,7 +1132,7 @@
    "date": "2026-10-18",
    "subreddit": "astoria",
    "title": "Stand up Show on 10/24 at Grove34",
-   "score": 3,
+   "score": 4,
    "comments": 0,
    "url": "https://www.reddit.com/r/astoria/comments/1x9axrc/stand_up_show_on_1024_at_grove34/",
    "venues_mentioned": [],
@@ -1056,7 +1150,7 @@
    "date": "2026-10-18",
    "subreddit": "crownheights",
    "title": "TONIGHT! Free Comedy @ Bar Bayeux!",
-   "score": 2,
+   "score": 1,
    "comments": 1,
    "url": "https://www.reddit.com/r/crownheights/comments/1x93f6e/tonight_free_comedy_bar_bayeux/",
    "venues_mentioned": [
@@ -1070,62 +1164,6 @@
    "free": true,
    "new_since_last_run": false,
    "excerpt": "Hey! I run a stand-up comedy show called Post Moves Comedy. Every Sunday, 8:30PM at Bar Bayeux, we feature club comics and folks who’ve been on TV, Don’t Tell, Netflix, and more. This next show will feature some HITTERS! RSVP now for a chance at a free drink and pull up for some "
-  },
-  {
-   "id": "1x7ljkt",
-   "date": "2026-10-16",
-   "subreddit": "nycevents",
-   "title": "10.17 HEX YEAH COMEDY VARIETY SHOW in Lower East Side!!",
-   "score": 1,
-   "comments": 0,
-   "url": "https://www.reddit.com/r/nycevents/comments/1x7ljkt/1017_hex_yeah_comedy_variety_show_in_lower_east/",
-   "venues_mentioned": [],
-   "when_mentioned": "Saturday",
-   "time_mentioned": null,
-   "links": [
-    "https://flophousecomedy.com/d2a2a158-e9fa-4b6e-af68-a8bd9b57a375/event/62b775aa-ad40-47e9-b51e-0f014987f6e1"
-   ],
-   "free": false,
-   "new_since_last_run": false,
-   "excerpt": "COME TO OUR COMEDY SHOW AT FLOPHOUSE. 201 Allen Street. This Saturday! Dress hot and scary!! $50 prize for best dressed. Tickets only $15. Support your local friends and have some fun! [https://flophousecomedy.com/d2a2a158-e9fa-4b6e-af68-a8bd9b57a375/event/62b775aa-ad40-47e9-b51e"
-  },
-  {
-   "id": "1x7v8m6",
-   "date": "2026-10-16",
-   "subreddit": "lowereastside",
-   "title": "NYC: Neuroscience-themed variety show on (conspiracy) theories | Saturday, October 24, 4pm @ Caveat",
-   "score": 1,
-   "comments": 0,
-   "url": "https://www.reddit.com/r/lowereastside/comments/1x7v8m6/nyc_neurosciencethemed_variety_show_on_conspiracy/",
-   "venues_mentioned": [
-    "Caveat"
-   ],
-   "when_mentioned": "Saturday, October 24, 4pm @ Caveat For conspirac",
-   "time_mentioned": "4pm",
-   "links": [
-    "https://fugues.simplecast.com/",
-    "https://partiful.com/e/gXLLhe8aJSTyp6K2qZcd?c=tKk4whyI",
-    "https://caveat.nyc/events/were-ready-to-disbelieve-you-2026-10-24"
-   ],
-   "free": false,
-   "new_since_last_run": false,
-   "excerpt": "For conspiracy theory or just theory-curious folks: My comedian friend and I are producing a neuroscience-themed variety show at Caveat, the comedy cabaret and speakeasy in the LES, on Saturday, October 24, 4pm. The event is an extension of the [Fugues podcast](https://fugues.sim"
-  },
-  {
-   "id": "1x7ljx8",
-   "date": "2026-10-16",
-   "subreddit": "lowereastside",
-   "title": "10.17 HEX YEAH COMEDY VARIETY SHOW in Lower East Side!!",
-   "score": 1,
-   "comments": 0,
-   "url": "https://www.reddit.com/r/lowereastside/comments/1x7ljx8/1017_hex_yeah_comedy_variety_show_in_lower_east/",
-   "venues_mentioned": [],
-   "when_mentioned": null,
-   "time_mentioned": null,
-   "links": [],
-   "free": false,
-   "new_since_last_run": false,
-   "excerpt": ""
   }
  ]
 }

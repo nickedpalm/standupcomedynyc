@@ -549,5 +549,24 @@
   "source_label": "Bar Bayeux comedy page",
   "verified_at": "2026-10-27",
   "verification_note": "The room\u2019s own comedy page states stand-up every Sunday at 8:30pm, brought to the room by Post Moves Comedy. The producer\u2019s Eventbrite listing for the same show is marked Free, names the same address, and asks guests to support the venue with a one drink minimum."
+ },
+ {
+  "id": "uesc-weekly-showcase",
+  "tier": "recurring",
+  "title": "Upper East Side Comedy Club weekly showcase",
+  "cadence": "Every Thursday",
+  "weekday": 4,
+  "time_label": "8pm \u00b7 Fridays and Saturdays also at 10pm",
+  "venue": "Upper East Side Comedy Club",
+  "address": "206 E 67th St, Manhattan",
+  "neighborhood": "Upper East Side",
+  "price_label": "$12 super early bird \u00b7 $15 early bird \u00b7 $20 online \u00b7 $25 at the door",
+  "price_amount": 12,
+  "format": "Stand-up",
+  "description": "The small end of Manhattan's comedy circuit: forty seats at the back of a neighborhood bar on the Upper East Side, where the comics are often working out material they haven't put on stage yet.",
+  "source_url": "https://www.uppereastsidecomedyclub.com/comedy-shows-bedfordfalls-nyc",
+  "source_label": "Club shows page (weekly Thursday / Friday / Saturday schedule)",
+  "verified_at": "2026-10-31",
+  "verification_note": "The club's own shows page states the regular week is Thursday at 8pm, with 8pm and 10pm shows on Friday and Saturday, in a 40-seat room inside Bedford Falls NYC at 206 E 67th St. The FAQ gives the price tiers and the one-item minimum."
  }
 ]

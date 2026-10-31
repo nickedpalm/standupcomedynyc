@@ -25,20 +25,33 @@ if (arg('--record')) {
   fs.writeFileSync(cacheFile, JSON.stringify(cache, null, 1) + '\n'); console.log(`cached: ${name}`); process.exit(0);
 }
 
-const NOT_A_NAME = /\b(comedy|show|night|live|club|architecture|game|party|hour|tour|special|presents|festival|showcase|open|mic|the|an|a|of|and|with|in|at|for|from|to|vs|trivia|taping|drinking|fun|looking|laugh|laughs|whine|list|bisque|charity|obey|advance|moderation|invisible|jokes|jranks|backroom|wits|end|stand|up|sorry|here|fix|laff|spell|checc|voices|cabaret|interview|experts|watch|dating|story|facts|machine|major|just|famous|words|charity|obey|advance|moderation|invisible|jokes|jranks|backroom|wits|end|stand|up|sorry|here|fix|laff|spell|checc|voices|cabaret|interview|experts|watch|dating|story|facts|machine|major|just|famous|words|dress|rehearsal|speakeasy|pizzazz|banana)\b/i;
+const NOT_A_NAME = /\b(comedy|show|night|live|club|architecture|game|party|hour|tour|special|presents|festival|showcase|open|mic|the|an|a|of|and|with|in|at|for|from|to|vs|trivia|taping|drinking|fun|looking|laugh|laughs|whine|list|bisque|charity|obey|advance|moderation|invisible|jokes|jranks|backroom|wits|end|stand|up|sorry|here|fix|laff|spell|checc|voices|cabaret|interview|experts|watch|dating|story|facts|machine|major|just|famous|words|dress|rehearsal|speakeasy|pizzazz|banana|bananas|improv|difficult|people|double|edged|riot|ask|ripe|seated|table|read|experience|workout|mob|battle|draft|fantasy|puzzle|contest|review|stories|more|and|plus|featuring)\b/i;
+// Function words never sit inside a person's name. A phrase carrying one is a show
+// title, not a performer ("Doctors Without Boundaries", "Not Ripe Bananas",
+// "Please Stay Seated"). Same job as NOT_A_NAME, for the words that are not nouns.
+const NOT_IN_A_NAME = /\b(the|a|an|and|or|with|without|from|for|to|in|on|at|of|by|not|please|per|via|plus|versus|vs)\b/i;
 // A title can name a brand before "Presents with" and put the actual performers after it
 // ("Steve Martin Presents with Andrew Dismukes and Michael Good"). Rank the hosts, not the brand.
+const isPerson = (s) => Boolean(s) && s.length <= 40 && !NOT_A_NAME.test(s) && !NOT_IN_A_NAME.test(s);
+// Split a credit list on commas and conjunctions: "Francis Ellis, Caitlin Peluffo, Peyton Ruddy, & More!"
+const splitNames = (s) => String(s)
+  .split(/\s*(?:,|&|\/|\+)\s*|\s+(?:and|with)\s+/i)
+  .map((x) => x.trim().replace(/[.!]+$/, ''))
+  .filter(isPerson);
 const performers = (title) => {
   const t = String(title || '').trim();
   const hosted = t.match(/^.+?\bPresents with\s+(.+)$/);
-  if (hosted) {
-    return hosted[1]
-      .split(/\s+(?:and|with|w\/|&)\s+/i)
-      .map((s) => s.trim())
-      .filter((s) => s && s.length <= 40 && !NOT_A_NAME.test(s));
+  if (hosted) return splitNames(hosted[1]);
+  // A colon can introduce the people on a brand-named show
+  // ("Double Edged: Caroline Hanes and Salma Zaky"). Only take it when the remainder
+  // is an explicit list of names -- "Peach Fuzz" after "Ania Magliano:" is the show.
+  const listed = t.match(/^.+?:\s*(.+)$/);
+  if (listed && /\s(?:and|&|,)\s/i.test(listed[1])) {
+    const people = splitNames(listed[1]);
+    if (people.length) return people;
   }
   const m = t.match(/^([A-Z][a-z]+(?: [A-Z][a-zA-Z'’.-]+){1,2})(?::| Live| Presents| Headlines|$)/);
-  return m && !NOT_A_NAME.test(m[1]) ? [m[1]] : [];
+  return m && isPerson(m[1]) ? [m[1]] : [];
 };
 
 const picks = readJson(path.join(root, 'web', 'data', 'picks.json'), []).filter((p) => Date.parse(p.ends_at) > Date.now());

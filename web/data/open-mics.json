@@ -466,5 +466,25 @@
   "source_url": "https://www.stmarkscomedy.com/shows/mic-audience-drink-included-2026-11-12-b954927d",
   "source_label": "St. Marks Comedy Club show page",
   "verified_at": "2026-10-30"
+ },
+ {
+  "id": "comedy-mob-sunday-mic-nycc-east-village",
+  "tier": "open-mic",
+  "title": "Comedy Mob Sunday Mic (New York Comedy Club East Village)",
+  "weekday": 0,
+  "cadence": "Every Sunday",
+  "time_label": "5:30pm",
+  "venue": "New York Comedy Club (East Village)",
+  "address": "85 E 4th St, Manhattan",
+  "neighborhood": "East Village",
+  "cost_label": "Free (one item minimum)",
+  "signup": "One Google Form opens every Wednesday at 10am for all three Mob mics; the drop is announced on @comedymobnyc",
+  "set_length": "Not stated",
+  "formats": "Stand-up",
+  "age": "16 and up",
+  "notes": "Ten or more comics in rapid-fire sets on the East 4th Street room, and the lineup is a genuine surprise until you are in the chair yourself. Free with one item minimum, which is the room's way of saying the bar would like to see you.",
+  "source_url": "https://www.comedymob.com/",
+  "source_label": "Comedy Mob site",
+  "verified_at": "2026-10-31"
  }
 ]

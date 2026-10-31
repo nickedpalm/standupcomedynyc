@@ -822,3 +822,21 @@ for a spot and a reader looking for a seat are looking for two different things.
 
 It runs through the end of December on the club's calendar, with no break
 across the holidays. Verified 2026-10-30.
+
+### 2026-10-31 - Upper East Side Comedy Club added to the rail
+
+- **Upper East Side Comedy Club** - 206 E 67th St, Upper East Side, Manhattan.
+  A 40-seat room behind the bar at Bedford Falls NYC; you enter through the
+  bar and the comedy room is at the back. Thursday at 8pm, with 8pm and 10pm
+  shows Friday and Saturday. One food or drink item per person, 21+ with ID,
+  tickets $12 super early bird (closes four days out), $15 early bird (three
+  days), $20 online, $25 at the door. The club's own FAQ gives all of that,
+  and its shows page and Eventbrite organizer page both load plainly, so the
+  room leads cleanly. Added to venues.json, clubs.json and the rail.
+- **Comedy Mob Sunday Mic** - New York Comedy Club, East Village (85 E 4th
+  St). The Mob's Sunday 5:30pm open mic at their home base: free with a
+  one-item minimum, ten or more comics in rapid-fire sets, lineup a surprise.
+  Sign-up is one Google Form for all three of the Mob's mics and it opens every
+  Wednesday at 10am, announced on @comedymobnyc. It had been carried as a
+  dated board pick, which is the wrong file for an open mic, so it moved to
+  open-mics.json.
