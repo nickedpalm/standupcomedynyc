@@ -1105,7 +1105,7 @@
  },
  {
   "event_id": "scary-good-comedy-brittany-carney-littlefield-2026-10-31",
-  "src": "/assets/posters/scary-good-comedy-brittany-carney-2026-10-31.jpg",
+  "src": "/assets/posters/archive/scary-good-comedy-brittany-carney-2026-10-31.jpg",
   "width": 940,
   "height": 470,
   "source_url": "https://www.eventbrite.com/e/scary-good-comedy-with-brittany-carney-tickets-2000220257635",
@@ -1116,7 +1116,8 @@
   "retrieved_at": "2026-09-20",
   "bytes": 83844,
   "sha256": "ff4fe8c6d6be8a8ff10eb30d38b273f29f59c16c90e0964d09bcf65bbb6a41aa",
-  "reuse_status": "Official promotional artwork; no separate reuse license identified. Local review draft only."
+  "reuse_status": "Official promotional artwork; no separate reuse license identified. Local review draft only.",
+  "archived": true
  },
  {
   "event_id": "the-peter-stewart-show-comic-strip-2026-09-28",
@@ -1184,7 +1185,7 @@
  },
  {
   "event_id": "nasser-al-rayess-town-hall-2026-10-31",
-  "src": "/assets/posters/nasser-al-rayess-town-hall-2026-10-31.jpg",
+  "src": "/assets/posters/archive/nasser-al-rayess-town-hall-2026-10-31.jpg",
   "width": 1000,
   "height": 1000,
   "source_url": "https://www.thetownhall.org/event/nasser-al-rayess",
@@ -1195,7 +1196,8 @@
   "retrieved_at": "2026-09-21",
   "bytes": 304190,
   "sha256": "60626ecfb16a8f691d2edbddd46a5c432546caf12d6c9f5bebe35a9d118edbae",
-  "reuse_status": "Official promotional artwork; no separate reuse license identified. Local review draft only."
+  "reuse_status": "Official promotional artwork; no separate reuse license identified. Local review draft only.",
+  "archived": true
  },
  {
   "event_id": "piece-of-work-union-hall-2026-09-26",
@@ -2337,7 +2339,7 @@
  },
  {
   "event_id": "hot-gossip-union-hall-2026-10-31",
-  "src": "/assets/posters/hot-gossip-union-hall-2026-10-31.jpg",
+  "src": "/assets/posters/archive/hot-gossip-union-hall-2026-10-31.jpg",
   "width": 1880,
   "height": 940,
   "source_url": "https://www.eventbrite.com/e/hot-gossip-with-jonathan-van-halem-tickets-2003321943862",
@@ -2348,7 +2350,8 @@
   "retrieved_at": "2026-10-28",
   "reuse_status": "Official promotional artwork; no separate reuse license identified. Local review draft only.",
   "bytes": 43258,
-  "sha256": "b6d0c19070864ea2801901aa81d1947c7c8aa3bcb5ec17e3d9ebfc19947e254b"
+  "sha256": "b6d0c19070864ea2801901aa81d1947c7c8aa3bcb5ec17e3d9ebfc19947e254b",
+  "archived": true
  },
  {
   "event_id": "alyce-chan-nycc-2026-12-08",

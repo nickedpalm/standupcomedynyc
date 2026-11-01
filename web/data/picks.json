@@ -1,94 +1,5 @@
 [
  {
-  "id": "nasser-al-rayess-town-hall-2026-10-31",
-  "title": "Nasser Al-Rayess",
-  "date": "2026-10-31",
-  "starts_at": "2026-10-31T19:00:00-04:00",
-  "ends_at": "2026-10-31T21:00:00-04:00",
-  "end_time_confirmed": false,
-  "time_label": "7pm",
-  "venue": "The Town Hall",
-  "neighborhood": "Times Square",
-  "price_amount": null,
-  "price_label": "See ticket page for price",
-  "ticket_url": "https://www.ticketmaster.com/nasser-alrayess-new-york-new-york-10-31-2026/event/03006498C9871877",
-  "source_url": "https://www.thetownhall.org/event/nasser-al-rayess",
-  "verified_at": "2026-10-23",
-  "description": "Nasser Al-Rayess brings his Habibi Nights tour to Town Hall on Halloween — the stand-up-and-Arabic-music format that's been filling rooms on his dates.",
-  "tier": "special",
-  "poster": {
-   "src": "/assets/posters/nasser-al-rayess-town-hall-2026-10-31.jpg",
-   "width": 1000,
-   "height": 1000,
-   "source_url": "https://www.thetownhall.org/event/nasser-al-rayess",
-   "credit": "Artwork: The Town Hall / show organizer",
-   "alt": "Nasser Al-Rayess at The Town Hall promotional artwork.",
-   "kind": "dated event flyer"
-  },
-  "demand": null,
-  "demand_checked": "2026-10-31"
- },
- {
-  "id": "hot-gossip-union-hall-2026-10-31",
-  "title": "Hot Gossip with Jonathan van Halem",
-  "date": "2026-10-31",
-  "starts_at": "2026-10-31T19:30:00-04:00",
-  "ends_at": "2026-10-31T21:00:00-04:00",
-  "end_time_confirmed": true,
-  "time_label": "7:30pm · doors 7pm",
-  "venue": "Union Hall",
-  "neighborhood": "Park Slope",
-  "price_amount": 15.92,
-  "price_label": "$15.92",
-  "ticket_url": "https://www.eventbrite.com/e/hot-gossip-with-jonathan-van-halem-tickets-2003321943862",
-  "source_url": "https://www.eventbrite.com/e/hot-gossip-with-jonathan-van-halem-tickets-2003321943862",
-  "verified_at": "2026-10-28",
-  "description": "Jonathan van Halem stops the perpetual gab sesh to host an evening of stand-up, with Jon Rudnitsky, Ash Diggs, Meredith Dietz and Jenna Sherriton on the bill — the 7:30 Halloween Saturday slot, when the Park Slope room keeps its front row loud.",
-  "tier": "special",
-  "featured": false,
-  "poster": {
-   "src": "/assets/posters/hot-gossip-union-hall-2026-10-31.jpg",
-   "width": 1880,
-   "height": 940,
-   "source_url": "https://www.eventbrite.com/e/hot-gossip-with-jonathan-van-halem-tickets-2003321943862",
-   "credit": "Artwork: Union Hall / show organizer",
-   "alt": "Hot Gossip with Jonathan van Halem at Union Hall — a performer holding cue cards that read HOT GOSSIP.",
-   "kind": "performer photo from the event page"
-  },
-  "demand": null,
-  "demand_checked": "2026-10-31"
- },
- {
-  "id": "scary-good-comedy-brittany-carney-littlefield-2026-10-31",
-  "title": "Scary Good Comedy with Brittany Carney",
-  "date": "2026-10-31",
-  "starts_at": "2026-10-31T19:30:00-04:00",
-  "ends_at": "2026-10-31T22:00:00-04:00",
-  "end_time_confirmed": false,
-  "time_label": "7:30pm · doors 6:30pm",
-  "venue": "Littlefield",
-  "neighborhood": "Gowanus",
-  "price_amount": null,
-  "price_label": "See ticket page for price",
-  "ticket_url": "https://littlefieldnyc.com/event/?wfea_eb_id=2000220257635",
-  "source_url": "https://littlefieldnyc.com/event/?wfea_eb_id=2000220257635",
-  "verified_at": "2026-10-23",
-  "description": "Halloween at Littlefield: Brittany Carney hosts a stand-up night where every comic arrives in costume and runs their set from that character's POV — Ike Ufomadu, Jenny Zigrino, Shaunak Godkhindi on the lineup, plus an audience costume contest. A weird, fun one for the 31st.",
-  "tier": "special",
-  "featured": false,
-  "poster": {
-   "src": "/assets/posters/scary-good-comedy-brittany-carney-2026-10-31.jpg",
-   "width": 940,
-   "height": 470,
-   "source_url": "https://www.eventbrite.com/e/scary-good-comedy-with-brittany-carney-tickets-2000220257635",
-   "credit": "Artwork: Littlefield / show organizer",
-   "alt": "Scary Good Comedy with Brittany Carney promotional artwork.",
-   "kind": "dated event flyer"
-  },
-  "demand": "going_fast",
-  "demand_checked": "2026-10-31"
- },
- {
   "id": "steve-martin-presents-union-hall-2026-11-01",
   "title": "Steve Martin Presents with Andrew Dismukes and Michael Good",
   "date": "2026-11-01",
@@ -116,7 +27,7 @@
    "kind": "dated event flyer"
   },
   "demand": null,
-  "demand_checked": "2026-10-31"
+  "demand_checked": "2026-11-01"
  },
  {
   "id": "kevin-mcdonald-union-hall-2026-11-01",
@@ -146,7 +57,7 @@
    "kind": "performer photo from the event page"
   },
   "demand": null,
-  "demand_checked": "2026-10-31"
+  "demand_checked": "2026-11-01"
  },
  {
   "id": "sunday-night-comedy-eastville-2026-11-01",
@@ -167,7 +78,7 @@
   "tier": "special",
   "featured": false,
   "demand": null,
-  "demand_checked": "2026-10-31"
+  "demand_checked": "2026-11-01"
  },
  {
   "id": "df-sweedler-comic-strip-2026-11-01",
@@ -197,7 +108,7 @@
    "kind": "dated event flyer"
   },
   "demand": null,
-  "demand_checked": "2026-10-31"
+  "demand_checked": "2026-11-01"
  },
  {
   "id": "frankensteins-baby-union-hall-2026-11-02",
@@ -227,7 +138,7 @@
    "kind": "dated event flyer"
   },
   "demand": null,
-  "demand_checked": "2026-10-31"
+  "demand_checked": "2026-11-01"
  },
  {
   "id": "sam-oh-gay-virgin-bell-house-2026-11-02",
@@ -257,7 +168,7 @@
    "kind": "dated event flyer"
   },
   "demand": null,
-  "demand_checked": "2026-10-31"
+  "demand_checked": "2026-11-01"
  },
  {
   "id": "peter-stewart-kareem-green-comic-strip-2026-11-02",
@@ -279,7 +190,7 @@
   "featured": false,
   "poster": null,
   "demand": null,
-  "demand_checked": "2026-10-31"
+  "demand_checked": "2026-11-01"
  },
  {
   "id": "peyton-ruddy-union-hall-2026-11-02",
@@ -309,7 +220,7 @@
    "kind": "performer photo from the event page"
   },
   "demand": null,
-  "demand_checked": "2026-10-31"
+  "demand_checked": "2026-11-01"
  },
  {
   "id": "difficult-people-the-movie-town-hall-2026-11-03",
@@ -329,7 +240,7 @@
   "description": "Julie Klausner and Billy Eichner stage Difficult People: The Movie as a live table read at Town Hall.",
   "tier": "special",
   "demand": null,
-  "demand_checked": "2026-10-31"
+  "demand_checked": "2026-11-01"
  },
  {
   "id": "stand-francis-ellis-2026-11-03",
@@ -359,7 +270,7 @@
    "kind": "dated event flyer"
   },
   "demand": null,
-  "demand_checked": "2026-10-31"
+  "demand_checked": "2026-11-01"
  },
  {
   "id": "michael-longfellow-union-hall-2026-11-03",
@@ -389,7 +300,7 @@
    "kind": "performer photo from the event page"
   },
   "demand": null,
-  "demand_checked": "2026-10-31"
+  "demand_checked": "2026-11-01"
  },
  {
   "id": "infamous-ray-stand-2026-11-03",
@@ -419,7 +330,7 @@
    "kind": "undated official show artwork"
   },
   "demand": null,
-  "demand_checked": "2026-10-31"
+  "demand_checked": "2026-11-01"
  },
  {
   "id": "doctors-without-boundaries-caveat-2026-11-04",
@@ -449,7 +360,7 @@
    "kind": "dated event flyer"
   },
   "demand": null,
-  "demand_checked": "2026-10-31"
+  "demand_checked": "2026-11-01"
  },
  {
   "id": "please-stay-seated-wscc-2026-11-04",
@@ -479,7 +390,7 @@
    "kind": "dated event flyer"
   },
   "demand": null,
-  "demand_checked": "2026-10-31"
+  "demand_checked": "2026-11-01"
  },
  {
   "id": "salma-hindy-10-years-stand-2026-11-04",
@@ -509,7 +420,7 @@
    "kind": "dated event flyer"
   },
   "demand": null,
-  "demand_checked": "2026-10-31"
+  "demand_checked": "2026-11-01"
  },
  {
   "id": "sam-tallent-bell-house-2026-11-05",
@@ -530,7 +441,7 @@
   "tier": "special",
   "featured": false,
   "demand": null,
-  "demand_checked": "2026-10-31"
+  "demand_checked": "2026-11-01"
  },
  {
   "id": "angelo-colina-comedy-in-harlem-2026-11-05",
@@ -560,7 +471,7 @@
    "kind": "performer headshot from the event page"
   },
   "demand": null,
-  "demand_checked": "2026-10-31"
+  "demand_checked": "2026-11-01"
  },
  {
   "id": "corinne-fisher-eastville-2026-11-05",
@@ -590,7 +501,7 @@
    "kind": "performer photo from the event page"
   },
   "demand": null,
-  "demand_checked": "2026-10-31"
+  "demand_checked": "2026-11-01"
  },
  {
   "id": "uesc-nycs-best-weekly-thursday-2026-11-05",
@@ -620,7 +531,7 @@
    "kind": "dated event flyer"
   },
   "demand": null,
-  "demand_checked": "2026-10-31"
+  "demand_checked": "2026-11-01"
  },
  {
   "id": "jessie-jetski-johnson-union-hall-2026-11-05",
@@ -650,7 +561,7 @@
    "kind": "performer photo from the event page"
   },
   "demand": null,
-  "demand_checked": "2026-10-31"
+  "demand_checked": "2026-11-01"
  },
  {
   "id": "nycf-adam-ray-gramercy-2026-11-06",
@@ -670,7 +581,7 @@
   "description": "Adam Ray opens NYCF at Gramercy Theatre with a night of character work and stand-up.",
   "tier": "special",
   "demand": null,
-  "demand_checked": "2026-10-31"
+  "demand_checked": "2026-11-01"
  },
  {
   "id": "nycf-gayme-show-bmcc-2026-11-06",
@@ -690,7 +601,7 @@
   "description": "Matt Rogers and Dave Mizzoni bring their long-running Gayme Show to BMCC Tribeca PAC for NYCF.",
   "tier": "special",
   "demand": null,
-  "demand_checked": "2026-10-31"
+  "demand_checked": "2026-11-01"
  },
  {
   "id": "nycf-ms-pat-hard-rock-2026-11-06",
@@ -710,7 +621,7 @@
   "description": "Ms. Pat headlines the Hard Rock Hotel New York for the New York Comedy Festival opening weekend.",
   "tier": "special",
   "demand": null,
-  "demand_checked": "2026-10-31"
+  "demand_checked": "2026-11-01"
  },
  {
   "id": "nycf-ziwe-town-hall-2026-11-06",
@@ -730,7 +641,7 @@
   "description": "Ziwe opens NYCF at Town Hall with a sharp, conversation-driving stand-up set.",
   "tier": "special",
   "demand": null,
-  "demand_checked": "2026-10-31"
+  "demand_checked": "2026-11-01"
  },
  {
   "id": "skintag-and-friends-union-hall-2026-11-06",
@@ -760,7 +671,7 @@
    "kind": "dated event flyer"
   },
   "demand": null,
-  "demand_checked": "2026-10-31"
+  "demand_checked": "2026-11-01"
  },
  {
   "id": "george-willborn-comedy-in-harlem-2026-11-06",
@@ -790,7 +701,7 @@
    "kind": "dated event flyer"
   },
   "demand": null,
-  "demand_checked": "2026-10-31"
+  "demand_checked": "2026-11-01"
  },
  {
   "id": "cattywampus-ellen-skrmetti-wscc-2026-11-07",
@@ -820,7 +731,7 @@
    "kind": "dated event flyer"
   },
   "demand": null,
-  "demand_checked": "2026-10-31"
+  "demand_checked": "2026-11-01"
  },
  {
   "id": "nycf-joanne-mcnally-town-hall-2026-11-07",
@@ -840,7 +751,7 @@
   "description": "Joanne McNally brings Pinotphile, her sold-out hour about wine, weddings, and the chaos of being alive, to Town Hall.",
   "tier": "special",
   "demand": null,
-  "demand_checked": "2026-10-31"
+  "demand_checked": "2026-11-01"
  },
  {
   "id": "ken-boyd-hanes-gass-grooms-yard-comic-strip-2026-11-07",
@@ -862,7 +773,7 @@
   "featured": false,
   "poster": null,
   "demand": "going_fast",
-  "demand_checked": "2026-10-31"
+  "demand_checked": "2026-11-01"
  },
  {
   "id": "nore-davis-eastville-2026-11-07",
@@ -892,7 +803,7 @@
    "kind": "performer photo from the event page"
   },
   "demand": null,
-  "demand_checked": "2026-10-31"
+  "demand_checked": "2026-11-01"
  },
  {
   "id": "the-workout-uesc-2026-11-07",
@@ -922,7 +833,7 @@
    "kind": "dated event flyer"
   },
   "demand": null,
-  "demand_checked": "2026-10-31"
+  "demand_checked": "2026-11-01"
  },
  {
   "id": "nycf-josh-sharp-bell-house-2026-11-08",
@@ -942,7 +853,7 @@
   "description": "Josh Sharp brings An Hour of Crowd Work in the Round to the Bell House for a NYCF matinee.",
   "tier": "special",
   "demand": null,
-  "demand_checked": "2026-10-31"
+  "demand_checked": "2026-11-01"
  },
  {
   "id": "nycf-sarah-sherman-patti-harrison-town-hall-2026-11-08",
@@ -962,7 +873,7 @@
   "description": "Sarah Sherman and Patti Harrison share a Town Hall night as part of the New York Comedy Festival.",
   "tier": "special",
   "demand": null,
-  "demand_checked": "2026-10-31"
+  "demand_checked": "2026-11-01"
  },
  {
   "id": "nycf-marc-maron-beacon-2026-11-08",
@@ -982,7 +893,7 @@
   "description": "Marc Maron brings Yammering Into the Void to the Beacon as part of the New York Comedy Festival.",
   "tier": "special",
   "demand": null,
-  "demand_checked": "2026-10-31"
+  "demand_checked": "2026-11-01"
  },
  {
   "id": "nycf-rainbow-riot-bcc-2026-11-08",
@@ -1002,7 +913,7 @@
   "description": "Rainbow Riot, the LGBTQ stand-up showcase hosted by Terrence Lambert, lands at Brooklyn Comedy Collective for NYCF.",
   "tier": "special",
   "demand": null,
-  "demand_checked": "2026-10-31"
+  "demand_checked": "2026-11-01"
  },
  {
   "id": "nycf-demi-adejuyigbe-sells-out-littlefield-2026-11-09",
@@ -1032,7 +943,7 @@
    "kind": "dated event flyer"
   },
   "demand": null,
-  "demand_checked": "2026-10-31"
+  "demand_checked": "2026-11-01"
  },
  {
   "id": "dewayne-perkins-bell-house-2026-11-09",
@@ -1053,7 +964,7 @@
   "tier": "special",
   "featured": false,
   "demand": null,
-  "demand_checked": "2026-10-31"
+  "demand_checked": "2026-11-01"
  },
  {
   "id": "nycf-stand-up-for-heroes-geffen-2026-11-09",
@@ -1073,7 +984,7 @@
   "description": "NYCF s marquee benefit for the Bob Woodruff Foundation, with Jon Stewart, Bruce Springsteen, Hasan Minhaj and others at David Geffen Hall.",
   "tier": "special",
   "demand": null,
-  "demand_checked": "2026-10-31"
+  "demand_checked": "2026-11-01"
  },
  {
   "id": "ester-steinberg-nycc-2026-11-10",
@@ -1103,7 +1014,7 @@
    "kind": "dated event flyer"
   },
   "demand": null,
-  "demand_checked": "2026-10-31"
+  "demand_checked": "2026-11-01"
  },
  {
   "id": "double-edged-hanes-zaky-nycc-2026-11-10",
@@ -1133,7 +1044,7 @@
    "kind": "dated event flyer"
   },
   "demand": null,
-  "demand_checked": "2026-10-31"
+  "demand_checked": "2026-11-01"
  },
  {
   "id": "nycf-eddie-pepitone-union-hall-2026-11-10",
@@ -1153,7 +1064,7 @@
   "description": "Eddie Pepitone headlines the first of two late-night Union Hall shows for NYCF.",
   "tier": "special",
   "demand": null,
-  "demand_checked": "2026-10-31"
+  "demand_checked": "2026-11-01"
  },
  {
   "id": "maddy-kelly-union-hall-2026-11-11",
@@ -1183,7 +1094,7 @@
    "kind": "dated event flyer"
   },
   "demand": "sold_out",
-  "demand_checked": "2026-10-31"
+  "demand_checked": "2026-11-01"
  },
  {
   "id": "good-eggs-nycc-2026-11-11",
@@ -1213,7 +1124,7 @@
    "kind": "dated event flyer"
   },
   "demand": null,
-  "demand_checked": "2026-10-31"
+  "demand_checked": "2026-11-01"
  },
  {
   "id": "tj-miller-comic-strip-2026-11-11",
@@ -1243,7 +1154,7 @@
    "kind": "dated event flyer"
   },
   "demand": "sold_out",
-  "demand_checked": "2026-10-31"
+  "demand_checked": "2026-11-01"
  },
  {
   "id": "yamaneika-saunders-nycc-2026-11-11",
@@ -1273,7 +1184,7 @@
    "kind": "dated event flyer"
   },
   "demand": null,
-  "demand_checked": "2026-10-31"
+  "demand_checked": "2026-11-01"
  },
  {
   "id": "shelly-belly-nycc-2026-11-12",
@@ -1303,7 +1214,7 @@
    "kind": "dated event flyer"
   },
   "demand": null,
-  "demand_checked": "2026-10-31"
+  "demand_checked": "2026-11-01"
  },
  {
   "id": "nycf-jordan-jensen-beacon-2026-11-12",
@@ -1323,7 +1234,7 @@
   "description": "Jordan Jensen headlines the Beacon as part of the New York Comedy Festival.",
   "tier": "special",
   "demand": null,
-  "demand_checked": "2026-10-31"
+  "demand_checked": "2026-11-01"
  },
  {
   "id": "bourne-with-talent-st-marks-2026-11-12",
@@ -1345,7 +1256,7 @@
   "featured": false,
   "poster": null,
   "demand": null,
-  "demand_checked": "2026-10-31"
+  "demand_checked": "2026-11-01"
  },
  {
   "id": "nycf-ilana-glazer-beacon-2026-11-13",
@@ -1365,7 +1276,7 @@
   "description": "Ilana Glazer headlines the Beacon as part of the New York Comedy Festival.",
   "tier": "special",
   "demand": null,
-  "demand_checked": "2026-10-31"
+  "demand_checked": "2026-11-01"
  },
  {
   "id": "nycf-jess-hilarious-hard-rock-2026-11-13",
@@ -1385,7 +1296,7 @@
   "description": "Jess Hilarious brings the Don t Play Wit Me Tour to Hard Rock Hotel New York as part of NYCF.",
   "tier": "special",
   "demand": null,
-  "demand_checked": "2026-10-31"
+  "demand_checked": "2026-11-01"
  },
  {
   "id": "nycf-dropout-improv-kings-2026-11-13",
@@ -1405,7 +1316,7 @@
   "description": "Dropout Improv brings the Dropout TV cast and friends to Kings Theatre for one of NYCF s marquee shows.",
   "tier": "special",
   "demand": null,
-  "demand_checked": "2026-10-31"
+  "demand_checked": "2026-11-01"
  },
  {
   "id": "nycf-moth-comic-relief-town-hall-2026-11-14",
@@ -1425,7 +1336,7 @@
   "description": "The Moth and Comic Relief team up for an afternoon of true stories told live on the Town Hall stage.",
   "tier": "special",
   "demand": null,
-  "demand_checked": "2026-10-31"
+  "demand_checked": "2026-11-01"
  },
  {
   "id": "nycf-daniel-sloss-beacon-2026-11-14",
@@ -1445,7 +1356,7 @@
   "description": "Daniel Sloss brings his new hour Bitter to the Beacon as part of the New York Comedy Festival.",
   "tier": "special",
   "demand": null,
-  "demand_checked": "2026-10-31"
+  "demand_checked": "2026-11-01"
  },
  {
   "id": "nycf-jordan-klepper-town-hall-2026-11-14",
@@ -1465,7 +1376,7 @@
   "description": "Jordan Klepper hosts a NYCF edition of his SH&T Show with comics from the festival at Town Hall.",
   "tier": "special",
   "demand": null,
-  "demand_checked": "2026-10-31"
+  "demand_checked": "2026-11-01"
  },
  {
   "id": "jake-velazquez-special-nycc-2026-11-15",
@@ -1495,7 +1406,7 @@
    "kind": "dated event flyer"
   },
   "demand": null,
-  "demand_checked": "2026-10-31",
+  "demand_checked": "2026-11-01",
   "verification_note": null
  },
  {
@@ -1516,7 +1427,7 @@
   "description": "Mojo Brookzz headlines the Beacon as part of the New York Comedy Festival.",
   "tier": "special",
   "demand": null,
-  "demand_checked": "2026-10-31"
+  "demand_checked": "2026-11-01"
  },
  {
   "id": "matthew-broussard-bell-house-2026-11-15",
@@ -1546,7 +1457,7 @@
    "kind": "dated event flyer"
   },
   "demand": null,
-  "demand_checked": "2026-10-31"
+  "demand_checked": "2026-11-01"
  },
  {
   "id": "brooklyn-power-hour-eastville-2026-11-16",
@@ -1567,7 +1478,7 @@
   "tier": "special",
   "featured": false,
   "demand": null,
-  "demand_checked": "2026-10-31",
+  "demand_checked": "2026-11-01",
   "verification_note": null
  },
  {
@@ -1590,7 +1501,7 @@
   "featured": false,
   "poster": null,
   "demand": null,
-  "demand_checked": "2026-10-31"
+  "demand_checked": "2026-11-01"
  },
  {
   "id": "good-bits-nycc-2026-11-16",
@@ -1612,7 +1523,7 @@
   "featured": false,
   "poster": null,
   "demand": null,
-  "demand_checked": "2026-10-31"
+  "demand_checked": "2026-11-01"
  },
  {
   "id": "jessica-kirson-nycc-2026-11-17",
@@ -1641,7 +1552,7 @@
    "kind": "dated event flyer"
   },
   "demand": null,
-  "demand_checked": "2026-10-31"
+  "demand_checked": "2026-11-01"
  },
  {
   "id": "jaboukie-young-white-bell-house-2026-11-17",
@@ -1662,7 +1573,7 @@
   "tier": "special",
   "featured": false,
   "demand": null,
-  "demand_checked": "2026-10-31"
+  "demand_checked": "2026-11-01"
  },
  {
   "id": "story-warz-nycc-2026-11-18",
@@ -1692,7 +1603,7 @@
    "kind": "dated event flyer"
   },
   "demand": null,
-  "demand_checked": "2026-10-31"
+  "demand_checked": "2026-11-01"
  },
  {
   "id": "a-true-york-st-marks-2026-11-18",
@@ -1722,7 +1633,7 @@
    "kind": "venue photo"
   },
   "demand": null,
-  "demand_checked": "2026-10-31"
+  "demand_checked": "2026-11-01"
  },
  {
   "id": "michelle-wolf-best-job-town-hall-2026-11-19",
@@ -1743,7 +1654,7 @@
   "tier": "special",
   "featured": false,
   "demand": null,
-  "demand_checked": "2026-10-31"
+  "demand_checked": "2026-11-01"
  },
  {
   "id": "stone-and-stone-on-the-road-wscc-2026-11-19",
@@ -1773,7 +1684,7 @@
    "kind": "dated event flyer"
   },
   "demand": null,
-  "demand_checked": "2026-10-31",
+  "demand_checked": "2026-11-01",
   "verification_note": null
  },
  {
@@ -1795,7 +1706,7 @@
   "tier": "special",
   "featured": false,
   "demand": null,
-  "demand_checked": "2026-10-31"
+  "demand_checked": "2026-11-01"
  },
  {
   "id": "fahim-anwar-bell-house-2026-11-20",
@@ -1825,7 +1736,7 @@
    "kind": "dated event flyer"
   },
   "demand": "sold_out",
-  "demand_checked": "2026-10-31"
+  "demand_checked": "2026-11-01"
  },
  {
   "id": "opey-olagbaju-union-hall-2026-11-20",
@@ -1854,7 +1765,7 @@
    "kind": "dated event flyer"
   },
   "demand": null,
-  "demand_checked": "2026-10-31"
+  "demand_checked": "2026-11-01"
  },
  {
   "id": "prime-time-comedy-show-st-marks-2026-11-21",
@@ -1876,7 +1787,7 @@
   "featured": false,
   "poster": null,
   "demand": null,
-  "demand_checked": "2026-10-31"
+  "demand_checked": "2026-11-01"
  },
  {
   "id": "ask-ronna-ronnukah-bell-house-2026-11-21",
@@ -1906,7 +1817,7 @@
    "kind": "dated event flyer"
   },
   "demand": null,
-  "demand_checked": "2026-10-31"
+  "demand_checked": "2026-11-01"
  },
  {
   "id": "christian-finnegan-nycc-2026-11-22",
@@ -1935,7 +1846,7 @@
    "kind": "dated event flyer"
   },
   "demand": null,
-  "demand_checked": "2026-10-31"
+  "demand_checked": "2026-11-01"
  },
  {
   "id": "john-oliver-seth-meyers-beacon-2026-11-22",
@@ -1964,7 +1875,7 @@
    "kind": "dated event flyer"
   },
   "demand": null,
-  "demand_checked": "2026-10-31"
+  "demand_checked": "2026-11-01"
  },
  {
   "id": "jacqueline-novak-bell-house-2026-11-23",
@@ -1994,7 +1905,7 @@
    "kind": "dated event flyer"
   },
   "demand": null,
-  "demand_checked": "2026-10-31"
+  "demand_checked": "2026-11-01"
  },
  {
   "id": "jessica-kirson-nycc-2026-11-23",
@@ -2015,7 +1926,7 @@
   "tier": "special",
   "featured": false,
   "demand": null,
-  "demand_checked": "2026-10-31"
+  "demand_checked": "2026-11-01"
  },
  {
   "id": "pachelbel-rant-20th-caveat-2026-11-23",
@@ -2045,7 +1956,7 @@
    "kind": "dated event flyer"
   },
   "demand": null,
-  "demand_checked": "2026-10-31"
+  "demand_checked": "2026-11-01"
  },
  {
   "id": "famous-last-words-union-hall-2026-11-23",
@@ -2075,7 +1986,7 @@
    "kind": "dated event flyer"
   },
   "demand": null,
-  "demand_checked": "2026-10-31"
+  "demand_checked": "2026-11-01"
  },
  {
   "id": "jacqueline-novak-bell-house-2026-11-24",
@@ -2096,7 +2007,7 @@
   "tier": "special",
   "featured": false,
   "demand": null,
-  "demand_checked": "2026-10-31"
+  "demand_checked": "2026-11-01"
  },
  {
   "id": "judy-gold-nycc-2026-11-24",
@@ -2126,7 +2037,7 @@
    "kind": "dated event flyer"
   },
   "demand": null,
-  "demand_checked": "2026-10-31"
+  "demand_checked": "2026-11-01"
  },
  {
   "id": "gong-show-st-marks-2026-11-24",
@@ -2148,7 +2059,7 @@
   "featured": false,
   "poster": null,
   "demand": null,
-  "demand_checked": "2026-10-31"
+  "demand_checked": "2026-11-01"
  },
  {
   "id": "down-bad-comedy-st-marks-2026-11-25",
@@ -2169,7 +2080,7 @@
   "tier": "special",
   "featured": false,
   "demand": null,
-  "demand_checked": "2026-10-31"
+  "demand_checked": "2026-11-01"
  },
  {
   "id": "pizzazz-gary-gulman-union-hall-2026-11-25",
@@ -2199,7 +2110,7 @@
    "kind": "dated event flyer"
   },
   "demand": null,
-  "demand_checked": "2026-10-31"
+  "demand_checked": "2026-11-01"
  },
  {
   "id": "story-warz-nycc-2026-11-25",
@@ -2229,7 +2140,7 @@
    "kind": "dated event flyer"
   },
   "demand": null,
-  "demand_checked": "2026-10-31"
+  "demand_checked": "2026-11-01"
  },
  {
   "id": "a-true-york-st-marks-2026-11-26",
@@ -2251,7 +2162,7 @@
   "featured": false,
   "poster": null,
   "demand": null,
-  "demand_checked": "2026-10-31"
+  "demand_checked": "2026-11-01"
  },
  {
   "id": "date-night-comedy-st-marks-2026-11-26",
@@ -2281,7 +2192,7 @@
    "kind": "dated event flyer"
   },
   "demand": null,
-  "demand_checked": "2026-10-31"
+  "demand_checked": "2026-11-01"
  },
  {
   "id": "friday-night-laughs-st-marks-2026-11-27",
@@ -2311,7 +2222,7 @@
    "kind": "dated event flyer"
   },
   "demand": null,
-  "demand_checked": "2026-10-31"
+  "demand_checked": "2026-11-01"
  },
  {
   "id": "girl-church-union-hall-2026-11-27",
@@ -2341,7 +2252,7 @@
    "kind": "dated event flyer"
   },
   "demand": null,
-  "demand_checked": "2026-10-31"
+  "demand_checked": "2026-11-01"
  },
  {
   "id": "eastville-saturday-showcase-2026-11-28",
@@ -2363,7 +2274,7 @@
   "featured": false,
   "poster": null,
   "demand": null,
-  "demand_checked": "2026-10-31"
+  "demand_checked": "2026-11-01"
  },
  {
   "id": "speakeasy-saturday-night-st-marks-2026-11-28",
@@ -2393,7 +2304,7 @@
    "kind": "dated event flyer"
   },
   "demand": null,
-  "demand_checked": "2026-10-31"
+  "demand_checked": "2026-11-01"
  },
  {
   "id": "comedy-idol-finale-wscc-2026-11-29",
@@ -2415,7 +2326,7 @@
   "featured": false,
   "poster": null,
   "demand": null,
-  "demand_checked": "2026-10-31"
+  "demand_checked": "2026-11-01"
  },
  {
   "id": "silver-lining-gianmarco-soresi-bell-house-2026-11-29",
@@ -2445,7 +2356,7 @@
    "kind": "dated event flyer"
   },
   "demand": null,
-  "demand_checked": "2026-10-31"
+  "demand_checked": "2026-11-01"
  },
  {
   "id": "sunday-night-comedy-eastville-2026-11-29",
@@ -2467,7 +2378,7 @@
   "featured": false,
   "poster": null,
   "demand": null,
-  "demand_checked": "2026-10-31"
+  "demand_checked": "2026-11-01"
  },
  {
   "id": "brooklyn-power-hour-eastville-2026-11-30",
@@ -2489,7 +2400,7 @@
   "featured": false,
   "poster": null,
   "demand": null,
-  "demand_checked": "2026-10-31"
+  "demand_checked": "2026-11-01"
  },
  {
   "id": "stamptown-bell-house-2026-11-30",
@@ -2519,7 +2430,7 @@
    "kind": "dated event flyer"
   },
   "demand": null,
-  "demand_checked": "2026-10-31"
+  "demand_checked": "2026-11-01"
  },
  {
   "id": "jeff-scheen-special-littlefield-2026-12-01",
@@ -2549,7 +2460,7 @@
    "kind": "dated event flyer"
   },
   "demand": null,
-  "demand_checked": "2026-10-31"
+  "demand_checked": "2026-11-01"
  },
  {
   "id": "a-true-york-st-marks-2026-12-01",
@@ -2579,7 +2490,7 @@
    "kind": "dated event flyer"
   },
   "demand": null,
-  "demand_checked": "2026-10-31"
+  "demand_checked": "2026-11-01"
  },
  {
   "id": "ismael-loutfi-heavenly-baba-union-hall-2026-12-01",
@@ -2609,7 +2520,7 @@
    "kind": "dated event flyer"
   },
   "demand": null,
-  "demand_checked": "2026-10-31"
+  "demand_checked": "2026-11-01"
  },
  {
   "id": "not-ripe-bananas-wscc-2026-12-01",
@@ -2639,7 +2550,7 @@
    "kind": "undated official show artwork"
   },
   "demand": null,
-  "demand_checked": "2026-10-31"
+  "demand_checked": "2026-11-01"
  },
  {
   "id": "ania-magliano-peach-fuzz-bell-house-2026-12-02",
@@ -2669,7 +2580,7 @@
    "kind": "dated event flyer"
   },
   "demand": null,
-  "demand_checked": "2026-10-31"
+  "demand_checked": "2026-11-01"
  },
  {
   "id": "cold-plunge-kurt-braunohler-union-hall-2026-12-02",
@@ -2699,7 +2610,7 @@
    "kind": "dated event flyer"
   },
   "demand": null,
-  "demand_checked": "2026-10-31"
+  "demand_checked": "2026-11-01"
  },
  {
   "id": "date-night-comedy-st-marks-2026-12-03",
@@ -2720,7 +2631,7 @@
   "tier": "special",
   "featured": false,
   "demand": null,
-  "demand_checked": "2026-10-31"
+  "demand_checked": "2026-11-01"
  },
  {
   "id": "brooklyn-power-hour-eastville-2026-12-04",
@@ -2750,7 +2661,7 @@
    "kind": "undated official show artwork"
   },
   "demand": null,
-  "demand_checked": "2026-10-31"
+  "demand_checked": "2026-11-01"
  },
  {
   "id": "demetri-martin-bell-house-2026-12-04",
@@ -2780,7 +2691,7 @@
    "kind": "dated event flyer"
   },
   "demand": null,
-  "demand_checked": "2026-10-31"
+  "demand_checked": "2026-11-01"
  },
  {
   "id": "friday-night-laughs-st-marks-2026-12-04",
@@ -2810,7 +2721,7 @@
    "kind": "dated event flyer"
   },
   "demand": null,
-  "demand_checked": "2026-10-31"
+  "demand_checked": "2026-11-01"
  },
  {
   "id": "peter-and-friends-st-marks-2026-12-05",
@@ -2840,7 +2751,7 @@
    "kind": "dated event flyer"
   },
   "demand": null,
-  "demand_checked": "2026-10-31"
+  "demand_checked": "2026-11-01"
  },
  {
   "id": "demetri-martin-bell-house-2026-12-05",
@@ -2870,7 +2781,7 @@
    "kind": "dated event flyer"
   },
   "demand": null,
-  "demand_checked": "2026-10-31",
+  "demand_checked": "2026-11-01",
   "verification_note": "Date, 7pm time and the Bell House venue from the Live Nation mirror of the Ticketmaster event page (the Ticketmaster page itself is CAPTCHA-gated). The tour's shape, the live Christmas album, the live music and the clean bill come from the comic's own site, demetrimartin.com, which lists The Bell House on Dec 4 and Dec 5. The poster is the same official tour art as the Dec 4 date."
  },
  {
@@ -2901,7 +2812,7 @@
    "kind": "dated event flyer"
   },
   "demand": null,
-  "demand_checked": "2026-10-31"
+  "demand_checked": "2026-11-01"
  },
  {
   "id": "simeon-goodson-eastville-2026-12-06",
@@ -2931,7 +2842,7 @@
    "kind": "dated event flyer"
   },
   "demand": null,
-  "demand_checked": "2026-10-31"
+  "demand_checked": "2026-11-01"
  },
  {
   "id": "daniela-mora-st-marks-2026-12-06",
@@ -2953,7 +2864,7 @@
   "featured": false,
   "poster": null,
   "demand": null,
-  "demand_checked": "2026-10-31"
+  "demand_checked": "2026-11-01"
  },
  {
   "id": "jenny-alex-try-new-jokes-union-hall-2026-12-06",
@@ -2983,7 +2894,7 @@
    "kind": "dated event flyer"
   },
   "demand": null,
-  "demand_checked": "2026-10-31"
+  "demand_checked": "2026-11-01"
  },
  {
   "id": "rb-karaoke-comedy-comedy-in-harlem-2026-12-07",
@@ -3005,7 +2916,7 @@
   "featured": false,
   "poster": null,
   "demand": null,
-  "demand_checked": "2026-10-31"
+  "demand_checked": "2026-11-01"
  },
  {
   "id": "a-true-york-st-marks-2026-12-07",
@@ -3035,7 +2946,7 @@
    "kind": "dated event flyer"
   },
   "demand": null,
-  "demand_checked": "2026-10-31"
+  "demand_checked": "2026-11-01"
  },
  {
   "id": "alyce-chan-nycc-2026-12-08",
@@ -3065,7 +2976,7 @@
    "kind": "performer headshot from the event page"
   },
   "demand": null,
-  "demand_checked": "2026-10-31"
+  "demand_checked": "2026-11-01"
  },
  {
   "id": "not-ripe-bananas-wscc-2026-12-08",
@@ -3095,7 +3006,7 @@
    "kind": "undated official show artwork"
   },
   "demand": null,
-  "demand_checked": "2026-10-31"
+  "demand_checked": "2026-11-01"
  },
  {
   "id": "punderdrome-littlefield-2026-12-08",
@@ -3125,7 +3036,7 @@
    "kind": "undated official promotional artwork"
   },
   "demand": null,
-  "demand_checked": "2026-10-31"
+  "demand_checked": "2026-11-01"
  },
  {
   "id": "gong-show-st-marks-2026-12-08",
@@ -3147,7 +3058,7 @@
   "featured": false,
   "poster": null,
   "demand": null,
-  "demand_checked": "2026-10-31"
+  "demand_checked": "2026-11-01"
  },
  {
   "id": "down-bad-st-marks-2026-12-09",
@@ -3169,7 +3080,7 @@
   "featured": false,
   "poster": null,
   "demand": null,
-  "demand_checked": "2026-10-31"
+  "demand_checked": "2026-11-01"
  },
  {
   "id": "dylans-last-show-ever-st-marks-2026-12-09",
@@ -3199,7 +3110,7 @@
    "kind": "dated event flyer"
   },
   "demand": null,
-  "demand_checked": "2026-10-31"
+  "demand_checked": "2026-11-01"
  },
  {
   "id": "gavin-matts-profound-union-hall-2026-12-09",
@@ -3229,7 +3140,7 @@
    "kind": "dated event flyer"
   },
   "demand": null,
-  "demand_checked": "2026-10-31"
+  "demand_checked": "2026-11-01"
  },
  {
   "id": "a-true-york-st-marks-2026-12-10",
@@ -3251,7 +3162,7 @@
   "featured": false,
   "poster": null,
   "demand": null,
-  "demand_checked": "2026-10-31"
+  "demand_checked": "2026-11-01"
  },
  {
   "id": "date-night-comedy-st-marks-2026-12-10",
@@ -3273,7 +3184,7 @@
   "featured": false,
   "poster": null,
   "demand": null,
-  "demand_checked": "2026-10-31"
+  "demand_checked": "2026-11-01"
  },
  {
   "id": "brooklyn-power-hour-eastville-2026-12-11",
@@ -3295,7 +3206,7 @@
   "featured": false,
   "poster": null,
   "demand": null,
-  "demand_checked": "2026-10-31"
+  "demand_checked": "2026-11-01"
  },
  {
   "id": "a-true-york-st-marks-2026-12-11",
@@ -3317,7 +3228,7 @@
   "featured": false,
   "poster": null,
   "demand": null,
-  "demand_checked": "2026-10-31"
+  "demand_checked": "2026-11-01"
  },
  {
   "id": "grove-comedy-grove-34-2026-12-11",
@@ -3339,7 +3250,7 @@
   "featured": false,
   "poster": null,
   "demand": null,
-  "demand_checked": "2026-10-31"
+  "demand_checked": "2026-11-01"
  },
  {
   "id": "friday-night-laughs-st-marks-2026-12-11",
@@ -3361,7 +3272,7 @@
   "featured": false,
   "poster": null,
   "demand": null,
-  "demand_checked": "2026-10-31"
+  "demand_checked": "2026-11-01"
  },
  {
   "id": "a-true-york-st-marks-2026-12-12",
@@ -3383,7 +3294,7 @@
   "featured": false,
   "poster": null,
   "demand": null,
-  "demand_checked": "2026-10-31"
+  "demand_checked": "2026-11-01"
  },
  {
   "id": "speakeasy-saturday-night-st-marks-2026-12-12",
@@ -3405,6 +3316,6 @@
   "featured": false,
   "poster": null,
   "demand": null,
-  "demand_checked": "2026-10-31"
+  "demand_checked": "2026-11-01"
  }
 ]
