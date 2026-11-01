@@ -235,6 +235,10 @@ const jsFiles = [
   path.join(root, 'scripts', 'perplexity-leads.js'),
   path.join(root, 'scripts', 'research-plan.js'),
   path.join(root, 'scripts', 'calendar.js'),
+  path.join(root, 'scripts', 'blurb.js'),
+  path.join(root, 'scripts', 'tonight-set.js'),
+  path.join(root, 'scripts', 'ig-card.js'),
+  path.join(root, 'scripts', 'ig-post.js'),
 ];
 jsFiles.forEach((file) => {
   try { execFileSync(process.execPath, ['--check', file], { stdio: 'pipe' }); }

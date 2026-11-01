@@ -58,6 +58,7 @@ const reusable = new Set(posters.filter((p) => p.reuse === 'granted').map((p) =>
 const venuesByName = new Map(JSON.parse(fs.readFileSync(path.join(web, 'data', 'venues.json'), 'utf8')).map((v) => [v.name, v]));
 const hoodOf = (p) => venuesByName.get(p.venue)?.neighborhood || p.neighborhood || '';
 const { soldOut, selectTonight } = require('./tonight-set.js');
+const { firstSentence } = require('./blurb.js');
 // Full-bleed image for a pick: its own poster, or (when there's no artwork) a credited photo of the venue itself.
 const heroImage = (p) => (p.poster && p.poster.src) ? p.poster : (venuesByName.get(p.venue)?.photo || null);
 
@@ -116,7 +117,7 @@ body:before{content:'';position:absolute;inset:0;background:radial-gradient(elli
 
 const titleSize = (t) => { const byLen = t.length > 60 ? 88 : t.length > 40 ? 104 : t.length > 24 ? 128 : t.length > 14 ? 150 : 176; const longest = Math.max(...t.split(/\s+/).map((w) => w.length)); const byWord = Math.floor(800 / (0.56 * longest)); return Math.min(byLen, byWord); };
 const rowSize = (n, maxLen) => n <= 2 ? (maxLen > 30 ? 84 : 110) : n <= 3 ? (maxLen > 30 ? 72 : 96) : n <= 4 ? (maxLen > 30 ? 58 : 76) : (maxLen > 30 ? 48 : 60);
-const sub = (p) => { const d = String(p.description || '').trim(); const m = d.match(/^[^.!?]{12,180}[.!?]/); if (m) return m[0]; if (d.length <= 12) return ''; const first = (d.match(/^[^.!?]+/) || [d])[0]; const head = first.slice(0, 182); let cut = -1; for (const sep of [' with ', ' featuring ', ' plus ', ', ', ' and ']) { const i = head.lastIndexOf(sep); if (i > 40 && i > cut) cut = i; } return (cut > 0 ? head.slice(0, cut) : head.slice(0, head.lastIndexOf(' '))).replace(/[,;:\s]+$/, '') + '.'; };
+const sub = (p) => firstSentence(p.description, 180, 182);
 const dek = (p) => { const b = sub(p) || p.price_label; const v = String(p.venue).replace(/^the\s+/i, ''); return new RegExp(v.replace(/[.*+?^${}()|[\]\\]/g, '\\$&'), 'i').test(b) ? `${hoodOf(p)}. ${b}` : `${p.venue}, ${hoodOf(p)}. ${b}`; };
 
 function pickCard(p) {
