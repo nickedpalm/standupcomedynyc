@@ -408,3 +408,22 @@ Generated from `npm run heat` + `npm run research-plan` (last30days for the 2 na
 
 ### Ranked on schedule alone
 - All 43 skipped performers sit outside the 10-day window, below the cheap-rank threshold, or on a show already sold out. The 16 picks added today are named-headliner or named-lineup shows verified on their own event pages; the plan scored their titles as names but scheduled no run for them. Maddy Kelly was skipped as sold out - the Union Hall Nov 11 page reads "Tickets Sold Out", so her pick stays on the board with the Sold out tag and does not enter the Tonight carousel.
+
+2026-11-01 recovery edition (the 11:00 run hit its tool cap and published nothing; recovered and published here)
+- Ranked 52 performers; **ran 2** (Sam Oh, Peyton Ruddy - both inside the 3-day window with no recent data); **reused 6** (Fahim Anwar, Joanne McNally, Andrew Dismukes, Michael Good, Kevin McDonald, Michael Longfellow - all cached under 7d); **skipped 44** (outside the 10-day window, below the cheap-rank threshold, or on a show already sold out); **~450,000 tokens saved** from the plan.
+- 2 names ranked on schedule alone for lack of recent data: Sam Oh, Peyton Ruddy.
+
+### Run notes
+- **Sam Oh** (The Bell House Nov 2): nothing about the comic in 30 days - Hacker News returned twelve Sam Altman DRAM stories and Reddit two off-topic threads (a YTV reunion and a Battle for Dream Island contestant) - so her NYC debut stands on the show's own page. Cached for 7d.
+- **Peyton Ruddy** (Union Hall Nov 2, late show): no signal at all - Hacker News returned zero stories and Reddit three unrelated threads (a Denver weekend list, a Gianmarco Soresi podcast episode, an NFL video game roster question) - so the 10pm show stands on the event page alone. Cached for 7d.
+
+### Reuse notes (already cached under 7d)
+- **Fahim Anwar**: the buzz is about a Kill Tony complaint and a Victoria BC show, not New York; his Bell House Nov 20 date is sold out anyway.
+- **Joanne McNally**: heavy signal, but all of it is the Tonight Show debut and the McGregor boycott, not the Town Hall taping.
+- **Andrew Dismukes**: the buzz is about his SNL and improv work, not the Union Hall date.
+- **Michael Good**: name-collision noise only; the pick stands on the event page.
+- **Kevin McDonald**: one CBC nostalgia thread, no New York signal on the Union Hall date.
+- **Michael Longfellow**: an 83-upvote r/LiveFromNewYork post recommending his tour against an Oct 11 thread calling his SNL clips unfunny; the tour thread is the live signal for Union Hall Nov 3.
+
+### Ranked on schedule alone
+- All 44 skipped performers sit outside the 10-day window, below the cheap-rank threshold, or on a show already sold out. The four picks added today - Hillbilly Allegedly (Caveat Nov 2), Cold Plunge (Union Hall Nov 4), Puteria con PAPIROSSA (Littlefield Nov 6) and Critical Grace Theory (Union Hall Nov 9) - are named-headliner or named-lineup shows verified on their own pages; the plan scored their titles as names but scheduled no run for them. Maddy Kelly was skipped as sold out - the Union Hall Nov 11 page reads "Tickets Sold Out", so her pick stays on the board with the Sold out tag and does not enter the Tonight carousel.

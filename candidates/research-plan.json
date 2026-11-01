@@ -1,10 +1,10 @@
 {
- "generated_at": "2026-10-31T14:54:34.554Z",
- "performers_considered": 50,
+ "generated_at": "2026-11-01T11:08:18.958Z",
+ "performers_considered": 52,
  "shortlist": [
   {
    "name": "Maddy Kelly",
-   "priority": 105
+   "priority": 120
   },
   {
    "name": "Fahim Anwar",
@@ -35,11 +35,11 @@
    "priority": 40
   },
   {
-   "name": "Nasser Al-Rayess",
+   "name": "Sam Oh",
    "priority": 35
   },
   {
-   "name": "Sam Oh",
+   "name": "Peyton Ruddy",
    "priority": 35
   }
  ],
@@ -51,7 +51,22 @@
     "id": "sam-oh-gay-virgin-bell-house-2026-11-02",
     "date": "2026-11-02",
     "venue": "The Bell House",
-    "days": 2,
+    "days": 1,
+    "featured": false,
+    "poster": true,
+    "demand": null
+   },
+   "cheap_signals": [],
+   "reason": "show within 3 days and not yet decided"
+  },
+  {
+   "name": "Peyton Ruddy",
+   "priority": 35,
+   "next": {
+    "id": "peyton-ruddy-union-hall-2026-11-02",
+    "date": "2026-11-02",
+    "venue": "Union Hall",
+    "days": 1,
     "featured": false,
     "poster": true,
     "demand": null
@@ -66,7 +81,7 @@
    "priority": 105,
    "cached": {
     "at": "2026-10-26T13:22:16.706Z",
-    "age_days": 5.1,
+    "age_days": 5.9,
     "fresh": true,
     "note": "Four Reddit threads in 30 days, none about the comic: a Kill Tony episode complaint, a r/Goldpilltalk clip, a dating-skills thread and a Victoria BC show. No New York signal; his Bell House Nov 20 date is sold out anyway."
    }
@@ -76,7 +91,7 @@
    "priority": 50,
    "cached": {
     "at": "2026-10-26T13:22:16.736Z",
-    "age_days": 5.1,
+    "age_days": 5.9,
     "fresh": true,
     "note": "Heavy signal but all of it is the Tonight Show debut and the McGregor boycott refusal, not the New York show: a 760-upvote r/entertainment thread on Oct 21 plus a 273-upvote r/ireland thread and a 125-upvote 'proud day for the parish' thread Oct 20. The Town Hall Nov 7 Pinotphile taping is what a reader can act on."
    }
@@ -86,7 +101,7 @@
    "priority": 45,
    "cached": {
     "at": "2026-10-28T12:19:03.974Z",
-    "age_days": 3.1,
+    "age_days": 4,
     "fresh": true,
     "note": "Three Reddit threads in 30 days, none about the Union Hall date: a 405-upvote r/LiveFromNewYork post praising his Sam I Am on SNL (Oct 12) and a 764-upvote clip of him improvising with Carl Tart at The Ultimate Improv Show; Hacker News returned two Andrew Ng AI stories and an Andrew Kelley video. The buzz is real but about his TV and improv work, not the show, so the pick stands on the Union Hall page."
    }
@@ -96,7 +111,7 @@
    "priority": 45,
    "cached": {
     "at": "2026-10-28T12:20:56.031Z",
-    "age_days": 3.1,
+    "age_days": 3.9,
     "fresh": true,
     "note": "Nothing about the comic: Reddit returned ten threads and 42,000 upvotes about Michael Bay, Michael Jordan, Michael Jackson and Michael Penix, and Hacker News an economics Nobel, with no mention of the comedian, Steve Martin Presents or the Union Hall date. The pick stands on the event page and the room's own lineup."
    }
@@ -106,7 +121,7 @@
    "priority": 45,
    "cached": {
     "at": "2026-10-28T12:23:09.007Z",
-    "age_days": 3.1,
+    "age_days": 3.9,
     "fresh": true,
     "note": "One relevant thread in 30 days: a 554-upvote r/SaveTheCBC post marking 38 years since The Kids in the Hall premiered on CBC, naming him in the cast (Oct 16). Hacker News was eight Kevin Bacon stories and Reddit an A-League match thread, so there is no New York signal on the Union Hall date — the pick stands on the show's own page and his Kids in the Hall and new album credits."
    }
@@ -116,37 +131,22 @@
    "priority": 45,
    "cached": {
     "at": "2026-10-29T12:04:21.699Z",
-    "age_days": 2.1,
+    "age_days": 3,
     "fresh": true,
     "note": "Two Reddit threads in 30 days and only one is positive: an 83-upvote r/LiveFromNewYork post on Oct 25 says he is on tour and 'I highly recommend going', while an Oct 11 r/saturdaynightlive thread argues his SNL clips are unfunny; the Hacker News hit is a Nobel laureate named Michael Woodford, not the comic. The tour thread is the live signal for the Union Hall Nov 3 date."
-   }
-  },
-  {
-   "name": "Nasser Al-Rayess",
-   "priority": 35,
-   "cached": {
-    "at": "2026-10-30T14:27:33.490Z",
-    "age_days": 1,
-    "fresh": true,
-    "note": "One Reddit thread in 30 days and it was not about the comic: a single r/Columbus post with 4 upvotes, plus nothing at all on Hacker News, so there is no New York signal on the Town Hall Oct 31 date. The pick stands on the Town Hall page itself."
    }
   }
  ],
  "skip": [
   {
    "name": "Maddy Kelly",
-   "priority": 105,
+   "priority": 120,
    "reason": "already sold out; research cannot change the call"
   },
   {
    "name": "Ania Magliano",
    "priority": 40,
-   "reason": "next show in 32 days, outside the 10-day window"
-  },
-  {
-   "name": "Peyton Ruddy",
-   "priority": 35,
-   "reason": "outside the top 10 by cheap ranking"
+   "reason": "next show in 31 days, outside the 10-day window"
   },
   {
    "name": "Francis Ellis",
@@ -160,6 +160,11 @@
   },
   {
    "name": "Infamous Ray",
+   "priority": 35,
+   "reason": "outside the top 10 by cheap ranking"
+  },
+  {
+   "name": "Salma Hindy",
    "priority": 35,
    "reason": "outside the top 10 by cheap ranking"
   },
@@ -199,11 +204,6 @@
    "reason": "outside the top 10 by cheap ranking"
   },
   {
-   "name": "Salma Hindy",
-   "priority": 20,
-   "reason": "outside the top 10 by cheap ranking"
-  },
-  {
    "name": "George Willborn",
    "priority": 20,
    "reason": "outside the top 10 by cheap ranking"
@@ -225,11 +225,6 @@
   },
   {
    "name": "Jaboukie Young-White",
-   "priority": 20,
-   "reason": "outside the top 10 by cheap ranking"
-  },
-  {
-   "name": "Halloween Spooktackular",
    "priority": 20,
    "reason": "outside the top 10 by cheap ranking"
   },
@@ -260,6 +255,11 @@
   },
   {
    "name": "Real Life Tonight",
+   "priority": 20,
+   "reason": "outside the top 10 by cheap ranking"
+  },
+  {
+   "name": "Holmes Street",
    "priority": 20,
    "reason": "outside the top 10 by cheap ranking"
   },
@@ -342,11 +342,27 @@
    "name": "Alyce Chan",
    "priority": 5,
    "reason": "outside the top 10 by cheap ranking"
+  },
+  {
+   "name": "Nerd Nite",
+   "priority": 5,
+   "reason": "outside the top 10 by cheap ranking"
+  },
+  {
+   "name": "Nori Reed",
+   "priority": 5,
+   "reason": "outside the top 10 by cheap ranking"
+  },
+  {
+   "name": "Tone",
+   "priority": 5,
+   "reason": "outside the top 10 by cheap ranking"
   }
  ],
- "estimated_tokens_saved": 441000,
- "estimate_basis": "9000 tokens per last30days run, 49 runs avoided out of 50",
+ "estimated_tokens_saved": 450000,
+ "estimate_basis": "9000 tokens per last30days run, 50 runs avoided out of 52",
  "no_recent_data": [
-  "Sam Oh"
+  "Sam Oh",
+  "Peyton Ruddy"
  ]
 }

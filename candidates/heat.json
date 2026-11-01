@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-01T09:20:23.558Z",
+ "generated_at": "2026-11-01T11:08:18.755Z",
  "note": "Demand signals for the editor. Only availability and second shows set the public demand tag.",
  "picks": [
   {
@@ -13,7 +13,14 @@
    "second_show": false,
    "performer": "Maddy Kelly",
    "wikipedia": null,
-   "reddit": null,
+   "reddit": {
+    "phrase": "Maddy Kelly",
+    "posts_30d": 0,
+    "upvotes": 0,
+    "comments": 0,
+    "subreddits": [],
+    "top": null
+   },
    "reasons": [
     "sold out on the ticket page"
    ]
@@ -45,7 +52,14 @@
    "second_show": false,
    "performer": "Fahim Anwar",
    "wikipedia": null,
-   "reddit": null,
+   "reddit": {
+    "phrase": "Fahim Anwar",
+    "posts_30d": 0,
+    "upvotes": 0,
+    "comments": 0,
+    "subreddits": [],
+    "top": null
+   },
    "reasons": [
     "sold out on the ticket page"
    ]
@@ -66,10 +80,56 @@
     "views_prior_30d": 42192,
     "change": 691
    },
-   "reddit": null,
+   "reddit": {
+    "phrase": "Joanne McNally",
+    "posts_30d": 0,
+    "upvotes": 0,
+    "comments": 0,
+    "subreddits": [],
+    "top": null
+   },
    "reasons": [
     "Wikipedia: 11122 views a day",
     "Wikipedia views up 691% over the prior month"
+   ]
+  },
+  {
+   "id": "nycf-daniel-sloss-beacon-2026-11-14",
+   "title": "Daniel Sloss: Bitter",
+   "venue": "Beacon Theatre",
+   "date": "2026-11-14",
+   "heat": 35,
+   "demand": null,
+   "availability": null,
+   "second_show": false,
+   "performer": "Daniel Sloss",
+   "wikipedia": {
+    "title": "Daniel Sloss",
+    "views_30d": 23751,
+    "views_prior_30d": 16388,
+    "change": 45
+   },
+   "reddit": {
+    "phrase": "Daniel Sloss",
+    "posts_30d": 5,
+    "upvotes": 563,
+    "comments": 1022,
+    "subreddits": [
+     "Standup",
+     "uknews",
+     "PodcastSnarks",
+     "Tickets"
+    ],
+    "top": {
+     "title": "Daniel Sloss controversy?",
+     "subreddit": "Standup",
+     "score": 378,
+     "url": "https://www.reddit.com/r/Standup/comments/1xbscnv/daniel_sloss_controversy/"
+    }
+   },
+   "reasons": [
+    "Wikipedia: 792 views a day",
+    "Reddit: 5 posts in 30 days, 563 upvotes (top: r/Standup)"
    ]
   },
   {
@@ -88,10 +148,54 @@
     "views_prior_30d": 53252,
     "change": 60
    },
-   "reddit": null,
+   "reddit": {
+    "phrase": "Ania Magliano",
+    "posts_30d": 0,
+    "upvotes": 0,
+    "comments": 0,
+    "subreddits": [],
+    "top": null
+   },
    "reasons": [
     "Wikipedia: 2841 views a day",
     "Wikipedia views up 60% over the prior month"
+   ]
+  },
+  {
+   "id": "nycf-ilana-glazer-beacon-2026-11-13",
+   "title": "Ilana Glazer Live!",
+   "venue": "Beacon Theatre",
+   "date": "2026-11-13",
+   "heat": 30,
+   "demand": null,
+   "availability": null,
+   "second_show": false,
+   "performer": "Ilana Glazer",
+   "wikipedia": {
+    "title": "Ilana Glazer",
+    "views_30d": 40119,
+    "views_prior_30d": 28606,
+    "change": 40
+   },
+   "reddit": {
+    "phrase": "Ilana Glazer",
+    "posts_30d": 2,
+    "upvotes": 16,
+    "comments": 6,
+    "subreddits": [
+     "BroadCity",
+     "LAlist"
+    ],
+    "top": {
+     "title": "LA - Tix for Sale - Ilana Glazer Stand-up Show 10/15",
+     "subreddit": "BroadCity",
+     "score": 15,
+     "url": "https://www.reddit.com/r/BroadCity/comments/1x61937/la_tix_for_sale_ilana_glazer_standup_show_1015/"
+    }
+   },
+   "reasons": [
+    "Wikipedia: 1337 views a day",
+    "Reddit: 2 posts in 30 days, 16 upvotes (top: r/BroadCity)"
    ]
   },
   {
@@ -112,6 +216,93 @@
    ]
   },
   {
+   "id": "nycf-demi-adejuyigbe-sells-out-littlefield-2026-11-09",
+   "title": "NY Comedy Festival Presents: Demi Adejuyigbe Sells Out",
+   "venue": "Littlefield",
+   "date": "2026-11-09",
+   "heat": 25,
+   "demand": "going_fast",
+   "availability": "InStock",
+   "second_show": true,
+   "performer": null,
+   "wikipedia": null,
+   "reddit": null,
+   "reasons": [
+    "tickets available",
+    "a second show the same night at the same room"
+   ]
+  },
+  {
+   "id": "gavin-matts-profound-union-hall-2026-12-09",
+   "title": "Gavin Matts: profound",
+   "venue": "Union Hall",
+   "date": "2026-12-09",
+   "heat": 25,
+   "demand": null,
+   "availability": "InStock",
+   "second_show": false,
+   "performer": "Gavin Matts",
+   "wikipedia": null,
+   "reddit": {
+    "phrase": "Gavin Matts",
+    "posts_30d": 4,
+    "upvotes": 487,
+    "comments": 53,
+    "subreddits": [
+     "Standup",
+     "StandUpComedy",
+     "justforlaughs"
+    ],
+    "top": {
+     "title": "Just want to shout out Gavin Matts new special",
+     "subreddit": "Standup",
+     "score": 475,
+     "url": "https://www.reddit.com/r/Standup/comments/1xbsoe0/just_want_to_shout_out_gavin_matts_new_special/"
+    }
+   },
+   "reasons": [
+    "tickets available",
+    "Reddit: 4 posts in 30 days, 487 upvotes (top: r/Standup)"
+   ]
+  },
+  {
+   "id": "sam-tallent-bell-house-2026-11-05",
+   "title": "Sam Tallent",
+   "venue": "The Bell House",
+   "date": "2026-11-05",
+   "heat": 20,
+   "demand": null,
+   "availability": null,
+   "second_show": false,
+   "performer": "Sam Tallent",
+   "wikipedia": {
+    "title": "Sam Tallent",
+    "views_30d": 7544,
+    "views_prior_30d": 11329,
+    "change": -33
+   },
+   "reddit": {
+    "phrase": "Sam Tallent",
+    "posts_30d": 2,
+    "upvotes": 41,
+    "comments": 1,
+    "subreddits": [
+     "chubbybehemoth",
+     "WhiskeyGinger"
+    ],
+    "top": {
+     "title": "Sam Tallent on Comedy, Writing &amp; His New Book Brut | Whiskey Ginger",
+     "subreddit": "chubbybehemoth",
+     "score": 38,
+     "url": "https://www.reddit.com/r/chubbybehemoth/comments/1xjjcdn/sam_tallent_on_comedy_writing_his_new_book_brut/"
+    }
+   },
+   "reasons": [
+    "Wikipedia: 251 views a day",
+    "Reddit: 2 posts in 30 days, 41 upvotes (top: r/chubbybehemoth)"
+   ]
+  },
+  {
    "id": "nycf-marc-maron-beacon-2026-11-08",
    "title": "Marc Maron: Yammering Into the Void Tour",
    "venue": "Beacon Theatre",
@@ -127,30 +318,51 @@
     "views_prior_30d": 32968,
     "change": 2
    },
-   "reddit": null,
+   "reddit": {
+    "phrase": "Marc Maron",
+    "posts_30d": 0,
+    "upvotes": 0,
+    "comments": 0,
+    "subreddits": [],
+    "top": null
+   },
    "reasons": [
     "Wikipedia: 1126 views a day"
    ]
   },
   {
-   "id": "nycf-ilana-glazer-beacon-2026-11-13",
-   "title": "Ilana Glazer Live!",
-   "venue": "Beacon Theatre",
-   "date": "2026-11-13",
+   "id": "dewayne-perkins-bell-house-2026-11-09",
+   "title": "Dewayne Perkins",
+   "venue": "The Bell House",
+   "date": "2026-11-09",
    "heat": 20,
    "demand": null,
    "availability": null,
    "second_show": false,
-   "performer": "Ilana Glazer",
+   "performer": "Dewayne Perkins",
    "wikipedia": {
-    "title": "Ilana Glazer",
-    "views_30d": 40119,
-    "views_prior_30d": 28606,
-    "change": 40
+    "title": "Dewayne Perkins",
+    "views_30d": 3503,
+    "views_prior_30d": 2394,
+    "change": 46
    },
-   "reddit": null,
+   "reddit": {
+    "phrase": "Dewayne Perkins",
+    "posts_30d": 3,
+    "upvotes": 260,
+    "comments": 30,
+    "subreddits": [
+     "BlackLGBT"
+    ],
+    "top": {
+     "title": "I Swear We're Friends is a upcoming sketch comedy web series on YouTube, premiering it's first 2 episodes on Oct 14th, episodes 3-4 on Oct 21st and the last two episodes on Oct 28th. Executive produced by and starring Dewayne Perkins, along with a cast of black queer men.",
+     "subreddit": "BlackLGBT",
+     "score": 164,
+     "url": "https://www.reddit.com/r/BlackLGBT/comments/1x0d8gq/i_swear_were_friends_is_a_upcoming_sketch_comedy/"
+    }
+   },
    "reasons": [
-    "Wikipedia: 1337 views a day"
+    "Reddit: 3 posts in 30 days, 260 upvotes (top: r/BlackLGBT)"
    ]
   },
   {
@@ -169,9 +381,83 @@
     "views_prior_30d": 54835,
     "change": -33
    },
-   "reddit": null,
+   "reddit": {
+    "phrase": "Jaboukie Young-White",
+    "posts_30d": 0,
+    "upvotes": 0,
+    "comments": 0,
+    "subreddits": [],
+    "top": null
+   },
    "reasons": [
     "Wikipedia: 1230 views a day"
+   ]
+  },
+  {
+   "id": "michelle-wolf-best-job-town-hall-2026-11-19",
+   "title": "Michelle Wolf: Best Job in the World",
+   "venue": "The Town Hall",
+   "date": "2026-11-19",
+   "heat": 18,
+   "demand": null,
+   "availability": null,
+   "second_show": false,
+   "performer": "Michelle Wolf",
+   "wikipedia": {
+    "title": "Michelle Wolf",
+    "views_30d": 14314,
+    "views_prior_30d": 12383,
+    "change": 16
+   },
+   "reddit": {
+    "phrase": "Michelle Wolf",
+    "posts_30d": 1,
+    "upvotes": 178,
+    "comments": 51,
+    "subreddits": [
+     "Standup"
+    ],
+    "top": {
+     "title": "Michelle Wolf - \"For Linda\" A YouTube Comedy Special",
+     "subreddit": "Standup",
+     "score": 178,
+     "url": "https://www.reddit.com/r/Standup/comments/1xjnmfh/michelle_wolf_for_linda_a_youtube_comedy_special/"
+    }
+   },
+   "reasons": [
+    "Wikipedia: 477 views a day",
+    "Reddit: 1 post in 30 days, 178 upvotes (top: r/Standup)"
+   ]
+  },
+  {
+   "id": "nycf-jordan-jensen-beacon-2026-11-12",
+   "title": "Jordan Jensen",
+   "venue": "Beacon Theatre",
+   "date": "2026-11-12",
+   "heat": 11,
+   "demand": null,
+   "availability": null,
+   "second_show": false,
+   "performer": "Jordan Jensen",
+   "wikipedia": null,
+   "reddit": {
+    "phrase": "Jordan Jensen",
+    "posts_30d": 2,
+    "upvotes": 97,
+    "comments": 41,
+    "subreddits": [
+     "Standup",
+     "PittsburghSocialClub"
+    ],
+    "top": {
+     "title": "watched Jordan Jensen’s special “Take Me With You”",
+     "subreddit": "Standup",
+     "score": 89,
+     "url": "https://www.reddit.com/r/Standup/comments/1xhbi9t/watched_jordan_jensens_special_take_me_with_you/"
+    }
+   },
+   "reasons": [
+    "Reddit: 2 posts in 30 days, 97 upvotes (top: r/Standup)"
    ]
   },
   {
@@ -190,7 +476,14 @@
     "views_prior_30d": 20838,
     "change": 30
    },
-   "reddit": null,
+   "reddit": {
+    "phrase": "Andrew Dismukes",
+    "posts_30d": 0,
+    "upvotes": 0,
+    "comments": 0,
+    "subreddits": [],
+    "top": null
+   },
    "reasons": [
     "tickets available",
     "Wikipedia: 906 views a day"
@@ -212,7 +505,14 @@
     "views_prior_30d": 15836,
     "change": -17
    },
-   "reddit": null,
+   "reddit": {
+    "phrase": "Kevin McDonald",
+    "posts_30d": 0,
+    "upvotes": 0,
+    "comments": 0,
+    "subreddits": [],
+    "top": null
+   },
    "reasons": [
     "tickets available",
     "Wikipedia: 441 views a day"
@@ -234,7 +534,14 @@
     "views_prior_30d": 4877,
     "change": 28
    },
-   "reddit": null,
+   "reddit": {
+    "phrase": "Difficult People",
+    "posts_30d": 0,
+    "upvotes": 0,
+    "comments": 0,
+    "subreddits": [],
+    "top": null
+   },
    "reasons": [
     "Wikipedia: 208 views a day"
    ]
@@ -255,31 +562,17 @@
     "views_prior_30d": 8921,
     "change": 39
    },
-   "reddit": null,
+   "reddit": {
+    "phrase": "Michael Longfellow",
+    "posts_30d": 0,
+    "upvotes": 0,
+    "comments": 0,
+    "subreddits": [],
+    "top": null
+   },
    "reasons": [
     "tickets available",
     "Wikipedia: 413 views a day"
-   ]
-  },
-  {
-   "id": "sam-tallent-bell-house-2026-11-05",
-   "title": "Sam Tallent",
-   "venue": "The Bell House",
-   "date": "2026-11-05",
-   "heat": 10,
-   "demand": null,
-   "availability": null,
-   "second_show": false,
-   "performer": "Sam Tallent",
-   "wikipedia": {
-    "title": "Sam Tallent",
-    "views_30d": 7544,
-    "views_prior_30d": 11329,
-    "change": -33
-   },
-   "reddit": null,
-   "reasons": [
-    "Wikipedia: 251 views a day"
    ]
   },
   {
@@ -298,7 +591,14 @@
     "views_prior_30d": 14562,
     "change": -25
    },
-   "reddit": null,
+   "reddit": {
+    "phrase": "Adam Ray",
+    "posts_30d": 0,
+    "upvotes": 0,
+    "comments": 0,
+    "subreddits": [],
+    "top": null
+   },
    "reasons": [
     "Wikipedia: 366 views a day"
    ]
@@ -319,30 +619,47 @@
     "views_prior_30d": 9585,
     "change": -25
    },
-   "reddit": null,
+   "reddit": {
+    "phrase": "Jess Hilarious",
+    "posts_30d": 0,
+    "upvotes": 0,
+    "comments": 0,
+    "subreddits": [],
+    "top": null
+   },
    "reasons": [
     "Wikipedia: 240 views a day"
    ]
   },
   {
-   "id": "nycf-daniel-sloss-beacon-2026-11-14",
-   "title": "Daniel Sloss: Bitter",
-   "venue": "Beacon Theatre",
-   "date": "2026-11-14",
+   "id": "matthew-broussard-bell-house-2026-11-15",
+   "title": "Matthew Broussard",
+   "venue": "The Bell House",
+   "date": "2026-11-15",
    "heat": 10,
    "demand": null,
    "availability": null,
    "second_show": false,
-   "performer": "Daniel Sloss",
-   "wikipedia": {
-    "title": "Daniel Sloss",
-    "views_30d": 23751,
-    "views_prior_30d": 16388,
-    "change": 45
+   "performer": "Matthew Broussard",
+   "wikipedia": null,
+   "reddit": {
+    "phrase": "Matthew Broussard",
+    "posts_30d": 2,
+    "upvotes": 6,
+    "comments": 4,
+    "subreddits": [
+     "comedy",
+     "StandUpComedy"
+    ],
+    "top": {
+     "title": "JUST ANNOUNCED: Joe List and Matthew Broussard 10/14 NYC",
+     "subreddit": "comedy",
+     "score": 6,
+     "url": "https://www.reddit.com/r/comedy/comments/1x1tpt6/just_announced_joe_list_and_matthew_broussard/"
+    }
    },
-   "reddit": null,
    "reasons": [
-    "Wikipedia: 792 views a day"
+    "Reddit: 2 posts in 30 days, 6 upvotes (top: r/comedy)"
    ]
   },
   {
@@ -361,30 +678,16 @@
     "views_prior_30d": 11315,
     "change": 30
    },
-   "reddit": null,
+   "reddit": {
+    "phrase": "Jessica Kirson",
+    "posts_30d": 0,
+    "upvotes": 0,
+    "comments": 0,
+    "subreddits": [],
+    "top": null
+   },
    "reasons": [
     "Wikipedia: 491 views a day"
-   ]
-  },
-  {
-   "id": "michelle-wolf-best-job-town-hall-2026-11-19",
-   "title": "Michelle Wolf: Best Job in the World",
-   "venue": "The Town Hall",
-   "date": "2026-11-19",
-   "heat": 10,
-   "demand": null,
-   "availability": null,
-   "second_show": false,
-   "performer": "Michelle Wolf",
-   "wikipedia": {
-    "title": "Michelle Wolf",
-    "views_30d": 14314,
-    "views_prior_30d": 12383,
-    "change": 16
-   },
-   "reddit": null,
-   "reasons": [
-    "Wikipedia: 477 views a day"
    ]
   },
   {
@@ -403,7 +706,14 @@
     "views_prior_30d": 6742,
     "change": 49
    },
-   "reddit": null,
+   "reddit": {
+    "phrase": "Jacqueline Novak",
+    "posts_30d": 0,
+    "upvotes": 0,
+    "comments": 0,
+    "subreddits": [],
+    "top": null
+   },
    "reasons": [
     "Wikipedia: 335 views a day"
    ]
@@ -424,7 +734,14 @@
     "views_prior_30d": 11315,
     "change": 30
    },
-   "reddit": null,
+   "reddit": {
+    "phrase": "Jessica Kirson",
+    "posts_30d": 0,
+    "upvotes": 0,
+    "comments": 0,
+    "subreddits": [],
+    "top": null
+   },
    "reasons": [
     "Wikipedia: 491 views a day"
    ]
@@ -445,7 +762,14 @@
     "views_prior_30d": 6742,
     "change": 49
    },
-   "reddit": null,
+   "reddit": {
+    "phrase": "Jacqueline Novak",
+    "posts_30d": 0,
+    "upvotes": 0,
+    "comments": 0,
+    "subreddits": [],
+    "top": null
+   },
    "reasons": [
     "Wikipedia: 335 views a day"
    ]
@@ -466,7 +790,14 @@
     "views_prior_30d": 14388,
     "change": 10
    },
-   "reddit": null,
+   "reddit": {
+    "phrase": "Demetri Martin",
+    "posts_30d": 0,
+    "upvotes": 0,
+    "comments": 0,
+    "subreddits": [],
+    "top": null
+   },
    "reasons": [
     "Wikipedia: 526 views a day"
    ]
@@ -487,9 +818,46 @@
     "views_prior_30d": 14388,
     "change": 10
    },
-   "reddit": null,
+   "reddit": {
+    "phrase": "Demetri Martin",
+    "posts_30d": 0,
+    "upvotes": 0,
+    "comments": 0,
+    "subreddits": [],
+    "top": null
+   },
    "reasons": [
     "Wikipedia: 526 views a day"
+   ]
+  },
+  {
+   "id": "nycf-mojo-brookzz-beacon-2026-11-15",
+   "title": "Mojo Brookzz: Outta Pocket Comedy Tour",
+   "venue": "Beacon Theatre",
+   "date": "2026-11-15",
+   "heat": 5,
+   "demand": null,
+   "availability": null,
+   "second_show": false,
+   "performer": "Mojo Brookzz",
+   "wikipedia": null,
+   "reddit": {
+    "phrase": "Mojo Brookzz",
+    "posts_30d": 1,
+    "upvotes": 6,
+    "comments": 6,
+    "subreddits": [
+     "Standup"
+    ],
+    "top": {
+     "title": "Mojo Brookzz ripping off Katt Williams",
+     "subreddit": "Standup",
+     "score": 6,
+     "url": "https://www.reddit.com/r/Standup/comments/1x0h9s0/mojo_brookzz_ripping_off_katt_williams/"
+    }
+   },
+   "reasons": [
+    "Reddit: 1 post in 30 days, 6 upvotes (top: r/Standup)"
    ]
   },
   {
@@ -549,7 +917,14 @@
    "second_show": false,
    "performer": "Sam Oh",
    "wikipedia": null,
-   "reddit": null,
+   "reddit": {
+    "phrase": "Sam Oh",
+    "posts_30d": 0,
+    "upvotes": 0,
+    "comments": 0,
+    "subreddits": [],
+    "top": null
+   },
    "reasons": []
   },
   {
@@ -579,7 +954,14 @@
    "second_show": false,
    "performer": "Peyton Ruddy",
    "wikipedia": null,
-   "reddit": null,
+   "reddit": {
+    "phrase": "Peyton Ruddy",
+    "posts_30d": 0,
+    "upvotes": 0,
+    "comments": 0,
+    "subreddits": [],
+    "top": null
+   },
    "reasons": [
     "tickets available"
    ]
@@ -609,7 +991,14 @@
    "second_show": false,
    "performer": "Infamous Ray",
    "wikipedia": null,
-   "reddit": null,
+   "reddit": {
+    "phrase": "Infamous Ray",
+    "posts_30d": 0,
+    "upvotes": 0,
+    "comments": 0,
+    "subreddits": [],
+    "top": null
+   },
    "reasons": []
   },
   {
@@ -623,7 +1012,14 @@
    "second_show": false,
    "performer": "Doctors Without Boundaries",
    "wikipedia": null,
-   "reddit": null,
+   "reddit": {
+    "phrase": "Doctors Without Boundaries",
+    "posts_30d": 0,
+    "upvotes": 0,
+    "comments": 0,
+    "subreddits": [],
+    "top": null
+   },
    "reasons": [
     "tickets available"
    ]
@@ -639,7 +1035,14 @@
    "second_show": false,
    "performer": "Please Stay Seated",
    "wikipedia": null,
-   "reddit": null,
+   "reddit": {
+    "phrase": "Please Stay Seated",
+    "posts_30d": 0,
+    "upvotes": 0,
+    "comments": 0,
+    "subreddits": [],
+    "top": null
+   },
    "reasons": []
   },
   {
@@ -658,7 +1061,14 @@
     "views_prior_30d": 3515,
     "change": -72
    },
-   "reddit": null,
+   "reddit": {
+    "phrase": "Salma Hindy",
+    "posts_30d": 0,
+    "upvotes": 0,
+    "comments": 0,
+    "subreddits": [],
+    "top": null
+   },
    "reasons": []
   },
   {
@@ -790,7 +1200,14 @@
    "second_show": false,
    "performer": "George Willborn",
    "wikipedia": null,
-   "reddit": null,
+   "reddit": {
+    "phrase": "George Willborn",
+    "posts_30d": 0,
+    "upvotes": 0,
+    "comments": 0,
+    "subreddits": [],
+    "top": null
+   },
    "reasons": []
   },
   {
@@ -853,7 +1270,14 @@
     "views_prior_30d": 869,
     "change": 4
    },
-   "reddit": null,
+   "reddit": {
+    "phrase": "Josh Sharp",
+    "posts_30d": 0,
+    "upvotes": 0,
+    "comments": 0,
+    "subreddits": [],
+    "top": null
+   },
    "reasons": []
   },
   {
@@ -881,42 +1305,14 @@
    "second_show": false,
    "performer": "Rainbow Riot",
    "wikipedia": null,
-   "reddit": null,
-   "reasons": []
-  },
-  {
-   "id": "nycf-demi-adejuyigbe-sells-out-littlefield-2026-11-09",
-   "title": "NY Comedy Festival Presents: Demi Adejuyigbe Sells Out",
-   "venue": "Littlefield",
-   "date": "2026-11-09",
-   "heat": 0,
-   "demand": null,
-   "availability": "InStock",
-   "second_show": false,
-   "performer": null,
-   "wikipedia": null,
-   "reddit": null,
-   "reasons": [
-    "tickets available"
-   ]
-  },
-  {
-   "id": "dewayne-perkins-bell-house-2026-11-09",
-   "title": "Dewayne Perkins",
-   "venue": "The Bell House",
-   "date": "2026-11-09",
-   "heat": 0,
-   "demand": null,
-   "availability": null,
-   "second_show": false,
-   "performer": "Dewayne Perkins",
-   "wikipedia": {
-    "title": "Dewayne Perkins",
-    "views_30d": 3503,
-    "views_prior_30d": 2394,
-    "change": 46
+   "reddit": {
+    "phrase": "Rainbow Riot",
+    "posts_30d": 0,
+    "upvotes": 0,
+    "comments": 0,
+    "subreddits": [],
+    "top": null
    },
-   "reddit": null,
    "reasons": []
   },
   {
@@ -944,7 +1340,14 @@
    "second_show": false,
    "performer": "Ester Steinberg",
    "wikipedia": null,
-   "reddit": null,
+   "reddit": {
+    "phrase": "Ester Steinberg",
+    "posts_30d": 0,
+    "upvotes": 0,
+    "comments": 0,
+    "subreddits": [],
+    "top": null
+   },
    "reasons": []
   },
   {
@@ -958,7 +1361,14 @@
    "second_show": false,
    "performer": "Double Edged",
    "wikipedia": null,
-   "reddit": null,
+   "reddit": {
+    "phrase": "Double Edged",
+    "posts_30d": 0,
+    "upvotes": 0,
+    "comments": 0,
+    "subreddits": [],
+    "top": null
+   },
    "reasons": []
   },
   {
@@ -1018,20 +1428,6 @@
    "reasons": []
   },
   {
-   "id": "nycf-jordan-jensen-beacon-2026-11-12",
-   "title": "Jordan Jensen",
-   "venue": "Beacon Theatre",
-   "date": "2026-11-12",
-   "heat": 0,
-   "demand": null,
-   "availability": null,
-   "second_show": false,
-   "performer": "Jordan Jensen",
-   "wikipedia": null,
-   "reddit": null,
-   "reasons": []
-  },
-  {
    "id": "bourne-with-talent-st-marks-2026-11-12",
    "title": "Bourne With Talent Comedy Show",
    "venue": "St. Marks Comedy Club",
@@ -1056,7 +1452,14 @@
    "second_show": false,
    "performer": "Dropout Improv",
    "wikipedia": null,
-   "reddit": null,
+   "reddit": {
+    "phrase": "Dropout Improv",
+    "posts_30d": 0,
+    "upvotes": 0,
+    "comments": 0,
+    "subreddits": [],
+    "top": null
+   },
    "reasons": []
   },
   {
@@ -1098,35 +1501,14 @@
    "second_show": false,
    "performer": "Jake Velazquez",
    "wikipedia": null,
-   "reddit": null,
-   "reasons": []
-  },
-  {
-   "id": "nycf-mojo-brookzz-beacon-2026-11-15",
-   "title": "Mojo Brookzz: Outta Pocket Comedy Tour",
-   "venue": "Beacon Theatre",
-   "date": "2026-11-15",
-   "heat": 0,
-   "demand": null,
-   "availability": null,
-   "second_show": false,
-   "performer": "Mojo Brookzz",
-   "wikipedia": null,
-   "reddit": null,
-   "reasons": []
-  },
-  {
-   "id": "matthew-broussard-bell-house-2026-11-15",
-   "title": "Matthew Broussard",
-   "venue": "The Bell House",
-   "date": "2026-11-15",
-   "heat": 0,
-   "demand": null,
-   "availability": null,
-   "second_show": false,
-   "performer": "Matthew Broussard",
-   "wikipedia": null,
-   "reddit": null,
+   "reddit": {
+    "phrase": "Jake Velazquez",
+    "posts_30d": 0,
+    "upvotes": 0,
+    "comments": 0,
+    "subreddits": [],
+    "top": null
+   },
    "reasons": []
   },
   {
@@ -1238,7 +1620,14 @@
    "second_show": false,
    "performer": "Opey Olagbaju",
    "wikipedia": null,
-   "reddit": null,
+   "reddit": {
+    "phrase": "Opey Olagbaju",
+    "posts_30d": 0,
+    "upvotes": 0,
+    "comments": 0,
+    "subreddits": [],
+    "top": null
+   },
    "reasons": [
     "tickets available"
    ]
@@ -1268,7 +1657,14 @@
    "second_show": false,
    "performer": "Ask Ronna",
    "wikipedia": null,
-   "reddit": null,
+   "reddit": {
+    "phrase": "Ask Ronna",
+    "posts_30d": 0,
+    "upvotes": 0,
+    "comments": 0,
+    "subreddits": [],
+    "top": null
+   },
    "reasons": []
   },
   {
@@ -1287,7 +1683,14 @@
     "views_prior_30d": 919,
     "change": 6
    },
-   "reddit": null,
+   "reddit": {
+    "phrase": "Christian Finnegan",
+    "posts_30d": 0,
+    "upvotes": 0,
+    "comments": 0,
+    "subreddits": [],
+    "top": null
+   },
    "reasons": []
   },
   {
@@ -1329,7 +1732,14 @@
    "second_show": false,
    "performer": "Famous Last Words",
    "wikipedia": null,
-   "reddit": null,
+   "reddit": {
+    "phrase": "Famous Last Words",
+    "posts_30d": 0,
+    "upvotes": 0,
+    "comments": 0,
+    "subreddits": [],
+    "top": null
+   },
    "reasons": [
     "tickets available"
    ]
@@ -1350,7 +1760,14 @@
     "views_prior_30d": 4246,
     "change": -14
    },
-   "reddit": null,
+   "reddit": {
+    "phrase": "Judy Gold",
+    "posts_30d": 0,
+    "upvotes": 0,
+    "comments": 0,
+    "subreddits": [],
+    "top": null
+   },
    "reasons": []
   },
   {
@@ -1611,7 +2028,14 @@
     "views_prior_30d": 125,
     "change": -19
    },
-   "reddit": null,
+   "reddit": {
+    "phrase": "Ismael Loutfi",
+    "posts_30d": 0,
+    "upvotes": 0,
+    "comments": 0,
+    "subreddits": [],
+    "top": null
+   },
    "reasons": [
     "tickets available"
    ]
@@ -1627,7 +2051,14 @@
    "second_show": false,
    "performer": "Not Ripe Bananas",
    "wikipedia": null,
-   "reddit": null,
+   "reddit": {
+    "phrase": "Not Ripe Bananas",
+    "posts_30d": 0,
+    "upvotes": 0,
+    "comments": 0,
+    "subreddits": [],
+    "top": null
+   },
    "reasons": []
   },
   {
@@ -1727,7 +2158,14 @@
    "second_show": false,
    "performer": "Simeon Goodson",
    "wikipedia": null,
-   "reddit": null,
+   "reddit": {
+    "phrase": "Simeon Goodson",
+    "posts_30d": 0,
+    "upvotes": 0,
+    "comments": 0,
+    "subreddits": [],
+    "top": null
+   },
    "reasons": []
   },
   {
@@ -1799,7 +2237,14 @@
    "second_show": false,
    "performer": "Alyce Chan",
    "wikipedia": null,
-   "reddit": null,
+   "reddit": {
+    "phrase": "Alyce Chan",
+    "posts_30d": 0,
+    "upvotes": 0,
+    "comments": 0,
+    "subreddits": [],
+    "top": null
+   },
    "reasons": []
   },
   {
@@ -1813,7 +2258,14 @@
    "second_show": false,
    "performer": "Not Ripe Bananas",
    "wikipedia": null,
-   "reddit": null,
+   "reddit": {
+    "phrase": "Not Ripe Bananas",
+    "posts_30d": 0,
+    "upvotes": 0,
+    "comments": 0,
+    "subreddits": [],
+    "top": null
+   },
    "reasons": []
   },
   {
@@ -1871,22 +2323,6 @@
    "wikipedia": null,
    "reddit": null,
    "reasons": []
-  },
-  {
-   "id": "gavin-matts-profound-union-hall-2026-12-09",
-   "title": "Gavin Matts: profound",
-   "venue": "Union Hall",
-   "date": "2026-12-09",
-   "heat": 0,
-   "demand": null,
-   "availability": "InStock",
-   "second_show": false,
-   "performer": "Gavin Matts",
-   "wikipedia": null,
-   "reddit": null,
-   "reasons": [
-    "tickets available"
-   ]
   },
   {
    "id": "a-true-york-st-marks-2026-12-10",

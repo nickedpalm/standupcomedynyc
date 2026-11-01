@@ -211,8 +211,8 @@
    "source": "last30days"
   },
   "Sam Oh": {
-   "at": "2026-10-24T12:25:13.623Z",
-   "note": "Fifteen items in 30 days and none are about the comic: Hacker News returned twelve Sam Altman stories and Reddit brought Sam Morrill and a Battle for Dream Island thread, so there is no usable signal on his NYC debut — the Bell House Nov 2 pick stands on the show page and his own writing.",
+   "at": "2026-11-01T11:16:36.103Z",
+   "note": "Nothing about the comic in 30 days: Hacker News returned twelve Sam Altman DRAM stories and Reddit two off-topic threads about a YTV reunion and a Battle for Dream Island contestant, so her Bell House Nov 2 debut stands on the show's own page.",
    "source": "last30days"
   },
   "Sam Tallent": {
@@ -263,6 +263,11 @@
   "Michael Longfellow": {
    "at": "2026-10-29T12:04:21.699Z",
    "note": "Two Reddit threads in 30 days and only one is positive: an 83-upvote r/LiveFromNewYork post on Oct 25 says he is on tour and 'I highly recommend going', while an Oct 11 r/saturdaynightlive thread argues his SNL clips are unfunny; the Hacker News hit is a Nobel laureate named Michael Woodford, not the comic. The tour thread is the live signal for the Union Hall Nov 3 date.",
+   "source": "last30days"
+  },
+  "Peyton Ruddy": {
+   "at": "2026-11-01T11:16:36.137Z",
+   "note": "No signal at all: Hacker News returned zero stories and Reddit three unrelated threads (a Denver weekend list, a Gianmarco Soresi podcast episode, an NFL video game roster question), so his Union Hall Nov 2 late show stands on the event page alone.",
    "source": "last30days"
   }
  }
