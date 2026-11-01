@@ -52,13 +52,21 @@ const readLog = () => { try { return JSON.parse(fs.readFileSync(logFile, 'utf8')
 
   const days = Number(args.days || 7);
   const since = Date.now() - days * 864e5;
-  const media = (await api(`/${userId}/media`, { fields: 'id,caption,permalink,timestamp,media_type', limit: 25 })).data || [];
+  // Paginate the whole account: a question left on an older post is still a question.
+  const media = [];
+  let after = null;
+  for (let page = 0; page < 20; page++) {
+    const d = await api(`/${userId}/media`, { fields: 'id,caption,permalink,timestamp,media_type', limit: 25, ...(after ? { after } : {}) });
+    media.push(...(d.data || []));
+    if (!d.paging?.next) break;
+    after = new URL(d.paging.next).searchParams.get('after');
+  }
   const recent = media.filter((m) => Date.parse(m.timestamp) >= since);
   const log = readLog();
   const answered = new Set(log.map((e) => e.comment_id));
   const out = [];
   for (const m of recent) {
-    const comments = (await api(`/${m.id}/comments`, { fields: 'id,text,username,timestamp,from,replies{id,text,from,timestamp},hidden', limit: 50 })).data || [];
+    const comments = (await api(`/${m.id}/comments`, { fields: 'id,text,username,timestamp,from,replies{id,text,from,timestamp},hidden', limit: 100 })).data || [];
     for (const c of comments) {
       if (c.hidden) continue;
       if (String(c.from?.id) === String(userId)) continue;

@@ -35,7 +35,15 @@ const readLog = () => { try { return JSON.parse(fs.readFileSync(logFile, 'utf8')
 
 async function inbox(days) {
   const since = Date.now() - days * 864e5;
-  const convs = (await api(`/${userId}/conversations`, { platform: 'instagram', fields: 'id,updated_time,participants,messages.limit(10){id,from,message,created_time}', limit: 25 })).data || [];
+  // Paginate conversations: a thread may sit beyond the first page.
+  const convs = [];
+  let after = null;
+  for (let page = 0; page < 20; page++) {
+    const d = await api(`/${userId}/conversations`, { platform: 'instagram', fields: 'id,updated_time,participants,messages.limit(10){id,from,message,created_time}', limit: 25, ...(after ? { after } : {}) });
+    convs.push(...(d.data || []));
+    if (!d.paging?.next) break;
+    after = new URL(d.paging.next).searchParams.get('after');
+  }
   const out = [];
   for (const c of convs) {
     if (Date.parse(c.updated_time) < since) continue;

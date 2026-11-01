@@ -239,6 +239,8 @@ const jsFiles = [
   path.join(root, 'scripts', 'tonight-set.js'),
   path.join(root, 'scripts', 'ig-card.js'),
   path.join(root, 'scripts', 'ig-post.js'),
+  path.join(root, 'scripts', 'ig-comments.js'),
+  path.join(root, 'scripts', 'ig-messages.js'),
 ];
 jsFiles.forEach((file) => {
   try { execFileSync(process.execPath, ['--check', file], { stdio: 'pipe' }); }
