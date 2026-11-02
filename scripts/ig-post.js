@@ -68,9 +68,43 @@ async function recentDuplicate(caption, kind) {
     return (r.data || []).find((m) => Date.parse(m.timestamp) >= since && (kind === 'story' ? false : String(m.caption || '').split('\n')[0].trim() === firstLine && firstLine)) || null;
   } catch { return null; }
 }
+// Stories are not in /{user-id}/media, so the guard above never saw them: a failed-then-published story could be
+// published twice. Guard on the account's live stories instead.
+async function storySince(sinceIso) {
+  try {
+    const r = await api(`/${userId}/stories`, { fields: 'id,media_type,timestamp,permalink' }, 'GET');
+    const since = Date.parse(sinceIso);
+    return (r.data || []).find((m) => Date.parse(m.timestamp) >= since) || null;
+  } catch { return null; }
+}
+// media_publish sometimes returns an error even though Instagram created the item. Look for the item that
+// actually went up instead of declaring failure and leaving the log unwritten.
+async function findJustPublished(kind, sinceIso) {
+  try {
+    const since = Date.parse(sinceIso);
+    if (kind === 'story') {
+      const s = await api(`/${userId}/stories`, { fields: 'id,media_type,timestamp,permalink' }, 'GET');
+      const hit = (s.data || []).find((m) => Date.parse(m.timestamp) >= since);
+      return hit ? { id: hit.id, permalink: hit.permalink } : null;
+    }
+    const r = await api(`/${userId}/media`, { fields: 'id,media_type,timestamp,permalink', limit: 10 }, 'GET');
+    // Only a published album counts. Carousel children are published as containers, not feed albums.
+    const hit = (r.data || []).find((m) => Date.parse(m.timestamp) >= since && m.media_type === 'CAROUSEL_ALBUM');
+    return hit ? { id: hit.id, permalink: hit.permalink } : null;
+  } catch { return null; }
+}
 async function publish(kind, items, caption, meta) {
-  if (!dryRun) { const dup = await recentDuplicate(caption, kind); if (dup) { console.error(`ig-post: refusing; the same post went up ${dup.timestamp} (${dup.permalink})`); process.exit(1); } }
+  if (!dryRun) {
+    const dup = await recentDuplicate(caption, kind);
+    if (dup) { console.error(`ig-post: refusing; the same post went up ${dup.timestamp} (${dup.permalink})`); process.exit(1); }
+    // Stories never appear in /{user-id}/media, so the guard above cannot see them. Check live stories.
+    if (kind === 'story') {
+      const live = await storySince(new Date(Date.now() - 20 * 3600 * 1000).toISOString());
+      if (live) { console.error(`ig-post: refusing; a story already went up ${live.timestamp} (${live.permalink})`); process.exit(1); }
+    }
+  }
   if (dryRun) { console.log(`[dry-run] ${kind}\n  ${items.join('\n  ')}\n--- caption ---\n${caption}\n--- end ---`); return null; }
+  const startedAt = new Date().toISOString();
   let container;
   if (kind === 'carousel') {
     const children = [];
@@ -82,8 +116,19 @@ async function publish(kind, items, caption, meta) {
     container = await api(`/${userId}/media`, { image_url: items[0], caption });
   }
   await waitReady(container.id);
-  const result = await api(`/${userId}/media_publish`, { creation_id: container.id });
-  let permalink = null; try { permalink = (await api(`/${result.id}`, { fields: 'permalink' }, 'GET')).permalink; } catch {}
+  let result;
+  try {
+    result = await api(`/${userId}/media_publish`, { creation_id: container.id });
+  } catch (e) {
+    // Instagram can create the item and still answer with an error. If the item actually went up, log it
+    // instead of leaving POSTED-IG.json unwritten and letting the next run publish it again.
+    const found = await findJustPublished(kind, startedAt);
+    if (!found) throw e;
+    console.error(`ig-post: media_publish reported "${e.message}" but the item did go up as ${found.id}`);
+    result = found;
+  }
+  let permalink = result.permalink || null;
+  if (!permalink) { try { permalink = (await api(`/${result.id}`, { fields: 'permalink' }, 'GET')).permalink; } catch {} }
   const entry = { id: result.id, permalink, kind, posted_at: new Date().toISOString(), items, ...meta };
   log.push(entry); fs.writeFileSync(logFile, JSON.stringify(log, null, 1) + '\n');
   console.log(`posted ${kind} ${result.id}${permalink ? ' ' + permalink : ''}`);
