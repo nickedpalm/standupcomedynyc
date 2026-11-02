@@ -2001,7 +2001,7 @@
  },
  {
   "event_id": "df-sweedler-comic-strip-2026-11-01",
-  "src": "/assets/posters/df-sweedler-comic-strip-2026-11-01.jpg",
+  "src": "/assets/posters/archive/df-sweedler-comic-strip-2026-11-01.jpg",
   "width": 1880,
   "height": 1875,
   "source_url": "https://www.eventbrite.com/e/df-sweedler-thash-mose-matt-pavich-feraz-shere-kareem-green-more-tickets-2003835666420",
@@ -2012,7 +2012,8 @@
   "retrieved_at": "2026-10-24",
   "bytes": 125491,
   "sha256": "6a54cf212bb08cb8c1c885b77c00b3fa4787e4d2b156410673c19f32929e499d",
-  "reuse_status": "Official promotional artwork; no separate reuse license identified. Local review draft only."
+  "reuse_status": "Official promotional artwork; no separate reuse license identified. Local review draft only.",
+  "archived": true
  },
  {
   "event_id": "speakeasy-saturday-night-st-marks-2026-11-28",
@@ -2293,7 +2294,7 @@
  },
  {
   "event_id": "steve-martin-presents-union-hall-2026-11-01",
-  "src": "/assets/posters/steve-martin-presents-union-hall-2026-11-01.jpg",
+  "src": "/assets/posters/archive/steve-martin-presents-union-hall-2026-11-01.jpg",
   "width": 1880,
   "height": 940,
   "source_url": "https://www.eventbrite.com/e/steve-martin-presents-with-andrew-dismukes-and-michael-good-tickets-2003615876021",
@@ -2304,11 +2305,12 @@
   "retrieved_at": "2026-10-28",
   "reuse_status": "Official promotional artwork; no separate reuse license identified. Local review draft only.",
   "bytes": 117983,
-  "sha256": "659c71f915457d3b060484fdc5482bd859e9022d3ab91d419029dba510849e17"
+  "sha256": "659c71f915457d3b060484fdc5482bd859e9022d3ab91d419029dba510849e17",
+  "archived": true
  },
  {
   "event_id": "kevin-mcdonald-union-hall-2026-11-01",
-  "src": "/assets/posters/kevin-mcdonald-union-hall-2026-11-01.jpg",
+  "src": "/assets/posters/archive/kevin-mcdonald-union-hall-2026-11-01.jpg",
   "width": 1880,
   "height": 940,
   "source_url": "https://www.eventbrite.com/e/kevin-mcdonald-my-stupid-career-tickets-1997894136143",
@@ -2319,7 +2321,8 @@
   "retrieved_at": "2026-10-28",
   "reuse_status": "Official promotional artwork; no separate reuse license identified. Local review draft only.",
   "bytes": 69437,
-  "sha256": "92f8f78f900ffe816c701006ea3e63bb67a30e020567b84a9627a72607904c93"
+  "sha256": "92f8f78f900ffe816c701006ea3e63bb67a30e020567b84a9627a72607904c93",
+  "archived": true
  },
  {
   "event_id": "sup-boo-union-hall-2026-10-30",
