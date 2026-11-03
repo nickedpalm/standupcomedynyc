@@ -1265,7 +1265,7 @@
  },
  {
   "event_id": "sam-oh-gay-virgin-bell-house-2026-11-02",
-  "src": "/assets/posters/sam-oh-gay-virgin-bell-house-2026-11-02.jpg",
+  "src": "/assets/posters/archive/sam-oh-gay-virgin-bell-house-2026-11-02.jpg",
   "width": 2048,
   "height": 1152,
   "source_url": "https://www.livenation.com/event/1AYZkf8Gkdzo4Up/sam-oh-the-unbearable-tightness-of-being-gay-virgin",
@@ -1276,7 +1276,8 @@
   "retrieved_at": "2026-09-24",
   "bytes": 279298,
   "sha256": "9d068088195ae1b179896fa877733b4dd4208fe41340d98a8240df50939bfda0",
-  "reuse_status": "Official promotional artwork; no separate reuse license identified. Local review draft only."
+  "reuse_status": "Official promotional artwork; no separate reuse license identified. Local review draft only.",
+  "archived": true
  },
  {
   "event_id": "writers-of-jimmy-kimmel-live-union-hall-2026-09-29",
@@ -2809,7 +2810,7 @@
  },
  {
   "event_id": "frankensteins-baby-union-hall-2026-11-02",
-  "src": "/assets/posters/frankensteins-baby-union-hall-2026-11-02.jpg",
+  "src": "/assets/posters/archive/frankensteins-baby-union-hall-2026-11-02.jpg",
   "width": 1880,
   "height": 938,
   "source_url": "https://www.eventbrite.com/e/frankensteins-baby-tickets-2003308122522",
@@ -2820,7 +2821,8 @@
   "retrieved_at": "2026-10-30",
   "bytes": 146273,
   "sha256": "e4d634053ec7478261bb6f47947aea0821f3c035d722277ad9fb4b5c70501c0e",
-  "reuse_status": "Official promotional artwork; no separate reuse license identified. Local review draft only."
+  "reuse_status": "Official promotional artwork; no separate reuse license identified. Local review draft only.",
+  "archived": true
  },
  {
   "event_id": "doctors-without-boundaries-caveat-2026-11-04",
@@ -2884,7 +2886,7 @@
  },
  {
   "event_id": "peyton-ruddy-union-hall-2026-11-02",
-  "src": "/assets/posters/peyton-ruddy-union-hall-2026-11-02.jpg",
+  "src": "/assets/posters/archive/peyton-ruddy-union-hall-2026-11-02.jpg",
   "width": 1880,
   "height": 940,
   "source_url": "https://www.eventbrite.com/e/peyton-ruddy-tickets-2003116826350",
@@ -2895,11 +2897,12 @@
   "retrieved_at": "2026-10-31",
   "bytes": 115300,
   "sha256": "44b0068c9f8fc9d46d113d1823b2983cdac6bfdb17797c02efd7844c73182096",
-  "reuse_status": "Official promotional artwork; no separate reuse license identified. Local review draft only."
+  "reuse_status": "Official promotional artwork; no separate reuse license identified. Local review draft only.",
+  "archived": true
  },
  {
   "event_id": "hillbilly-allegedly-caveat-2026-11-02",
-  "src": "/assets/posters/hillbilly-allegedly-caveat-2026-11-02.png",
+  "src": "/assets/posters/archive/hillbilly-allegedly-caveat-2026-11-02.png",
   "width": 1000,
   "height": 1000,
   "source_url": "https://www.caveat.nyc/events/hillbilly-allegedly-an-evening-with-the-vice-president-2026-11-02",
@@ -2910,7 +2913,8 @@
   "retrieved_at": "2026-11-01",
   "bytes": 1483302,
   "sha256": "ae643f99348c0dc881c1593a813b0768fe3fdb159f2a99a1ccead51f179c578f",
-  "reuse_status": "Official promotional artwork; no separate reuse license identified. Local review draft only."
+  "reuse_status": "Official promotional artwork; no separate reuse license identified. Local review draft only.",
+  "archived": true
  },
  {
   "event_id": "cold-plunge-union-hall-2026-11-04",

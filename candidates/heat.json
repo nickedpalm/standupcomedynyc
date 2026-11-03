@@ -1,23 +1,7 @@
 {
- "generated_at": "2026-11-02T09:24:41.304Z",
+ "generated_at": "2026-11-03T09:21:10.100Z",
  "note": "Demand signals for the editor. Only availability and second shows set the public demand tag.",
  "picks": [
-  {
-   "id": "uesc-nycs-best-weekly-thursday-2026-11-05",
-   "title": "Stand-Up Comedy NYC | NYC's Best Weekly Thursday Show",
-   "venue": "Upper East Side Comedy Club",
-   "date": "2026-11-05",
-   "heat": 100,
-   "demand": "sold_out",
-   "availability": "SoldOut",
-   "second_show": false,
-   "performer": null,
-   "wikipedia": null,
-   "reddit": null,
-   "reasons": [
-    "sold out on the ticket page"
-   ]
-  },
   {
    "id": "maddy-kelly-union-hall-2026-11-11",
    "title": "Maddy Kelly",
@@ -78,14 +62,14 @@
    "performer": "Joanne McNally",
    "wikipedia": {
     "title": "Joanne McNally",
-    "views_30d": 319568,
-    "views_prior_30d": 62280,
-    "change": 413
+    "views_30d": 299904,
+    "views_prior_30d": 85132,
+    "change": 252
    },
    "reddit": null,
    "reasons": [
-    "Wikipedia: 10652 views a day",
-    "Wikipedia views up 413% over the prior month"
+    "Wikipedia: 9997 views a day",
+    "Wikipedia views up 252% over the prior month"
    ]
   },
   {
@@ -100,30 +84,14 @@
    "performer": "Ania Magliano",
    "wikipedia": {
     "title": "Ania Magliano",
-    "views_30d": 85205,
-    "views_prior_30d": 54610,
-    "change": 56
+    "views_30d": 85790,
+    "views_prior_30d": 55227,
+    "change": 55
    },
    "reddit": null,
    "reasons": [
-    "Wikipedia: 2840 views a day",
-    "Wikipedia views up 56% over the prior month"
-   ]
-  },
-  {
-   "id": "hillbilly-allegedly-caveat-2026-11-02",
-   "title": "Hillbilly Allegedly: An Evening with the Vice President",
-   "venue": "Caveat",
-   "date": "2026-11-02",
-   "heat": 25,
-   "demand": "going_fast",
-   "availability": null,
-   "second_show": true,
-   "performer": "Hillbilly Allegedly",
-   "wikipedia": null,
-   "reddit": null,
-   "reasons": [
-    "a second show the same night at the same room"
+    "Wikipedia: 2860 views a day",
+    "Wikipedia views up 55% over the prior month"
    ]
   },
   {
@@ -172,13 +140,13 @@
    "performer": "Jacqueline Novak",
    "wikipedia": {
     "title": "Jacqueline Novak",
-    "views_30d": 10173,
-    "views_prior_30d": 6738,
+    "views_30d": 10239,
+    "views_prior_30d": 6770,
     "change": 51
    },
    "reddit": null,
    "reasons": [
-    "Wikipedia: 339 views a day",
+    "Wikipedia: 341 views a day",
     "Wikipedia views up 51% over the prior month"
    ]
   },
@@ -194,13 +162,13 @@
    "performer": "Jacqueline Novak",
    "wikipedia": {
     "title": "Jacqueline Novak",
-    "views_30d": 10173,
-    "views_prior_30d": 6738,
+    "views_30d": 10239,
+    "views_prior_30d": 6770,
     "change": 51
    },
    "reddit": null,
    "reasons": [
-    "Wikipedia: 339 views a day",
+    "Wikipedia: 341 views a day",
     "Wikipedia views up 51% over the prior month"
    ]
   },
@@ -216,13 +184,13 @@
    "performer": "Marc Maron",
    "wikipedia": {
     "title": "Marc Maron",
-    "views_30d": 33870,
-    "views_prior_30d": 32815,
-    "change": 3
+    "views_30d": 34001,
+    "views_prior_30d": 32701,
+    "change": 4
    },
    "reddit": null,
    "reasons": [
-    "Wikipedia: 1129 views a day"
+    "Wikipedia: 1133 views a day"
    ]
   },
   {
@@ -237,13 +205,13 @@
    "performer": "Ilana Glazer",
    "wikipedia": {
     "title": "Ilana Glazer",
-    "views_30d": 39828,
-    "views_prior_30d": 28534,
-    "change": 40
+    "views_30d": 39696,
+    "views_prior_30d": 28237,
+    "change": 41
    },
    "reddit": null,
    "reasons": [
-    "Wikipedia: 1328 views a day"
+    "Wikipedia: 1323 views a day"
    ]
   },
   {
@@ -258,13 +226,13 @@
    "performer": "Jaboukie Young-White",
    "wikipedia": {
     "title": "Jaboukie Young-White",
-    "views_30d": 35525,
-    "views_prior_30d": 56601,
-    "change": -37
+    "views_30d": 33983,
+    "views_prior_30d": 58389,
+    "change": -42
    },
    "reddit": null,
    "reasons": [
-    "Wikipedia: 1184 views a day"
+    "Wikipedia: 1133 views a day"
    ]
   },
   {
@@ -279,13 +247,13 @@
    "performer": "Dewayne Perkins",
    "wikipedia": {
     "title": "Dewayne Perkins",
-    "views_30d": 3585,
-    "views_prior_30d": 2358,
-    "change": 52
+    "views_30d": 3629,
+    "views_prior_30d": 2348,
+    "change": 55
    },
    "reddit": null,
    "reasons": [
-    "Wikipedia views up 52% over the prior month"
+    "Wikipedia views up 55% over the prior month"
    ]
   },
   {
@@ -300,13 +268,13 @@
    "performer": "Difficult People",
    "wikipedia": {
     "title": "Difficult People",
-    "views_30d": 6329,
-    "views_prior_30d": 4842,
+    "views_30d": 6382,
+    "views_prior_30d": 4858,
     "change": 31
    },
    "reddit": null,
    "reasons": [
-    "Wikipedia: 211 views a day"
+    "Wikipedia: 213 views a day"
    ]
   },
   {
@@ -321,14 +289,14 @@
    "performer": "Michael Longfellow",
    "wikipedia": {
     "title": "Michael Longfellow",
-    "views_30d": 12431,
-    "views_prior_30d": 9157,
-    "change": 36
+    "views_30d": 12511,
+    "views_prior_30d": 9301,
+    "change": 35
    },
    "reddit": null,
    "reasons": [
     "tickets available",
-    "Wikipedia: 414 views a day"
+    "Wikipedia: 417 views a day"
    ]
   },
   {
@@ -343,13 +311,13 @@
    "performer": "Sam Tallent",
    "wikipedia": {
     "title": "Sam Tallent",
-    "views_30d": 7321,
-    "views_prior_30d": 11622,
-    "change": -37
+    "views_30d": 7203,
+    "views_prior_30d": 11883,
+    "change": -39
    },
    "reddit": null,
    "reasons": [
-    "Wikipedia: 244 views a day"
+    "Wikipedia: 240 views a day"
    ]
   },
   {
@@ -364,13 +332,13 @@
    "performer": "Adam Ray",
    "wikipedia": {
     "title": "Adam Ray",
-    "views_30d": 10893,
-    "views_prior_30d": 14421,
-    "change": -24
+    "views_30d": 10874,
+    "views_prior_30d": 14200,
+    "change": -23
    },
    "reddit": null,
    "reasons": [
-    "Wikipedia: 363 views a day"
+    "Wikipedia: 362 views a day"
    ]
   },
   {
@@ -385,9 +353,9 @@
    "performer": "Jess Hilarious",
    "wikipedia": {
     "title": "Jess Hilarious",
-    "views_30d": 7101,
-    "views_prior_30d": 9526,
-    "change": -25
+    "views_30d": 7122,
+    "views_prior_30d": 9427,
+    "change": -24
    },
    "reddit": null,
    "reasons": [
@@ -406,13 +374,13 @@
    "performer": "Daniel Sloss",
    "wikipedia": {
     "title": "Daniel Sloss",
-    "views_30d": 23700,
-    "views_prior_30d": 16591,
-    "change": 43
+    "views_30d": 23306,
+    "views_prior_30d": 17180,
+    "change": 36
    },
    "reddit": null,
    "reasons": [
-    "Wikipedia: 790 views a day"
+    "Wikipedia: 777 views a day"
    ]
   },
   {
@@ -427,13 +395,13 @@
    "performer": "Jessica Kirson",
    "wikipedia": {
     "title": "Jessica Kirson",
-    "views_30d": 14601,
-    "views_prior_30d": 11431,
-    "change": 28
+    "views_30d": 14441,
+    "views_prior_30d": 11608,
+    "change": 24
    },
    "reddit": null,
    "reasons": [
-    "Wikipedia: 487 views a day"
+    "Wikipedia: 481 views a day"
    ]
   },
   {
@@ -448,13 +416,13 @@
    "performer": "Michelle Wolf",
    "wikipedia": {
     "title": "Michelle Wolf",
-    "views_30d": 14824,
-    "views_prior_30d": 12232,
-    "change": 21
+    "views_30d": 15332,
+    "views_prior_30d": 12092,
+    "change": 27
    },
    "reddit": null,
    "reasons": [
-    "Wikipedia: 494 views a day"
+    "Wikipedia: 511 views a day"
    ]
   },
   {
@@ -469,13 +437,13 @@
    "performer": "Jessica Kirson",
    "wikipedia": {
     "title": "Jessica Kirson",
-    "views_30d": 14601,
-    "views_prior_30d": 11431,
-    "change": 28
+    "views_30d": 14441,
+    "views_prior_30d": 11608,
+    "change": 24
    },
    "reddit": null,
    "reasons": [
-    "Wikipedia: 487 views a day"
+    "Wikipedia: 481 views a day"
    ]
   },
   {
@@ -490,13 +458,13 @@
    "performer": "Demetri Martin",
    "wikipedia": {
     "title": "Demetri Martin",
-    "views_30d": 15865,
-    "views_prior_30d": 14465,
-    "change": 10
+    "views_30d": 15922,
+    "views_prior_30d": 14545,
+    "change": 9
    },
    "reddit": null,
    "reasons": [
-    "Wikipedia: 529 views a day"
+    "Wikipedia: 531 views a day"
    ]
   },
   {
@@ -511,75 +479,13 @@
    "performer": "Demetri Martin",
    "wikipedia": {
     "title": "Demetri Martin",
-    "views_30d": 15865,
-    "views_prior_30d": 14465,
-    "change": 10
+    "views_30d": 15922,
+    "views_prior_30d": 14545,
+    "change": 9
    },
    "reddit": null,
    "reasons": [
-    "Wikipedia: 529 views a day"
-   ]
-  },
-  {
-   "id": "frankensteins-baby-union-hall-2026-11-02",
-   "title": "Frankenstein's Baby",
-   "venue": "Union Hall",
-   "date": "2026-11-02",
-   "heat": 0,
-   "demand": null,
-   "availability": "InStock",
-   "second_show": false,
-   "performer": null,
-   "wikipedia": null,
-   "reddit": null,
-   "reasons": [
-    "tickets available"
-   ]
-  },
-  {
-   "id": "sam-oh-gay-virgin-bell-house-2026-11-02",
-   "title": "Sam Oh: The Unbearable Tightness of Being...Gay Virgin",
-   "venue": "The Bell House",
-   "date": "2026-11-02",
-   "heat": 0,
-   "demand": null,
-   "availability": null,
-   "second_show": false,
-   "performer": "Sam Oh",
-   "wikipedia": null,
-   "reddit": null,
-   "reasons": []
-  },
-  {
-   "id": "peter-stewart-kareem-green-comic-strip-2026-11-02",
-   "title": "The Peter Stewart Show! With Kareem Green!",
-   "venue": "Comic Strip Live",
-   "date": "2026-11-02",
-   "heat": 0,
-   "demand": null,
-   "availability": "InStock",
-   "second_show": false,
-   "performer": null,
-   "wikipedia": null,
-   "reddit": null,
-   "reasons": [
-    "tickets available"
-   ]
-  },
-  {
-   "id": "peyton-ruddy-union-hall-2026-11-02",
-   "title": "Peyton Ruddy",
-   "venue": "Union Hall",
-   "date": "2026-11-02",
-   "heat": 0,
-   "demand": null,
-   "availability": "InStock",
-   "second_show": false,
-   "performer": "Peyton Ruddy",
-   "wikipedia": null,
-   "reddit": null,
-   "reasons": [
-    "tickets available"
+    "Wikipedia: 531 views a day"
    ]
   },
   {
@@ -668,8 +574,8 @@
    "performer": "Salma Hindy",
    "wikipedia": {
     "title": "Salma Hindy",
-    "views_30d": 969,
-    "views_prior_30d": 3520,
+    "views_30d": 981,
+    "views_prior_30d": 3446,
     "change": -72
    },
    "reddit": null,
@@ -702,6 +608,22 @@
    "wikipedia": null,
    "reddit": null,
    "reasons": []
+  },
+  {
+   "id": "uesc-nycs-best-weekly-thursday-2026-11-05",
+   "title": "Stand-Up Comedy NYC | NYC's Best Weekly Thursday Show",
+   "venue": "Upper East Side Comedy Club",
+   "date": "2026-11-05",
+   "heat": 0,
+   "demand": null,
+   "availability": "InStock",
+   "second_show": false,
+   "performer": null,
+   "wikipedia": null,
+   "reddit": null,
+   "reasons": [
+    "tickets available"
+   ]
   },
   {
    "id": "jessie-jetski-johnson-union-hall-2026-11-05",
@@ -864,8 +786,8 @@
    "wikipedia": {
     "title": "Josh Sharp",
     "views_30d": 894,
-    "views_prior_30d": 864,
-    "change": 3
+    "views_prior_30d": 851,
+    "change": 5
    },
    "reddit": null,
    "reasons": []
@@ -1278,9 +1200,9 @@
    "performer": "Christian Finnegan",
    "wikipedia": {
     "title": "Christian Finnegan",
-    "views_30d": 976,
-    "views_prior_30d": 916,
-    "change": 7
+    "views_30d": 969,
+    "views_prior_30d": 935,
+    "change": 4
    },
    "reddit": null,
    "reasons": []
@@ -1341,8 +1263,8 @@
    "performer": "Judy Gold",
    "wikipedia": {
     "title": "Judy Gold",
-    "views_30d": 3697,
-    "views_prior_30d": 4216,
+    "views_30d": 3701,
+    "views_prior_30d": 4204,
     "change": -12
    },
    "reddit": null,
@@ -1603,8 +1525,8 @@
    "wikipedia": {
     "title": "Ismael Loutfi",
     "views_30d": 102,
-    "views_prior_30d": 121,
-    "change": -16
+    "views_prior_30d": 120,
+    "change": -15
    },
    "reddit": null,
    "reasons": [
