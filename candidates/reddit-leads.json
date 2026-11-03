@@ -1,5 +1,5 @@
 {
- "retrieved_at": "2026-11-01T11:01:30.970Z",
+ "retrieved_at": "2026-11-03T11:03:27.981Z",
  "note": "Promoter posts from NYC neighborhood subreddits, last 14 days. Leads only: open the linked page or the venue site before anything enters the data; register the venue first.",
  "subreddits": [
   "nycevents",
@@ -27,12 +27,148 @@
  ],
  "leads": [
   {
+   "id": "1xlx4m4",
+   "date": "2026-11-02",
+   "subreddit": "nycevents",
+   "title": "NYC's #1 Family Magic Show: Broadway Magic Hour (Times Square)",
+   "score": 0,
+   "comments": 0,
+   "url": "https://www.reddit.com/r/nycevents/comments/1xlx4m4/nycs_1_family_magic_show_broadway_magic_hour/",
+   "venues_mentioned": [
+    "Broadway Comedy Club"
+   ],
+   "when_mentioned": null,
+   "time_mentioned": null,
+   "links": [
+    "https://broadwaymagichour.com"
+   ],
+   "free": false,
+   "new_since_last_run": true,
+   "excerpt": "\"I've never seen our kids laugh so hard and enjoy themselves so much.\" - Matthew S., TripAdvisor What can we add to that? Thank you so much, Matthew, for sharing your review and helping other families find our \"underground\" magic show! Back in the day 15-20 years ago, there were "
+  },
+  {
+   "id": "1xln16t",
+   "date": "2026-11-02",
+   "subreddit": "nycevents",
+   "title": "New York Comedy Festival - Sketch Comedy Show Nov 14th",
+   "score": 1,
+   "comments": 0,
+   "url": "https://www.reddit.com/r/nycevents/comments/1xln16t/new_york_comedy_festival_sketch_comedy_show_nov/",
+   "venues_mentioned": [
+    "Caveat"
+   ],
+   "when_mentioned": null,
+   "time_mentioned": null,
+   "links": [
+    "https://www.caveat.nyc/events/fun-in-moderation-sketch-comedy-2026-11-14"
+   ],
+   "free": false,
+   "new_since_last_run": true,
+   "excerpt": "https://www.caveat.nyc/events/fun-in-moderation-sketch-comedy-2026-11-14"
+  },
+  {
+   "id": "1xm52th",
+   "date": "2026-11-02",
+   "subreddit": "nycComedy",
+   "title": "The Workout at Upper East Side Comedy Club — 15 shows across 9 nights during NYCF week",
+   "score": 1,
+   "comments": 0,
+   "url": "https://www.reddit.com/r/nycComedy/comments/1xm52th/the_workout_at_upper_east_side_comedy_club_15/",
+   "venues_mentioned": [
+    "Upper East Side Comedy Club"
+   ],
+   "when_mentioned": null,
+   "time_mentioned": null,
+   "links": [],
+   "free": false,
+   "new_since_last_run": true,
+   "excerpt": ""
+  },
+  {
+   "id": "1xln3ba",
+   "date": "2026-11-02",
+   "subreddit": "nycComedy",
+   "title": "New York Comedy Festival - Sketch Comedy Show Nov 14th",
+   "score": 1,
+   "comments": 0,
+   "url": "https://www.reddit.com/r/nycComedy/comments/1xln3ba/new_york_comedy_festival_sketch_comedy_show_nov/",
+   "venues_mentioned": [
+    "Caveat"
+   ],
+   "when_mentioned": null,
+   "time_mentioned": null,
+   "links": [
+    "https://www.caveat.nyc/events/fun-in-moderation-sketch-comedy-2026-11-14"
+   ],
+   "free": false,
+   "new_since_last_run": true,
+   "excerpt": "https://www.caveat.nyc/events/fun-in-moderation-sketch-comedy-2026-11-14"
+  },
+  {
+   "id": "1xllve5",
+   "date": "2026-11-02",
+   "subreddit": "nycComedy",
+   "title": "Brooklyn Power Hour Comedy Show, Mondays at Eastville Comedy Club",
+   "score": 3,
+   "comments": 0,
+   "url": "https://www.reddit.com/r/nycComedy/comments/1xllve5/brooklyn_power_hour_comedy_show_mondays_at/",
+   "venues_mentioned": [
+    "Eastville Comedy Club"
+   ],
+   "when_mentioned": null,
+   "time_mentioned": null,
+   "links": [],
+   "free": false,
+   "new_since_last_run": true,
+   "excerpt": ""
+  },
+  {
+   "id": "1xlzt6r",
+   "date": "2026-11-02",
+   "subreddit": "astoria",
+   "title": "for sale: Vivo standing desk/manual adjust - $70 OBO - pickup only - 30th Ave &amp; 50th Street",
+   "score": 0,
+   "comments": 2,
+   "url": "https://www.reddit.com/r/astoria/comments/1xlzt6r/for_sale_vivo_standing_deskmanual_adjust_70_obo/",
+   "venues_mentioned": [
+    "The Shillelagh Tavern"
+   ],
+   "when_mentioned": null,
+   "time_mentioned": null,
+   "links": [
+    "https://www.walmart.com/ip/VIVO-Mobile-Height-Adjustable-Stand-Up-Desk-Cart-with-Sliding-Keyboard-Tray/929895445"
+   ],
+   "free": false,
+   "new_since_last_run": true,
+   "excerpt": "Great quality standing desk, perfect for small spaces. Going back to the office so no longer needed! $70 OBO. Retails for [$200 plus tax](https://www.walmart.com/ip/VIVO-Mobile-Height-Adjustable-Stand-Up-Desk-Cart-with-Sliding-Keyboard-Tray/929895445). Make me an offer, prefer to"
+  },
+  {
+   "id": "1xl4sbm",
+   "date": "2026-11-01",
+   "subreddit": "crownheights",
+   "title": "[Tonight, 8:30PM] FREE Comedy at Bar Bayeux",
+   "score": 2,
+   "comments": 1,
+   "url": "https://www.reddit.com/r/crownheights/comments/1xl4sbm/tonight_830pm_free_comedy_at_bar_bayeux/",
+   "venues_mentioned": [
+    "Bar Bayeux"
+   ],
+   "when_mentioned": "sunday-tickets-662659320867?aff=erelpanelorg",
+   "time_mentioned": "8:30PM",
+   "links": [
+    "https://www.eventbrite.com/e/free-brooklyn-nyc-standup-comedy-show-post-moves-comedy-every-sunday-tickets-662659320867?aff=erelpanelorg"
+   ],
+   "free": true,
+   "new_since_last_run": true,
+   "excerpt": "Hey! I run Post Moves, a weekly comedy show at Bar Bayeux (1066 Nostrand Ave). We're on TONIGHT. Solid lineup of comics working on new material, good drinks, chill crowd. If you're still recovering from Halloween and want to laugh without dealing with a big club, pull up. Doors a"
+  },
+  {
    "id": "1xjtrjg",
    "date": "2026-10-30",
    "subreddit": "nycComedy",
    "title": "Gotham Comedy Club",
    "score": 2,
-   "comments": 0,
+   "comments": 1,
    "url": "https://www.reddit.com/r/nycComedy/comments/1xjtrjg/gotham_comedy_club/",
    "venues_mentioned": [
     "Gotham Comedy Club"
@@ -69,8 +205,8 @@
    "date": "2026-10-30",
    "subreddit": "williamsburg",
    "title": "Winter is coming to Williamsburg...",
-   "score": 18,
-   "comments": 5,
+   "score": 23,
+   "comments": 10,
    "url": "https://www.reddit.com/r/williamsburg/comments/1xjgvy8/winter_is_coming_to_williamsburg/",
    "venues_mentioned": [],
    "when_mentioned": null,
@@ -87,7 +223,7 @@
    "date": "2026-10-30",
    "subreddit": "lowereastside",
    "title": "winter courses in LES",
-   "score": 15,
+   "score": 18,
    "comments": 0,
    "url": "https://www.reddit.com/r/lowereastside/comments/1xjh31u/winter_courses_in_les/",
    "venues_mentioned": [],
@@ -143,7 +279,7 @@
    "date": "2026-10-29",
    "subreddit": "eastvillage",
    "title": "Who remembers Rififi Lounge?",
-   "score": 13,
+   "score": 11,
    "comments": 1,
    "url": "https://www.reddit.com/r/eastvillage/comments/1xilzcq/who_remembers_rififi_lounge/",
    "venues_mentioned": [],
@@ -207,7 +343,7 @@
    "date": "2026-10-28",
    "subreddit": "Greenpoint",
    "title": "Come to Rose''s R&amp;R Bar tonight 10/28 for Free Comedy!",
-   "score": 3,
+   "score": 4,
    "comments": 0,
    "url": "https://www.reddit.com/r/Greenpoint/comments/1xhw27f/come_to_roses_rr_bar_tonight_1028_for_free_comedy/",
    "venues_mentioned": [],
@@ -225,7 +361,7 @@
    "date": "2026-10-28",
    "subreddit": "crownheights",
    "title": "Crown Heights Events Thread 10/28-11/4 HALLOWEEN EDITION",
-   "score": 27,
+   "score": 29,
    "comments": 0,
    "url": "https://www.reddit.com/r/crownheights/comments/1xhw615/crown_heights_events_thread_1028114_halloween/",
    "venues_mentioned": [
@@ -379,7 +515,7 @@
    "date": "2026-10-24",
    "subreddit": "astoria",
    "title": "Astoria Comedy TONIGHT!",
-   "score": 3,
+   "score": 5,
    "comments": 0,
    "url": "https://www.reddit.com/r/astoria/comments/1xefwag/astoria_comedy_tonight/",
    "venues_mentioned": [
@@ -399,7 +535,7 @@
    "date": "2026-10-24",
    "subreddit": "AskNYC",
    "title": "How do you hear about things to do/see/hear?",
-   "score": 18,
+   "score": 19,
    "comments": 24,
    "url": "https://www.reddit.com/r/AskNYC/comments/1xemttu/how_do_you_hear_about_things_to_doseehear/",
    "venues_mentioned": [],
@@ -431,8 +567,8 @@
    "date": "2026-10-24",
    "subreddit": "longislandcity",
    "title": "New to LIC, How to make friends?",
-   "score": 41,
-   "comments": 78,
+   "score": 42,
+   "comments": 77,
    "url": "https://www.reddit.com/r/longislandcity/comments/1xeh6w2/new_to_lic_how_to_make_friends/",
    "venues_mentioned": [
     "Grove 34"
@@ -507,7 +643,7 @@
    "date": "2026-10-23",
    "subreddit": "williamsburg",
    "title": "We Raised $2600 For New Trash Cans in McCarren Park!",
-   "score": 238,
+   "score": 240,
    "comments": 35,
    "url": "https://www.reddit.com/r/williamsburg/comments/1xdjabn/we_raised_2600_for_new_trash_cans_in_mccarren_park/",
    "venues_mentioned": [],
@@ -523,7 +659,7 @@
    "date": "2026-10-23",
    "subreddit": "Greenpoint",
    "title": "We Raised $2600 For New Trash Cans in McCarren Park!",
-   "score": 44,
+   "score": 46,
    "comments": 1,
    "url": "https://www.reddit.com/r/Greenpoint/comments/1xdjbl6/we_raised_2600_for_new_trash_cans_in_mccarren_park/",
    "venues_mentioned": [],
@@ -613,7 +749,7 @@
    "date": "2026-10-22",
    "subreddit": "Greenpoint",
    "title": "Super Duper Free and Awesome Comedy Show @ Word Bookstore 8pm Oct 22",
-   "score": 6,
+   "score": 8,
    "comments": 0,
    "url": "https://www.reddit.com/r/Greenpoint/comments/1xc5mcu/super_duper_free_and_awesome_comedy_show_word/",
    "venues_mentioned": [],
@@ -703,7 +839,7 @@
    "date": "2026-10-21",
    "subreddit": "williamsburg",
    "title": "Free Stand-Up Comedy Show Fundraiser For McCarren Park 10/22 7pm",
-   "score": 17,
+   "score": 16,
    "comments": 2,
    "url": "https://www.reddit.com/r/williamsburg/comments/1xbsi0v/free_standup_comedy_show_fundraiser_for_mccarren/",
    "venues_mentioned": [],
@@ -761,7 +897,7 @@
    "date": "2026-10-21",
    "subreddit": "astoria",
    "title": "Open Mic at The Gaf - Wednesday October 21st",
-   "score": 6,
+   "score": 5,
    "comments": 2,
    "url": "https://www.reddit.com/r/astoria/comments/1xbycde/open_mic_at_the_gaf_wednesday_october_21st/",
    "venues_mentioned": [],
@@ -777,7 +913,7 @@
    "date": "2026-10-21",
    "subreddit": "Greenpoint",
    "title": "Free Stand-Up Comedy Show Fundraiser For McCarren Park 10/22 7pm",
-   "score": 9,
+   "score": 10,
    "comments": 0,
    "url": "https://www.reddit.com/r/Greenpoint/comments/1xbshdd/free_standup_comedy_show_fundraiser_for_mccarren/",
    "venues_mentioned": [],
@@ -934,43 +1070,6 @@
    "excerpt": "DRAG BINGO AND OPEN SET new fun free admission show in Brooklyn DRAG BINGO AND OPEN SET AT TINY CUPBOARD! Wanted to come on here to promote our next Drag bingo and open set 6:30-8:30 Pm this Thursday 10/22 at Tiny Cupboard Comedy Club in Bushwick! Its free to attend, and bingo ca"
   },
   {
-   "id": "1xaifxq",
-   "date": "2026-10-20",
-   "subreddit": "nycevents",
-   "title": "Pop up comedy show/ Chelsea 15$ events",
-   "score": 3,
-   "comments": 0,
-   "url": "https://www.reddit.com/r/nycevents/comments/1xaifxq/pop_up_comedy_show_chelsea_15_events/",
-   "venues_mentioned": [],
-   "when_mentioned": "Saturday Pop up comedy show in Chelsea at urban ",
-   "time_mentioned": null,
-   "links": [
-    "https://events.massivetix.com/e/smr-hart-nyc"
-   ],
-   "free": false,
-   "new_since_last_run": false,
-   "excerpt": "This Saturday Pop up comedy show in Chelsea at urban vegan kitchen Would love to get a solid audience in there https://events.massivetix.com/e/smr-hart-nyc"
-  },
-  {
-   "id": "1xai52z",
-   "date": "2026-10-20",
-   "subreddit": "nycevents",
-   "title": "Gary Vider, standup comedy show about dating &amp; relationships, The Hookup, Nov 5th 9:30pm, UWS",
-   "score": 0,
-   "comments": 0,
-   "url": "https://www.reddit.com/r/nycevents/comments/1xai52z/gary_vider_standup_comedy_show_about_dating/",
-   "venues_mentioned": [],
-   "when_mentioned": null,
-   "time_mentioned": "9:30pm",
-   "links": [
-    "https://www.viewcy.com/event/the\\_hookup\\_1/promote/jonathontimpanelli",
-    "https://www.viewcy.com/event/the_hookup_1/promote/jonathontimpanelli"
-   ],
-   "free": false,
-   "new_since_last_run": false,
-   "excerpt": "[https://www.viewcy.com/event/the\\_hookup\\_1/promote/jonathontimpanelli](https://www.viewcy.com/event/the_hookup_1/promote/jonathontimpanelli) The Hookup, a comedy show about dating and relationships, is proud to announce Gary Vider as our headliner. Gary Vider is a New York City"
-  },
-  {
    "id": "1xavgsw",
    "date": "2026-10-20",
    "subreddit": "nycComedy",
@@ -990,22 +1089,6 @@
    "free": false,
    "new_since_last_run": false,
    "excerpt": "🗣️THIS THURSDAY 9PM at The Stand! 👾 NYC’s newest comedy game show is NOW at The Stand, West. Hosted by Ryan Reiss (Late Night with Seth Meyers) with FIVE contestants going head-to-head: Reggie Conquest, Aaron McCann, Eion Falance, TaTa Sherise, Carolina Montesquieu! 👑 Vote on "
-  },
-  {
-   "id": "1xai6g9",
-   "date": "2026-10-20",
-   "subreddit": "nycComedy",
-   "title": "Gary Vider, standup comedy show about dating &amp; relationships, The Hookup, Nov 5th 9:30pm, UWS",
-   "score": 1,
-   "comments": 0,
-   "url": "https://www.reddit.com/r/nycComedy/comments/1xai6g9/gary_vider_standup_comedy_show_about_dating/",
-   "venues_mentioned": [],
-   "when_mentioned": null,
-   "time_mentioned": "9:30pm",
-   "links": [],
-   "free": false,
-   "new_since_last_run": false,
-   "excerpt": ""
   },
   {
    "id": "1xaxoxm",
@@ -1038,132 +1121,6 @@
    "free": true,
    "new_since_last_run": false,
    "excerpt": "DRAG BINGO AND OPEN SET new fun free admission show in Bushwick DRAG BINGO AND OPEN SET AT TINY CUPBOARD! Wanted to come on here to promote our next Drag bingo and open set 6:30-8:30 Pm this Thursday 10/22 at Tiny Cupboard Comedy Club in Bushwick! Its free to attend, and bingo ca"
-  },
-  {
-   "id": "1xa7pgb",
-   "date": "2026-10-19",
-   "subreddit": "nycComedy",
-   "title": "Catholic Guilt at SoHo Playhouse, October 29th - November 13th",
-   "score": 1,
-   "comments": 0,
-   "url": "https://www.reddit.com/r/nycComedy/comments/1xa7pgb/catholic_guilt_at_soho_playhouse_october_29th/",
-   "venues_mentioned": [
-    "SoHo Playhouse"
-   ],
-   "when_mentioned": null,
-   "time_mentioned": null,
-   "links": [
-    "https://www.sohoplayhouse.com/shows/kelly-mccaughan-catholic-guilt"
-   ],
-   "free": false,
-   "new_since_last_run": false,
-   "excerpt": "Does Daddy Jesus’s naked body on the cross make you wet? Spoiler alert: so will this show - seriously, there’s water. *Catholic Guilt* is a deranged, fractured church service blending stand-up, clown, bouffon, physical comedy, and audience interaction as Kelly takes on religion, "
-  },
-  {
-   "id": "1xa37ba",
-   "date": "2026-10-19",
-   "subreddit": "Bushwick",
-   "title": "Open Mic / Jam",
-   "score": 4,
-   "comments": 0,
-   "url": "https://www.reddit.com/r/Bushwick/comments/1xa37ba/open_mic_jam/",
-   "venues_mentioned": [],
-   "when_mentioned": null,
-   "time_mentioned": null,
-   "links": [],
-   "free": false,
-   "new_since_last_run": false,
-   "excerpt": "hosting a new event next week, come through "
-  },
-  {
-   "id": "1xabd24",
-   "date": "2026-10-19",
-   "subreddit": "AskNYC",
-   "title": "Anywhere to see performance magic for not too much money?",
-   "score": 14,
-   "comments": 9,
-   "url": "https://www.reddit.com/r/AskNYC/comments/1xabd24/anywhere_to_see_performance_magic_for_not_too/",
-   "venues_mentioned": [],
-   "when_mentioned": null,
-   "time_mentioned": null,
-   "links": [],
-   "free": false,
-   "new_since_last_run": false,
-   "excerpt": "I love performance magic but am finding it hard to find opportunities to see it that aren't too expensive or with super limited seating. It does NOT have to be a big name- if there's a \"casual magician open mic night\" equivalent I'd love that, I just love being amazed and trying "
-  },
-  {
-   "id": "1x9hwrs",
-   "date": "2026-10-18",
-   "subreddit": "nycevents",
-   "title": "Brown Point Comedy show in Central Harlem 10/24!",
-   "score": 1,
-   "comments": 0,
-   "url": "https://www.reddit.com/r/nycevents/comments/1x9hwrs/brown_point_comedy_show_in_central_harlem_1024/",
-   "venues_mentioned": [],
-   "when_mentioned": null,
-   "time_mentioned": null,
-   "links": [
-    "https://www.eventbrite.com/e/bigger-than-me-comedy-presents-brownpoint-comedy-nyc-tickets-2002986515587?aff=oddtdtcreator"
-   ],
-   "free": false,
-   "new_since_last_run": false,
-   "excerpt": "https://www.eventbrite.com/e/bigger-than-me-comedy-presents-brownpoint-comedy-nyc-tickets-2002986515587?aff=oddtdtcreator"
-  },
-  {
-   "id": "1x9hwit",
-   "date": "2026-10-18",
-   "subreddit": "nycComedy",
-   "title": "Brown Point Comedy show in Central Harlem 10/24!",
-   "score": 1,
-   "comments": 0,
-   "url": "https://www.reddit.com/r/nycComedy/comments/1x9hwit/brown_point_comedy_show_in_central_harlem_1024/",
-   "venues_mentioned": [],
-   "when_mentioned": null,
-   "time_mentioned": null,
-   "links": [
-    "https://www.eventbrite.com/e/bigger-than-me-comedy-presents-brownpoint-comedy-nyc-tickets-2002986515587?aff=oddtdtcreator"
-   ],
-   "free": false,
-   "new_since_last_run": false,
-   "excerpt": "https://www.eventbrite.com/e/bigger-than-me-comedy-presents-brownpoint-comedy-nyc-tickets-2002986515587?aff=oddtdtcreator"
-  },
-  {
-   "id": "1x9axrc",
-   "date": "2026-10-18",
-   "subreddit": "astoria",
-   "title": "Stand up Show on 10/24 at Grove34",
-   "score": 3,
-   "comments": 0,
-   "url": "https://www.reddit.com/r/astoria/comments/1x9axrc/stand_up_show_on_1024_at_grove34/",
-   "venues_mentioned": [],
-   "when_mentioned": "Saturday",
-   "time_mentioned": null,
-   "links": [
-    "https://grove34.com/shows/sounds-funny-oct24"
-   ],
-   "free": false,
-   "new_since_last_run": false,
-   "excerpt": "Hi all! Back with another show this upcoming Saturday! Grove34 is a small and mighty comedy club in Astoria on 34th St! Myself and a few others have been working hard at building a community of local talent and audience that offers people in Astoria a place to enjoy quality live "
-  },
-  {
-   "id": "1x93f6e",
-   "date": "2026-10-18",
-   "subreddit": "crownheights",
-   "title": "TONIGHT! Free Comedy @ Bar Bayeux!",
-   "score": 2,
-   "comments": 1,
-   "url": "https://www.reddit.com/r/crownheights/comments/1x93f6e/tonight_free_comedy_bar_bayeux/",
-   "venues_mentioned": [
-    "Bar Bayeux"
-   ],
-   "when_mentioned": "Sunday, 8:30PM at Bar Bayeux, we feature club ",
-   "time_mentioned": "8:30PM",
-   "links": [
-    "https://www.eventbrite.com/e/free-brooklyn-nyc-standup-comedy-show-post-moves-comedy-every-sunday-tickets-662659320867"
-   ],
-   "free": true,
-   "new_since_last_run": false,
-   "excerpt": "Hey! I run a stand-up comedy show called Post Moves Comedy. Every Sunday, 8:30PM at Bar Bayeux, we feature club comics and folks who’ve been on TV, Don’t Tell, Netflix, and more. This next show will feature some HITTERS! RSVP now for a chance at a free drink and pull up for some "
   }
  ]
 }

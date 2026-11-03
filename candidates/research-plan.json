@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-01T11:08:18.958Z",
- "performers_considered": 52,
+ "generated_at": "2026-11-03T11:32:06.974Z",
+ "performers_considered": 46,
  "shortlist": [
   {
    "name": "Maddy Kelly",
@@ -11,119 +11,68 @@
    "priority": 105
   },
   {
+   "name": "Sam Tallent",
+   "priority": 56
+  },
+  {
    "name": "Joanne McNally",
    "priority": 50
   },
   {
-   "name": "Andrew Dismukes",
-   "priority": 45
-  },
-  {
-   "name": "Michael Good",
-   "priority": 45
-  },
-  {
-   "name": "Kevin McDonald",
-   "priority": 45
+   "name": "Dewayne Perkins",
+   "priority": 50
   },
   {
    "name": "Michael Longfellow",
    "priority": 45
   },
   {
-   "name": "Ania Magliano",
+   "name": "Marc Maron",
+   "priority": 45
+  },
+  {
+   "name": "Ilana Glazer",
+   "priority": 45
+  },
+  {
+   "name": "Adam Ray",
    "priority": 40
   },
   {
-   "name": "Sam Oh",
-   "priority": 35
-  },
-  {
-   "name": "Peyton Ruddy",
-   "priority": 35
+   "name": "Ania Magliano",
+   "priority": 40
   }
  ],
- "run": [
-  {
-   "name": "Sam Oh",
-   "priority": 35,
-   "next": {
-    "id": "sam-oh-gay-virgin-bell-house-2026-11-02",
-    "date": "2026-11-02",
-    "venue": "The Bell House",
-    "days": 1,
-    "featured": false,
-    "poster": true,
-    "demand": null
-   },
-   "cheap_signals": [],
-   "reason": "show within 3 days and not yet decided"
-  },
-  {
-   "name": "Peyton Ruddy",
-   "priority": 35,
-   "next": {
-    "id": "peyton-ruddy-union-hall-2026-11-02",
-    "date": "2026-11-02",
-    "venue": "Union Hall",
-    "days": 1,
-    "featured": false,
-    "poster": true,
-    "demand": null
-   },
-   "cheap_signals": [],
-   "reason": "show within 3 days and not yet decided"
-  }
- ],
+ "run": [],
  "reuse": [
   {
-   "name": "Fahim Anwar",
-   "priority": 105,
+   "name": "Sam Tallent",
+   "priority": 56,
    "cached": {
-    "at": "2026-10-26T13:22:16.706Z",
-    "age_days": 5.9,
+    "at": "2026-11-03T11:32:01.925Z",
+    "age_days": 0,
     "fresh": true,
-    "note": "Four Reddit threads in 30 days, none about the comic: a Kill Tony episode complaint, a r/Goldpilltalk clip, a dating-skills thread and a Victoria BC show. No New York signal; his Bell House Nov 20 date is sold out anyway."
+    "note": "The live thread is his new book, Brut | Whiskey Ginger, on a current tour: a 38-point r/chubbybehemoth post Oct 30 and a 34-point r/AreYouGarbagePod episode Nov 1 where he talks about developing a show for Foley. Hacker News was a wall of Sam Altman false positives, so his Bell House Nov 5 date stands on the event page and the book tour."
    }
   },
   {
    "name": "Joanne McNally",
    "priority": 50,
    "cached": {
-    "at": "2026-10-26T13:22:16.736Z",
-    "age_days": 5.9,
+    "at": "2026-11-03T11:32:01.961Z",
+    "age_days": 0,
     "fresh": true,
-    "note": "Heavy signal but all of it is the Tonight Show debut and the McGregor boycott refusal, not the New York show: a 760-upvote r/entertainment thread on Oct 21 plus a 273-upvote r/ireland thread and a 125-upvote 'proud day for the parish' thread Oct 20. The Town Hall Nov 7 Pinotphile taping is what a reader can act on."
+    "note": "Signal is unchanged from last week and none of it is about the show: an 827-upvote r/entertainment thread Oct 21 on refusing to boycott the Tonight Show over the Conor McGregor interview, plus 275 and 126-upvote r/ireland threads Oct 20 and 21 on her US TV debut. The rest is Celebrity Traitors UK wardrobe talk. The Town Hall Nov 7 Pinotphile taping is the part a reader can act on."
    }
   },
   {
-   "name": "Andrew Dismukes",
-   "priority": 45,
+   "name": "Dewayne Perkins",
+   "priority": 50,
    "cached": {
-    "at": "2026-10-28T12:19:03.974Z",
-    "age_days": 4,
+    "at": "2026-11-03T11:32:01.997Z",
+    "age_days": 0,
     "fresh": true,
-    "note": "Three Reddit threads in 30 days, none about the Union Hall date: a 405-upvote r/LiveFromNewYork post praising his Sam I Am on SNL (Oct 12) and a 764-upvote clip of him improvising with Carl Tart at The Ultimate Improv Show; Hacker News returned two Andrew Ng AI stories and an Andrew Kelley video. The buzz is real but about his TV and improv work, not the show, so the pick stands on the Union Hall page."
-   }
-  },
-  {
-   "name": "Michael Good",
-   "priority": 45,
-   "cached": {
-    "at": "2026-10-28T12:20:56.031Z",
-    "age_days": 3.9,
-    "fresh": true,
-    "note": "Nothing about the comic: Reddit returned ten threads and 42,000 upvotes about Michael Bay, Michael Jordan, Michael Jackson and Michael Penix, and Hacker News an economics Nobel, with no mention of the comedian, Steve Martin Presents or the Union Hall date. The pick stands on the event page and the room's own lineup."
-   }
-  },
-  {
-   "name": "Kevin McDonald",
-   "priority": 45,
-   "cached": {
-    "at": "2026-10-28T12:23:09.007Z",
-    "age_days": 3.9,
-    "fresh": true,
-    "note": "One relevant thread in 30 days: a 554-upvote r/SaveTheCBC post marking 38 years since The Kids in the Hall premiered on CBC, naming him in the cast (Oct 16). Hacker News was eight Kevin Bacon stories and Reddit an A-League match thread, so there is no New York signal on the Union Hall date — the pick stands on the show's own page and his Kids in the Hall and new album credits."
+    "note": "The only real signal is a new black queer sketch web series he is in, I Swear We're Friends: 159-upvote r/BlackLGBT posts Oct 8 and 10 on the premiere, then 54 and 41 points Oct 14 and 16 on the first two episodes. Nothing in the window is about the Bell House Nov 9 date, and none of the four threads are from the last seven days, so that pick stands on the event page alone."
    }
   },
   {
@@ -131,9 +80,39 @@
    "priority": 45,
    "cached": {
     "at": "2026-10-29T12:04:21.699Z",
-    "age_days": 3,
+    "age_days": 5,
     "fresh": true,
     "note": "Two Reddit threads in 30 days and only one is positive: an 83-upvote r/LiveFromNewYork post on Oct 25 says he is on tour and 'I highly recommend going', while an Oct 11 r/saturdaynightlive thread argues his SNL clips are unfunny; the Hacker News hit is a Nobel laureate named Michael Woodford, not the comic. The tour thread is the live signal for the Union Hall Nov 3 date."
+   }
+  },
+  {
+   "name": "Marc Maron",
+   "priority": 45,
+   "cached": {
+    "at": "2026-11-03T11:32:06.765Z",
+    "age_days": 0,
+    "fresh": true,
+    "note": "Two live threads and neither is about New York: a Nov 3 r/PodcastSnarks post on him roasting comics who backed Trump, and a Nov 2 r/SymbyNews item on the Richard Lewis Award at the Comedy Gives Back gala. The rest is a Six Feet Under cameo question and a Pittsburgh spare ticket, so the Beacon Theatre Nov 8 date stands on the venue page."
+   }
+  },
+  {
+   "name": "Ilana Glazer",
+   "priority": 45,
+   "cached": {
+    "at": "2026-11-03T11:32:06.802Z",
+    "age_days": 0,
+    "fresh": true,
+    "note": "No New York signal: a 107-upvote r/BroadCity post Oct 18 on her Crunch Fitness commercial contest video, an eight-year Broad City anniversary thread, and two posts selling tickets to her October 15 Los Angeles show. The Beacon Theatre Nov 13 date rests on the festival page."
+   }
+  },
+  {
+   "name": "Adam Ray",
+   "priority": 40,
+   "cached": {
+    "at": "2026-10-27T12:55:53.438Z",
+    "age_days": 6.9,
+    "fresh": true,
+    "note": "Two Reddit threads mention him but neither is about his New York date: a r/Killtony clip of a new character (89 points) and a r/CoxCharterMerger post about a stock named Adam Ray (57 points); the Hacker News hit is Adam Curtis, a different person. No New York signal, so his Gramercy Theatre set stands on the festival page."
    }
   }
  ],
@@ -144,9 +123,14 @@
    "reason": "already sold out; research cannot change the call"
   },
   {
+   "name": "Fahim Anwar",
+   "priority": 105,
+   "reason": "already sold out; research cannot change the call"
+  },
+  {
    "name": "Ania Magliano",
    "priority": 40,
-   "reason": "next show in 31 days, outside the 10-day window"
+   "reason": "next show in 29 days, outside the 10-day window"
   },
   {
    "name": "Francis Ellis",
@@ -155,6 +139,11 @@
   },
   {
    "name": "Caitlin Peluffo",
+   "priority": 35,
+   "reason": "outside the top 10 by cheap ranking"
+  },
+  {
+   "name": "Peyton Ruddy",
    "priority": 35,
    "reason": "outside the top 10 by cheap ranking"
   },
@@ -169,17 +158,7 @@
    "reason": "outside the top 10 by cheap ranking"
   },
   {
-   "name": "Sam Tallent",
-   "priority": 35,
-   "reason": "outside the top 10 by cheap ranking"
-  },
-  {
-   "name": "Marc Maron",
-   "priority": 35,
-   "reason": "outside the top 10 by cheap ranking"
-  },
-  {
-   "name": "Dewayne Perkins",
+   "name": "George Willborn",
    "priority": 35,
    "reason": "outside the top 10 by cheap ranking"
   },
@@ -189,7 +168,7 @@
    "reason": "outside the top 10 by cheap ranking"
   },
   {
-   "name": "Ilana Glazer",
+   "name": "Jacqueline Novak",
    "priority": 30,
    "reason": "outside the top 10 by cheap ranking"
   },
@@ -199,12 +178,22 @@
    "reason": "outside the top 10 by cheap ranking"
   },
   {
-   "name": "Adam Ray",
+   "name": "Jordan Jensen",
+   "priority": 27,
+   "reason": "outside the top 10 by cheap ranking"
+  },
+  {
+   "name": "Jess Hilarious",
    "priority": 25,
    "reason": "outside the top 10 by cheap ranking"
   },
   {
-   "name": "George Willborn",
+   "name": "Jessica Kirson",
+   "priority": 25,
+   "reason": "outside the top 10 by cheap ranking"
+  },
+  {
+   "name": "Critical Grace Theory",
    "priority": 20,
    "reason": "outside the top 10 by cheap ranking"
   },
@@ -229,31 +218,6 @@
    "reason": "outside the top 10 by cheap ranking"
   },
   {
-   "name": "Astronomy",
-   "priority": 20,
-   "reason": "outside the top 10 by cheap ranking"
-  },
-  {
-   "name": "mythology",
-   "priority": 20,
-   "reason": "outside the top 10 by cheap ranking"
-  },
-  {
-   "name": "Ben Lillie",
-   "priority": 20,
-   "reason": "outside the top 10 by cheap ranking"
-  },
-  {
-   "name": "Moiya McTier",
-   "priority": 20,
-   "reason": "outside the top 10 by cheap ranking"
-  },
-  {
-   "name": "Hillbilly Allegedly",
-   "priority": 20,
-   "reason": "outside the top 10 by cheap ranking"
-  },
-  {
    "name": "Real Life Tonight",
    "priority": 20,
    "reason": "outside the top 10 by cheap ranking"
@@ -264,8 +228,23 @@
    "reason": "outside the top 10 by cheap ranking"
   },
   {
+   "name": "Nerd Nite",
+   "priority": 20,
+   "reason": "outside the top 10 by cheap ranking"
+  },
+  {
+   "name": "Nori Reed",
+   "priority": 20,
+   "reason": "outside the top 10 by cheap ranking"
+  },
+  {
+   "name": "One Man Funeral",
+   "priority": 20,
+   "reason": "outside the top 10 by cheap ranking"
+  },
+  {
    "name": "Michelle Wolf",
-   "priority": 18,
+   "priority": 19,
    "reason": "outside the top 10 by cheap ranking"
   },
   {
@@ -279,28 +258,8 @@
    "reason": "outside the top 10 by cheap ranking"
   },
   {
-   "name": "Jessica Kirson",
-   "priority": 15,
-   "reason": "outside the top 10 by cheap ranking"
-  },
-  {
-   "name": "Jacqueline Novak",
-   "priority": 15,
-   "reason": "outside the top 10 by cheap ranking"
-  },
-  {
    "name": "Demetri Martin",
    "priority": 15,
-   "reason": "outside the top 10 by cheap ranking"
-  },
-  {
-   "name": "Jordan Jensen",
-   "priority": 11,
-   "reason": "outside the top 10 by cheap ranking"
-  },
-  {
-   "name": "Jess Hilarious",
-   "priority": 10,
    "reason": "outside the top 10 by cheap ranking"
   },
   {
@@ -344,12 +303,7 @@
    "reason": "outside the top 10 by cheap ranking"
   },
   {
-   "name": "Nerd Nite",
-   "priority": 5,
-   "reason": "outside the top 10 by cheap ranking"
-  },
-  {
-   "name": "Nori Reed",
+   "name": "Charlie Flynn",
    "priority": 5,
    "reason": "outside the top 10 by cheap ranking"
   },
@@ -359,10 +313,7 @@
    "reason": "outside the top 10 by cheap ranking"
   }
  ],
- "estimated_tokens_saved": 450000,
- "estimate_basis": "9000 tokens per last30days run, 50 runs avoided out of 52",
- "no_recent_data": [
-  "Sam Oh",
-  "Peyton Ruddy"
- ]
+ "estimated_tokens_saved": 414000,
+ "estimate_basis": "9000 tokens per last30days run, 46 runs avoided out of 46",
+ "no_recent_data": []
 }
