@@ -139,7 +139,14 @@ const hashtags = '#nyccomedy #nycstandup #brooklyncomedy #standupnyc';
 const blurb = (p) => firstSentence(p.description, 240, 240);
 const clock = (p) => { const t = p.time_label.split(' · ')[0]; return t.includes(':') ? t.replace(/\s*(am|pm)$/i, '') : t; };
 const weekdayOf = (day) => new Intl.DateTimeFormat('en-US', { timeZone: 'America/New_York', weekday: 'long' }).format(new Date(day + 'T12:00:00-04:00'));
-const p0 = (list) => [...new Set(list.map((p) => p.neighborhood))].slice(0, 3).join(' and ');
+// Every neighborhood on the board tonight, joined so the list reads as English.
+// Capped at 4 so a crowded night cannot turn the closing line into a paragraph.
+const p0 = (list) => {
+  const hoods = [...new Set(list.map((p) => p.neighborhood))];
+  const shown = hoods.length > 4 ? hoods.slice(0, 4) : hoods;
+  if (shown.length === 1) return shown[0];
+  return shown.slice(0, -1).join(', ') + ' and ' + shown[shown.length - 1];
+};
 const bets = (n) => n === 1 ? 'One good bet.' : n === 2 ? 'Two good bets.' : n === 3 ? 'Three good bets.' : `${n} good bets.`;
 const credits = (list) => { const c = [...new Set(list.filter((p) => p.poster && p.poster.credit).map((p) => p.poster.credit.replace(/^(Artwork|Photo|Poster):\s*/i, '')))]; return c.length ? `\n\nArt: ${c.join(' · ')}` : ''; };
 
