@@ -624,3 +624,33 @@ date is in two days.
 of the eight-pick floor. Availability was checked for every new pick with the
 ticket pages and Eventbrite's availability endpoint; none of the nine is sold
 out or going fast.
+
+## 2026-11-04 — recovery notes from the 11:00 edition run
+
+The 11:00 edition cron hit its tool-iteration cap and published nothing. It left
+no picks in the tree, but it had verified sources and downloaded artwork into a
+scratch folder that was never committed. Those files were cleared during
+housekeeping after the Instagram run, so the sources are recorded here for the
+next edition run to pick up without redoing the research.
+
+**Verified shows with sources (not yet added to the board):**
+
+| Show | When | Venue | Source opened | Price read off the page |
+|---|---|---|---|---|
+| Homeward Bound: a Korean Adoptee Exploring the Longing for Belonging (performer Jae Carelli) | Sun Nov 8, 2:30pm, doors 2pm | Caveat | `caveat.nyc/events/homeward-bound-a-korean-adoptee-exploring-the-longing-for-belonging-2026-11-08` | $24.41 incl. fees |
+| The Last Palestinian | Sun Nov 8, 5pm, doors 4:30pm | Caveat | `caveat.nyc/events/the-last-palestinian-2026-11-08` | $30.08 standard, $28 at the door ($24.41 early bird) |
+| CopyFest Fundraiser: Three Sets, Three Festivals | Fri Nov 13, 7pm | Littlefield | `eventbrite.com/e/copyfest-fundraiser-three-sets-three-festivals-tickets-2002566206431` | from $18.71 |
+| Shaunak Does Improvised Standup | Nov 6 | Union Hall | `eventbrite.com/e/shaunak-does-improvised-standup-tickets-1997937952198` | — |
+| Ruperto Vanderpool, Matt Pavich, Jocelyn Chia, Nore Davis, Nick Griffin | Sat Nov 14, 8pm | Comic Strip Live | `eventbrite.com/e/ruperto-vanderpool-matt-pavich-jocelyn-chia-nore-davis-nick-griffin-tickets-2003840694459` | from $25.71 |
+
+**Other editions' blockers, so they are not re-derived:**
+- Eventbrite's public API (`eventbrite.com/api/v3/events/<id>/?expand=ticket_availability`)
+  is the fastest availability check — it returns `is_sold_out` and
+  `has_available_tickets` with no key.
+- The 14:00 comments run confirmed the IG inboxes are genuinely empty (49 posts
+  scanned, every `comments_count` is 0).
+
+**Housekeeping note for whoever runs next:** the scratch folder `candidates/tmp/`
+is untracked, so the nightly `git add -A` sweep can publish it, and it is also
+where the 09:15 job's `git add -A` will pick up stray files. Clear it before
+committing.
