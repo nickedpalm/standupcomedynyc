@@ -1,5 +1,5 @@
 {
- "retrieved_at": "2026-11-03T11:03:01.530Z",
+ "retrieved_at": "2026-11-04T11:01:43.277Z",
  "note": "Leads from Eventbrite organizer pages of registered rooms. Open the event page before adding a pick; artwork needs a POSTER-SOURCES record.",
  "organizers": [
   {
@@ -48,101 +48,6 @@
   }
  ],
  "events": [
-  {
-   "venue": "Caveat",
-   "neighborhood": "Lower East Side",
-   "organizer": "https://www.eventbrite.com/o/caveat-13580085802",
-   "title": "The New York Groove Live! w/New York Metro Weather",
-   "date": "2026-11-03",
-   "time": "7pm",
-   "starts_at": "2026-11-03T19:00:00-05:00",
-   "ends_at": "2026-11-03T20:30:00-05:00",
-   "location_name": "Caveat",
-   "location_address": "21 A Clinton Street, New York, NY 10002, New York",
-   "price_from": 18.76,
-   "url": "https://www.eventbrite.com/e/the-new-york-groove-live-wnew-york-metro-weather-tickets-1997502043383",
-   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1195638134%2F207096185123%2F1%2Foriginal.20261012-204542?w=940&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C1920%2C960&s=90f5e8df4242ace8c36fde080f1ca40a",
-   "description": "A live show about how to be a better New Yorker, from the journalists behind The New York Groove",
-   "venue_name_matches": true,
-   "already_a_pick": false,
-   "seen_before": true
-  },
-  {
-   "venue": "Union Hall",
-   "neighborhood": "Park Slope",
-   "organizer": "https://www.eventbrite.com/o/union-hall-17899496497",
-   "title": "Michael Longfellow",
-   "date": "2026-11-03",
-   "time": "7:30pm",
-   "starts_at": "2026-11-03T19:30:00-05:00",
-   "ends_at": "2026-11-03T21:00:00-05:00",
-   "location_name": "Union Hall",
-   "location_address": "702 Union St., Brooklyn, NY 11215, Brooklyn",
-   "price_from": 30.84,
-   "url": "https://www.eventbrite.com/e/michael-longfellow-tickets-2002955092600",
-   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1195096787%2F282041210522%2F1%2Foriginal.20261005-171459?crop=focalpoint&fit=crop&w=940&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=7ef577aeffb9afbc0b04dc1d2b102ecc",
-   "description": "Michael Longfellow - Tuesday, November 3 - 7:00pm Doors / 7:30pm Show",
-   "venue_name_matches": true,
-   "already_a_pick": true,
-   "seen_before": true
-  },
-  {
-   "venue": "Littlefield",
-   "neighborhood": "Gowanus",
-   "organizer": "https://www.eventbrite.com/o/littlefield-18046024060",
-   "title": "Spin Out With Me - An Educational Experience",
-   "date": "2026-11-03",
-   "time": "8pm",
-   "starts_at": "2026-11-03T20:00:00-05:00",
-   "ends_at": "2026-11-03",
-   "location_name": "littlefield",
-   "location_address": "635 Sackett Street, Brooklyn, NY 11217, Brooklyn",
-   "price_from": 18.71,
-   "url": "https://www.eventbrite.com/e/spin-out-with-me-an-educational-experience-tickets-1997169974155",
-   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1190568747%2F400863417153%2F1%2Foriginal.20260807-192024?crop=focalpoint&fit=crop&w=940&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.01&fp-y=0.397&s=1983a2d29e5fa309679c224bce252c94",
-   "description": "Devin O’Neill takes the audience on an anxiety spiral using characters, humor, but most of all seriousness.",
-   "venue_name_matches": true,
-   "already_a_pick": false,
-   "seen_before": true
-  },
-  {
-   "venue": "Comic Strip Live",
-   "neighborhood": "Upper East Side",
-   "organizer": "https://www.eventbrite.com/o/comic-strip-live-comedy-club-8100188167",
-   "title": "Barry Weintraub, Rachel Lenihan, Jim Mendrinos, Nick Tilleli,  & more!",
-   "date": "2026-11-03",
-   "time": "8pm",
-   "starts_at": "2026-11-03T20:00:00-05:00",
-   "ends_at": "2026-11-03",
-   "location_name": "Comic Strip Live",
-   "location_address": "1568 2nd Ave, New York, NY 10028, New York",
-   "price_from": 25.71,
-   "url": "https://www.eventbrite.com/e/barry-weintraub-rachel-lenihan-jim-mendrinos-nick-tilleli-more-tickets-2003839777717",
-   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1196471614%2F136153380524%2F1%2Foriginal.20261023-204211?crop=focalpoint&fit=crop&w=940&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=d31dfeecd6cc27e36b32b3e97cdfd2e4",
-   "description": "Be part of history, celebrating 50 years of Comedy at the World Comic Strip! Comedians from, HBO, The Tonight Show, SNL & More ~",
-   "venue_name_matches": true,
-   "already_a_pick": false,
-   "seen_before": true
-  },
-  {
-   "venue": "Caveat",
-   "neighborhood": "Lower East Side",
-   "organizer": "https://www.eventbrite.com/o/caveat-13580085802",
-   "title": "Real Life Tonight",
-   "date": "2026-11-03",
-   "time": "9:30pm",
-   "starts_at": "2026-11-03T21:30:00-05:00",
-   "ends_at": "2026-11-03T22:50:00-05:00",
-   "location_name": "Caveat",
-   "location_address": "21 A Clinton Street, New York, NY 10002, New York",
-   "price_from": 18.76,
-   "url": "https://www.eventbrite.com/e/real-life-tonight-tickets-2000529961969",
-   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1193697090%2F3005635212126%2F1%2Foriginal.20260916-212431?crop=focalpoint&fit=crop&w=940&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.019&fp-y=0.581&s=5968d230498dc7bb27de91791ed01628",
-   "description": "Amelia and Ian host a late-night show in front a live studio audience featuring a variety of acts.",
-   "venue_name_matches": true,
-   "already_a_pick": false,
-   "seen_before": true
-  },
   {
    "venue": "Caveat",
    "neighborhood": "Lower East Side",
@@ -273,7 +178,7 @@
    "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1184813863%2F282041210522%2F1%2Foriginal.20260518-015837?crop=focalpoint&fit=crop&w=940&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=d1afacd9ccd1bae331b88226c218edf1",
    "description": "Nori Reed: Nori Is Present LIVE at Union Hall - Thursday, November 5 - 7:00pm Doors / 7:30pm Show",
    "venue_name_matches": true,
-   "already_a_pick": false,
+   "already_a_pick": true,
    "seen_before": true
   },
   {
@@ -350,7 +255,7 @@
    "description": "See Noah (and his celebrity friends) perform live, and dead, in this campy comedy cabaret!",
    "venue_name_matches": true,
    "already_a_pick": false,
-   "seen_before": false
+   "seen_before": true
   },
   {
    "venue": "Union Hall",
@@ -388,7 +293,7 @@
    "description": "A solo show about finding your own path in a world with strong ideas about who you should be",
    "venue_name_matches": true,
    "already_a_pick": false,
-   "seen_before": false
+   "seen_before": true
   },
   {
    "venue": "Union Hall",
@@ -407,7 +312,7 @@
    "description": "Skintag and Friends - Friday, November 6 - 7:00pm Doors / 7:30pm Show",
    "venue_name_matches": true,
    "already_a_pick": true,
-   "seen_before": false
+   "seen_before": true
   },
   {
    "venue": "Littlefield",
@@ -483,7 +388,7 @@
    "description": "Arguments & Grievances is a live comedy debate show where the audience decides the victor! Part of the 2026 New York Comedy Festival.",
    "venue_name_matches": true,
    "already_a_pick": false,
-   "seen_before": false
+   "seen_before": true
   },
   {
    "venue": "Union Hall",
@@ -502,7 +407,7 @@
    "description": "Shaunak Does Improvised Standup - Friday, November 6 - 9:30pm Doors / 10:00pm Show",
    "venue_name_matches": true,
    "already_a_pick": false,
-   "seen_before": false
+   "seen_before": true
   },
   {
    "venue": "Upper East Side Comedy Club",
@@ -540,7 +445,7 @@
    "description": "Drunk Black History celebrates more Black History as part of the 2026 New York Comedy Festival.",
    "venue_name_matches": true,
    "already_a_pick": false,
-   "seen_before": false
+   "seen_before": true
   },
   {
    "venue": "Caveat",
@@ -559,7 +464,7 @@
    "description": "Moms Against Sketch Comedy performs entirely original, never-before-seen sketches.",
    "venue_name_matches": true,
    "already_a_pick": false,
-   "seen_before": false
+   "seen_before": true
   },
   {
    "venue": "Union Hall",
@@ -577,8 +482,8 @@
    "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1191030275%2F282041210522%2F1%2Foriginal.20260814-013245?crop=focalpoint&fit=crop&w=940&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=af6473ce9fdc41559abe79c63f6e4049",
    "description": "Charlie Flynn: Live at Union Hall - Saturday, November 7 - 4:30pm Doors / 5:00pm Show",
    "venue_name_matches": true,
-   "already_a_pick": false,
-   "seen_before": false
+   "already_a_pick": true,
+   "seen_before": true
   },
   {
    "venue": "Upper East Side Comedy Club",
@@ -616,7 +521,7 @@
    "description": "A tour of NYC featuring history, comedians, trivia, and special guests. Part of the 2026 New York Comedy Festival.",
    "venue_name_matches": true,
    "already_a_pick": false,
-   "seen_before": false
+   "seen_before": true
   },
   {
    "venue": "Union Hall",
@@ -635,7 +540,7 @@
    "description": "Honey Pluton and Spike Einbinder present: Changes - Saturday, November 7 - 7:00pm Doors / 7:30pm Show",
    "venue_name_matches": true,
    "already_a_pick": false,
-   "seen_before": false
+   "seen_before": true
   },
   {
    "venue": "Comic Strip Live",
@@ -692,7 +597,7 @@
    "description": "The Untitled Tessa and Freddie Project - Saturday, November 7 - 9:30pm Doors / 10:00pm Show",
    "venue_name_matches": true,
    "already_a_pick": false,
-   "seen_before": false
+   "seen_before": true
   },
   {
    "venue": "Upper East Side Comedy Club",
@@ -733,6 +638,25 @@
    "seen_before": true
   },
   {
+   "venue": "Caveat",
+   "neighborhood": "Lower East Side",
+   "organizer": "https://www.eventbrite.com/o/caveat-13580085802",
+   "title": "Homeward Bound: a Korean Adoptee exploring the longing for belonging",
+   "date": "2026-11-08",
+   "time": "2:30pm",
+   "starts_at": "2026-11-08T14:30:00-05:00",
+   "ends_at": "2026-11-08T16:00:00-05:00",
+   "location_name": "Caveat",
+   "location_address": "21 A Clinton Street, New York, NY 10002, New York",
+   "price_from": 24.41,
+   "url": "https://www.eventbrite.com/e/homeward-bound-a-korean-adoptee-exploring-the-longing-for-belonging-tickets-2003437768296",
+   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1195831610%2F207096185123%2F1%2Foriginal.20261015-003801?w=940&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C630%2C315&s=eb8a61b501dac48d412897ecb568457c",
+   "description": "Part confession. Part concert. Part reckoning. A journey through the 7 core issues of adoption asking, who gets to decide where you belong?",
+   "venue_name_matches": true,
+   "already_a_pick": false,
+   "seen_before": false
+  },
+  {
    "venue": "Littlefield",
    "neighborhood": "Gowanus",
    "organizer": "https://www.eventbrite.com/o/littlefield-18046024060",
@@ -750,6 +674,25 @@
    "venue_name_matches": true,
    "already_a_pick": false,
    "seen_before": true
+  },
+  {
+   "venue": "Caveat",
+   "neighborhood": "Lower East Side",
+   "organizer": "https://www.eventbrite.com/o/caveat-13580085802",
+   "title": "The Last Palestinian",
+   "date": "2026-11-08",
+   "time": "5pm",
+   "starts_at": "2026-11-08T17:00:00-05:00",
+   "ends_at": "2026-11-08T18:20:00-05:00",
+   "location_name": "Caveat",
+   "location_address": "21 A Clinton Street, New York, NY 10002, New York",
+   "price_from": 24.41,
+   "url": "https://www.eventbrite.com/e/the-last-palestinian-tickets-2003437732188",
+   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1195831519%2F207096185123%2F1%2Foriginal.20261015-003547?w=940&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2000%2C1000&s=497dea7487a1f1d015bb0d1bfe277729",
+   "description": "A dramedy solo show, which charts humanity’s spectacular downfall.",
+   "venue_name_matches": true,
+   "already_a_pick": false,
+   "seen_before": false
   },
   {
    "venue": "Littlefield",
@@ -879,7 +822,7 @@
    "price_from": 14.86,
    "url": "https://www.eventbrite.com/e/ny-comedy-festival-presents-tone-and-the-homies-tickets-1998385740545",
    "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1191966380%2F400863417153%2F1%2Foriginal.20260826-175721?crop=focalpoint&fit=crop&w=940&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=fdb32401d4f02bcc596df56e3a8846ba",
-   "description": "Featuring Ontonio Kareem",
+   "description": "Featuring Ontonio Kareem. Simeon Goodson, Liza Treyger, Reggie Conquest, Marie Faustin, and, music from Kota the Friend",
    "venue_name_matches": true,
    "already_a_pick": false,
    "seen_before": true
@@ -939,7 +882,7 @@
    "description": "Join us for a new edition of STAGE BREAK, the only reading series where EVERYONE reads.",
    "venue_name_matches": true,
    "already_a_pick": false,
-   "seen_before": false
+   "seen_before": true
   },
   {
    "venue": "Comic Strip Live",
@@ -996,7 +939,7 @@
    "description": "Musical comedy duo 2/3rds of a Threesome (AJ Holmes & Caitlin Cook) host a wild variety show with special guests!",
    "venue_name_matches": true,
    "already_a_pick": false,
-   "seen_before": false
+   "seen_before": true
   },
   {
    "venue": "Comic Strip Live",
@@ -1014,8 +957,8 @@
    "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1196472482%2F136153380524%2F1%2Foriginal.20261023-205430?crop=focalpoint&fit=crop&w=940&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.553&fp-y=0.097&s=02bc299b0a4df6809565704a7a573069",
    "description": "Be part of history, celebrating 50 years of Comedy at the World Comic Strip! Comedians from, HBO, The Tonight Show, SNL & More ~",
    "venue_name_matches": true,
-   "already_a_pick": false,
-   "seen_before": false
+   "already_a_pick": true,
+   "seen_before": true
   },
   {
    "venue": "Upper East Side Comedy Club",
@@ -1056,6 +999,25 @@
    "seen_before": true
   },
   {
+   "venue": "Littlefield",
+   "neighborhood": "Gowanus",
+   "organizer": "https://www.eventbrite.com/o/littlefield-18046024060",
+   "title": "CopyFest Fundraiser: Three Sets, Three Festivals",
+   "date": "2026-11-13",
+   "time": "7pm",
+   "starts_at": "2026-11-13T19:00:00-05:00",
+   "ends_at": "2026-11-13",
+   "location_name": "littlefield",
+   "location_address": "635 Sackett Street, Brooklyn, NY 11217, Brooklyn",
+   "price_from": 18.71,
+   "url": "https://www.eventbrite.com/e/copyfest-fundraiser-three-sets-three-festivals-tickets-2002566206431",
+   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1194643069%2F404652903161%2F1%2Foriginal.20260929-163421?crop=focalpoint&fit=crop&w=940&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=c5239e58532931af10343c709a31d396",
+   "description": "CopyCopy plays Woodstock, Lolla & Coachella live in one night, fundraising for CHiPS.",
+   "venue_name_matches": true,
+   "already_a_pick": false,
+   "seen_before": false
+  },
+  {
    "venue": "Comic Strip Live",
    "neighborhood": "Upper East Side",
    "organizer": "https://www.eventbrite.com/o/comic-strip-live-comedy-club-8100188167",
@@ -1071,8 +1033,8 @@
    "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1196472867%2F136153380524%2F1%2Foriginal.20261023-210139?crop=focalpoint&fit=crop&w=940&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.515&fp-y=0.222&s=a10654c250c37a2f7f97fbfd1c02be00",
    "description": "Be part of history, celebrating 50 years of Comedy at the World Comic Strip! Comedians from, HBO, The Tonight Show, SNL & More ~",
    "venue_name_matches": true,
-   "already_a_pick": false,
-   "seen_before": false
+   "already_a_pick": true,
+   "seen_before": true
   },
   {
    "venue": "Upper East Side Comedy Club",
@@ -1092,6 +1054,25 @@
    "venue_name_matches": true,
    "already_a_pick": false,
    "seen_before": true
+  },
+  {
+   "venue": "Comic Strip Live",
+   "neighborhood": "Upper East Side",
+   "organizer": "https://www.eventbrite.com/o/comic-strip-live-comedy-club-8100188167",
+   "title": "Ruperto Vanderpool, Matt Pavich, Jocelyn Chia, Nore Davis, & Nick Griffin!",
+   "date": "2026-11-14",
+   "time": "8pm",
+   "starts_at": "2026-11-14T20:00:00-05:00",
+   "ends_at": "2026-11-14",
+   "location_name": "Comic Strip Live",
+   "location_address": "1568 2nd Ave, New York, NY 10028, New York",
+   "price_from": 25.71,
+   "url": "https://www.eventbrite.com/e/ruperto-vanderpool-matt-pavich-jocelyn-chia-nore-davis-nick-griffin-tickets-2003840694459",
+   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1196472853%2F136153380524%2F1%2Foriginal.20261023-210127?crop=focalpoint&fit=crop&w=940&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=0802aaaaf8a626ce8ca90e72ff136b15",
+   "description": "Be part of history, celebrating 50 years of Comedy at the World Comic Strip! Comedians from, HBO, The Tonight Show, SNL & More ~",
+   "venue_name_matches": true,
+   "already_a_pick": false,
+   "seen_before": false
   }
  ],
  "errors": []

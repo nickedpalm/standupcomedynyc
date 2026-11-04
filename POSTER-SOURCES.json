@@ -3053,5 +3053,50 @@
   "reuse_status": "Official promotional artwork from the show's Live Nation / Ticketmaster listing; no separate reuse license identified. Site display with credit only.",
   "bytes": 283568,
   "sha256": "6b3c419836fd84b7ee38313e52873a22717e0ac0ead06458c68976fd885d2af5"
+ },
+ {
+  "event_id": "homeward-bound-jae-carelli-caveat-2026-11-08",
+  "src": "/assets/posters/homeward-bound-caveat-2026-11-08.jpg",
+  "width": 1200,
+  "height": 630,
+  "source_url": "https://caveat.nyc/events/homeward-bound-a-korean-adoptee-exploring-the-longing-for-belonging-2026-11-08",
+  "credit": "Artwork: Caveat / show organizer",
+  "alt": "Homeward Bound at Caveat - November 8, 2026 promotional artwork, with a performer under blue and pink stage light and the title on the right.",
+  "kind": "dated event flyer",
+  "original_image_url": "https://caveat.nyc/og-image/homeward-bound-a-korean-adoptee-exploring-the-longing-for-belonging-2026-11-08.jpg",
+  "retrieved_at": "2026-11-04",
+  "bytes": 93032,
+  "sha256": "84e34a759ed02e4e0e36ff964c5003c1ae6d257b871336b76400fab6cc402f73",
+  "reuse_status": "Official promotional artwork; no separate reuse license identified. Local review draft only."
+ },
+ {
+  "event_id": "shaunak-does-improvised-standup-union-hall-2026-11-06",
+  "src": "/assets/posters/shaunak-does-improvised-standup-union-hall-2026-11-06.png",
+  "width": 1080,
+  "height": 539,
+  "source_url": "https://www.eventbrite.com/e/shaunak-does-improvised-standup-tickets-1997937952198",
+  "credit": "Artwork: show organizer / New York Comedy Festival",
+  "alt": "Shaunak Does Improvised Standup at Union Hall - November 6, 2026 promotional artwork, with a portrait and the supporting lineup.",
+  "kind": "dated event flyer",
+  "original_image_url": "https://cdn.evbuc.com/images/1197103924/2330790970943/1/original.20261102-183308",
+  "retrieved_at": "2026-11-04",
+  "bytes": 364678,
+  "sha256": "ef0fb3f979904d9b21b135f9109b45274cdb660cb68b4e7fe3e7aeeb02904935",
+  "reuse_status": "Official promotional artwork; no separate reuse license identified. Local review draft only."
+ },
+ {
+  "event_id": "copyfest-fundraiser-littlefield-2026-11-13",
+  "src": "/assets/posters/copyfest-fundraiser-littlefield-2026-11-13.jpg",
+  "width": 1880,
+  "height": 940,
+  "source_url": "https://www.eventbrite.com/e/copyfest-fundraiser-three-sets-three-festivals-tickets-2002566206431",
+  "credit": "Artwork: CopyCopy / show organizer",
+  "alt": "CopyFest Fundraiser at Littlefield - November 13, 2026 promotional artwork, with Woodstock, Lolla Palooza and Coachella panels and the CHiPS logo.",
+  "kind": "dated event flyer",
+  "original_image_url": "https://cdn.evbuc.com/images/1194643069/404652903161/1/original.20260929-163421",
+  "retrieved_at": "2026-11-04",
+  "bytes": 385377,
+  "sha256": "8ee1a4bf5cd521ec1e0f65d0d8ea851b71e0660345012fce6d1897ed1534a6b0",
+  "reuse_status": "Official promotional artwork; no separate reuse license identified. Local review draft only."
  }
 ]

@@ -654,3 +654,39 @@ next edition run to pick up without redoing the research.
 is untracked, so the nightly `git add -A` sweep can publish it, and it is also
 where the 09:15 job's `git add -A` will pick up stray files. Clear it before
 committing.
+
+## 2026-11-04 — recovery of the stranded 11:00 edition run (published)
+
+The 11:00 edition cron hit its tool cap and published nothing. This recovery
+re-opened every source itself, re-verified each show, and added four picks.
+All four sources were opened directly; no finding was taken on trust from the
+dead run.
+
+| Pick | When | Venue | Source opened | Price read off the page |
+|---|---|---|---|---|
+| Homeward Bound: a Korean Adoptee Exploring the Longing for Belonging (Jae Carelli) | Sun Nov 8, 2:30pm, doors 2pm | Caveat | `caveat.nyc/events/homeward-bound-a-korean-adoptee-exploring-the-longing-for-belonging-2026-11-08` | $24.41 standard, $25 at the door (fees included) |
+| Shaunak Does Improvised Standup | Fri Nov 6, 10pm, doors 9:30pm | Union Hall | `eventbrite.com/e/shaunak-does-improvised-standup-tickets-1997937952198` | $15 + $4.26 fees = $19.26 |
+| CopyFest Fundraiser: Three Sets, Three Festivals | Fri Nov 13, 7pm | Littlefield | `eventbrite.com/e/copyfest-fundraiser-three-sets-three-festivals-tickets-2002566206431` | $15 + $3.71 fees = $18.71 |
+| Ruperto Vanderpool, Matt Pavich, Jocelyn Chia, Nore Davis and Nick Griffin | Sat Nov 14, 8pm | Comic Strip Live | `comicstriplive.com/schedule/` and Eventbrite `...-tickets-2003840694459` | $20 + $3.61 fees = $23.61 |
+
+**Corrections to the dead run's notes:**
+- The Comic Strip price was $23.61, not $25.71 — $25.71 belongs to the
+  *Nov 13* Ruperto bill that is already on the board.
+- The Ruperto Nov 14 image Eventbrite serves is a **headshot, not a flyer**, so
+  the pick carries `poster: null`. The club's own schedule confirms the
+  8pm start and the 50-years-of-the-Strip billing.
+- The Caveat price is $24.41 standard / $25 door, confirmed in the ticket
+  checkout panel, not "from $24.41 incl. fees" only.
+
+**Still open for Nick:** *The Last Palestinian* (Randa Jarrar, Caveat, Sun Nov 8,
+5pm, $30.08 standard) was verified and is on the venue's own schedule, but it
+is politically loaded and was not published on my own authority. Link:
+`https://caveat.nyc/events/the-last-palestinian-2026-11-08`
+
+**Link-in-bio count:** 33 shows on our board, Nov 6-15. The counting method was
+validated by reproducing HEAD's published 32 exactly and the Nov 1 revision's 31
+exactly before the new number was written. The parser reads each `.post` block
+on `nycomedyfestival.com/schedule/` into (date, time, venue, title, ticket URL)
+and matches a board pick when our ticket/source URL is on the festival site,
+our URL matches the festival's own "Get Tickets" link (query stripped), or the
+festival lists that title at our venue on that date.

@@ -1,5 +1,5 @@
 {
- "retrieved_at": "2026-11-03T11:03:27.981Z",
+ "retrieved_at": "2026-11-04T11:02:12.031Z",
  "note": "Promoter posts from NYC neighborhood subreddits, last 14 days. Leads only: open the linked page or the venue site before anything enters the data; register the venue first.",
  "subreddits": [
   "nycevents",
@@ -27,6 +27,116 @@
  ],
  "leads": [
   {
+   "id": "1xnch0z",
+   "date": "2026-11-04",
+   "subreddit": "nycevents",
+   "title": "Improvised Stand Up Show This Friday!",
+   "score": 1,
+   "comments": 0,
+   "url": "https://www.reddit.com/r/nycevents/comments/1xnch0z/improvised_stand_up_show_this_friday/",
+   "venues_mentioned": [
+    "Union Hall"
+   ],
+   "when_mentioned": "Friday",
+   "time_mentioned": "10PM",
+   "links": [
+    "https://www.eventbrite.com/e/shaunak-does-improvised-standup-tickets-1997937952198"
+   ],
+   "free": false,
+   "new_since_last_run": true,
+   "excerpt": "🗣️ THIS Friday! 10PM! Shaunak Godkhindi (Don't Tell, Stavvy's World) headlines Union Hall and does a completely improvised set on the spot! It’s the best night of your life! With Malik Elassal (Hulu), Subhah Agarwal, &amp; Neel Ghosh! 🎟️ Friday 11/6, 10PM, Union Hall, BK: [http"
+  },
+  {
+   "id": "1xncgjp",
+   "date": "2026-11-04",
+   "subreddit": "nycComedy",
+   "title": "Improvised Stand Up Show This Friday!",
+   "score": 1,
+   "comments": 0,
+   "url": "https://www.reddit.com/r/nycComedy/comments/1xncgjp/improvised_stand_up_show_this_friday/",
+   "venues_mentioned": [
+    "Union Hall"
+   ],
+   "when_mentioned": "Friday",
+   "time_mentioned": "10PM",
+   "links": [
+    "https://www.eventbrite.com/e/shaunak-does-improvised-standup-tickets-1997937952198"
+   ],
+   "free": false,
+   "new_since_last_run": true,
+   "excerpt": "🗣️ THIS Friday! 10PM! Shaunak Godkhindi (Don't Tell, Stavvy's World) headlines Union Hall and does a completely improvised set on the spot! It’s the best night of your life! With Malik Elassal (Hulu), Subhah Agarwal, &amp; Neel Ghosh! 🎟️ Friday 11/6, 10PM, Union Hall, BK: [http"
+  },
+  {
+   "id": "1xneb88",
+   "date": "2026-11-04",
+   "subreddit": "Bushwick",
+   "title": "DRAG KING BINGO and open set! 11/5/26 at Tiny Cupboard",
+   "score": 0,
+   "comments": 0,
+   "url": "https://www.reddit.com/r/Bushwick/comments/1xneb88/drag_king_bingo_and_open_set_11526_at_tiny/",
+   "venues_mentioned": [],
+   "when_mentioned": "Thursday 11/5/2026 fun free admission show in Bu",
+   "time_mentioned": "8:30 Pm",
+   "links": [],
+   "free": true,
+   "new_since_last_run": true,
+   "excerpt": "DRAG BINGO AND OPEN SET is baaaack this Thursday 11/5/2026 fun free admission show in Bushwick (We have two shows this month, we also have 11/22! We have spots open to perform so feel free to DM me on instagram at @ cunning\\_stunt\\_king !) DRAG BINGO AND OPEN SET AT TINY CUPBOARD"
+  },
+  {
+   "id": "1xnciki",
+   "date": "2026-11-04",
+   "subreddit": "parkslope",
+   "title": "Improvised Stand Up Show This Friday!",
+   "score": 1,
+   "comments": 0,
+   "url": "https://www.reddit.com/r/parkslope/comments/1xnciki/improvised_stand_up_show_this_friday/",
+   "venues_mentioned": [
+    "Union Hall"
+   ],
+   "when_mentioned": "Friday",
+   "time_mentioned": "10PM",
+   "links": [
+    "https://www.eventbrite.com/e/shaunak-does-improvised-standup-tickets-1997937952198"
+   ],
+   "free": false,
+   "new_since_last_run": true,
+   "excerpt": "Hi friends! THIS Friday! 10PM! Shaunak Godkhindi (Don't Tell, Stavvy's World) headlines Union Hall and does a completely improvised set on the spot! It’s the best night of your life! With Malik Elassal (Hulu), Subhah Agarwal, &amp; Neel Ghosh Friday 11/6, 10PM, Union Hall, BK: [h"
+  },
+  {
+   "id": "1xn45lk",
+   "date": "2026-11-03",
+   "subreddit": "nycevents",
+   "title": "Jiaoying Summers Comedy Show 2/4/27",
+   "score": 1,
+   "comments": 0,
+   "url": "https://www.reddit.com/r/nycevents/comments/1xn45lk/jiaoying_summers_comedy_show_2427/",
+   "venues_mentioned": [],
+   "when_mentioned": null,
+   "time_mentioned": null,
+   "links": [],
+   "free": false,
+   "new_since_last_run": true,
+   "excerpt": ""
+  },
+  {
+   "id": "1xn4m19",
+   "date": "2026-11-03",
+   "subreddit": "crownheights",
+   "title": "It's election day, so make sure to \"elect\" to see Crown Heights Comedy Night on Friday!",
+   "score": 2,
+   "comments": 0,
+   "url": "https://www.reddit.com/r/crownheights/comments/1xn4m19/its_election_day_so_make_sure_to_elect_to_see/",
+   "venues_mentioned": [],
+   "when_mentioned": "Friday",
+   "time_mentioned": null,
+   "links": [
+    "https://partiful.com/e/YoDwVFBeLRbKzTyNa9UV"
+   ],
+   "free": false,
+   "new_since_last_run": true,
+   "excerpt": "A few of you came out last time so thank you! Let's keep it going, we've got some wonderful local talent lined up! [https://partiful.com/e/YoDwVFBeLRbKzTyNa9UV](https://partiful.com/e/YoDwVFBeLRbKzTyNa9UV)"
+  },
+  {
    "id": "1xlx4m4",
    "date": "2026-11-02",
    "subreddit": "nycevents",
@@ -43,7 +153,7 @@
     "https://broadwaymagichour.com"
    ],
    "free": false,
-   "new_since_last_run": true,
+   "new_since_last_run": false,
    "excerpt": "\"I've never seen our kids laugh so hard and enjoy themselves so much.\" - Matthew S., TripAdvisor What can we add to that? Thank you so much, Matthew, for sharing your review and helping other families find our \"underground\" magic show! Back in the day 15-20 years ago, there were "
   },
   {
@@ -63,7 +173,7 @@
     "https://www.caveat.nyc/events/fun-in-moderation-sketch-comedy-2026-11-14"
    ],
    "free": false,
-   "new_since_last_run": true,
+   "new_since_last_run": false,
    "excerpt": "https://www.caveat.nyc/events/fun-in-moderation-sketch-comedy-2026-11-14"
   },
   {
@@ -81,7 +191,7 @@
    "time_mentioned": null,
    "links": [],
    "free": false,
-   "new_since_last_run": true,
+   "new_since_last_run": false,
    "excerpt": ""
   },
   {
@@ -101,7 +211,7 @@
     "https://www.caveat.nyc/events/fun-in-moderation-sketch-comedy-2026-11-14"
    ],
    "free": false,
-   "new_since_last_run": true,
+   "new_since_last_run": false,
    "excerpt": "https://www.caveat.nyc/events/fun-in-moderation-sketch-comedy-2026-11-14"
   },
   {
@@ -119,7 +229,7 @@
    "time_mentioned": null,
    "links": [],
    "free": false,
-   "new_since_last_run": true,
+   "new_since_last_run": false,
    "excerpt": ""
   },
   {
@@ -139,7 +249,7 @@
     "https://www.walmart.com/ip/VIVO-Mobile-Height-Adjustable-Stand-Up-Desk-Cart-with-Sliding-Keyboard-Tray/929895445"
    ],
    "free": false,
-   "new_since_last_run": true,
+   "new_since_last_run": false,
    "excerpt": "Great quality standing desk, perfect for small spaces. Going back to the office so no longer needed! $70 OBO. Retails for [$200 plus tax](https://www.walmart.com/ip/VIVO-Mobile-Height-Adjustable-Stand-Up-Desk-Cart-with-Sliding-Keyboard-Tray/929895445). Make me an offer, prefer to"
   },
   {
@@ -159,7 +269,7 @@
     "https://www.eventbrite.com/e/free-brooklyn-nyc-standup-comedy-show-post-moves-comedy-every-sunday-tickets-662659320867?aff=erelpanelorg"
    ],
    "free": true,
-   "new_since_last_run": true,
+   "new_since_last_run": false,
    "excerpt": "Hey! I run Post Moves, a weekly comedy show at Bar Bayeux (1066 Nostrand Ave). We're on TONIGHT. Solid lineup of comics working on new material, good drinks, chill crowd. If you're still recovering from Halloween and want to laugh without dealing with a big club, pull up. Doors a"
   },
   {
@@ -201,29 +311,11 @@
    "excerpt": "**Happy Halloween Eve!** Still looking for something to do tonight? Stop by [thetinycupboard](https://www.instagram.com/thetinycupboard/) for a nite of candy, costumes, creativity, drinks, karakoke, performances, and showcases. BYOwork to share! 🎃 All mediums are welcomed so cal"
   },
   {
-   "id": "1xjgvy8",
-   "date": "2026-10-30",
-   "subreddit": "williamsburg",
-   "title": "Winter is coming to Williamsburg...",
-   "score": 23,
-   "comments": 10,
-   "url": "https://www.reddit.com/r/williamsburg/comments/1xjgvy8/winter_is_coming_to_williamsburg/",
-   "venues_mentioned": [],
-   "when_mentioned": null,
-   "time_mentioned": null,
-   "links": [
-    "https://ooonyc.substack.com/p/fall-2026-hobby-guide"
-   ],
-   "free": true,
-   "new_since_last_run": false,
-   "excerpt": "So I'm looking for upcoming courses in Williamsburg (multi-part ideally) to help kickstart a hobby. I'm hoping you'll help again as I've had great responses here before when crowdsourcing for previous seasons (**see:** [**Free Fall Hobby Guide (Brooklyn Edition)**](https://ooonyc"
-  },
-  {
    "id": "1xjh31u",
    "date": "2026-10-30",
    "subreddit": "lowereastside",
    "title": "winter courses in LES",
-   "score": 18,
+   "score": 17,
    "comments": 0,
    "url": "https://www.reddit.com/r/lowereastside/comments/1xjh31u/winter_courses_in_les/",
    "venues_mentioned": [],
@@ -261,7 +353,7 @@
    "date": "2026-10-29",
    "subreddit": "astoria",
    "title": "Musical Comedy Night Thurs, Oct 29th @ Grove 34",
-   "score": 5,
+   "score": 7,
    "comments": 0,
    "url": "https://www.reddit.com/r/astoria/comments/1xi7ub7/musical_comedy_night_thurs_oct_29th_grove_34/",
    "venues_mentioned": [
@@ -279,7 +371,7 @@
    "date": "2026-10-29",
    "subreddit": "eastvillage",
    "title": "Who remembers Rififi Lounge?",
-   "score": 11,
+   "score": 12,
    "comments": 1,
    "url": "https://www.reddit.com/r/eastvillage/comments/1xilzcq/who_remembers_rififi_lounge/",
    "venues_mentioned": [],
@@ -361,7 +453,7 @@
    "date": "2026-10-28",
    "subreddit": "crownheights",
    "title": "Crown Heights Events Thread 10/28-11/4 HALLOWEEN EDITION",
-   "score": 29,
+   "score": 27,
    "comments": 0,
    "url": "https://www.reddit.com/r/crownheights/comments/1xhw615/crown_heights_events_thread_1028114_halloween/",
    "venues_mentioned": [
@@ -515,7 +607,7 @@
    "date": "2026-10-24",
    "subreddit": "astoria",
    "title": "Astoria Comedy TONIGHT!",
-   "score": 5,
+   "score": 3,
    "comments": 0,
    "url": "https://www.reddit.com/r/astoria/comments/1xefwag/astoria_comedy_tonight/",
    "venues_mentioned": [
@@ -535,7 +627,7 @@
    "date": "2026-10-24",
    "subreddit": "AskNYC",
    "title": "How do you hear about things to do/see/hear?",
-   "score": 19,
+   "score": 17,
    "comments": 24,
    "url": "https://www.reddit.com/r/AskNYC/comments/1xemttu/how_do_you_hear_about_things_to_doseehear/",
    "venues_mentioned": [],
@@ -567,8 +659,8 @@
    "date": "2026-10-24",
    "subreddit": "longislandcity",
    "title": "New to LIC, How to make friends?",
-   "score": 42,
-   "comments": 77,
+   "score": 41,
+   "comments": 80,
    "url": "https://www.reddit.com/r/longislandcity/comments/1xeh6w2/new_to_lic_how_to_make_friends/",
    "venues_mentioned": [
     "Grove 34"
@@ -659,7 +751,7 @@
    "date": "2026-10-23",
    "subreddit": "Greenpoint",
    "title": "We Raised $2600 For New Trash Cans in McCarren Park!",
-   "score": 46,
+   "score": 44,
    "comments": 1,
    "url": "https://www.reddit.com/r/Greenpoint/comments/1xdjbl6/we_raised_2600_for_new_trash_cans_in_mccarren_park/",
    "venues_mentioned": [],
@@ -727,7 +819,7 @@
    "date": "2026-10-22",
    "subreddit": "parkslope",
    "title": "Our $10 Magic Show is Back Tonight (Thursday) 7pm in Park Slope!",
-   "score": 9,
+   "score": 10,
    "comments": 1,
    "url": "https://www.reddit.com/r/parkslope/comments/1xc6p3f/our_10_magic_show_is_back_tonight_thursday_7pm_in/",
    "venues_mentioned": [
@@ -749,7 +841,7 @@
    "date": "2026-10-22",
    "subreddit": "Greenpoint",
    "title": "Super Duper Free and Awesome Comedy Show @ Word Bookstore 8pm Oct 22",
-   "score": 8,
+   "score": 7,
    "comments": 0,
    "url": "https://www.reddit.com/r/Greenpoint/comments/1xc5mcu/super_duper_free_and_awesome_comedy_show_word/",
    "venues_mentioned": [],
@@ -839,7 +931,7 @@
    "date": "2026-10-21",
    "subreddit": "williamsburg",
    "title": "Free Stand-Up Comedy Show Fundraiser For McCarren Park 10/22 7pm",
-   "score": 16,
+   "score": 18,
    "comments": 2,
    "url": "https://www.reddit.com/r/williamsburg/comments/1xbsi0v/free_standup_comedy_show_fundraiser_for_mccarren/",
    "venues_mentioned": [],
@@ -877,7 +969,7 @@
    "date": "2026-10-21",
    "subreddit": "lowereastside",
    "title": "Four Top at Casino restaurant on the LES",
-   "score": 15,
+   "score": 14,
    "comments": 0,
    "url": "https://www.reddit.com/r/lowereastside/comments/1xbmb3g/four_top_at_casino_restaurant_on_the_les/",
    "venues_mentioned": [],
@@ -897,7 +989,7 @@
    "date": "2026-10-21",
    "subreddit": "astoria",
    "title": "Open Mic at The Gaf - Wednesday October 21st",
-   "score": 5,
+   "score": 6,
    "comments": 2,
    "url": "https://www.reddit.com/r/astoria/comments/1xbycde/open_mic_at_the_gaf_wednesday_october_21st/",
    "venues_mentioned": [],
@@ -913,7 +1005,7 @@
    "date": "2026-10-21",
    "subreddit": "Greenpoint",
    "title": "Free Stand-Up Comedy Show Fundraiser For McCarren Park 10/22 7pm",
-   "score": 10,
+   "score": 8,
    "comments": 0,
    "url": "https://www.reddit.com/r/Greenpoint/comments/1xbshdd/free_standup_comedy_show_fundraiser_for_mccarren/",
    "venues_mentioned": [],
@@ -953,7 +1045,7 @@
    "date": "2026-10-21",
    "subreddit": "crownheights",
    "title": "I am hosting/producing the October standup comedy showcase at The Salon on Kingston next Wednesday! (Details in comments)",
-   "score": 4,
+   "score": 5,
    "comments": 1,
    "url": "https://www.reddit.com/r/crownheights/comments/1xbq5u9/i_am_hostingproducing_the_october_standup_comedy/",
    "venues_mentioned": [],
@@ -969,7 +1061,7 @@
    "date": "2026-10-21",
    "subreddit": "BedStuy",
    "title": "I am hosting/producing the October standup comedy showcase at The Salon on Kingston next Wednesday! (Details in comments)",
-   "score": 9,
+   "score": 10,
    "comments": 1,
    "url": "https://www.reddit.com/r/BedStuy/comments/1xbq7yc/i_am_hostingproducing_the_october_standup_comedy/",
    "venues_mentioned": [],
@@ -995,132 +1087,6 @@
    "free": false,
    "new_since_last_run": false,
    "excerpt": "Tonight! Wednesday October 21 - We're guest hosting for Jeannie! Come and play your songs, share your poetry, watch and connect with local artists, enjoy great drinks in a welcoming scene. So many great bands met through this scene - join us! Astoria Music Collective Open Mic EVE"
-  },
-  {
-   "id": "1xb168t",
-   "date": "2026-10-20",
-   "subreddit": "nycevents",
-   "title": "skip the small talk in manhattan and brooklyn",
-   "score": 1,
-   "comments": 0,
-   "url": "https://www.reddit.com/r/nycevents/comments/1xb168t/skip_the_small_talk_in_manhattan_and_brooklyn/",
-   "venues_mentioned": [],
-   "when_mentioned": "thursday-october-22-2026](https://www",
-   "time_mentioned": null,
-   "links": [
-    "https://www.skipthesmalltalk.com/store/millennial-speed-dating-monogamous-thursday-october-22-2026",
-    "https://www.skipthesmalltalk.com/store/skip-the-small-talk-night-at-mccarren-parkhouse-tuesday-october-27-2026",
-    "https://www.skipthesmalltalk.com/store/friendship-comedy-night-at-flop-house-comedy-club-east-village-thursday-october-29-2026"
-   ],
-   "free": false,
-   "new_since_last_run": false,
-   "excerpt": "Get cozy this fall with Skip the Small Talk - it’s a chill, sincere event focused on connection! We will be at Town Hall Collaborative! It’s a guided conversation event—think speed-friending vibes, but calmer and more intentional. By popular demand, we also have speed dating even"
-  },
-  {
-   "id": "1xaxqaf",
-   "date": "2026-10-20",
-   "subreddit": "nycevents",
-   "title": "FAMILY FEUD LIVE IMPROV COMEDY GAME SHOW - Thursday at Tiny Cupboard",
-   "score": 1,
-   "comments": 0,
-   "url": "https://www.reddit.com/r/nycevents/comments/1xaxqaf/family_feud_live_improv_comedy_game_show_thursday/",
-   "venues_mentioned": [],
-   "when_mentioned": "Thursday at Tiny Cupboard ",
-   "time_mentioned": null,
-   "links": [],
-   "free": false,
-   "new_since_last_run": false,
-   "excerpt": ""
-  },
-  {
-   "id": "1xavixk",
-   "date": "2026-10-20",
-   "subreddit": "nycevents",
-   "title": "NEW Comedy Game Show in Manhattan This Thursday!",
-   "score": 1,
-   "comments": 0,
-   "url": "https://www.reddit.com/r/nycevents/comments/1xavixk/new_comedy_game_show_in_manhattan_this_thursday/",
-   "venues_mentioned": [
-    "The Stand"
-   ],
-   "when_mentioned": "Thursday",
-   "time_mentioned": "9PM",
-   "links": [
-    "https://www.tixr.com/groups/thestandwest/events/funny-five-faceoff-a-comedy-game-show-207317?utm\\_source=ig&amp;utm\\_medium=social&amp;utm\\_content=link\\_in\\_bio&amp;fbclid=PAZXh0bgNhZW0CMTEAcGRvZgJzcnRjBmFwcF9pZA85MzY2MTk3NDMzOTI0NTkAAado4CKwCtitDG-r-fBjgD3ymEhKELVGzj7p\\_DcYJKCmtFX1Rpe7c6BLowXNEw\\_aem\\_9y8vDHAJFs8PJNqJvBbR\\_w",
-    "https://www.tixr.com/groups/thestandwest/events/funny-five-faceoff-a-comedy-game-show-207317?utm_source=ig&amp;utm_medium=social&amp;utm_content=link_in_bio&amp;fbclid=PAZXh0bgNhZW0CMTEAcGRvZgJzcnRjBmFwcF9pZA85MzY2MTk3NDMzOTI0NTkAAado4CKwCtitDG-r-fBjgD3ymEhKELVGzj7p_DcYJKCmtFX1Rpe7c6BLowXNEw_aem_9y8vDHAJFs8PJNqJvBbR_w"
-   ],
-   "free": false,
-   "new_since_last_run": false,
-   "excerpt": "🗣️THIS THURSDAY 9PM at The Stand! 👾 NYC’s newest comedy game show is NOW at The Stand, West. Hosted by Ryan Reiss (Late Night with Seth Meyers) with FIVE contestants going head-to-head: Reggie Conquest, Aaron McCann, Eion Falance, TaTa Sherise, Carolina Montesquieu! 👑 Vote on "
-  },
-  {
-   "id": "1xav45r",
-   "date": "2026-10-20",
-   "subreddit": "nycevents",
-   "title": "DRAG KING BINGO THIS THURSDAY AT TINY CUPBOARD IN BUSHWICK",
-   "score": 2,
-   "comments": 0,
-   "url": "https://www.reddit.com/r/nycevents/comments/1xav45r/drag_king_bingo_this_thursday_at_tiny_cupboard_in/",
-   "venues_mentioned": [],
-   "when_mentioned": "THURSDAY AT TINY CUPBOARD IN BUSHWICK DRAG BINGO",
-   "time_mentioned": "8:30 Pm",
-   "links": [],
-   "free": true,
-   "new_since_last_run": false,
-   "excerpt": "DRAG BINGO AND OPEN SET new fun free admission show in Brooklyn DRAG BINGO AND OPEN SET AT TINY CUPBOARD! Wanted to come on here to promote our next Drag bingo and open set 6:30-8:30 Pm this Thursday 10/22 at Tiny Cupboard Comedy Club in Bushwick! Its free to attend, and bingo ca"
-  },
-  {
-   "id": "1xavgsw",
-   "date": "2026-10-20",
-   "subreddit": "nycComedy",
-   "title": "NEW Comedy Game Show in Manhattan This Thursday!",
-   "score": 1,
-   "comments": 0,
-   "url": "https://www.reddit.com/r/nycComedy/comments/1xavgsw/new_comedy_game_show_in_manhattan_this_thursday/",
-   "venues_mentioned": [
-    "The Stand"
-   ],
-   "when_mentioned": "Thursday",
-   "time_mentioned": "9PM",
-   "links": [
-    "https://www.tixr.com/groups/thestandwest/events/funny-five-faceoff-a-comedy-game-show-207317?utm\\_source=ig&amp;utm\\_medium=social&amp;utm\\_content=link\\_in\\_bio&amp;fbclid=PAZXh0bgNhZW0CMTEAcGRvZgJzcnRjBmFwcF9pZA85MzY2MTk3NDMzOTI0NTkAAado4CKwCtitDG-r-fBjgD3ymEhKELVGzj7p\\_DcYJKCmtFX1Rpe7c6BLowXNEw\\_aem\\_9y8vDHAJFs8PJNqJvBbR\\_w",
-    "https://www.tixr.com/groups/thestandwest/events/funny-five-faceoff-a-comedy-game-show-207317?utm_source=ig&amp;utm_medium=social&amp;utm_content=link_in_bio&amp;fbclid=PAZXh0bgNhZW0CMTEAcGRvZgJzcnRjBmFwcF9pZA85MzY2MTk3NDMzOTI0NTkAAado4CKwCtitDG-r-fBjgD3ymEhKELVGzj7p_DcYJKCmtFX1Rpe7c6BLowXNEw_aem_9y8vDHAJFs8PJNqJvBbR_w"
-   ],
-   "free": false,
-   "new_since_last_run": false,
-   "excerpt": "🗣️THIS THURSDAY 9PM at The Stand! 👾 NYC’s newest comedy game show is NOW at The Stand, West. Hosted by Ryan Reiss (Late Night with Seth Meyers) with FIVE contestants going head-to-head: Reggie Conquest, Aaron McCann, Eion Falance, TaTa Sherise, Carolina Montesquieu! 👑 Vote on "
-  },
-  {
-   "id": "1xaxoxm",
-   "date": "2026-10-20",
-   "subreddit": "Bushwick",
-   "title": "FAMILY FEUD LIVE IMPROV COMEDY GAME SHOW Thursday at Tiny Cupboard",
-   "score": 1,
-   "comments": 2,
-   "url": "https://www.reddit.com/r/Bushwick/comments/1xaxoxm/family_feud_live_improv_comedy_game_show_thursday/",
-   "venues_mentioned": [],
-   "when_mentioned": "Thursday at Tiny Cupboard ",
-   "time_mentioned": null,
-   "links": [],
-   "free": false,
-   "new_since_last_run": false,
-   "excerpt": ""
-  },
-  {
-   "id": "1xav6vf",
-   "date": "2026-10-20",
-   "subreddit": "Bushwick",
-   "title": "DRAG KING BINGO THIS THURSDAY 10/22 AT TINY CUPBOARD",
-   "score": 0,
-   "comments": 0,
-   "url": "https://www.reddit.com/r/Bushwick/comments/1xav6vf/drag_king_bingo_this_thursday_1022_at_tiny/",
-   "venues_mentioned": [],
-   "when_mentioned": "THURSDAY 10/22 AT TINY CUPBOARD DRAG BINGO AND O",
-   "time_mentioned": "8:30 Pm",
-   "links": [],
-   "free": true,
-   "new_since_last_run": false,
-   "excerpt": "DRAG BINGO AND OPEN SET new fun free admission show in Bushwick DRAG BINGO AND OPEN SET AT TINY CUPBOARD! Wanted to come on here to promote our next Drag bingo and open set 6:30-8:30 Pm this Thursday 10/22 at Tiny Cupboard Comedy Club in Bushwick! Its free to attend, and bingo ca"
   }
  ]
 }

@@ -1,7 +1,11 @@
 {
- "generated_at": "2026-11-03T11:32:06.974Z",
- "performers_considered": 46,
+ "generated_at": "2026-11-04T11:05:34.855Z",
+ "performers_considered": 43,
  "shortlist": [
+  {
+   "name": "Nori Reed",
+   "priority": 130
+  },
   {
    "name": "Maddy Kelly",
    "priority": 120
@@ -11,28 +15,12 @@
    "priority": 105
   },
   {
-   "name": "Sam Tallent",
-   "priority": 56
-  },
-  {
    "name": "Joanne McNally",
-   "priority": 50
+   "priority": 65
   },
   {
-   "name": "Dewayne Perkins",
-   "priority": 50
-  },
-  {
-   "name": "Michael Longfellow",
-   "priority": 45
-  },
-  {
-   "name": "Marc Maron",
-   "priority": 45
-  },
-  {
-   "name": "Ilana Glazer",
-   "priority": 45
+   "name": "Sam Tallent",
+   "priority": 40
   },
   {
    "name": "Adam Ray",
@@ -41,82 +29,107 @@
   {
    "name": "Ania Magliano",
    "priority": 40
-  }
- ],
- "run": [],
- "reuse": [
-  {
-   "name": "Sam Tallent",
-   "priority": 56,
-   "cached": {
-    "at": "2026-11-03T11:32:01.925Z",
-    "age_days": 0,
-    "fresh": true,
-    "note": "The live thread is his new book, Brut | Whiskey Ginger, on a current tour: a 38-point r/chubbybehemoth post Oct 30 and a 34-point r/AreYouGarbagePod episode Nov 1 where he talks about developing a show for Foley. Hacker News was a wall of Sam Altman false positives, so his Bell House Nov 5 date stands on the event page and the book tour."
-   }
   },
   {
+   "name": "Salma Hindy",
+   "priority": 35
+  },
+  {
+   "name": "George Willborn",
+   "priority": 35
+  },
+  {
+   "name": "Marc Maron",
+   "priority": 35
+  }
+ ],
+ "run": [
+  {
+   "name": "Adam Ray",
+   "priority": 40,
+   "next": {
+    "id": "nycf-adam-ray-gramercy-2026-11-06",
+    "date": "2026-11-06",
+    "venue": "Gramercy Theatre",
+    "days": 2,
+    "featured": false,
+    "poster": false,
+    "demand": null
+   },
+   "cheap_signals": [
+    "Wikipedia: 358 views a day"
+   ],
+   "reason": "show within 3 days and not yet decided"
+  },
+  {
+   "name": "Salma Hindy",
+   "priority": 35,
+   "next": {
+    "id": "salma-hindy-10-years-stand-2026-11-04",
+    "date": "2026-11-04",
+    "venue": "The Stand",
+    "days": 0,
+    "featured": false,
+    "poster": true,
+    "demand": null
+   },
+   "cheap_signals": [],
+   "reason": "show within 3 days and not yet decided"
+  },
+  {
+   "name": "George Willborn",
+   "priority": 35,
+   "next": {
+    "id": "george-willborn-comedy-in-harlem-2026-11-06",
+    "date": "2026-11-06",
+    "venue": "Comedy In Harlem",
+    "days": 2,
+    "featured": false,
+    "poster": true,
+    "demand": null
+   },
+   "cheap_signals": [],
+   "reason": "show within 3 days and not yet decided"
+  }
+ ],
+ "reuse": [
+  {
    "name": "Joanne McNally",
-   "priority": 50,
+   "priority": 65,
    "cached": {
     "at": "2026-11-03T11:32:01.961Z",
-    "age_days": 0,
+    "age_days": 1,
     "fresh": true,
     "note": "Signal is unchanged from last week and none of it is about the show: an 827-upvote r/entertainment thread Oct 21 on refusing to boycott the Tonight Show over the Conor McGregor interview, plus 275 and 126-upvote r/ireland threads Oct 20 and 21 on her US TV debut. The rest is Celebrity Traitors UK wardrobe talk. The Town Hall Nov 7 Pinotphile taping is the part a reader can act on."
    }
   },
   {
-   "name": "Dewayne Perkins",
-   "priority": 50,
+   "name": "Sam Tallent",
+   "priority": 40,
    "cached": {
-    "at": "2026-11-03T11:32:01.997Z",
-    "age_days": 0,
+    "at": "2026-11-03T11:32:01.925Z",
+    "age_days": 1,
     "fresh": true,
-    "note": "The only real signal is a new black queer sketch web series he is in, I Swear We're Friends: 159-upvote r/BlackLGBT posts Oct 8 and 10 on the premiere, then 54 and 41 points Oct 14 and 16 on the first two episodes. Nothing in the window is about the Bell House Nov 9 date, and none of the four threads are from the last seven days, so that pick stands on the event page alone."
-   }
-  },
-  {
-   "name": "Michael Longfellow",
-   "priority": 45,
-   "cached": {
-    "at": "2026-10-29T12:04:21.699Z",
-    "age_days": 5,
-    "fresh": true,
-    "note": "Two Reddit threads in 30 days and only one is positive: an 83-upvote r/LiveFromNewYork post on Oct 25 says he is on tour and 'I highly recommend going', while an Oct 11 r/saturdaynightlive thread argues his SNL clips are unfunny; the Hacker News hit is a Nobel laureate named Michael Woodford, not the comic. The tour thread is the live signal for the Union Hall Nov 3 date."
+    "note": "The live thread is his new book, Brut | Whiskey Ginger, on a current tour: a 38-point r/chubbybehemoth post Oct 30 and a 34-point r/AreYouGarbagePod episode Nov 1 where he talks about developing a show for Foley. Hacker News was a wall of Sam Altman false positives, so his Bell House Nov 5 date stands on the event page and the book tour."
    }
   },
   {
    "name": "Marc Maron",
-   "priority": 45,
+   "priority": 35,
    "cached": {
     "at": "2026-11-03T11:32:06.765Z",
-    "age_days": 0,
+    "age_days": 1,
     "fresh": true,
     "note": "Two live threads and neither is about New York: a Nov 3 r/PodcastSnarks post on him roasting comics who backed Trump, and a Nov 2 r/SymbyNews item on the Richard Lewis Award at the Comedy Gives Back gala. The rest is a Six Feet Under cameo question and a Pittsburgh spare ticket, so the Beacon Theatre Nov 8 date stands on the venue page."
-   }
-  },
-  {
-   "name": "Ilana Glazer",
-   "priority": 45,
-   "cached": {
-    "at": "2026-11-03T11:32:06.802Z",
-    "age_days": 0,
-    "fresh": true,
-    "note": "No New York signal: a 107-upvote r/BroadCity post Oct 18 on her Crunch Fitness commercial contest video, an eight-year Broad City anniversary thread, and two posts selling tickets to her October 15 Los Angeles show. The Beacon Theatre Nov 13 date rests on the festival page."
-   }
-  },
-  {
-   "name": "Adam Ray",
-   "priority": 40,
-   "cached": {
-    "at": "2026-10-27T12:55:53.438Z",
-    "age_days": 6.9,
-    "fresh": true,
-    "note": "Two Reddit threads mention him but neither is about his New York date: a r/Killtony clip of a new character (89 points) and a r/CoxCharterMerger post about a stock named Adam Ray (57 points); the Hacker News hit is Adam Curtis, a different person. No New York signal, so his Gramercy Theatre set stands on the festival page."
    }
   }
  ],
  "skip": [
+  {
+   "name": "Nori Reed",
+   "priority": 130,
+   "reason": "already sold out; research cannot change the call"
+  },
   {
    "name": "Maddy Kelly",
    "priority": 120,
@@ -130,41 +143,21 @@
   {
    "name": "Ania Magliano",
    "priority": 40,
-   "reason": "next show in 29 days, outside the 10-day window"
+   "reason": "next show in 28 days, outside the 10-day window"
   },
   {
-   "name": "Francis Ellis",
+   "name": "Ilana Glazer",
    "priority": 35,
    "reason": "outside the top 10 by cheap ranking"
   },
   {
-   "name": "Caitlin Peluffo",
-   "priority": 35,
+   "name": "Charlie Flynn",
+   "priority": 30,
    "reason": "outside the top 10 by cheap ranking"
   },
   {
-   "name": "Peyton Ruddy",
-   "priority": 35,
-   "reason": "outside the top 10 by cheap ranking"
-  },
-  {
-   "name": "Infamous Ray",
-   "priority": 35,
-   "reason": "outside the top 10 by cheap ranking"
-  },
-  {
-   "name": "Salma Hindy",
-   "priority": 35,
-   "reason": "outside the top 10 by cheap ranking"
-  },
-  {
-   "name": "George Willborn",
-   "priority": 35,
-   "reason": "outside the top 10 by cheap ranking"
-  },
-  {
-   "name": "Daniel Sloss",
-   "priority": 35,
+   "name": "Dewayne Perkins",
+   "priority": 30,
    "reason": "outside the top 10 by cheap ranking"
   },
   {
@@ -173,22 +166,12 @@
    "reason": "outside the top 10 by cheap ranking"
   },
   {
-   "name": "Gavin Matts",
-   "priority": 30,
-   "reason": "outside the top 10 by cheap ranking"
-  },
-  {
-   "name": "Jordan Jensen",
-   "priority": 27,
-   "reason": "outside the top 10 by cheap ranking"
-  },
-  {
    "name": "Jess Hilarious",
    "priority": 25,
    "reason": "outside the top 10 by cheap ranking"
   },
   {
-   "name": "Jessica Kirson",
+   "name": "Daniel Sloss",
    "priority": 25,
    "reason": "outside the top 10 by cheap ranking"
   },
@@ -218,11 +201,6 @@
    "reason": "outside the top 10 by cheap ranking"
   },
   {
-   "name": "Real Life Tonight",
-   "priority": 20,
-   "reason": "outside the top 10 by cheap ranking"
-  },
-  {
    "name": "Holmes Street",
    "priority": 20,
    "reason": "outside the top 10 by cheap ranking"
@@ -233,18 +211,8 @@
    "reason": "outside the top 10 by cheap ranking"
   },
   {
-   "name": "Nori Reed",
-   "priority": 20,
-   "reason": "outside the top 10 by cheap ranking"
-  },
-  {
    "name": "One Man Funeral",
    "priority": 20,
-   "reason": "outside the top 10 by cheap ranking"
-  },
-  {
-   "name": "Michelle Wolf",
-   "priority": 19,
    "reason": "outside the top 10 by cheap ranking"
   },
   {
@@ -253,7 +221,12 @@
    "reason": "outside the top 10 by cheap ranking"
   },
   {
-   "name": "Matthew Broussard",
+   "name": "Jordan Jensen",
+   "priority": 15,
+   "reason": "outside the top 10 by cheap ranking"
+  },
+  {
+   "name": "Jessica Kirson",
    "priority": 15,
    "reason": "outside the top 10 by cheap ranking"
   },
@@ -263,12 +236,22 @@
    "reason": "outside the top 10 by cheap ranking"
   },
   {
+   "name": "Michelle Wolf",
+   "priority": 10,
+   "reason": "outside the top 10 by cheap ranking"
+  },
+  {
    "name": "Jake Velazquez",
    "priority": 5,
    "reason": "outside the top 10 by cheap ranking"
   },
   {
-   "name": "Mojo Brookzz",
+   "name": "Matthew Broussard",
+   "priority": 5,
+   "reason": "outside the top 10 by cheap ranking"
+  },
+  {
+   "name": "Kylie Vincent",
    "priority": 5,
    "reason": "outside the top 10 by cheap ranking"
   },
@@ -303,7 +286,17 @@
    "reason": "outside the top 10 by cheap ranking"
   },
   {
-   "name": "Charlie Flynn",
+   "name": "Gavin Matts",
+   "priority": 5,
+   "reason": "outside the top 10 by cheap ranking"
+  },
+  {
+   "name": "Clint Coley",
+   "priority": 5,
+   "reason": "outside the top 10 by cheap ranking"
+  },
+  {
+   "name": "Homeward Bound",
    "priority": 5,
    "reason": "outside the top 10 by cheap ranking"
   },
@@ -311,9 +304,17 @@
    "name": "Tone",
    "priority": 5,
    "reason": "outside the top 10 by cheap ranking"
+  },
+  {
+   "name": "Mojo Brookzz",
+   "priority": 0,
+   "reason": "outside the top 10 by cheap ranking"
   }
  ],
- "estimated_tokens_saved": 414000,
- "estimate_basis": "9000 tokens per last30days run, 46 runs avoided out of 46",
- "no_recent_data": []
+ "estimated_tokens_saved": 360000,
+ "estimate_basis": "9000 tokens per last30days run, 40 runs avoided out of 43",
+ "no_recent_data": [
+  "Salma Hindy",
+  "George Willborn"
+ ]
 }
