@@ -2435,7 +2435,7 @@
  },
  {
   "event_id": "infamous-ray-stand-2026-11-03",
-  "src": "/assets/posters/infamous-ray-stand-2026-11-03.png",
+  "src": "/assets/posters/archive/infamous-ray-stand-2026-11-03.png",
   "width": 773,
   "height": 1000,
   "source_url": "https://www.thestandnyc.com/shows/show/14129/2026-11-03-200000-infamous-ray",
@@ -2446,11 +2446,12 @@
   "retrieved_at": "2026-10-28",
   "reuse_status": "Official promotional artwork; no separate reuse license identified. Local review draft only.",
   "bytes": 848314,
-  "sha256": "130affe75279296e7665f3afc029e0635165a24de0c7dfc2bcfb3c6502bcfe6b"
+  "sha256": "130affe75279296e7665f3afc029e0635165a24de0c7dfc2bcfb3c6502bcfe6b",
+  "archived": true
  },
  {
   "event_id": "michael-longfellow-union-hall-2026-11-03",
-  "src": "/assets/posters/michael-longfellow-union-hall-2026-11-03.jpg",
+  "src": "/assets/posters/archive/michael-longfellow-union-hall-2026-11-03.jpg",
   "width": 940,
   "height": 470,
   "source_url": "https://www.eventbrite.com/e/michael-longfellow-tickets-2002955092600",
@@ -2461,7 +2462,8 @@
   "retrieved_at": "2026-10-29",
   "bytes": 47470,
   "sha256": "62d8332c955991671180532bf1cd43a008af00bcb6aa9c487bd54e573e33f736",
-  "reuse_status": "Official promotional artwork; no separate reuse license identified. Local review draft only."
+  "reuse_status": "Official promotional artwork; no separate reuse license identified. Local review draft only.",
+  "archived": true
  },
  {
   "event_id": "jessie-jetski-johnson-union-hall-2026-11-05",
@@ -2735,7 +2737,7 @@
  },
  {
   "event_id": "stand-francis-ellis-2026-11-03",
-  "src": "/assets/posters/stand-francis-ellis-2026-11-03.png",
+  "src": "/assets/posters/archive/stand-francis-ellis-2026-11-03.png",
   "width": 450,
   "height": 600,
   "source_url": "https://www.thestandnyc.com/shows/show/14150/2026-11-03-190000-the-stand-presents-francis-ellis-caitlin-peluffo-peyton-ruddy-more",
@@ -2746,7 +2748,8 @@
   "retrieved_at": "2026-10-29",
   "bytes": 439194,
   "sha256": "38f978c59e5effcbc87885b601e19176beef75f7c77f4adee263d7324c0ef5e7",
-  "reuse_status": "Official promotional artwork; no separate reuse license identified. Local review draft only."
+  "reuse_status": "Official promotional artwork; no separate reuse license identified. Local review draft only.",
+  "archived": true
  },
  {
   "event_id": "a-true-york-st-marks-2026-12-07",
