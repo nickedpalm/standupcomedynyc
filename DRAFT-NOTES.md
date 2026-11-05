@@ -757,3 +757,35 @@ that would crop badly in the story frame.
 **Link-in-bio count:** 34 shows on our board, Nov 6-15. The counting method was
 validated by reproducing the published 32, 31 and 33 exactly before the new
 number was written.
+
+---
+
+## 2026-11-05 — IG story for tonight, and the stranded 19:00 carousel finished
+
+**What happened.** The 19:00 Instagram carousel run hit its tool-iteration cap after
+publishing the recovered edition (commit `c7c71f7`) but before it posted the carousel.
+Its API probe confirmed nothing went up: the account's last carousel was 2026-11-04
+and there were no live stories. The 20:30 story job picked the work up.
+
+**Copy fixes carried over from the stranded run** (verified before shipping):
+- `angelo-colina-comedy-in-harlem-2026-11-05` — the card dek already reads
+  "Comedy In Harlem, Harlem", so naming the hood again in the sentence printed
+  it three times on one card.
+- `corinne-fisher-eastville-2026-11-05` — same, for "Boerum Hill".
+- `uesc-nycs-best-weekly-thursday-2026-11-05` — shortened so the whole sentence
+  renders inside the card's 180-character limit instead of falling back to a
+  separator cut.
+- `jessie-jetski-johnson-union-hall-2026-11-05` — the blurb said the show was
+  "a week before Thanksgiving". Thanksgiving 2026 is Thursday November 26, and
+  November 5 is three weeks out. Corrected, because the caption is immutable
+  once published.
+
+**Story frame.** `story-2026-11-05.jpg` uses the Upper East Side Comedy Club
+artwork as the background. The pick carries `cover_art` because that artwork is
+a portrait stage shot with a face and no baked-in type; the other artwork-bearing
+picks tonight are square headshots or a 2:1 landscape room photo that would crop
+badly at 9:16. All five rows render legible over it.
+
+**Tonight's board:** 5 picks with tickets left (Sam Tallent, Angelo Colina,
+Eastville, UESC, Jessie Jetski Johnson). Nori Reed at Union Hall is sold out and
+stays off the board's Tonight set.
