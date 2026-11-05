@@ -1329,7 +1329,7 @@
  },
  {
   "event_id": "salma-hindy-10-years-stand-2026-11-04",
-  "src": "/assets/posters/salma-hindy-10-years-stand-2026-11-04.jpg",
+  "src": "/assets/posters/archive/salma-hindy-10-years-stand-2026-11-04.jpg",
   "width": 1080,
   "height": 1350,
   "source_url": "https://thestandnyc.com/shows/show/13673/2026-11-04-200000-salma-hindy-10-years-of-stand-up-comedy",
@@ -1340,7 +1340,8 @@
   "retrieved_at": "2026-09-25",
   "bytes": 790036,
   "sha256": "acaa5f2ac501228a28a96693b52d92010f18e59d65d471796af0b19494df1325",
-  "reuse_status": "Official promotional artwork; no separate reuse license identified. Local review draft only."
+  "reuse_status": "Official promotional artwork; no separate reuse license identified. Local review draft only.",
+  "archived": true
  },
  {
   "event_id": "joke-machine-2026-09-30",
@@ -1607,7 +1608,7 @@
  },
  {
   "event_id": "please-stay-seated-wscc-2026-11-04",
-  "src": "/assets/posters/please-stay-seated-wscc-2026-11-04.webp",
+  "src": "/assets/posters/archive/please-stay-seated-wscc-2026-11-04.webp",
   "width": 929,
   "height": 1200,
   "source_url": "https://www.westsidecomedyclub.com/shows/please-stay-seated",
@@ -1618,7 +1619,8 @@
   "retrieved_at": "2026-10-09",
   "bytes": 64446,
   "sha256": "0c5f6fc96ed6c1e2c782426b61c8383a6bb2d87bbee4f1cca86218422de5ada2",
-  "reuse_status": "Official promotional artwork; no separate reuse license identified. Local review draft only."
+  "reuse_status": "Official promotional artwork; no separate reuse license identified. Local review draft only.",
+  "archived": true
  },
  {
   "event_id": "out-of-the-loop-slipper-room-2026-10-13",
@@ -2829,7 +2831,7 @@
  },
  {
   "event_id": "doctors-without-boundaries-caveat-2026-11-04",
-  "src": "/assets/posters/doctors-without-boundaries-caveat-2026-11-04.jpg",
+  "src": "/assets/posters/archive/doctors-without-boundaries-caveat-2026-11-04.jpg",
   "width": 1880,
   "height": 940,
   "source_url": "https://caveat.nyc/events/doctors-without-boundaries-11-4-2026",
@@ -2840,7 +2842,8 @@
   "retrieved_at": "2026-10-31",
   "bytes": 210465,
   "sha256": "5ffab0d3dd34af834439f436dcc3e0ae2fb4dc0839dd451e969bd55f3f709989",
-  "reuse_status": "Official promotional artwork; no separate reuse license identified. Local review draft only."
+  "reuse_status": "Official promotional artwork; no separate reuse license identified. Local review draft only.",
+  "archived": true
  },
  {
   "event_id": "nycf-demi-adejuyigbe-sells-out-littlefield-2026-11-09",
@@ -2921,7 +2924,7 @@
  },
  {
   "event_id": "cold-plunge-union-hall-2026-11-04",
-  "src": "/assets/posters/cold-plunge-union-hall-2026-11-04.jpg",
+  "src": "/assets/posters/archive/cold-plunge-union-hall-2026-11-04.jpg",
   "width": 940,
   "height": 470,
   "source_url": "https://www.eventbrite.com/e/cold-plunge-with-kurt-braunohler-tickets-1999807338583",
@@ -2932,7 +2935,8 @@
   "retrieved_at": "2026-11-01",
   "bytes": 148546,
   "sha256": "11e9c514d22c0742aaaf049d5df0d639f415e2b4db8109eb506cba145c35cfa4",
-  "reuse_status": "Official promotional artwork; no separate reuse license identified. Local review draft only."
+  "reuse_status": "Official promotional artwork; no separate reuse license identified. Local review draft only.",
+  "archived": true
  },
  {
   "event_id": "nycf-puteria-con-paprossa-littlefield-2026-11-06",
