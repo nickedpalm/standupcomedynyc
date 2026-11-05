@@ -690,3 +690,70 @@ on `nycomedyfestival.com/schedule/` into (date, time, venue, title, ticket URL)
 and matches a board pick when our ticket/source URL is on the festival site,
 our URL matches the festival's own "Get Tickets" link (query stripped), or the
 festival lists that title at our venue on that date.
+
+## 2026-11-05 — Edition recovery: the stranded 11:00 run
+
+The 11:00 edition and the 14:00 comments job both hit their tool-iteration caps
+and left their work uncommitted. The 09:15 nightly sweep would have absorbed it
+under a misleading message, so it was recovered here and every source re-opened
+rather than trusted.
+
+**Published (7 new picks, tier `special`):**
+
+| Pick | When | Venue | Source opened | Price read off the page |
+|---|---|---|---|---|
+| Hush Hush Comedy Show | Fri Nov 6, 7pm | Tipsy Village | `eventbrite.com/e/hush-hush-comedy-show-tickets-2004330907700` | $12.51, one item minimum |
+| Drunk Black History (NYCF edition) | Sat Nov 7, 1:30pm, doors 1pm | Caveat | `caveat.nyc/events/drunk-black-history-new-york-comedy-festival-edition-2026-11-07` | $24.41 early bird (expired Oct 31), $33.47 standard, $35 door |
+| Very Good Comedy | Sun Nov 8, 7pm | Tipsy Village | `eventbrite.com/e/very-good-comedy-tickets-2003783186451` | $15.71 |
+| Popcorn Comedy with Ian Lara | Thu Nov 19, 7:30pm | Oliver's Astoria | `eventbrite.com/e/popcorn-comedy-with-ian-lara-tickets-2004412545882` | $23.18 |
+| Joe DeVito Graduation Show | Wed Dec 9, 7pm | West Side Comedy Club | `westsidecomedyclub.com/shows/joe-devito-graduation-show-13198` | Two-item minimum, no published price |
+| The Party Clown Party | Thu Dec 10, 7pm | West Side Comedy Club | `westsidecomedyclub.com/shows/the-party-clown-party-9228` | Two-item minimum, no published price |
+| Not Ripe Bananas | Tue Dec 15, 8pm | West Side Comedy Club | `westsidecomedyclub.com/shows/not-ripe-bananas-9277` | Free, no cover, no minimum |
+
+**Also added:** Tipsy Village (201 Allen St, Lower East Side) registered with the
+Flop House Comedy Eventbrite organizer as its feed; The Stand West added to
+clubs.json from the room's own About page and show pages; `research-plan.js`
+extended so show titles ("Drunk Black History", "Homeward Bound") stop being
+ranked as performers.
+
+**Errors found in the stranded work and corrected here:**
+
+1. **The 14:00 run wanted to delete a true fact.** It read Caveat's line
+   "Drink some cocktails while you get an education" and decided the pick's
+   "no drink minimum" was unsupported. Caveat's own page prints "21+ No drink
+   minimum and no outside food or drink allowed" - the two do not conflict.
+   The claim was kept.
+2. **Caveat's price had expired.** $24.41 was the early bird that ended Oct 31.
+   The pick now carries $33.47, the live standard price, and its ticket URL
+   points at the in-person Eventbrite page instead of the livestream checkout.
+3. **"The last Tuesday of the year" was false.** Not Ripe Bananas runs Dec 8, 15,
+   22 and 29 - the club's own page lists all four. The blurb also now says the
+   show is free.
+4. **The Not Ripe Bananas poster pointed at the Dec 1 file.** The club uses one
+   artwork for the whole series, so each date now has its own copy and its own
+   POSTER-SOURCES record.
+5. **"Ninety minutes" was wrong.** Very Good Comedy runs 1 hour 29 minutes, per
+   Eventbrite.
+6. **Oliver's Astoria has no pinball machines.** Its own site describes a craft
+   beer bar and kitchen with trivia night. The HBO special for Ian Lara is real
+   and stays.
+7. **The Stand West was wrong on price and age.** The room's own show pages say
+   "From $35" (5pm festival sets from $23), not $35 flat; and its own About page
+   says "Age 21 and over, with photo ID", stricter than the Union Square room.
+   The room runs 5pm, 7pm and 9pm sets, not 9 and 10.
+8. **Eastville listed seven comics; the club's page lists six.** "kyle mara"
+   appears only inside the URL slug, never as visible text. The title now uses
+   the club's six.
+9. **The Upper East Side poster record had the wrong dimensions** (547x366 for a
+   5648x7424 file).
+
+**Poster provenance:** all four new posters match their source images byte for
+byte (sha256 compared against the page image, not eyeballed). The UESC flyer was
+re-fetched and matched exactly. The Upper East Side pick carries `cover_art`
+because its artwork is a portrait stage shot with no baked-in text - the other
+artwork-bearing picks tonight are square headshots or a 2:1 landscape room photo
+that would crop badly in the story frame.
+
+**Link-in-bio count:** 34 shows on our board, Nov 6-15. The counting method was
+validated by reproducing the published 32, 31 and 33 exactly before the new
+number was written.

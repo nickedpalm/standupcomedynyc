@@ -1,5 +1,5 @@
 {
- "retrieved_at": "2026-11-04T11:02:12.031Z",
+ "retrieved_at": "2026-11-05T11:01:42.082Z",
  "note": "Promoter posts from NYC neighborhood subreddits, last 14 days. Leads only: open the linked page or the venue site before anything enters the data; register the venue first.",
  "subreddits": [
   "nycevents",
@@ -27,6 +27,42 @@
  ],
  "leads": [
   {
+   "id": "1xnuhs8",
+   "date": "2026-11-04",
+   "subreddit": "nycevents",
+   "title": "$10 Comedy Show in LES",
+   "score": 1,
+   "comments": 0,
+   "url": "https://www.reddit.com/r/nycevents/comments/1xnuhs8/10_comedy_show_in_les/",
+   "venues_mentioned": [],
+   "when_mentioned": null,
+   "time_mentioned": null,
+   "links": [],
+   "free": false,
+   "new_since_last_run": true,
+   "excerpt": "$10 comedy show in LES @Tipsy Village 11/5 at 830pm. Classic comedy show with a fun twist. Come on out, enjoy yourself and meet some awesome people!"
+  },
+  {
+   "id": "1xns0nv",
+   "date": "2026-11-04",
+   "subreddit": "nycevents",
+   "title": "Drunk Black History's in the New York Comedy Festival THIS Saturday!",
+   "score": 1,
+   "comments": 0,
+   "url": "https://www.reddit.com/r/nycevents/comments/1xns0nv/drunk_black_historys_in_the_new_york_comedy/",
+   "venues_mentioned": [
+    "Caveat"
+   ],
+   "when_mentioned": "Saturday",
+   "time_mentioned": "1:30pm",
+   "links": [
+    "https://caveat.nyc/events/drunk-black-history-new-york-comedy-festival-edition-2026-11-07"
+   ],
+   "free": false,
+   "new_since_last_run": true,
+   "excerpt": "Saturday!!! We're learning, laughing, and day drinking at #drunkblackhistory! As part of the 2026 #NewYorkComedyFestival Saturday, November 7th Caveat NYC 1:30pm Tickets ($25+) are still available at [https://caveat.nyc/events/drunk-black-history-new-york-comedy-festival-edition-"
+  },
+  {
    "id": "1xnch0z",
    "date": "2026-11-04",
    "subreddit": "nycevents",
@@ -43,8 +79,24 @@
     "https://www.eventbrite.com/e/shaunak-does-improvised-standup-tickets-1997937952198"
    ],
    "free": false,
-   "new_since_last_run": true,
+   "new_since_last_run": false,
    "excerpt": "🗣️ THIS Friday! 10PM! Shaunak Godkhindi (Don't Tell, Stavvy's World) headlines Union Hall and does a completely improvised set on the spot! It’s the best night of your life! With Malik Elassal (Hulu), Subhah Agarwal, &amp; Neel Ghosh! 🎟️ Friday 11/6, 10PM, Union Hall, BK: [http"
+  },
+  {
+   "id": "1xnud46",
+   "date": "2026-11-04",
+   "subreddit": "nycComedy",
+   "title": "$10 Comedy Show in LES",
+   "score": 1,
+   "comments": 0,
+   "url": "https://www.reddit.com/r/nycComedy/comments/1xnud46/10_comedy_show_in_les/",
+   "venues_mentioned": [],
+   "when_mentioned": null,
+   "time_mentioned": null,
+   "links": [],
+   "free": false,
+   "new_since_last_run": true,
+   "excerpt": "$10 Comedy Show at Tipsy Village in LES on 11/5 at 830. Classic comedy show with a fun twist. Come on out, enjoy yourself and meet some great people:)"
   },
   {
    "id": "1xncgjp",
@@ -63,8 +115,24 @@
     "https://www.eventbrite.com/e/shaunak-does-improvised-standup-tickets-1997937952198"
    ],
    "free": false,
-   "new_since_last_run": true,
+   "new_since_last_run": false,
    "excerpt": "🗣️ THIS Friday! 10PM! Shaunak Godkhindi (Don't Tell, Stavvy's World) headlines Union Hall and does a completely improvised set on the spot! It’s the best night of your life! With Malik Elassal (Hulu), Subhah Agarwal, &amp; Neel Ghosh! 🎟️ Friday 11/6, 10PM, Union Hall, BK: [http"
+  },
+  {
+   "id": "1xnum4m",
+   "date": "2026-11-04",
+   "subreddit": "lowereastside",
+   "title": "$10 Comedy Show @Tipsy Village",
+   "score": 1,
+   "comments": 0,
+   "url": "https://www.reddit.com/r/lowereastside/comments/1xnum4m/10_comedy_show_tipsy_village/",
+   "venues_mentioned": [],
+   "when_mentioned": null,
+   "time_mentioned": null,
+   "links": [],
+   "free": false,
+   "new_since_last_run": true,
+   "excerpt": "$10 Comedy show at Tipsy Village 11/5 @830. Classic comedy show with a fun twist. Come hang out, enjoy yourself and meet some awesome people!!:)"
   },
   {
    "id": "1xneb88",
@@ -79,7 +147,7 @@
    "time_mentioned": "8:30 Pm",
    "links": [],
    "free": true,
-   "new_since_last_run": true,
+   "new_since_last_run": false,
    "excerpt": "DRAG BINGO AND OPEN SET is baaaack this Thursday 11/5/2026 fun free admission show in Bushwick (We have two shows this month, we also have 11/22! We have spots open to perform so feel free to DM me on instagram at @ cunning\\_stunt\\_king !) DRAG BINGO AND OPEN SET AT TINY CUPBOARD"
   },
   {
@@ -87,7 +155,7 @@
    "date": "2026-11-04",
    "subreddit": "parkslope",
    "title": "Improvised Stand Up Show This Friday!",
-   "score": 1,
+   "score": 2,
    "comments": 0,
    "url": "https://www.reddit.com/r/parkslope/comments/1xnciki/improvised_stand_up_show_this_friday/",
    "venues_mentioned": [
@@ -99,8 +167,31 @@
     "https://www.eventbrite.com/e/shaunak-does-improvised-standup-tickets-1997937952198"
    ],
    "free": false,
-   "new_since_last_run": true,
+   "new_since_last_run": false,
    "excerpt": "Hi friends! THIS Friday! 10PM! Shaunak Godkhindi (Don't Tell, Stavvy's World) headlines Union Hall and does a completely improvised set on the spot! It’s the best night of your life! With Malik Elassal (Hulu), Subhah Agarwal, &amp; Neel Ghosh Friday 11/6, 10PM, Union Hall, BK: [h"
+  },
+  {
+   "id": "1xo3hf6",
+   "date": "2026-11-04",
+   "subreddit": "crownheights",
+   "title": "Crown Heights November Weekly Events Thread - 11/4-11/11",
+   "score": 22,
+   "comments": 4,
+   "url": "https://www.reddit.com/r/crownheights/comments/1xo3hf6/crown_heights_november_weekly_events_thread/",
+   "venues_mentioned": [
+    "The Corner Store",
+    "Bar Bayeux"
+   ],
+   "when_mentioned": "sunday-tickets-662659320867) @ [Bar Bayeux](ht",
+   "time_mentioned": "8pm",
+   "links": [
+    "https://www.lgbtbrooklyn.org/event-details/batty-bwoy-short-film-nyc-premiere-screening",
+    "https://www.instagram.com/p/DeabuxENhml/?hl=en",
+    "https://www.cafeconlibrosbk.com/event-info/author-talk-the-black-madonna-with-dr-christena-cleveland"
+   ],
+   "free": true,
+   "new_since_last_run": true,
+   "excerpt": "Happy November! Hope everyone's recovered from the weekend. Don't worry, no mods were harmed in the making of this list, though I'm taking up Taekwondo for reasons unrelated to having to walk past [that corner on eastern](https://www.reddit.com/r/crownheights/comments/1xjut2c/hey"
   },
   {
    "id": "1xn45lk",
@@ -115,7 +206,7 @@
    "time_mentioned": null,
    "links": [],
    "free": false,
-   "new_since_last_run": true,
+   "new_since_last_run": false,
    "excerpt": ""
   },
   {
@@ -123,7 +214,7 @@
    "date": "2026-11-03",
    "subreddit": "crownheights",
    "title": "It's election day, so make sure to \"elect\" to see Crown Heights Comedy Night on Friday!",
-   "score": 2,
+   "score": 3,
    "comments": 0,
    "url": "https://www.reddit.com/r/crownheights/comments/1xn4m19/its_election_day_so_make_sure_to_elect_to_see/",
    "venues_mentioned": [],
@@ -133,7 +224,7 @@
     "https://partiful.com/e/YoDwVFBeLRbKzTyNa9UV"
    ],
    "free": false,
-   "new_since_last_run": true,
+   "new_since_last_run": false,
    "excerpt": "A few of you came out last time so thank you! Let's keep it going, we've got some wonderful local talent lined up! [https://partiful.com/e/YoDwVFBeLRbKzTyNa9UV](https://partiful.com/e/YoDwVFBeLRbKzTyNa9UV)"
   },
   {
@@ -219,7 +310,7 @@
    "date": "2026-11-02",
    "subreddit": "nycComedy",
    "title": "Brooklyn Power Hour Comedy Show, Mondays at Eastville Comedy Club",
-   "score": 3,
+   "score": 4,
    "comments": 0,
    "url": "https://www.reddit.com/r/nycComedy/comments/1xllve5/brooklyn_power_hour_comedy_show_mondays_at/",
    "venues_mentioned": [
@@ -315,7 +406,7 @@
    "date": "2026-10-30",
    "subreddit": "lowereastside",
    "title": "winter courses in LES",
-   "score": 17,
+   "score": 18,
    "comments": 0,
    "url": "https://www.reddit.com/r/lowereastside/comments/1xjh31u/winter_courses_in_les/",
    "venues_mentioned": [],
@@ -353,7 +444,7 @@
    "date": "2026-10-29",
    "subreddit": "astoria",
    "title": "Musical Comedy Night Thurs, Oct 29th @ Grove 34",
-   "score": 7,
+   "score": 6,
    "comments": 0,
    "url": "https://www.reddit.com/r/astoria/comments/1xi7ub7/musical_comedy_night_thurs_oct_29th_grove_34/",
    "venues_mentioned": [
@@ -371,7 +462,7 @@
    "date": "2026-10-29",
    "subreddit": "eastvillage",
    "title": "Who remembers Rififi Lounge?",
-   "score": 12,
+   "score": 13,
    "comments": 1,
    "url": "https://www.reddit.com/r/eastvillage/comments/1xilzcq/who_remembers_rififi_lounge/",
    "venues_mentioned": [],
@@ -607,7 +698,7 @@
    "date": "2026-10-24",
    "subreddit": "astoria",
    "title": "Astoria Comedy TONIGHT!",
-   "score": 3,
+   "score": 4,
    "comments": 0,
    "url": "https://www.reddit.com/r/astoria/comments/1xefwag/astoria_comedy_tonight/",
    "venues_mentioned": [
@@ -659,7 +750,7 @@
    "date": "2026-10-24",
    "subreddit": "longislandcity",
    "title": "New to LIC, How to make friends?",
-   "score": 41,
+   "score": 40,
    "comments": 80,
    "url": "https://www.reddit.com/r/longislandcity/comments/1xeh6w2/new_to_lic_how_to_make_friends/",
    "venues_mentioned": [
@@ -751,7 +842,7 @@
    "date": "2026-10-23",
    "subreddit": "Greenpoint",
    "title": "We Raised $2600 For New Trash Cans in McCarren Park!",
-   "score": 44,
+   "score": 46,
    "comments": 1,
    "url": "https://www.reddit.com/r/Greenpoint/comments/1xdjbl6/we_raised_2600_for_new_trash_cans_in_mccarren_park/",
    "venues_mentioned": [],
@@ -781,22 +872,6 @@
    "excerpt": "We’d love to see you there! Code POPCORN for $5 off! https://www.eventbrite.com/e/popcorn-comedy-with-jp-mcdade-tickets-2003322743253"
   },
   {
-   "id": "1xc5mg8",
-   "date": "2026-10-22",
-   "subreddit": "williamsburg",
-   "title": "Super Duper Free and Awesome Comedy Show @ Word Bookstore 8pm Oct 22",
-   "score": 2,
-   "comments": 0,
-   "url": "https://www.reddit.com/r/williamsburg/comments/1xc5mg8/super_duper_free_and_awesome_comedy_show_word/",
-   "venues_mentioned": [],
-   "when_mentioned": null,
-   "time_mentioned": "8pm",
-   "links": [],
-   "free": true,
-   "new_since_last_run": false,
-   "excerpt": ""
-  },
-  {
    "id": "1xcmoip",
    "date": "2026-10-22",
    "subreddit": "astoria",
@@ -815,44 +890,6 @@
    "excerpt": "We’d love to see you there if you’re looking for Friday plans! You can use code POPCORN for 5 bucks off! https://www.eventbrite.com/e/popcorn-comedy-with-jp-mcdade-tickets-2003322743253"
   },
   {
-   "id": "1xc6p3f",
-   "date": "2026-10-22",
-   "subreddit": "parkslope",
-   "title": "Our $10 Magic Show is Back Tonight (Thursday) 7pm in Park Slope!",
-   "score": 10,
-   "comments": 1,
-   "url": "https://www.reddit.com/r/parkslope/comments/1xc6p3f/our_10_magic_show_is_back_tonight_thursday_7pm_in/",
-   "venues_mentioned": [
-    "Young Ethel's"
-   ],
-   "when_mentioned": "Thursday) 7pm in Park Slope",
-   "time_mentioned": "7pm",
-   "links": [
-    "https://www.instagram.com/p/DPEuMYhE_Lf/",
-    "https://www.instagram.com/p/DUf97UtkQzI/",
-    "https://www.eventbrite.com/o/new-york-magic-ensemble-105704078051?aff=redbklyn"
-   ],
-   "free": false,
-   "new_since_last_run": false,
-   "excerpt": "The NYC Magic Ensemble are a group of local magicians who want to take our years of hard work at our nerdy little art and use it to make people happy while supporting local businesses and non-profits. If you're curious what our show is like, here's [a snippet from one of our even"
-  },
-  {
-   "id": "1xc5mcu",
-   "date": "2026-10-22",
-   "subreddit": "Greenpoint",
-   "title": "Super Duper Free and Awesome Comedy Show @ Word Bookstore 8pm Oct 22",
-   "score": 7,
-   "comments": 0,
-   "url": "https://www.reddit.com/r/Greenpoint/comments/1xc5mcu/super_duper_free_and_awesome_comedy_show_word/",
-   "venues_mentioned": [],
-   "when_mentioned": "Thursday October 22nd",
-   "time_mentioned": "8pm",
-   "links": [],
-   "free": true,
-   "new_since_last_run": false,
-   "excerpt": "Free Peter Pan! Free Wine! Free Comedy! Local Greenpoint legends and comedians Kevin Casey White,Joe Nunninck, and LizaBanks Campagna put on a free comedy show at Word Bookstore, showcasing the finest comedic minds of our generation that we could find on short notice, show starts"
-  },
-  {
    "id": "1xcmd5k",
    "date": "2026-10-22",
    "subreddit": "longislandcity",
@@ -869,224 +906,6 @@
    "free": false,
    "new_since_last_run": false,
    "excerpt": "We’d love to see you there if you’re looking for Friday plans! You can use code POPCORN for 5 bucks off! https://www.eventbrite.com/e/popcorn-comedy-with-jp-mcdade-tickets-2003322743253"
-  },
-  {
-   "id": "1xbw9m4",
-   "date": "2026-10-21",
-   "subreddit": "nycevents",
-   "title": "More Live Comedy this week Thursday - Saturday! Featuring Zac Amico,",
-   "score": 1,
-   "comments": 0,
-   "url": "https://www.reddit.com/r/nycevents/comments/1xbw9m4/more_live_comedy_this_week_thursday_saturday/",
-   "venues_mentioned": [],
-   "when_mentioned": "Thursday - Saturday",
-   "time_mentioned": null,
-   "links": [],
-   "free": false,
-   "new_since_last_run": false,
-   "excerpt": ""
-  },
-  {
-   "id": "1xbtsto",
-   "date": "2026-10-21",
-   "subreddit": "nycevents",
-   "title": "NYC: Neuroscience-themed variety show on (conspiracy) theories | Saturday, Oct. 24 | 4pm @ Caveat",
-   "score": 1,
-   "comments": 0,
-   "url": "https://www.reddit.com/r/nycevents/comments/1xbtsto/nyc_neurosciencethemed_variety_show_on_conspiracy/",
-   "venues_mentioned": [
-    "Caveat"
-   ],
-   "when_mentioned": "Saturday, Oct",
-   "time_mentioned": "4pm",
-   "links": [
-    "https://caveat.nyc/events/were-ready-to-disbelieve-you-2026-10-24"
-   ],
-   "free": false,
-   "new_since_last_run": false,
-   "excerpt": "For conspiracy theory or just theory-curious folks: My comedian friend and I are producing a neuroscience-themed variety show at Caveat, the comedy cabaret and speakeasy in the LES, on Saturday, October 24, 4pm. The event is an extension of the Fugues podcast (think The Moth meet"
-  },
-  {
-   "id": "1xbuu43",
-   "date": "2026-10-21",
-   "subreddit": "nycComedy",
-   "title": "NYC: Neuroscience-themed variety show on (conspiracy) theories | Saturday, Oct 24 | 4pm @ Caveat",
-   "score": 0,
-   "comments": 0,
-   "url": "https://www.reddit.com/r/nycComedy/comments/1xbuu43/nyc_neurosciencethemed_variety_show_on_conspiracy/",
-   "venues_mentioned": [
-    "Caveat"
-   ],
-   "when_mentioned": "Saturday, Oct 24 | 4pm @ Caveat For conspiracy t",
-   "time_mentioned": "4pm",
-   "links": [
-    "https://caveat.nyc/events/were-ready-to-disbelieve-you-2026-10-24"
-   ],
-   "free": false,
-   "new_since_last_run": false,
-   "excerpt": "For conspiracy theory or just theory-curious folks: My comedian friend and I are producing a neuroscience-themed variety show at Caveat, the comedy cabaret and speakeasy in the LES, on Saturday, October 24, 4pm. The event is an extension of the Fugues podcast (think The Moth meet"
-  },
-  {
-   "id": "1xbsi0v",
-   "date": "2026-10-21",
-   "subreddit": "williamsburg",
-   "title": "Free Stand-Up Comedy Show Fundraiser For McCarren Park 10/22 7pm",
-   "score": 18,
-   "comments": 2,
-   "url": "https://www.reddit.com/r/williamsburg/comments/1xbsi0v/free_standup_comedy_show_fundraiser_for_mccarren/",
-   "venues_mentioned": [],
-   "when_mentioned": "Sunday morning (Of which I am also part of)",
-   "time_mentioned": "7pm",
-   "links": [
-    "https://partiful.com/e/gaIKzcCqzj9BEhJGjuqn?c=eQ3MU1rC"
-   ],
-   "free": true,
-   "new_since_last_run": false,
-   "excerpt": "Tomorrow, I am hosting a free comedy show in partnership with Stewards of McCarren Park, a non-profit group that cleans the park every Sunday morning (Of which I am also part of). We are an official non-profit that works in conjunction with the parks department, which is woefully"
-  },
-  {
-   "id": "1xbud4e",
-   "date": "2026-10-21",
-   "subreddit": "lowereastside",
-   "title": "NYC: Neuroscience-themed variety show on (conspiracy) theories | Saturday, October 24 | 4pm @ Caveat",
-   "score": 0,
-   "comments": 0,
-   "url": "https://www.reddit.com/r/lowereastside/comments/1xbud4e/nyc_neurosciencethemed_variety_show_on_conspiracy/",
-   "venues_mentioned": [
-    "Caveat"
-   ],
-   "when_mentioned": "Saturday, October 24 | 4pm @ Caveat For conspira",
-   "time_mentioned": "4pm",
-   "links": [
-    "https://caveat.nyc/events/were-ready-to-disbelieve-you-2026-10-24"
-   ],
-   "free": false,
-   "new_since_last_run": false,
-   "excerpt": "For conspiracy theory or just theory-curious folks: My comedian friend and I are producing a neuroscience-themed variety show at Caveat, the comedy cabaret and speakeasy in the LES, on Saturday, October 24, 4pm. The event is an extension of the Fugues podcast (think The Moth meet"
-  },
-  {
-   "id": "1xbmb3g",
-   "date": "2026-10-21",
-   "subreddit": "lowereastside",
-   "title": "Four Top at Casino restaurant on the LES",
-   "score": 14,
-   "comments": 0,
-   "url": "https://www.reddit.com/r/lowereastside/comments/1xbmb3g/four_top_at_casino_restaurant_on_the_les/",
-   "venues_mentioned": [],
-   "when_mentioned": null,
-   "time_mentioned": null,
-   "links": [
-    "https://kylebeechey.com",
-    "https://therestaurantdiaries.com",
-    "https://www.casinonyc.info"
-   ],
-   "free": false,
-   "new_since_last_run": false,
-   "excerpt": "Hi LES ppl, I'm [Kyle](https://kylebeechey.com), a food, travel and screenwriter. I've written my first play, a one-act comedy, [Four Top](https://therestaurantdiaries.com), set in a restaurant, in a restaurant. It's on the next three Sundays and Mondays, October 25, 26th, Novemb"
-  },
-  {
-   "id": "1xbycde",
-   "date": "2026-10-21",
-   "subreddit": "astoria",
-   "title": "Open Mic at The Gaf - Wednesday October 21st",
-   "score": 6,
-   "comments": 2,
-   "url": "https://www.reddit.com/r/astoria/comments/1xbycde/open_mic_at_the_gaf_wednesday_october_21st/",
-   "venues_mentioned": [],
-   "when_mentioned": "Wednesday October 21st Tonight",
-   "time_mentioned": "7:30PM",
-   "links": [],
-   "free": false,
-   "new_since_last_run": false,
-   "excerpt": "Tonight! Wednesday October 21 - We're guest hosting for Jeannie! Come and play your songs, share your poetry, watch and connect with local artists, enjoy great drinks in a welcoming scene. So many great bands met through this scene - join us! Astoria Music Collective Open Mic EVE"
-  },
-  {
-   "id": "1xbshdd",
-   "date": "2026-10-21",
-   "subreddit": "Greenpoint",
-   "title": "Free Stand-Up Comedy Show Fundraiser For McCarren Park 10/22 7pm",
-   "score": 8,
-   "comments": 0,
-   "url": "https://www.reddit.com/r/Greenpoint/comments/1xbshdd/free_standup_comedy_show_fundraiser_for_mccarren/",
-   "venues_mentioned": [],
-   "when_mentioned": "Sunday morning (Of which I am also part of)",
-   "time_mentioned": "7pm",
-   "links": [
-    "https://partiful.com/e/gaIKzcCqzj9BEhJGjuqn?c=eQ3MU1rC"
-   ],
-   "free": true,
-   "new_since_last_run": false,
-   "excerpt": "Tomorrow, I am hosting a free comedy show in partnership with Stewards of McCarren Park, a non-profit group that cleans the park every Sunday morning (Of which I am also part of). We are an official non-profit that works in conjunction with the parks department, which is woefully"
-  },
-  {
-   "id": "1xbye19",
-   "date": "2026-10-21",
-   "subreddit": "crownheights",
-   "title": "Crown Heights Events Thread 10/21-10/28",
-   "score": 30,
-   "comments": 4,
-   "url": "https://www.reddit.com/r/crownheights/comments/1xbye19/crown_heights_events_thread_10211028/",
-   "venues_mentioned": [
-    "Bar Bayeux"
-   ],
-   "when_mentioned": "sunday-tickets-662659320867) @ [Bar Bayeux](ht",
-   "time_mentioned": "4pm",
-   "links": [
-    "https://docs.google.com/forms/d/1WzKbL2lT2Y4UMuZjeebm9u5lw-pS2Wo7BrQfkjDvwJo/viewform?edit_requested=true",
-    "https://www.lgbtbrooklyn.org/event-details/quilting-workshop-2026-10-21-17-30",
-    "https://brooklyn.org/event/cinema-with-a-cause-vigilantes-inc/"
-   ],
-   "free": true,
-   "new_since_last_run": false,
-   "excerpt": "The temp drop was rude, but it's still great fall weather. Hopefully you can get out there to enjoy some of it! As always, please feel free to post more events in the comments below and they'll be added to the list. *Wed 10/21* * 1-4pm - [Open Play Mahjong](https://docs.google.co"
-  },
-  {
-   "id": "1xbq5u9",
-   "date": "2026-10-21",
-   "subreddit": "crownheights",
-   "title": "I am hosting/producing the October standup comedy showcase at The Salon on Kingston next Wednesday! (Details in comments)",
-   "score": 5,
-   "comments": 1,
-   "url": "https://www.reddit.com/r/crownheights/comments/1xbq5u9/i_am_hostingproducing_the_october_standup_comedy/",
-   "venues_mentioned": [],
-   "when_mentioned": "Wednesday",
-   "time_mentioned": null,
-   "links": [],
-   "free": false,
-   "new_since_last_run": false,
-   "excerpt": ""
-  },
-  {
-   "id": "1xbq7yc",
-   "date": "2026-10-21",
-   "subreddit": "BedStuy",
-   "title": "I am hosting/producing the October standup comedy showcase at The Salon on Kingston next Wednesday! (Details in comments)",
-   "score": 10,
-   "comments": 1,
-   "url": "https://www.reddit.com/r/BedStuy/comments/1xbq7yc/i_am_hostingproducing_the_october_standup_comedy/",
-   "venues_mentioned": [],
-   "when_mentioned": "Wednesday",
-   "time_mentioned": null,
-   "links": [],
-   "free": false,
-   "new_since_last_run": false,
-   "excerpt": ""
-  },
-  {
-   "id": "1xbyg64",
-   "date": "2026-10-21",
-   "subreddit": "longislandcity",
-   "title": "Open Mic at The Gaf - Wednesday October 21st",
-   "score": 1,
-   "comments": 0,
-   "url": "https://www.reddit.com/r/longislandcity/comments/1xbyg64/open_mic_at_the_gaf_wednesday_october_21st/",
-   "venues_mentioned": [],
-   "when_mentioned": "Wednesday October 21st Tonight",
-   "time_mentioned": "7:30PM",
-   "links": [],
-   "free": false,
-   "new_since_last_run": false,
-   "excerpt": "Tonight! Wednesday October 21 - We're guest hosting for Jeannie! Come and play your songs, share your poetry, watch and connect with local artists, enjoy great drinks in a welcoming scene. So many great bands met through this scene - join us! Astoria Music Collective Open Mic EVE"
   }
  ]
 }

@@ -25,7 +25,7 @@ if (arg('--record')) {
   fs.writeFileSync(cacheFile, JSON.stringify(cache, null, 1) + '\n'); console.log(`cached: ${name}`); process.exit(0);
 }
 
-const NOT_A_NAME = /\b(comedy|show|night|live|club|architecture|game|party|hour|tour|special|presents|festival|showcase|open|mic|the|an|a|of|and|with|in|at|for|from|to|vs|trivia|taping|drinking|fun|looking|laugh|laughs|whine|list|bisque|charity|obey|advance|moderation|invisible|jokes|jranks|backroom|wits|end|stand|up|sorry|here|fix|laff|spell|checc|voices|cabaret|interview|experts|watch|dating|story|facts|machine|major|just|famous|words|dress|rehearsal|speakeasy|pizzazz|banana|bananas|improv|difficult|people|double|edged|riot|ask|ripe|seated|table|read|experience|workout|mob|battle|draft|fantasy|puzzle|contest|review|stories|more|and|plus|featuring)\b/i;
+const NOT_A_NAME = /\b(comedy|show|night|live|club|architecture|game|party|hour|tour|special|presents|festival|showcase|open|mic|the|an|a|of|and|with|in|at|for|from|to|vs|trivia|taping|drinking|fun|looking|laugh|laughs|whine|list|bisque|charity|obey|advance|moderation|invisible|jokes|jranks|backroom|wits|end|stand|up|sorry|here|fix|laff|spell|checc|voices|cabaret|interview|experts|watch|dating|story|facts|machine|major|just|famous|words|dress|rehearsal|speakeasy|pizzazz|banana|bananas|improv|difficult|people|double|edged|riot|ask|ripe|seated|table|read|experience|workout|mob|battle|draft|fantasy|puzzle|contest|review|stories|more|and|plus|featuring|drunk|history|homeward|bound)\b/i;
 // Function words never sit inside a person's name. A phrase carrying one is a show
 // title, not a performer ("Doctors Without Boundaries", "Not Ripe Bananas",
 // "Please Stay Seated"). Same job as NOT_A_NAME, for the words that are not nouns.

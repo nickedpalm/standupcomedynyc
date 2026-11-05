@@ -358,5 +358,25 @@
   "source_label": "Club FAQ",
   "verified_at": "2026-10-31",
   "verification_note": "Read from the club's own FAQ on 2026-10-31: the one-item minimum, the 21+ rule with ID, the 12/15/20/25 price tiers and what each closes at, the 30-minute door time, the group policy, the non-refundable terms and the 24-hour exchange. The 40-seat size and the address come from the club's home page and its Eventbrite listings."
+ },
+ {
+  "id": "the-stand-west",
+  "tier": "club",
+  "name": "The Stand West",
+  "rooms": "Second room of The Stand, on West 15th Street; smaller and later than the Union Square showroom",
+  "address": "407 W 15th St, Manhattan",
+  "neighborhood": "Chelsea",
+  "price_label": "From $23 to $35; most shows $35",
+  "price_low": 23,
+  "price_high": 35,
+  "minimum": "No drink minimum; full table service",
+  "age": "21+ with photo ID",
+  "reservations": "Buy ahead on the room's own show pages; all ticket holders check in 30 minutes before the show and are seated 15 minutes before",
+  "character": "The Stand's second room on West 15th Street, running 5pm, 7pm and 9pm sets with a longer bill than the Union Square room. The club's own show pages carry the line 'THIS EVENT WILL BE HELD AT OUR LOCATION INSIDE CHELSEA MARKET - 407 W. 15th St.'",
+  "calendar_url": "https://thestandwest.com/shows/",
+  "source_url": "https://thestandwest.com/about/",
+  "source_label": "The Stand West's own About page and show pages",
+  "verified_at": "2026-11-05",
+  "verification_note": "Address and age rule from the room's own About page (thestandwest.com/about, live on 2026-11-05): '407 West 15th St, New York ... between Ninth and Tenth Avenues' and 'Age 21 and over, with photo ID'. The Chelsea Market wording is the club's own, printed on every Stand West show page. Prices from the room's own show pages: $23 for the 5pm New York Comedy Festival sets, $35 for the 7pm and 9pm sets. Doors 30 minutes before, shows seat 15 minutes before, 90-minute shows, 16+ policy with one guest 21+ and no drink minimum come from the parent club's FAQ (thestandnyc.com/about/faq)."
  }
 ]

@@ -73,7 +73,7 @@
  },
  {
   "id": "corinne-fisher-eastville-2026-11-05",
-  "title": "Corinne Fisher, Priya Blunts, Peter Stewart, Rosey Catherine, Lauren Cocroft, Peter Gurl, kyle mara",
+  "title": "Corinne Fisher, Priya Blunts, Peter Stewart, Rosey Catherine, Lauren Cocroft, Peter Gurl",
   "date": "2026-11-05",
   "starts_at": "2026-11-05T20:00:00-05:00",
   "ends_at": "2026-11-05T21:30:00-05:00",
@@ -86,7 +86,7 @@
   "ticket_url": "https://www.eastvillecomedy.com/events/corinne-fisher-priya-blunts-peter-stewart-rosey-catherine-lauren-cocroft-peter-gurl-kyle-mara",
   "source_url": "https://www.eastvillecomedy.com/events/corinne-fisher-priya-blunts-peter-stewart-rosey-catherine-lauren-cocroft-peter-gurl-kyle-mara",
   "verified_at": "2026-10-29",
-  "description": "Seven comics and a two-drink minimum at the 120-seat room on Atlantic Avenue in Boerum Hill — cheap enough that the bar tab is the only real cost of the night.",
+  "description": "Six comics and a two-drink minimum at the 120-seat room on Atlantic Avenue in Boerum Hill, cheap enough that the bar tab is the only real cost of the night.",
   "tier": "special",
   "featured": false,
   "poster": {
@@ -112,11 +112,11 @@
   "venue": "Upper East Side Comedy Club",
   "neighborhood": "Upper East Side",
   "price_amount": 13.06,
-  "price_label": "From $13.06 (early bird $15, $20 online, $25 at the door)",
+  "price_label": "From $13.06 ($12 super early bird, $15 early bird, $20 online, $25 at the door)",
   "ticket_url": "https://www.eventbrite.com/e/stand-up-comedy-nyc-nycs-best-weekly-thursday-show-tickets-2003863095461",
   "source_url": "https://www.uppereastsidecomedyclub.com/comedy-shows-bedfordfalls-nyc",
   "verified_at": "2026-10-31",
-  "description": "Harrison Greenbaum, Michael Good, Yvette Segan and Sam Rubinoff in a room with forty seats and a stage close enough that the comic can read your face — the Upper East Side's smallest regular club week.",
+  "description": "Harrison Greenbaum, Michael Good, Yvette Segan and Sam Rubinoff in the smallest room we cover - forty seats with a stage close enough that the comic can read your face - on the Upper East Side's regular Thursday bill.",
   "tier": "special",
   "featured": false,
   "poster": {
@@ -129,7 +129,8 @@
    "kind": "dated event flyer"
   },
   "demand": null,
-  "demand_checked": "2026-11-05"
+  "demand_checked": "2026-11-05",
+  "cover_art": true
  },
  {
   "id": "jessie-jetski-johnson-union-hall-2026-11-05",
@@ -158,6 +159,28 @@
    "alt": "Jessie \"Jetski\" Johnson photographed in the Union Hall room, on the event page.",
    "kind": "performer photo from the event page"
   },
+  "demand": null,
+  "demand_checked": "2026-11-05"
+ },
+ {
+  "id": "hush-hush-comedy-tipsy-village-2026-11-06",
+  "title": "Hush Hush Comedy Show",
+  "date": "2026-11-06",
+  "starts_at": "2026-11-06T19:00:00-05:00",
+  "ends_at": "2026-11-06T20:30:00-05:00",
+  "end_time_confirmed": false,
+  "time_label": "7pm",
+  "venue": "Tipsy Village",
+  "neighborhood": "Lower East Side",
+  "price_amount": 12.51,
+  "price_label": "$12.51 (one item minimum, per the listing)",
+  "ticket_url": "https://www.eventbrite.com/e/hush-hush-comedy-show-tickets-2004330907700",
+  "source_url": "https://www.eventbrite.com/e/hush-hush-comedy-show-tickets-2004330907700",
+  "verified_at": "2026-11-05",
+  "description": "The East Village cafe-bar that turns into a bar at night hosts a Friday showcase of touring names and local up-and-comers, and the ticket is twelve fifty with a one-item minimum, which makes it the cheapest ticket on our board that night.",
+  "tier": "special",
+  "featured": false,
+  "poster": null,
   "demand": null,
   "demand_checked": "2026-11-05"
  },
@@ -359,6 +382,36 @@
    "kind": "dated event flyer"
   },
   "demand": null,
+  "demand_checked": "2026-11-05"
+ },
+ {
+  "id": "drunk-black-history-caveat-2026-11-07",
+  "title": "Drunk Black History",
+  "date": "2026-11-07",
+  "starts_at": "2026-11-07T13:30:00-05:00",
+  "ends_at": "2026-11-07T15:00:00-05:00",
+  "end_time_confirmed": false,
+  "time_label": "1:30pm · doors 1pm",
+  "venue": "Caveat",
+  "neighborhood": "Lower East Side",
+  "price_amount": 33.47,
+  "price_label": "From $24.41 ($33.47 with fees)",
+  "ticket_url": "https://www.eventbrite.com/e/drunk-black-history-new-york-comedy-festival-edition-tickets-1997797177136",
+  "source_url": "https://caveat.nyc/events/drunk-black-history-new-york-comedy-festival-edition-2026-11-07",
+  "verified_at": "2026-11-05",
+  "description": "Brandon Collins hosts an hour and a half of Black history told tipsily, with a lineup of comedians, podcasters and writers on the panel, and it lands on a Saturday afternoon at 1:30 with no drink minimum.",
+  "tier": "special",
+  "featured": false,
+  "poster": {
+   "src": "/assets/posters/drunk-black-history-caveat-2026-11-07.jpg",
+   "width": 1200,
+   "height": 630,
+   "source_url": "https://caveat.nyc/events/drunk-black-history-new-york-comedy-festival-edition-2026-11-07",
+   "credit": "Artwork: Caveat NYC / Drunk Black History",
+   "alt": "Drunk Black History at Caveat NYC - the show's own flyer art.",
+   "kind": "dated event flyer"
+  },
+  "demand": "going_fast",
   "demand_checked": "2026-11-05"
  },
  {
@@ -581,6 +634,28 @@
   "verified_at": "2026-10-23",
   "description": "Sarah Sherman and Patti Harrison share a Town Hall night as part of the New York Comedy Festival.",
   "tier": "special",
+  "demand": null,
+  "demand_checked": "2026-11-05"
+ },
+ {
+  "id": "very-good-comedy-tipsy-village-2026-11-08",
+  "title": "Very Good Comedy",
+  "date": "2026-11-08",
+  "starts_at": "2026-11-08T19:00:00-05:00",
+  "ends_at": "2026-11-08T20:29:00-05:00",
+  "end_time_confirmed": false,
+  "time_label": "7pm",
+  "venue": "Tipsy Village",
+  "neighborhood": "Lower East Side",
+  "price_amount": 15.71,
+  "price_label": "$15.71",
+  "ticket_url": "https://www.eventbrite.com/e/very-good-comedy-tickets-2003783186451",
+  "source_url": "https://www.eventbrite.com/e/very-good-comedy-tickets-2003783186451",
+  "verified_at": "2026-11-05",
+  "description": "A Sunday evening room on Allen Street with a name that tells you the billing is the point, and it runs an hour and twenty-nine minutes for fifteen seventy-one.",
+  "tier": "special",
+  "featured": false,
+  "poster": null,
   "demand": null,
   "demand_checked": "2026-11-05"
  },
@@ -1039,26 +1114,6 @@
   "demand_checked": "2026-11-05"
  },
  {
-  "id": "nycf-jess-hilarious-hard-rock-2026-11-13",
-  "title": "Jess Hilarious: The Don t Play Wit Me Tour",
-  "date": "2026-11-13",
-  "starts_at": "2026-11-13T19:00:00-05:00",
-  "ends_at": "2026-11-13T21:00:00-05:00",
-  "end_time_confirmed": false,
-  "time_label": "7pm",
-  "venue": "Hard Rock Hotel New York - The Venue on Music Row",
-  "neighborhood": "Times Square",
-  "price_amount": null,
-  "price_label": "See Hard Rock Hotel ticket page for price",
-  "ticket_url": "https://www.hardrockhotelnyc.com/the-venue",
-  "source_url": "https://nycomedyfestival.com/schedule/",
-  "verified_at": "2026-10-23",
-  "description": "Jess Hilarious brings the Don t Play Wit Me Tour to Hard Rock Hotel New York as part of NYCF.",
-  "tier": "special",
-  "demand": null,
-  "demand_checked": "2026-11-05"
- },
- {
   "id": "copyfest-fundraiser-littlefield-2026-11-13",
   "title": "CopyFest Fundraiser: Three Sets, Three Festivals",
   "date": "2026-11-13",
@@ -1085,6 +1140,26 @@
    "alt": "CopyFest Fundraiser at Littlefield - November 13, 2026 promotional artwork, with Woodstock, Lolla Palooza and Coachella panels and the CHiPS logo.",
    "kind": "dated event flyer"
   },
+  "demand": null,
+  "demand_checked": "2026-11-05"
+ },
+ {
+  "id": "nycf-jess-hilarious-hard-rock-2026-11-13",
+  "title": "Jess Hilarious: The Don t Play Wit Me Tour",
+  "date": "2026-11-13",
+  "starts_at": "2026-11-13T19:00:00-05:00",
+  "ends_at": "2026-11-13T21:00:00-05:00",
+  "end_time_confirmed": false,
+  "time_label": "7pm",
+  "venue": "Hard Rock Hotel New York - The Venue on Music Row",
+  "neighborhood": "Times Square",
+  "price_amount": null,
+  "price_label": "See Hard Rock Hotel ticket page for price",
+  "ticket_url": "https://www.hardrockhotelnyc.com/the-venue",
+  "source_url": "https://nycomedyfestival.com/schedule/",
+  "verified_at": "2026-10-23",
+  "description": "Jess Hilarious brings the Don t Play Wit Me Tour to Hard Rock Hotel New York as part of NYCF.",
+  "tier": "special",
   "demand": null,
   "demand_checked": "2026-11-05"
  },
@@ -1208,7 +1283,7 @@
   "tier": "special",
   "featured": false,
   "poster": null,
-  "demand": null,
+  "demand": "going_fast",
   "demand_checked": "2026-11-05"
  },
  {
@@ -1546,6 +1621,28 @@
   "description": "Michelle Wolf brings Best Job in the World to Town Hall — a Thursday in the midtown room for the Daily Show alum and Emmy-winning Roast writer, working the same political-as-hell hour that put her on Netflix’s The Break and HBO’s The Daily Show.",
   "tier": "special",
   "featured": false,
+  "demand": null,
+  "demand_checked": "2026-11-05"
+ },
+ {
+  "id": "popcorn-comedy-ian-lara-olivers-2026-11-19",
+  "title": "Popcorn Comedy with Ian Lara",
+  "date": "2026-11-19",
+  "starts_at": "2026-11-19T19:30:00-05:00",
+  "ends_at": "2026-11-19T21:00:00-05:00",
+  "end_time_confirmed": false,
+  "time_label": "7:30pm",
+  "venue": "Oliver's Astoria",
+  "neighborhood": "Astoria",
+  "price_amount": 23.18,
+  "price_label": "$23.18",
+  "ticket_url": "https://www.eventbrite.com/e/popcorn-comedy-with-ian-lara-tickets-2004412545882",
+  "source_url": "https://www.eventbrite.com/e/popcorn-comedy-with-ian-lara-tickets-2004412545882",
+  "verified_at": "2026-11-05",
+  "description": "The Queens craft beer bar hands the Thursday slot to Ian Lara, whose Comedy Central set has been watched more than ten million times and who has an HBO special to his name.",
+  "tier": "special",
+  "featured": false,
+  "poster": null,
   "demand": null,
   "demand_checked": "2026-11-05"
  },
@@ -3066,6 +3163,36 @@
   "demand_checked": "2026-11-05"
  },
  {
+  "id": "joe-devito-graduation-wscc-2026-12-09",
+  "title": "Joe DeVito Graduation Show",
+  "date": "2026-12-09",
+  "starts_at": "2026-12-09T19:00:00-05:00",
+  "ends_at": "2026-12-09T20:30:00-05:00",
+  "end_time_confirmed": false,
+  "time_label": "7pm",
+  "venue": "West Side Comedy Club",
+  "neighborhood": "Upper West Side",
+  "price_amount": null,
+  "price_label": "See ticket page for price (two-item minimum)",
+  "ticket_url": "https://punchup.live/show/23a5b7e6-a991-439a-b119-3736bbd375a4",
+  "source_url": "https://www.westsidecomedyclub.com/shows/joe-devito-graduation-show-13198",
+  "verified_at": "2026-11-05",
+  "description": "The West Side room's Wednesday night is a graduation show for Joe DeVito, a vet of a hundred TV and talk show appearances, and it is the one Wednesday in December with a single named comic rather than a rotation.",
+  "tier": "special",
+  "featured": false,
+  "poster": {
+   "src": "/assets/posters/joe-devito-graduation-wscc-2026-12-09.webp",
+   "width": 1006,
+   "height": 1200,
+   "source_url": "https://punchup.live/show/23a5b7e6-a991-439a-b119-3736bbd375a4",
+   "credit": "Artwork: West Side Comedy Club / Joe DeVito",
+   "alt": "Joe DeVito, arms folded in a navy blazer and blue shirt, on a white background.",
+   "kind": "official show artwork"
+  },
+  "demand": null,
+  "demand_checked": "2026-11-05"
+ },
+ {
   "id": "down-bad-st-marks-2026-12-09",
   "title": "Down Bad Comedy Show",
   "date": "2026-12-09",
@@ -3166,6 +3293,36 @@
   "tier": "special",
   "featured": false,
   "poster": null,
+  "demand": null,
+  "demand_checked": "2026-11-05"
+ },
+ {
+  "id": "party-clown-party-wscc-2026-12-10",
+  "title": "The Party Clown Party",
+  "date": "2026-12-10",
+  "starts_at": "2026-12-10T19:00:00-05:00",
+  "ends_at": "2026-12-10T20:30:00-05:00",
+  "end_time_confirmed": false,
+  "time_label": "7pm",
+  "venue": "West Side Comedy Club",
+  "neighborhood": "Upper West Side",
+  "price_amount": null,
+  "price_label": "See ticket page for price (two-item minimum)",
+  "ticket_url": "https://punchup.live/show/55f784fb-ee6a-4828-9ce2-78c133320d49",
+  "source_url": "https://www.westsidecomedyclub.com/shows/the-party-clown-party-9228",
+  "verified_at": "2026-11-05",
+  "description": "Erin Maguire releases the special Party Clown with a room full of friends and some people she is paying to be her pals for the night, at seven on a Thursday, with the two-item minimum and the no-refunds policy the room puts on every show.",
+  "tier": "special",
+  "featured": false,
+  "poster": {
+   "src": "/assets/posters/party-clown-party-wscc-2026-12-10.webp",
+   "width": 800,
+   "height": 1200,
+   "source_url": "https://punchup.live/show/55f784fb-ee6a-4828-9ce2-78c133320d49",
+   "credit": "Artwork: West Side Comedy Club / Erin Maguire",
+   "alt": "Erin Maguire as a red-haired clown with a red balloon, on the Party Clown key art.",
+   "kind": "official show artwork"
+  },
   "demand": null,
   "demand_checked": "2026-11-05"
  },
@@ -3352,5 +3509,35 @@
    "kind": "undated official show artwork"
   },
   "id": "clint-coley-bell-house-2026-12-13"
+ },
+ {
+  "id": "not-ripe-bananas-wscc-2026-12-15",
+  "title": "Not Ripe Bananas",
+  "date": "2026-12-15",
+  "starts_at": "2026-12-15T20:00:00-05:00",
+  "ends_at": "2026-12-15T21:30:00-05:00",
+  "end_time_confirmed": false,
+  "time_label": "8pm",
+  "venue": "West Side Comedy Club",
+  "neighborhood": "Upper West Side",
+  "price_amount": 0,
+  "price_label": "Free (no cover, no drink or food minimum, per the club page)",
+  "ticket_url": "https://punchup.live/show/a671ef25-9710-4d6b-bcf5-f0f2b7e4ad1e",
+  "source_url": "https://www.westsidecomedyclub.com/shows/not-ripe-bananas-9277",
+  "verified_at": "2026-11-05",
+  "description": "The West Side workshop where comics try out material that is still green, and the room's own card calls the jokes green and the comics anything but - free, with no cover and no drink or food minimum.",
+  "tier": "special",
+  "featured": false,
+  "poster": {
+   "src": "/assets/posters/not-ripe-bananas-wscc-2026-12-15.webp",
+   "width": 3248,
+   "height": 7426,
+   "source_url": "https://www.westsidecomedyclub.com/shows/not-ripe-bananas-9277",
+   "credit": "Artwork: West Side Comedy Club",
+   "alt": "The Not Ripe Bananas artwork for West Side Comedy Club - the show's own flyer art.",
+   "kind": "official show artwork"
+  },
+  "demand": null,
+  "demand_checked": "2026-11-05"
  }
 ]

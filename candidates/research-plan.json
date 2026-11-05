@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-04T11:05:34.855Z",
- "performers_considered": 43,
+ "generated_at": "2026-11-05T11:43:08.199Z",
+ "performers_considered": 46,
  "shortlist": [
   {
    "name": "Nori Reed",
@@ -15,35 +15,53 @@
    "priority": 105
   },
   {
+   "name": "Marc Maron",
+   "priority": 75
+  },
+  {
    "name": "Joanne McNally",
    "priority": 65
   },
   {
    "name": "Sam Tallent",
-   "priority": 40
+   "priority": 56
+  },
+  {
+   "name": "Dewayne Perkins",
+   "priority": 50
+  },
+  {
+   "name": "Daniel Sloss",
+   "priority": 50
   },
   {
    "name": "Adam Ray",
    "priority": 40
   },
   {
-   "name": "Ania Magliano",
+   "name": "Ilana Glazer",
    "priority": 40
-  },
-  {
-   "name": "Salma Hindy",
-   "priority": 35
-  },
-  {
-   "name": "George Willborn",
-   "priority": 35
-  },
-  {
-   "name": "Marc Maron",
-   "priority": 35
   }
  ],
  "run": [
+  {
+   "name": "Daniel Sloss",
+   "priority": 50,
+   "next": {
+    "id": "nycf-daniel-sloss-beacon-2026-11-14",
+    "date": "2026-11-14",
+    "venue": "Beacon Theatre",
+    "days": 9,
+    "featured": false,
+    "poster": false,
+    "demand": null
+   },
+   "cheap_signals": [
+    "Wikipedia: 775 views a day",
+    "Reddit: 5 posts in 30 days, 573 upvotes (top: r/Standup)"
+   ],
+   "reason": "in the decision window and not yet decided"
+  },
   {
    "name": "Adam Ray",
    "priority": 40,
@@ -51,76 +69,66 @@
     "id": "nycf-adam-ray-gramercy-2026-11-06",
     "date": "2026-11-06",
     "venue": "Gramercy Theatre",
-    "days": 2,
+    "days": 1,
     "featured": false,
     "poster": false,
     "demand": null
    },
    "cheap_signals": [
-    "Wikipedia: 358 views a day"
+    "Wikipedia: 356 views a day"
    ],
-   "reason": "show within 3 days and not yet decided"
-  },
-  {
-   "name": "Salma Hindy",
-   "priority": 35,
-   "next": {
-    "id": "salma-hindy-10-years-stand-2026-11-04",
-    "date": "2026-11-04",
-    "venue": "The Stand",
-    "days": 0,
-    "featured": false,
-    "poster": true,
-    "demand": null
-   },
-   "cheap_signals": [],
-   "reason": "show within 3 days and not yet decided"
-  },
-  {
-   "name": "George Willborn",
-   "priority": 35,
-   "next": {
-    "id": "george-willborn-comedy-in-harlem-2026-11-06",
-    "date": "2026-11-06",
-    "venue": "Comedy In Harlem",
-    "days": 2,
-    "featured": false,
-    "poster": true,
-    "demand": null
-   },
-   "cheap_signals": [],
    "reason": "show within 3 days and not yet decided"
   }
  ],
  "reuse": [
   {
+   "name": "Marc Maron",
+   "priority": 75,
+   "cached": {
+    "at": "2026-11-03T11:32:06.765Z",
+    "age_days": 2,
+    "fresh": true,
+    "note": "Two live threads and neither is about New York: a Nov 3 r/PodcastSnarks post on him roasting comics who backed Trump, and a Nov 2 r/SymbyNews item on the Richard Lewis Award at the Comedy Gives Back gala. The rest is a Six Feet Under cameo question and a Pittsburgh spare ticket, so the Beacon Theatre Nov 8 date stands on the venue page."
+   }
+  },
+  {
    "name": "Joanne McNally",
    "priority": 65,
    "cached": {
     "at": "2026-11-03T11:32:01.961Z",
-    "age_days": 1,
+    "age_days": 2,
     "fresh": true,
     "note": "Signal is unchanged from last week and none of it is about the show: an 827-upvote r/entertainment thread Oct 21 on refusing to boycott the Tonight Show over the Conor McGregor interview, plus 275 and 126-upvote r/ireland threads Oct 20 and 21 on her US TV debut. The rest is Celebrity Traitors UK wardrobe talk. The Town Hall Nov 7 Pinotphile taping is the part a reader can act on."
    }
   },
   {
    "name": "Sam Tallent",
-   "priority": 40,
+   "priority": 56,
    "cached": {
     "at": "2026-11-03T11:32:01.925Z",
-    "age_days": 1,
+    "age_days": 2,
     "fresh": true,
     "note": "The live thread is his new book, Brut | Whiskey Ginger, on a current tour: a 38-point r/chubbybehemoth post Oct 30 and a 34-point r/AreYouGarbagePod episode Nov 1 where he talks about developing a show for Foley. Hacker News was a wall of Sam Altman false positives, so his Bell House Nov 5 date stands on the event page and the book tour."
    }
   },
   {
-   "name": "Marc Maron",
-   "priority": 35,
+   "name": "Dewayne Perkins",
+   "priority": 50,
    "cached": {
-    "at": "2026-11-03T11:32:06.765Z",
-    "age_days": 1,
+    "at": "2026-11-03T11:32:01.997Z",
+    "age_days": 2,
     "fresh": true,
-    "note": "Two live threads and neither is about New York: a Nov 3 r/PodcastSnarks post on him roasting comics who backed Trump, and a Nov 2 r/SymbyNews item on the Richard Lewis Award at the Comedy Gives Back gala. The rest is a Six Feet Under cameo question and a Pittsburgh spare ticket, so the Beacon Theatre Nov 8 date stands on the venue page."
+    "note": "The only real signal is a new black queer sketch web series he is in, I Swear We're Friends: 159-upvote r/BlackLGBT posts Oct 8 and 10 on the premiere, then 54 and 41 points Oct 14 and 16 on the first two episodes. Nothing in the window is about the Bell House Nov 9 date, and none of the four threads are from the last seven days, so that pick stands on the event page alone."
+   }
+  },
+  {
+   "name": "Ilana Glazer",
+   "priority": 40,
+   "cached": {
+    "at": "2026-11-03T11:32:06.802Z",
+    "age_days": 2,
+    "fresh": true,
+    "note": "No New York signal: a 107-upvote r/BroadCity post Oct 18 on her Crunch Fitness commercial contest video, an eight-year Broad City anniversary thread, and two posts selling tickets to her October 15 Los Angeles show. The Beacon Theatre Nov 13 date rests on the festival page."
    }
   }
  ],
@@ -143,11 +151,16 @@
   {
    "name": "Ania Magliano",
    "priority": 40,
-   "reason": "next show in 28 days, outside the 10-day window"
+   "reason": "outside the top 10 by cheap ranking"
   },
   {
-   "name": "Ilana Glazer",
+   "name": "George Willborn",
    "priority": 35,
+   "reason": "outside the top 10 by cheap ranking"
+  },
+  {
+   "name": "Jordan Jensen",
+   "priority": 32,
    "reason": "outside the top 10 by cheap ranking"
   },
   {
@@ -156,7 +169,17 @@
    "reason": "outside the top 10 by cheap ranking"
   },
   {
-   "name": "Dewayne Perkins",
+   "name": "Josh Sharp",
+   "priority": 30,
+   "reason": "outside the top 10 by cheap ranking"
+  },
+  {
+   "name": "Matthew Broussard",
+   "priority": 30,
+   "reason": "outside the top 10 by cheap ranking"
+  },
+  {
+   "name": "Jessica Kirson",
    "priority": 30,
    "reason": "outside the top 10 by cheap ranking"
   },
@@ -166,13 +189,18 @@
    "reason": "outside the top 10 by cheap ranking"
   },
   {
+   "name": "Gavin Matts",
+   "priority": 30,
+   "reason": "outside the top 10 by cheap ranking"
+  },
+  {
    "name": "Jess Hilarious",
    "priority": 25,
    "reason": "outside the top 10 by cheap ranking"
   },
   {
-   "name": "Daniel Sloss",
-   "priority": 25,
+   "name": "Michelle Wolf",
+   "priority": 24,
    "reason": "outside the top 10 by cheap ranking"
   },
   {
@@ -196,12 +224,12 @@
    "reason": "outside the top 10 by cheap ranking"
   },
   {
-   "name": "Jaboukie Young-White",
+   "name": "Jake Velazquez",
    "priority": 20,
    "reason": "outside the top 10 by cheap ranking"
   },
   {
-   "name": "Holmes Street",
+   "name": "Mojo Brookzz",
    "priority": 20,
    "reason": "outside the top 10 by cheap ranking"
   },
@@ -216,18 +244,33 @@
    "reason": "outside the top 10 by cheap ranking"
   },
   {
-   "name": "Josh Sharp",
-   "priority": 15,
+   "name": "Gag Reflex",
+   "priority": 20,
    "reason": "outside the top 10 by cheap ranking"
   },
   {
-   "name": "Jordan Jensen",
-   "priority": 15,
+   "name": "Thriving",
+   "priority": 20,
    "reason": "outside the top 10 by cheap ranking"
   },
   {
-   "name": "Jessica Kirson",
-   "priority": 15,
+   "name": "Anxiety",
+   "priority": 20,
+   "reason": "outside the top 10 by cheap ranking"
+  },
+  {
+   "name": "Baron Vaughn",
+   "priority": 20,
+   "reason": "outside the top 10 by cheap ranking"
+  },
+  {
+   "name": "Dr. April Toure",
+   "priority": 20,
+   "reason": "outside the top 10 by cheap ranking"
+  },
+  {
+   "name": "Gabrielle Kennedy",
+   "priority": 20,
    "reason": "outside the top 10 by cheap ranking"
   },
   {
@@ -236,18 +279,8 @@
    "reason": "outside the top 10 by cheap ranking"
   },
   {
-   "name": "Michelle Wolf",
+   "name": "Jaboukie Young-White",
    "priority": 10,
-   "reason": "outside the top 10 by cheap ranking"
-  },
-  {
-   "name": "Jake Velazquez",
-   "priority": 5,
-   "reason": "outside the top 10 by cheap ranking"
-  },
-  {
-   "name": "Matthew Broussard",
-   "priority": 5,
    "reason": "outside the top 10 by cheap ranking"
   },
   {
@@ -286,17 +319,7 @@
    "reason": "outside the top 10 by cheap ranking"
   },
   {
-   "name": "Gavin Matts",
-   "priority": 5,
-   "reason": "outside the top 10 by cheap ranking"
-  },
-  {
    "name": "Clint Coley",
-   "priority": 5,
-   "reason": "outside the top 10 by cheap ranking"
-  },
-  {
-   "name": "Homeward Bound",
    "priority": 5,
    "reason": "outside the top 10 by cheap ranking"
   },
@@ -304,17 +327,9 @@
    "name": "Tone",
    "priority": 5,
    "reason": "outside the top 10 by cheap ranking"
-  },
-  {
-   "name": "Mojo Brookzz",
-   "priority": 0,
-   "reason": "outside the top 10 by cheap ranking"
   }
  ],
- "estimated_tokens_saved": 360000,
- "estimate_basis": "9000 tokens per last30days run, 40 runs avoided out of 43",
- "no_recent_data": [
-  "Salma Hindy",
-  "George Willborn"
- ]
+ "estimated_tokens_saved": 396000,
+ "estimate_basis": "9000 tokens per last30days run, 44 runs avoided out of 46",
+ "no_recent_data": []
 }
