@@ -211,6 +211,22 @@ if (fs.existsSync(archiveDir)) {
   if (!linksData.updated || linksData.updated < new Date(Date.now() - 14 * 864e5).toISOString().slice(0, 10)) warn(`links.json: updated ${linksData.updated || 'never'}; review the link-in-bio page and bump "updated"`);
 }
 
+// The Instagram caption must fit under Instagram's 2200-character limit. A crowded night
+// with ten picks once produced a 2,427-character caption and the publish failed with
+// "The caption was too long." See scripts/caption.js.
+{
+  const { tonightCaption, LIMIT } = require('./caption.js');
+  const { selectTonight } = require('./tonight-set.js');
+  const byName = new Map(venues.map((v) => [v.name, v]));
+  const days = [...new Set(picks.map((p) => p.date))].filter((d) => d >= new Intl.DateTimeFormat('en-CA', { timeZone: 'America/New_York' }).format(new Date())).sort();
+  for (const day of days) {
+    const list = selectTonight(picks, byName, day, { mix: true });
+    if (!list.length) continue;
+    const { caption } = tonightCaption(list, day);
+    if (caption.length > LIMIT) fail(`caption ${day}: ${caption.length} characters, over Instagram's ${LIMIT}-character limit`);
+  }
+}
+
 // Every page in the sitemap must exist in web/, and every HTML page must be in the sitemap.
 const sitemap = fs.readFileSync(path.join(root, 'sitemap.xml'), 'utf8');
 const locs = [...sitemap.matchAll(/<loc>https:\/\/standupcomedynyc\.com\/([^<]*)<\/loc>/g)].map((m) => m[1] || 'index.html');
@@ -236,6 +252,7 @@ const jsFiles = [
   path.join(root, 'scripts', 'research-plan.js'),
   path.join(root, 'scripts', 'calendar.js'),
   path.join(root, 'scripts', 'blurb.js'),
+  path.join(root, 'scripts', 'caption.js'),
   path.join(root, 'scripts', 'tonight-set.js'),
   path.join(root, 'scripts', 'ig-card.js'),
   path.join(root, 'scripts', 'ig-post.js'),

@@ -36,6 +36,7 @@ const picks = JSON.parse(fs.readFileSync(path.join(root, 'web', 'data', 'picks.j
 const venuesByName = new Map(JSON.parse(fs.readFileSync(path.join(root, 'web', 'data', 'venues.json'), 'utf8')).map((v) => [v.name, v]));
 const { selectTonight } = require('./tonight-set.js');
 const { firstSentence } = require('./blurb.js');
+const { tonightCaption, LIMIT } = require('./caption.js');
 const log = fs.existsSync(logFile) ? JSON.parse(fs.readFileSync(logFile, 'utf8')) : [];
 // The URL carries a content hash so Instagram and the CDN never reuse a cached copy of an older render.
 const crypto = require('crypto');
@@ -104,6 +105,9 @@ async function publish(kind, items, caption, meta) {
     }
   }
   if (dryRun) { console.log(`[dry-run] ${kind}\n  ${items.join('\n  ')}\n--- caption ---\n${caption}\n--- end ---`); return null; }
+  // Instagram rejects a caption over 2200 characters. Fail loudly before the API call
+  // rather than after Instagram has already created the carousel container.
+  if (caption.length > LIMIT) { console.error(`ig-post: caption is ${caption.length} characters, over Instagram's ${LIMIT}-character limit`); process.exit(1); }
   const startedAt = new Date().toISOString();
   let container;
   if (kind === 'carousel') {
@@ -169,7 +173,12 @@ const credits = (list) => { const c = [...new Set(list.filter((p) => p.poster &&
     if (missing.length) { console.error(`ig-post: cards not rendered yet: ${missing.join(', ')} (run npm run ig-card -- --tonight, commit and push first)`); process.exit(1); }
     const kind = args.story ? 'story' : 'carousel';
     if (!dryRun && alreadyToday(list.map((p) => p.id), kind)) { console.error('ig-post: tonight already posted today'); process.exit(1); }
-    const caption = args.caption || `${weekdayOf(day)} night. ${bets(list.length)}\n\n${list.map((p) => `${clock(p)} — ${p.title.toUpperCase()}\n${p.venue}, ${p.neighborhood}${p.demand === 'sold_out' ? ' · sold out' : p.demand === 'going_fast' ? ' · going fast' : ''}${p.sponsored ? ' · paid listing' : ''}\n${blurb(p)}`).join('\n\n')}\n\nFull board + tickets → link in bio. NYC comedy tonight, ${p0(list)}.${credits(list)}\n\n${hashtags}`;
+    const caption = args.caption || (() => {
+      const { caption, cap, dropped } = tonightCaption(list, day);
+      if (dropped.length) console.error(`ig-post: caption over ${LIMIT} chars; dropped the blurb for ${dropped.join(', ')}`);
+      else if (cap < 240) console.error(`ig-post: caption over ${LIMIT} chars at blurb cap ${cap}`);
+      return caption;
+    })();
     await publish(kind, args.story ? [cardUrl(ids[0])] : ids.map(cardUrl), caption, { picks: list.map((p) => p.id), date: day });
     return;
   }
