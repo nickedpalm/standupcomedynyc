@@ -1709,5 +1709,17 @@
   "eventbrite_organizer": "https://www.eventbrite.com/o/flop-house-comedy-74484939183",
   "verified_at": "2026-11-05",
   "note": "Address from the venue's own footer (\"201 Allen St\") and from the producer's Eventbrite listing (\"201 Allen Street #Store 2\"). Neighborhood Lower East Side from the address, which the room's own Instagram calls East Village."
+ },
+ {
+  "name": "720 Strength Lower East Side",
+  "address": "36 Ludlow St, Manhattan",
+  "neighborhood": "Lower East Side",
+  "borough": "Manhattan",
+  "website": "https://720strengthlowereast.com/",
+  "calendar_url": "https://720strengthlowereast.com/720-strength-class-schedule/",
+  "source_label": "Venue site (address on its own contact page)",
+  "access_note": "Strength gym on Ludlow Street that hosts a monthly comedy showcase. Tickets through Clyx; BYOB, 21+.",
+  "verified_at": "2026-11-06",
+  "note": "720 Strength Lower East Side, 36 Ludlow Street, New York, NY 10002. Address and neighborhood from the venue's own contact page."
  }
 ]
