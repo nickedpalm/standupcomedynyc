@@ -2469,7 +2469,7 @@
  },
  {
   "event_id": "jessie-jetski-johnson-union-hall-2026-11-05",
-  "src": "/assets/posters/jessie-jetski-johnson-union-hall-2026-11-05.jpg",
+  "src": "/assets/posters/archive/jessie-jetski-johnson-union-hall-2026-11-05.jpg",
   "width": 1880,
   "height": 940,
   "source_url": "https://www.eventbrite.com/e/jessie-jetski-johnson-tickets-2001894311776",
@@ -2480,7 +2480,8 @@
   "retrieved_at": "2026-10-29",
   "bytes": 88411,
   "sha256": "f8f44349fc7c95164820af5793a4ec2d386a561c7a5df0013d0897946abbd6b2",
-  "reuse_status": "Official promotional artwork; no separate reuse license identified. Local review draft only."
+  "reuse_status": "Official promotional artwork; no separate reuse license identified. Local review draft only.",
+  "archived": true
  },
  {
   "event_id": "skintag-and-friends-union-hall-2026-11-06",
@@ -2634,7 +2635,7 @@
  },
  {
   "event_id": "angelo-colina-comedy-in-harlem-2026-11-05",
-  "src": "/assets/posters/angelo-colina-comedy-in-harlem-2026-11-05.png",
+  "src": "/assets/posters/archive/angelo-colina-comedy-in-harlem-2026-11-05.png",
   "width": 600,
   "height": 600,
   "source_url": "https://www.comedyinharlem.com/events/145845",
@@ -2645,11 +2646,12 @@
   "retrieved_at": "2026-10-29",
   "bytes": 643439,
   "sha256": "c8eeb798c64a156e856c365bdbf0006a02e985eb1cb2debddafe1b8c865ff3e5",
-  "reuse_status": "Official promotional artwork; no separate reuse license identified. Local review draft only."
+  "reuse_status": "Official promotional artwork; no separate reuse license identified. Local review draft only.",
+  "archived": true
  },
  {
   "event_id": "corinne-fisher-eastville-2026-11-05",
-  "src": "/assets/posters/corinne-fisher-eastville-2026-11-05.jpg",
+  "src": "/assets/posters/archive/corinne-fisher-eastville-2026-11-05.jpg",
   "width": 660,
   "height": 660,
   "source_url": "https://www.eastvillecomedy.com/events/corinne-fisher-priya-blunts-peter-stewart-rosey-catherine-lauren-cocroft-peter-gurl-kyle-mara",
@@ -2660,7 +2662,8 @@
   "retrieved_at": "2026-10-29",
   "bytes": 30192,
   "sha256": "2e5970b43a0fa03b8deb6dab8e35025ae3d2ebdf71da62f5f99882c525c9c16a",
-  "reuse_status": "Official promotional artwork; no separate reuse license identified. Local review draft only."
+  "reuse_status": "Official promotional artwork; no separate reuse license identified. Local review draft only.",
+  "archived": true
  },
  {
   "event_id": "nore-davis-eastville-2026-11-07",
@@ -2877,7 +2880,7 @@
  },
  {
   "event_id": "uesc-nycs-best-weekly-thursday-2026-11-05",
-  "src": "/assets/posters/uesc-nycs-best-weekly-thursday-2026-11-05.webp",
+  "src": "/assets/posters/archive/uesc-nycs-best-weekly-thursday-2026-11-05.webp",
   "width": 5648,
   "height": 7424,
   "source_url": "https://www.uppereastsidecomedyclub.com/comedy-shows-bedfordfalls-nyc",
@@ -2888,7 +2891,8 @@
   "retrieved_at": "2026-10-31",
   "bytes": 8394,
   "sha256": "7ed5efacf91db9846c64982ba3f61c8c6dd47a34d0c51b9b1cecbd41e2c57eda",
-  "reuse_status": "Official promotional artwork; no separate reuse license identified. Local review draft only."
+  "reuse_status": "Official promotional artwork; no separate reuse license identified. Local review draft only.",
+  "archived": true
  },
  {
   "event_id": "peyton-ruddy-union-hall-2026-11-02",
