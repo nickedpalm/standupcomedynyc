@@ -168,6 +168,10 @@ const credits = (list) => { const c = [...new Set(list.filter((p) => p.poster &&
     const list = selectTonight(picks, venuesByName, day, { mix: !args['no-mix'] });
     if (!list.length) { console.error(`ig-post: no picks with tickets left on ${day}`); process.exit(1); }
     const storyId = 'story-' + day;
+    // Instagram allows 10 carousel items and the cover takes one, so the carousel carries
+    // the cover plus 9 pick cards. The caption below lists every show on tonight's board --
+    // the caption is the full rundown, the cards are the scroll. Both counts are printed
+    // from the same list, so the cover's count and the caption's count always agree.
     const ids = args.story && cardExists(storyId) ? [storyId] : ['tonight-' + day, ...list.slice(0, 9).map((p) => p.id)];
     const missing = ids.filter((id) => !cardExists(id));
     if (missing.length) { console.error(`ig-post: cards not rendered yet: ${missing.join(', ')} (run npm run ig-card -- --tonight, commit and push first)`); process.exit(1); }
