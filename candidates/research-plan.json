@@ -1,11 +1,7 @@
 {
- "generated_at": "2026-11-05T11:43:08.199Z",
- "performers_considered": 46,
+ "generated_at": "2026-11-06T14:41:30.364Z",
+ "performers_considered": 45,
  "shortlist": [
-  {
-   "name": "Nori Reed",
-   "priority": 130
-  },
   {
    "name": "Maddy Kelly",
    "priority": 120
@@ -23,12 +19,8 @@
    "priority": 65
   },
   {
-   "name": "Sam Tallent",
-   "priority": 56
-  },
-  {
    "name": "Dewayne Perkins",
-   "priority": 50
+   "priority": 65
   },
   {
    "name": "Daniel Sloss",
@@ -41,6 +33,14 @@
   {
    "name": "Ilana Glazer",
    "priority": 40
+  },
+  {
+   "name": "Ania Magliano",
+   "priority": 40
+  },
+  {
+   "name": "George Willborn",
+   "priority": 35
   }
  ],
  "run": [
@@ -51,33 +51,16 @@
     "id": "nycf-daniel-sloss-beacon-2026-11-14",
     "date": "2026-11-14",
     "venue": "Beacon Theatre",
-    "days": 9,
+    "days": 8,
     "featured": false,
     "poster": false,
     "demand": null
    },
    "cheap_signals": [
-    "Wikipedia: 775 views a day",
-    "Reddit: 5 posts in 30 days, 573 upvotes (top: r/Standup)"
+    "Wikipedia: 793 views a day",
+    "Reddit: 5 posts in 30 days, 572 upvotes (top: r/Standup)"
    ],
    "reason": "in the decision window and not yet decided"
-  },
-  {
-   "name": "Adam Ray",
-   "priority": 40,
-   "next": {
-    "id": "nycf-adam-ray-gramercy-2026-11-06",
-    "date": "2026-11-06",
-    "venue": "Gramercy Theatre",
-    "days": 1,
-    "featured": false,
-    "poster": false,
-    "demand": null
-   },
-   "cheap_signals": [
-    "Wikipedia: 356 views a day"
-   ],
-   "reason": "show within 3 days and not yet decided"
   }
  ],
  "reuse": [
@@ -86,7 +69,7 @@
    "priority": 75,
    "cached": {
     "at": "2026-11-03T11:32:06.765Z",
-    "age_days": 2,
+    "age_days": 3.1,
     "fresh": true,
     "note": "Two live threads and neither is about New York: a Nov 3 r/PodcastSnarks post on him roasting comics who backed Trump, and a Nov 2 r/SymbyNews item on the Richard Lewis Award at the Comedy Gives Back gala. The rest is a Six Feet Under cameo question and a Pittsburgh spare ticket, so the Beacon Theatre Nov 8 date stands on the venue page."
    }
@@ -96,29 +79,29 @@
    "priority": 65,
    "cached": {
     "at": "2026-11-03T11:32:01.961Z",
-    "age_days": 2,
+    "age_days": 3.1,
     "fresh": true,
     "note": "Signal is unchanged from last week and none of it is about the show: an 827-upvote r/entertainment thread Oct 21 on refusing to boycott the Tonight Show over the Conor McGregor interview, plus 275 and 126-upvote r/ireland threads Oct 20 and 21 on her US TV debut. The rest is Celebrity Traitors UK wardrobe talk. The Town Hall Nov 7 Pinotphile taping is the part a reader can act on."
    }
   },
   {
-   "name": "Sam Tallent",
-   "priority": 56,
+   "name": "Dewayne Perkins",
+   "priority": 65,
    "cached": {
-    "at": "2026-11-03T11:32:01.925Z",
-    "age_days": 2,
+    "at": "2026-11-03T11:32:01.997Z",
+    "age_days": 3.1,
     "fresh": true,
-    "note": "The live thread is his new book, Brut | Whiskey Ginger, on a current tour: a 38-point r/chubbybehemoth post Oct 30 and a 34-point r/AreYouGarbagePod episode Nov 1 where he talks about developing a show for Foley. Hacker News was a wall of Sam Altman false positives, so his Bell House Nov 5 date stands on the event page and the book tour."
+    "note": "The only real signal is a new black queer sketch web series he is in, I Swear We're Friends: 159-upvote r/BlackLGBT posts Oct 8 and 10 on the premiere, then 54 and 41 points Oct 14 and 16 on the first two episodes. Nothing in the window is about the Bell House Nov 9 date, and none of the four threads are from the last seven days, so that pick stands on the event page alone."
    }
   },
   {
-   "name": "Dewayne Perkins",
-   "priority": 50,
+   "name": "Adam Ray",
+   "priority": 40,
    "cached": {
-    "at": "2026-11-03T11:32:01.997Z",
-    "age_days": 2,
+    "at": "2026-11-06T11:54:35.831Z",
+    "age_days": 0.1,
     "fresh": true,
-    "note": "The only real signal is a new black queer sketch web series he is in, I Swear We're Friends: 159-upvote r/BlackLGBT posts Oct 8 and 10 on the premiere, then 54 and 41 points Oct 14 and 16 on the first two episodes. Nothing in the window is about the Bell House Nov 9 date, and none of the four threads are from the last seven days, so that pick stands on the event page alone."
+    "note": "Reddit is in his orbit through Kill Tony rather than his New York hour: a 647-upvote r/Killtony thread on Nov 4 thanking him for calling out a comedian over DEI, plus an 89-point 'new character unlocked' post on Oct 20; Hacker News is silent and two of the hits are name collisions (a Cox Charter merger exec and a Rays baseball thread), so the Gramercy Theatre Nov 6 festival hour stands on the festival page."
    }
   },
   {
@@ -126,18 +109,23 @@
    "priority": 40,
    "cached": {
     "at": "2026-11-03T11:32:06.802Z",
-    "age_days": 2,
+    "age_days": 3.1,
     "fresh": true,
     "note": "No New York signal: a 107-upvote r/BroadCity post Oct 18 on her Crunch Fitness commercial contest video, an eight-year Broad City anniversary thread, and two posts selling tickets to her October 15 Los Angeles show. The Beacon Theatre Nov 13 date rests on the festival page."
+   }
+  },
+  {
+   "name": "George Willborn",
+   "priority": 35,
+   "cached": {
+    "at": "2026-11-06T11:55:55.202Z",
+    "age_days": 0.1,
+    "fresh": true,
+    "note": "Nothing at all in 30 days: the single hit is George Orwell's essay on the Orwell Foundation site, a plain name collision, and Reddit returned no relevant threads, so the Comedy In Harlem Nov 6 headlining set stands on the club's own event page."
    }
   }
  ],
  "skip": [
-  {
-   "name": "Nori Reed",
-   "priority": 130,
-   "reason": "already sold out; research cannot change the call"
-  },
   {
    "name": "Maddy Kelly",
    "priority": 120,
@@ -151,11 +139,11 @@
   {
    "name": "Ania Magliano",
    "priority": 40,
-   "reason": "outside the top 10 by cheap ranking"
+   "reason": "next show in 26 days, outside the 10-day window"
   },
   {
-   "name": "George Willborn",
-   "priority": 35,
+   "name": "Michelle Wolf",
+   "priority": 34,
    "reason": "outside the top 10 by cheap ranking"
   },
   {
@@ -199,16 +187,6 @@
    "reason": "outside the top 10 by cheap ranking"
   },
   {
-   "name": "Michelle Wolf",
-   "priority": 24,
-   "reason": "outside the top 10 by cheap ranking"
-  },
-  {
-   "name": "Critical Grace Theory",
-   "priority": 20,
-   "reason": "outside the top 10 by cheap ranking"
-  },
-  {
    "name": "Ester Steinberg",
    "priority": 20,
    "reason": "outside the top 10 by cheap ranking"
@@ -224,22 +202,22 @@
    "reason": "outside the top 10 by cheap ranking"
   },
   {
+   "name": "Casey",
+   "priority": 20,
+   "reason": "outside the top 10 by cheap ranking"
+  },
+  {
+   "name": "Friends Named Casey",
+   "priority": 20,
+   "reason": "outside the top 10 by cheap ranking"
+  },
+  {
    "name": "Jake Velazquez",
    "priority": 20,
    "reason": "outside the top 10 by cheap ranking"
   },
   {
    "name": "Mojo Brookzz",
-   "priority": 20,
-   "reason": "outside the top 10 by cheap ranking"
-  },
-  {
-   "name": "Nerd Nite",
-   "priority": 20,
-   "reason": "outside the top 10 by cheap ranking"
-  },
-  {
-   "name": "One Man Funeral",
    "priority": 20,
    "reason": "outside the top 10 by cheap ranking"
   },
@@ -327,9 +305,19 @@
    "name": "Tone",
    "priority": 5,
    "reason": "outside the top 10 by cheap ranking"
+  },
+  {
+   "name": "Holly Miranda",
+   "priority": 5,
+   "reason": "outside the top 10 by cheap ranking"
+  },
+  {
+   "name": "Melissa Ferrick",
+   "priority": 5,
+   "reason": "outside the top 10 by cheap ranking"
   }
  ],
  "estimated_tokens_saved": 396000,
- "estimate_basis": "9000 tokens per last30days run, 44 runs avoided out of 46",
+ "estimate_basis": "9000 tokens per last30days run, 44 runs avoided out of 45",
  "no_recent_data": []
 }

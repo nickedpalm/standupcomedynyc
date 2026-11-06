@@ -1,5 +1,5 @@
 {
- "retrieved_at": "2026-11-05T11:01:42.082Z",
+ "retrieved_at": "2026-11-06T11:01:59.219Z",
  "note": "Promoter posts from NYC neighborhood subreddits, last 14 days. Leads only: open the linked page or the venue site before anything enters the data; register the venue first.",
  "subreddits": [
   "nycevents",
@@ -27,6 +27,114 @@
  ],
  "leads": [
   {
+   "id": "1xolvdv",
+   "date": "2026-11-05",
+   "subreddit": "nycevents",
+   "title": "Comedy Show Inside a Ludlow St GYM THIS SATURDAY 11/7!",
+   "score": 3,
+   "comments": 1,
+   "url": "https://www.reddit.com/r/nycevents/comments/1xolvdv/comedy_show_inside_a_ludlow_st_gym_this_saturday/",
+   "venues_mentioned": [],
+   "when_mentioned": "SATURDAY 11/7",
+   "time_mentioned": "7pm",
+   "links": [
+    "https://www.google.com/maps/place/720+Strength+Lower+East+Side/@40.716001,-73.9927479,17z/data=!3m1!4b1!4m6!3m5!1s0x89c25bd92046ae97:0x1e54f4643d17223c!8m2!3d40.716001!4d-73.990173!16s%2Fg%2F11y394drsb?entry=ttu&amp;g_ep=EgoyMDI2MDkxNC4wIKXMDSoASAFQAw%3D%3D",
+    "https://clyx.com/feed/leg-day-comedy-12"
+   ],
+   "free": false,
+   "new_since_last_run": true,
+   "excerpt": "Come check out a comedy show at a GYM on the Lower East Side THIS SATURDAY 11/7 at 7pm! Unbelievable lineup (flyer attached). BYOB. Venue: [720 Strength Lower East Side (36 Ludlow Street)](https://www.google.com/maps/place/720+Strength+Lower+East+Side/@40.716001,-73.9927479,17z/d"
+  },
+  {
+   "id": "1xolxbk",
+   "date": "2026-11-05",
+   "subreddit": "nycComedy",
+   "title": "Comedy Show at a LES GYM THIS SATURDAY 11/7!",
+   "score": 2,
+   "comments": 0,
+   "url": "https://www.reddit.com/r/nycComedy/comments/1xolxbk/comedy_show_at_a_les_gym_this_saturday_117/",
+   "venues_mentioned": [],
+   "when_mentioned": "SATURDAY 11/7",
+   "time_mentioned": "7pm",
+   "links": [
+    "https://clyx.com/feed/leg-day-comedy-12**",
+    "https://clyx.com/feed/leg-day-comedy-12"
+   ],
+   "free": false,
+   "new_since_last_run": true,
+   "excerpt": "Hi guys!! I run a monthly comedy show called Leg Day Comedy inside a GYM -- 720 Strength at 36 Ludlow St. We're back **this Saturday 11/7 at 7pm** with a bunch of great NYC comics. It's BYOB and runs about 80 minutes. **Lineup:** Amber Singletary Peter Revello Casey Balsham Gray "
+  },
+  {
+   "id": "1xoscbr",
+   "date": "2026-11-05",
+   "subreddit": "williamsburg",
+   "title": "haiders mutual aid comedy show @ Greenpoint Comedy Club benefiting North Brooklyn Mutual Aid",
+   "score": 1,
+   "comments": 0,
+   "url": "https://www.reddit.com/r/williamsburg/comments/1xoscbr/haiders_mutual_aid_comedy_show_greenpoint_comedy/",
+   "venues_mentioned": [
+    "Greenpoint Comedy Club"
+   ],
+   "when_mentioned": null,
+   "time_mentioned": null,
+   "links": [],
+   "free": false,
+   "new_since_last_run": true,
+   "excerpt": ""
+  },
+  {
+   "id": "1xoltsj",
+   "date": "2026-11-05",
+   "subreddit": "lowereastside",
+   "title": "Comedy Show Inside a Ludlow St GYM THIS SATURDAY 11/7!",
+   "score": 1,
+   "comments": 0,
+   "url": "https://www.reddit.com/r/lowereastside/comments/1xoltsj/comedy_show_inside_a_ludlow_st_gym_this_saturday/",
+   "venues_mentioned": [],
+   "when_mentioned": "SATURDAY 11/7",
+   "time_mentioned": "7pm",
+   "links": [
+    "https://clyx.com/feed/leg-day-comedy-12"
+   ],
+   "free": false,
+   "new_since_last_run": true,
+   "excerpt": "Hi guys!! I run a monthly comedy show called Leg Day Comedy inside a GYM -- 720 Strength at 36 Ludlow St. We're back **this Saturday 11/7 at 7pm** with a bunch of great NYC comics. It's BYOB and runs about 80 minutes. If you're around and looking for something to do, come by! Wou"
+  },
+  {
+   "id": "1xojj3c",
+   "date": "2026-11-05",
+   "subreddit": "parkslope",
+   "title": "This weekend Park Slopers can walk to see John Turturro, Spike and Questlove @ BAM, the Gowanus banjo-tossing competition, and a slew of big acts performing as part of the NY Comedy Fest.",
+   "score": 13,
+   "comments": 0,
+   "url": "https://www.reddit.com/r/parkslope/comments/1xojj3c/this_weekend_park_slopers_can_walk_to_see_john/",
+   "venues_mentioned": [],
+   "when_mentioned": null,
+   "time_mentioned": null,
+   "links": [],
+   "free": false,
+   "new_since_last_run": true,
+   "excerpt": ""
+  },
+  {
+   "id": "1xosbbd",
+   "date": "2026-11-05",
+   "subreddit": "Greenpoint",
+   "title": "haiders mutual aid comedy show @ Greenpoint Comedy Club benefiting North Brooklyn Mutual Aid",
+   "score": 1,
+   "comments": 0,
+   "url": "https://www.reddit.com/r/Greenpoint/comments/1xosbbd/haiders_mutual_aid_comedy_show_greenpoint_comedy/",
+   "venues_mentioned": [
+    "Greenpoint Comedy Club"
+   ],
+   "when_mentioned": "Sunday 12/6 at 7pm at Greenpoint Comedy Club",
+   "time_mentioned": "7pm",
+   "links": [],
+   "free": false,
+   "new_since_last_run": true,
+   "excerpt": "Hey Greenpoint! I'm producing a mutual aid comedy show on Sunday 12/6 at 7pm at Greenpoint Comedy Club. The lineup is solid and features Jake Cornell, Orion Levine, James Tom, Claire Parker, and Juicy Mawma. All proceeds benefit North Brooklyn Mutual Aid! Hope to see you there. I"
+  },
+  {
    "id": "1xnuhs8",
    "date": "2026-11-04",
    "subreddit": "nycevents",
@@ -34,12 +142,14 @@
    "score": 1,
    "comments": 0,
    "url": "https://www.reddit.com/r/nycevents/comments/1xnuhs8/10_comedy_show_in_les/",
-   "venues_mentioned": [],
+   "venues_mentioned": [
+    "Tipsy Village"
+   ],
    "when_mentioned": null,
    "time_mentioned": null,
    "links": [],
    "free": false,
-   "new_since_last_run": true,
+   "new_since_last_run": false,
    "excerpt": "$10 comedy show in LES @Tipsy Village 11/5 at 830pm. Classic comedy show with a fun twist. Come on out, enjoy yourself and meet some awesome people!"
   },
   {
@@ -59,7 +169,7 @@
     "https://caveat.nyc/events/drunk-black-history-new-york-comedy-festival-edition-2026-11-07"
    ],
    "free": false,
-   "new_since_last_run": true,
+   "new_since_last_run": false,
    "excerpt": "Saturday!!! We're learning, laughing, and day drinking at #drunkblackhistory! As part of the 2026 #NewYorkComedyFestival Saturday, November 7th Caveat NYC 1:30pm Tickets ($25+) are still available at [https://caveat.nyc/events/drunk-black-history-new-york-comedy-festival-edition-"
   },
   {
@@ -90,12 +200,14 @@
    "score": 1,
    "comments": 0,
    "url": "https://www.reddit.com/r/nycComedy/comments/1xnud46/10_comedy_show_in_les/",
-   "venues_mentioned": [],
+   "venues_mentioned": [
+    "Tipsy Village"
+   ],
    "when_mentioned": null,
    "time_mentioned": null,
    "links": [],
    "free": false,
-   "new_since_last_run": true,
+   "new_since_last_run": false,
    "excerpt": "$10 Comedy Show at Tipsy Village in LES on 11/5 at 830. Classic comedy show with a fun twist. Come on out, enjoy yourself and meet some great people:)"
   },
   {
@@ -123,15 +235,17 @@
    "date": "2026-11-04",
    "subreddit": "lowereastside",
    "title": "$10 Comedy Show @Tipsy Village",
-   "score": 1,
+   "score": 0,
    "comments": 0,
    "url": "https://www.reddit.com/r/lowereastside/comments/1xnum4m/10_comedy_show_tipsy_village/",
-   "venues_mentioned": [],
+   "venues_mentioned": [
+    "Tipsy Village"
+   ],
    "when_mentioned": null,
    "time_mentioned": null,
    "links": [],
    "free": false,
-   "new_since_last_run": true,
+   "new_since_last_run": false,
    "excerpt": "$10 Comedy show at Tipsy Village 11/5 @830. Classic comedy show with a fun twist. Come hang out, enjoy yourself and meet some awesome people!!:)"
   },
   {
@@ -175,8 +289,8 @@
    "date": "2026-11-04",
    "subreddit": "crownheights",
    "title": "Crown Heights November Weekly Events Thread - 11/4-11/11",
-   "score": 22,
-   "comments": 4,
+   "score": 34,
+   "comments": 5,
    "url": "https://www.reddit.com/r/crownheights/comments/1xo3hf6/crown_heights_november_weekly_events_thread/",
    "venues_mentioned": [
     "The Corner Store",
@@ -190,7 +304,7 @@
     "https://www.cafeconlibrosbk.com/event-info/author-talk-the-black-madonna-with-dr-christena-cleveland"
    ],
    "free": true,
-   "new_since_last_run": true,
+   "new_since_last_run": false,
    "excerpt": "Happy November! Hope everyone's recovered from the weekend. Don't worry, no mods were harmed in the making of this list, though I'm taking up Taekwondo for reasons unrelated to having to walk past [that corner on eastern](https://www.reddit.com/r/crownheights/comments/1xjut2c/hey"
   },
   {
@@ -444,7 +558,7 @@
    "date": "2026-10-29",
    "subreddit": "astoria",
    "title": "Musical Comedy Night Thurs, Oct 29th @ Grove 34",
-   "score": 6,
+   "score": 7,
    "comments": 0,
    "url": "https://www.reddit.com/r/astoria/comments/1xi7ub7/musical_comedy_night_thurs_oct_29th_grove_34/",
    "venues_mentioned": [
@@ -462,7 +576,7 @@
    "date": "2026-10-29",
    "subreddit": "eastvillage",
    "title": "Who remembers Rififi Lounge?",
-   "score": 13,
+   "score": 11,
    "comments": 1,
    "url": "https://www.reddit.com/r/eastvillage/comments/1xilzcq/who_remembers_rififi_lounge/",
    "venues_mentioned": [],
@@ -526,7 +640,7 @@
    "date": "2026-10-28",
    "subreddit": "Greenpoint",
    "title": "Come to Rose''s R&amp;R Bar tonight 10/28 for Free Comedy!",
-   "score": 4,
+   "score": 3,
    "comments": 0,
    "url": "https://www.reddit.com/r/Greenpoint/comments/1xhw27f/come_to_roses_rr_bar_tonight_1028_for_free_comedy/",
    "venues_mentioned": [],
@@ -698,7 +812,7 @@
    "date": "2026-10-24",
    "subreddit": "astoria",
    "title": "Astoria Comedy TONIGHT!",
-   "score": 4,
+   "score": 3,
    "comments": 0,
    "url": "https://www.reddit.com/r/astoria/comments/1xefwag/astoria_comedy_tonight/",
    "venues_mentioned": [
@@ -718,7 +832,7 @@
    "date": "2026-10-24",
    "subreddit": "AskNYC",
    "title": "How do you hear about things to do/see/hear?",
-   "score": 17,
+   "score": 18,
    "comments": 24,
    "url": "https://www.reddit.com/r/AskNYC/comments/1xemttu/how_do_you_hear_about_things_to_doseehear/",
    "venues_mentioned": [],
@@ -750,7 +864,7 @@
    "date": "2026-10-24",
    "subreddit": "longislandcity",
    "title": "New to LIC, How to make friends?",
-   "score": 40,
+   "score": 42,
    "comments": 80,
    "url": "https://www.reddit.com/r/longislandcity/comments/1xeh6w2/new_to_lic_how_to_make_friends/",
    "venues_mentioned": [
@@ -852,60 +966,6 @@
    "free": false,
    "new_since_last_run": false,
    "excerpt": "Last night, Stewards of McCarren Park (the new official Friends group for McCarren Park) hosted Trash Comedy Night alongside the North Brooklyn Chess Club! We aimed to raise $1200 by getting folks together for some solid laughs with a great lineup of comedians. We ended up raisin"
-  },
-  {
-   "id": "1xcmidj",
-   "date": "2026-10-22",
-   "subreddit": "nycevents",
-   "title": "J.P. McDade Headlines Popcorn Comedy at Oliver’s Astoria Friday (Oct 23 @ 8pm)!",
-   "score": 1,
-   "comments": 0,
-   "url": "https://www.reddit.com/r/nycevents/comments/1xcmidj/jp_mcdade_headlines_popcorn_comedy_at_olivers/",
-   "venues_mentioned": [],
-   "when_mentioned": "Friday (Oct 23 @ 8pm)",
-   "time_mentioned": "8pm",
-   "links": [
-    "https://www.eventbrite.com/e/popcorn-comedy-with-jp-mcdade-tickets-2003322743253"
-   ],
-   "free": false,
-   "new_since_last_run": false,
-   "excerpt": "We’d love to see you there! Code POPCORN for $5 off! https://www.eventbrite.com/e/popcorn-comedy-with-jp-mcdade-tickets-2003322743253"
-  },
-  {
-   "id": "1xcmoip",
-   "date": "2026-10-22",
-   "subreddit": "astoria",
-   "title": "J.P. McDade Headlines Popcorn Comedy at Oliver’s Astoria Friday (Oct 23 @ 8pm)!",
-   "score": 2,
-   "comments": 0,
-   "url": "https://www.reddit.com/r/astoria/comments/1xcmoip/jp_mcdade_headlines_popcorn_comedy_at_olivers/",
-   "venues_mentioned": [],
-   "when_mentioned": "Friday (Oct 23 @ 8pm)",
-   "time_mentioned": "8pm",
-   "links": [
-    "https://www.eventbrite.com/e/popcorn-comedy-with-jp-mcdade-tickets-2003322743253"
-   ],
-   "free": false,
-   "new_since_last_run": false,
-   "excerpt": "We’d love to see you there if you’re looking for Friday plans! You can use code POPCORN for 5 bucks off! https://www.eventbrite.com/e/popcorn-comedy-with-jp-mcdade-tickets-2003322743253"
-  },
-  {
-   "id": "1xcmd5k",
-   "date": "2026-10-22",
-   "subreddit": "longislandcity",
-   "title": "J.P. McDade Headlines Popcorn Comedy at Oliver’s Astoria Friday (Oct 23 @ 8pm)!",
-   "score": 3,
-   "comments": 0,
-   "url": "https://www.reddit.com/r/longislandcity/comments/1xcmd5k/jp_mcdade_headlines_popcorn_comedy_at_olivers/",
-   "venues_mentioned": [],
-   "when_mentioned": "Friday (Oct 23 @ 8pm)",
-   "time_mentioned": "8pm",
-   "links": [
-    "https://www.eventbrite.com/e/popcorn-comedy-with-jp-mcdade-tickets-2003322743253"
-   ],
-   "free": false,
-   "new_since_last_run": false,
-   "excerpt": "We’d love to see you there if you’re looking for Friday plans! You can use code POPCORN for 5 bucks off! https://www.eventbrite.com/e/popcorn-comedy-with-jp-mcdade-tickets-2003322743253"
   }
  ]
 }
