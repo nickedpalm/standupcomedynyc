@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-06T14:41:08.513Z",
+ "generated_at": "2026-11-06T19:15:14.920Z",
  "note": "Demand signals for the editor. Only availability and second shows set the public demand tag.",
  "picks": [
   {
@@ -98,24 +98,25 @@
    },
    "reddit": {
     "phrase": "Marc Maron",
-    "posts_30d": 4,
-    "upvotes": 573,
-    "comments": 10,
+    "posts_30d": 5,
+    "upvotes": 577,
+    "comments": 33,
     "subreddits": [
      "MarcMaron",
      "comedy",
-     "SymbyNews"
+     "SymbyNews",
+     "elephantgraveyard"
     ],
     "top": {
      "title": "Marc Maron to Be Honored With Inaugural Richard Lewis Award at Comedy Gives Back Gala",
      "subreddit": "MarcMaron",
-     "score": 533,
+     "score": 536,
      "url": "https://www.reddit.com/r/MarcMaron/comments/1xmz5o1/marc_maron_to_be_honored_with_inaugural_richard/"
     }
    },
    "reasons": [
     "Wikipedia: 1308 views a day",
-    "Reddit: 4 posts in 30 days, 573 upvotes (top: r/MarcMaron)"
+    "Reddit: 5 posts in 30 days, 577 upvotes (top: r/MarcMaron)"
    ]
   },
   {
@@ -166,7 +167,7 @@
    "reddit": {
     "phrase": "Dewayne Perkins",
     "posts_30d": 3,
-    "upvotes": 262,
+    "upvotes": 260,
     "comments": 30,
     "subreddits": [
      "BlackLGBT"
@@ -174,13 +175,13 @@
     "top": {
      "title": "I Swear We're Friends is a upcoming sketch comedy web series on YouTube, premiering it's first 2 episodes on Oct 14th, episodes 3-4 on Oct 21st and the last two episodes on Oct 28th. Executive produced by and starring Dewayne Perkins, along with a cast of black queer men.",
      "subreddit": "BlackLGBT",
-     "score": 162,
+     "score": 164,
      "url": "https://www.reddit.com/r/BlackLGBT/comments/1x0d8gq/i_swear_were_friends_is_a_upcoming_sketch_comedy/"
     }
    },
    "reasons": [
     "Wikipedia views up 56% over the prior month",
-    "Reddit: 3 posts in 30 days, 262 upvotes (top: r/BlackLGBT)"
+    "Reddit: 3 posts in 30 days, 260 upvotes (top: r/BlackLGBT)"
    ]
   },
   {
@@ -202,8 +203,8 @@
    "reddit": {
     "phrase": "Daniel Sloss",
     "posts_30d": 5,
-    "upvotes": 572,
-    "comments": 1055,
+    "upvotes": 565,
+    "comments": 1056,
     "subreddits": [
      "Standup",
      "uknews",
@@ -213,13 +214,50 @@
     "top": {
      "title": "Daniel Sloss controversy?",
      "subreddit": "Standup",
-     "score": 387,
+     "score": 381,
      "url": "https://www.reddit.com/r/Standup/comments/1xbscnv/daniel_sloss_controversy/"
     }
    },
    "reasons": [
     "Wikipedia: 793 views a day",
-    "Reddit: 5 posts in 30 days, 572 upvotes (top: r/Standup)"
+    "Reddit: 5 posts in 30 days, 565 upvotes (top: r/Standup)"
+   ]
+  },
+  {
+   "id": "michelle-wolf-best-job-town-hall-2026-11-19",
+   "title": "Michelle Wolf: Best Job in the World",
+   "venue": "The Town Hall",
+   "date": "2026-11-19",
+   "heat": 35,
+   "demand": null,
+   "availability": null,
+   "second_show": false,
+   "performer": "Michelle Wolf",
+   "wikipedia": {
+    "title": "Michelle Wolf",
+    "views_30d": 17094,
+    "views_prior_30d": 12065,
+    "change": 42
+   },
+   "reddit": {
+    "phrase": "Michelle Wolf",
+    "posts_30d": 4,
+    "upvotes": 323,
+    "comments": 88,
+    "subreddits": [
+     "Standup",
+     "StandUpComedy"
+    ],
+    "top": {
+     "title": "Michelle Wolf - \"For Linda\" A YouTube Comedy Special",
+     "subreddit": "Standup",
+     "score": 211,
+     "url": "https://www.reddit.com/r/Standup/comments/1xjnmfh/michelle_wolf_for_linda_a_youtube_comedy_special/"
+    }
+   },
+   "reasons": [
+    "Wikipedia: 570 views a day",
+    "Reddit: 4 posts in 30 days, 323 upvotes (top: r/Standup)"
    ]
   },
   {
@@ -281,40 +319,36 @@
    ]
   },
   {
-   "id": "michelle-wolf-best-job-town-hall-2026-11-19",
-   "title": "Michelle Wolf: Best Job in the World",
-   "venue": "The Town Hall",
-   "date": "2026-11-19",
-   "heat": 34,
+   "id": "drunk-black-history-caveat-2026-11-07",
+   "title": "Drunk Black History",
+   "venue": "Caveat",
+   "date": "2026-11-07",
+   "heat": 25,
    "demand": null,
-   "availability": null,
+   "availability": "InStock",
    "second_show": false,
-   "performer": "Michelle Wolf",
-   "wikipedia": {
-    "title": "Michelle Wolf",
-    "views_30d": 17094,
-    "views_prior_30d": 12065,
-    "change": 42
-   },
+   "performer": "Drunk Black History",
+   "wikipedia": null,
    "reddit": {
-    "phrase": "Michelle Wolf",
-    "posts_30d": 4,
-    "upvotes": 233,
-    "comments": 59,
+    "phrase": "Drunk Black History",
+    "posts_30d": 5,
+    "upvotes": 5,
+    "comments": 0,
     "subreddits": [
-     "Standup",
-     "StandUpComedy"
+     "offbroadwayNYC",
+     "WhatsHappeningNYC",
+     "nycevents"
     ],
     "top": {
-     "title": "Michelle Wolf - \"For Linda\" A YouTube Comedy Special",
-     "subreddit": "Standup",
-     "score": 209,
-     "url": "https://www.reddit.com/r/Standup/comments/1xjnmfh/michelle_wolf_for_linda_a_youtube_comedy_special/"
+     "title": "Drunk Black History's in the New York Comedy Festival THIS Saturday!",
+     "subreddit": "offbroadwayNYC",
+     "score": 1,
+     "url": "https://www.reddit.com/r/offbroadwayNYC/comments/1xpjdzv/drunk_black_historys_in_the_new_york_comedy/"
     }
    },
    "reasons": [
-    "Wikipedia: 570 views a day",
-    "Reddit: 4 posts in 30 days, 233 upvotes (top: r/Standup)"
+    "tickets available",
+    "Reddit: 5 posts in 30 days, 5 upvotes (top: r/offbroadwayNYC)"
    ]
   },
   {
@@ -393,7 +427,7 @@
    "reddit": {
     "phrase": "Ilana Glazer",
     "posts_30d": 1,
-    "upvotes": 14,
+    "upvotes": 16,
     "comments": 5,
     "subreddits": [
      "BroadCity"
@@ -401,13 +435,13 @@
     "top": {
      "title": "LA - Tix for Sale - Ilana Glazer Stand-up Show 10/15",
      "subreddit": "BroadCity",
-     "score": 14,
+     "score": 16,
      "url": "https://www.reddit.com/r/BroadCity/comments/1x61937/la_tix_for_sale_ilana_glazer_standup_show_1015/"
     }
    },
    "reasons": [
     "Wikipedia: 1235 views a day",
-    "Reddit: 1 post in 30 days, 14 upvotes (top: r/BroadCity)"
+    "Reddit: 1 post in 30 days, 16 upvotes (top: r/BroadCity)"
    ]
   },
   {
@@ -575,7 +609,7 @@
    "reddit": {
     "phrase": "Gavin Matts",
     "posts_30d": 4,
-    "upvotes": 488,
+    "upvotes": 489,
     "comments": 53,
     "subreddits": [
      "Standup",
@@ -585,45 +619,13 @@
     "top": {
      "title": "Just want to shout out Gavin Matts new special",
      "subreddit": "Standup",
-     "score": 475,
+     "score": 476,
      "url": "https://www.reddit.com/r/Standup/comments/1xbsoe0/just_want_to_shout_out_gavin_matts_new_special/"
     }
    },
    "reasons": [
     "tickets available",
-    "Reddit: 4 posts in 30 days, 488 upvotes (top: r/Standup)"
-   ]
-  },
-  {
-   "id": "drunk-black-history-caveat-2026-11-07",
-   "title": "Drunk Black History",
-   "venue": "Caveat",
-   "date": "2026-11-07",
-   "heat": 20,
-   "demand": null,
-   "availability": "InStock",
-   "second_show": false,
-   "performer": "Drunk Black History",
-   "wikipedia": null,
-   "reddit": {
-    "phrase": "Drunk Black History",
-    "posts_30d": 4,
-    "upvotes": 4,
-    "comments": 0,
-    "subreddits": [
-     "WhatsHappeningNYC",
-     "nycevents"
-    ],
-    "top": {
-     "title": "Drunk Black History x New York Comedy Festival THIS Saturday!!!",
-     "subreddit": "WhatsHappeningNYC",
-     "score": 1,
-     "url": "https://www.reddit.com/r/WhatsHappeningNYC/comments/1xns122/drunk_black_history_x_new_york_comedy_festival/"
-    }
-   },
-   "reasons": [
-    "tickets available",
-    "Reddit: 4 posts in 30 days, 4 upvotes (top: r/WhatsHappeningNYC)"
+    "Reddit: 4 posts in 30 days, 489 upvotes (top: r/Standup)"
    ]
   },
   {
@@ -631,7 +633,7 @@
    "title": "Jordan Jensen",
    "venue": "Beacon Theatre",
    "date": "2026-11-12",
-   "heat": 17,
+   "heat": 22,
    "demand": null,
    "availability": null,
    "second_show": false,
@@ -639,23 +641,24 @@
    "wikipedia": null,
    "reddit": {
     "phrase": "Jordan Jensen",
-    "posts_30d": 3,
-    "upvotes": 105,
+    "posts_30d": 4,
+    "upvotes": 113,
     "comments": 42,
     "subreddits": [
      "Standup",
      "PittsburghSocialClub",
+     "petedavidson",
      "KelownaBCNews"
     ],
     "top": {
      "title": "watched Jordan Jensen’s special “Take Me With You”",
      "subreddit": "Standup",
-     "score": 96,
+     "score": 101,
      "url": "https://www.reddit.com/r/Standup/comments/1xhbi9t/watched_jordan_jensens_special_take_me_with_you/"
     }
    },
    "reasons": [
-    "Reddit: 3 posts in 30 days, 105 upvotes (top: r/Standup)"
+    "Reddit: 4 posts in 30 days, 113 upvotes (top: r/Standup)"
    ]
   },
   {
@@ -912,7 +915,7 @@
    "reddit": {
     "phrase": "Mojo Brookzz",
     "posts_30d": 1,
-    "upvotes": 6,
+    "upvotes": 5,
     "comments": 6,
     "subreddits": [
      "Standup"
@@ -920,12 +923,12 @@
     "top": {
      "title": "Mojo Brookzz ripping off Katt Williams",
      "subreddit": "Standup",
-     "score": 6,
+     "score": 5,
      "url": "https://www.reddit.com/r/Standup/comments/1x0h9s0/mojo_brookzz_ripping_off_katt_williams/"
     }
    },
    "reasons": [
-    "Reddit: 1 post in 30 days, 6 upvotes (top: r/Standup)"
+    "Reddit: 1 post in 30 days, 5 upvotes (top: r/Standup)"
    ]
   },
   {
@@ -1582,6 +1585,20 @@
     "subreddits": [],
     "top": null
    },
+   "reasons": []
+  },
+  {
+   "id": "sunday-night-comedy-eastville-2026-11-15",
+   "title": "Sunday Night Comedy",
+   "venue": "Eastville Comedy Club",
+   "date": "2026-11-15",
+   "heat": 0,
+   "demand": null,
+   "availability": null,
+   "second_show": false,
+   "performer": null,
+   "wikipedia": null,
+   "reddit": null,
    "reasons": []
   },
   {
@@ -2575,6 +2592,20 @@
    "reasons": []
   },
   {
+   "id": "emily-wilson-friends-bell-house-2026-12-12",
+   "title": "Emily Wilson & Friends",
+   "venue": "The Bell House",
+   "date": "2026-12-12",
+   "heat": 0,
+   "demand": null,
+   "availability": null,
+   "second_show": false,
+   "performer": null,
+   "wikipedia": null,
+   "reddit": null,
+   "reasons": []
+  },
+  {
    "id": "speakeasy-saturday-night-st-marks-2026-12-12",
    "title": "Speakeasy Saturday Night",
    "venue": "St. Marks Comedy Club",
@@ -2607,6 +2638,88 @@
     "subreddits": [],
     "top": null
    },
+   "reasons": []
+  },
+  {
+   "id": "ralph-barbosa-bell-house-2026-12-14",
+   "title": "Ralph Barbosa",
+   "venue": "The Bell House",
+   "date": "2026-12-14",
+   "heat": 0,
+   "demand": null,
+   "availability": null,
+   "second_show": false,
+   "performer": "Ralph Barbosa",
+   "wikipedia": {
+    "title": "Ralph Barbosa",
+    "views_30d": 4898,
+    "views_prior_30d": 6670,
+    "change": -27
+   },
+   "reddit": {
+    "phrase": "Ralph Barbosa",
+    "posts_30d": 0,
+    "upvotes": 0,
+    "comments": 0,
+    "subreddits": [],
+    "top": null
+   },
+   "reasons": []
+  },
+  {
+   "id": "how-nick-stole-christmas-bell-house-2026-12-15",
+   "title": "How Nick Stole Christmas: A Christmas Comedy Cabaret",
+   "venue": "The Bell House",
+   "date": "2026-12-15",
+   "heat": 0,
+   "demand": null,
+   "availability": null,
+   "second_show": false,
+   "performer": null,
+   "wikipedia": null,
+   "reddit": null,
+   "reasons": []
+  },
+  {
+   "id": "down-bad-comedy-show-st-marks-2026-12-16",
+   "title": "Down Bad Comedy Show",
+   "venue": "St. Marks Comedy Club",
+   "date": "2026-12-16",
+   "heat": 0,
+   "demand": null,
+   "availability": null,
+   "second_show": false,
+   "performer": null,
+   "wikipedia": null,
+   "reddit": null,
+   "reasons": []
+  },
+  {
+   "id": "dont-stop-im-about-to-jazz-bell-house-2026-12-17",
+   "title": "Don't Stop I'm About to Jazz",
+   "venue": "The Bell House",
+   "date": "2026-12-17",
+   "heat": 0,
+   "demand": null,
+   "availability": null,
+   "second_show": false,
+   "performer": null,
+   "wikipedia": null,
+   "reddit": null,
+   "reasons": []
+  },
+  {
+   "id": "tight-pants-comedy-show-st-marks-2026-12-17",
+   "title": "Tight Pants Comedy Show",
+   "venue": "St. Marks Comedy Club",
+   "date": "2026-12-17",
+   "heat": 0,
+   "demand": null,
+   "availability": null,
+   "second_show": false,
+   "performer": null,
+   "wikipedia": null,
+   "reddit": null,
    "reasons": []
   }
  ]

@@ -26,7 +26,7 @@ Ranked 45; run 1, reuse 6, skip 38; ~396,000 tokens saved.
 - Fri Nov 6 8pm — **The Best Indie Comedy Night in Williamsburg — Comics from Netflix & HBO** at Flop House Comedy · NO ARTWORK
 - Fri Nov 6 8pm · doors 7:30pm — **Ken Boyd, Thash Mose, Craig Gass, Kyle Grooms, & Mike Yard** at Comic Strip Live · NO ARTWORK
 - Fri Nov 6 10pm · doors 9:30pm — **Shaunak Does Improvised Standup** at Union Hall · SOLD OUT · heat 100
-- Sat Nov 7 1:30pm · doors 1pm — **Drunk Black History** at Caveat · heat 20
+- Sat Nov 7 1:30pm · doors 1pm — **Drunk Black History** at Caveat · heat 25
 - Sat Nov 7 5pm · doors 4:30pm — **Charlie Flynn: Live at Union Hall** at Union Hall · NO ARTWORK
 - Sat Nov 7 6pm — **Cattywampus with Ellen Skrmetti** at West Side Comedy Club
 - Sat Nov 7 6pm — **Joanne McNally: Pinotphile** at The Town Hall · NO ARTWORK · heat 35
@@ -57,7 +57,7 @@ Ranked 45; run 1, reuse 6, skip 38; ~396,000 tokens saved.
 - Thu Nov 12 6pm — **Shelly Belly Presented by the New York Comedy Festival** at New York Comedy Club (Upper West Side)
 - Thu Nov 12 7:30pm · doors 7:15pm — **New York Comedy Festival Presents: Casey and Friends Named Casey** at Greenpoint Comedy Club
 - Thu Nov 12 8pm — **Ken Boyd, Thash Mose, Sean Donnelly, Nick Tornaritis, Nathan Macintosh** at Comic Strip Live · NO ARTWORK
-- Thu Nov 12 8pm — **Jordan Jensen** at Beacon Theatre · NO ARTWORK
+- Thu Nov 12 8pm — **Jordan Jensen** at Beacon Theatre · NO ARTWORK · heat 22
 - Thu Nov 12 8:30pm · doors 8pm — **Bourne With Talent Comedy Show** at St. Marks Comedy Club · NO ARTWORK
 - Thu Nov 12 8:30pm · showtime 8:40pm — **Michael J. Fox Foundation's Comedy Showcase** at Sesh Comedy
 - Thu Nov 12 9:30pm — **NYCF Presents: Daegen Asfaha Headlines Flop House** at Flop House Comedy
@@ -72,7 +72,7 @@ Ranked 45; run 1, reuse 6, skip 38; ~396,000 tokens saved.
   - Fri Nov 6 10pm — The Workout | New York Comedy Festival | Fri Nov 6 · 10 PM at Upper East Side Comedy Club · from $22.83 · has artwork
   - Fri Nov 6 11pm — 11pm Comedy Show at Tipsy Village · from $12.51 · has artwork
 
-## Week 2: Nov 13 to Nov 19 — 25 picks — 16 without artwork · 5 Eventbrite leads not yet reviewed
+## Week 2: Nov 13 to Nov 19 — 26 picks — 17 without artwork · 5 Eventbrite leads not yet reviewed
 
 - Fri Nov 13 6:45pm — **Ilana Glazer Live!** at Beacon Theatre · NO ARTWORK · heat 25
 - Fri Nov 13 7pm — **CopyFest Fundraiser: Three Sets, Three Festivals** at Littlefield
@@ -86,6 +86,7 @@ Ranked 45; run 1, reuse 6, skip 38; ~396,000 tokens saved.
 - Sun Nov 15 5pm — **Jake Velazquez: Special Recording** at New York Comedy Club (Midtown)
 - Sun Nov 15 6:30pm — **Mojo Brookzz: Outta Pocket Comedy Tour** at Beacon Theatre · NO ARTWORK
 - Sun Nov 15 7pm — **Matthew Broussard** at The Bell House
+- Sun Nov 15 7:30pm — **Sunday Night Comedy** at Eastville Comedy Club · NO ARTWORK
 - Mon Nov 16 7:30pm — **Brooklyn Power Hour (Now on a New Night!)** at Eastville Comedy Club · NO ARTWORK
 - Mon Nov 16 7:30pm · doors 7pm — **$3 Monday Night StandUp Show** at St. Marks Comedy Club · NO ARTWORK
 - Mon Nov 16 8pm — **Good Bits ft: Nick Griffin, Richie Redding, Torey Cole, Anthony Moore, Kaneez Surka, Shaun Murphy** at New York Comedy Club (East Village) · NO ARTWORK
@@ -95,7 +96,7 @@ Ranked 45; run 1, reuse 6, skip 38; ~396,000 tokens saved.
 - Wed Nov 18 7:45pm — **Story Warz w/ Big Jay Oakerson, Luis J Gomez + Special Guests** at New York Comedy Club (Midtown)
 - Wed Nov 18 8pm — **DANU Live in America** at Eastville Comedy Club
 - Wed Nov 18 9:30pm · doors 9pm — **A TRUE YORK COMEDY EXPERIENCE** at St. Marks Comedy Club
-- Thu Nov 19 7pm — **Michelle Wolf: Best Job in the World** at The Town Hall · NO ARTWORK · heat 34
+- Thu Nov 19 7pm — **Michelle Wolf: Best Job in the World** at The Town Hall · NO ARTWORK · heat 35
 - Thu Nov 19 7:30pm — **Popcorn Comedy with Ian Lara** at Oliver's Astoria · NO ARTWORK
 - Thu Nov 19 8pm — **Stone and Stone On The Road!** at West Side Comedy Club
 - Thu Nov 19 8:30pm — **Previously on Generational Curse... with Nore Davis** at New York Comedy Club (Midtown) · NO ARTWORK
@@ -176,14 +177,20 @@ Ranked 45; run 1, reuse 6, skip 38; ~396,000 tokens saved.
 - Thu Dec 10 7pm — **The Party Clown Party** at West Side Comedy Club
 - Thu Dec 10 8:30pm · doors 8pm — **Date Night Comedy Show x2** at St. Marks Comedy Club · NO ARTWORK
 
-## Week 6: Dec 11 to Dec 17 — 8 picks — 6 without artwork
+## Week 6: Dec 11 to Dec 17 — 14 picks — 8 without artwork
 
 - Fri Dec 11 6pm — **Brooklyn Power Hour** at Eastville Comedy Club · NO ARTWORK
 - Fri Dec 11 6:30pm · doors 6pm — **A TRUE YORK COMEDY EXPERIENCE** at St. Marks Comedy Club · NO ARTWORK
 - Fri Dec 11 7:30pm — **Grove Comedy** at Grove 34 · NO ARTWORK
 - Fri Dec 11 8:30pm · doors 8pm — **Friday Night Laughs Comedy Show** at St. Marks Comedy Club · NO ARTWORK
 - Sat Dec 12 6:30pm · doors 6pm — **A TRUE YORK COMEDY EXPERIENCE** at St. Marks Comedy Club · NO ARTWORK
+- Sat Dec 12 7:30pm — **Emily Wilson & Friends** at The Bell House
 - Sat Dec 12 8:30pm · doors 8pm — **Speakeasy Saturday Night** at St. Marks Comedy Club · NO ARTWORK
 - Sun Dec 13 6pm · doors 5pm — **Clint Coley** at The Bell House
+- Mon Dec 14 10pm · doors 9:30pm — **Ralph Barbosa** at The Bell House
+- Tue Dec 15 7:30pm — **How Nick Stole Christmas: A Christmas Comedy Cabaret** at The Bell House
 - Tue Dec 15 8pm — **Not Ripe Bananas** at West Side Comedy Club
+- Wed Dec 16 7:30pm — **Down Bad Comedy Show** at St. Marks Comedy Club · NO ARTWORK
+- Thu Dec 17 7:30pm — **Don't Stop I'm About to Jazz** at The Bell House
+- Thu Dec 17 8:30pm — **Tight Pants Comedy Show** at St. Marks Comedy Club · NO ARTWORK
 
