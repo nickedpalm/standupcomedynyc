@@ -1721,5 +1721,30 @@
   "access_note": "Strength gym on Ludlow Street that hosts a monthly comedy showcase. Tickets through Clyx; BYOB, 21+.",
   "verified_at": "2026-11-06",
   "note": "720 Strength Lower East Side, 36 Ludlow Street, New York, NY 10002. Address and neighborhood from the venue's own contact page."
+ },
+ {
+  "name": "Cozy Art Land",
+  "address": "10-40 45th Ave #3F, Queens",
+  "neighborhood": "Long Island City",
+  "borough": "Queens",
+  "website": "https://www.thespotlightcomedy.com/newyork",
+  "calendar_url": "https://www.thespotlightcomedy.com/newyork",
+  "source_label": "The Spotlight Comedy's New York page",
+  "access_note": "Glow-in-the-dark art studio on the third floor of a warehouse in Hunters Point. The room's own page lists the show as first Saturdays at 9:30pm, and the producer sells on Eventbrite.",
+  "eventbrite_organizer": "https://www.eventbrite.com/o/the-spotlight-comedy-nyc-121499531629",
+  "verified_at": "2026-11-07",
+  "note": "Address from the Eventbrite location block for the Secret Comedy Show (\"10-40 45th Avenue #3F\") and the venue name Cozy Art Land. Neighborhood Long Island City from the address; the producer's own copy calls it Hunter's Point."
+ },
+ {
+  "name": "Talea Beer Co. (Cobble Hill)",
+  "address": "61 Bergen St, Brooklyn",
+  "neighborhood": "Cobble Hill",
+  "borough": "Brooklyn",
+  "website": "https://www.taleabeer.com/",
+  "calendar_url": "https://flophousecomedy.com/",
+  "source_label": "Talea Beer Co.'s own site plus the Flop House event listing",
+  "access_note": "Neighborhood taproom on Bergen Street in Cobble Hill that hosts a Flop House comedy night in the back room. The taproom runs its own trivia nights, so the comedy slot is a third-party production.",
+  "verified_at": "2026-11-07",
+  "note": "Address from Talea's own Visit Us page (\"61 Bergen Street, Brooklyn, NY 11201\") and from the Eventbrite location block for the Best Indie Comedy Night in Cobble Hill. Neighborhood Cobble Hill from the address."
  }
 ]

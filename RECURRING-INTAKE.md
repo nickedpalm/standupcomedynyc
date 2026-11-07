@@ -840,3 +840,24 @@ across the holidays. Verified 2026-10-30.
   Wednesday at 10am, announced on @comedymobnyc. It had been carried as a
   dated board pick, which is the wrong file for an open mic, so it moved to
   open-mics.json.
+
+### 2026-11-07 - Bushwick Comedy Club added to the clubs guide, with its six weekly open mics
+
+- **Bushwick Comedy Club** - 259 Melrose St, Bushwick, Brooklyn. A single
+  room on Melrose Street that is a coffee shop by day and a comedy stage by
+  night, run by the comedians who own it. $15 general admission plus $2.25 tax
+  and fee, no drink minimum, BYOB welcome (they also sell beer, wine and
+  seltzer), first-come seating, and anyone not checked in 15 minutes after
+  showtime can lose the seat to the waitlist. The club says it books by tape
+  rather than by referral and has watched close to 3,000 five-minute tapes,
+  with an acceptance rate around 4%, so the bill is mostly people you have not
+  heard of yet. It runs a cash-prize comedy lottery on a weekly rotation.
+  It publishes no age policy, so the guide says to check the listing rather
+  than guessing. Added to venues.json, clubs.json and the six mics below.
+- **Six weekly open mics**, one a night Monday to Saturday, confirmed on the
+  club's own Open Mics page for November 2026: Monday 7:30pm, Tuesday 6:30pm,
+  Wednesday 7:30pm, Thursday 6:30pm, Friday 6:30pm, Saturday 6:30pm. Free for
+  the audience. Twelve comics, five minutes each, and they must stay for the
+  whole show. The club also publishes the rule that if no mic is listed for a
+  date, there is no mic that night, so a blank date is a night off rather than
+  a missing listing. There is no Sunday mic.

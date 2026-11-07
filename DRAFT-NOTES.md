@@ -789,3 +789,66 @@ badly at 9:16. All five rows render legible over it.
 **Tonight's board:** 5 picks with tickets left (Sam Tallent, Angelo Colina,
 Eastville, UESC, Jessie Jetski Johnson). Nori Reed at Union Hall is sold out and
 stays off the board's Tonight set.
+
+## 2026-11-07 — Recovery of the stranded 11:00 edition
+
+The 11:00 run verified its sources and wrote 12 picks, 2 venues, 10 official
+artworks and a club entry, then crashed on a `mics.sort()` that compared a
+null `time_label` with a string. Nothing was committed, and the next morning's
+09:15 nightly sweep would have published the whole tree under a misleading
+"Nightly: rotate expired picks" message. Everything was re-verified here
+against the source pages before being written.
+
+**12 picks added:** Caveat Nov 11 (Peer Revue, Sagematch), Nov 12 (Looking for
+Laughs), Nov 14 (Fun in Moderation); The Best Indie Comedy Night in Cobble Hill
+at Talea Beer Co. Nov 8; PRETTY MAJOR at Union Hall Nov 10; The Peter Stewart
+Show! at the Comic Strip Nov 16; Secret Comedy Show at Cozy Art Land Nov 7;
+St. Marks Dec 14 ($3 Monday) and Dec 18 (Gina Brillon 8:30, Sienna Hubert Ross
+10:30); Brooklyn Power Hour at Eastville Dec 18.
+
+**2 venues registered:** Cozy Art Land (10-40 45th Ave #3F, Long Island City,
+with its Eventbrite organizer page) and Talea Beer Co. (61 Bergen St, Cobble
+Hill).
+
+**Corrections made during the recovery:**
+- The St. Marks age rule is published three different ways. The club's own
+  show pages, which are the official seller, say "Ages 18 and up only"; the
+  club's second site says the room is 21+; the Tixr ticket listings say
+  "Ages 16 and up". The guide now carries 18+ and the conflict is recorded in
+  the club's verification note rather than papered over.
+- The three new St. Marks picks were written against the Tixr listings, but
+  the club's own site sells the same slots under different names and with
+  different fees. They now point at the club's own show pages, which are the
+  official seller, and carry that site's prices ($3, $23.50, $20.00 after
+  fees) and end times.
+- Jacqueline Novak at the Bell House on Nov 23 is sold out: the Bell House's
+  own calendar prints it as SOLD OUT and Live Nation's mirror carries the same
+  ticket id under that name. It stays on the board with the tag and stays out
+  of the Tonight set. The Nov 24 date is a separate show and is not sold out.
+- Three Caveat end times were wrong; Eventbrite's API gives the real ones
+  (Fun in Moderation ends 23:30, Looking for Laughs 22:40).
+- The Sagematch pick pointed at an Eventbrite id the venue's own page does not
+  link to; it now points at the id Caveat's page links to.
+- The Secret Comedy Show blurb claimed a forty-seat room. Neither the
+  producer's page nor the ticket listing states a seat count, so the number
+  is gone.
+- Two blurbs that read as listing copy were rewritten to answer "why this one"
+  (PRETTY MAJOR, The Best Indie Comedy Night in Cobble Hill).
+
+**28 stale picks re-verified** and their `verified_at` refreshed: 15 against
+the New York Comedy Festival schedule page (250 listings parsed out of the
+DOM with date, time, venue and ticket link), the rest against the Bell House's
+own November calendar, Live Nation's mirror of it, Comic Strip Live's own
+schedule, Eastville's own calendar, West Side Comedy Club's own calendar and
+Littlefield's own All Shows page.
+
+**Link-in-bio count:** the festival count is 33 shows on our board, Nov 6-15.
+The counter was validated against four published revisions (32, 31, 34, 33)
+and reproduces all four exactly before being applied to the changed tree.
+
+**Could not verify:** Bushwick Comedy Club's age policy (published nowhere on
+its own pages). St. Marks' age policy is published inconsistently, as above.
+The Secret Comedy Show has no published lineup ("Featured Comedians: TBD"), so
+that pick stands on the room and the format. West Side Comedy Club's
+`/calendar/2026-12` path 404s, so its December dates were not verifiable
+through that route.

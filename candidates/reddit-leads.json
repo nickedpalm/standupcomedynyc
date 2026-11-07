@@ -1,5 +1,5 @@
 {
- "retrieved_at": "2026-11-06T11:01:59.219Z",
+ "retrieved_at": "2026-11-07T11:01:40.609Z",
  "note": "Promoter posts from NYC neighborhood subreddits, last 14 days. Leads only: open the linked page or the venue site before anything enters the data; register the venue first.",
  "subreddits": [
   "nycevents",
@@ -27,6 +27,66 @@
  ],
  "leads": [
   {
+   "id": "1xpx3y0",
+   "date": "2026-11-07",
+   "subreddit": "nycevents",
+   "title": "Sketch Comedy next Saturday - $10 Tickets with code: NYCF",
+   "score": 1,
+   "comments": 0,
+   "url": "https://www.reddit.com/r/nycevents/comments/1xpx3y0/sketch_comedy_next_saturday_10_tickets_with_code/",
+   "venues_mentioned": [
+    "Caveat"
+   ],
+   "when_mentioned": "Saturday - $10 Tickets with code: NYCF [https://",
+   "time_mentioned": null,
+   "links": [
+    "https://www.caveat.nyc/events/fun-in-moderation-sketch-comedy-2026-11-14"
+   ],
+   "free": false,
+   "new_since_last_run": true,
+   "excerpt": "[https://www.caveat.nyc/events/fun-in-moderation-sketch-comedy-2026-11-14](https://www.caveat.nyc/events/fun-in-moderation-sketch-comedy-2026-11-14)"
+  },
+  {
+   "id": "1xpx5ip",
+   "date": "2026-11-07",
+   "subreddit": "nycComedy",
+   "title": "Sketch Comedy next Saturday - $10 Tickets with code: NYCF",
+   "score": 1,
+   "comments": 0,
+   "url": "https://www.reddit.com/r/nycComedy/comments/1xpx5ip/sketch_comedy_next_saturday_10_tickets_with_code/",
+   "venues_mentioned": [
+    "Caveat"
+   ],
+   "when_mentioned": "Saturday - $10 Tickets with code: NYCF [https://",
+   "time_mentioned": null,
+   "links": [
+    "https://www.caveat.nyc/events/fun-in-moderation-sketch-comedy-2026-11-14"
+   ],
+   "free": false,
+   "new_since_last_run": true,
+   "excerpt": "[https://www.caveat.nyc/events/fun-in-moderation-sketch-comedy-2026-11-14](https://www.caveat.nyc/events/fun-in-moderation-sketch-comedy-2026-11-14)"
+  },
+  {
+   "id": "1xpq41b",
+   "date": "2026-11-06",
+   "subreddit": "longislandcity",
+   "title": "Secret Comedy Show - Saturday (11/7)!",
+   "score": 0,
+   "comments": 1,
+   "url": "https://www.reddit.com/r/longislandcity/comments/1xpq41b/secret_comedy_show_saturday_117/",
+   "venues_mentioned": [],
+   "when_mentioned": "Saturday (11/7)",
+   "time_mentioned": "9:30pm",
+   "links": [
+    "https://www.eventbrite.com/e/secret-comedy-show-long-island-city-byob-tickets-1992646889487?aff=reddit",
+    "https://www.instagram.com/thespotlightcomedynyc/",
+    "https://www.thespotlightcomedy.com/newyork"
+   ],
+   "free": false,
+   "new_since_last_run": true,
+   "excerpt": "Hey friends! We are running a super fun secret comedy show this Saturday November 7th at 9:30pm in Long Island City! It takes place in a super cool art studio. Think of it as an intimate, secret comedy club. We have a lineup of top-tier comedians to this cozy, 40-seat venue for a"
+  },
+  {
    "id": "1xolvdv",
    "date": "2026-11-05",
    "subreddit": "nycevents",
@@ -34,7 +94,9 @@
    "score": 3,
    "comments": 1,
    "url": "https://www.reddit.com/r/nycevents/comments/1xolvdv/comedy_show_inside_a_ludlow_st_gym_this_saturday/",
-   "venues_mentioned": [],
+   "venues_mentioned": [
+    "720 Strength Lower East Side"
+   ],
    "when_mentioned": "SATURDAY 11/7",
    "time_mentioned": "7pm",
    "links": [
@@ -42,7 +104,7 @@
     "https://clyx.com/feed/leg-day-comedy-12"
    ],
    "free": false,
-   "new_since_last_run": true,
+   "new_since_last_run": false,
    "excerpt": "Come check out a comedy show at a GYM on the Lower East Side THIS SATURDAY 11/7 at 7pm! Unbelievable lineup (flyer attached). BYOB. Venue: [720 Strength Lower East Side (36 Ludlow Street)](https://www.google.com/maps/place/720+Strength+Lower+East+Side/@40.716001,-73.9927479,17z/d"
   },
   {
@@ -61,7 +123,7 @@
     "https://clyx.com/feed/leg-day-comedy-12"
    ],
    "free": false,
-   "new_since_last_run": true,
+   "new_since_last_run": false,
    "excerpt": "Hi guys!! I run a monthly comedy show called Leg Day Comedy inside a GYM -- 720 Strength at 36 Ludlow St. We're back **this Saturday 11/7 at 7pm** with a bunch of great NYC comics. It's BYOB and runs about 80 minutes. **Lineup:** Amber Singletary Peter Revello Casey Balsham Gray "
   },
   {
@@ -69,7 +131,7 @@
    "date": "2026-11-05",
    "subreddit": "williamsburg",
    "title": "haiders mutual aid comedy show @ Greenpoint Comedy Club benefiting North Brooklyn Mutual Aid",
-   "score": 1,
+   "score": 2,
    "comments": 0,
    "url": "https://www.reddit.com/r/williamsburg/comments/1xoscbr/haiders_mutual_aid_comedy_show_greenpoint_comedy/",
    "venues_mentioned": [
@@ -79,7 +141,7 @@
    "time_mentioned": null,
    "links": [],
    "free": false,
-   "new_since_last_run": true,
+   "new_since_last_run": false,
    "excerpt": ""
   },
   {
@@ -97,7 +159,7 @@
     "https://clyx.com/feed/leg-day-comedy-12"
    ],
    "free": false,
-   "new_since_last_run": true,
+   "new_since_last_run": false,
    "excerpt": "Hi guys!! I run a monthly comedy show called Leg Day Comedy inside a GYM -- 720 Strength at 36 Ludlow St. We're back **this Saturday 11/7 at 7pm** with a bunch of great NYC comics. It's BYOB and runs about 80 minutes. If you're around and looking for something to do, come by! Wou"
   },
   {
@@ -105,7 +167,7 @@
    "date": "2026-11-05",
    "subreddit": "parkslope",
    "title": "This weekend Park Slopers can walk to see John Turturro, Spike and Questlove @ BAM, the Gowanus banjo-tossing competition, and a slew of big acts performing as part of the NY Comedy Fest.",
-   "score": 13,
+   "score": 14,
    "comments": 0,
    "url": "https://www.reddit.com/r/parkslope/comments/1xojj3c/this_weekend_park_slopers_can_walk_to_see_john/",
    "venues_mentioned": [],
@@ -113,7 +175,7 @@
    "time_mentioned": null,
    "links": [],
    "free": false,
-   "new_since_last_run": true,
+   "new_since_last_run": false,
    "excerpt": ""
   },
   {
@@ -121,7 +183,7 @@
    "date": "2026-11-05",
    "subreddit": "Greenpoint",
    "title": "haiders mutual aid comedy show @ Greenpoint Comedy Club benefiting North Brooklyn Mutual Aid",
-   "score": 1,
+   "score": 2,
    "comments": 0,
    "url": "https://www.reddit.com/r/Greenpoint/comments/1xosbbd/haiders_mutual_aid_comedy_show_greenpoint_comedy/",
    "venues_mentioned": [
@@ -131,7 +193,7 @@
    "time_mentioned": "7pm",
    "links": [],
    "free": false,
-   "new_since_last_run": true,
+   "new_since_last_run": false,
    "excerpt": "Hey Greenpoint! I'm producing a mutual aid comedy show on Sunday 12/6 at 7pm at Greenpoint Comedy Club. The lineup is solid and features Jake Cornell, Orion Levine, James Tom, Claire Parker, and Juicy Mawma. All proceeds benefit North Brooklyn Mutual Aid! Hope to see you there. I"
   },
   {
@@ -289,7 +351,7 @@
    "date": "2026-11-04",
    "subreddit": "crownheights",
    "title": "Crown Heights November Weekly Events Thread - 11/4-11/11",
-   "score": 34,
+   "score": 37,
    "comments": 5,
    "url": "https://www.reddit.com/r/crownheights/comments/1xo3hf6/crown_heights_november_weekly_events_thread/",
    "venues_mentioned": [
@@ -362,26 +424,6 @@
    "excerpt": "\"I've never seen our kids laugh so hard and enjoy themselves so much.\" - Matthew S., TripAdvisor What can we add to that? Thank you so much, Matthew, for sharing your review and helping other families find our \"underground\" magic show! Back in the day 15-20 years ago, there were "
   },
   {
-   "id": "1xln16t",
-   "date": "2026-11-02",
-   "subreddit": "nycevents",
-   "title": "New York Comedy Festival - Sketch Comedy Show Nov 14th",
-   "score": 1,
-   "comments": 0,
-   "url": "https://www.reddit.com/r/nycevents/comments/1xln16t/new_york_comedy_festival_sketch_comedy_show_nov/",
-   "venues_mentioned": [
-    "Caveat"
-   ],
-   "when_mentioned": null,
-   "time_mentioned": null,
-   "links": [
-    "https://www.caveat.nyc/events/fun-in-moderation-sketch-comedy-2026-11-14"
-   ],
-   "free": false,
-   "new_since_last_run": false,
-   "excerpt": "https://www.caveat.nyc/events/fun-in-moderation-sketch-comedy-2026-11-14"
-  },
-  {
    "id": "1xm52th",
    "date": "2026-11-02",
    "subreddit": "nycComedy",
@@ -400,31 +442,11 @@
    "excerpt": ""
   },
   {
-   "id": "1xln3ba",
-   "date": "2026-11-02",
-   "subreddit": "nycComedy",
-   "title": "New York Comedy Festival - Sketch Comedy Show Nov 14th",
-   "score": 1,
-   "comments": 0,
-   "url": "https://www.reddit.com/r/nycComedy/comments/1xln3ba/new_york_comedy_festival_sketch_comedy_show_nov/",
-   "venues_mentioned": [
-    "Caveat"
-   ],
-   "when_mentioned": null,
-   "time_mentioned": null,
-   "links": [
-    "https://www.caveat.nyc/events/fun-in-moderation-sketch-comedy-2026-11-14"
-   ],
-   "free": false,
-   "new_since_last_run": false,
-   "excerpt": "https://www.caveat.nyc/events/fun-in-moderation-sketch-comedy-2026-11-14"
-  },
-  {
    "id": "1xllve5",
    "date": "2026-11-02",
    "subreddit": "nycComedy",
    "title": "Brooklyn Power Hour Comedy Show, Mondays at Eastville Comedy Club",
-   "score": 4,
+   "score": 5,
    "comments": 0,
    "url": "https://www.reddit.com/r/nycComedy/comments/1xllve5/brooklyn_power_hour_comedy_show_mondays_at/",
    "venues_mentioned": [
@@ -520,7 +542,7 @@
    "date": "2026-10-30",
    "subreddit": "lowereastside",
    "title": "winter courses in LES",
-   "score": 18,
+   "score": 16,
    "comments": 0,
    "url": "https://www.reddit.com/r/lowereastside/comments/1xjh31u/winter_courses_in_les/",
    "venues_mentioned": [],
@@ -558,7 +580,7 @@
    "date": "2026-10-29",
    "subreddit": "astoria",
    "title": "Musical Comedy Night Thurs, Oct 29th @ Grove 34",
-   "score": 7,
+   "score": 6,
    "comments": 0,
    "url": "https://www.reddit.com/r/astoria/comments/1xi7ub7/musical_comedy_night_thurs_oct_29th_grove_34/",
    "venues_mentioned": [
@@ -576,7 +598,7 @@
    "date": "2026-10-29",
    "subreddit": "eastvillage",
    "title": "Who remembers Rififi Lounge?",
-   "score": 11,
+   "score": 12,
    "comments": 1,
    "url": "https://www.reddit.com/r/eastvillage/comments/1xilzcq/who_remembers_rififi_lounge/",
    "venues_mentioned": [],
@@ -658,7 +680,7 @@
    "date": "2026-10-28",
    "subreddit": "crownheights",
    "title": "Crown Heights Events Thread 10/28-11/4 HALLOWEEN EDITION",
-   "score": 27,
+   "score": 29,
    "comments": 0,
    "url": "https://www.reddit.com/r/crownheights/comments/1xhw615/crown_heights_events_thread_1028114_halloween/",
    "venues_mentioned": [
@@ -864,8 +886,8 @@
    "date": "2026-10-24",
    "subreddit": "longislandcity",
    "title": "New to LIC, How to make friends?",
-   "score": 42,
-   "comments": 80,
+   "score": 40,
+   "comments": 79,
    "url": "https://www.reddit.com/r/longislandcity/comments/1xeh6w2/new_to_lic_how_to_make_friends/",
    "venues_mentioned": [
     "Grove 34"
@@ -876,96 +898,6 @@
    "free": false,
    "new_since_last_run": false,
    "excerpt": "Hi! I've recently moved to the neighborhood less than a month ago. So far I'm loving it here; peaceful, good food, easy commute. LIC has been a great choice so far. The only thing I'm missing is I don't have friends around! Are there any groups or recommended places to make frien"
-  },
-  {
-   "id": "1xdt0sk",
-   "date": "2026-10-23",
-   "subreddit": "nycevents",
-   "title": "NYCF - sketch comedy Nov 14th",
-   "score": 1,
-   "comments": 0,
-   "url": "https://www.reddit.com/r/nycevents/comments/1xdt0sk/nycf_sketch_comedy_nov_14th/",
-   "venues_mentioned": [
-    "Caveat"
-   ],
-   "when_mentioned": null,
-   "time_mentioned": null,
-   "links": [
-    "https://www.caveat.nyc/events/fun-in-moderation-sketch-comedy-2026-11-14"
-   ],
-   "free": false,
-   "new_since_last_run": false,
-   "excerpt": "https://www.caveat.nyc/events/fun-in-moderation-sketch-comedy-2026-11-14"
-  },
-  {
-   "id": "1xdt1rl",
-   "date": "2026-10-23",
-   "subreddit": "nycComedy",
-   "title": "New York Comedy Festival - sketch comedy Nov 14th",
-   "score": 2,
-   "comments": 0,
-   "url": "https://www.reddit.com/r/nycComedy/comments/1xdt1rl/new_york_comedy_festival_sketch_comedy_nov_14th/",
-   "venues_mentioned": [
-    "Caveat"
-   ],
-   "when_mentioned": null,
-   "time_mentioned": null,
-   "links": [
-    "https://www.caveat.nyc/events/fun-in-moderation-sketch-comedy-2026-11-14"
-   ],
-   "free": false,
-   "new_since_last_run": false,
-   "excerpt": "https://www.caveat.nyc/events/fun-in-moderation-sketch-comedy-2026-11-14"
-  },
-  {
-   "id": "1xddzdz",
-   "date": "2026-10-23",
-   "subreddit": "nycComedy",
-   "title": "Queer Comedy Fundraiser for Callen Lorde!",
-   "score": 1,
-   "comments": 0,
-   "url": "https://www.reddit.com/r/nycComedy/comments/1xddzdz/queer_comedy_fundraiser_for_callen_lorde/",
-   "venues_mentioned": [
-    "Brooklyn Comedy Collective"
-   ],
-   "when_mentioned": "Sunday, October 25th at Brooklyn Comedy Collec",
-   "time_mentioned": null,
-   "links": [],
-   "free": false,
-   "new_since_last_run": false,
-   "excerpt": "Hey everyone! I’m producing a comedy show this Sunday, October 25th at Brooklyn Comedy Collective. It has an all-queer lineup, and we’ll be raising money for LGBTQ healthcare organization Callen Lorde. Tickets are $15 adv, $20 at the door, and there’s no drink minimum! Would love"
-  },
-  {
-   "id": "1xdjabn",
-   "date": "2026-10-23",
-   "subreddit": "williamsburg",
-   "title": "We Raised $2600 For New Trash Cans in McCarren Park!",
-   "score": 240,
-   "comments": 35,
-   "url": "https://www.reddit.com/r/williamsburg/comments/1xdjabn/we_raised_2600_for_new_trash_cans_in_mccarren_park/",
-   "venues_mentioned": [],
-   "when_mentioned": "Sunday since April (when we started), and the ",
-   "time_mentioned": "9:30 am",
-   "links": [],
-   "free": false,
-   "new_since_last_run": false,
-   "excerpt": "Last night, Stewards of McCarren Park (the new official Friends group for McCarren Park) hosted Trash Comedy Night alongside the North Brooklyn Chess Club! We aimed to raise $1200 by getting folks together for some solid laughs with a great lineup of comedians. We ended up raisin"
-  },
-  {
-   "id": "1xdjbl6",
-   "date": "2026-10-23",
-   "subreddit": "Greenpoint",
-   "title": "We Raised $2600 For New Trash Cans in McCarren Park!",
-   "score": 46,
-   "comments": 1,
-   "url": "https://www.reddit.com/r/Greenpoint/comments/1xdjbl6/we_raised_2600_for_new_trash_cans_in_mccarren_park/",
-   "venues_mentioned": [],
-   "when_mentioned": "Sunday since April (when we started), and the ",
-   "time_mentioned": "9:30 am",
-   "links": [],
-   "free": false,
-   "new_since_last_run": false,
-   "excerpt": "Last night, Stewards of McCarren Park (the new official Friends group for McCarren Park) hosted Trash Comedy Night alongside the North Brooklyn Chess Club! We aimed to raise $1200 by getting folks together for some solid laughs with a great lineup of comedians. We ended up raisin"
   }
  ]
 }

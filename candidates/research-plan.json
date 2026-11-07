@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-06T14:41:30.364Z",
- "performers_considered": 45,
+ "generated_at": "2026-11-07T11:10:50.253Z",
+ "performers_considered": 46,
  "shortlist": [
   {
    "name": "Maddy Kelly",
@@ -20,15 +20,15 @@
   },
   {
    "name": "Dewayne Perkins",
-   "priority": 65
+   "priority": 56
   },
   {
    "name": "Daniel Sloss",
    "priority": 50
   },
   {
-   "name": "Adam Ray",
-   "priority": 40
+   "name": "Jessica Kirson",
+   "priority": 45
   },
   {
    "name": "Ilana Glazer",
@@ -39,8 +39,8 @@
    "priority": 40
   },
   {
-   "name": "George Willborn",
-   "priority": 35
+   "name": "Jordan Jensen",
+   "priority": 37
   }
  ],
  "run": [
@@ -51,14 +51,49 @@
     "id": "nycf-daniel-sloss-beacon-2026-11-14",
     "date": "2026-11-14",
     "venue": "Beacon Theatre",
-    "days": 8,
+    "days": 7,
     "featured": false,
     "poster": false,
     "demand": null
    },
    "cheap_signals": [
-    "Wikipedia: 793 views a day",
-    "Reddit: 5 posts in 30 days, 572 upvotes (top: r/Standup)"
+    "Wikipedia: 843 views a day",
+    "Reddit: 5 posts in 30 days, 564 upvotes (top: r/Standup)"
+   ],
+   "reason": "in the decision window and not yet decided"
+  },
+  {
+   "name": "Jessica Kirson",
+   "priority": 45,
+   "next": {
+    "id": "jessica-kirson-nycc-2026-11-17",
+    "date": "2026-11-17",
+    "venue": "New York Comedy Club (Midtown)",
+    "days": 10,
+    "featured": false,
+    "poster": true,
+    "demand": null
+   },
+   "cheap_signals": [
+    "Wikipedia: 471 views a day",
+    "Reddit: 3 posts in 30 days, 3 upvotes (top: r/longislandliveevents)"
+   ],
+   "reason": "in the decision window and not yet decided"
+  },
+  {
+   "name": "Jordan Jensen",
+   "priority": 37,
+   "next": {
+    "id": "nycf-jordan-jensen-beacon-2026-11-12",
+    "date": "2026-11-12",
+    "venue": "Beacon Theatre",
+    "days": 5,
+    "featured": false,
+    "poster": false,
+    "demand": null
+   },
+   "cheap_signals": [
+    "Reddit: 4 posts in 30 days, 132 upvotes (top: r/Standup)"
    ],
    "reason": "in the decision window and not yet decided"
   }
@@ -69,7 +104,7 @@
    "priority": 75,
    "cached": {
     "at": "2026-11-03T11:32:06.765Z",
-    "age_days": 3.1,
+    "age_days": 4,
     "fresh": true,
     "note": "Two live threads and neither is about New York: a Nov 3 r/PodcastSnarks post on him roasting comics who backed Trump, and a Nov 2 r/SymbyNews item on the Richard Lewis Award at the Comedy Gives Back gala. The rest is a Six Feet Under cameo question and a Pittsburgh spare ticket, so the Beacon Theatre Nov 8 date stands on the venue page."
    }
@@ -79,29 +114,19 @@
    "priority": 65,
    "cached": {
     "at": "2026-11-03T11:32:01.961Z",
-    "age_days": 3.1,
+    "age_days": 4,
     "fresh": true,
     "note": "Signal is unchanged from last week and none of it is about the show: an 827-upvote r/entertainment thread Oct 21 on refusing to boycott the Tonight Show over the Conor McGregor interview, plus 275 and 126-upvote r/ireland threads Oct 20 and 21 on her US TV debut. The rest is Celebrity Traitors UK wardrobe talk. The Town Hall Nov 7 Pinotphile taping is the part a reader can act on."
    }
   },
   {
    "name": "Dewayne Perkins",
-   "priority": 65,
+   "priority": 56,
    "cached": {
     "at": "2026-11-03T11:32:01.997Z",
-    "age_days": 3.1,
+    "age_days": 4,
     "fresh": true,
     "note": "The only real signal is a new black queer sketch web series he is in, I Swear We're Friends: 159-upvote r/BlackLGBT posts Oct 8 and 10 on the premiere, then 54 and 41 points Oct 14 and 16 on the first two episodes. Nothing in the window is about the Bell House Nov 9 date, and none of the four threads are from the last seven days, so that pick stands on the event page alone."
-   }
-  },
-  {
-   "name": "Adam Ray",
-   "priority": 40,
-   "cached": {
-    "at": "2026-11-06T11:54:35.831Z",
-    "age_days": 0.1,
-    "fresh": true,
-    "note": "Reddit is in his orbit through Kill Tony rather than his New York hour: a 647-upvote r/Killtony thread on Nov 4 thanking him for calling out a comedian over DEI, plus an 89-point 'new character unlocked' post on Oct 20; Hacker News is silent and two of the hits are name collisions (a Cox Charter merger exec and a Rays baseball thread), so the Gramercy Theatre Nov 6 festival hour stands on the festival page."
    }
   },
   {
@@ -109,19 +134,9 @@
    "priority": 40,
    "cached": {
     "at": "2026-11-03T11:32:06.802Z",
-    "age_days": 3.1,
+    "age_days": 4,
     "fresh": true,
     "note": "No New York signal: a 107-upvote r/BroadCity post Oct 18 on her Crunch Fitness commercial contest video, an eight-year Broad City anniversary thread, and two posts selling tickets to her October 15 Los Angeles show. The Beacon Theatre Nov 13 date rests on the festival page."
-   }
-  },
-  {
-   "name": "George Willborn",
-   "priority": 35,
-   "cached": {
-    "at": "2026-11-06T11:55:55.202Z",
-    "age_days": 0.1,
-    "fresh": true,
-    "note": "Nothing at all in 30 days: the single hit is George Orwell's essay on the Orwell Foundation site, a plain name collision, and Reddit returned no relevant threads, so the Comedy In Harlem Nov 6 headlining set stands on the club's own event page."
    }
   }
  ],
@@ -139,16 +154,26 @@
   {
    "name": "Ania Magliano",
    "priority": 40,
-   "reason": "next show in 26 days, outside the 10-day window"
+   "reason": "next show in 25 days, outside the 10-day window"
   },
   {
-   "name": "Michelle Wolf",
-   "priority": 34,
+   "name": "Ester Steinberg",
+   "priority": 35,
    "reason": "outside the top 10 by cheap ranking"
   },
   {
-   "name": "Jordan Jensen",
-   "priority": 32,
+   "name": "Caroline Hanes",
+   "priority": 35,
+   "reason": "outside the top 10 by cheap ranking"
+  },
+  {
+   "name": "Salma Zaky",
+   "priority": 35,
+   "reason": "outside the top 10 by cheap ranking"
+  },
+  {
+   "name": "Michelle Wolf",
+   "priority": 35,
    "reason": "outside the top 10 by cheap ranking"
   },
   {
@@ -163,11 +188,6 @@
   },
   {
    "name": "Matthew Broussard",
-   "priority": 30,
-   "reason": "outside the top 10 by cheap ranking"
-  },
-  {
-   "name": "Jessica Kirson",
    "priority": 30,
    "reason": "outside the top 10 by cheap ranking"
   },
@@ -187,18 +207,8 @@
    "reason": "outside the top 10 by cheap ranking"
   },
   {
-   "name": "Ester Steinberg",
-   "priority": 20,
-   "reason": "outside the top 10 by cheap ranking"
-  },
-  {
-   "name": "Caroline Hanes",
-   "priority": 20,
-   "reason": "outside the top 10 by cheap ranking"
-  },
-  {
-   "name": "Salma Zaky",
-   "priority": 20,
+   "name": "Jaboukie Young-White",
+   "priority": 25,
    "reason": "outside the top 10 by cheap ranking"
   },
   {
@@ -213,11 +223,6 @@
   },
   {
    "name": "Jake Velazquez",
-   "priority": 20,
-   "reason": "outside the top 10 by cheap ranking"
-  },
-  {
-   "name": "Mojo Brookzz",
    "priority": 20,
    "reason": "outside the top 10 by cheap ranking"
   },
@@ -252,13 +257,23 @@
    "reason": "outside the top 10 by cheap ranking"
   },
   {
-   "name": "Demetri Martin",
+   "name": "Tone",
+   "priority": 20,
+   "reason": "outside the top 10 by cheap ranking"
+  },
+  {
+   "name": "Hollywood Crime Scene",
+   "priority": 20,
+   "reason": "outside the top 10 by cheap ranking"
+  },
+  {
+   "name": "Mojo Brookzz",
    "priority": 15,
    "reason": "outside the top 10 by cheap ranking"
   },
   {
-   "name": "Jaboukie Young-White",
-   "priority": 10,
+   "name": "Demetri Martin",
+   "priority": 15,
    "reason": "outside the top 10 by cheap ranking"
   },
   {
@@ -302,7 +317,12 @@
    "reason": "outside the top 10 by cheap ranking"
   },
   {
-   "name": "Tone",
+   "name": "Ralph Barbosa",
+   "priority": 5,
+   "reason": "outside the top 10 by cheap ranking"
+  },
+  {
+   "name": "Peer Revue",
    "priority": 5,
    "reason": "outside the top 10 by cheap ranking"
   },
@@ -317,7 +337,7 @@
    "reason": "outside the top 10 by cheap ranking"
   }
  ],
- "estimated_tokens_saved": 396000,
- "estimate_basis": "9000 tokens per last30days run, 44 runs avoided out of 45",
+ "estimated_tokens_saved": 387000,
+ "estimate_basis": "9000 tokens per last30days run, 43 runs avoided out of 46",
  "no_recent_data": []
 }

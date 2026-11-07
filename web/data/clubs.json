@@ -176,8 +176,8 @@
   "calendar_url": "https://www.stmarkscomedy.com/calendar",
   "source_url": "https://www.stmarkscomedy.com/faq",
   "source_label": "Club FAQ",
-  "verified_at": "2026-10-29",
-  "verification_note": "Read from the club's own FAQ page on 2026-10-29. It states the two-drink minimum and that non-alcoholic drinks count, the 18-and-up rule, first-come seating with a 15–20 minute arrival window, all sales final, shows running 75–90 minutes, and a roughly 74-seat room with tickets starting at $10. The earlier entry cited a competition submission form for the minimum and left the age rule unstated; the FAQ answers both, so the form citation is gone."
+  "verified_at": "2026-11-07",
+  "verification_note": "Read from the club's own show pages on 2026-11-07, where every checkout lists 'Ages 18 and up only'. The club's second site (stmarkscomedyclub.com) has an FAQ saying the room is 21+, and the Tixr ticket listings say 'Ages 16 and up', so the room's age rule is published inconsistently and the ID check at the door is what settles it. The two-drink minimum, all sales final, first-come seating and the 15-20 minute arrival window come from the same show pages."
  },
  {
   "id": "comic-strip-live",
@@ -378,5 +378,25 @@
   "source_label": "The Stand West's own About page and show pages",
   "verified_at": "2026-11-05",
   "verification_note": "Address and age rule from the room's own About page (thestandwest.com/about, live on 2026-11-05): '407 West 15th St, New York ... between Ninth and Tenth Avenues' and 'Age 21 and over, with photo ID'. The Chelsea Market wording is the club's own, printed on every Stand West show page. Prices from the room's own show pages: $23 for the 5pm New York Comedy Festival sets, $35 for the 7pm and 9pm sets. Doors 30 minutes before, shows seat 15 minutes before, 90-minute shows, 16+ policy with one guest 21+ and no drink minimum come from the parent club's FAQ (thestandnyc.com/about/faq)."
+ },
+ {
+  "id": "bushwick-comedy-club",
+  "tier": "club",
+  "name": "Bushwick Comedy Club",
+  "rooms": "Single room on Melrose Street; coffee shop in the front by day, comedy stage by night",
+  "address": "259 Melrose St, Brooklyn",
+  "neighborhood": "Bushwick",
+  "price_label": "$15 general admission plus $2.25 tax and fee",
+  "price_low": 15,
+  "price_high": 15,
+  "minimum": "None. BYOB is the point; they also sell beer, wine and seltzer if you do not bring your own.",
+  "age": "Not stated on the club's own pages; check the show listing before you go",
+  "reservations": "Tickets online through the club's own site; general admission, first-come seating, and anyone not checked in 15 minutes after showtime can lose the seat to the waitlist.",
+  "character": "Comedian-owned and booked by tape rather than by referral, so the bill is full of people you have not heard of yet. Runs a showcase and a cash-prize comedy lottery on a weekly rotation.",
+  "calendar_url": "https://www.bushwickcomedy.com/",
+  "source_url": "https://www.bushwickcomedy.com/event-details/saturday-night-showcase-8-00-pm-41",
+  "source_label": "Show page on the club's own site",
+  "verified_at": "2026-11-07",
+  "verification_note": "Price ($15 plus $2.25 tax and fee), the no-minimum and BYOB policy, the first-come seating and the 15-minute check-in rule come from the club's own show pages on 2026-11-07. The club describes itself as Brooklyn's only BYOB comedy club on its site header. It does not publish an age policy, so the age line says to check the listing rather than guessing."
  }
 ]

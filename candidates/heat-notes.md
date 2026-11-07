@@ -427,3 +427,31 @@ Generated from `npm run heat` + `npm run research-plan` (last30days for the 2 na
 
 ### Ranked on schedule alone
 - All 44 skipped performers sit outside the 10-day window, below the cheap-rank threshold, or on a show already sold out. The four picks added today - Hillbilly Allegedly (Caveat Nov 2), Cold Plunge (Union Hall Nov 4), Puteria con PAPIROSSA (Littlefield Nov 6) and Critical Grace Theory (Union Hall Nov 9) - are named-headliner or named-lineup shows verified on their own pages; the plan scored their titles as names but scheduled no run for them. Maddy Kelly was skipped as sold out - the Union Hall Nov 11 page reads "Tickets Sold Out", so her pick stays on the board with the Sold out tag and does not enter the Tonight carousel.
+
+# Heat notes — 2026-11-07
+
+Recovery edition (the 11:00 run hit its tool cap and published nothing; recovered and published here).
+Generated from `npm run heat` + `npm run research-plan`.
+
+## Rankings
+- 46 performers considered; **ran 3** (Daniel Sloss, Jessica Kirson, Jordan Jensen), **reuse 4** cached, **skipped 39**
+- ~387,000 tokens saved from the research-plan (9,000 tokens per run, 43 runs avoided)
+- `no_recent_data` came back empty; all three runs were ranked on schedule alone
+
+## Run notes
+- **Daniel Sloss** (Beacon Theatre, Nov 14): 5 Reddit posts in 30 days, 564 upvotes, top thread r/Standup, and 843 Wikipedia views a day. The online talk is about the tour rather than the New York date, so the pick stands on the festival's own listing and the Beacon slot.
+- **Jessica Kirson** (New York Comedy Club Midtown, Nov 17): thin - 3 Reddit posts, 3 upvotes, top thread a r/longislandliveevents listing, 471 Wikipedia views a day. No New York signal on the date; the pick stands on its own event page.
+- **Jordan Jensen** (Beacon Theatre, Nov 12): 4 Reddit posts in 30 days, 132 upvotes, top thread r/Standup, and no Wikipedia signal. The pick stands on the festival listing.
+
+## Reuse notes (already cached under 7d)
+- **Marc Maron**: two live threads and neither is about New York - the signal is the tour and podcast chatter, not the Beacon date.
+- **Joanne McNally**: the signal is the Tonight Show debut and the McGregor boycott refusal, not the Town Hall Pinotphile taping.
+- **Dewayne Perkins**: the only real signal is a new black queer sketch web series he is in; the Bell House date is not what the threads are about.
+- **Ilana Glazer**: no New York signal; the top thread is about a fitness launch, not the Beacon show.
+
+## Ranked on schedule alone
+- All 39 skipped performers sit outside the 10-day window, below the cheap-rank threshold, or on a show already sold out. The 12 picks added today are named-headliner or named-lineup shows verified on their own pages; the plan scored their titles as names but scheduled no run for them.
+
+## Demand tags read today
+- **Sold out:** Maddy Kelly (Union Hall, Nov 11), TJ Miller Live! (Comic Strip Live, Nov 11), Fahim Anwar (Bell House, Nov 20), Jacqueline Novak (Bell House, Nov 23 - read off the Bell House's own calendar, which prints the show as SOLD OUT).
+- **Going fast:** 4 picks on a second show the same night at the same room.
