@@ -13,9 +13,8 @@ Six weeks ahead from the board. Regenerated on every build; edit the data, not t
 
 Ranked 46; run 3, reuse 4, skip 39; ~387,000 tokens saved.
 
-## Week 1: Nov 7 to Nov 13 — 46 picks — 19 without artwork · 44 Eventbrite leads not yet reviewed
+## Week 1: Nov 7 to Nov 13 — 45 picks — 19 without artwork · 44 Eventbrite leads not yet reviewed
 
-- Sat Nov 7 1:30pm · doors 1pm — **Drunk Black History** at Caveat · heat 25
 - Sat Nov 7 5pm · doors 4:30pm — **Charlie Flynn: Live at Union Hall** at Union Hall · NO ARTWORK
 - Sat Nov 7 6pm · doors 5:45pm — **New York Comedy Festival Presents: Ariel Elias** at Greenpoint Comedy Club
 - Sat Nov 7 6pm — **Joanne McNally: Pinotphile** at The Town Hall · NO ARTWORK · heat 35
