@@ -77,7 +77,8 @@
    "kind": "dated event flyer"
   },
   "demand": null,
-  "demand_checked": "2026-11-08"
+  "demand_checked": "2026-11-08",
+  "cover_art": true
  },
  {
   "id": "nycf-sarah-sherman-patti-harrison-town-hall-2026-11-08",
