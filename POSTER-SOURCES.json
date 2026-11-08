@@ -2267,7 +2267,7 @@
  },
  {
   "event_id": "cattywampus-ellen-skrmetti-wscc-2026-11-07",
-  "src": "/assets/posters/cattywampus-ellen-skrmetti-wscc-2026-11-07.png",
+  "src": "/assets/posters/archive/cattywampus-ellen-skrmetti-wscc-2026-11-07.png",
   "width": 1200,
   "height": 630,
   "source_url": "https://www.westsidecomedyclub.com/shows/new-york-comedy-festival-presents-cattywampus-with-ellen-skrmetti",
@@ -2278,7 +2278,8 @@
   "retrieved_at": "2026-10-27",
   "bytes": 180361,
   "sha256": "627b345dc3f840196bd84d0d92a260a92213d36afb10b99aab147bf754874740",
-  "reuse_status": "Official promotional artwork; no separate reuse license identified. Local review draft only."
+  "reuse_status": "Official promotional artwork; no separate reuse license identified. Local review draft only.",
+  "archived": true
  },
  {
   "event_id": "simeon-goodson-eastville-2026-12-06",
@@ -2669,7 +2670,7 @@
  },
  {
   "event_id": "nore-davis-eastville-2026-11-07",
-  "src": "/assets/posters/nore-davis-eastville-2026-11-07.jpg",
+  "src": "/assets/posters/archive/nore-davis-eastville-2026-11-07.jpg",
   "width": 1173,
   "height": 660,
   "source_url": "https://www.eastvillecomedy.com/events/nore-davis-sima-sepehri-greg-melly-torrey-huggins-janeane-garofalo-dj-hairston",
@@ -2680,7 +2681,8 @@
   "retrieved_at": "2026-10-29",
   "bytes": 85907,
   "sha256": "2cce915cfb20f00d34ae2044f0cf15daf552f566e719c52c991da522e4116122",
-  "reuse_status": "Official promotional artwork; no separate reuse license identified. Local review draft only."
+  "reuse_status": "Official promotional artwork; no separate reuse license identified. Local review draft only.",
+  "archived": true
  },
  {
   "event_id": "ester-steinberg-nycc-2026-11-10",
@@ -2867,7 +2869,7 @@
  },
  {
   "event_id": "the-workout-uesc-2026-11-07",
-  "src": "/assets/posters/the-workout-uesc-2026-11-07.webp",
+  "src": "/assets/posters/archive/the-workout-uesc-2026-11-07.webp",
   "width": 1200,
   "height": 676,
   "source_url": "https://www.uppereastsidecomedyclub.com/new-york-comedy-festival-the-workout-tickets",
@@ -2878,7 +2880,8 @@
   "retrieved_at": "2026-10-31",
   "bytes": 32788,
   "sha256": "54d463c10b66009f792725408839206fd89ad02883010eec79bcc36e4ce13927",
-  "reuse_status": "Official promotional artwork; no separate reuse license identified. Local review draft only."
+  "reuse_status": "Official promotional artwork; no separate reuse license identified. Local review draft only.",
+  "archived": true
  },
  {
   "event_id": "uesc-nycs-best-weekly-thursday-2026-11-05",
@@ -3113,7 +3116,7 @@
  },
  {
   "event_id": "drunk-black-history-caveat-2026-11-07",
-  "src": "/assets/posters/drunk-black-history-caveat-2026-11-07.jpg",
+  "src": "/assets/posters/archive/drunk-black-history-caveat-2026-11-07.jpg",
   "width": 1200,
   "height": 630,
   "source_url": "https://caveat.nyc/events/drunk-black-history-new-york-comedy-festival-edition-2026-11-07",
@@ -3124,7 +3127,8 @@
   "retrieved_at": "2026-11-05",
   "reuse_status": "Official promotional artwork; no separate reuse license identified. Local review draft only.",
   "bytes": 191543,
-  "sha256": "cf2d100a443a18cf8399e00fb274ccc496c46bed4b2188383b173947dde39e61"
+  "sha256": "cf2d100a443a18cf8399e00fb274ccc496c46bed4b2188383b173947dde39e61",
+  "archived": true
  },
  {
   "event_id": "party-clown-party-wscc-2026-12-10",
@@ -3173,7 +3177,7 @@
  },
  {
   "event_id": "tessa-and-freddie-do-comedy-union-hall-2026-11-07",
-  "src": "/assets/posters/tessa-and-freddie-union-hall-2026-11-07.jpg",
+  "src": "/assets/posters/archive/tessa-and-freddie-union-hall-2026-11-07.jpg",
   "width": 2160,
   "height": 1080,
   "source_url": "https://www.eventbrite.com/e/tessa-and-freddie-do-comedy-at-union-hall-tickets-1997940905030",
@@ -3184,11 +3188,12 @@
   "retrieved_at": "2026-11-06",
   "bytes": 164055,
   "sha256": "73102ca225deb1274d3f8cf4bab9c986997335a3a6d00e8f894d8f21c4951887",
-  "reuse_status": "Official promotional artwork; no separate reuse license identified. Local review draft only."
+  "reuse_status": "Official promotional artwork; no separate reuse license identified. Local review draft only.",
+  "archived": true
  },
  {
   "event_id": "ariel-elias-lance-weiss-greenpoint-2026-11-07",
-  "src": "/assets/posters/ariel-elias-greenpoint-2026-11-07.webp",
+  "src": "/assets/posters/archive/ariel-elias-greenpoint-2026-11-07.webp",
   "width": 1200,
   "height": 1200,
   "source_url": "https://punchup.live/venue/greenpointcomedyclub/shows/new-york-comedy-festival-presents-ariel-elias",
@@ -3199,11 +3204,12 @@
   "retrieved_at": "2026-11-06",
   "bytes": 98648,
   "sha256": "dab0a591518a7a14106a9c3b4767be392e313a31c5ad8654ca8f2cdcfa5aa8bd",
-  "reuse_status": "Official promotional artwork; no separate reuse license identified. Local review draft only."
+  "reuse_status": "Official promotional artwork; no separate reuse license identified. Local review draft only.",
+  "archived": true
  },
  {
   "event_id": "adam-pally-nate-lang-band-greenpoint-2026-11-07",
-  "src": "/assets/posters/adam-pally-greenpoint-2026-11-07.webp",
+  "src": "/assets/posters/archive/adam-pally-greenpoint-2026-11-07.webp",
   "width": 960,
   "height": 1200,
   "source_url": "https://punchup.live/venue/greenpointcomedyclub/shows/greenpoint-comedy-club-presents-adam-pally-with-the-nate-lang-band",
@@ -3214,7 +3220,8 @@
   "retrieved_at": "2026-11-06",
   "bytes": 212298,
   "sha256": "863bf59e476914cec0bc1335b52ddb333bea1e5f1409662144c795d862d59956",
-  "reuse_status": "Official promotional artwork; no separate reuse license identified. Local review draft only."
+  "reuse_status": "Official promotional artwork; no separate reuse license identified. Local review draft only.",
+  "archived": true
  },
  {
   "event_id": "casey-and-friends-named-casey-greenpoint-2026-11-12",
@@ -3338,7 +3345,7 @@
  },
  {
   "event_id": "secret-comedy-show-lic-2026-11-07",
-  "src": "/assets/posters/secret-comedy-show-cozy-art-land-2026-11-07.jpg",
+  "src": "/assets/posters/archive/secret-comedy-show-cozy-art-land-2026-11-07.jpg",
   "width": 2500,
   "height": 1667,
   "source_url": "https://www.thespotlightcomedy.com/newyork",
@@ -3349,7 +3356,8 @@
   "retrieved_at": "2026-11-07",
   "bytes": 644732,
   "sha256": "26153d025afb1d6ff2d5864aaa9aa5b8ffd5e2e599826d163b631e4415702a78",
-  "reuse_status": "Official promotional artwork; no separate reuse license identified. Local review draft only."
+  "reuse_status": "Official promotional artwork; no separate reuse license identified. Local review draft only.",
+  "archived": true
  },
  {
   "event_id": "peer-revue-caveat-2026-11-11",
