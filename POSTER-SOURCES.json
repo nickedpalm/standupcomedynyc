@@ -3070,7 +3070,7 @@
  },
  {
   "event_id": "homeward-bound-jae-carelli-caveat-2026-11-08",
-  "src": "/assets/posters/homeward-bound-caveat-2026-11-08.jpg",
+  "src": "/assets/posters/archive/homeward-bound-caveat-2026-11-08.jpg",
   "width": 1200,
   "height": 630,
   "source_url": "https://caveat.nyc/events/homeward-bound-a-korean-adoptee-exploring-the-longing-for-belonging-2026-11-08",
@@ -3081,7 +3081,8 @@
   "retrieved_at": "2026-11-04",
   "bytes": 93032,
   "sha256": "84e34a759ed02e4e0e36ff964c5003c1ae6d257b871336b76400fab6cc402f73",
-  "reuse_status": "Official promotional artwork; no separate reuse license identified. Local review draft only."
+  "reuse_status": "Official promotional artwork; no separate reuse license identified. Local review draft only.",
+  "archived": true
  },
  {
   "event_id": "shaunak-does-improvised-standup-union-hall-2026-11-06",
@@ -3330,7 +3331,7 @@
  },
  {
   "event_id": "best-indie-comedy-cobble-hill-2026-11-08",
-  "src": "/assets/posters/best-indie-cobble-hill-2026-11-08.jpg",
+  "src": "/assets/posters/archive/best-indie-cobble-hill-2026-11-08.jpg",
   "width": 1880,
   "height": 940,
   "source_url": "https://www.eventbrite.com/e/the-best-indie-comedy-night-in-cobble-hill-tickets-2003844354406",
@@ -3341,7 +3342,8 @@
   "retrieved_at": "2026-11-07",
   "bytes": 62093,
   "sha256": "6cce44f199ea7418180d5d16548482164df50c5e213c52afe5c31f1c6384b38a",
-  "reuse_status": "Official promotional artwork; no separate reuse license identified. Local review draft only."
+  "reuse_status": "Official promotional artwork; no separate reuse license identified. Local review draft only.",
+  "archived": true
  },
  {
   "event_id": "secret-comedy-show-lic-2026-11-07",

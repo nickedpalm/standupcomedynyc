@@ -1,7 +1,23 @@
 {
- "generated_at": "2026-11-08T09:20:17.054Z",
+ "generated_at": "2026-11-09T09:25:39.798Z",
  "note": "Demand signals for the editor. Only availability and second shows set the public demand tag.",
  "picks": [
+  {
+   "id": "critical-grace-theory-union-hall-2026-11-09",
+   "title": "Critical Grace Theory",
+   "venue": "Union Hall",
+   "date": "2026-11-09",
+   "heat": 100,
+   "demand": "sold_out",
+   "availability": "SoldOut",
+   "second_show": false,
+   "performer": "Critical Grace Theory",
+   "wikipedia": null,
+   "reddit": null,
+   "reasons": [
+    "sold out on the ticket page"
+   ]
+  },
   {
    "id": "maddy-kelly-union-hall-2026-11-11",
    "title": "Maddy Kelly",
@@ -62,14 +78,14 @@
    "performer": "Ania Magliano",
    "wikipedia": {
     "title": "Ania Magliano",
-    "views_30d": 83670,
-    "views_prior_30d": 54974,
-    "change": 52
+    "views_30d": 82590,
+    "views_prior_30d": 55170,
+    "change": 50
    },
    "reddit": null,
    "reasons": [
-    "Wikipedia: 2789 views a day",
-    "Wikipedia views up 52% over the prior month"
+    "Wikipedia: 2753 views a day",
+    "Wikipedia views up 50% over the prior month"
    ]
   },
   {
@@ -84,30 +100,14 @@
    "performer": "Ania Magliano",
    "wikipedia": {
     "title": "Ania Magliano",
-    "views_30d": 83670,
-    "views_prior_30d": 54974,
-    "change": 52
+    "views_30d": 82590,
+    "views_prior_30d": 55170,
+    "change": 50
    },
    "reddit": null,
    "reasons": [
-    "Wikipedia: 2789 views a day",
-    "Wikipedia views up 52% over the prior month"
-   ]
-  },
-  {
-   "id": "homeward-bound-jae-carelli-caveat-2026-11-08",
-   "title": "Homeward Bound: a Korean Adoptee Exploring the Longing for Belonging",
-   "venue": "Caveat",
-   "date": "2026-11-08",
-   "heat": 25,
-   "demand": "going_fast",
-   "availability": null,
-   "second_show": true,
-   "performer": "Homeward Bound",
-   "wikipedia": null,
-   "reddit": null,
-   "reasons": [
-    "a second show the same night at the same room"
+    "Wikipedia: 2753 views a day",
+    "Wikipedia views up 50% over the prior month"
    ]
   },
   {
@@ -156,14 +156,14 @@
    "performer": "Jacqueline Novak",
    "wikipedia": {
     "title": "Jacqueline Novak",
-    "views_30d": 10352,
-    "views_prior_30d": 6916,
-    "change": 50
+    "views_30d": 10246,
+    "views_prior_30d": 6696,
+    "change": 53
    },
    "reddit": null,
    "reasons": [
-    "Wikipedia: 345 views a day",
-    "Wikipedia views up 50% over the prior month"
+    "Wikipedia: 342 views a day",
+    "Wikipedia views up 53% over the prior month"
    ]
   },
   {
@@ -178,35 +178,14 @@
    "performer": "Jacqueline Novak",
    "wikipedia": {
     "title": "Jacqueline Novak",
-    "views_30d": 10352,
-    "views_prior_30d": 6916,
-    "change": 50
+    "views_30d": 10246,
+    "views_prior_30d": 6696,
+    "change": 53
    },
    "reddit": null,
    "reasons": [
-    "Wikipedia: 345 views a day",
-    "Wikipedia views up 50% over the prior month"
-   ]
-  },
-  {
-   "id": "nycf-marc-maron-beacon-2026-11-08",
-   "title": "Marc Maron: Yammering Into the Void Tour",
-   "venue": "Beacon Theatre",
-   "date": "2026-11-08",
-   "heat": 20,
-   "demand": null,
-   "availability": null,
-   "second_show": false,
-   "performer": "Marc Maron",
-   "wikipedia": {
-    "title": "Marc Maron",
-    "views_30d": 40545,
-    "views_prior_30d": 33550,
-    "change": 21
-   },
-   "reddit": null,
-   "reasons": [
-    "Wikipedia: 1352 views a day"
+    "Wikipedia: 342 views a day",
+    "Wikipedia views up 53% over the prior month"
    ]
   },
   {
@@ -221,13 +200,13 @@
    "performer": "Ilana Glazer",
    "wikipedia": {
     "title": "Ilana Glazer",
-    "views_30d": 34445,
-    "views_prior_30d": 33263,
-    "change": 4
+    "views_30d": 32689,
+    "views_prior_30d": 34169,
+    "change": -4
    },
    "reddit": null,
    "reasons": [
-    "Wikipedia: 1148 views a day"
+    "Wikipedia: 1090 views a day"
    ]
   },
   {
@@ -242,13 +221,13 @@
    "performer": "Dewayne Perkins",
    "wikipedia": {
     "title": "Dewayne Perkins",
-    "views_30d": 3527,
-    "views_prior_30d": 2173,
-    "change": 62
+    "views_30d": 3396,
+    "views_prior_30d": 2205,
+    "change": 54
    },
    "reddit": null,
    "reasons": [
-    "Wikipedia views up 62% over the prior month"
+    "Wikipedia views up 54% over the prior month"
    ]
   },
   {
@@ -263,13 +242,13 @@
    "performer": "Jess Hilarious",
    "wikipedia": {
     "title": "Jess Hilarious",
-    "views_30d": 6816,
-    "views_prior_30d": 8790,
-    "change": -22
+    "views_30d": 6472,
+    "views_prior_30d": 8735,
+    "change": -26
    },
    "reddit": null,
    "reasons": [
-    "Wikipedia: 227 views a day"
+    "Wikipedia: 216 views a day"
    ]
   },
   {
@@ -284,13 +263,13 @@
    "performer": "Daniel Sloss",
    "wikipedia": {
     "title": "Daniel Sloss",
-    "views_30d": 24698,
-    "views_prior_30d": 18106,
-    "change": 36
+    "views_30d": 24215,
+    "views_prior_30d": 18221,
+    "change": 33
    },
    "reddit": null,
    "reasons": [
-    "Wikipedia: 823 views a day"
+    "Wikipedia: 807 views a day"
    ]
   },
   {
@@ -305,13 +284,13 @@
    "performer": "Jessica Kirson",
    "wikipedia": {
     "title": "Jessica Kirson",
-    "views_30d": 13733,
-    "views_prior_30d": 11725,
-    "change": 17
+    "views_30d": 13307,
+    "views_prior_30d": 11807,
+    "change": 13
    },
    "reddit": null,
    "reasons": [
-    "Wikipedia: 458 views a day"
+    "Wikipedia: 444 views a day"
    ]
   },
   {
@@ -326,13 +305,13 @@
    "performer": "Jaboukie Young-White",
    "wikipedia": {
     "title": "Jaboukie Young-White",
-    "views_30d": 25638,
-    "views_prior_30d": 66150,
-    "change": -61
+    "views_30d": 24321,
+    "views_prior_30d": 66920,
+    "change": -64
    },
    "reddit": null,
    "reasons": [
-    "Wikipedia: 855 views a day"
+    "Wikipedia: 811 views a day"
    ]
   },
   {
@@ -347,13 +326,13 @@
    "performer": "Michelle Wolf",
    "wikipedia": {
     "title": "Michelle Wolf",
-    "views_30d": 17201,
-    "views_prior_30d": 12125,
-    "change": 42
+    "views_30d": 16852,
+    "views_prior_30d": 12069,
+    "change": 40
    },
    "reddit": null,
    "reasons": [
-    "Wikipedia: 573 views a day"
+    "Wikipedia: 562 views a day"
    ]
   },
   {
@@ -368,13 +347,13 @@
    "performer": "Jessica Kirson",
    "wikipedia": {
     "title": "Jessica Kirson",
-    "views_30d": 13733,
-    "views_prior_30d": 11725,
-    "change": 17
+    "views_30d": 13307,
+    "views_prior_30d": 11807,
+    "change": 13
    },
    "reddit": null,
    "reasons": [
-    "Wikipedia: 458 views a day"
+    "Wikipedia: 444 views a day"
    ]
   },
   {
@@ -405,13 +384,13 @@
    "performer": "Demetri Martin",
    "wikipedia": {
     "title": "Demetri Martin",
-    "views_30d": 15536,
-    "views_prior_30d": 14059,
-    "change": 11
+    "views_30d": 15233,
+    "views_prior_30d": 13346,
+    "change": 14
    },
    "reddit": null,
    "reasons": [
-    "Wikipedia: 518 views a day"
+    "Wikipedia: 508 views a day"
    ]
   },
   {
@@ -426,13 +405,13 @@
    "performer": "Demetri Martin",
    "wikipedia": {
     "title": "Demetri Martin",
-    "views_30d": 15536,
-    "views_prior_30d": 14059,
-    "change": 11
+    "views_30d": 15233,
+    "views_prior_30d": 13346,
+    "change": 14
    },
    "reddit": null,
    "reasons": [
-    "Wikipedia: 518 views a day"
+    "Wikipedia: 508 views a day"
    ]
   },
   {
@@ -468,85 +447,6 @@
    ]
   },
   {
-   "id": "nycf-josh-sharp-bell-house-2026-11-08",
-   "title": "Josh Sharp: An Hour of Crowd Work in the Round",
-   "venue": "The Bell House",
-   "date": "2026-11-08",
-   "heat": 0,
-   "demand": null,
-   "availability": null,
-   "second_show": false,
-   "performer": "Josh Sharp",
-   "wikipedia": {
-    "title": "Josh Sharp",
-    "views_30d": 838,
-    "views_prior_30d": 881,
-    "change": -5
-   },
-   "reddit": null,
-   "reasons": []
-  },
-  {
-   "id": "best-indie-comedy-cobble-hill-2026-11-08",
-   "title": "The Best Indie Comedy Night in Cobble Hill",
-   "venue": "Talea Beer Co. (Cobble Hill)",
-   "date": "2026-11-08",
-   "heat": 0,
-   "demand": null,
-   "availability": "InStock",
-   "second_show": false,
-   "performer": null,
-   "wikipedia": null,
-   "reddit": null,
-   "reasons": [
-    "tickets available"
-   ]
-  },
-  {
-   "id": "nycf-sarah-sherman-patti-harrison-town-hall-2026-11-08",
-   "title": "Sarah Sherman & Patti Harrison",
-   "venue": "The Town Hall",
-   "date": "2026-11-08",
-   "heat": 0,
-   "demand": null,
-   "availability": null,
-   "second_show": false,
-   "performer": null,
-   "wikipedia": null,
-   "reddit": null,
-   "reasons": []
-  },
-  {
-   "id": "very-good-comedy-tipsy-village-2026-11-08",
-   "title": "Very Good Comedy",
-   "venue": "Tipsy Village",
-   "date": "2026-11-08",
-   "heat": 0,
-   "demand": null,
-   "availability": "InStock",
-   "second_show": false,
-   "performer": null,
-   "wikipedia": null,
-   "reddit": null,
-   "reasons": [
-    "tickets available"
-   ]
-  },
-  {
-   "id": "nycf-rainbow-riot-bcc-2026-11-08",
-   "title": "Rainbow Riot",
-   "venue": "Brooklyn Comedy Collective",
-   "date": "2026-11-08",
-   "heat": 0,
-   "demand": null,
-   "availability": null,
-   "second_show": false,
-   "performer": "Rainbow Riot",
-   "wikipedia": null,
-   "reddit": null,
-   "reasons": []
-  },
-  {
    "id": "nycf-stand-up-for-heroes-geffen-2026-11-09",
    "title": "Stand Up for Heroes (NYCF)",
    "venue": "David Geffen Hall (Lincoln Center)",
@@ -559,22 +459,6 @@
    "wikipedia": null,
    "reddit": null,
    "reasons": []
-  },
-  {
-   "id": "critical-grace-theory-union-hall-2026-11-09",
-   "title": "Critical Grace Theory",
-   "venue": "Union Hall",
-   "date": "2026-11-09",
-   "heat": 0,
-   "demand": null,
-   "availability": "InStock",
-   "second_show": false,
-   "performer": "Critical Grace Theory",
-   "wikipedia": null,
-   "reddit": null,
-   "reasons": [
-    "tickets available"
-   ]
   },
   {
    "id": "ester-steinberg-nycc-2026-11-10",
@@ -1186,9 +1070,9 @@
    "performer": "Christian Finnegan",
    "wikipedia": {
     "title": "Christian Finnegan",
-    "views_30d": 902,
-    "views_prior_30d": 973,
-    "change": -7
+    "views_30d": 869,
+    "views_prior_30d": 969,
+    "change": -10
    },
    "reddit": null,
    "reasons": []
@@ -1263,9 +1147,9 @@
    "performer": "Judy Gold",
    "wikipedia": {
     "title": "Judy Gold",
-    "views_30d": 5039,
-    "views_prior_30d": 4245,
-    "change": 19
+    "views_30d": 4919,
+    "views_prior_30d": 4197,
+    "change": 17
    },
    "reddit": null,
    "reasons": []
@@ -1524,9 +1408,9 @@
    "performer": "Ismael Loutfi",
    "wikipedia": {
     "title": "Ismael Loutfi",
-    "views_30d": 90,
-    "views_prior_30d": 130,
-    "change": -31
+    "views_30d": 89,
+    "views_prior_30d": 128,
+    "change": -30
    },
    "reddit": null,
    "reasons": [
@@ -1985,9 +1869,9 @@
    "performer": "Ralph Barbosa",
    "wikipedia": {
     "title": "Ralph Barbosa",
-    "views_30d": 4538,
-    "views_prior_30d": 6784,
-    "change": -33
+    "views_30d": 4345,
+    "views_prior_30d": 6794,
+    "change": -36
    },
    "reddit": null,
    "reasons": []
