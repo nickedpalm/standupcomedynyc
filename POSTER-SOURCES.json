@@ -3480,5 +3480,50 @@
   "bytes": 61993,
   "sha256": "862e3f710c20330d47753451d6cd3186906601e8a1f568f9521efbb77049a50f",
   "reuse_status": "Official promotional artwork; no separate reuse license identified. Local review draft only."
+ },
+ {
+  "event_id": "mike-feeney-without-a-parachute-nycc-2026-12-13",
+  "src": "/assets/posters/mike-feeney-without-a-parachute-nycc-2026-12-13.jpg",
+  "width": 1040,
+  "height": 660,
+  "source_url": "https://newyorkcomedyclub.com/events/mike-feeney-without-a-parachute-unscripted-stand-up-crowd-work-2026-12-13190000",
+  "credit": "Artwork: New York Comedy Club",
+  "alt": "Mike Feeney: Without A Parachute at the New York Comedy Club, with his headshot against a blue background.",
+  "kind": "dated event flyer",
+  "original_image_url": "https://newyorkcomedyclub.com/img/events/Mike-Feeney-NYCC-GRAM-Dec-13-2026-Graphics-1072x680-2-4ef91502-main-image.jpg?1788874786",
+  "retrieved_at": "2026-11-08",
+  "bytes": 59112,
+  "sha256": "0e2981c04c97d9fcd903123bbfafd357c4bff255ff83d4f44e621cfea96d0833",
+  "reuse_status": "Official promotional artwork; no separate reuse license identified. Local review draft only."
+ },
+ {
+  "event_id": "good-eggs-nycc-2026-12-16",
+  "src": "/assets/posters/good-eggs-nycc-2026-12-16.jpg",
+  "width": 978,
+  "height": 660,
+  "source_url": "https://newyorkcomedyclub.com/events/good-eggs-presented-by-mark-normand-gary-vider-matt-ruby-2026-12-09200000-1",
+  "credit": "Artwork: Good Eggs / New York Comedy Club",
+  "alt": "Good Eggs at the New York Comedy Club, in the show's own illustrated egg artwork.",
+  "kind": "dated event flyer",
+  "original_image_url": "https://newyorkcomedyclub.com/img/imagetest/eggs-5-png-9b400915-eggs-5-png.jpg?1724250035",
+  "retrieved_at": "2026-11-08",
+  "bytes": 34429,
+  "sha256": "e990563765eef47d9210005e263fe8407304f1b7da5cd072b6c76a976dfac768",
+  "reuse_status": "Official promotional artwork; no separate reuse license identified. Local review draft only."
+ },
+ {
+  "event_id": "one-in-35-whiskey-cellar-2026-11-19",
+  "src": "/assets/posters/one-in-35-whiskey-cellar-2026-11-19.jpg",
+  "width": 1880,
+  "height": 940,
+  "source_url": "https://www.eventbrite.com/e/one-in-35-stand-up-comedy-with-a-one-in-35-chance-your-drinks-are-on-us-tickets-1988657104934",
+  "credit": "Artwork: Team Comedy / show organizer",
+  "alt": "One in 35 show artwork: rows of numbered chairs on a yellow background with one red throne, and the line THIRD THURSDAYS, 8:30PM, THE WHISKEY CELLAR, 77 EAST 7 STREET, NYC.",
+  "kind": "dated event flyer",
+  "original_image_url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1196028249%2F4427512145%2F1%2Foriginal.20261018-045431?crop=focalpoint&fit=crop&w=1880&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=708f1899f5728eb90835bd6a93314a04",
+  "retrieved_at": "2026-11-08",
+  "bytes": 170775,
+  "sha256": "1daccba20abe3733c97321748e9cb9427ff73bb9b32884bdddde1ba8ead0ca03",
+  "reuse_status": "Official promotional artwork; no separate reuse license identified. Local review draft only."
  }
 ]

@@ -398,5 +398,25 @@
   "source_label": "Show page on the club's own site",
   "verified_at": "2026-11-07",
   "verification_note": "Price ($15 plus $2.25 tax and fee), the no-minimum and BYOB policy, the first-come seating and the 15-minute check-in rule come from the club's own show pages on 2026-11-07. The club describes itself as Brooklyn's only BYOB comedy club on its site header. It does not publish an age policy, so the age line says to check the listing rather than guessing."
+ },
+ {
+  "id": "sesh-comedy",
+  "tier": "club",
+  "name": "Sesh Comedy",
+  "rooms": "One small room at 55 Chrystie St, on the Lower East Side at the edge of Chinatown",
+  "address": "55 Chrystie St, Manhattan",
+  "neighborhood": "Lower East Side",
+  "price_label": "$20 general admission · $30 premium reserved seating · $7 BYOB fee",
+  "price_low": 20,
+  "price_high": 30,
+  "minimum": "No drink minimum. BYOB is $7 (no hard liquor); the room also sells beer, wine and seltzers at dive-bar prices.",
+  "age": "21+",
+  "reservations": "Tickets online through the room's own checkout. All sales are final, no refunds, exchanges or transfers, and unclaimed seats are released at showtime. Arrive a few minutes early for best seating.",
+  "character": "A 70-minute showcase of rising New York comics in a room small enough that you can hear the room turn. Two showcase nights a week, plus a headline set most weeks.",
+  "calendar_url": "https://seshcomedy.com/showcases.php",
+  "source_url": "https://seshcomedy.com/terms.php",
+  "source_label": "Ticket terms and conditions",
+  "verified_at": "2026-11-08",
+  "verification_note": "Read from the room's own pages on 2026-11-08: the BYOB policy and the $7 fee (no hard liquor) and the 21+ from the home page, the $20 GA / $30 premium seating from the dated show pages, and the all-sales-final, no-transfer and seat-release rules from the terms page. The address is on every show page."
  }
 ]

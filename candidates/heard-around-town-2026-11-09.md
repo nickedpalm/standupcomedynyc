@@ -1,0 +1,47 @@
+# Heard around town — week of November 9, 2026
+
+Draft for review. Not on the site. Not committed. Five items, in our voice — plain, specific, the kind of sentence a friend would send you in a text. Sources at the bottom of each item.
+
+---
+
+**1. Tonight, Demi Adejuyigbe plays Littlefield twice, and the second show is still open.**
+The festival show is billed as an hour of songs, presentations and bits — the writer-producer behind The Good Place, The Amber Ruffin Show and Netflix's NEON doing the kind of set where the piano gets involved. Two shows tonight at Littlefield, 635 Sackett St, Brooklyn: 7:00 PM with doors at 6:00, and 9:30 PM with doors at 9:00, 21+, $24.36 and up, and both are still selling.
+
+Source: [Demi Adejuyigbe Sells Out at the New York Comedy Festival](https://nycomedyfestival.com/lineup/demi-adejuyigbe-sells-out/) (doors and times as printed on [Littlefield's own shows page](https://littlefieldnyc.com/all-shows/))
+
+**2. TJ Miller is sold out at the Comic Strip — but the festival's own listing still has the 8pm seats.**
+The Wednesday show is the loudest comedy booking of the week in this city, and both ticket pages for it are live: the club's regular listing reads sold out, while the New York Comedy Festival's own listing for the identical 8:00 PM show still has seats at $33.85 and is marked "sales end soon." The Comic Strip's own schedule points at that festival page, so that is the one to buy. TJ Miller Live! at Comic Strip Live, 1568 Second Ave, New York, NY 10028, Wednesday, November 11, 8:00 PM.
+
+Source: [T.J. Miller — 2026 New York Comedy Festival at The Comic Strip Live](https://www.eventbrite.com/e/tj-miller-2026-new-york-comedy-festival-the-comic-strip-live-tickets-2003303756463)
+
+**3. Red Bastard is in Brooklyn for one night, and the room is sixty seats plus standing.**
+Eric Davis has been doing this show long enough to sell out Edinburgh seasons on it, and the New York Times called it "very, very funny" — a roller-coaster of raw conversation with something happening every ten seconds and no script to hide behind. It plays Eris Mainstage at Brooklyn Comedy Collective, 167 Graham Avenue, Brooklyn, NY 11206, Saturday, November 14, doors 7:00 PM and show 7:30 PM, 21+, $22.17 through Eventbrite, and the room says limited tickets go at the door if it sells out.
+
+Source: [New York Comedy Festival: Red Bastard at Brooklyn Comedy Collective](https://www.brooklyncc.com/show-schedule/red-bastard-nycf-11-14)
+
+**4. The Moth and Comic Relief took the Town Hall for an afternoon of true stories and a ticking clock.**
+Five comics step to the mic with nothing but a story that actually happened, no script and a clock running — the format The Moth has built for years, handed to a festival lineup of Laura Benanti, Jake Cornell, Jay Jurden, Hari Kondabolu and Devon Walker, hosted by Ophira Eisenberg. NY Comedy Festival, Comic Relief & The Moth Present Funny Story at The Town Hall, 123 W 43rd Street, New York, NY 10036, Saturday, November 14, 3:00 PM, doors 2:00 PM.
+
+Source: [Funny Story at The Town Hall](https://www.thetownhall.org/event/ny-comedy-festival-comic-relief-the-moth-present-funny-story)
+
+**5. The Kill Tony Golden Ticket winner is on a $22 bill at St. Marks on Thursday.**
+Reggie Kush walked off Kill Tony episode 792 on October 26 with a Golden Ticket, and the clips of the set have been circulating all week — so it is worth knowing where to see him next, which is a Thursday 8:30 in the East Village rather than a Vegas showcase. Bourne With Talent Comedy Show at St. Marks Comedy Club, 12 St. Marks Place, East Village NYC, Thursday, November 12, doors 8:00 PM and show 8:30 PM, $20 plus a $2 fee, two drink minimum, 18+. Talent Harris Jr. and Kevin Bourne host, with Alexis Bradby, Mezzy D and Shiv Shanks also on the bill.
+
+Source: [Bourne With Talent Comedy Show at St. Marks Comedy Club](https://www.stmarkscomedy.com/shows/bourne-with-talent-comedy-show-2026-11-12-24fdd6d2)
+
+---
+
+### Sources and notes for the editor
+
+- **Research runs (last30days, `--search=reddit,hackernews --days=30`).** The three highest-heat names in candidates/heat.json are all at heat 100 and all four of the heat-100 picks are sold out, so I ran Grace Johnson, TJ Miller, Maddy Kelly and Fahim Anwar plus "NYC comedy" — five runs, all recorded in candidates/research-cache.json.
+  - **Grace Johnson** — nothing. Hacker News returned twelve Grace Blackwell GPU-scheduler stories and Reddit a Real Housewives thread about falling from grace. Her Union Hall Nov 9 date is sold out.
+  - **TJ Miller** — thirteen Reddit threads, 19,285 points, and not one is about the comic: New York Comic Con cosplay, a Texas-midterm thread, and a r/ShaneGillis post about Patrice O'Neal defending comics (153 points). Hacker News: zero. The last30days keyless Reddit path was rate-limited on some queries, so every Reddit number here was re-checked with the repo's own read-only OAuth path (scripts/reddit.js pattern).
+  - **Maddy Kelly** — eleven threads, 5,622 points, all name collisions (r/dancemoms, r/HistoryPorn, r/fantasyfootball). Sold out anyway.
+  - **Fahim Anwar** — two threads (r/Webseries, r/brandnew), zero on Hacker News. Note from the Live Nation venue page: the Nov 20 Bell House date has **two** shows — the 7:30 PM is marked SOLD OUT and a second 10:00 PM show is on a different ticketmaster id (300065560B2A0F77) and is not sold out. Our board lists the 7:30. If Nick wants, the 10pm is the actionable one.
+  - **"NYC comedy"** — Hacker News is entirely civic and transit stories (NYT subscriber earnings, a Pickpocket's Guide to New York, a Bay Area walker, parking tickets). Zero comedy. The one usable Reddit hit was a Nov 5 r/StandUpComedy post for the Bourne With Talent show at St. Marks, which is now item 5.
+- **Press scan (last seven days, Nov 2–9).** Thin, and the draft does not pretend otherwise. The New York Times ran Jason Zinoman's "10 Shows to Catch at the New York Comedy Festival" on Nov 6, but its three named picks (Marc Maron, Ms. Pat, Olivia Carter) all fall on days now past, so it is not an item this week. Vulture's comedy desk ran its Nov 3 stand-up specials roundup (Mandal's $$$$$$ is the lead, with Kate Berlant, Benny Feldman, Punkie Johnson and Gavin Matts underneath) and a Nov 4 piece on the Difficult People table read — the table read we ran last week. Time Out New York's only fresh comedy story is the Oct 16 NBC100 panels piece, and both panels are now sold out on TicketWeb. Brooklyn Vegan's comedy category still has nothing since Aug 4, though its NYC shows feed is carrying the NYCF listings, which is where the Red Bastard copy came from. The Village Voice's last comedy-desk piece is still the Oct 28 Michael Musto column. **That is why three of the five items come from the venue and festival pages rather than from the press:** the New York Comedy Festival runs through Nov 15 and the rooms' own pages are where this week's news is.
+- **Reddit leads (candidates/reddit-leads.json, 14-day window).** New since last week: the "35 seats, one number drawn, we pay your bar tab" show (One in 35, Whiskey Cellar, Nov 19) — that one is already on our board; the Secret Comedy Show in a 40-seat art studio in Long Island City, Cozy Art Land, next session Saturday Dec 5, 9:30 PM doors, BYOB, no drink minimum, $12.51; a mutual aid comedy show at Greenpoint Comedy Club on Sunday Dec 6 with Jake Cornell, Orion Levine, James Tom, Claire Parker and Juicy Mawma, all proceeds to North Brooklyn Mutual Aid; and Leg Day Comedy, a monthly 80-minute set inside a gym at 720 Strength, 36 Ludlow St, last one Nov 7. The last two are leads only — neither venue page was opened, so neither is in the five. Post Moves at Bar Bayeux (free, Sundays 8:30 PM) is still true and still not on the board; it has run in this column twice already, so I left it out.
+- **Not on our board, worth a look for the board itself:** Red Bastard (Nov 14, Eris) and New York's Funniest Stand-Ups (Nov 13, The Stand West, 7:00 PM, from $30 — Olivia Carter, Meka Mo, Andre De Freitas, Sharief Johnson, Ethan Simmons-Patterson, Janet McNamara, Carolina Montesquieu, Alex Dragicevich), plus Josh Gondelman at the Bell House on Nov 11 at 7:30 PM. Eris Mainstage / Brooklyn Comedy Collective and The Stand West are both in venues.json; Red Bastard is the one with a New York Times quote attached to it.
+- **Two Town Hall dates are on the hold-out list** (Thu Nov 12 and Fri Nov 13, both festival shows). They appear in neither the draft nor any board note, and the Town Hall's public calendar will keep listing them — that is the venue's business.
+- **One thing for Nick to decide.** Our board carries the TJ Miller pick with the club's regular Eventbrite listing, which reads sold out, and a festival listing for the identical 8:00 PM show that is not. That is worth fixing on the board whichever way Nick wants it: point the pick at the festival listing, or leave it sold out and let the site say so.
+- **Time-sensitive.** Item 1 is tonight and item 5 is Thursday. Items 3 and 4 are Saturday afternoon and evening. Item 2 is Wednesday. **If this gets tightened to three,** items 2, 3 and 4 are the ones a reader can act on this week with the most certainty — a real seat for a sold-out show, a 60-seat Brooklyn room with a New York Times quote, and a town-hall afternoon. Item 1 dies at midnight and item 5 is a $22 room with a talent story attached.

@@ -27,12 +27,13 @@ function ld(html) {
 (async () => {
   const previous = fs.existsSync(out) ? JSON.parse(fs.readFileSync(out, 'utf8')) : { events: [] };
   const prevUrls = new Set(previous.events.map((e) => e.url));
-  const events = []; const errors = [];
+  const events = []; const errors = []; const seenUrls = new Set();
   for (const v of venues) {
     let html;
     try { html = await get(v.eventbrite_organizer); } catch (e) { errors.push(`${v.name}: ${e.message}`); continue; }
     const links = [...new Set([...html.matchAll(/https:\/\/www\.eventbrite\.com\/e\/[a-z0-9-]+-tickets-\d+/g)].map((m) => m[0]))];
     for (const url of links.slice(0, 25)) {
+      if (seenUrls.has(url)) continue;   // one producer can run more than one room; do not list the show twice
       await sleep(400);
       let page; try { page = await get(url); } catch (e) { errors.push(`${url}: ${e.message}`); continue; }
       const ev = ld(page); if (!ev || !ev.startDate) continue;
@@ -43,6 +44,7 @@ function ld(html) {
       const og = (page.match(/<meta property="og:image" content="([^"]+)"/) || [])[1] || null;
       const image = ev.image ? (Array.isArray(ev.image) ? ev.image[0] : ev.image) : (og ? decodeURIComponent((og.match(/url=([^&]+)/) || [])[1] || '') : null);
       events.push({ venue: v.name, neighborhood: v.neighborhood, organizer: v.eventbrite_organizer, title: ev.name, date: nyDate(ev.startDate), time: nyTime(ev.startDate), starts_at: ev.startDate, ends_at: ev.endDate || null, location_name: loc.name || null, location_address: [addr.streetAddress, addr.addressLocality].filter(Boolean).join(', ') || null, price_from: prices.length ? Math.min(...prices) : null, url, image: image || null, description: (ev.description || '').replace(/\s+/g, ' ').trim().slice(0, 300), venue_name_matches: !loc.name || new RegExp(v.name.split(' ')[0], 'i').test(loc.name), already_a_pick: known.has(url) || knownIds.has((url.match(/tickets-(\d+)/) || [])[1]), seen_before: prevUrls.has(url) });
+      seenUrls.add(url);
     }
   }
   events.sort((a, b) => a.starts_at.localeCompare(b.starts_at));

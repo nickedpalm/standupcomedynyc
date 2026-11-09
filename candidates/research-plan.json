@@ -1,149 +1,156 @@
 {
- "generated_at": "2026-11-07T11:10:50.253Z",
- "performers_considered": 46,
+ "generated_at": "2026-11-09T13:43:53.121Z",
+ "performers_considered": 47,
  "shortlist": [
   {
    "name": "Maddy Kelly",
-   "priority": 120
+   "priority": 135
   },
   {
    "name": "Fahim Anwar",
    "priority": 105
   },
   {
-   "name": "Marc Maron",
-   "priority": 75
-  },
-  {
-   "name": "Joanne McNally",
-   "priority": 65
-  },
-  {
    "name": "Dewayne Perkins",
-   "priority": 56
-  },
-  {
-   "name": "Daniel Sloss",
-   "priority": 50
-  },
-  {
-   "name": "Jessica Kirson",
    "priority": 45
-  },
-  {
-   "name": "Ilana Glazer",
-   "priority": 40
   },
   {
    "name": "Ania Magliano",
    "priority": 40
   },
   {
-   "name": "Jordan Jensen",
-   "priority": 37
+   "name": "Ester Steinberg",
+   "priority": 35
+  },
+  {
+   "name": "Caroline Hanes",
+   "priority": 35
+  },
+  {
+   "name": "Salma Zaky",
+   "priority": 35
+  },
+  {
+   "name": "Peer Revue",
+   "priority": 35
+  },
+  {
+   "name": "Casey",
+   "priority": 35
+  },
+  {
+   "name": "Friends Named Casey",
+   "priority": 35
   }
  ],
  "run": [
   {
-   "name": "Daniel Sloss",
-   "priority": 50,
+   "name": "Ester Steinberg",
+   "priority": 35,
    "next": {
-    "id": "nycf-daniel-sloss-beacon-2026-11-14",
-    "date": "2026-11-14",
-    "venue": "Beacon Theatre",
-    "days": 7,
-    "featured": false,
-    "poster": false,
-    "demand": null
-   },
-   "cheap_signals": [
-    "Wikipedia: 843 views a day",
-    "Reddit: 5 posts in 30 days, 564 upvotes (top: r/Standup)"
-   ],
-   "reason": "in the decision window and not yet decided"
-  },
-  {
-   "name": "Jessica Kirson",
-   "priority": 45,
-   "next": {
-    "id": "jessica-kirson-nycc-2026-11-17",
-    "date": "2026-11-17",
+    "id": "ester-steinberg-nycc-2026-11-10",
+    "date": "2026-11-10",
     "venue": "New York Comedy Club (Midtown)",
-    "days": 10,
+    "days": 1,
     "featured": false,
     "poster": true,
     "demand": null
    },
-   "cheap_signals": [
-    "Wikipedia: 471 views a day",
-    "Reddit: 3 posts in 30 days, 3 upvotes (top: r/longislandliveevents)"
-   ],
-   "reason": "in the decision window and not yet decided"
+   "cheap_signals": [],
+   "reason": "show within 3 days and not yet decided"
   },
   {
-   "name": "Jordan Jensen",
-   "priority": 37,
+   "name": "Caroline Hanes",
+   "priority": 35,
    "next": {
-    "id": "nycf-jordan-jensen-beacon-2026-11-12",
-    "date": "2026-11-12",
-    "venue": "Beacon Theatre",
-    "days": 5,
+    "id": "double-edged-hanes-zaky-nycc-2026-11-10",
+    "date": "2026-11-10",
+    "venue": "New York Comedy Club (Upper West Side)",
+    "days": 1,
     "featured": false,
-    "poster": false,
+    "poster": true,
     "demand": null
    },
-   "cheap_signals": [
-    "Reddit: 4 posts in 30 days, 132 upvotes (top: r/Standup)"
-   ],
-   "reason": "in the decision window and not yet decided"
+   "cheap_signals": [],
+   "reason": "show within 3 days and not yet decided"
+  },
+  {
+   "name": "Salma Zaky",
+   "priority": 35,
+   "next": {
+    "id": "double-edged-hanes-zaky-nycc-2026-11-10",
+    "date": "2026-11-10",
+    "venue": "New York Comedy Club (Upper West Side)",
+    "days": 1,
+    "featured": false,
+    "poster": true,
+    "demand": null
+   },
+   "cheap_signals": [],
+   "reason": "show within 3 days and not yet decided"
+  },
+  {
+   "name": "Peer Revue",
+   "priority": 35,
+   "next": {
+    "id": "peer-revue-caveat-2026-11-11",
+    "date": "2026-11-11",
+    "venue": "Caveat",
+    "days": 2,
+    "featured": false,
+    "poster": true,
+    "demand": null
+   },
+   "cheap_signals": [],
+   "reason": "show within 3 days and not yet decided"
+  },
+  {
+   "name": "Casey",
+   "priority": 35,
+   "next": {
+    "id": "casey-and-friends-named-casey-greenpoint-2026-11-12",
+    "date": "2026-11-12",
+    "venue": "Greenpoint Comedy Club",
+    "days": 3,
+    "featured": false,
+    "poster": true,
+    "demand": null
+   },
+   "cheap_signals": [],
+   "reason": "show within 3 days and not yet decided"
+  },
+  {
+   "name": "Friends Named Casey",
+   "priority": 35,
+   "next": {
+    "id": "casey-and-friends-named-casey-greenpoint-2026-11-12",
+    "date": "2026-11-12",
+    "venue": "Greenpoint Comedy Club",
+    "days": 3,
+    "featured": false,
+    "poster": true,
+    "demand": null
+   },
+   "cheap_signals": [],
+   "reason": "show within 3 days and not yet decided"
   }
  ],
  "reuse": [
   {
-   "name": "Marc Maron",
-   "priority": 75,
-   "cached": {
-    "at": "2026-11-03T11:32:06.765Z",
-    "age_days": 4,
-    "fresh": true,
-    "note": "Two live threads and neither is about New York: a Nov 3 r/PodcastSnarks post on him roasting comics who backed Trump, and a Nov 2 r/SymbyNews item on the Richard Lewis Award at the Comedy Gives Back gala. The rest is a Six Feet Under cameo question and a Pittsburgh spare ticket, so the Beacon Theatre Nov 8 date stands on the venue page."
-   }
-  },
-  {
-   "name": "Joanne McNally",
-   "priority": 65,
-   "cached": {
-    "at": "2026-11-03T11:32:01.961Z",
-    "age_days": 4,
-    "fresh": true,
-    "note": "Signal is unchanged from last week and none of it is about the show: an 827-upvote r/entertainment thread Oct 21 on refusing to boycott the Tonight Show over the Conor McGregor interview, plus 275 and 126-upvote r/ireland threads Oct 20 and 21 on her US TV debut. The rest is Celebrity Traitors UK wardrobe talk. The Town Hall Nov 7 Pinotphile taping is the part a reader can act on."
-   }
-  },
-  {
    "name": "Dewayne Perkins",
-   "priority": 56,
+   "priority": 45,
    "cached": {
     "at": "2026-11-03T11:32:01.997Z",
-    "age_days": 4,
+    "age_days": 6.1,
     "fresh": true,
     "note": "The only real signal is a new black queer sketch web series he is in, I Swear We're Friends: 159-upvote r/BlackLGBT posts Oct 8 and 10 on the premiere, then 54 and 41 points Oct 14 and 16 on the first two episodes. Nothing in the window is about the Bell House Nov 9 date, and none of the four threads are from the last seven days, so that pick stands on the event page alone."
-   }
-  },
-  {
-   "name": "Ilana Glazer",
-   "priority": 40,
-   "cached": {
-    "at": "2026-11-03T11:32:06.802Z",
-    "age_days": 4,
-    "fresh": true,
-    "note": "No New York signal: a 107-upvote r/BroadCity post Oct 18 on her Crunch Fitness commercial contest video, an eight-year Broad City anniversary thread, and two posts selling tickets to her October 15 Los Angeles show. The Beacon Theatre Nov 13 date rests on the festival page."
    }
   }
  ],
  "skip": [
   {
    "name": "Maddy Kelly",
-   "priority": 120,
+   "priority": 135,
    "reason": "already sold out; research cannot change the call"
   },
   {
@@ -154,40 +161,20 @@
   {
    "name": "Ania Magliano",
    "priority": 40,
-   "reason": "next show in 25 days, outside the 10-day window"
+   "reason": "next show in 23 days, outside the 10-day window"
   },
   {
-   "name": "Ester Steinberg",
+   "name": "Ilana Glazer",
    "priority": 35,
    "reason": "outside the top 10 by cheap ranking"
   },
   {
-   "name": "Caroline Hanes",
-   "priority": 35,
-   "reason": "outside the top 10 by cheap ranking"
-  },
-  {
-   "name": "Salma Zaky",
-   "priority": 35,
-   "reason": "outside the top 10 by cheap ranking"
-  },
-  {
-   "name": "Michelle Wolf",
-   "priority": 35,
-   "reason": "outside the top 10 by cheap ranking"
-  },
-  {
-   "name": "Charlie Flynn",
+   "name": "Jordan Jensen",
    "priority": 30,
    "reason": "outside the top 10 by cheap ranking"
   },
   {
-   "name": "Josh Sharp",
-   "priority": 30,
-   "reason": "outside the top 10 by cheap ranking"
-  },
-  {
-   "name": "Matthew Broussard",
+   "name": "Jessica Kirson",
    "priority": 30,
    "reason": "outside the top 10 by cheap ranking"
   },
@@ -197,12 +184,12 @@
    "reason": "outside the top 10 by cheap ranking"
   },
   {
-   "name": "Gavin Matts",
-   "priority": 30,
+   "name": "Jess Hilarious",
+   "priority": 25,
    "reason": "outside the top 10 by cheap ranking"
   },
   {
-   "name": "Jess Hilarious",
+   "name": "Daniel Sloss",
    "priority": 25,
    "reason": "outside the top 10 by cheap ranking"
   },
@@ -212,13 +199,8 @@
    "reason": "outside the top 10 by cheap ranking"
   },
   {
-   "name": "Casey",
-   "priority": 20,
-   "reason": "outside the top 10 by cheap ranking"
-  },
-  {
-   "name": "Friends Named Casey",
-   "priority": 20,
+   "name": "Michelle Wolf",
+   "priority": 25,
    "reason": "outside the top 10 by cheap ranking"
   },
   {
@@ -227,32 +209,12 @@
    "reason": "outside the top 10 by cheap ranking"
   },
   {
-   "name": "Gag Reflex",
+   "name": "Matthew Broussard",
    "priority": 20,
    "reason": "outside the top 10 by cheap ranking"
   },
   {
-   "name": "Thriving",
-   "priority": 20,
-   "reason": "outside the top 10 by cheap ranking"
-  },
-  {
-   "name": "Anxiety",
-   "priority": 20,
-   "reason": "outside the top 10 by cheap ranking"
-  },
-  {
-   "name": "Baron Vaughn",
-   "priority": 20,
-   "reason": "outside the top 10 by cheap ranking"
-  },
-  {
-   "name": "Dr. April Toure",
-   "priority": 20,
-   "reason": "outside the top 10 by cheap ranking"
-  },
-  {
-   "name": "Gabrielle Kennedy",
+   "name": "Kylie Vincent",
    "priority": 20,
    "reason": "outside the top 10 by cheap ranking"
   },
@@ -267,6 +229,16 @@
    "reason": "outside the top 10 by cheap ranking"
   },
   {
+   "name": "Denise Taylor",
+   "priority": 20,
+   "reason": "outside the top 10 by cheap ranking"
+  },
+  {
+   "name": "Neel Ghosh",
+   "priority": 15,
+   "reason": "outside the top 10 by cheap ranking"
+  },
+  {
    "name": "Mojo Brookzz",
    "priority": 15,
    "reason": "outside the top 10 by cheap ranking"
@@ -274,11 +246,6 @@
   {
    "name": "Demetri Martin",
    "priority": 15,
-   "reason": "outside the top 10 by cheap ranking"
-  },
-  {
-   "name": "Kylie Vincent",
-   "priority": 5,
    "reason": "outside the top 10 by cheap ranking"
   },
   {
@@ -312,7 +279,17 @@
    "reason": "outside the top 10 by cheap ranking"
   },
   {
+   "name": "Gavin Matts",
+   "priority": 5,
+   "reason": "outside the top 10 by cheap ranking"
+  },
+  {
    "name": "Clint Coley",
+   "priority": 5,
+   "reason": "outside the top 10 by cheap ranking"
+  },
+  {
+   "name": "Crowd Work)",
    "priority": 5,
    "reason": "outside the top 10 by cheap ranking"
   },
@@ -322,7 +299,27 @@
    "reason": "outside the top 10 by cheap ranking"
   },
   {
-   "name": "Peer Revue",
+   "name": "Jake Lambert",
+   "priority": 5,
+   "reason": "outside the top 10 by cheap ranking"
+  },
+  {
+   "name": "Hot Commodity",
+   "priority": 5,
+   "reason": "outside the top 10 by cheap ranking"
+  },
+  {
+   "name": "Get Work",
+   "priority": 5,
+   "reason": "outside the top 10 by cheap ranking"
+  },
+  {
+   "name": "Modern Whitney",
+   "priority": 5,
+   "reason": "outside the top 10 by cheap ranking"
+  },
+  {
+   "name": "College Radio",
    "priority": 5,
    "reason": "outside the top 10 by cheap ranking"
   },
@@ -335,9 +332,31 @@
    "name": "Melissa Ferrick",
    "priority": 5,
    "reason": "outside the top 10 by cheap ranking"
+  },
+  {
+   "name": "Paula J. Leon",
+   "priority": 0,
+   "reason": "outside the top 10 by cheap ranking"
+  },
+  {
+   "name": "Mario Pisano",
+   "priority": 0,
+   "reason": "outside the top 10 by cheap ranking"
+  },
+  {
+   "name": "Sunday Funday",
+   "priority": 0,
+   "reason": "outside the top 10 by cheap ranking"
   }
  ],
- "estimated_tokens_saved": 387000,
- "estimate_basis": "9000 tokens per last30days run, 43 runs avoided out of 46",
- "no_recent_data": []
+ "estimated_tokens_saved": 369000,
+ "estimate_basis": "9000 tokens per last30days run, 41 runs avoided out of 47",
+ "no_recent_data": [
+  "Ester Steinberg",
+  "Caroline Hanes",
+  "Salma Zaky",
+  "Peer Revue",
+  "Casey",
+  "Friends Named Casey"
+ ]
 }

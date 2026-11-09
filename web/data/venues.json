@@ -277,9 +277,11 @@
   "neighborhood": "Williamsburg",
   "borough": "Brooklyn",
   "calendar_url": "https://flophousecomedy.com/",
-  "source_label": "Venue home (events listed there)",
-  "access_note": "Squarespace; loads plainly. Formerly 'Williamsburg Comedy Club' per task brief",
-  "verified_at": "2026-09-14"
+  "source_label": "Venue home (events listed there) and the producer's Eventbrite organizer page",
+  "access_note": "Club founded by comedian brothers Nicholas and Nathan Hopping; its own page advertises affordable tickets and no drink minimums. The room runs shows at 362 Grand St and at two other addresses, and the nightly bills are ticketed on Eventbrite under its organizer page, so the organizer feed is the calendar.",
+  "verified_at": "2026-11-08",
+  "website": "https://flophousecomedy.com/",
+  "eventbrite_organizer": "https://www.eventbrite.com/o/flop-house-comedy-74484939183"
  },
  {
   "name": "Eastville Comedy Club",
@@ -512,7 +514,7 @@
   "website": "https://seshcomedy.com/",
   "calendar_url": "https://seshcomedy.com/showcases.php",
   "source_label": "SESH showcases page (Friday and Saturday Night SESH Showcase)",
-  "access_note": "BYOB comedy room on the LES / Chinatown border. Weekly Friday and Saturday Night SESH Showcases (70-minute showcases, $7 fee) plus occasional headline shows. Showcase page lists dates through October 2026",
+  "access_note": "BYOB comedy room on the LES / Chinatown border, seven comics in a 70-minute show. The Friday and Saturday Night SESH Showcases run weekly with a $7 BYOB fee and no drink minimum; the room also books headline sets most weeks. Its own calendar lists shows through December.",
   "verified_at": "2026-09-14",
   "note": "Address on the venue's own site is 55 Chrystie St; neighborhood LES per the location page."
  },
@@ -1746,5 +1748,16 @@
   "access_note": "Neighborhood taproom on Bergen Street in Cobble Hill that hosts a Flop House comedy night in the back room. The taproom runs its own trivia nights, so the comedy slot is a third-party production.",
   "verified_at": "2026-11-07",
   "note": "Address from Talea's own Visit Us page (\"61 Bergen Street, Brooklyn, NY 11201\") and from the Eventbrite location block for the Best Indie Comedy Night in Cobble Hill. Neighborhood Cobble Hill from the address."
+ },
+ {
+  "name": "Whiskey Cellar NYC",
+  "address": "77 East 7th St, Manhattan",
+  "neighborhood": "East Village",
+  "borough": "Manhattan",
+  "website": "https://www.whiskeycellarnyc.com/",
+  "calendar_url": "https://onein35.com/",
+  "source_label": "The room's own page (B Lounge) and the producer's Eventbrite listing",
+  "access_note": "Brick-vaulted cellar room below street level, booked through B Lounge NYC on East 7th St between First and Second. The room's own pages describe it as a private party space; the weekly comedy night in it is produced by Team Comedy and ticketed on Eventbrite, so the producer's listing is the source for show details.",
+  "verified_at": "2026-11-08"
  }
 ]

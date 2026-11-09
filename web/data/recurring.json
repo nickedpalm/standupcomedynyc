@@ -271,18 +271,18 @@
   "title": "Friday Night SESH Showcase",
   "cadence": "Every Friday",
   "weekday": 5,
-  "time_label": "8:30pm \u00b7 doors 8:15pm",
+  "time_label": "8:45pm most Fridays \u00b7 9pm Nov 20",
   "venue": "Sesh Comedy",
   "address": "55 Chrystie St, Manhattan",
   "neighborhood": "Lower East Side",
-  "price_label": "$7 \u00b7 BYOB \u00b7 no minimum",
-  "price_amount": 7,
+  "price_label": "$20 GA \u00b7 $30 premium reserved \u00b7 $7 BYOB fee",
+  "price_amount": 20,
   "format": "Stand-up",
   "description": "Seventy minutes of stand-up in a small Lower East Side room where you bring your own drinks and pay seven dollars at the door. Rising comics with a touring headliner dropping in most weeks.",
   "source_url": "https://seshcomedy.com/showcases.php",
   "source_label": "SESH showcases page",
-  "verified_at": "2026-09-20",
-  "verification_note": "Showcases page lists Friday Night SESH Showcases through October 2026 (Sep 18 8:45pm, Sep 25 8:30pm, Oct 2 8:45pm). Doors 15 min before showtime, $7 fee, BYOB friendly with no drink minimum."
+  "verified_at": "2026-11-08",
+  "verification_note": "The room's showcases page lists Fridays at 8:45pm on Nov 13 and Nov 27 and at 9:00pm on Nov 20, with no December dates on the page as of 2026-11-08. The dated show pages give $20 general admission, $30 premium reserved seating and the $7 BYOB fee with no drink minimum."
  },
  {
   "id": "kweendom-petes-candy-store",
@@ -351,14 +351,14 @@
   "venue": "Sesh Comedy",
   "address": "55 Chrystie St, Manhattan",
   "neighborhood": "Lower East Side",
-  "price_label": "$7 \u00b7 BYOB \u00b7 no minimum",
-  "price_amount": 7,
+  "price_label": "$20 GA \u00b7 $30 premium reserved \u00b7 $7 BYOB fee",
+  "price_amount": 20,
   "format": "Stand-up",
   "description": "Same room and same deal as Friday, with two shows back to back on most Saturdays. If the early one is full, the late one is usually the looser hang.",
   "source_url": "https://seshcomedy.com/showcases.php",
   "source_label": "SESH showcases page",
-  "verified_at": "2026-09-20",
-  "verification_note": "seshcomedy.com/showcases.php (rendered 2026-09-20) lists Sat Sep 26 at 8:30 PM and 10:00 PM, and the same two times the following Saturday."
+  "verified_at": "2026-11-08",
+  "verification_note": "The room's showcases page lists Saturdays at 8:30pm on Nov 14, Nov 21 and Nov 28, with 10:00pm second shows on Nov 14 and Nov 21, and no December dates on the page as of 2026-11-08. The dated show pages give $20 general admission, $30 premium reserved seating and the $7 BYOB fee."
  },
  {
   "id": "bomb-shelter-gaf-west-saturday",
@@ -568,5 +568,24 @@
   "source_label": "Club shows page (weekly Thursday / Friday / Saturday schedule)",
   "verified_at": "2026-10-31",
   "verification_note": "The club's own shows page states the regular week is Thursday at 8pm, with 8pm and 10pm shows on Friday and Saturday, in a 40-seat room inside Bedford Falls NYC at 206 E 67th St. The FAQ gives the price tiers and the one-item minimum."
+ },
+ {
+  "id": "one-in-35-whiskey-cellar",
+  "tier": "recurring",
+  "title": "One in 35",
+  "cadence": "3rd Thursday of the month",
+  "weekday": 4,
+  "time_label": "8:30pm",
+  "venue": "Whiskey Cellar NYC",
+  "address": "77 East 7th St, Manhattan",
+  "neighborhood": "East Village",
+  "price_label": "$15 \u00b7 no drink minimum",
+  "price_amount": 15,
+  "format": "Stand-up",
+  "description": "Thirty-five numbered seats in a brick cellar off East 7th Street, one number drawn when the set ends, and whoever is sitting in it has their bar tab paid. The room is small and the ticket is the same as a drink.",
+  "source_url": "https://www.eventbrite.com/e/one-in-35-stand-up-comedy-with-a-one-in-35-chance-your-drinks-are-on-us-tickets-1988657075847",
+  "source_label": "Show listing on Eventbrite",
+  "verified_at": "2026-11-08",
+  "verification_note": "The show's own flyer says THIRD THURSDAYS, 8:30PM, THE WHISKEY CELLAR, 77 EAST 7 STREET. The Eventbrite series lists the same room on a third Thursday each month, Jun 18 through Jan 15, 2027. The no-drink-minimum and the 35-seat draw are on the listing. The address is the room's own (B Lounge NYC, 77 East 7th St, East Village)."
  }
 ]

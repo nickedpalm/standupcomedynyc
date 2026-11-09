@@ -221,8 +221,8 @@
    "source": "last30days"
   },
   "Fahim Anwar": {
-   "at": "2026-10-26T13:22:16.706Z",
-   "note": "Four Reddit threads in 30 days, none about the comic: a Kill Tony episode complaint, a r/Goldpilltalk clip, a dating-skills thread and a Victoria BC show. No New York signal; his Bell House Nov 20 date is sold out anyway.",
+   "at": "2026-11-09T13:44:03.919Z",
+   "note": "Two Reddit threads in 30 days and both are off-topic (r/Webseries, r/brandnew); Hacker News returned zero stories. No New York signal on the Bell House Nov 20 date, which is sold out at 7:30pm and has a second 10pm show.",
    "source": "last30days"
   },
   "Joanne McNally": {
@@ -303,6 +303,26 @@
   "Jordan Jensen": {
    "at": "2026-11-07T11:30:47.985Z",
    "note": "Three Reddit threads in 30 days, none about New York: a Pete Davidson podcast episode discussion, a Kelowna BC date announcement for January, and a jazz thread about a Sheila Jordan; Hacker News was silent, so the Beacon Nov 12 show stands on the festival listing.",
+   "source": "last30days"
+  },
+  "Grace Johnson": {
+   "at": "2026-11-09T13:44:03.784Z",
+   "note": "Zero signal: Hacker News returned twelve Grace Blackwell GPU-scheduler stories and Reddit a Real Housewives thread about falling from grace. Nothing is about the comic, so her Union Hall Nov 9 date (sold out) stands on the festival page alone.",
+   "source": "last30days"
+  },
+  "TJ Miller": {
+   "at": "2026-11-09T13:44:03.833Z",
+   "note": "Nothing about the comic. Reddit returned thirteen threads and 19,285 points, but they are New York Comic Con cosplay, a Texas-midterm thread and a Shane Gillis post about Patrice O'Neal defending comics; Hacker News found zero. The Comic Strip Nov 11 date is sold out on our listing, so no buzz is needed.",
+   "source": "last30days"
+  },
+  "Maddy Kelly": {
+   "at": "2026-11-09T13:44:03.886Z",
+   "note": "No usable items: eleven Reddit threads and 5,622 points, but every one is a name collision (r/dancemoms, r/HistoryPorn, r/fantasyfootball) rather than the comic. Hacker News was silent. Her Union Hall Nov 11 date is sold out.",
+   "source": "last30days"
+  },
+  "NYC comedy": {
+   "at": "2026-11-09T13:44:03.952Z",
+   "note": "Hacker News is all civic and transit stories (NYT subscriber earnings, a Pickpocket's Guide to New York, a Bay Area walker, parking tickets) with zero comedy. The one usable Reddit hit is a Nov 5 r/StandUpComedy post for the Bourne With Talent show at St. Marks on Nov 12, which is now on our board.",
    "source": "last30days"
   }
  }
