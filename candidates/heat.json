@@ -1,23 +1,7 @@
 {
- "generated_at": "2026-11-09T09:25:39.798Z",
+ "generated_at": "2026-11-10T09:21:26.335Z",
  "note": "Demand signals for the editor. Only availability and second shows set the public demand tag.",
  "picks": [
-  {
-   "id": "critical-grace-theory-union-hall-2026-11-09",
-   "title": "Critical Grace Theory",
-   "venue": "Union Hall",
-   "date": "2026-11-09",
-   "heat": 100,
-   "demand": "sold_out",
-   "availability": "SoldOut",
-   "second_show": false,
-   "performer": "Critical Grace Theory",
-   "wikipedia": null,
-   "reddit": null,
-   "reasons": [
-    "sold out on the ticket page"
-   ]
-  },
   {
    "id": "maddy-kelly-union-hall-2026-11-11",
    "title": "Maddy Kelly",
@@ -78,14 +62,14 @@
    "performer": "Ania Magliano",
    "wikipedia": {
     "title": "Ania Magliano",
-    "views_30d": 82590,
-    "views_prior_30d": 55170,
-    "change": 50
+    "views_30d": 84880,
+    "views_prior_30d": 56032,
+    "change": 51
    },
    "reddit": null,
    "reasons": [
-    "Wikipedia: 2753 views a day",
-    "Wikipedia views up 50% over the prior month"
+    "Wikipedia: 2829 views a day",
+    "Wikipedia views up 51% over the prior month"
    ]
   },
   {
@@ -100,31 +84,36 @@
    "performer": "Ania Magliano",
    "wikipedia": {
     "title": "Ania Magliano",
-    "views_30d": 82590,
-    "views_prior_30d": 55170,
-    "change": 50
+    "views_30d": 84880,
+    "views_prior_30d": 56032,
+    "change": 51
    },
    "reddit": null,
    "reasons": [
-    "Wikipedia: 2753 views a day",
-    "Wikipedia views up 50% over the prior month"
+    "Wikipedia: 2829 views a day",
+    "Wikipedia views up 51% over the prior month"
    ]
   },
   {
-   "id": "nycf-demi-adejuyigbe-sells-out-littlefield-2026-11-09",
-   "title": "NY Comedy Festival Presents: Demi Adejuyigbe Sells Out",
-   "venue": "Littlefield",
-   "date": "2026-11-09",
+   "id": "nycf-daniel-sloss-beacon-2026-11-14",
+   "title": "Daniel Sloss: Bitter",
+   "venue": "Beacon Theatre",
+   "date": "2026-11-14",
    "heat": 25,
-   "demand": "going_fast",
-   "availability": "InStock",
-   "second_show": true,
-   "performer": null,
-   "wikipedia": null,
+   "demand": null,
+   "availability": null,
+   "second_show": false,
+   "performer": "Daniel Sloss",
+   "wikipedia": {
+    "title": "Daniel Sloss",
+    "views_30d": 29965,
+    "views_prior_30d": 18353,
+    "change": 63
+   },
    "reddit": null,
    "reasons": [
-    "tickets available",
-    "a second show the same night at the same room"
+    "Wikipedia: 999 views a day",
+    "Wikipedia views up 63% over the prior month"
    ]
   },
   {
@@ -145,6 +134,28 @@
    ]
   },
   {
+   "id": "michelle-wolf-best-job-town-hall-2026-11-19",
+   "title": "Michelle Wolf: Best Job in the World",
+   "venue": "The Town Hall",
+   "date": "2026-11-19",
+   "heat": 25,
+   "demand": null,
+   "availability": null,
+   "second_show": false,
+   "performer": "Michelle Wolf",
+   "wikipedia": {
+    "title": "Michelle Wolf",
+    "views_30d": 18924,
+    "views_prior_30d": 12031,
+    "change": 57
+   },
+   "reddit": null,
+   "reasons": [
+    "Wikipedia: 631 views a day",
+    "Wikipedia views up 57% over the prior month"
+   ]
+  },
+  {
    "id": "jacqueline-novak-bell-house-2026-11-23",
    "title": "Jacqueline Novak",
    "venue": "The Bell House",
@@ -156,14 +167,14 @@
    "performer": "Jacqueline Novak",
    "wikipedia": {
     "title": "Jacqueline Novak",
-    "views_30d": 10246,
-    "views_prior_30d": 6696,
-    "change": 53
+    "views_30d": 10660,
+    "views_prior_30d": 5076,
+    "change": 110
    },
    "reddit": null,
    "reasons": [
-    "Wikipedia: 342 views a day",
-    "Wikipedia views up 53% over the prior month"
+    "Wikipedia: 355 views a day",
+    "Wikipedia views up 110% over the prior month"
    ]
   },
   {
@@ -178,14 +189,14 @@
    "performer": "Jacqueline Novak",
    "wikipedia": {
     "title": "Jacqueline Novak",
-    "views_30d": 10246,
-    "views_prior_30d": 6696,
-    "change": 53
+    "views_30d": 10660,
+    "views_prior_30d": 5076,
+    "change": 110
    },
    "reddit": null,
    "reasons": [
-    "Wikipedia: 342 views a day",
-    "Wikipedia views up 53% over the prior month"
+    "Wikipedia: 355 views a day",
+    "Wikipedia views up 110% over the prior month"
    ]
   },
   {
@@ -200,34 +211,13 @@
    "performer": "Ilana Glazer",
    "wikipedia": {
     "title": "Ilana Glazer",
-    "views_30d": 32689,
-    "views_prior_30d": 34169,
-    "change": -4
+    "views_30d": 35291,
+    "views_prior_30d": 34777,
+    "change": 1
    },
    "reddit": null,
    "reasons": [
-    "Wikipedia: 1090 views a day"
-   ]
-  },
-  {
-   "id": "dewayne-perkins-bell-house-2026-11-09",
-   "title": "Dewayne Perkins",
-   "venue": "The Bell House",
-   "date": "2026-11-09",
-   "heat": 15,
-   "demand": null,
-   "availability": null,
-   "second_show": false,
-   "performer": "Dewayne Perkins",
-   "wikipedia": {
-    "title": "Dewayne Perkins",
-    "views_30d": 3396,
-    "views_prior_30d": 2205,
-    "change": 54
-   },
-   "reddit": null,
-   "reasons": [
-    "Wikipedia views up 54% over the prior month"
+    "Wikipedia: 1176 views a day"
    ]
   },
   {
@@ -242,34 +232,13 @@
    "performer": "Jess Hilarious",
    "wikipedia": {
     "title": "Jess Hilarious",
-    "views_30d": 6472,
-    "views_prior_30d": 8735,
-    "change": -26
+    "views_30d": 6769,
+    "views_prior_30d": 8695,
+    "change": -22
    },
    "reddit": null,
    "reasons": [
-    "Wikipedia: 216 views a day"
-   ]
-  },
-  {
-   "id": "nycf-daniel-sloss-beacon-2026-11-14",
-   "title": "Daniel Sloss: Bitter",
-   "venue": "Beacon Theatre",
-   "date": "2026-11-14",
-   "heat": 10,
-   "demand": null,
-   "availability": null,
-   "second_show": false,
-   "performer": "Daniel Sloss",
-   "wikipedia": {
-    "title": "Daniel Sloss",
-    "views_30d": 24215,
-    "views_prior_30d": 18221,
-    "change": 33
-   },
-   "reddit": null,
-   "reasons": [
-    "Wikipedia: 807 views a day"
+    "Wikipedia: 226 views a day"
    ]
   },
   {
@@ -284,13 +253,13 @@
    "performer": "Jessica Kirson",
    "wikipedia": {
     "title": "Jessica Kirson",
-    "views_30d": 13307,
-    "views_prior_30d": 11807,
-    "change": 13
+    "views_30d": 14151,
+    "views_prior_30d": 11967,
+    "change": 18
    },
    "reddit": null,
    "reasons": [
-    "Wikipedia: 444 views a day"
+    "Wikipedia: 472 views a day"
    ]
   },
   {
@@ -305,34 +274,13 @@
    "performer": "Jaboukie Young-White",
    "wikipedia": {
     "title": "Jaboukie Young-White",
-    "views_30d": 24321,
-    "views_prior_30d": 66920,
-    "change": -64
+    "views_30d": 25163,
+    "views_prior_30d": 67550,
+    "change": -63
    },
    "reddit": null,
    "reasons": [
-    "Wikipedia: 811 views a day"
-   ]
-  },
-  {
-   "id": "michelle-wolf-best-job-town-hall-2026-11-19",
-   "title": "Michelle Wolf: Best Job in the World",
-   "venue": "The Town Hall",
-   "date": "2026-11-19",
-   "heat": 10,
-   "demand": null,
-   "availability": null,
-   "second_show": false,
-   "performer": "Michelle Wolf",
-   "wikipedia": {
-    "title": "Michelle Wolf",
-    "views_30d": 16852,
-    "views_prior_30d": 12069,
-    "change": 40
-   },
-   "reddit": null,
-   "reasons": [
-    "Wikipedia: 562 views a day"
+    "Wikipedia: 839 views a day"
    ]
   },
   {
@@ -347,13 +295,13 @@
    "performer": "Jessica Kirson",
    "wikipedia": {
     "title": "Jessica Kirson",
-    "views_30d": 13307,
-    "views_prior_30d": 11807,
-    "change": 13
+    "views_30d": 14151,
+    "views_prior_30d": 11967,
+    "change": 18
    },
    "reddit": null,
    "reasons": [
-    "Wikipedia: 444 views a day"
+    "Wikipedia: 472 views a day"
    ]
   },
   {
@@ -384,13 +332,13 @@
    "performer": "Demetri Martin",
    "wikipedia": {
     "title": "Demetri Martin",
-    "views_30d": 15233,
-    "views_prior_30d": 13346,
-    "change": 14
+    "views_30d": 16172,
+    "views_prior_30d": 12846,
+    "change": 26
    },
    "reddit": null,
    "reasons": [
-    "Wikipedia: 508 views a day"
+    "Wikipedia: 539 views a day"
    ]
   },
   {
@@ -405,13 +353,13 @@
    "performer": "Demetri Martin",
    "wikipedia": {
     "title": "Demetri Martin",
-    "views_30d": 15233,
-    "views_prior_30d": 13346,
-    "change": 14
+    "views_30d": 16172,
+    "views_prior_30d": 12846,
+    "change": 26
    },
    "reddit": null,
    "reasons": [
-    "Wikipedia: 508 views a day"
+    "Wikipedia: 539 views a day"
    ]
   },
   {
@@ -445,20 +393,6 @@
    "reasons": [
     "3 listings this month"
    ]
-  },
-  {
-   "id": "nycf-stand-up-for-heroes-geffen-2026-11-09",
-   "title": "Stand Up for Heroes (NYCF)",
-   "venue": "David Geffen Hall (Lincoln Center)",
-   "date": "2026-11-09",
-   "heat": 0,
-   "demand": null,
-   "availability": null,
-   "second_show": false,
-   "performer": null,
-   "wikipedia": null,
-   "reddit": null,
-   "reasons": []
   },
   {
    "id": "ester-steinberg-nycc-2026-11-10",
@@ -547,6 +481,22 @@
    "wikipedia": null,
    "reddit": null,
    "reasons": []
+  },
+  {
+   "id": "matty-litwack-peter-the-great-flop-house-2026-11-11",
+   "title": "Matty Litwack Presents: Peter the Great (FINAL SHOWING)",
+   "venue": "Flop House Comedy",
+   "date": "2026-11-11",
+   "heat": 0,
+   "demand": null,
+   "availability": "InStock",
+   "second_show": false,
+   "performer": null,
+   "wikipedia": null,
+   "reddit": null,
+   "reasons": [
+    "tickets available"
+   ]
   },
   {
    "id": "yamaneika-saunders-nycc-2026-11-11",
@@ -697,6 +647,22 @@
    ]
   },
   {
+   "id": "extremely-loud-and-incredibly-cute-union-hall-2026-11-12",
+   "title": "Extremely Loud and Incredibly Cute",
+   "venue": "Union Hall",
+   "date": "2026-11-12",
+   "heat": 0,
+   "demand": null,
+   "availability": "InStock",
+   "second_show": false,
+   "performer": null,
+   "wikipedia": null,
+   "reddit": null,
+   "reasons": [
+    "tickets available"
+   ]
+  },
+  {
    "id": "copyfest-fundraiser-littlefield-2026-11-13",
    "title": "CopyFest Fundraiser: Three Sets, Three Festivals",
    "venue": "Littlefield",
@@ -741,6 +707,22 @@
    "wikipedia": null,
    "reddit": null,
    "reasons": []
+  },
+  {
+   "id": "neel-ghosh-pagol-union-hall-2026-11-13",
+   "title": "Neel Ghosh: Pagol",
+   "venue": "Union Hall",
+   "date": "2026-11-13",
+   "heat": 0,
+   "demand": null,
+   "availability": "InStock",
+   "second_show": false,
+   "performer": "Neel Ghosh",
+   "wikipedia": null,
+   "reddit": null,
+   "reasons": [
+    "tickets available"
+   ]
   },
   {
    "id": "nycf-moth-comic-relief-town-hall-2026-11-14",
@@ -1001,6 +983,22 @@
    "reasons": []
   },
   {
+   "id": "one-in-35-whiskey-cellar-2026-11-19",
+   "title": "ONE IN 35: Stand-Up Comedy With a One-in-35 Chance Your Drinks Are On Us",
+   "venue": "Whiskey Cellar NYC",
+   "date": "2026-11-19",
+   "heat": 0,
+   "demand": null,
+   "availability": "InStock",
+   "second_show": false,
+   "performer": null,
+   "wikipedia": null,
+   "reddit": null,
+   "reasons": [
+    "tickets available"
+   ]
+  },
+  {
    "id": "opey-olagbaju-union-hall-2026-11-20",
    "title": "Opey Olagbaju",
    "venue": "Union Hall",
@@ -1070,9 +1068,9 @@
    "performer": "Christian Finnegan",
    "wikipedia": {
     "title": "Christian Finnegan",
-    "views_30d": 869,
-    "views_prior_30d": 969,
-    "change": -10
+    "views_30d": 955,
+    "views_prior_30d": 947,
+    "change": 1
    },
    "reddit": null,
    "reasons": []
@@ -1147,9 +1145,9 @@
    "performer": "Judy Gold",
    "wikipedia": {
     "title": "Judy Gold",
-    "views_30d": 4919,
-    "views_prior_30d": 4197,
-    "change": 17
+    "views_30d": 5323,
+    "views_prior_30d": 4170,
+    "change": 28
    },
    "reddit": null,
    "reasons": []
@@ -1408,9 +1406,9 @@
    "performer": "Ismael Loutfi",
    "wikipedia": {
     "title": "Ismael Loutfi",
-    "views_30d": 89,
-    "views_prior_30d": 128,
-    "change": -30
+    "views_30d": 108,
+    "views_prior_30d": 125,
+    "change": -14
    },
    "reddit": null,
    "reasons": [
@@ -1830,6 +1828,20 @@
    "reasons": []
   },
   {
+   "id": "down-bad-comedy-show-st-marks-2026-12-13",
+   "title": "Down Bad Comedy Show",
+   "venue": "St. Marks Comedy Club",
+   "date": "2026-12-13",
+   "heat": 0,
+   "demand": null,
+   "availability": null,
+   "second_show": false,
+   "performer": null,
+   "wikipedia": null,
+   "reddit": null,
+   "reasons": []
+  },
+  {
    "id": "clint-coley-bell-house-2026-12-13",
    "title": "Clint Coley",
    "venue": "The Bell House",
@@ -1839,6 +1851,20 @@
    "availability": null,
    "second_show": false,
    "performer": "Clint Coley",
+   "wikipedia": null,
+   "reddit": null,
+   "reasons": []
+  },
+  {
+   "id": "mike-feeney-without-a-parachute-nycc-2026-12-13",
+   "title": "Mike Feeney: Without A Parachute (Unscripted Stand-Up & Crowd Work)",
+   "venue": "New York Comedy Club (Midtown)",
+   "date": "2026-12-13",
+   "heat": 0,
+   "demand": null,
+   "availability": null,
+   "second_show": false,
+   "performer": "Mike Feeney",
    "wikipedia": null,
    "reddit": null,
    "reasons": []
@@ -1869,9 +1895,9 @@
    "performer": "Ralph Barbosa",
    "wikipedia": {
     "title": "Ralph Barbosa",
-    "views_30d": 4345,
-    "views_prior_30d": 6794,
-    "change": -36
+    "views_30d": 4441,
+    "views_prior_30d": 6758,
+    "change": -34
    },
    "reddit": null,
    "reasons": []
@@ -1891,9 +1917,37 @@
    "reasons": []
   },
   {
+   "id": "double-edged-paula-j-leon-mario-pisano-nycc-2026-12-15",
+   "title": "Double Edged: Paula J. Leon and Mario Pisano",
+   "venue": "New York Comedy Club (Upper West Side)",
+   "date": "2026-12-15",
+   "heat": 0,
+   "demand": null,
+   "availability": null,
+   "second_show": false,
+   "performer": "Double Edged",
+   "wikipedia": null,
+   "reddit": null,
+   "reasons": []
+  },
+  {
    "id": "down-bad-comedy-show-st-marks-2026-12-16",
    "title": "Down Bad Comedy Show",
    "venue": "St. Marks Comedy Club",
+   "date": "2026-12-16",
+   "heat": 0,
+   "demand": null,
+   "availability": null,
+   "second_show": false,
+   "performer": null,
+   "wikipedia": null,
+   "reddit": null,
+   "reasons": []
+  },
+  {
+   "id": "good-eggs-nycc-2026-12-16",
+   "title": "Good Eggs Presented by Mark Normand, Gary Vider, Matt Ruby",
+   "venue": "New York Comedy Club (East Village)",
    "date": "2026-12-16",
    "heat": 0,
    "demand": null,
@@ -1970,6 +2024,92 @@
    "availability": null,
    "second_show": false,
    "performer": null,
+   "wikipedia": null,
+   "reddit": null,
+   "reasons": []
+  },
+  {
+   "id": "prime-time-comedy-show-st-marks-2026-12-19",
+   "title": "Prime Time Comedy Show",
+   "venue": "St. Marks Comedy Club",
+   "date": "2026-12-19",
+   "heat": 0,
+   "demand": null,
+   "availability": null,
+   "second_show": false,
+   "performer": null,
+   "wikipedia": null,
+   "reddit": null,
+   "reasons": []
+  },
+  {
+   "id": "golden-hour-fest-littlefield-2026-12-19",
+   "title": "Golden Hour Fest hosted by Charlene Kaye",
+   "venue": "Littlefield",
+   "date": "2026-12-19",
+   "heat": 0,
+   "demand": null,
+   "availability": "InStock",
+   "second_show": false,
+   "performer": null,
+   "wikipedia": null,
+   "reddit": null,
+   "reasons": [
+    "tickets available"
+   ]
+  },
+  {
+   "id": "speakeasy-saturday-night-st-marks-2026-12-19",
+   "title": "Speakeasy Saturday Night",
+   "venue": "St. Marks Comedy Club",
+   "date": "2026-12-19",
+   "heat": 0,
+   "demand": null,
+   "availability": null,
+   "second_show": false,
+   "performer": null,
+   "wikipedia": null,
+   "reddit": null,
+   "reasons": []
+  },
+  {
+   "id": "down-bad-comedy-show-st-marks-2026-12-20",
+   "title": "Down Bad Comedy Show",
+   "venue": "St. Marks Comedy Club",
+   "date": "2026-12-20",
+   "heat": 0,
+   "demand": null,
+   "availability": null,
+   "second_show": false,
+   "performer": null,
+   "wikipedia": null,
+   "reddit": null,
+   "reasons": []
+  },
+  {
+   "id": "carmen-and-fiends-bell-house-2026-12-20",
+   "title": "Carmen & Fiends",
+   "venue": "The Bell House",
+   "date": "2026-12-20",
+   "heat": 0,
+   "demand": null,
+   "availability": null,
+   "second_show": false,
+   "performer": null,
+   "wikipedia": null,
+   "reddit": null,
+   "reasons": []
+  },
+  {
+   "id": "sunday-funday-st-marks-2026-12-20",
+   "title": "Sunday Funday",
+   "venue": "St. Marks Comedy Club",
+   "date": "2026-12-20",
+   "heat": 0,
+   "demand": null,
+   "availability": null,
+   "second_show": false,
+   "performer": "Sunday Funday",
    "wikipedia": null,
    "reddit": null,
    "reasons": []

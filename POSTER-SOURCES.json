@@ -2854,7 +2854,7 @@
  },
  {
   "event_id": "nycf-demi-adejuyigbe-sells-out-littlefield-2026-11-09",
-  "src": "/assets/posters/nycf-demi-adejuyigbe-sells-out-littlefield-2026-11-09.jpg",
+  "src": "/assets/posters/archive/nycf-demi-adejuyigbe-sells-out-littlefield-2026-11-09.jpg",
   "width": 1880,
   "height": 1058,
   "source_url": "https://www.eventbrite.com/e/ny-comedy-festival-presents-demi-adejuyigbe-sells-out-tickets-1998384442663",
@@ -2865,7 +2865,8 @@
   "retrieved_at": "2026-10-31",
   "bytes": 143123,
   "sha256": "87cfd883ceedc01dc4df436cc761b5bb329561b2f3f07d81956839e6c7b6379e",
-  "reuse_status": "Official promotional artwork; no separate reuse license identified. Local review draft only."
+  "reuse_status": "Official promotional artwork; no separate reuse license identified. Local review draft only.",
+  "archived": true
  },
  {
   "event_id": "the-workout-uesc-2026-11-07",
@@ -2965,7 +2966,7 @@
  },
  {
   "event_id": "critical-grace-theory-union-hall-2026-11-09",
-  "src": "/assets/posters/critical-grace-theory-union-hall-2026-11-09.jpg",
+  "src": "/assets/posters/archive/critical-grace-theory-union-hall-2026-11-09.jpg",
   "width": 1880,
   "height": 940,
   "source_url": "https://www.eventbrite.com/e/critical-grace-theory-tickets-1997947744487",
@@ -2976,7 +2977,8 @@
   "retrieved_at": "2026-11-01",
   "bytes": 127928,
   "sha256": "28ffe707dc7bddd96c822e8c8eeba575a21924e80033383bfdec2d11ed3ef4f8",
-  "reuse_status": "Official promotional artwork; no separate reuse license identified. Local review draft only."
+  "reuse_status": "Official promotional artwork; no separate reuse license identified. Local review draft only.",
+  "archived": true
  },
  {
   "event_id": "kylie-vincent-lesion-lady-sesh-2026-11-18",
