@@ -19,7 +19,7 @@ Ranked 43; run 0, reuse 9, skip 34; ~387,000 tokens saved.
 - Tue Nov 10 7:30pm — **Double Edged: Caroline Hanes and Salma Zaky** at New York Comedy Club (Upper West Side)
 - Tue Nov 10 7:30pm · doors 7pm — **PRETTY MAJOR Hosted by Jay Jurden** at Union Hall
 - Tue Nov 10 8pm · doors 7pm — **NY Comedy Festival Presents: Tone and the Homies** at Littlefield
-- Tue Nov 10 10pm — **Eddie Pepitone Headlining Union Hall (night one)** at Union Hall · NO ARTWORK
+- Tue Nov 10 10pm · doors 9:30pm — **Eddie Pepitone Headlining Union Hall (night one)** at Union Hall · NO ARTWORK
 - Wed Nov 11 7pm · doors 6:30pm — **Peer Revue** at Caveat
 - Wed Nov 11 7:30pm · doors 7pm — **Maddy Kelly** at Union Hall · SOLD OUT · heat 100
 - Wed Nov 11 8pm — **TJ Miller Live!** at Comic Strip Live · SOLD OUT · heat 100
