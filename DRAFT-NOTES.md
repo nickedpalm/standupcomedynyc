@@ -852,3 +852,110 @@ The Secret Comedy Show has no published lineup ("Featured Comedians: TBD"), so
 that pick stands on the room and the format. West Side Comedy Club's
 `/calendar/2026-12` path 404s, so its December dates were not verifiable
 through that route.
+
+
+## 2026-11-10 — recovery of the stranded 11:00 edition run
+
+The 11:00 edition run hit its tool-iteration cap before committing, so the
+picks, posters and data edits it had verified were sitting in the working
+tree. This entry records what was re-checked by hand before landing them.
+
+**Six new picks**, each re-verified against its own source rather than taken
+on the dead run's word:
+
+- **Tone and the Homies** — Littlefield, Tue Nov 10, 8pm, doors 7pm, $14.86.
+  Eventbrite API confirms name, start and end; the page's own LINEUP lists
+  Ontonio Kareem, Simeon Goodson, Liza Treyger, Reggie Conquest, Marie Faustin
+  and music from Kota the Friend. Ages 21+.
+- **Sienna Hubert-Ross and Friends** — Union Hall, Thu Nov 12, 7:30pm, doors
+  7pm, $19.26. Five-comic bill confirmed on the Eventbrite page.
+- **Sureni Does an Hour of Comedy** — Union Hall, Sat Nov 14, 7:30pm, doors
+  7pm, $30.84. The page says Sureni Weerasekera performs an hour with friends
+  opening.
+- **Misfit Variety Show: ADHD Edition** — Eris Mainstage (Brooklyn Comedy
+  Collective), Sun Nov 15, 7:30pm, doors 7pm, $22.17. Hosted by Lauren
+  LoGiudice; Judah Friedlander, Carl "Bucky" Carson, Kellie Wood, Bob Lombardi
+  and Tom Achilles. The room is 21+.
+- **The 7th Annual Comfy Clash semi-finals** — Eastville, Sun Nov 15, 6pm,
+  $22.81 GA ($20 plus $2.81 fee). Eastville's own page and calendar agree.
+- **A TRUE YORK COMEDY EXPERIENCE** — St. Marks, Mon Dec 21, 9:30pm, doors 9pm,
+  $17 including fees. Riley Flanagan, Alexis Carabano, Danny Carabano, Macy
+  Kwok. No flyer for this one, so `poster: null`.
+
+**Five official flyers** added with POSTER-SOURCES provenance (sha256, bytes,
+credit, source URL). Each local file was re-hashed against its record and
+matched byte for byte.
+
+**Fourteen stale picks re-verified** and their `verified_at` refreshed to
+2026-11-10.
+
+**Copy corrected on recovery.** The dead run's blurbs were re-read against the
+source pages and three were wrong:
+- The Comfy Clash blurb claimed it ran "three and a half hours before the
+  Sunday Night Comedy bill" and that you could "still make the later show".
+  Sunday Night Comedy is at 7:30pm, 90 minutes later, and the clash itself
+  runs two hours from 6pm, so the claim was false. Rewritten around what the
+  room's own page says: the club calls it New York City's largest stand-up
+  contest, and general admission seating is first come, first served, so
+  arrive half an hour early.
+- The Sureni blurb said the headliner gets "the whole ninety minutes". The
+  listing says an hour of stand-up; the 90 minutes is the venue block.
+- The Brooklyn Music Kitchen Monday mic was recorded as "Every Monday". The
+  room's calendar and its own Eventbrite page both say the InspiredWordNYC
+  Monday mic is the 2nd and 4th Mondays of the month, and the calendar only
+  lists it on Nov 30, Dec 14 and Dec 21. Corrected.
+
+**Link-in-bio count:** the festival count is 26 shows on our board, Nov 6-15,
+unchanged from the published figure. The counter was validated against five
+published revisions (31, 32, 33, 34, 33) and reproduces all five exactly
+before being applied to the changed tree.
+
+**Fixed in the research plan.** `scripts/research-plan.js` was ranking show
+titles as performers — "Tone", "Peer Revue", "Friends Named Casey", "Sunday
+Funday" and "Crowd Work)" were all treated as comics to research. The fix
+defines a show-title and collective-noun list and applies it to the extracted
+names; the run now ranks 43 performers instead of 47, and the bogus names are
+gone.
+
+### Source URLs recovered from the scratch directory (2026-11-10)
+
+The 11:00 run's working files were cleared after the recovery landed. These
+are the source URLs they carried, so the next edition does not have to
+re-open the pages from scratch:
+
+- NYCF schedule page (251 show blocks parsed, 244 with a venue):
+  https://nycomedyfestival.com/schedule/
+- Tone and the Homies (Littlefield):
+  https://www.eventbrite.com/e/ny-comedy-festival-presents-tone-and-the-homies-tickets-1998385740545
+- Sienna Hubert-Ross and Friends (Union Hall):
+  https://www.eventbrite.com/e/sienna-hubert-ross-friends-tickets-1997945876901
+- Sureni Does an Hour of Comedy (Union Hall):
+  https://www.eventbrite.com/e/sureni-does-an-hour-of-comedy-tickets-1998392443594
+- Misfit Variety Show, ADHD Edition (Brooklyn Comedy Collective):
+  https://www.eventbrite.com/e/new-york-comedy-festival-misfit-variety-show-tickets-1999298608959
+- Comfy Clash semi-finals (Eastville):
+  https://www.eastvillecomedy.com/events/the-7th-annual-comfy-clash-featuring-tight-pants-comedy-semi-finals-show-2026-11-15180000
+- A TRUE YORK COMEDY EXPERIENCE (St. Marks):
+  https://www.stmarkscomedy.com/shows/a-true-york-comedy-experience-2026-12-21-c4213e78
+- Comedians You Should Know (Greenpoint):
+  https://punchup.live/venue/greenpointcomedyclub/shows/comedians-you-should-know
+- Brooklyn Music Kitchen calendar:
+  https://brooklynmusickitchen.com/calendar/
+- InspiredWordNYC Sunday mic (Eventbrite):
+  https://www.eventbrite.com/e/sunday-afternoon-live-showcase-open-mic-brooklyn-music-kitchen-tickets-710124590767
+- InspiredWordNYC Monday mic (Eventbrite):
+  https://www.eventbrite.com/e/monday-night-live-showcase-open-mic-at-the-brooklyn-music-kitchen-tickets-720722509427
+- Laughing Buddha Saturday show (Ticket Tailor):
+  https://www.tickettailor.com/events/laughingbuddhacomedy/2486383
+
+**Fixed on the cover card.** The Tonight cover's show stack printed the
+presenting brand instead of the show name, so tonight's fourth line read
+"NY COMEDY FESTIVAL PRESENTS" where "TONE AND THE HOMIES" belongs. The card
+now drops a festival prefix ("New York Comedy Festival Presents:", "NYCF
+Presents:") and prints the show name after the colon, while keeping a prefix
+that names a real person or producer ("Matty Litwack Presents:", "Criminal
+Presents:"). Two of the 144 picks change; the other 142 are untouched.
+
+**Card deks rewritten to fit.** Five of the six new blurbs ran past the card's
+180-character cap, so the card showed a cut-off fragment while the caption
+showed the whole sentence. All six now fit whole on both.

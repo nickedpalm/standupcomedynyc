@@ -276,8 +276,8 @@
    "source": "last30days"
   },
   "Ilana Glazer": {
-   "at": "2026-11-03T11:32:06.802Z",
-   "note": "No New York signal: a 107-upvote r/BroadCity post Oct 18 on her Crunch Fitness commercial contest video, an eight-year Broad City anniversary thread, and two posts selling tickets to her October 15 Los Angeles show. The Beacon Theatre Nov 13 date rests on the festival page.",
+   "at": "2026-11-10T12:00:32.946Z",
+   "note": "Nothing about the comic in 30 days: ten Reddit threads and 4,184 points, but they are all phrase collisions (a New York travel post, a Marilyn Monroe history thread, a cope-day meme) and Hacker News was silent, so the Beacon Theatre Nov 13 date rests on the festival listing.",
    "source": "last30days"
   },
   "George Willborn": {
@@ -323,6 +323,31 @@
   "NYC comedy": {
    "at": "2026-11-09T13:44:03.952Z",
    "note": "Hacker News is all civic and transit stories (NYT subscriber earnings, a Pickpocket's Guide to New York, a Bay Area walker, parking tickets) with zero comedy. The one usable Reddit hit is a Nov 5 r/StandUpComedy post for the Bourne With Talent show at St. Marks on Nov 12, which is now on our board.",
+   "source": "last30days"
+  },
+  "Jess Hilarious": {
+   "at": "2026-11-10T11:17:45.681Z",
+   "note": "No signal in 30 days: Reddit returned two threads that are name collisions (a r/TwoXChromosomes audience-reaction thread and a r/SonyAlpha photography post) and Hacker News three unrelated stories, so the Hard Rock Hotel Nov 13 date rests on the festival listing.",
+   "source": "last30days"
+  },
+  "Michelle Wolf": {
+   "at": "2026-11-10T11:19:14.529Z",
+   "note": "Nothing usable in 30 days: Reddit returned three threads (a war-plane photo post, a relationship-advice update and a generic phrase match on 'conservative comedian') and Hacker News was silent, so the Town Hall Best Job in the World date rests on the festival listing.",
+   "source": "last30days"
+  },
+  "Ester Steinberg": {
+   "at": "2026-11-10T11:21:09.863Z",
+   "note": "No signal in 30 days: eleven Reddit threads and 5,700 points, but every one is a name or phrase collision (Yankees contracts, a Fouquet's spa post, a Tammany Hall thread) and Hacker News returned three unrelated stories, so the New York Comedy Club Nov 10 date rests on the club's own listing.",
+   "source": "last30days"
+  },
+  "Caroline Hanes": {
+   "at": "2026-11-10T11:23:04.771Z",
+   "note": "No signal in 30 days: eleven Reddit threads and 5,945 points, all name or phrase collisions (a Yankee contract post, a jigsaw puzzle titled Pomegranate, a Tammany Hall thread) with Hacker News silent, so the New York Comedy Club Nov 10 date rests on the club's own listing.",
+   "source": "last30days"
+  },
+  "Salma Zaky": {
+   "at": "2026-11-10T11:24:56.856Z",
+   "note": "No signal in 30 days: ten Reddit threads and 5,693 points, every one a name or phrase collision (a Yankees contract post, a Fouquet's spa thread, a Tammany Hall history post) and Hacker News silent, so the New York Comedy Club Nov 10 date rests on the club's own listing.",
    "source": "last30days"
   }
  }

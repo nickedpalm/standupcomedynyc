@@ -418,5 +418,25 @@
   "source_label": "Ticket terms and conditions",
   "verified_at": "2026-11-08",
   "verification_note": "Read from the room's own pages on 2026-11-08: the BYOB policy and the $7 fee (no hard liquor) and the 21+ from the home page, the $20 GA / $30 premium seating from the dated show pages, and the all-sales-final, no-transfer and seat-release rules from the terms page. The address is on every show page."
+ },
+ {
+  "id": "laughing-buddha-comedy",
+  "tier": "club",
+  "name": "Laughing Buddha Comedy",
+  "rooms": "The Buddha Room, a second-floor room at 410 8th Ave a block from Penn Station",
+  "address": "410 8th Ave 2nd floor, Manhattan",
+  "neighborhood": "Chelsea",
+  "price_label": "$20 in advance, $25 at the door",
+  "price_low": 20,
+  "price_high": 25,
+  "minimum": "$15 beverage minimum",
+  "age": "Not stated on the ticket page",
+  "reservations": "Tickets through the room's own checkout and Ticket Tailor. All sales are final, no refunds or exchanges, and you are asked to be seated by 7:45pm for an 8pm show. Doors close ten minutes after the start.",
+  "character": "A comedy school that owns its room and puts the comics who have not made it yet on the same bill as the ones who have. The Saturday 8pm all-star show is the one to see.",
+  "calendar_url": "https://www.laughingbuddhacomedy.com/tickets",
+  "source_url": "https://www.tickettailor.com/events/laughingbuddhacomedy/2486383",
+  "source_label": "The room's own ticketing page (price, minimum, seating and refund rules)",
+  "verified_at": "2026-11-10",
+  "verification_note": "Read on 2026-11-10 from the room's own Ticket Tailor event page: '$20 in advance or $25 the day of and at the door', 'There is a $15 beverage minimum', 'Please arrive no later than 7:45 PM to be seated', 'Doors close 10 minutes after the start of the show' and 'All sales are final. No refunds, cancellations, or exchanges'. The address (410 8th Ave, 2nd Floor, New York, NY 10001) is printed on the same page and on the school's own site. The room does not publish an age policy, so the age line says so rather than guessing."
  }
 ]

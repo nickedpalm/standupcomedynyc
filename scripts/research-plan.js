@@ -33,11 +33,20 @@ const NOT_IN_A_NAME = /\b(the|a|an|and|or|with|without|from|for|to|in|on|at|of|b
 // A title can name a brand before "Presents with" and put the actual performers after it
 // ("Steve Martin Presents with Andrew Dismukes and Michael Good"). Rank the hosts, not the brand.
 const isPerson = (s) => Boolean(s) && s.length <= 40 && !NOT_A_NAME.test(s) && !NOT_IN_A_NAME.test(s);
+// A title with no "Presents" and no colon is usually a headliner's name ("Maddy
+// Kelly"), but a good many are show titles that happen to be capitalised
+// ("Peer Revue", "Sunday Funday", "Tone and the Homies"). Ranking those as
+// performers sends a research run after a show rather than a comic, so a
+// two-word title that is also on the known-show list is dropped, and a title
+// with a plural or collective noun is dropped as a brand.
+const SHOW_TITLES = /\b(peer revue|sunday funday|tone|homies|workout|revue|spectacular|showcase|experience|funday|trial|contest|finale|crowd work)\b/i;
+const COLLECTIVE = /\b(friends named|and friends|named casey|the homies|the dudes|guys|ladies|crew|squad|collective)\b/i;
+const isPersonTitle = (s) => isPerson(s) && !SHOW_TITLES.test(s) && !COLLECTIVE.test(s);
 // Split a credit list on commas and conjunctions: "Francis Ellis, Caitlin Peluffo, Peyton Ruddy, & More!"
 const splitNames = (s) => String(s)
   .split(/\s*(?:,|&|\/|\+)\s*|\s+(?:and|with)\s+/i)
   .map((x) => x.trim().replace(/[.!]+$/, ''))
-  .filter(isPerson);
+  .filter(isPersonTitle);
 const performers = (title) => {
   const t = String(title || '').trim();
   const hosted = t.match(/^.+?\bPresents with\s+(.+)$/);
@@ -51,7 +60,7 @@ const performers = (title) => {
     if (people.length) return people;
   }
   const m = t.match(/^([A-Z][a-z]+(?: [A-Z][a-zA-Z'’.-]+){1,2})(?::| Live| Presents| Headlines|$)/);
-  return m && isPerson(m[1]) ? [m[1]] : [];
+  return m && isPersonTitle(m[1]) ? [m[1]] : [];
 };
 
 const picks = readJson(path.join(root, 'web', 'data', 'picks.json'), []).filter((p) => Date.parse(p.ends_at) > Date.now());

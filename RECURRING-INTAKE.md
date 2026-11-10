@@ -861,3 +861,43 @@ across the holidays. Verified 2026-10-30.
   whole show. The club also publishes the rule that if no mic is listed for a
   date, there is no mic that night, so a blank date is a night off rather than
   a missing listing. There is no Sunday mic.
+
+
+## 2026-11-10 — Comedians You Should Know, Greenpoint Comedy Club
+
+Re-verified against the show's own listing on Punchup, the room's ticketing
+partner, rather than the old Jump Comedy link. Three dated Wednesdays are
+posted — Nov 11, Nov 18 and Nov 25 — all at **8:00 PM**, doors 7:30, from
+$20. The old record said 9:15pm and carried the room's own note that "later
+Wednesdays were not posted" and that the start time moved; the room now lists
+the show itself with a fixed 8pm start and a different bill every week, so
+that note came out.
+
+The show page states a **1-item minimum** and that all shows are 21+ unless
+otherwise specified. The Nov 11 bill is named on the page: Dan St. Germain
+(Conan), Lizzy Cassidy (Don't Tell), Napolean Emill (HBO), Angie Stroud
+(Netflix) and Eion Falance, hosted by Tim Smith (Don't Tell).
+
+The room's own copy calls CYSK "Greenpoint's longest-running independent
+comedy showcase", and the show has been at Greenpoint Comedy Club since it
+left the Gutter Bar after ten years, so the description now says that
+instead of the old line about dates posting late.
+
+## 2026-11-10 — Brooklyn Music Kitchen, Clinton Hill
+
+New room: 177 Vanderbilt Ave, Brooklyn. The room's own pages say "Located in
+Clinton Hill", so that is the neighborhood label. It is a music room and
+restaurant with a raised stage, full backline and a house sound man.
+
+**Two open mics added**, both from the room's own calendar and its Eventbrite
+pages:
+- **InspiredWordNYC Sunday Afternoon Open Mic** — 1st and 3rd Sundays, 3pm to
+  7pm, doors 2:30pm. $15 regular, $12 early bird, 18+. 25 slots, 7 minutes
+  for anything spoken, 8 for singers and musicians.
+- **InspiredWordNYC Monday Night Open Mic** — **2nd and 4th Mondays of the
+  month**, 7pm to 11pm, doors 6:30pm. $15 solo slot, $10-$12 early bird for
+  non-performers, 18+.
+
+Note for the next edition: the room runs a house-band open mic ("Legendary
+Locals") every Wednesday at 8pm. It is not on the board yet — the calendar
+lists it per-date, so it needs a source that names the recurrence.

@@ -1759,5 +1759,17 @@
   "source_label": "The room's own page (B Lounge) and the producer's Eventbrite listing",
   "access_note": "Brick-vaulted cellar room below street level, booked through B Lounge NYC on East 7th St between First and Second. The room's own pages describe it as a private party space; the weekly comedy night in it is produced by Team Comedy and ticketed on Eventbrite, so the producer's listing is the source for show details.",
   "verified_at": "2026-11-08"
+ },
+ {
+  "name": "Brooklyn Music Kitchen",
+  "address": "177 Vanderbilt Ave, Brooklyn",
+  "neighborhood": "Clinton Hill",
+  "borough": "Brooklyn",
+  "website": "https://brooklynmusickitchen.com/",
+  "calendar_url": "https://brooklynmusickitchen.com/calendar/",
+  "source_label": "The room's own home page and calendar",
+  "access_note": "A music room and restaurant in Clinton Hill with a raised stage, full backline and a house sound man. The venue's own pages say 'Located in Clinton Hill'; it also runs a house-band open mic on Wednesdays and the InspiredWordNYC open mic on Sunday afternoons and Monday nights.",
+  "verified_at": "2026-11-10",
+  "note": "Address 177 Vanderbilt Ave, Brooklyn NY 11205 comes from the room's own calendar and from the producer's Eventbrite pages. The neighborhood label follows the room's own wording, 'Clinton Hill'."
  }
 ]

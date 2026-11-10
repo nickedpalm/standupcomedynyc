@@ -133,6 +133,17 @@ function pickCard(p) {
 
 const clock = (p) => { const t = p.time_label.split(' · ')[0]; return t.includes(':') ? t.replace(/\s*(am|pm)$/i, '') : t; };
 const splitTitle = (t) => { const m = t.match(/^([A-Z][\w.'\-]+(?:\s[A-Z][\w.'\-]+){0,3}):\s+(.{4,})$/); return m ? { who: m[1], what: m[2] } : { who: '', what: t }; };
+// The cover's show stack names the show, not the brand presenting it. A festival or
+// producer prefix ("NY Comedy Festival Presents:", "NYCF Presents:") carries no
+// information for a reader, so the show name after the colon is what belongs on
+// the card. A prefix that names a person or a real producer ("Matty Litwack
+// Presents:", "Criminal Presents:") is worth keeping.
+const FESTIVAL_PREFIX = /^(?:new\s+york\s+comedy\s+festival|nycf|ny\s+comedy\s+festival)\s*(?:presents|presented\s+by)?\s*:?\s*$/i;
+const stackLabel = (p) => {
+  const t = splitTitle(p.title);
+  if (t.who && FESTIVAL_PREFIX.test(t.who.trim())) return t.what;
+  return t.who || p.title.split(':')[0];
+};
 const hlSize = (t) => t.length > 48 ? 66 : t.length > 32 ? 76 : t.length > 20 ? 92 : 108;
 function photoCard(p) {
   const img = heroImage(p);
@@ -157,7 +168,7 @@ function photoCover(label, day, list) {
   const n = list.length;
   const weekday = new Intl.DateTimeFormat('en-US', { timeZone: 'America/New_York', weekday: 'long' }).format(new Date(day + 'T12:00:00-04:00'));
   const head = label === 'Tonight' ? `${n} show${n === 1 ? '' : 's'} worth your ${weekday}` : `${n} show${n === 1 ? '' : 's'} worth the train this weekend`;
-  const stack = list.slice(0, 5).map((p) => `<div>${esc(splitTitle(p.title).who || p.title.split(':')[0])}<span>${esc(clock(p))}${p.demand === 'sold_out' ? ' · sold out' : ''}</span></div>`).join('') + (n > 5 ? `<div>+${n - 5} more</div>` : '');
+  const stack = list.slice(0, 5).map((p) => `<div>${esc(stackLabel(p))}<span>${esc(clock(p))}${p.demand === 'sold_out' ? ' · sold out' : ''}</span></div>`).join('') + (n > 5 ? `<div>+${n - 5} more</div>` : '');
   return `${base}<div class="photo" style="background-image:url(${bg})"></div><div class="pw"><div class="lock">Stand Up <span>Comedy NYC</span></div>
 <div class="hl" style="--hs:${hlSize(head)}px"><i class="gold">${esc(shortDate(day))}</i><br><i>${esc(head)}</i></div>
 <div class="stack">${stack}</div><div class="pill">Swipe for the picks</div><div class="credit2">${esc(img.credit || '')}</div></div>`;

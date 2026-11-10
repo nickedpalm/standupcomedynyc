@@ -455,3 +455,35 @@ Generated from `npm run heat` + `npm run research-plan`.
 ## Demand tags read today
 - **Sold out:** Maddy Kelly (Union Hall, Nov 11), TJ Miller Live! (Comic Strip Live, Nov 11), Fahim Anwar (Bell House, Nov 20), Jacqueline Novak (Bell House, Nov 23 - read off the Bell House's own calendar, which prints the show as SOLD OUT).
 - **Going fast:** 4 picks on a second show the same night at the same room.
+
+# Heat notes — 2026-11-10
+
+Generated from `npm run heat` + `npm run research-plan`.
+
+## Rankings
+- 47 performers considered; **ran 5** (Jess Hilarious, Michelle Wolf, Ester Steinberg, Caroline Hanes, Salma Zaky) plus **1** late run after the picks landed (Ilana Glazer); **reuse 8** cached; **skipped 38**
+- ~414,000 tokens saved from the research-plan (9,000 tokens per run, 46 runs avoided)
+- Three names came back with no recent data at all and were ranked on schedule alone: Ester Steinberg, Caroline Hanes, Salma Zaky
+
+## Run notes
+- **Jess Hilarious** (Hard Rock Hotel, Nov 13): no signal in 30 days — Reddit returned two threads that are name collisions (a r/TwoXChromosomes audience-reaction post and a r/SonyAlpha photography thread) and Hacker News three unrelated stories, so the date rests on the festival listing.
+- **Michelle Wolf** (The Town Hall, Nov 19): nothing usable — Reddit gave three threads (a war-plane photo post, a relationship-advice update and a generic phrase match on "conservative comedian") and Hacker News was silent.
+- **Ester Steinberg** (New York Comedy Club Midtown, Nov 10): eleven Reddit threads and 5,700 points, every one a name or phrase collision (Yankees contracts, a Fouquet's spa post, a Tammany Hall thread); Hacker News returned three unrelated stories.
+- **Caroline Hanes** (New York Comedy Club Upper West Side, Nov 10): eleven Reddit threads and 5,945 points, all collisions (a Yankee contract post, a jigsaw puzzle titled Pomegranate, a Tammany Hall thread); Hacker News silent.
+- **Salma Zaky** (New York Comedy Club Upper West Side, Nov 10): ten Reddit threads and 5,693 points, every one a name or phrase collision; Hacker News silent.
+- **Ilana Glazer** (Beacon Theatre, Nov 13): ten Reddit threads and 4,184 points, all phrase collisions (a New York travel post, a Marilyn Monroe history thread, a cope-day meme); Hacker News silent. Ran after the day's picks were added, because the plan re-ranked once the new board was in place.
+
+## Reuse notes (already cached under 7d)
+- **Maddy Kelly**: eleven threads and 5,622 points, all name collisions; her Union Hall Nov 11 date is sold out.
+- **Fahim Anwar**: two Reddit threads, both off-topic; no New York signal, and the Bell House Nov 20 date is sold out at 7:30pm with a second show at 10pm.
+- **Daniel Sloss**: four Reddit threads, none about the Beacon date — two are ticket-resale posts and one is a Russell Brand complaint.
+- **Jordan Jensen**: three Reddit threads, none about New York — a podcast episode, a Kelowna date announcement and a jazz thread.
+- **Jessica Kirson**: four Reddit threads, every one a name collision (Jessica Chastain, a stylist, a musician, a story); Hacker News silent.
+
+## Ranked on schedule alone
+- Ester Steinberg, Caroline Hanes and Salma Zaky were ranked on schedule alone — nothing recent on any of them, so the three New York Comedy Club picks stand on the club's own listing.
+- All 38 skipped performers sit outside the 10-day window, below the cheap-rank threshold, or on a show already sold out.
+
+## Demand tags read today
+- **Sold out:** Maddy Kelly (Union Hall, Nov 11), TJ Miller Live! (Comic Strip Live, Nov 11), Fahim Anwar (Bell House, Nov 20).
+- **Going fast:** Ruperto Vanderpool's Comic Strip Nov 14 bill (a second show the same night at the same room).

@@ -1,5 +1,5 @@
 {
- "retrieved_at": "2026-11-09T11:08:26.873Z",
+ "retrieved_at": "2026-11-10T11:01:32.354Z",
  "note": "Promoter posts from NYC neighborhood subreddits, last 14 days. Leads only: open the linked page or the venue site before anything enters the data; register the venue first.",
  "subreddits": [
   "nycevents",
@@ -27,12 +27,120 @@
  ],
  "leads": [
   {
+   "id": "1xs5xll",
+   "date": "2026-11-09",
+   "subreddit": "nycevents",
+   "title": "Mutual Aid Comedy Show -",
+   "score": 1,
+   "comments": 0,
+   "url": "https://www.reddit.com/r/nycevents/comments/1xs5xll/mutual_aid_comedy_show/",
+   "venues_mentioned": [],
+   "when_mentioned": null,
+   "time_mentioned": null,
+   "links": [],
+   "free": false,
+   "new_since_last_run": true,
+   "excerpt": ""
+  },
+  {
+   "id": "1xs0pl4",
+   "date": "2026-11-09",
+   "subreddit": "nycevents",
+   "title": "Free Comedy Show @ Rose's R&amp;R Bar in Williamsburg!",
+   "score": 1,
+   "comments": 0,
+   "url": "https://www.reddit.com/r/nycevents/comments/1xs0pl4/free_comedy_show_roses_rr_bar_in_williamsburg/",
+   "venues_mentioned": [],
+   "when_mentioned": "Wednesday 11/11 (how fun) @ 8pm at Rose's R&amp;R",
+   "time_mentioned": "8pm",
+   "links": [
+    "https://partiful.com/e/dbfJAeVdMpQ72BtYQN54"
+   ],
+   "free": true,
+   "new_since_last_run": true,
+   "excerpt": "We're back Wednesday 11/11 (how fun) @ 8pm at Rose's R&amp;R Bar (457 Graham Ave.) My workplace is producing/sponsoring a free bi-weekly comedy show at Rose's R&amp;R Bar (457 Graham Ave.) in Williamsburg/Greenpoint, BK right next door to our storefront. Each show will feature so"
+  },
+  {
+   "id": "1xrqmyq",
+   "date": "2026-11-09",
+   "subreddit": "nycComedy",
+   "title": "Misfit Variety Show at the New York Comedy Festival",
+   "score": 1,
+   "comments": 0,
+   "url": "https://www.reddit.com/r/nycComedy/comments/1xrqmyq/misfit_variety_show_at_the_new_york_comedy/",
+   "venues_mentioned": [
+    "Brooklyn Comedy Collective"
+   ],
+   "when_mentioned": "Sunday, November 15** **Brooklyn Comedy Collec",
+   "time_mentioned": null,
+   "links": [
+    "https://www.brooklyncc.com/show-schedule/misfit-variety-nycf-11-15"
+   ],
+   "free": false,
+   "new_since_last_run": true,
+   "excerpt": "Join the ***Misfit Variety Show*** **at the New York Comedy Festival** to celebrate those with official ADHD … and everyone else who is pretty close. **Featuring** **Judah Friedlander**, this variety hour will take you on a joyride of heartwarmingly irreverent **comedy for the we"
+  },
+  {
+   "id": "1xs0o2q",
+   "date": "2026-11-09",
+   "subreddit": "williamsburg",
+   "title": "Free Comedy Show @ Rose's R&amp;R Bar in Williamsburg!",
+   "score": 2,
+   "comments": 0,
+   "url": "https://www.reddit.com/r/williamsburg/comments/1xs0o2q/free_comedy_show_roses_rr_bar_in_williamsburg/",
+   "venues_mentioned": [],
+   "when_mentioned": "Wednesday 11/11 (how fun) @ 8pm at Rose's R&amp;R",
+   "time_mentioned": "8pm",
+   "links": [
+    "https://partiful.com/e/dbfJAeVdMpQ72BtYQN54"
+   ],
+   "free": true,
+   "new_since_last_run": true,
+   "excerpt": "We're back Wednesday 11/11 (how fun) @ 8pm at Rose's R&amp;R Bar (457 Graham Ave.) My workplace is producing/sponsoring a free bi-weekly comedy show at Rose's R&amp;R Bar (457 Graham Ave.) in Williamsburg/Greenpoint, BK right next door to our storefront. Each show will feature so"
+  },
+  {
+   "id": "1xrwxco",
+   "date": "2026-11-09",
+   "subreddit": "williamsburg",
+   "title": "Selling 1 ticket to James Acaster tonight @ Greenpoint Comedy Club",
+   "score": 2,
+   "comments": 0,
+   "url": "https://www.reddit.com/r/williamsburg/comments/1xrwxco/selling_1_ticket_to_james_acaster_tonight/",
+   "venues_mentioned": [
+    "Greenpoint Comedy Club"
+   ],
+   "when_mentioned": null,
+   "time_mentioned": null,
+   "links": [],
+   "free": false,
+   "new_since_last_run": true,
+   "excerpt": ""
+  },
+  {
+   "id": "1xry4an",
+   "date": "2026-11-09",
+   "subreddit": "lowereastside",
+   "title": "Bars that are chill on a Saturday night?",
+   "score": 5,
+   "comments": 11,
+   "url": "https://www.reddit.com/r/lowereastside/comments/1xry4an/bars_that_are_chill_on_a_saturday_night/",
+   "venues_mentioned": [
+    "Caveat"
+   ],
+   "when_mentioned": "Saturday night? Hi",
+   "time_mentioned": "9pm",
+   "links": [],
+   "free": false,
+   "new_since_last_run": true,
+   "excerpt": "Hi! I'm looking for a chill, large bar on the LES that would be good for people to hang after a comedy show at Caveat. We have a cast of 10 people (who all have guests who come to the show) and we always struggle to find a place that's not packed/reserved for special parties afte"
+  },
+  {
    "id": "1xrlcqk",
    "date": "2026-11-09",
    "subreddit": "AskNYC",
    "title": "Is it possible to buy comedy cellar tickets secondhand?",
-   "score": 1,
-   "comments": 1,
+   "score": 0,
+   "comments": 3,
    "url": "https://www.reddit.com/r/AskNYC/comments/1xrlcqk/is_it_possible_to_buy_comedy_cellar_tickets/",
    "venues_mentioned": [
     "Comedy Cellar"
@@ -41,8 +149,80 @@
    "time_mentioned": null,
    "links": [],
    "free": false,
-   "new_since_last_run": true,
+   "new_since_last_run": false,
    "excerpt": "Family is visiting last minute from out of town and I’m really hoping to bring them to a show, but it looks to be sold out. Do people sell them secondhand on a separate vendor website or is that not a thing?"
+  },
+  {
+   "id": "1xs5x2t",
+   "date": "2026-11-09",
+   "subreddit": "parkslope",
+   "title": "Mutual Aid Comedy Show -",
+   "score": 5,
+   "comments": 0,
+   "url": "https://www.reddit.com/r/parkslope/comments/1xs5x2t/mutual_aid_comedy_show/",
+   "venues_mentioned": [
+    "Good Judy"
+   ],
+   "when_mentioned": "Wednesday at Good Judy - proceeds go directly to ",
+   "time_mentioned": "7 PM",
+   "links": [
+    "https://partiful.com/e/qH7jJYaGeYUr7QpDCUO4"
+   ],
+   "free": false,
+   "new_since_last_run": true,
+   "excerpt": "Hey Slopers! I am hosting a comedy show this Wednesday at Good Judy - proceeds go directly to the Immigrant Defense Project. [https://partiful.com/e/qH7jJYaGeYUr7QpDCUO4](https://partiful.com/e/qH7jJYaGeYUr7QpDCUO4) https://preview.redd.it/7ecl7aa8yn0i1.png?width=920&amp;format=p"
+  },
+  {
+   "id": "1xs6i2y",
+   "date": "2026-11-09",
+   "subreddit": "Greenpoint",
+   "title": "selling a 7pm ticket for James Acaster at Greenpoint Comedy Club tonight",
+   "score": 0,
+   "comments": 3,
+   "url": "https://www.reddit.com/r/Greenpoint/comments/1xs6i2y/selling_a_7pm_ticket_for_james_acaster_at/",
+   "venues_mentioned": [
+    "Greenpoint Comedy Club"
+   ],
+   "when_mentioned": null,
+   "time_mentioned": "7pm",
+   "links": [],
+   "free": false,
+   "new_since_last_run": true,
+   "excerpt": "I can’t go anymore - I believe face was $30! 7pm show edit - sold "
+  },
+  {
+   "id": "1xs0oko",
+   "date": "2026-11-09",
+   "subreddit": "Greenpoint",
+   "title": "Free Comedy Show @ Rose's R&amp;R Bar in Williamsburg/Greenpoint!",
+   "score": 0,
+   "comments": 0,
+   "url": "https://www.reddit.com/r/Greenpoint/comments/1xs0oko/free_comedy_show_roses_rr_bar_in/",
+   "venues_mentioned": [],
+   "when_mentioned": null,
+   "time_mentioned": null,
+   "links": [],
+   "free": true,
+   "new_since_last_run": true,
+   "excerpt": ""
+  },
+  {
+   "id": "1xrwrrr",
+   "date": "2026-11-09",
+   "subreddit": "Greenpoint",
+   "title": "Selling 1 ticket to James Acaster tonight @ Greenpoint Comedy Club",
+   "score": 1,
+   "comments": 2,
+   "url": "https://www.reddit.com/r/Greenpoint/comments/1xrwrrr/selling_1_ticket_to_james_acaster_tonight/",
+   "venues_mentioned": [
+    "Greenpoint Comedy Club"
+   ],
+   "when_mentioned": null,
+   "time_mentioned": "7pm",
+   "links": [],
+   "free": false,
+   "new_since_last_run": true,
+   "excerpt": "Have an extra ticket I’m looking to sell. This is for the 7pm show tonight (November 9) Both shows this evening are sold out. Selling for face value $29.50 Venmo or Cash App payment only and I will email you the ticket. "
   },
   {
    "id": "1xqy3om",
@@ -57,7 +237,7 @@
    "time_mentioned": null,
    "links": [],
    "free": false,
-   "new_since_last_run": true,
+   "new_since_last_run": false,
    "excerpt": ""
   },
   {
@@ -93,7 +273,7 @@
    "time_mentioned": null,
    "links": [],
    "free": false,
-   "new_since_last_run": true,
+   "new_since_last_run": false,
    "excerpt": "Tix and comedian bios at onein35.com. 15 tix left (at time of posting). Thanks, and hope to see you there. "
   },
   {
@@ -131,7 +311,7 @@
     "http://onein35.com"
    ],
    "free": false,
-   "new_since_last_run": true,
+   "new_since_last_run": false,
    "excerpt": "Comedian bios at tix at [onein35.com](http://onein35.com) \\- Thanks and hope to see you there. "
   },
   {
@@ -458,7 +638,7 @@
    "date": "2026-11-03",
    "subreddit": "crownheights",
    "title": "It's election day, so make sure to \"elect\" to see Crown Heights Comedy Night on Friday!",
-   "score": 4,
+   "score": 5,
    "comments": 0,
    "url": "https://www.reddit.com/r/crownheights/comments/1xn4m19/its_election_day_so_make_sure_to_elect_to_see/",
    "venues_mentioned": [],
@@ -526,26 +706,6 @@
    "free": false,
    "new_since_last_run": false,
    "excerpt": ""
-  },
-  {
-   "id": "1xlzt6r",
-   "date": "2026-11-02",
-   "subreddit": "astoria",
-   "title": "for sale: Vivo standing desk/manual adjust - $70 OBO - pickup only - 30th Ave &amp; 50th Street",
-   "score": 0,
-   "comments": 2,
-   "url": "https://www.reddit.com/r/astoria/comments/1xlzt6r/for_sale_vivo_standing_deskmanual_adjust_70_obo/",
-   "venues_mentioned": [
-    "The Shillelagh Tavern"
-   ],
-   "when_mentioned": null,
-   "time_mentioned": null,
-   "links": [
-    "https://www.walmart.com/ip/VIVO-Mobile-Height-Adjustable-Stand-Up-Desk-Cart-with-Sliding-Keyboard-Tray/929895445"
-   ],
-   "free": false,
-   "new_since_last_run": false,
-   "excerpt": "Great quality standing desk, perfect for small spaces. Going back to the office so no longer needed! $70 OBO. Retails for [$200 plus tax](https://www.walmart.com/ip/VIVO-Mobile-Height-Adjustable-Stand-Up-Desk-Cart-with-Sliding-Keyboard-Tray/929895445). Make me an offer, prefer to"
   },
   {
    "id": "1xl4sbm",
@@ -666,7 +826,7 @@
    "date": "2026-10-29",
    "subreddit": "eastvillage",
    "title": "Who remembers Rififi Lounge?",
-   "score": 11,
+   "score": 13,
    "comments": 1,
    "url": "https://www.reddit.com/r/eastvillage/comments/1xilzcq/who_remembers_rififi_lounge/",
    "venues_mentioned": [],
@@ -730,7 +890,7 @@
    "date": "2026-10-28",
    "subreddit": "Greenpoint",
    "title": "Come to Rose''s R&amp;R Bar tonight 10/28 for Free Comedy!",
-   "score": 4,
+   "score": 2,
    "comments": 0,
    "url": "https://www.reddit.com/r/Greenpoint/comments/1xhw27f/come_to_roses_rr_bar_tonight_1028_for_free_comedy/",
    "venues_mentioned": [],
@@ -748,7 +908,7 @@
    "date": "2026-10-28",
    "subreddit": "crownheights",
    "title": "Crown Heights Events Thread 10/28-11/4 HALLOWEEN EDITION",
-   "score": 29,
+   "score": 28,
    "comments": 0,
    "url": "https://www.reddit.com/r/crownheights/comments/1xhw615/crown_heights_events_thread_1028114_halloween/",
    "venues_mentioned": [
@@ -764,66 +924,6 @@
    "free": true,
    "new_since_last_run": false,
    "excerpt": "Happy SPOOKTOBER week! Can't believe we're at the end of the month already, but we have lots of cool neighborhood events for you to check out. Hope everyone gets more treats than tricks, and don't forget to VOTE on Tuesday! As always please comment more suggestions and they'll be"
-  },
-  {
-   "id": "1xgiw4y",
-   "date": "2026-10-27",
-   "subreddit": "nycevents",
-   "title": "NYC Family Friendly Magic Show (Clean Comedy &amp; Astounding Magic!)",
-   "score": 1,
-   "comments": 0,
-   "url": "https://www.reddit.com/r/nycevents/comments/1xgiw4y/nyc_family_friendly_magic_show_clean_comedy/",
-   "venues_mentioned": [
-    "Broadway Comedy Club"
-   ],
-   "when_mentioned": "Saturday, November 7 and Sunday, November 8 (bot",
-   "time_mentioned": "2pm",
-   "links": [
-    "https://broadwaymagichour.com"
-   ],
-   "free": false,
-   "new_since_last_run": false,
-   "excerpt": "NYC's family magic show The Broadway Magic Hour is back again next weekend in Times Square! See the show live on Saturday, November 7 and Sunday, November 8 (both shows at 2pm) at the historic Broadway Comedy Club on We. 53rd St. \"Unforgettable!\" - NY Post \"Brilliant\" - Penn &amp"
-  },
-  {
-   "id": "1xg2tcu",
-   "date": "2026-10-26",
-   "subreddit": "nycevents",
-   "title": "Catholic Guilt at SoHo Playhouse, October 29th - November 13th",
-   "score": 1,
-   "comments": 0,
-   "url": "https://www.reddit.com/r/nycevents/comments/1xg2tcu/catholic_guilt_at_soho_playhouse_october_29th/",
-   "venues_mentioned": [
-    "SoHo Playhouse"
-   ],
-   "when_mentioned": null,
-   "time_mentioned": null,
-   "links": [
-    "https://www.sohoplayhouse.com/shows/kelly-mccaughan-catholic-guilt"
-   ],
-   "free": false,
-   "new_since_last_run": false,
-   "excerpt": "Does Daddy Jesus’s naked body on the cross make you wet? Spoiler alert: so will this show - seriously, there’s water. *Catholic Guilt* is a deranged, fractured church service blending stand-up, clown, bouffon, physical comedy, and audience interaction as Kelly takes on religion, "
-  },
-  {
-   "id": "1xg2h36",
-   "date": "2026-10-26",
-   "subreddit": "nycevents",
-   "title": "Drunk Black History Shares More Untold Black History Stories @ New York Comedy Festival",
-   "score": 1,
-   "comments": 0,
-   "url": "https://www.reddit.com/r/nycevents/comments/1xg2h36/drunk_black_history_shares_more_untold_black/",
-   "venues_mentioned": [
-    "Caveat"
-   ],
-   "when_mentioned": "saturday, november 7th to hear untold Black hist",
-   "time_mentioned": null,
-   "links": [
-    "https://caveat.nyc/events/drunk-black-history-new-york-comedy-festival-edition-2026-11-07"
-   ],
-   "free": false,
-   "new_since_last_run": false,
-   "excerpt": "check out #drunkblackhistory, part of this year's New York Comedy Festival, on saturday, november 7th to hear untold Black history stories from hilarious, incredible Black comedians, storytellers, and podcasters! tickets are available at [https://caveat.nyc/events/drunk-black-his"
   }
  ]
 }

@@ -213,3 +213,19 @@ signed URL from the listing; the bare CDN link does not return the file, which
 is worth remembering the next time one is needed.
 
 None of these is marked `reuse: granted`, so none appears on an Instagram card.
+
+
+## 2026-11-10 — five flyers added with the recovered 11:00 edition
+
+Each local file was re-hashed against its POSTER-SOURCES record and matched
+byte for byte. The dead run pulled the images fresh off each live listing's
+og:image, because the Eventbrite CDN signatures on the saved URLs had
+expired.
+
+- `tone-and-the-homies-littlefield-2026-11-10.jpg` — 940x470, 28,302 bytes
+- `sienna-hubert-ross-union-hall-2026-11-12.jpg` — 940x470, 37,874 bytes
+- `sureni-does-an-hour-union-hall-2026-11-14.jpg` — 940x470, 29,478 bytes
+- `misfit-variety-bcc-2026-11-15.jpg` — 940x940, 73,114 bytes
+- `comfy-clash-eastville-2026-11-15.png` — 660x660, 113,173 bytes
+
+None is marked `reuse: granted`, so none appears on an Instagram card.
