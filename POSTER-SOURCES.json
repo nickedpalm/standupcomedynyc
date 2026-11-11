@@ -2686,7 +2686,7 @@
  },
  {
   "event_id": "ester-steinberg-nycc-2026-11-10",
-  "src": "/assets/posters/ester-steinberg-nycc-2026-11-10.jpg",
+  "src": "/assets/posters/archive/ester-steinberg-nycc-2026-11-10.jpg",
   "width": 660,
   "height": 660,
   "source_url": "https://newyorkcomedyclub.com/events/ester-steinberg-presented-by-the-new-york-comedy-festival",
@@ -2697,11 +2697,12 @@
   "retrieved_at": "2026-10-29",
   "bytes": 93271,
   "sha256": "a6196fecfc3ba791f4f1b18b6e48d8e23fdb8fded53e3025d7fb563d40408537",
-  "reuse_status": "Official promotional artwork; no separate reuse license identified. Local review draft only."
+  "reuse_status": "Official promotional artwork; no separate reuse license identified. Local review draft only.",
+  "archived": true
  },
  {
   "event_id": "double-edged-hanes-zaky-nycc-2026-11-10",
-  "src": "/assets/posters/double-edged-hanes-zaky-nycc-2026-11-10.jpg",
+  "src": "/assets/posters/archive/double-edged-hanes-zaky-nycc-2026-11-10.jpg",
   "width": 660,
   "height": 660,
   "source_url": "https://newyorkcomedyclub.com/events/double-edged-caroline-hanes-and-salma-zaky-presented-by-the-new-york-comedy-festival",
@@ -2712,7 +2713,8 @@
   "retrieved_at": "2026-10-29",
   "bytes": 75089,
   "sha256": "4c2f9f67c7fead98c871f07966caa0405adb52b5dba23b81c2f7df44033115fc",
-  "reuse_status": "Official promotional artwork; no separate reuse license identified. Local review draft only."
+  "reuse_status": "Official promotional artwork; no separate reuse license identified. Local review draft only.",
+  "archived": true
  },
  {
   "event_id": "good-eggs-nycc-2026-11-11",
@@ -3425,7 +3427,7 @@
  },
  {
   "event_id": "pretty-major-union-hall-2026-11-10",
-  "src": "/assets/posters/pretty-major-union-hall-2026-11-10.jpg",
+  "src": "/assets/posters/archive/pretty-major-union-hall-2026-11-10.jpg",
   "width": 1880,
   "height": 940,
   "source_url": "https://www.eventbrite.com/e/pretty-major-hosted-by-jay-jurden-nycf-edition-tickets-1997943602097",
@@ -3436,7 +3438,8 @@
   "retrieved_at": "2026-11-07",
   "bytes": 106195,
   "sha256": "3094753910af6cecade60e38a6e366c039452998f89d7e46fcd0d425b4b60c20",
-  "reuse_status": "Official promotional artwork; no separate reuse license identified. Local review draft only."
+  "reuse_status": "Official promotional artwork; no separate reuse license identified. Local review draft only.",
+  "archived": true
  },
  {
   "event_id": "gina-brillon-st-marks-2026-12-18",
@@ -3530,7 +3533,7 @@
  },
  {
   "event_id": "tone-and-the-homies-littlefield-2026-11-10",
-  "src": "/assets/posters/tone-and-the-homies-littlefield-2026-11-10.jpg",
+  "src": "/assets/posters/archive/tone-and-the-homies-littlefield-2026-11-10.jpg",
   "width": 940,
   "height": 470,
   "source_url": "https://www.eventbrite.com/e/ny-comedy-festival-presents-tone-and-the-homies-tickets-1998385740545",
@@ -3541,7 +3544,8 @@
   "retrieved_at": "2026-11-10",
   "bytes": 28302,
   "sha256": "030aba32b7d526ef130f22303e991ba399e87def46af9c678224bda6c46f6a23",
-  "reuse_status": "Official promotional artwork; no separate reuse license identified. Local review draft only."
+  "reuse_status": "Official promotional artwork; no separate reuse license identified. Local review draft only.",
+  "archived": true
  },
  {
   "event_id": "sienna-hubert-ross-union-hall-2026-11-12",
