@@ -1,39 +1,7 @@
 {
- "generated_at": "2026-11-11T09:20:50.509Z",
+ "generated_at": "2026-11-12T09:21:17.767Z",
  "note": "Demand signals for the editor. Only availability and second shows set the public demand tag.",
  "picks": [
-  {
-   "id": "maddy-kelly-union-hall-2026-11-11",
-   "title": "Maddy Kelly",
-   "venue": "Union Hall",
-   "date": "2026-11-11",
-   "heat": 100,
-   "demand": "sold_out",
-   "availability": "SoldOut",
-   "second_show": false,
-   "performer": "Maddy Kelly",
-   "wikipedia": null,
-   "reddit": null,
-   "reasons": [
-    "sold out on the ticket page"
-   ]
-  },
-  {
-   "id": "tj-miller-comic-strip-2026-11-11",
-   "title": "TJ Miller Live!",
-   "venue": "Comic Strip Live",
-   "date": "2026-11-11",
-   "heat": 100,
-   "demand": "sold_out",
-   "availability": "SoldOut",
-   "second_show": false,
-   "performer": null,
-   "wikipedia": null,
-   "reddit": null,
-   "reasons": [
-    "sold out on the ticket page"
-   ]
-  },
   {
    "id": "fahim-anwar-bell-house-2026-11-20",
    "title": "Fahim Anwar",
@@ -51,6 +19,50 @@
    ]
   },
   {
+   "id": "demetri-martin-bell-house-2026-12-04",
+   "title": "Demetri Martin: Standup Comedy for Christmas",
+   "venue": "The Bell House",
+   "date": "2026-12-04",
+   "heat": 100,
+   "demand": "sold_out",
+   "availability": "SoldOut",
+   "second_show": false,
+   "performer": "Demetri Martin",
+   "wikipedia": {
+    "title": "Demetri Martin",
+    "views_30d": 16223,
+    "views_prior_30d": 12357,
+    "change": 31
+   },
+   "reddit": null,
+   "reasons": [
+    "sold out on the ticket page",
+    "Wikipedia: 541 views a day"
+   ]
+  },
+  {
+   "id": "demetri-martin-bell-house-2026-12-05",
+   "title": "Demetri Martin: Standup Comedy for Christmas",
+   "venue": "The Bell House",
+   "date": "2026-12-05",
+   "heat": 100,
+   "demand": "sold_out",
+   "availability": "SoldOut",
+   "second_show": false,
+   "performer": "Demetri Martin",
+   "wikipedia": {
+    "title": "Demetri Martin",
+    "views_30d": 16223,
+    "views_prior_30d": 12357,
+    "change": 31
+   },
+   "reddit": null,
+   "reasons": [
+    "sold out on the ticket page",
+    "Wikipedia: 541 views a day"
+   ]
+  },
+  {
    "id": "nycf-daniel-sloss-beacon-2026-11-14",
    "title": "Daniel Sloss: Bitter",
    "venue": "Beacon Theatre",
@@ -62,14 +74,14 @@
    "performer": "Daniel Sloss",
    "wikipedia": {
     "title": "Daniel Sloss",
-    "views_30d": 31487,
-    "views_prior_30d": 18389,
-    "change": 71
+    "views_30d": 32940,
+    "views_prior_30d": 18394,
+    "change": 79
    },
    "reddit": null,
    "reasons": [
-    "Wikipedia: 1050 views a day",
-    "Wikipedia views up 71% over the prior month"
+    "Wikipedia: 1098 views a day",
+    "Wikipedia views up 79% over the prior month"
    ]
   },
   {
@@ -101,14 +113,14 @@
    "performer": "Michelle Wolf",
    "wikipedia": {
     "title": "Michelle Wolf",
-    "views_30d": 19249,
-    "views_prior_30d": 12129,
-    "change": 59
+    "views_30d": 19335,
+    "views_prior_30d": 12370,
+    "change": 56
    },
    "reddit": null,
    "reasons": [
-    "Wikipedia: 642 views a day",
-    "Wikipedia views up 59% over the prior month"
+    "Wikipedia: 645 views a day",
+    "Wikipedia views up 56% over the prior month"
    ]
   },
   {
@@ -123,14 +135,14 @@
    "performer": "Jacqueline Novak",
    "wikipedia": {
     "title": "Jacqueline Novak",
-    "views_30d": 10719,
-    "views_prior_30d": 4311,
-    "change": 149
+    "views_30d": 10803,
+    "views_prior_30d": 3941,
+    "change": 174
    },
    "reddit": null,
    "reasons": [
-    "Wikipedia: 357 views a day",
-    "Wikipedia views up 149% over the prior month"
+    "Wikipedia: 360 views a day",
+    "Wikipedia views up 174% over the prior month"
    ]
   },
   {
@@ -145,14 +157,14 @@
    "performer": "Jacqueline Novak",
    "wikipedia": {
     "title": "Jacqueline Novak",
-    "views_30d": 10719,
-    "views_prior_30d": 4311,
-    "change": 149
+    "views_30d": 10803,
+    "views_prior_30d": 3941,
+    "change": 174
    },
    "reddit": null,
    "reasons": [
-    "Wikipedia: 357 views a day",
-    "Wikipedia views up 149% over the prior month"
+    "Wikipedia: 360 views a day",
+    "Wikipedia views up 174% over the prior month"
    ]
   },
   {
@@ -167,13 +179,13 @@
    "performer": "Ilana Glazer",
    "wikipedia": {
     "title": "Ilana Glazer",
-    "views_30d": 34684,
-    "views_prior_30d": 35776,
-    "change": -3
+    "views_30d": 34091,
+    "views_prior_30d": 36823,
+    "change": -7
    },
    "reddit": null,
    "reasons": [
-    "Wikipedia: 1156 views a day"
+    "Wikipedia: 1136 views a day"
    ]
   },
   {
@@ -188,13 +200,13 @@
    "performer": "Ania Magliano",
    "wikipedia": {
     "title": "Ania Magliano",
-    "views_30d": 83569,
-    "views_prior_30d": 57765,
-    "change": 45
+    "views_30d": 80048,
+    "views_prior_30d": 61535,
+    "change": 30
    },
    "reddit": null,
    "reasons": [
-    "Wikipedia: 2786 views a day"
+    "Wikipedia: 2668 views a day"
    ]
   },
   {
@@ -209,13 +221,13 @@
    "performer": "Ania Magliano",
    "wikipedia": {
     "title": "Ania Magliano",
-    "views_30d": 83569,
-    "views_prior_30d": 57765,
-    "change": 45
+    "views_30d": 80048,
+    "views_prior_30d": 61535,
+    "change": 30
    },
    "reddit": null,
    "reasons": [
-    "Wikipedia: 2786 views a day"
+    "Wikipedia: 2668 views a day"
    ]
   },
   {
@@ -230,13 +242,13 @@
    "performer": "Jess Hilarious",
    "wikipedia": {
     "title": "Jess Hilarious",
-    "views_30d": 6758,
-    "views_prior_30d": 8588,
+    "views_30d": 6729,
+    "views_prior_30d": 8481,
     "change": -21
    },
    "reddit": null,
    "reasons": [
-    "Wikipedia: 225 views a day"
+    "Wikipedia: 224 views a day"
    ]
   },
   {
@@ -251,13 +263,13 @@
    "performer": "Jessica Kirson",
    "wikipedia": {
     "title": "Jessica Kirson",
-    "views_30d": 14071,
-    "views_prior_30d": 12150,
-    "change": 16
+    "views_30d": 14087,
+    "views_prior_30d": 12344,
+    "change": 14
    },
    "reddit": null,
    "reasons": [
-    "Wikipedia: 469 views a day"
+    "Wikipedia: 470 views a day"
    ]
   },
   {
@@ -272,13 +284,13 @@
    "performer": "Jaboukie Young-White",
    "wikipedia": {
     "title": "Jaboukie Young-White",
-    "views_30d": 24191,
-    "views_prior_30d": 68481,
-    "change": -65
+    "views_30d": 23295,
+    "views_prior_30d": 69302,
+    "change": -66
    },
    "reddit": null,
    "reasons": [
-    "Wikipedia: 806 views a day"
+    "Wikipedia: 777 views a day"
    ]
   },
   {
@@ -293,13 +305,13 @@
    "performer": "Jessica Kirson",
    "wikipedia": {
     "title": "Jessica Kirson",
-    "views_30d": 14071,
-    "views_prior_30d": 12150,
-    "change": 16
+    "views_30d": 14087,
+    "views_prior_30d": 12344,
+    "change": 14
    },
    "reddit": null,
    "reasons": [
-    "Wikipedia: 469 views a day"
+    "Wikipedia: 470 views a day"
    ]
   },
   {
@@ -316,48 +328,6 @@
    "reddit": null,
    "reasons": [
     "3 listings this month"
-   ]
-  },
-  {
-   "id": "demetri-martin-bell-house-2026-12-04",
-   "title": "Demetri Martin: Standup Comedy for Christmas",
-   "venue": "The Bell House",
-   "date": "2026-12-04",
-   "heat": 10,
-   "demand": null,
-   "availability": null,
-   "second_show": false,
-   "performer": "Demetri Martin",
-   "wikipedia": {
-    "title": "Demetri Martin",
-    "views_30d": 16217,
-    "views_prior_30d": 12528,
-    "change": 29
-   },
-   "reddit": null,
-   "reasons": [
-    "Wikipedia: 541 views a day"
-   ]
-  },
-  {
-   "id": "demetri-martin-bell-house-2026-12-05",
-   "title": "Demetri Martin: Standup Comedy for Christmas",
-   "venue": "The Bell House",
-   "date": "2026-12-05",
-   "heat": 10,
-   "demand": null,
-   "availability": null,
-   "second_show": false,
-   "performer": "Demetri Martin",
-   "wikipedia": {
-    "title": "Demetri Martin",
-    "views_30d": 16217,
-    "views_prior_30d": 12528,
-    "change": 29
-   },
-   "reddit": null,
-   "reasons": [
-    "Wikipedia: 541 views a day"
    ]
   },
   {
@@ -390,82 +360,6 @@
    "reddit": null,
    "reasons": [
     "3 listings this month"
-   ]
-  },
-  {
-   "id": "peer-revue-caveat-2026-11-11",
-   "title": "Peer Revue",
-   "venue": "Caveat",
-   "date": "2026-11-11",
-   "heat": 0,
-   "demand": null,
-   "availability": "InStock",
-   "second_show": false,
-   "performer": "Peer Revue",
-   "wikipedia": null,
-   "reddit": null,
-   "reasons": [
-    "tickets available"
-   ]
-  },
-  {
-   "id": "good-eggs-nycc-2026-11-11",
-   "title": "Good Eggs Presented by Mark Normand, Gary Vider, Matt Ruby",
-   "venue": "New York Comedy Club (East Village)",
-   "date": "2026-11-11",
-   "heat": 0,
-   "demand": null,
-   "availability": null,
-   "second_show": false,
-   "performer": null,
-   "wikipedia": null,
-   "reddit": null,
-   "reasons": []
-  },
-  {
-   "id": "matty-litwack-peter-the-great-flop-house-2026-11-11",
-   "title": "Matty Litwack Presents: Peter the Great (FINAL SHOWING)",
-   "venue": "Flop House Comedy",
-   "date": "2026-11-11",
-   "heat": 0,
-   "demand": null,
-   "availability": "InStock",
-   "second_show": false,
-   "performer": null,
-   "wikipedia": null,
-   "reddit": null,
-   "reasons": [
-    "tickets available"
-   ]
-  },
-  {
-   "id": "yamaneika-saunders-nycc-2026-11-11",
-   "title": "An Hour with Yamaneika Saunders",
-   "venue": "New York Comedy Club (Upper West Side)",
-   "date": "2026-11-11",
-   "heat": 0,
-   "demand": null,
-   "availability": null,
-   "second_show": false,
-   "performer": null,
-   "wikipedia": null,
-   "reddit": null,
-   "reasons": []
-  },
-  {
-   "id": "sagematch-caveat-2026-11-11",
-   "title": "Sagematch (NYCF)",
-   "venue": "Caveat",
-   "date": "2026-11-11",
-   "heat": 0,
-   "demand": null,
-   "availability": "InStock",
-   "second_show": false,
-   "performer": null,
-   "wikipedia": null,
-   "reddit": null,
-   "reasons": [
-    "tickets available"
    ]
   },
   {
@@ -1070,9 +964,9 @@
    "performer": "Christian Finnegan",
    "wikipedia": {
     "title": "Christian Finnegan",
-    "views_30d": 948,
-    "views_prior_30d": 940,
-    "change": 1
+    "views_30d": 942,
+    "views_prior_30d": 942,
+    "change": 0
    },
    "reddit": null,
    "reasons": []
@@ -1147,9 +1041,9 @@
    "performer": "Judy Gold",
    "wikipedia": {
     "title": "Judy Gold",
-    "views_30d": 5348,
-    "views_prior_30d": 4159,
-    "change": 29
+    "views_30d": 5357,
+    "views_prior_30d": 4133,
+    "change": 30
    },
    "reddit": null,
    "reasons": []
@@ -1408,9 +1302,9 @@
    "performer": "Ismael Loutfi",
    "wikipedia": {
     "title": "Ismael Loutfi",
-    "views_30d": 115,
-    "views_prior_30d": 125,
-    "change": -8
+    "views_30d": 113,
+    "views_prior_30d": 124,
+    "change": -9
    },
    "reddit": null,
    "reasons": [
@@ -1897,9 +1791,9 @@
    "performer": "Ralph Barbosa",
    "wikipedia": {
     "title": "Ralph Barbosa",
-    "views_30d": 4329,
-    "views_prior_30d": 6750,
-    "change": -36
+    "views_30d": 4181,
+    "views_prior_30d": 6809,
+    "change": -39
    },
    "reddit": null,
    "reasons": []

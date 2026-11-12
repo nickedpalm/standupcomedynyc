@@ -1942,7 +1942,7 @@
  },
  {
   "event_id": "tj-miller-comic-strip-2026-11-11",
-  "src": "/assets/posters/tj-miller-comic-strip-2026-11-11.jpg",
+  "src": "/assets/posters/archive/tj-miller-comic-strip-2026-11-11.jpg",
   "width": 1880,
   "height": 1257,
   "source_url": "https://www.eventbrite.com/e/tj-miller-live-tickets-2003488658510",
@@ -1953,7 +1953,8 @@
   "retrieved_at": "2026-10-23",
   "bytes": 124566,
   "sha256": "f2c739d202297f1a7142e9d7b15c6046725b14eabe3b2449cc7090c6c41e5c62",
-  "reuse_status": "Official promotional artwork; no separate reuse license identified. Local review draft only."
+  "reuse_status": "Official promotional artwork; no separate reuse license identified. Local review draft only.",
+  "archived": true
  },
  {
   "event_id": "ask-ronna-ronnukah-bell-house-2026-11-21",
@@ -2607,7 +2608,7 @@
  },
  {
   "event_id": "maddy-kelly-union-hall-2026-11-11",
-  "src": "/assets/posters/maddy-kelly-union-hall-2026-11-11.jpg",
+  "src": "/assets/posters/archive/maddy-kelly-union-hall-2026-11-11.jpg",
   "width": 1880,
   "height": 940,
   "source_url": "https://www.eventbrite.com/e/maddy-kelly-tickets-1997944909006",
@@ -2618,7 +2619,8 @@
   "retrieved_at": "2026-10-29",
   "bytes": 56440,
   "sha256": "625eae27352fefcee80316cea340827245462f5bbcd64ab747e67a3e58f42b93",
-  "reuse_status": "Official promotional artwork; no separate reuse license identified. Local review draft only."
+  "reuse_status": "Official promotional artwork; no separate reuse license identified. Local review draft only.",
+  "archived": true
  },
  {
   "event_id": "george-willborn-comedy-in-harlem-2026-11-06",
@@ -2718,7 +2720,7 @@
  },
  {
   "event_id": "good-eggs-nycc-2026-11-11",
-  "src": "/assets/posters/good-eggs-nycc-2026-11-11.jpg",
+  "src": "/assets/posters/archive/good-eggs-nycc-2026-11-11.jpg",
   "width": 536,
   "height": 340,
   "source_url": "https://newyorkcomedyclub.com/events/good-eggs-presented-by-mark-normand-gary-vider-matt-ruby-2026-11-11200000",
@@ -2729,11 +2731,12 @@
   "retrieved_at": "2026-10-29",
   "bytes": 16937,
   "sha256": "c23784fd19a5e4b25bea4a4289e2d322d50b6a26b16fa84821c381158bee8463",
-  "reuse_status": "Official promotional artwork; no separate reuse license identified. Local review draft only."
+  "reuse_status": "Official promotional artwork; no separate reuse license identified. Local review draft only.",
+  "archived": true
  },
  {
   "event_id": "yamaneika-saunders-nycc-2026-11-11",
-  "src": "/assets/posters/yamaneika-saunders-nycc-2026-11-11.jpg",
+  "src": "/assets/posters/archive/yamaneika-saunders-nycc-2026-11-11.jpg",
   "width": 660,
   "height": 660,
   "source_url": "https://newyorkcomedyclub.com/events/an-hour-with-yamaneika-saunders-presented-by-the-new-york-comedy-festival",
@@ -2744,7 +2747,8 @@
   "retrieved_at": "2026-10-29",
   "bytes": 58743,
   "sha256": "560acc0f1d84fec1eae4ec99522c57a5fc33faa7f2ad71ff0189309e702f454f",
-  "reuse_status": "Official promotional artwork; no separate reuse license identified. Local review draft only."
+  "reuse_status": "Official promotional artwork; no separate reuse license identified. Local review draft only.",
+  "archived": true
  },
  {
   "event_id": "stand-francis-ellis-2026-11-03",
@@ -3367,7 +3371,7 @@
  },
  {
   "event_id": "peer-revue-caveat-2026-11-11",
-  "src": "/assets/posters/peer-revue-caveat-2026-11-11.png",
+  "src": "/assets/posters/archive/peer-revue-caveat-2026-11-11.png",
   "width": 2000,
   "height": 1000,
   "source_url": "https://www.caveat.nyc/events/peer-revue-11-11-2026",
@@ -3378,11 +3382,12 @@
   "retrieved_at": "2026-11-07",
   "bytes": 3805638,
   "sha256": "c63b22de332d222b8f6d445afd795e11ba4540d5ec907a22500ab20069412e13",
-  "reuse_status": "Official promotional artwork; no separate reuse license identified. Local review draft only."
+  "reuse_status": "Official promotional artwork; no separate reuse license identified. Local review draft only.",
+  "archived": true
  },
  {
   "event_id": "sagematch-caveat-2026-11-11",
-  "src": "/assets/posters/sagematch-caveat-2026-11-11.png",
+  "src": "/assets/posters/archive/sagematch-caveat-2026-11-11.png",
   "width": 4000,
   "height": 2000,
   "source_url": "https://www.caveat.nyc/events/sagematch-nycf-2026-11-11",
@@ -3393,7 +3398,8 @@
   "retrieved_at": "2026-11-07",
   "bytes": 7037970,
   "sha256": "e305986ea3674eac0a7ff9a33b0df4397c71d609c62f2f8f2e5554b4670de396",
-  "reuse_status": "Official promotional artwork; no separate reuse license identified. Local review draft only."
+  "reuse_status": "Official promotional artwork; no separate reuse license identified. Local review draft only.",
+  "archived": true
  },
  {
   "event_id": "looking-for-laughs-caveat-2026-11-12",

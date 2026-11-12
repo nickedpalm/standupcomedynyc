@@ -1,4 +1,4 @@
-# Content calendar — generated 2026-11-11
+# Content calendar — generated 2026-11-12
 
 Six weeks ahead from the board. Regenerated on every build; edit the data, not this file.
 
@@ -13,15 +13,8 @@ Six weeks ahead from the board. Regenerated on every build; edit the data, not t
 
 Ranked 43; run 0, reuse 9, skip 34; ~387,000 tokens saved.
 
-## Week 1: Nov 11 to Nov 17 — 41 picks — 21 without artwork · 40 Eventbrite leads not yet reviewed
+## Week 1: Nov 12 to Nov 18 — 38 picks — 20 without artwork · 33 Eventbrite leads not yet reviewed
 
-- Wed Nov 11 7pm · doors 6:30pm — **Peer Revue** at Caveat
-- Wed Nov 11 7:30pm · doors 7pm — **Maddy Kelly** at Union Hall · SOLD OUT · heat 100
-- Wed Nov 11 8pm — **TJ Miller Live!** at Comic Strip Live · SOLD OUT · heat 100
-- Wed Nov 11 8pm — **Good Eggs Presented by Mark Normand, Gary Vider, Matt Ruby** at New York Comedy Club (East Village)
-- Wed Nov 11 8pm — **Matty Litwack Presents: Peter the Great (FINAL SHOWING)** at Flop House Comedy · NO ARTWORK
-- Wed Nov 11 9:15pm — **An Hour with Yamaneika Saunders** at New York Comedy Club (Upper West Side)
-- Wed Nov 11 9:30pm · doors 9pm — **Sagematch (NYCF)** at Caveat
 - Thu Nov 12 6pm — **Shelly Belly Presented by the New York Comedy Festival** at New York Comedy Club (Upper West Side)
 - Thu Nov 12 7:30pm · doors 7:15pm — **New York Comedy Festival Presents: Casey and Friends Named Casey** at Greenpoint Comedy Club
 - Thu Nov 12 7:30pm · doors 7pm — **Sienna Hubert-Ross & Friends** at Union Hall
@@ -56,23 +49,23 @@ Ranked 43; run 0, reuse 9, skip 34; ~387,000 tokens saved.
 - Mon Nov 16 8pm — **Good Bits ft: Nick Griffin, Richie Redding, Torey Cole, Anthony Moore, Kaneez Surka, Shaun Murphy** at New York Comedy Club (East Village) · NO ARTWORK
 - Tue Nov 17 7pm — **Jessica Kirson Live in New York** at New York Comedy Club (Midtown)
 - Tue Nov 17 7:30pm — **Jaboukie Young-White** at The Bell House · NO ARTWORK
-
-  Leads to review:
-  - Wed Nov 11 7pm — PAGE BREAK Presents: STAGE BREAK at Littlefield · from $11.79 · has artwork
-  - Wed Nov 11 8pm — Ken Boyd, Kyle Mara, & Thash Mose! at Comic Strip Live · from $25.71 · has artwork
-  - Wed Nov 11 8pm — The Workout | New York Comedy Festival | Wed Nov 11 · 8 PM at Upper East Side Comedy Club · from $22.83 · has artwork
-  - Wed Nov 11 8pm — Live Comedy Showcase NYC | NYCF Workout — Wed Nov 11 · 8 PM at Upper East Side Comedy Club · from $17.52 · has artwork
-  - Wed Nov 11 8pm — NYC's Best Stand-Up | NYCF Workout — Wed Nov 11 · 8 PM at Upper East Side Comedy Club · from $17.52 · has artwork
-  - Wed Nov 11 8pm — Hilarious Stand-Up NYC | NYCF Workout — Wed Nov 11 · 8 PM at Upper East Side Comedy Club · from $17.52 · has artwork
-  - Wed Nov 11 9:30pm — Denise Taylor Headlines Flop House at Flop House Comedy · from $23.18 · has artwork
-  - Wed Nov 11 10pm — Eddie Pepitone Headlining Union Hall at Union Hall · from $19.26 · has artwork
-
-## Week 2: Nov 18 to Nov 24 — 24 picks — 8 without artwork · 3 Eventbrite leads not yet reviewed
-
 - Wed Nov 18 7pm — **Kylie Vincent: Lesion Lady** at Sesh Comedy
 - Wed Nov 18 7:45pm — **Story Warz w/ Big Jay Oakerson, Luis J Gomez + Special Guests** at New York Comedy Club (Midtown)
 - Wed Nov 18 8pm — **DANU Live in America** at Eastville Comedy Club
 - Wed Nov 18 9:30pm · doors 9pm — **A TRUE YORK COMEDY EXPERIENCE** at St. Marks Comedy Club
+
+  Leads to review:
+  - Thu Nov 12 7:30pm — Sienna Hubert-Ross & Friends at Union Hall · from $19.26 · has artwork
+  - Thu Nov 12 8pm — NY Comedy Festival Presents: 2/3rds of a Threesome at Littlefield · from $24.36 · has artwork
+  - Thu Nov 12 8pm — Brooklyn Underground Comedy at Flop House Comedy · from $17.85 · has artwork
+  - Thu Nov 12 8pm — New York Comedy Fest Presents Nick Hopping at Flop House Comedy · from $23.18 · has artwork
+  - Thu Nov 12 8pm — The Workout | New York Comedy Festival | Thu Nov 12 · 8 PM at Upper East Side Comedy Club · from $22.83 · has artwork
+  - Thu Nov 12 8pm — Live Comedy Showcase NYC | NYCF Workout — Thu Nov 12 · 8 PM at Upper East Side Comedy Club · from $22.83 · has artwork
+  - Thu Nov 12 8pm — NYC's Best Stand-Up | NYCF Workout — Thu Nov 12 · 8 PM at Upper East Side Comedy Club · from $22.83 · has artwork
+  - Thu Nov 12 8pm — Hilarious Stand-Up NYC | NYCF Workout — Thu Nov 12 · 8 PM at Upper East Side Comedy Club · from $22.83 · has artwork
+
+## Week 2: Nov 19 to Nov 25 — 23 picks — 9 without artwork · 2 Eventbrite leads not yet reviewed
+
 - Thu Nov 19 7pm — **Michelle Wolf: Best Job in the World** at The Town Hall · NO ARTWORK · heat 25
 - Thu Nov 19 7:30pm — **Popcorn Comedy with Ian Lara** at Oliver's Astoria · NO ARTWORK
 - Thu Nov 19 8pm — **Stone and Stone On The Road!** at West Side Comedy Club
@@ -93,17 +86,16 @@ Ranked 43; run 0, reuse 9, skip 34; ~387,000 tokens saved.
 - Tue Nov 24 7pm — **Jacqueline Novak** at The Bell House · NO ARTWORK · heat 25
 - Tue Nov 24 7:30pm — **Judy Gold** at New York Comedy Club (Upper West Side)
 - Tue Nov 24 9:30pm · doors 9pm — **The Gong Show - Hosted by Robert Punchur** at St. Marks Comedy Club · NO ARTWORK
-
-  Leads to review:
-  - Wed Nov 18 8pm — Mike Burton, Jason Choi, Sean Donnelly, Vanessa Hollingshead, Mike Yard. +! at Comic Strip Live · from $25.71 · has artwork
-  - Fri Nov 20 8pm — Mike Burton, Michele Balan, Connor O'Brien, Sean Donnelly, & Wali Collins! at Comic Strip Live · from $25.71 · has artwork
-  - Sat Nov 21 8pm — Jim Mendrinos, Carla Oakerson, Connor O'Brien, Nathan Macintosh, Mike Yard! at Comic Strip Live · from $25.71 · has artwork
-
-## Week 3: Nov 25 to Dec 1 — 18 picks — 6 without artwork
-
 - Wed Nov 25 7:30pm · doors 7pm — **Down Bad Comedy Show** at St. Marks Comedy Club · NO ARTWORK
 - Wed Nov 25 7:30pm — **Pizzazz with Gary Gulman** at Union Hall
 - Wed Nov 25 7:45pm — **Story Warz w/ Big Jay Oakerson, Luis J Gomez + Special Guests** at New York Comedy Club (Midtown)
+
+  Leads to review:
+  - Fri Nov 20 8pm — Mike Burton, Michele Balan, Connor O'Brien, Sean Donnelly, & Wali Collins! at Comic Strip Live · from $25.71 · has artwork
+  - Sat Nov 21 8pm — Jim Mendrinos, Carla Oakerson, Connor O'Brien, Nathan Macintosh, Mike Yard! at Comic Strip Live · from $25.71 · has artwork
+
+## Week 3: Nov 26 to Dec 2 — 17 picks — 5 without artwork
+
 - Thu Nov 26 6:30pm · doors 6pm — **A TRUE YORK COMEDY EXPERIENCE** at St. Marks Comedy Club · NO ARTWORK
 - Thu Nov 26 8:30pm · doors 8pm — **Date Night Comedy Show x2** at St. Marks Comedy Club
 - Fri Nov 27 8:30pm · doors 8pm — **Friday Night Laughs Comedy Show** at St. Marks Comedy Club
@@ -119,18 +111,18 @@ Ranked 43; run 0, reuse 9, skip 34; ~387,000 tokens saved.
 - Tue Dec 1 7:30pm · doors 7pm — **A TRUE YORK COMEDY EXPERIENCE** at St. Marks Comedy Club
 - Tue Dec 1 7:30pm · doors 7pm — **Ismael Loutfi: Heavenly Baba** at Union Hall
 - Tue Dec 1 8pm — **Not Ripe Bananas** at West Side Comedy Club
-
-## Week 4: Dec 2 to Dec 8 — 20 picks — 4 without artwork
-
 - Wed Dec 2 7:30pm — **Ania Magliano: Peach Fuzz** at The Bell House · heat 20
 - Wed Dec 2 7:30pm · doors 7pm — **Cold Plunge with Kurt Braunohler** at Union Hall
+
+## Week 4: Dec 3 to Dec 9 — 22 picks — 5 without artwork
+
 - Thu Dec 3 7:30pm — **Ania Magliano: Peach Fuzz** at The Bell House · heat 20
 - Thu Dec 3 8:30pm · doors 8pm — **Date Night Comedy Show x2** at St. Marks Comedy Club · NO ARTWORK
 - Fri Dec 4 6pm — **Brooklyn Power Hour** at Eastville Comedy Club
-- Fri Dec 4 7pm — **Demetri Martin: Standup Comedy for Christmas** at The Bell House
+- Fri Dec 4 7pm — **Demetri Martin: Standup Comedy for Christmas** at The Bell House · SOLD OUT · heat 100
 - Fri Dec 4 8:30pm · doors 8pm — **Friday Night Laughs Comedy Show** at St. Marks Comedy Club
 - Sat Dec 5 6:30pm · doors 6pm — **Peter & Friends Comedy Show** at St. Marks Comedy Club
-- Sat Dec 5 7pm — **Demetri Martin: Standup Comedy for Christmas** at The Bell House
+- Sat Dec 5 7pm — **Demetri Martin: Standup Comedy for Christmas** at The Bell House · SOLD OUT · heat 100
 - Sat Dec 5 8:30pm · doors 8pm — **Speakeasy Saturday Night** at St. Marks Comedy Club
 - Sun Dec 6 6pm — **Simeon Goodson: Back in Brooklyn! Live Album Recording** at Eastville Comedy Club
 - Sun Dec 6 7:30pm — **Daniela Mora, Laz Rivero, Alexis Carabaño** at St. Marks Comedy Club · NO ARTWORK
@@ -142,13 +134,13 @@ Ranked 43; run 0, reuse 9, skip 34; ~387,000 tokens saved.
 - Tue Dec 8 8pm · doors 7pm — **PUNDERDOME: NYC's Comedy PUN-SLAM Competition** at Littlefield
 - Tue Dec 8 8pm — **Not Ripe Bananas** at West Side Comedy Club
 - Tue Dec 8 9:30pm · doors 9pm — **The Gong Show - Hosted by Robert Punchur** at St. Marks Comedy Club · NO ARTWORK
-
-## Week 5: Dec 9 to Dec 15 — 22 picks — 12 without artwork
-
 - Wed Dec 9 7pm — **Joe DeVito Graduation Show** at West Side Comedy Club
 - Wed Dec 9 7:30pm · doors 7pm — **Down Bad Comedy Show** at St. Marks Comedy Club · NO ARTWORK
 - Wed Dec 9 9:30pm · doors 9pm — **DYLAN'S LAST SHOW EVER** at St. Marks Comedy Club
 - Wed Dec 9 10pm · doors 9:30pm — **Gavin Matts: profound** at Union Hall
+
+## Week 5: Dec 10 to Dec 16 — 20 picks — 12 without artwork
+
 - Thu Dec 10 6:30pm · doors 6pm — **A TRUE YORK COMEDY EXPERIENCE** at St. Marks Comedy Club · NO ARTWORK
 - Thu Dec 10 7pm — **The Party Clown Party** at West Side Comedy Club
 - Thu Dec 10 8:30pm · doors 8pm — **Date Night Comedy Show x2** at St. Marks Comedy Club · NO ARTWORK
@@ -167,11 +159,11 @@ Ranked 43; run 0, reuse 9, skip 34; ~387,000 tokens saved.
 - Tue Dec 15 7:30pm — **How Nick Stole Christmas: A Christmas Comedy Cabaret** at The Bell House
 - Tue Dec 15 7:30pm — **Double Edged: Paula J. Leon and Mario Pisano** at New York Comedy Club (Upper West Side) · NO ARTWORK
 - Tue Dec 15 8pm — **Not Ripe Bananas** at West Side Comedy Club
-
-## Week 6: Dec 16 to Dec 22 — 14 picks — 9 without artwork
-
 - Wed Dec 16 7:30pm — **Down Bad Comedy Show** at St. Marks Comedy Club · NO ARTWORK
 - Wed Dec 16 8pm — **Good Eggs Presented by Mark Normand, Gary Vider, Matt Ruby** at New York Comedy Club (East Village)
+
+## Week 6: Dec 17 to Dec 23 — 12 picks — 8 without artwork
+
 - Thu Dec 17 7:30pm — **Don't Stop I'm About to Jazz** at The Bell House
 - Thu Dec 17 8:30pm — **Tight Pants Comedy Show** at St. Marks Comedy Club · NO ARTWORK
 - Fri Dec 18 6pm — **Brooklyn Power Hour** at Eastville Comedy Club
