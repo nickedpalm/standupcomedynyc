@@ -13,6 +13,7 @@
 // proof-read is the caption that gets published.
 'use strict';
 const { firstSentence } = require('./blurb.js');
+const { venueLabel, hoodLabel } = require('./venue.js');
 
 const LIMIT = 2200;           // Instagram's hard caption limit
 const BLURB_MAX = 240;        // the cap the caption used before
@@ -34,10 +35,15 @@ const credits = (list) => { const c = [...new Set(list.filter((p) => p.poster &&
 const hashtags = '#nyccomedy #nycstandup #brooklyncomedy #standupnyc';
 
 // One block per show: time + title, where it is, then the blurb.
+// The venue line drops a parenthetical that only restates the neighborhood, and drops
+// the neighborhood when the venue name already carries it ("Greenpoint Comedy Club").
 const block = (e, blurb) => {
   const tag = e.demand === 'sold_out' ? ' · sold out' : e.demand === 'going_fast' ? ' · going fast' : '';
   const paid = e.sponsored ? ' · paid listing' : '';
-  return `${e.clock} — ${e.title.toUpperCase()}\n${e.venue}, ${e.neighborhood}${tag}${paid}${blurb ? '\n' + blurb : ''}`;
+  const venue = venueLabel(e.venue, e.neighborhood);
+  const hood = hoodLabel(venue, e.neighborhood);
+  const where = hood ? `${venue}, ${hood}` : venue;
+  return `${e.clock} — ${e.title.toUpperCase()}\n${where}${tag}${paid}${blurb ? '\n' + blurb : ''}`;
 };
 
 const assemble = (head, entries, blurbs, foot) =>

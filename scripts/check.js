@@ -252,6 +252,7 @@ const jsFiles = [
   path.join(root, 'scripts', 'research-plan.js'),
   path.join(root, 'scripts', 'calendar.js'),
   path.join(root, 'scripts', 'blurb.js'),
+  path.join(root, 'scripts', 'venue.js'),
   path.join(root, 'scripts', 'caption.js'),
   path.join(root, 'scripts', 'tonight-set.js'),
   path.join(root, 'scripts', 'ig-card.js'),

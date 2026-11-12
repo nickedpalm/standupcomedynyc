@@ -13,7 +13,7 @@ Six weeks ahead from the board. Regenerated on every build; edit the data, not t
 
 Ranked 46; run 0, reuse 8, skip 38; ~414,000 tokens saved.
 
-## Week 1: Nov 12 to Nov 18 — 41 picks — 22 without artwork · 45 Eventbrite leads not yet reviewed
+## Week 1: Nov 12 to Nov 18 — 42 picks — 22 without artwork · 45 Eventbrite leads not yet reviewed
 
 - Thu Nov 12 6pm — **Shelly Belly Presented by the New York Comedy Festival** at New York Comedy Club (Upper West Side)
 - Thu Nov 12 7:30pm · doors 7:15pm — **New York Comedy Festival Presents: Casey and Friends Named Casey** at Greenpoint Comedy Club
@@ -33,6 +33,7 @@ Ranked 46; run 0, reuse 8, skip 38; ~414,000 tokens saved.
 - Fri Nov 13 10pm · doors 9:30pm — **Neel Ghosh: Pagol** at Union Hall · NO ARTWORK
 - Fri Nov 13 11pm — **After Hours at Flop House** at Flop House Comedy · NO ARTWORK
 - Sat Nov 14 3pm — **The Moth x Comic Relief: Funny Story** at The Town Hall · NO ARTWORK
+- Sat Nov 14 6pm — **Naomi Karavani Headlines** at Bushwick Comedy Club
 - Sat Nov 14 7pm — **Daniel Sloss: Bitter** at Beacon Theatre · NO ARTWORK · heat 60
 - Sat Nov 14 7pm — **SH&T Show hosted by Jordan Klepper** at The Town Hall · NO ARTWORK
 - Sat Nov 14 7:30pm · doors 7pm — **Sureni Does an Hour of Comedy** at Union Hall

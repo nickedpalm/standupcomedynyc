@@ -57,8 +57,12 @@ const posters = JSON.parse(fs.readFileSync(path.join(root, 'POSTER-SOURCES.json'
 const reusable = new Set(posters.filter((p) => p.reuse === 'granted').map((p) => p.src));
 const venuesByName = new Map(JSON.parse(fs.readFileSync(path.join(web, 'data', 'venues.json'), 'utf8')).map((v) => [v.name, v]));
 const hoodOf = (p) => venuesByName.get(p.venue)?.neighborhood || p.neighborhood || '';
+// The venue as printed: a parenthetical that only restates the neighborhood is dropped,
+// and the neighborhood is dropped when the venue name already carries it.
+const venueOf = (p) => venueLabel(p.venue, hoodOf(p));
 const { soldOut, selectTonight } = require('./tonight-set.js');
 const { firstSentence } = require('./blurb.js');
+const { venueLabel, hoodLabel, venueLine } = require('./venue.js');
 // Full-bleed image for a pick: its own poster, or (when there's no artwork) a credited photo of the venue itself.
 const heroImage = (p) => (p.poster && p.poster.src) ? p.poster : (venuesByName.get(p.venue)?.photo || null);
 
@@ -118,7 +122,7 @@ body:before{content:'';position:absolute;inset:0;background:radial-gradient(elli
 const titleSize = (t) => { const byLen = t.length > 60 ? 88 : t.length > 40 ? 104 : t.length > 24 ? 128 : t.length > 14 ? 150 : 176; const longest = Math.max(...t.split(/\s+/).map((w) => w.length)); const byWord = Math.floor(800 / (0.56 * longest)); return Math.min(byLen, byWord); };
 const rowSize = (n, maxLen) => n <= 2 ? (maxLen > 30 ? 84 : 110) : n <= 3 ? (maxLen > 30 ? 72 : 96) : n <= 4 ? (maxLen > 30 ? 58 : 76) : (maxLen > 30 ? 48 : 60);
 const sub = (p) => firstSentence(p.description, 180, 182);
-const dek = (p) => { const b = sub(p) || p.price_label; const v = String(p.venue).replace(/^the\s+/i, ''); return new RegExp(v.replace(/[.*+?^${}()|[\]\\]/g, '\\$&'), 'i').test(b) ? `${hoodOf(p)}. ${b}` : `${p.venue}, ${hoodOf(p)}. ${b}`; };
+const dek = (p) => { const b = sub(p) || p.price_label; const v = String(p.venue).replace(/^the\s+/i, ''); const named = new RegExp(v.replace(/[.*+?^${}()|[\]\\]/g, '\\$&'), 'i').test(b); const hood = hoodLabel(venueOf(p), hoodOf(p)); const where = named ? (hood || venueOf(p)) : venueLine(p.venue, hoodOf(p), ', '); return `${where}. ${b}`; };
 
 function pickCard(p) {
   const art = p.poster && reusable.has(p.poster.src) ? `<div class="art"><img src="${dataUrl(path.join(web, p.poster.src.replace(/^\//, '')), 'image/' + p.poster.src.split('.').pop().replace('jpg', 'jpeg'))}"></div>` : '';
@@ -127,7 +131,7 @@ function pickCard(p) {
   return `${base}<div class="wrap"><div class="paper" style="--ts:${titleSize(p.title)}px">${stamp}<div class="brand">Stand Up <span>Comedy NYC</span></div>
 <div class="kicker">${tonight ? 'Tonight' : esc(shortDate(p.date))} · ${esc(p.time_label.split(' · ')[0])}</div>
 <h1 class="title">${esc(p.title)}</h1>${art}
-<p class="where">${esc(p.venue)}<br>${esc(hoodOf(p))}<small>${/see (the )?(ticket|listing|show) page|see listing/i.test(p.price_label || '') ? esc(sub(p) || '') : esc(p.price_label) + (sub(p) ? ' — ' + esc(sub(p)) : '')}</small></p><div class="big-time">${esc(p.time_label.split(' · ')[0])}</div></div>
+<p class="where">${esc(venueOf(p))}${hoodLabel(venueOf(p), hoodOf(p)) ? `<br>${esc(hoodLabel(venueOf(p), hoodOf(p)))}` : ''}<small>${/see (the )?(ticket|listing|show) page|see listing/i.test(p.price_label || '') ? esc(sub(p) || '') : esc(p.price_label) + (sub(p) ? ' — ' + esc(sub(p)) : '')}</small></p><div class="big-time">${esc(p.time_label.split(' · ')[0])}</div></div>
 <div class="foot"><span class="url">standupcomedynyc.com</span><span class="note">Link in bio</span></div></div>`;
 }
 
@@ -184,16 +188,20 @@ function storyCard(day, list) {
   const img = hero ? heroImage(hero) : null;
   const bg = img ? dataUrl(path.join(web, img.src.replace(/^\//, '')), 'image/' + img.src.split('.').pop().replace('jpg', 'jpeg')) : '';
   const weekday = new Intl.DateTimeFormat('en-US', { timeZone: 'America/New_York', weekday: 'long' }).format(new Date(day + 'T12:00:00-04:00'));
-  const rows = list.slice(0, 5).map((p) => `<div class="srow"><b>${esc(clock(p))}</b><div><strong>${esc(p.title)}</strong><span>${esc(p.venue)} · ${esc(hoodOf(p))}${p.demand === 'going_fast' ? ' · going fast' : ''}${p.sponsored ? ' · paid listing' : ''}</span></div></div>`).join('');
+  const rows = list.slice(0, 5).map((p) => `<div class="srow"><b>${esc(clock(p))}</b><div><strong>${esc(p.title)}</strong><span>${esc(venueLine(p.venue, hoodOf(p)))}${p.demand === 'going_fast' ? ' · going fast' : ''}${p.sponsored ? ' · paid listing' : ''}</span></div></div>`).join('');
+  // The frame holds five rows. On a bigger night it must say so, or the reader thinks
+  // five shows is the whole list (seen 2026-11-08 and 2026-11-12).
+  const more = list.length > 5 ? `<div class="smore">+ ${list.length - 5} more tonight</div>` : '';
   return `${base}<style>html,body{height:1920px}.photo{background-position:center 25%}.photo:after{background:linear-gradient(180deg,#000000a6 0%,#00000040 12%,#0000 24%,#0000 40%,#000000d0 55%,#000000f4 68%,#000000fa 100%)}
 .sw{position:relative;height:100%;display:flex;flex-direction:column;padding:170px 64px 210px;color:#fff}
 .sw .lock{align-self:center}
 .shead{margin-top:auto;font:700 108px/1 Oswald;text-transform:uppercase;letter-spacing:.01em}.shead i{font-style:normal;display:inline-block;background:#f6c343;color:#2a1408;padding:10px 26px 14px}.shead small{display:block;font:500 40px/1.2 Oswald;letter-spacing:.2em;color:#f6c343;margin:14px 0 26px;text-transform:uppercase}
 .srow{display:flex;gap:26px;align-items:flex-start;padding:20px 0;border-top:2px solid #ffffff33}.srow b{font:700 54px/1 Oswald;color:#f6c343;min-width:150px}.srow strong{display:block;font:700 54px/1 Oswald;text-transform:uppercase;letter-spacing:.01em}.srow span{display:block;font:30px/1.3 Arial,sans-serif;color:#e6d8b8;margin-top:8px}
+.smore{margin-top:26px;font:700 36px/1 Oswald;letter-spacing:.1em;text-transform:uppercase;color:#f6c343;text-shadow:0 2px 6px #000c}
 .spill{margin-top:34px;align-self:flex-start;border:3px solid #fff;font:700 30px/1 Oswald;letter-spacing:.12em;text-transform:uppercase;padding:18px 28px;border-radius:50px}
 .credit2{bottom:60px;left:64px}</style>
 ${hero ? `<div class="photo" style="background-image:url(${bg})"></div>` : ''}<div class="sw"><div class="lock">Stand Up <span>Comedy NYC</span></div>
-<div class="shead"><i>Tonight</i><small>${esc(new Intl.DateTimeFormat('en-US', { timeZone: 'America/New_York', weekday: 'long', month: 'long', day: 'numeric' }).format(new Date(day + 'T12:00:00-04:00')))}</small></div>${rows}
+<div class="shead"><i>Tonight</i><small>${esc(new Intl.DateTimeFormat('en-US', { timeZone: 'America/New_York', weekday: 'long', month: 'long', day: 'numeric' }).format(new Date(day + 'T12:00:00-04:00')))}</small></div>${rows}${more}
 <div class="spill">Full board + tickets · standupcomedynyc.com/links</div>${img ? `<div class="credit2">${esc(img.credit || '')}</div>` : ''}</div>`;
 }
 function coverCard(label, day, list) {
