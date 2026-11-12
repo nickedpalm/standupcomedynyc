@@ -1,5 +1,5 @@
 {
- "retrieved_at": "2026-11-10T11:01:32.354Z",
+ "retrieved_at": "2026-11-12T11:04:54.361Z",
  "note": "Promoter posts from NYC neighborhood subreddits, last 14 days. Leads only: open the linked page or the venue site before anything enters the data; register the venue first.",
  "subreddits": [
   "nycevents",
@@ -27,6 +27,412 @@
  ],
  "leads": [
   {
+   "id": "1xtzzki",
+   "date": "2026-11-12",
+   "subreddit": "Brooklyn",
+   "title": "Owning a business &amp; other stories",
+   "score": 4,
+   "comments": 1,
+   "url": "https://www.reddit.com/r/Brooklyn/comments/1xtzzki/owning_a_business_other_stories/",
+   "venues_mentioned": [
+    "Flop House Comedy"
+   ],
+   "when_mentioned": "Thursday at Flop House for the NYC Fest",
+   "time_mentioned": null,
+   "links": [],
+   "free": false,
+   "new_since_last_run": true,
+   "excerpt": "Hello, I'm Nick. I'm a comedian and owner of Flop House Comedy club. If you've been here before, you've almost certainly seen me do stand up. I am headlining this Thursday at Flop House for the NYC Fest. The new hour is mostly about starting a business and getting married. I hope"
+  },
+  {
+   "id": "1xu4jc0",
+   "date": "2026-11-12",
+   "subreddit": "eastvillage",
+   "title": "New User Flair",
+   "score": 1,
+   "comments": 0,
+   "url": "https://www.reddit.com/r/eastvillage/comments/1xu4jc0/new_user_flair/",
+   "venues_mentioned": [],
+   "when_mentioned": null,
+   "time_mentioned": null,
+   "links": [],
+   "free": false,
+   "new_since_last_run": true,
+   "excerpt": "A recent **Rule 6** edge case revealed there were community members who were hosting events (other than comedy shows) at a comedy club, and they were being caught by the compliance check when trying to post. [\\(comedy pass user flair\\)](https://i.redd.it/pi0t9o2wa41i1.gif) As som"
+  },
+  {
+   "id": "1xtv9c8",
+   "date": "2026-11-11",
+   "subreddit": "nycevents",
+   "title": "Comedy-DJ Show at Union Hall THIS Friday!",
+   "score": 1,
+   "comments": 0,
+   "url": "https://www.reddit.com/r/nycevents/comments/1xtv9c8/comedydj_show_at_union_hall_this_friday/",
+   "venues_mentioned": [
+    "Union Hall"
+   ],
+   "when_mentioned": "Friday",
+   "time_mentioned": "10PM",
+   "links": [
+    "https://www.eventbrite.com/e/neel-ghosh-pagol-tickets-1997946785619"
+   ],
+   "free": false,
+   "new_since_last_run": true,
+   "excerpt": "🟣 PAGOL is comedian Neel Ghosh’s live comedy show where jokes are built, looped, and remixed into music — part stand-up, part DJ set, fully unhinged. 🎙️ With special guests Nimesh Patel (Netflix), Aye D1, Sureni Weerasekera, Zubi Ahmed, Sabeen Sadiq, Craig Sketch, Misha Han! 🎟"
+  },
+  {
+   "id": "1xtuxsp",
+   "date": "2026-11-11",
+   "subreddit": "nycevents",
+   "title": "Late-night hidden comedy show in the back room of a diner in Williamsburg TONIGHT! 10:30pm | $10 2 for 1 tickets still available.",
+   "score": 1,
+   "comments": 0,
+   "url": "https://www.reddit.com/r/nycevents/comments/1xtuxsp/latenight_hidden_comedy_show_in_the_back_room_of/",
+   "venues_mentioned": [],
+   "when_mentioned": null,
+   "time_mentioned": "10:30pm",
+   "links": [],
+   "free": false,
+   "new_since_last_run": true,
+   "excerpt": ""
+  },
+  {
+   "id": "1xtszbv",
+   "date": "2026-11-11",
+   "subreddit": "nycevents",
+   "title": "Free Comedy Tonight @ KCBC — 8 pm!",
+   "score": 1,
+   "comments": 0,
+   "url": "https://www.reddit.com/r/nycevents/comments/1xtszbv/free_comedy_tonight_kcbc_8_pm/",
+   "venues_mentioned": [],
+   "when_mentioned": null,
+   "time_mentioned": "8 pm",
+   "links": [],
+   "free": true,
+   "new_since_last_run": true,
+   "excerpt": ""
+  },
+  {
+   "id": "1xtpzbm",
+   "date": "2026-11-11",
+   "subreddit": "nycevents",
+   "title": "I’m a Ukrainian refugee pursuing stand-up. On November 16, I’m performing in NYC, and I could use your support.",
+   "score": 1,
+   "comments": 0,
+   "url": "https://www.reddit.com/r/nycevents/comments/1xtpzbm/im_a_ukrainian_refugee_pursuing_standup_on/",
+   "venues_mentioned": [
+    "Gotham Comedy Club"
+   ],
+   "when_mentioned": null,
+   "time_mentioned": "7 PM",
+   "links": [],
+   "free": false,
+   "new_since_last_run": true,
+   "excerpt": "Hi everyone. My name is Oleg Redko. I’m a Ukrainian refugee living in Canada, working toward a career in stand-up comedy. It feels uncomfortable asking strangers for help, but here I am. Starting over in another country means rebuilding your connections, your confidence, and some"
+  },
+  {
+   "id": "1xta7ia",
+   "date": "2026-11-11",
+   "subreddit": "nycevents",
+   "title": "Interactive Comedy Show TONIGHT at Brooklyn Improv!",
+   "score": 1,
+   "comments": 0,
+   "url": "https://www.reddit.com/r/nycevents/comments/1xta7ia/interactive_comedy_show_tonight_at_brooklyn_improv/",
+   "venues_mentioned": [
+    "Brooklyn Improv"
+   ],
+   "when_mentioned": "Wednesday November 11th, 7:30pm‼️ 🎟️ Tickets her",
+   "time_mentioned": "7:30pm",
+   "links": [
+    "https://improv.com/brooklyn/event/ask+comedians+anything+presented+by+new+york+comedy+festival+ft.+daniela+mora%2C+alex+english%2C+mike+hanford%2C+and+more%21/15022613/"
+   ],
+   "free": false,
+   "new_since_last_run": false,
+   "excerpt": "🗣️ Ask Comedians Anything Show 10 is LIVE at Brooklyn Improv with Daniela Mora, Joey Dardano (Adults), Alex English (SNL), Caroline Hanes &amp; Mike Hanford THIS Wednesday November 11th, 7:30pm‼️ 🎟️ Tickets here: [https://improv.com/brooklyn/event/ask+comedians+anything+present"
+  },
+  {
+   "id": "1xtv8r1",
+   "date": "2026-11-11",
+   "subreddit": "nycComedy",
+   "title": "Comedy-DJ Show at Union Hall THIS Friday!",
+   "score": 1,
+   "comments": 0,
+   "url": "https://www.reddit.com/r/nycComedy/comments/1xtv8r1/comedydj_show_at_union_hall_this_friday/",
+   "venues_mentioned": [
+    "Union Hall"
+   ],
+   "when_mentioned": "Friday",
+   "time_mentioned": null,
+   "links": [
+    "https://www.eventbrite.com/e/neel-ghosh-pagol-tickets-1997946785619"
+   ],
+   "free": false,
+   "new_since_last_run": true,
+   "excerpt": "🟣 PAGOL is comedian Neel Ghosh’s live comedy show where jokes are built, looped, and remixed into music — part stand-up, part DJ set, fully unhinged. 🎙️ With special guests Nimesh Patel (Netflix), Aye D1, Sureni Weerasekera, Zubi Ahmed, Sabeen Sadiq, Craig Sketch, Misha Han! 🎟"
+  },
+  {
+   "id": "1xta725",
+   "date": "2026-11-11",
+   "subreddit": "nycComedy",
+   "title": "Interactive Comedy Show TONIGHT at Brooklyn Improv!",
+   "score": 1,
+   "comments": 0,
+   "url": "https://www.reddit.com/r/nycComedy/comments/1xta725/interactive_comedy_show_tonight_at_brooklyn_improv/",
+   "venues_mentioned": [
+    "Brooklyn Improv"
+   ],
+   "when_mentioned": "Wednesday November 11th, 7:30pm‼️ 🎟️ Tickets her",
+   "time_mentioned": "7:30pm",
+   "links": [
+    "https://improv.com/brooklyn/event/ask+comedians+anything+presented+by+new+york+comedy+festival+ft.+daniela+mora%2C+alex+english%2C+mike+hanford%2C+and+more%21/15022613/"
+   ],
+   "free": false,
+   "new_since_last_run": false,
+   "excerpt": "🗣️ Ask Comedians Anything Show 10 is LIVE at Brooklyn Improv with Daniela Mora, Joey Dardano (Adults), Alex English (SNL), Caroline Hanes &amp; Mike Hanford THIS Wednesday November 11th, 7:30pm‼️ 🎟️ Tickets here: [https://improv.com/brooklyn/event/ask+comedians+anything+present"
+  },
+  {
+   "id": "1xtnr9t",
+   "date": "2026-11-11",
+   "subreddit": "williamsburg",
+   "title": "Owning a comedy &amp; other stories",
+   "score": 20,
+   "comments": 6,
+   "url": "https://www.reddit.com/r/williamsburg/comments/1xtnr9t/owning_a_comedy_other_stories/",
+   "venues_mentioned": [
+    "Flop House Comedy"
+   ],
+   "when_mentioned": "Thursday at Flop House for the NYC Fest",
+   "time_mentioned": null,
+   "links": [],
+   "free": false,
+   "new_since_last_run": true,
+   "excerpt": "Hello, I'm Nick. I'm a comedian and owner of Flop House Comedy club. If you've been here before, you've almost certainly seen me do stand up. I am headlining this Thursday at Flop House for the NYC Fest. The new hour is mostly about starting a business and getting married. I hope"
+  },
+  {
+   "id": "1xta8go",
+   "date": "2026-11-11",
+   "subreddit": "williamsburg",
+   "title": "Interactive Comedy Show TONIGHT at Brooklyn Improv!",
+   "score": 2,
+   "comments": 0,
+   "url": "https://www.reddit.com/r/williamsburg/comments/1xta8go/interactive_comedy_show_tonight_at_brooklyn_improv/",
+   "venues_mentioned": [
+    "Brooklyn Improv"
+   ],
+   "when_mentioned": "Wednesday November 11th, 7:30pm‼️ 🎟️ Tickets her",
+   "time_mentioned": "7:30pm",
+   "links": [
+    "https://improv.com/brooklyn/event/ask+comedians+anything+presented+by+new+york+comedy+festival+ft.+daniela+mora%2C+alex+english%2C+mike+hanford%2C+and+more%21/15022613/"
+   ],
+   "free": false,
+   "new_since_last_run": false,
+   "excerpt": "🗣️ Ask Comedians Anything Show 10 is LIVE at Brooklyn Improv with Daniela Mora, Joey Dardano (Adults), Alex English (SNL), Caroline Hanes &amp; Mike Hanford THIS Wednesday November 11th, 7:30pm‼️ 🎟️ Tickets here: [https://improv.com/brooklyn/event/ask+comedians+anything+present"
+  },
+  {
+   "id": "1xtsz29",
+   "date": "2026-11-11",
+   "subreddit": "Bushwick",
+   "title": "Free Comedy Tonight @ KCBC — 8 pm!",
+   "score": 0,
+   "comments": 0,
+   "url": "https://www.reddit.com/r/Bushwick/comments/1xtsz29/free_comedy_tonight_kcbc_8_pm/",
+   "venues_mentioned": [],
+   "when_mentioned": null,
+   "time_mentioned": "8 pm",
+   "links": [
+    "https://www.eventbrite.com/e/cold-beer-comedy-tickets-2004566447205?sg=22c277e499694a0d23852cc26d102f740b59cb5d225db8ec71f2f43c6da4cec2ef9c10dac33a4d13ef6a147f1ec4919ce902c1bc5c901715c3a8fd0751156a5998434d1659e1f075f099b9fde7&amp;aff=ebdsshios"
+   ],
+   "free": true,
+   "new_since_last_run": true,
+   "excerpt": "Reservations always free and optional! Hot lineup including touring headliners, it’ll be a fun one! https://www.eventbrite.com/e/cold-beer-comedy-tickets-2004566447205?sg=22c277e499694a0d23852cc26d102f740b59cb5d225db8ec71f2f43c6da4cec2ef9c10dac33a4d13ef6a147f1ec4919ce902c1bc5c901"
+  },
+  {
+   "id": "1xtpuct",
+   "date": "2026-11-11",
+   "subreddit": "Bushwick",
+   "title": "Saturday 11/14 6pm preparing for a special (BYOB)",
+   "score": 1,
+   "comments": 4,
+   "url": "https://www.reddit.com/r/Bushwick/comments/1xtpuct/saturday_1114_6pm_preparing_for_a_special_byob/",
+   "venues_mentioned": [
+    "Bushwick Comedy Club"
+   ],
+   "when_mentioned": "Saturday 11/14 6pm preparing for a special (BYOB",
+   "time_mentioned": "6pm",
+   "links": [
+    "https://www.youtube.com/watch?v=p18FIxZCW9U",
+    "https://www.bushwickcomedy.com/event-details/naomi-karavani-headlines-6-00pm"
+   ],
+   "free": false,
+   "new_since_last_run": true,
+   "excerpt": "Hi Bushwick! I'm running my mostly dirty\\* hour with a few friends and I would love for you to come be part of the focus group. You can check out my standup on my page. Or check out my first special [here](https://www.youtube.com/watch?v=p18FIxZCW9U). Show description: Delightful"
+  },
+  {
+   "id": "1xtt083",
+   "date": "2026-11-11",
+   "subreddit": "Brooklyn",
+   "title": "Does anyone want 2 free tix to the Flophouse Comedy Club this Saturday the 14th?",
+   "score": 1,
+   "comments": 0,
+   "url": "https://www.reddit.com/r/Brooklyn/comments/1xtt083/does_anyone_want_2_free_tix_to_the_flophouse/",
+   "venues_mentioned": [],
+   "when_mentioned": "Saturday the 14th? Caught the plague so I won’t ",
+   "time_mentioned": "9:30pm",
+   "links": [],
+   "free": true,
+   "new_since_last_run": true,
+   "excerpt": "Caught the plague so I won’t be able to make it and I’m from out of state so it’s not like i can just give them to my friends. 2 tix for Denise Taylor who’s headlining Saturday the 14th at 9:30pm. Please no resellers just reach out if you actually wanna go like damn. Okay thanks "
+  },
+  {
+   "id": "1xtvc8h",
+   "date": "2026-11-11",
+   "subreddit": "parkslope",
+   "title": "Comedy-DJ Show at Union Hall THIS Friday!",
+   "score": 0,
+   "comments": 0,
+   "url": "https://www.reddit.com/r/parkslope/comments/1xtvc8h/comedydj_show_at_union_hall_this_friday/",
+   "venues_mentioned": [
+    "Union Hall"
+   ],
+   "when_mentioned": "Friday",
+   "time_mentioned": "9:30pm",
+   "links": [
+    "https://www.eventbrite.com/e/neel-ghosh-pagol-tickets-1997946785619"
+   ],
+   "free": false,
+   "new_since_last_run": true,
+   "excerpt": "Neel Ghosh is BACK with his Comedy Music Show THIS Friday 11/13 at Union Hall, BK With special guests Nimesh Patel (Netflix), Aye D1, Sureni Weerasekera, Zubi Ahmed, Sabeen Sadiq, Craig Sketch, Misha Han! 9:30pm doors / 10:00pm show. Tickets here : [https://www.eventbrite.com/e/n"
+  },
+  {
+   "id": "1xtu2rw",
+   "date": "2026-11-11",
+   "subreddit": "crownheights",
+   "title": "Crown Heights November Events Thread 11/11-11/18",
+   "score": 6,
+   "comments": 1,
+   "url": "https://www.reddit.com/r/crownheights/comments/1xtu2rw/crown_heights_november_events_thread_11111118/",
+   "venues_mentioned": [
+    "The Corner Store",
+    "Bar Bayeux"
+   ],
+   "when_mentioned": "Friday Craft Night](https://acorncraftshop",
+   "time_mentioned": "9pm",
+   "links": [
+    "https://www.instagram.com/p/DeabuxENhml/?hl=en",
+    "https://acorncraftshop.com/products/moms-craft-night?variant=50599931183323",
+    "https://www.instagram.com/p/DfXORC8EQTs/"
+   ],
+   "free": true,
+   "new_since_last_run": true,
+   "excerpt": "Happy November! Hope everyone's recovered from the weekend. Here's what's happening in our neck of the woods this week. As always, comment more suggestions and they'll be added to the roster! *Wed 11/11* Veterans Day * 6-9pm - [Chess &amp; Cheers](https://www.instagram.com/p/Deab"
+  },
+  {
+   "id": "1xt2hjq",
+   "date": "2026-11-10",
+   "subreddit": "nycevents",
+   "title": "New York Comedy Fest Show in Williamsburg! 11/12, 9:30 $20",
+   "score": 1,
+   "comments": 0,
+   "url": "https://www.reddit.com/r/nycevents/comments/1xt2hjq/new_york_comedy_fest_show_in_williamsburg_1112/",
+   "venues_mentioned": [
+    "Flop House Comedy"
+   ],
+   "when_mentioned": null,
+   "time_mentioned": null,
+   "links": [
+    "https://flophousecomedy.com/d4746cdc-a0b5-45ce-b897-afcb896b1851/event/404045bd-c3c3-4459-af3b-eb1a9fd5d6eb"
+   ],
+   "free": false,
+   "new_since_last_run": false,
+   "excerpt": "**Daegen Asfaha &amp; Friends Headline Flop House Comedy Club! Get Tickets** [HERE](https://flophousecomedy.com/d4746cdc-a0b5-45ce-b897-afcb896b1851/event/404045bd-c3c3-4459-af3b-eb1a9fd5d6eb)"
+  },
+  {
+   "id": "1xt2hx3",
+   "date": "2026-11-10",
+   "subreddit": "williamsburg",
+   "title": "New York Comedy Fest Show in Williamsburg! 11/12, 9:30 $20",
+   "score": 0,
+   "comments": 0,
+   "url": "https://www.reddit.com/r/williamsburg/comments/1xt2hx3/new_york_comedy_fest_show_in_williamsburg_1112/",
+   "venues_mentioned": [],
+   "when_mentioned": null,
+   "time_mentioned": null,
+   "links": [],
+   "free": false,
+   "new_since_last_run": false,
+   "excerpt": ""
+  },
+  {
+   "id": "1xt0ck1",
+   "date": "2026-11-10",
+   "subreddit": "williamsburg",
+   "title": "Hi I am local comedian doing a comedy/history show on Wednesday about the early Russian empire",
+   "score": 20,
+   "comments": 7,
+   "url": "https://www.reddit.com/r/williamsburg/comments/1xt0ck1/hi_i_am_local_comedian_doing_a_comedyhistory_show/",
+   "venues_mentioned": [],
+   "when_mentioned": "Wednesday about the early Russian empire If you l",
+   "time_mentioned": null,
+   "links": [
+    "https://www.eventbrite.com/e/matty-litwack-presents-peter-the-great-final-showing-tickets-1998926892144?discount=REDDIT"
+   ],
+   "free": false,
+   "new_since_last_run": false,
+   "excerpt": "If you like comedy and history then you'll probably like this show. Many Redditors have come to past shows and enjoyed it and this is a special show because it's part of the New York Comedy Festival and it's also THE FINAL TIME I'm ever doing the show, because I'm working on a ne"
+  },
+  {
+   "id": "1xsvrjz",
+   "date": "2026-11-10",
+   "subreddit": "astoria",
+   "title": "Spaces in Astoria for private open mic?",
+   "score": 2,
+   "comments": 7,
+   "url": "https://www.reddit.com/r/astoria/comments/1xsvrjz/spaces_in_astoria_for_private_open_mic/",
+   "venues_mentioned": [],
+   "when_mentioned": null,
+   "time_mentioned": null,
+   "links": [],
+   "free": true,
+   "new_since_last_run": false,
+   "excerpt": "Pretty much as the title says. I’m hoping to find a cheap/free private space to host an open mic night for my birthday. I’m expecting maybe 30 or so people who I’m sure will be buying lots of drinks and food at whatever venue I go with. Any recs would be greatly appreciated!"
+  },
+  {
+   "id": "1xsre4l",
+   "date": "2026-11-10",
+   "subreddit": "astoria",
+   "title": "Post Thanksgiving comedy show at QED",
+   "score": 6,
+   "comments": 0,
+   "url": "https://www.reddit.com/r/astoria/comments/1xsre4l/post_thanksgiving_comedy_show_at_qed/",
+   "venues_mentioned": [],
+   "when_mentioned": null,
+   "time_mentioned": null,
+   "links": [
+    "https://qedastoria.com/products/standuptown-q-e-d?"
+   ],
+   "free": false,
+   "new_since_last_run": false,
+   "excerpt": "Hey All, November 27th day after Thanksgiving we have this awesome comedy show! Bring the family or give yourself a break from the family by laughing with us. We promise you all of the laughs with comedians from NYCF, Comedy Central &amp; more! *Line Up* Santiago Angel Megan McNu"
+  },
+  {
+   "id": "1xspwpy",
+   "date": "2026-11-10",
+   "subreddit": "astoria",
+   "title": "Hey Astoria! Grove 34 wants to hear from you!",
+   "score": 43,
+   "comments": 40,
+   "url": "https://www.reddit.com/r/astoria/comments/1xspwpy/hey_astoria_grove_34_wants_to_hear_from_you/",
+   "venues_mentioned": [
+    "Grove 34"
+   ],
+   "when_mentioned": null,
+   "time_mentioned": null,
+   "links": [],
+   "free": false,
+   "new_since_last_run": false,
+   "excerpt": "Hello fellow Astorians! I’ve recently been hired to develop the education program at Grove 34 Comedy Club and would love to hear from the community as to what y’all would want to see. Besides a standard beginner improv or stand up class, what would pique your interest to check ou"
+  },
+  {
    "id": "1xs5xll",
    "date": "2026-11-09",
    "subreddit": "nycevents",
@@ -39,7 +445,7 @@
    "time_mentioned": null,
    "links": [],
    "free": false,
-   "new_since_last_run": true,
+   "new_since_last_run": false,
    "excerpt": ""
   },
   {
@@ -57,7 +463,7 @@
     "https://partiful.com/e/dbfJAeVdMpQ72BtYQN54"
    ],
    "free": true,
-   "new_since_last_run": true,
+   "new_since_last_run": false,
    "excerpt": "We're back Wednesday 11/11 (how fun) @ 8pm at Rose's R&amp;R Bar (457 Graham Ave.) My workplace is producing/sponsoring a free bi-weekly comedy show at Rose's R&amp;R Bar (457 Graham Ave.) in Williamsburg/Greenpoint, BK right next door to our storefront. Each show will feature so"
   },
   {
@@ -77,7 +483,7 @@
     "https://www.brooklyncc.com/show-schedule/misfit-variety-nycf-11-15"
    ],
    "free": false,
-   "new_since_last_run": true,
+   "new_since_last_run": false,
    "excerpt": "Join the ***Misfit Variety Show*** **at the New York Comedy Festival** to celebrate those with official ADHD … and everyone else who is pretty close. **Featuring** **Judah Friedlander**, this variety hour will take you on a joyride of heartwarmingly irreverent **comedy for the we"
   },
   {
@@ -85,7 +491,7 @@
    "date": "2026-11-09",
    "subreddit": "williamsburg",
    "title": "Free Comedy Show @ Rose's R&amp;R Bar in Williamsburg!",
-   "score": 2,
+   "score": 3,
    "comments": 0,
    "url": "https://www.reddit.com/r/williamsburg/comments/1xs0o2q/free_comedy_show_roses_rr_bar_in_williamsburg/",
    "venues_mentioned": [],
@@ -95,7 +501,7 @@
     "https://partiful.com/e/dbfJAeVdMpQ72BtYQN54"
    ],
    "free": true,
-   "new_since_last_run": true,
+   "new_since_last_run": false,
    "excerpt": "We're back Wednesday 11/11 (how fun) @ 8pm at Rose's R&amp;R Bar (457 Graham Ave.) My workplace is producing/sponsoring a free bi-weekly comedy show at Rose's R&amp;R Bar (457 Graham Ave.) in Williamsburg/Greenpoint, BK right next door to our storefront. Each show will feature so"
   },
   {
@@ -113,7 +519,7 @@
    "time_mentioned": null,
    "links": [],
    "free": false,
-   "new_since_last_run": true,
+   "new_since_last_run": false,
    "excerpt": ""
   },
   {
@@ -121,8 +527,8 @@
    "date": "2026-11-09",
    "subreddit": "lowereastside",
    "title": "Bars that are chill on a Saturday night?",
-   "score": 5,
-   "comments": 11,
+   "score": 6,
+   "comments": 15,
    "url": "https://www.reddit.com/r/lowereastside/comments/1xry4an/bars_that_are_chill_on_a_saturday_night/",
    "venues_mentioned": [
     "Caveat"
@@ -131,7 +537,7 @@
    "time_mentioned": "9pm",
    "links": [],
    "free": false,
-   "new_since_last_run": true,
+   "new_since_last_run": false,
    "excerpt": "Hi! I'm looking for a chill, large bar on the LES that would be good for people to hang after a comedy show at Caveat. We have a cast of 10 people (who all have guests who come to the show) and we always struggle to find a place that's not packed/reserved for special parties afte"
   },
   {
@@ -157,7 +563,7 @@
    "date": "2026-11-09",
    "subreddit": "parkslope",
    "title": "Mutual Aid Comedy Show -",
-   "score": 5,
+   "score": 9,
    "comments": 0,
    "url": "https://www.reddit.com/r/parkslope/comments/1xs5x2t/mutual_aid_comedy_show/",
    "venues_mentioned": [
@@ -169,7 +575,7 @@
     "https://partiful.com/e/qH7jJYaGeYUr7QpDCUO4"
    ],
    "free": false,
-   "new_since_last_run": true,
+   "new_since_last_run": false,
    "excerpt": "Hey Slopers! I am hosting a comedy show this Wednesday at Good Judy - proceeds go directly to the Immigrant Defense Project. [https://partiful.com/e/qH7jJYaGeYUr7QpDCUO4](https://partiful.com/e/qH7jJYaGeYUr7QpDCUO4) https://preview.redd.it/7ecl7aa8yn0i1.png?width=920&amp;format=p"
   },
   {
@@ -177,8 +583,8 @@
    "date": "2026-11-09",
    "subreddit": "Greenpoint",
    "title": "selling a 7pm ticket for James Acaster at Greenpoint Comedy Club tonight",
-   "score": 0,
-   "comments": 3,
+   "score": 1,
+   "comments": 2,
    "url": "https://www.reddit.com/r/Greenpoint/comments/1xs6i2y/selling_a_7pm_ticket_for_james_acaster_at/",
    "venues_mentioned": [
     "Greenpoint Comedy Club"
@@ -187,7 +593,7 @@
    "time_mentioned": "7pm",
    "links": [],
    "free": false,
-   "new_since_last_run": true,
+   "new_since_last_run": false,
    "excerpt": "I can’t go anymore - I believe face was $30! 7pm show edit - sold "
   },
   {
@@ -203,7 +609,7 @@
    "time_mentioned": null,
    "links": [],
    "free": true,
-   "new_since_last_run": true,
+   "new_since_last_run": false,
    "excerpt": ""
   },
   {
@@ -221,7 +627,7 @@
    "time_mentioned": "7pm",
    "links": [],
    "free": false,
-   "new_since_last_run": true,
+   "new_since_last_run": false,
    "excerpt": "Have an extra ticket I’m looking to sell. This is for the 7pm show tonight (November 9) Both shows this evening are sold out. Selling for face value $29.50 Venmo or Cash App payment only and I will email you the ticket. "
   },
   {
@@ -415,7 +821,7 @@
    "date": "2026-11-05",
    "subreddit": "parkslope",
    "title": "This weekend Park Slopers can walk to see John Turturro, Spike and Questlove @ BAM, the Gowanus banjo-tossing competition, and a slew of big acts performing as part of the NY Comedy Fest.",
-   "score": 14,
+   "score": 15,
    "comments": 0,
    "url": "https://www.reddit.com/r/parkslope/comments/1xojj3c/this_weekend_park_slopers_can_walk_to_see_john/",
    "venues_mentioned": [],
@@ -599,7 +1005,7 @@
    "date": "2026-11-04",
    "subreddit": "crownheights",
    "title": "Crown Heights November Weekly Events Thread - 11/4-11/11",
-   "score": 38,
+   "score": 41,
    "comments": 5,
    "url": "https://www.reddit.com/r/crownheights/comments/1xo3hf6/crown_heights_november_weekly_events_thread/",
    "venues_mentioned": [
@@ -638,7 +1044,7 @@
    "date": "2026-11-03",
    "subreddit": "crownheights",
    "title": "It's election day, so make sure to \"elect\" to see Crown Heights Comedy Night on Friday!",
-   "score": 5,
+   "score": 4,
    "comments": 0,
    "url": "https://www.reddit.com/r/crownheights/comments/1xn4m19/its_election_day_so_make_sure_to_elect_to_see/",
    "venues_mentioned": [],
@@ -770,7 +1176,7 @@
    "date": "2026-10-30",
    "subreddit": "lowereastside",
    "title": "winter courses in LES",
-   "score": 17,
+   "score": 16,
    "comments": 0,
    "url": "https://www.reddit.com/r/lowereastside/comments/1xjh31u/winter_courses_in_les/",
    "venues_mentioned": [],
@@ -804,29 +1210,11 @@
    "excerpt": "**Happy Halloween Eve!** Still looking for something to do tonight? Stop by [thetinycupboard](https://www.instagram.com/thetinycupboard/) for a nite of candy, costumes, creativity, drinks, karakoke, performances, and showcases. BYOwork to share! 🎃 All mediums are welcomed so cal"
   },
   {
-   "id": "1xi7ub7",
-   "date": "2026-10-29",
-   "subreddit": "astoria",
-   "title": "Musical Comedy Night Thurs, Oct 29th @ Grove 34",
-   "score": 5,
-   "comments": 0,
-   "url": "https://www.reddit.com/r/astoria/comments/1xi7ub7/musical_comedy_night_thurs_oct_29th_grove_34/",
-   "venues_mentioned": [
-    "Grove 34"
-   ],
-   "when_mentioned": "Thursday, October 29th at 7:30pm",
-   "time_mentioned": "7:30pm",
-   "links": [],
-   "free": false,
-   "new_since_last_run": false,
-   "excerpt": "Spreading the word about a monthly Musical Comedy show I host at Grove 34 (34th St &amp; Broadway)! The next one is tomorrow, Thursday, October 29th at 7:30pm. Happy to put folks on the guest list if cost is a barrier \\~ just lmk :) "
-  },
-  {
    "id": "1xilzcq",
    "date": "2026-10-29",
    "subreddit": "eastvillage",
    "title": "Who remembers Rififi Lounge?",
-   "score": 13,
+   "score": 12,
    "comments": 1,
    "url": "https://www.reddit.com/r/eastvillage/comments/1xilzcq/who_remembers_rififi_lounge/",
    "venues_mentioned": [],
@@ -836,94 +1224,6 @@
    "free": false,
    "new_since_last_run": false,
    "excerpt": "Producer Marianne Ways is working on documenting Rififi Lounge and the alt-comedy scene that set the stage for much of today's mainstream entertainment. "
-  },
-  {
-   "id": "1xhw2us",
-   "date": "2026-10-28",
-   "subreddit": "nycevents",
-   "title": "Come to Rose''s R&amp;R Bar tonight 10/28 for Free Comedy!",
-   "score": 1,
-   "comments": 0,
-   "url": "https://www.reddit.com/r/nycevents/comments/1xhw2us/come_to_roses_rr_bar_tonight_1028_for_free_comedy/",
-   "venues_mentioned": [],
-   "when_mentioned": null,
-   "time_mentioned": null,
-   "links": [],
-   "free": true,
-   "new_since_last_run": false,
-   "excerpt": ""
-  },
-  {
-   "id": "1xhw3am",
-   "date": "2026-10-28",
-   "subreddit": "williamsburg",
-   "title": "Come to Rose''s R&amp;R Bar tonight 10/28 for Free Comedy!",
-   "score": 1,
-   "comments": 0,
-   "url": "https://www.reddit.com/r/williamsburg/comments/1xhw3am/come_to_roses_rr_bar_tonight_1028_for_free_comedy/",
-   "venues_mentioned": [],
-   "when_mentioned": null,
-   "time_mentioned": null,
-   "links": [],
-   "free": true,
-   "new_since_last_run": false,
-   "excerpt": ""
-  },
-  {
-   "id": "1xi18yw",
-   "date": "2026-10-28",
-   "subreddit": "AskNYC",
-   "title": "Forming NYC digital sketch group",
-   "score": 1,
-   "comments": 2,
-   "url": "https://www.reddit.com/r/AskNYC/comments/1xi18yw/forming_nyc_digital_sketch_group/",
-   "venues_mentioned": [],
-   "when_mentioned": null,
-   "time_mentioned": null,
-   "links": [],
-   "free": false,
-   "new_since_last_run": false,
-   "excerpt": "So I've taken improv classes at the magnet, sketch, character, and stand up at UCB and I want to start creating some real content but I think it'd be best if I had a small official group. How do I find other writers and performers that'd be qualified to join? Is there already an "
-  },
-  {
-   "id": "1xhw27f",
-   "date": "2026-10-28",
-   "subreddit": "Greenpoint",
-   "title": "Come to Rose''s R&amp;R Bar tonight 10/28 for Free Comedy!",
-   "score": 2,
-   "comments": 0,
-   "url": "https://www.reddit.com/r/Greenpoint/comments/1xhw27f/come_to_roses_rr_bar_tonight_1028_for_free_comedy/",
-   "venues_mentioned": [],
-   "when_mentioned": null,
-   "time_mentioned": "8pm",
-   "links": [
-    "https://partiful.com/e/l9BP7U1UPYBz4bmdD2C4"
-   ],
-   "free": true,
-   "new_since_last_run": false,
-   "excerpt": "We're back tonight @ 8pm at Rose's R&amp;R Bar (457 Graham Ave.) My workplace is producing/sponsoring a new free bi-weekly comedy show at Rose's R&amp;R Bar (457 Graham Ave.) in Williamsburg/Greenpoint, BK right next door to our storefront. Each show will feature some of the city"
-  },
-  {
-   "id": "1xhw615",
-   "date": "2026-10-28",
-   "subreddit": "crownheights",
-   "title": "Crown Heights Events Thread 10/28-11/4 HALLOWEEN EDITION",
-   "score": 28,
-   "comments": 0,
-   "url": "https://www.reddit.com/r/crownheights/comments/1xhw615/crown_heights_events_thread_1028114_halloween/",
-   "venues_mentioned": [
-    "Bar Bayeux"
-   ],
-   "when_mentioned": "Tuesday",
-   "time_mentioned": "5pm",
-   "links": [
-    "https://www.bklynlibrary.org/calendar/musiquita-crown-heights-library-20261028-0400pm",
-    "https://www.instagram.com/p/DekJ3h4Cewn/",
-    "https://www.lgbtbrooklyn.org/event-details/tarot-readings-with-altaru-tarot-2026-10-28-18-00-1"
-   ],
-   "free": true,
-   "new_since_last_run": false,
-   "excerpt": "Happy SPOOKTOBER week! Can't believe we're at the end of the month already, but we have lots of cool neighborhood events for you to check out. Hope everyone gets more treats than tricks, and don't forget to VOTE on Tuesday! As always please comment more suggestions and they'll be"
   }
  ]
 }

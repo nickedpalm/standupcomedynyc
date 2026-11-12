@@ -1766,6 +1766,37 @@
   "archived_at": "2026-11-12"
  },
  {
+  "id": "ask-comedians-anything-brooklyn-improv-2026-11-11",
+  "title": "Ask Comedians Anything",
+  "date": "2026-11-11",
+  "starts_at": "2026-11-11T19:30:00-05:00",
+  "ends_at": "2026-11-11T21:30:00-05:00",
+  "end_time_confirmed": false,
+  "time_label": "7:30pm",
+  "venue": "Brooklyn Improv",
+  "neighborhood": "Williamsburg",
+  "price_amount": 13.75,
+  "price_label": "$13.75 ($10 + $3.75 fee, $5 off applied)",
+  "ticket_url": "https://www.ticketweb.com/event/ask-comedians-anything-presented-by-brooklyn-improv-the-main-room-tickets/15022613",
+  "source_url": "https://improv.com/brooklyn/event/ask+comedians+anything+presented+by+new+york+comedy+festival+ft.+daniela+mora%2C+alex+english%2C+mike+hanford%2C+and+more%21/15022613/",
+  "verified_at": "2026-11-11",
+  "description": "The one show where the room writes the set: Andrei Buna hosts and the comics answer whatever the audience asks, with Daniela Mora, Joey Dardano and Alex English on the bill.",
+  "tier": "special",
+  "featured": false,
+  "poster": {
+   "src": "/assets/posters/archive/ask-comedians-anything-brooklyn-improv-2026-11-11.png",
+   "width": 1200,
+   "height": 800,
+   "source_url": "https://improv.com/brooklyn/event/ask+comedians+anything+presented+by+new+york+comedy+festival+ft.+daniela+mora%2C+alex+english%2C+mike+hanford%2C+and+more%21/15022613/",
+   "credit": "Artwork: Brooklyn Improv",
+   "alt": "Ask Comedians Anything at Brooklyn Improv, November 11 at 7:30pm, over a collage of comics on stage.",
+   "kind": "dated event flyer"
+  },
+  "demand": null,
+  "demand_checked": "2026-11-11",
+  "archived_at": "2026-11-12"
+ },
+ {
   "id": "tj-miller-comic-strip-2026-11-11",
   "title": "TJ Miller Live!",
   "date": "2026-11-11",

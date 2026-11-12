@@ -438,5 +438,25 @@
   "source_label": "The room's own ticketing page (price, minimum, seating and refund rules)",
   "verified_at": "2026-11-10",
   "verification_note": "Read on 2026-11-10 from the room's own Ticket Tailor event page: '$20 in advance or $25 the day of and at the door', 'There is a $15 beverage minimum', 'Please arrive no later than 7:45 PM to be seated', 'Doors close 10 minutes after the start of the show' and 'All sales are final. No refunds, cancellations, or exchanges'. The address (410 8th Ave, 2nd Floor, New York, NY 10001) is printed on the same page and on the school's own site. The room does not publish an age policy, so the age line says so rather than guessing."
+ },
+ {
+  "id": "the-grisly-pear",
+  "tier": "club",
+  "name": "The Grisly Pear",
+  "rooms": "Two rooms: 107 MacDougal St in Greenwich Village and 243 W 54th St in Midtown",
+  "address": "107 MacDougal St, Manhattan",
+  "neighborhood": "Greenwich Village",
+  "price_label": "$10 general admission at the West Village room ($12.37 with fee); the Midtown room runs its own prices",
+  "price_low": 10,
+  "price_high": null,
+  "minimum": "Two drinks or items per guest",
+  "age": "21+ with valid ID",
+  "reservations": "Buy online through the club's own site. Arrive 15 minutes early or you can lose your seat; no refunds or exchanges, and lineups change without notice.",
+  "character": "A cramped West Village room that books comics for comics, with a sister room at 243 W 54th St near Times Square. Hobocop runs here on Thursdays.",
+  "calendar_url": "https://www.grislypearstandup.com/calendar",
+  "source_url": "https://www.grislypearstandup.com/events/comedy-show-at-the-grisly-pear-greenwich-village-11-11-26-08-00-pm",
+  "source_label": "Club show page (requirements and ticket tiers)",
+  "verified_at": "2026-11-11",
+  "verification_note": "Read from the club's own show pages on 2026-11-11: the 21+ rule with valid ID, the two-item minimum, the 15-minute arrival window with no refund, the no-refund/no-exchange terms and the changing lineup. The West Village show page prices general admission at $10 plus a $2.37 fee ($12.37 total); the Midtown room at 243 W 54th St prices its own shows at $20 plus a $3.24 fee. The venue's locations page lists both rooms."
  }
 ]

@@ -1,18 +1,18 @@
 {
- "generated_at": "2026-11-10T14:18:34.073Z",
- "performers_considered": 43,
+ "generated_at": "2026-11-12T11:10:27.603Z",
+ "performers_considered": 46,
  "shortlist": [
-  {
-   "name": "Maddy Kelly",
-   "priority": 135
-  },
   {
    "name": "Fahim Anwar",
    "priority": 120
   },
   {
+   "name": "Demetri Martin",
+   "priority": 105
+  },
+  {
    "name": "Daniel Sloss",
-   "priority": 65
+   "priority": 90
   },
   {
    "name": "Michelle Wolf",
@@ -31,46 +31,36 @@
    "priority": 45
   },
   {
-   "name": "Ania Magliano",
-   "priority": 45
-  },
-  {
    "name": "Jess Hilarious",
    "priority": 40
   },
   {
-   "name": "Ester Steinberg",
+   "name": "Ania Magliano",
+   "priority": 37
+  },
+  {
+   "name": "Casey",
    "priority": 35
   }
  ],
  "run": [],
  "reuse": [
   {
-   "name": "Maddy Kelly",
-   "priority": 135,
-   "cached": {
-    "at": "2026-11-09T13:44:03.886Z",
-    "age_days": 1,
-    "fresh": true,
-    "note": "No usable items: eleven Reddit threads and 5,622 points, but every one is a name collision (r/dancemoms, r/HistoryPorn, r/fantasyfootball) rather than the comic. Hacker News was silent. Her Union Hall Nov 11 date is sold out."
-   }
-  },
-  {
    "name": "Fahim Anwar",
    "priority": 120,
    "cached": {
     "at": "2026-11-09T13:44:03.919Z",
-    "age_days": 1,
+    "age_days": 2.9,
     "fresh": true,
     "note": "Two Reddit threads in 30 days and both are off-topic (r/Webseries, r/brandnew); Hacker News returned zero stories. No New York signal on the Bell House Nov 20 date, which is sold out at 7:30pm and has a second 10pm show."
    }
   },
   {
    "name": "Daniel Sloss",
-   "priority": 65,
+   "priority": 90,
    "cached": {
     "at": "2026-11-07T11:30:47.913Z",
-    "age_days": 3.1,
+    "age_days": 5,
     "fresh": true,
     "note": "Four Reddit threads in 30 days and none of them are about the Beacon date: two are ticket-resale posts for his Columbus and San Francisco Bitter shows, one is a Russell Brand podcast complaint, and Hacker News is silent, so the Nov 14 Beacon slot stands on the festival listing rather than on buzz."
    }
@@ -80,7 +70,7 @@
    "priority": 65,
    "cached": {
     "at": "2026-11-10T11:19:14.529Z",
-    "age_days": 0.1,
+    "age_days": 2,
     "fresh": true,
     "note": "Nothing usable in 30 days: Reddit returned three threads (a war-plane photo post, a relationship-advice update and a generic phrase match on 'conservative comedian') and Hacker News was silent, so the Town Hall Best Job in the World date rests on the festival listing."
    }
@@ -90,7 +80,7 @@
    "priority": 55,
    "cached": {
     "at": "2026-11-10T12:00:32.946Z",
-    "age_days": 0.1,
+    "age_days": 2,
     "fresh": true,
     "note": "Nothing about the comic in 30 days: ten Reddit threads and 4,184 points, but they are all phrase collisions (a New York travel post, a Marilyn Monroe history thread, a cope-day meme) and Hacker News was silent, so the Beacon Theatre Nov 13 date rests on the festival listing."
    }
@@ -100,7 +90,7 @@
    "priority": 52,
    "cached": {
     "at": "2026-11-07T11:30:47.985Z",
-    "age_days": 3.1,
+    "age_days": 5,
     "fresh": true,
     "note": "Three Reddit threads in 30 days, none about New York: a Pete Davidson podcast episode discussion, a Kelowna BC date announcement for January, and a jazz thread about a Sheila Jordan; Hacker News was silent, so the Beacon Nov 12 show stands on the festival listing."
    }
@@ -110,7 +100,7 @@
    "priority": 45,
    "cached": {
     "at": "2026-11-07T11:30:47.950Z",
-    "age_days": 3.1,
+    "age_days": 5,
     "fresh": true,
     "note": "Reddit returned four threads in 30 days and every one is a name collision (Jessica Chastain, a Jessica Willis stylist, Jessica Szohr, a Jessica Tisch story); Hacker News was silent, so the NYCC Midtown Nov 17 date stands on the club's own listing with no online signal either way."
    }
@@ -120,45 +110,50 @@
    "priority": 40,
    "cached": {
     "at": "2026-11-10T11:17:45.681Z",
-    "age_days": 0.1,
+    "age_days": 2,
     "fresh": true,
     "note": "No signal in 30 days: Reddit returned two threads that are name collisions (a r/TwoXChromosomes audience-reaction thread and a r/SonyAlpha photography post) and Hacker News three unrelated stories, so the Hard Rock Hotel Nov 13 date rests on the festival listing."
    }
   },
   {
-   "name": "Ester Steinberg",
+   "name": "Casey",
    "priority": 35,
    "cached": {
-    "at": "2026-11-10T11:21:09.863Z",
-    "age_days": 0.1,
+    "at": "2026-11-11T11:41:01.186Z",
+    "age_days": 1,
     "fresh": true,
-    "note": "No signal in 30 days: eleven Reddit threads and 5,700 points, but every one is a name or phrase collision (Yankees contracts, a Fouquet's spa post, a Tammany Hall thread) and Hacker News returned three unrelated stories, so the New York Comedy Club Nov 10 date rests on the club's own listing."
+    "note": "Nothing in 30 days: Reddit auth failed with HTTP 403 on this run and Hacker News's prefix filter dropped all 30 stories as false positives, so the Greenpoint Nov 12 four-Casey showcase stands on the club's own listing with no online signal either way."
    }
   }
  ],
  "skip": [
   {
+   "name": "Demetri Martin",
+   "priority": 105,
+   "reason": "already sold out; research cannot change the call"
+  },
+  {
    "name": "Ania Magliano",
-   "priority": 45,
-   "reason": "next show in 22 days, outside the 10-day window"
+   "priority": 37,
+   "reason": "next show in 20 days, outside the 10-day window"
   },
   {
-   "name": "Caroline Hanes",
+   "name": "Jake Velazquez",
    "priority": 35,
    "reason": "outside the top 10 by cheap ranking"
   },
   {
-   "name": "Salma Zaky",
-   "priority": 35,
-   "reason": "outside the top 10 by cheap ranking"
-  },
-  {
-   "name": "Casey",
+   "name": "Matthew Broussard",
    "priority": 35,
    "reason": "outside the top 10 by cheap ranking"
   },
   {
    "name": "Neel Ghosh",
+   "priority": 30,
+   "reason": "outside the top 10 by cheap ranking"
+  },
+  {
+   "name": "Mojo Brookzz",
    "priority": 30,
    "reason": "outside the top 10 by cheap ranking"
   },
@@ -173,18 +168,13 @@
    "reason": "outside the top 10 by cheap ranking"
   },
   {
-   "name": "Jaboukie Young-White",
+   "name": "Michael Longfellow",
    "priority": 25,
    "reason": "outside the top 10 by cheap ranking"
   },
   {
-   "name": "Jake Velazquez",
-   "priority": 20,
-   "reason": "outside the top 10 by cheap ranking"
-  },
-  {
-   "name": "Matthew Broussard",
-   "priority": 20,
+   "name": "Jaboukie Young-White",
+   "priority": 25,
    "reason": "outside the top 10 by cheap ranking"
   },
   {
@@ -198,12 +188,7 @@
    "reason": "outside the top 10 by cheap ranking"
   },
   {
-   "name": "Hollywood Crime Scene",
-   "priority": 20,
-   "reason": "outside the top 10 by cheap ranking"
-  },
-  {
-   "name": "Denise Taylor",
+   "name": "Christian Finnegan",
    "priority": 20,
    "reason": "outside the top 10 by cheap ranking"
   },
@@ -218,18 +203,58 @@
    "reason": "outside the top 10 by cheap ranking"
   },
   {
-   "name": "Mojo Brookzz",
-   "priority": 15,
+   "name": "Get Work",
+   "priority": 20,
    "reason": "outside the top 10 by cheap ranking"
   },
   {
-   "name": "Demetri Martin",
-   "priority": 15,
+   "name": "Modern Whitney",
+   "priority": 20,
    "reason": "outside the top 10 by cheap ranking"
   },
   {
-   "name": "Christian Finnegan",
-   "priority": 5,
+   "name": "Lukas McCrary",
+   "priority": 20,
+   "reason": "outside the top 10 by cheap ranking"
+  },
+  {
+   "name": "College Radio",
+   "priority": 20,
+   "reason": "outside the top 10 by cheap ranking"
+  },
+  {
+   "name": "Holly Miranda",
+   "priority": 20,
+   "reason": "outside the top 10 by cheap ranking"
+  },
+  {
+   "name": "Melissa Ferrick",
+   "priority": 20,
+   "reason": "outside the top 10 by cheap ranking"
+  },
+  {
+   "name": "Business Casual",
+   "priority": 20,
+   "reason": "outside the top 10 by cheap ranking"
+  },
+  {
+   "name": "Funny Money",
+   "priority": 20,
+   "reason": "outside the top 10 by cheap ranking"
+  },
+  {
+   "name": "Sarah Adelman",
+   "priority": 20,
+   "reason": "outside the top 10 by cheap ranking"
+  },
+  {
+   "name": "Itai Yanai",
+   "priority": 20,
+   "reason": "outside the top 10 by cheap ranking"
+  },
+  {
+   "name": "Kel Cripe",
+   "priority": 20,
    "reason": "outside the top 10 by cheap ranking"
   },
   {
@@ -243,12 +268,22 @@
    "reason": "outside the top 10 by cheap ranking"
   },
   {
+   "name": "Gina Brillon",
+   "priority": 5,
+   "reason": "outside the top 10 by cheap ranking"
+  },
+  {
    "name": "Simeon Goodson",
    "priority": 5,
    "reason": "outside the top 10 by cheap ranking"
   },
   {
    "name": "Alyce Chan",
+   "priority": 5,
+   "reason": "outside the top 10 by cheap ranking"
+  },
+  {
+   "name": "Ryan Davis",
    "priority": 5,
    "reason": "outside the top 10 by cheap ranking"
   },
@@ -268,32 +303,7 @@
    "reason": "outside the top 10 by cheap ranking"
   },
   {
-   "name": "Get Work",
-   "priority": 5,
-   "reason": "outside the top 10 by cheap ranking"
-  },
-  {
-   "name": "Modern Whitney",
-   "priority": 5,
-   "reason": "outside the top 10 by cheap ranking"
-  },
-  {
-   "name": "Lukas McCrary",
-   "priority": 5,
-   "reason": "outside the top 10 by cheap ranking"
-  },
-  {
-   "name": "College Radio",
-   "priority": 5,
-   "reason": "outside the top 10 by cheap ranking"
-  },
-  {
-   "name": "Holly Miranda",
-   "priority": 5,
-   "reason": "outside the top 10 by cheap ranking"
-  },
-  {
-   "name": "Melissa Ferrick",
+   "name": "Sean Patton",
    "priority": 5,
    "reason": "outside the top 10 by cheap ranking"
   },
@@ -308,7 +318,7 @@
    "reason": "outside the top 10 by cheap ranking"
   }
  ],
- "estimated_tokens_saved": 387000,
- "estimate_basis": "9000 tokens per last30days run, 43 runs avoided out of 43",
+ "estimated_tokens_saved": 414000,
+ "estimate_basis": "9000 tokens per last30days run, 46 runs avoided out of 46",
  "no_recent_data": []
 }

@@ -349,6 +349,11 @@
    "at": "2026-11-10T11:24:56.856Z",
    "note": "No signal in 30 days: ten Reddit threads and 5,693 points, every one a name or phrase collision (a Yankees contract post, a Fouquet's spa thread, a Tammany Hall history post) and Hacker News silent, so the New York Comedy Club Nov 10 date rests on the club's own listing.",
    "source": "last30days"
+  },
+  "Casey": {
+   "at": "2026-11-11T11:41:01.186Z",
+   "note": "Nothing in 30 days: Reddit auth failed with HTTP 403 on this run and Hacker News's prefix filter dropped all 30 stories as false positives, so the Greenpoint Nov 12 four-Casey showcase stands on the club's own listing with no online signal either way.",
+   "source": "last30days"
   }
  }
 }

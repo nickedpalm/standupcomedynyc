@@ -132,7 +132,11 @@ function pickCard(p) {
 }
 
 const clock = (p) => { const t = p.time_label.split(' · ')[0]; return t.includes(':') ? t.replace(/\s*(am|pm)$/i, '') : t; };
-const splitTitle = (t) => { const m = t.match(/^([A-Z][\w.'\-]+(?:\s[A-Z][\w.'\-]+){0,3}):\s+(.{4,})$/); return m ? { who: m[1], what: m[2] } : { who: '', what: t }; };
+// The prefix before the colon may be up to seven words. "New York Comedy Festival Presents"
+// is five, and a four-word cap made the title fail to split at all, so the cover stack
+// printed the presenting brand instead of the show. Measured over every pick: the wider
+// cap changes the headline and the stack for exactly one pick (Casey and Friends Named Casey).
+const splitTitle = (t) => { const m = t.match(/^([A-Z][\w.'\-]+(?:\s[A-Z][\w.'\-]+){0,6}):\s+(.{4,})$/); return m ? { who: m[1], what: m[2] } : { who: '', what: t }; };
 // The cover's show stack names the show, not the brand presenting it. A festival or
 // producer prefix ("NY Comedy Festival Presents:", "NYCF Presents:") carries no
 // information for a reader, so the show name after the colon is what belongs on
