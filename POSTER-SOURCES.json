@@ -2768,7 +2768,7 @@
  },
  {
   "event_id": "shelly-belly-nycc-2026-11-12",
-  "src": "/assets/posters/shelly-belly-nycc-2026-11-12.jpg",
+  "src": "/assets/posters/archive/shelly-belly-nycc-2026-11-12.jpg",
   "width": 1040,
   "height": 660,
   "source_url": "https://newyorkcomedyclub.com/events/shelly-belly-presented-by-the-new-york-comedy-festival",
@@ -2779,7 +2779,8 @@
   "retrieved_at": "2026-10-30",
   "bytes": 81064,
   "sha256": "ef4486e7c39dfcecec6392bafb7c14d47c6fc5dcea1cda8269cccc1d3b382493",
-  "reuse_status": "Official promotional artwork; no separate reuse license identified. Local review draft only."
+  "reuse_status": "Official promotional artwork; no separate reuse license identified. Local review draft only.",
+  "archived": true
  },
  {
   "event_id": "judy-gold-nycc-2026-11-24",
@@ -3204,7 +3205,7 @@
  },
  {
   "event_id": "casey-and-friends-named-casey-greenpoint-2026-11-12",
-  "src": "/assets/posters/casey-and-friends-greenpoint-2026-11-12.webp",
+  "src": "/assets/posters/archive/casey-and-friends-greenpoint-2026-11-12.webp",
   "width": 1080,
   "height": 1080,
   "source_url": "https://punchup.live/venue/greenpointcomedyclub/shows/new-york-comedy-festival-presents-casey-and-friends-named-casey",
@@ -3215,11 +3216,12 @@
   "retrieved_at": "2026-11-06",
   "bytes": 90992,
   "sha256": "d757093f29467dd659a388cbb671d0ab5e1d3098dfe566b47d6f39ee0bfa94b9",
-  "reuse_status": "Official promotional artwork; no separate reuse license identified. Local review draft only."
+  "reuse_status": "Official promotional artwork; no separate reuse license identified. Local review draft only.",
+  "archived": true
  },
  {
   "event_id": "daegen-asfaha-headlines-flop-house-2026-11-12",
-  "src": "/assets/posters/daegen-asfaha-flop-house-2026-11-12.webp",
+  "src": "/assets/posters/archive/daegen-asfaha-flop-house-2026-11-12.webp",
   "width": 300,
   "height": 300,
   "source_url": "https://flophousecomedy.com/calendar",
@@ -3230,11 +3232,12 @@
   "retrieved_at": "2026-11-06",
   "bytes": 27336,
   "sha256": "a60693d9c7ba494e0345eb4409dc4b1c872c1a55ec365e46ad11cb356b1cc507",
-  "reuse_status": "Official promotional artwork; no separate reuse license identified. Local review draft only."
+  "reuse_status": "Official promotional artwork; no separate reuse license identified. Local review draft only.",
+  "archived": true
  },
  {
   "event_id": "michael-j-fox-foundation-showcase-sesh-2026-11-12",
-  "src": "/assets/posters/michael-j-fox-foundation-showcase-sesh-2026-11-12.jpg",
+  "src": "/assets/posters/archive/michael-j-fox-foundation-showcase-sesh-2026-11-12.jpg",
   "width": 1200,
   "height": 1200,
   "source_url": "https://seshcomedy.com/event-detail.php?id=UAB7TKVZLWXYCRHB6T5FMVN6",
@@ -3245,7 +3248,8 @@
   "retrieved_at": "2026-11-06",
   "bytes": 37258,
   "sha256": "e1b3d3595c9aca51b2b137107145be75c9d1f71399f4dcf1a7b1c358ec6af8fd",
-  "reuse_status": "Official promotional artwork; no separate reuse license identified. Local review draft only."
+  "reuse_status": "Official promotional artwork; no separate reuse license identified. Local review draft only.",
+  "archived": true
  },
  {
   "event_id": "emily-wilson-friends-bell-house-2026-12-12",
@@ -3373,7 +3377,7 @@
  },
  {
   "event_id": "looking-for-laughs-caveat-2026-11-12",
-  "src": "/assets/posters/looking-for-laughs-caveat-2026-11-12.jpeg",
+  "src": "/assets/posters/archive/looking-for-laughs-caveat-2026-11-12.jpeg",
   "width": 7932,
   "height": 5291,
   "source_url": "https://www.caveat.nyc/events/looking-for-laughs-nycf-2026-11-12",
@@ -3384,7 +3388,8 @@
   "retrieved_at": "2026-11-07",
   "bytes": 2494228,
   "sha256": "936d1d72d52d54bb3218f779a4115facea41e7475ab0da5c92f9005093cb8c98",
-  "reuse_status": "Official promotional artwork; no separate reuse license identified. Local review draft only."
+  "reuse_status": "Official promotional artwork; no separate reuse license identified. Local review draft only.",
+  "archived": true
  },
  {
   "event_id": "fun-in-moderation-caveat-2026-11-14",
@@ -3510,7 +3515,7 @@
  },
  {
   "event_id": "sienna-hubert-ross-union-hall-2026-11-12",
-  "src": "/assets/posters/sienna-hubert-ross-union-hall-2026-11-12.jpg",
+  "src": "/assets/posters/archive/sienna-hubert-ross-union-hall-2026-11-12.jpg",
   "width": 940,
   "height": 470,
   "source_url": "https://www.eventbrite.com/e/sienna-hubert-ross-friends-tickets-1997945876901",
@@ -3521,7 +3526,8 @@
   "retrieved_at": "2026-11-10",
   "bytes": 37874,
   "sha256": "e3a8257f453c4c5751cf32524f4960c875f3f15da452c410018af23efaea48dc",
-  "reuse_status": "Official promotional artwork; no separate reuse license identified. Local review draft only."
+  "reuse_status": "Official promotional artwork; no separate reuse license identified. Local review draft only.",
+  "archived": true
  },
  {
   "event_id": "sureni-does-an-hour-union-hall-2026-11-14",
