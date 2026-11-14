@@ -3081,7 +3081,7 @@
  },
  {
   "event_id": "copyfest-fundraiser-littlefield-2026-11-13",
-  "src": "/assets/posters/copyfest-fundraiser-littlefield-2026-11-13.jpg",
+  "src": "/assets/posters/archive/copyfest-fundraiser-littlefield-2026-11-13.jpg",
   "width": 1880,
   "height": 940,
   "source_url": "https://www.eventbrite.com/e/copyfest-fundraiser-three-sets-three-festivals-tickets-2002566206431",
@@ -3092,7 +3092,8 @@
   "retrieved_at": "2026-11-04",
   "bytes": 385377,
   "sha256": "8ee1a4bf5cd521ec1e0f65d0d8ea851b71e0660345012fce6d1897ed1534a6b0",
-  "reuse_status": "Official promotional artwork; no separate reuse license identified. Local review draft only."
+  "reuse_status": "Official promotional artwork; no separate reuse license identified. Local review draft only.",
+  "archived": true
  },
  {
   "event_id": "drunk-black-history-caveat-2026-11-07",
@@ -3667,7 +3668,7 @@
  },
  {
   "event_id": "boyz-in-the-woods-friends-and-lovers-2026-11-13",
-  "src": "/assets/posters/boyz-in-the-woods-friends-and-lovers-2026-11-13.png",
+  "src": "/assets/posters/archive/boyz-in-the-woods-friends-and-lovers-2026-11-13.png",
   "source_url": "https://www.fnlbk.com/upcoming/2026/11/13/3tusjxkvbaz50b886uadnr8ljcizkn",
   "credit": "Artwork: Friends and Lovers / show organizer",
   "alt": "Boyz In The Woods Comedy flyer: the show title in red and white over a photo of people on a couch, with the hosts, the featuring comedians, Friday November 13th, 8:00 pm, $12, and Friends and Lovers, 641 Classon Ave, BK.",
@@ -3678,7 +3679,8 @@
   "width": 1080,
   "height": 1350,
   "bytes": 2425540,
-  "sha256": "d98065f4f13a3ecd76313f2c2ba5bd7c705757764401076a4bd520dce51e6b92"
+  "sha256": "d98065f4f13a3ecd76313f2c2ba5bd7c705757764401076a4bd520dce51e6b92",
+  "archived": true
  },
  {
   "event_id": "discount-philosophy-friends-and-lovers-2026-11-14",
