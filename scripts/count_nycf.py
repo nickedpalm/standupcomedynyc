@@ -156,19 +156,25 @@ def count(picks, fest):
         urls = {strip_q(p.get('ticket_url')), strip_q(p.get('source_url'))}
         urls.discard(None)
         urls.discard('')
+        mm = re.match(r'(\d{4})-(\d{2})-(\d{2})', p.get('date') or '')
+        pdate = '%s/%s' % (int(mm.group(2)), int(mm.group(3))) if mm else ''
         why = None
         if any(u.startswith('https://nycomedyfestival.com') for u in urls):
             why = 'a'
         else:
             for u in urls:
-                if u in fest_by_ticket:
+                # The festival must list that ticket URL ON OUR DATE. Without the
+                # date check a recurring format the festival lists once counts on
+                # every night we run it (The Workout, listed on 11/6, matched our
+                # 11/7 pick) and the count comes out one too high on every
+                # published revision.
+                blocks = fest_by_ticket.get(u)
+                if blocks and any(f['date'] == pdate for f in blocks):
                     why = 'b'
                     break
         if why is None:
             pv = venue_alias(p.get('venue'))
             ptitle = title_alias(p.get('title'))
-            mm = re.match(r'(\d{4})-(\d{2})-(\d{2})', p.get('date') or '')
-            pdate = '%s/%s' % (int(mm.group(2)), int(mm.group(3))) if mm else ''
             for f in fest:
                 if title_alias(f['title']) != ptitle:
                     continue

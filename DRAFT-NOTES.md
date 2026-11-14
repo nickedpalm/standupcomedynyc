@@ -1019,3 +1019,54 @@ heat.js change. Recovered and re-verified here before landing.
 say it in their structured data (NYCC's JSON-LD offers block still says InStock on a night
 whose own page says "This event is SOLD OUT"). Re-ran the scan board-wide: 6 sold out, all
 genuine, no false positives on the Eventbrite pages.
+
+## Recovery of the stranded 11:00 and 14:00 runs — 2026-11-14
+
+Both runs hit their tool-iteration cap and left their work uncommitted in the tree. The
+09:15 nightly sweep would have published it under a "Nightly" message. Re-verified every
+item here before landing it.
+
+**Five picks recovered** (all Eventbrite API re-checked for name, date, start and end):
+- Denise Taylor Headlines, Flop House Comedy, Sat Nov 14 9:30pm-11:00pm, $23.18
+- Kel Cripe: Easily Swindled, Union Hall, Sun Nov 15 7:30pm-9:00pm, $22.35
+- Sean Patton: Eros, Union Hall, Mon Nov 16 7:30pm-9:00pm, $19.26
+- The Best Indie Comedy Night in Cobble Hill, Talea Beer Co., Tue Nov 17 8pm-9:30pm, $12.51
+- Invisible Architecture: An Evening of Comedy with Charlie Flynn, Union Hall,
+  Wed Nov 18 7:30pm-9:00pm, $15.92
+
+Five posters pulled from the Eventbrite image proxy, each with a POSTER-SOURCES record
+carrying the source URL, byte count and sha256. Checked the bytes against the source
+image and opened each one: the Kel Cripe and Invisible Architecture files are dated
+flyers, the Denise Taylor, Sean Patton and Best Indie files are performer photos.
+
+**Corrections made during this recovery:**
+- The Best Indie Comedy Night blurb said Flop House's bill "plays a Bergen Street
+  taproom". The taproom is the room, and the show is Flop House's production there,
+  so the copy now says the bill "lands in a Bergen Street taproom, not a club".
+- The Denise Taylor poster alt described "a denim jacket against a brick wall". The
+  image is a woman in a black top holding a telephone receiver against a red
+  background — it is Denise Taylor's own promo photo (it matches the PAT gallery on
+  her site), but the alt described a different picture. Rewritten.
+- The Sean Patton poster alt said he is "lit in purple". The image is black and white.
+  Rewritten.
+- Three of tonight's blurbs cut off mid-phrase in the Instagram caption, because the
+  caption's blurb cap (140) is shorter than the card's (180) and the caption builder
+  trims at a word boundary: Discount Philosophy ended on "what is for dinner -.",
+  Denise Taylor on "from The Onion contributor to writing.", and the Comic Strip bill
+  on "Pavich from MTV." A published caption cannot be edited, so all three blurbs
+  were rewritten to land whole at 140 characters. The facts were re-checked against
+  the source first: the Friends and Lovers page, the Eventbrite listing and the
+  Comic Strip schedule page all still name Spencer Simpson, JJ Mattise and the five
+  comics.
+
+**count_nycf.py:** the festival counter matched a ticket URL without checking the
+date, so a recurring format the festival lists once counted on every night we run it.
+Rule (b) now requires the festival to list that ticket URL on our date. The method
+reproduces all five published figures in links.json history (31, 32, 33, 34, 33).
+The link-in-bio count is 10, down from 26: the festival shows on Nov 6-13 have
+rotated off the board, and the board now starts at Nov 14.
+
+**heat.js:** re-ran board-wide. 7 sold out, 1 going fast. Sureni Does an Hour of
+Comedy (Union Hall, tonight 7:30pm) is now genuinely sold out — the Eventbrite page
+renders "TICKETS SOLD OUT" and the API returns is_sold_out true — so it stays on the
+board but drops out of tonight's carousel and the caption.

@@ -231,8 +231,8 @@
    "source": "last30days"
   },
   "Jaboukie Young-White": {
-   "at": "2026-10-26T13:22:16.765Z",
-   "note": "Zero usable items. Reddit returned Boston weekend guides and a ticket-sale post; no comedy coverage. His Bell House Nov 17 date has no recent signal, so do not call him a buzz pick.",
+   "at": "2026-11-14T11:18:02.244Z",
+   "note": "No signal at all in 30 days: Reddit returned one unrelated thread and Hacker News nothing, so the Bell House Nov 17 date rests on the room's own calendar.",
    "source": "last30days"
   },
   "Laughing Lassi": {
@@ -261,8 +261,8 @@
    "source": "last30days"
   },
   "Michael Longfellow": {
-   "at": "2026-10-29T12:04:21.699Z",
-   "note": "Two Reddit threads in 30 days and only one is positive: an 83-upvote r/LiveFromNewYork post on Oct 25 says he is on tour and 'I highly recommend going', while an Oct 11 r/saturdaynightlive thread argues his SNL clips are unfunny; the Hacker News hit is a Nobel laureate named Michael Woodford, not the comic. The tour thread is the live signal for the Union Hall Nov 3 date.",
+   "at": "2026-11-14T11:18:02.201Z",
+   "note": "A LiveFromNewYork tour thread with 88 upvotes and 32 comments says he hits much harder live than on SNL clips, with several readers saying they cried laughing in Charlotte and one planning to catch his Monday Union Hall date; Hacker News had nothing.",
    "source": "last30days"
   },
   "Peyton Ruddy": {
@@ -353,6 +353,16 @@
   "Casey": {
    "at": "2026-11-11T11:41:01.186Z",
    "note": "Nothing in 30 days: Reddit auth failed with HTTP 403 on this run and Hacker News's prefix filter dropped all 30 stories as false positives, so the Greenpoint Nov 12 four-Casey showcase stands on the club's own listing with no online signal either way.",
+   "source": "last30days"
+  },
+  "Naomi Karavani Headlines": {
+   "at": "2026-11-14T11:18:02.276Z",
+   "note": "Reddit has the promoter asking for a focus group at her Nov 14 Bushwick special, with a clip of her set and a first special linked; Hacker News had nothing, so the show stands on the club's own event page.",
+   "source": "last30days"
+  },
+  "Jacqueline Novak": {
+   "at": "2026-11-14T11:18:02.304Z",
+   "note": "No New York signal in 30 days: Reddit returned only two Omaha show-list posts and Hacker News nothing, so the Bell House Nov 23 date rests on the room's own calendar.",
    "source": "last30days"
   }
  }

@@ -64,7 +64,7 @@
   "ticket_url": "https://www.eventbrite.com/e/discount-philosophy-live-comedy-tickets-1984293841295",
   "source_url": "https://www.fnlbk.com/upcoming/2026/11/14/discount-philosophy",
   "verified_at": "2026-11-13",
-  "description": "The show where the comics argue out loud over one big question - the meaning of life, are we alone, what is for dinner - with Spencer Simpson hosting and JJ Mattise on the bill.",
+  "description": "One big question, argued out loud by the whole bill - the meaning of life, are we alone, what is for dinner - with Spencer Simpson hosting.",
   "tier": "special",
   "featured": false,
   "poster": {
@@ -146,7 +146,7 @@
    "alt": "Sureni Does an Hour of Comedy promotional artwork.",
    "kind": "dated event flyer"
   },
-  "demand": null,
+  "demand": "sold_out",
   "demand_checked": "2026-11-14"
  },
  {
@@ -194,7 +194,7 @@
   "ticket_url": "https://www.eventbrite.com/e/ruperto-vanderpool-matt-pavich-jocelyn-chia-nore-davis-nick-griffin-tickets-2003840694459",
   "source_url": "https://comicstriplive.com/schedule/",
   "verified_at": "2026-11-04",
-  "description": "The Strip marks fifty years of the World Comic Strip with a Saturday eight o'clock bill: Vanderpool on Netflix, Pavich from MTV, Chia from Howard Stern and Griffin from Letterman, with Nore Davis in the middle.",
+  "description": "Fifty years of the World Comic Strip, and the anniversary bill is stacked: Vanderpool, Pavich, Chia, Griffin and Nore Davis.",
   "tier": "special",
   "featured": false,
   "poster": null,
@@ -227,6 +227,36 @@
    "credit": "Artwork: Caveat NYC / Fun in Moderation",
    "alt": "Fun in Moderation promotional artwork for the Caveat date.",
    "kind": "dated event flyer"
+  },
+  "demand": null,
+  "demand_checked": "2026-11-14"
+ },
+ {
+  "id": "denise-taylor-flop-house-2026-11-14",
+  "title": "Denise Taylor Headlines",
+  "date": "2026-11-14",
+  "starts_at": "2026-11-14T21:30:00-05:00",
+  "ends_at": "2026-11-14T23:00:00-05:00",
+  "end_time_confirmed": true,
+  "time_label": "9:30pm",
+  "venue": "Flop House Comedy",
+  "neighborhood": "Williamsburg",
+  "price_amount": 23.18,
+  "price_label": "$23.18",
+  "ticket_url": "https://www.eventbrite.com/e/denise-taylor-headlines-flop-house-tickets-2002679230489",
+  "source_url": "https://www.eventbrite.com/e/denise-taylor-headlines-flop-house-tickets-2002679230489",
+  "verified_at": "2026-11-14",
+  "description": "Denise Taylor headlines the late slot with sardonic material, and a resume that runs from The Onion contributor to her own web series.",
+  "tier": "special",
+  "featured": false,
+  "poster": {
+   "src": "/assets/posters/denise-taylor-flop-house-2026-11-14.jpg",
+   "width": 940,
+   "height": 470,
+   "source_url": "https://www.eventbrite.com/e/denise-taylor-headlines-flop-house-tickets-2002679230489",
+   "credit": "Artwork: Flop House Comedy (via the Eventbrite listing)",
+   "alt": "Denise Taylor in a black top holding a telephone receiver to her ear against a red background — the event page image, with no text on it.",
+   "kind": "performer photo from the event page"
   },
   "demand": null,
   "demand_checked": "2026-11-14"
@@ -395,6 +425,36 @@
   "demand_checked": "2026-11-14"
  },
  {
+  "id": "kel-cripe-union-hall-2026-11-15",
+  "title": "Kel Cripe: Easily Swindled",
+  "date": "2026-11-15",
+  "starts_at": "2026-11-15T19:30:00-05:00",
+  "ends_at": "2026-11-15T21:00:00-05:00",
+  "end_time_confirmed": true,
+  "time_label": "7:30pm · doors 7pm",
+  "venue": "Union Hall",
+  "neighborhood": "Park Slope",
+  "price_amount": 22.35,
+  "price_label": "$22.35",
+  "ticket_url": "https://www.eventbrite.com/e/kel-cripe-easily-swindled-tickets-1997937557016",
+  "source_url": "https://nycomedyfestival.com/lineup/kel-cripe-easily-swindled/",
+  "verified_at": "2026-11-14",
+  "description": "Kel Cripe turns the hour on being gullible — the tricks, the confrontational emails, the girlfriend — with Zavior Phillips, Alistair Ogden and Jo Sunday opening.",
+  "tier": "special",
+  "featured": false,
+  "poster": {
+   "src": "/assets/posters/kel-cripe-union-hall-2026-11-15.jpg",
+   "width": 940,
+   "height": 470,
+   "source_url": "https://www.eventbrite.com/e/kel-cripe-easily-swindled-tickets-1997937557016",
+   "credit": "Artwork: Union Hall / show organizer (via the Eventbrite listing)",
+   "alt": "Kel Cripe: Easily Swindled flyer — KEL CRIPE in large white letters, UNION HALL, 11/15, 7:30PM, and the New York Comedy Festival logo, over a photo of Kel Cripe on an escalator holding a mic stand.",
+   "kind": "dated event flyer"
+  },
+  "demand": null,
+  "demand_checked": "2026-11-14"
+ },
+ {
   "id": "improv-but-good-bell-house-2026-11-16",
   "title": "Improv But Good",
   "date": "2026-11-16",
@@ -465,6 +525,36 @@
   "tier": "special",
   "featured": false,
   "poster": null,
+  "demand": null,
+  "demand_checked": "2026-11-14"
+ },
+ {
+  "id": "sean-patton-eros-union-hall-2026-11-16",
+  "title": "Sean Patton: Eros",
+  "date": "2026-11-16",
+  "starts_at": "2026-11-16T19:30:00-05:00",
+  "ends_at": "2026-11-16T21:00:00-05:00",
+  "end_time_confirmed": true,
+  "time_label": "7:30pm · doors 7pm",
+  "venue": "Union Hall",
+  "neighborhood": "Park Slope",
+  "price_amount": 19.26,
+  "price_label": "$19.26",
+  "ticket_url": "https://www.eventbrite.com/e/sean-patton-eros-tickets-2000520767468",
+  "source_url": "https://www.eventbrite.com/e/sean-patton-eros-tickets-2000520767468",
+  "verified_at": "2026-11-14",
+  "description": "Sean Patton does the whole show alone, talking it out with his own emotions — a one-man conversation about fighting them every day of your life, on a Monday night.",
+  "tier": "special",
+  "featured": false,
+  "poster": {
+   "src": "/assets/posters/sean-patton-eros-union-hall-2026-11-16.jpg",
+   "width": 940,
+   "height": 470,
+   "source_url": "https://www.eventbrite.com/e/sean-patton-eros-tickets-2000520767468",
+   "credit": "Artwork: Union Hall / show organizer (via the Eventbrite listing)",
+   "alt": "Sean Patton photographed in profile — a bearded man in a jacket looking down, in black and white — with no text on the image.",
+   "kind": "performer photo from the event page"
+  },
   "demand": null,
   "demand_checked": "2026-11-14"
  },
@@ -615,6 +705,36 @@
   "demand_checked": "2026-11-14"
  },
  {
+  "id": "best-indie-comedy-cobble-hill-2026-11-17",
+  "title": "The Best Indie Comedy Night in Cobble Hill",
+  "date": "2026-11-17",
+  "starts_at": "2026-11-17T20:00:00-05:00",
+  "ends_at": "2026-11-17T21:30:00-05:00",
+  "end_time_confirmed": true,
+  "time_label": "8pm",
+  "venue": "Talea Beer Co. (Cobble Hill)",
+  "neighborhood": "Cobble Hill",
+  "price_amount": 12.51,
+  "price_label": "From $12.51",
+  "ticket_url": "https://www.eventbrite.com/e/the-best-indie-comedy-night-in-cobble-hill-tickets-2003844357415",
+  "source_url": "https://www.eventbrite.com/e/the-best-indie-comedy-night-in-cobble-hill-tickets-2003844357415",
+  "verified_at": "2026-11-14",
+  "description": "Flop House's indie bill lands in a Bergen Street taproom, not a club, and the comics carry HBO, Don't Tell and Netflix credits.",
+  "tier": "special",
+  "featured": false,
+  "poster": {
+   "src": "/assets/posters/best-indie-cobble-hill-2026-11-17.jpg",
+   "width": 940,
+   "height": 470,
+   "source_url": "https://www.eventbrite.com/e/the-best-indie-comedy-night-in-cobble-hill-tickets-2003844357415",
+   "credit": "Artwork: Flop House Comedy (via the Eventbrite listing)",
+   "alt": "A performer on stage under blue and purple light, smiling with a microphone — the event page image, with no text on it.",
+   "kind": "performer photo from the event page"
+  },
+  "demand": null,
+  "demand_checked": "2026-11-14"
+ },
+ {
   "title": "Kylie Vincent: Lesion Lady",
   "date": "2026-11-18",
   "starts_at": "2026-11-18T19:00:00-05:00",
@@ -643,6 +763,36 @@
    "kind": "dated event flyer"
   },
   "id": "kylie-vincent-lesion-lady-sesh-2026-11-18"
+ },
+ {
+  "id": "invisible-architecture-union-hall-2026-11-18",
+  "title": "Invisible Architecture: An Evening of Comedy with Charlie Flynn",
+  "date": "2026-11-18",
+  "starts_at": "2026-11-18T19:30:00-05:00",
+  "ends_at": "2026-11-18T21:00:00-05:00",
+  "end_time_confirmed": true,
+  "time_label": "7:30pm · doors 7pm",
+  "venue": "Union Hall",
+  "neighborhood": "Park Slope",
+  "price_amount": 15.92,
+  "price_label": "$15.92",
+  "ticket_url": "https://www.eventbrite.com/e/invisible-architecture-an-evening-of-comedy-with-charlie-flynn-tickets-2004608769793",
+  "source_url": "https://www.eventbrite.com/e/invisible-architecture-an-evening-of-comedy-with-charlie-flynn-tickets-2004608769793",
+  "verified_at": "2026-11-14",
+  "description": "Charlie Flynn premieres new comedy videos with Hotel Art Thief behind them, on a bill with Brittany Carney, George Civeris, Ismael Loutfi and Ava Whiteley.",
+  "tier": "special",
+  "featured": false,
+  "poster": {
+   "src": "/assets/posters/invisible-architecture-union-hall-2026-11-18.jpg",
+   "width": 940,
+   "height": 470,
+   "source_url": "https://www.eventbrite.com/e/invisible-architecture-an-evening-of-comedy-with-charlie-flynn-tickets-2004608769793",
+   "credit": "Artwork: Union Hall / show organizer (via the Eventbrite listing)",
+   "alt": "Invisible Architecture flyer — INVISIBLE ARCHITECTURE in pink over a blue house with Charlie Flynn's face in the window, naming Brittany Carney, George Civeris, Ismael Loutfi and Ava Whiteley, with UNION HALL, WEDNESDAY NOVEMBER 18, 7:30PM.",
+   "kind": "dated event flyer"
+  },
+  "demand": null,
+  "demand_checked": "2026-11-14"
  },
  {
   "id": "story-warz-nycc-2026-11-18",
