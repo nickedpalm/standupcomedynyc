@@ -98,6 +98,34 @@ async function ticketPageSoldOut(url) {
     return Boolean(m) && /SOLD\s*OUT/i.test(m[1]);
   } catch { return false; }
 }
+
+// Other ticket hosts say it in the body instead of the title, and some of them never say it in
+// their structured data either -- New York Comedy Club's JSON-LD offers block still says InStock
+// on a night whose own page says "This event is SOLD OUT". Without this, three sold-out NYCC
+// shows read as untagged and land in a Tonight carousel as if tickets were still on sale.
+//
+// Only the event-level sentences count. A comic's bio ("a recent sold-out, 500-seat headline
+// show") must not match, so every pattern has to be about *this* event, not about a show the
+// performer once sold out.
+const EVENT_SOLD_OUT = [
+  /this event is (?:currently )?sold\s*out/i,
+  /sorry[,—\s]+this event is currently sold\s*out/i,
+  /sold\s*out\s*[—–-]\s*(?:join|add) (?:the|our) wait\s*list/i,
+  /this (?:show|performance|gig) is sold\s*out/i,
+];
+async function bodySoldOut(url) {
+  if (!url || !/^https?:\/\//i.test(url)) return false;
+  try {
+    const html = await (await fetch(url, { headers })).text();
+    const txt = html
+      .replace(/<script[\s\S]*?<\/script>/gi, ' ')
+      .replace(/<style[\s\S]*?<\/style>/gi, ' ')
+      .replace(/<[^>]+>/g, ' ')
+      .replace(/&nbsp;/g, ' ')
+      .replace(/\s+/g, ' ');
+    return EVENT_SOLD_OUT.some((re) => re.test(txt));
+  } catch { return false; }
+}
 async function wikipedia(name) {
   if (!name) return null;
   try {
@@ -127,6 +155,10 @@ async function wikipedia(name) {
         if (await ticketPageSoldOut(u)) { avail = 'SoldOut'; break; }
         await sleep(300);
       }
+    }
+    if (!avail) {
+      // Other hosts say it in the body. Read the page we actually link to, not a generic one.
+      if (await bodySoldOut(p.ticket_url)) { avail = 'SoldOut'; await sleep(300); }
     }
     if (avail === 'SoldOut') { score += 100; reasons.push('sold out on the ticket page'); }
     else if (avail === 'LimitedAvailability') { score += 70; reasons.push('ticket page says limited availability'); }

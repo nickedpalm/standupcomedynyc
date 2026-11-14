@@ -1463,7 +1463,7 @@
   "calendar_url": "https://www.symphonyspace.org/events",
   "kind": "theater",
   "needs_review": false,
-  "note": "Events grid page renders cleanly with dates and titles. No stand-up in the next 8 weeks; programming is Selected Shorts (literary readings with actors), the Thalia film series, and literary events like Eric Idle s Idle in Provence book event on Sep 29.",
+  "note": "Events grid page renders cleanly with dates and titles. No stand-up in the next 8 weeks; programming is Selected Shorts (literary readings with actors), the Thalia film series, and literary events like Eric Idle's Idle in Provence book event on Sep 29.",
   "verified_at": "2026-09-15"
  },
  {
@@ -1539,7 +1539,7 @@
   "calendar_url": "https://www.lincolncenter.org/venue/david-geffen-hall",
   "kind": "theater",
   "source_label": "Lincoln Center venue page",
-  "access_note": "NYCF Stand Up for Heroes benefit Nov 9 (the festival s marquee benefit show).",
+  "access_note": "NYCF Stand Up for Heroes benefit Nov 9 (the festival's marquee benefit show).",
   "verified_at": "2026-09-15"
  },
  {
@@ -1547,10 +1547,10 @@
   "address": "159 W 48th St, Manhattan",
   "neighborhood": "Times Square",
   "borough": "Manhattan",
-  "calendar_url": "https://www.hardrockhotelnyc.com/the-venue",
-  "source_label": "Hard Rock Hotel NYC venue page",
-  "access_note": "Hard Rock Hotel New York s The Venue on Music Row. NYCF uses it heavily: Ms. Pat (Nov 6 and 7, multiple shows), Jess Hilarious (Nov 13 and 14, multiple shows).",
-  "verified_at": "2026-09-15"
+  "calendar_url": "https://hotel.hardrock.com/new-york/",
+  "source_label": "Hard Rock Hotel New York venue page",
+  "access_note": "Hard Rock Hotel New York's The Venue on Music Row. NYCF uses it heavily: Ms. Pat (Nov 6 and 7, multiple shows), Jess Hilarious (Nov 13 and 14, multiple shows).",
+  "verified_at": "2026-11-13"
  },
  {
   "name": "Temple Emanu-El Streicker Center",
@@ -1771,5 +1771,18 @@
   "access_note": "A music room and restaurant in Clinton Hill with a raised stage, full backline and a house sound man. The venue's own pages say 'Located in Clinton Hill'; it also runs a house-band open mic on Wednesdays and the InspiredWordNYC open mic on Sunday afternoons and Monday nights.",
   "verified_at": "2026-11-10",
   "note": "Address 177 Vanderbilt Ave, Brooklyn NY 11205 comes from the room's own calendar and from the producer's Eventbrite pages. The neighborhood label follows the room's own wording, 'Clinton Hill'."
+ },
+ {
+  "name": "Friends and Lovers",
+  "address": "641 Classon Ave, Brooklyn",
+  "neighborhood": "Crown Heights",
+  "borough": "Brooklyn",
+  "website": "https://www.fnlbk.com/",
+  "calendar_url": "https://www.fnlbk.com/upcoming",
+  "source_label": "The room's own calendar page and its Eventbrite organizer page",
+  "access_note": "Crown Heights dance bar that also books comedy, live music and private parties. The room posts its own calendar of shows with dates, times and lineups, and sells comedy tickets on Eventbrite under its own organizer page. Hours of operation from the room's own site: Wednesdays 7pm-midnight, Thursday 7pm-2am, Friday and Saturday 7pm-4am, Sunday 5pm-midnight.",
+  "eventbrite_organizer": "https://www.eventbrite.com/o/10023790784",
+  "verified_at": "2026-11-13",
+  "note": "Room added from a Reddit lead (r/crownheights, Nov 12 2026) and confirmed on the room's own calendar page and its Eventbrite organizer page."
  }
 ]

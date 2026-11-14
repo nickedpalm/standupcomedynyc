@@ -959,3 +959,63 @@ Presents:"). Two of the 144 picks change; the other 142 are untouched.
 **Card deks rewritten to fit.** Five of the six new blurbs ran past the card's
 180-character cap, so the card showed a cut-off fragment while the caption
 showed the whole sentence. All six now fit whole on both.
+
+## Recovery of the 2026-11-13 runs (23:00 UTC)
+
+The 11:00, 19:00 and 20:30 crons all hit their tool-iteration cap and left their work
+uncommitted. The tree held 5 new picks, 21 corrections, 5 posters, a new venue and a
+heat.js change. Recovered and re-verified here before landing.
+
+**Sources opened and confirmed for the new picks:**
+- Friends and Lovers calendar (the room's own page):
+  https://www.fnlbk.com/upcoming
+- Boyz In The Woods Comedy (Fri Nov 13, 7pm, $14.64):
+  https://www.fnlbk.com/upcoming/2026/11/13/3tusjxkvbaz50b886uadnr8ljcizkn
+- Discount Philosophy (Sat Nov 14, 7pm):
+  https://www.fnlbk.com/upcoming/2026/11/14/discount-philosophy
+- Friends and Lovers Eventbrite organizer:
+  https://www.eventbrite.com/o/10023790784
+- The Lauren & Mary Show (Sat Nov 14, 7:30pm, Bell House):
+  https://www.livenation.com/event/1AdZZ_8GkUqAwHx/the-lauren-mary-show
+- Improv But Good (Mon Nov 16, 7pm, Bell House):
+  https://www.livenation.com/event/1FGZvPfVqtZ78v8e/improv-but-good
+- John Oliver & Seth Meyers, Beacon (Sun Dec 13, 7:30pm):
+  https://www.msg.com/events-tickets/john-oliver-seth-meyers-beacon-theatre-december-2026/3B006490928C2D6C
+- CopyFest Fundraiser, Littlefield (Fri Nov 13, 7pm, $18.71):
+  https://www.eventbrite.com/e/copyfest-fundraiser-three-sets-three-festivals-tickets-2002566206431
+- Jess Hilarious, Hard Rock (Fri Nov 13, 7pm + 9:45pm):
+  https://www.ticketweb.com/event/jess-hilarious-the-dont-play-the-venue-hard-rock-tickets/14246164
+  and the festival lineup page
+  https://nycomedyfestival.com/lineup/jess-hilarious-the-dont-play-wit-me-tour/
+- Dropout Improv, Kings Theatre (Fri Nov 13, 8pm):
+  https://nycomedyfestival.com/lineup/dropout-improv/
+- Ilana Glazer, Beacon (Fri Nov 13, 6:45pm):
+  https://nycomedyfestival.com/lineup/ilana-glazer/
+- NYCF schedule index (all 11/13-11/16 times and venues):
+  https://nycomedyfestival.com/schedule/
+- NYCC event pages for Kirson, Finnegan and Alyce Chan:
+  https://newyorkcomedyclub.com/events
+
+**Corrections made during this recovery (each re-checked against the source):**
+- Ilana Glazer's blurb claimed she opened the room "an hour earlier than the other festival
+  shows". False: two NYCF shows on Fri 11/13 start at 6:00pm, before her 6:45pm. Rewritten
+  to sell her on her own facts (Broad City, Human Magic).
+- Jess Hilarious at the Hard Rock: the room runs a two-drink minimum, $25 without alcohol and
+  $45 with. The price label now says so instead of "See ticket page for price".
+- Christian Finnegan's ticket_url pointed at the October taping
+  (christian-finnegan-live-special-taping-2026-10-18170000) instead of the Nov 22 one.
+  Repointed to the Nov 22 slug. NYCC's calendar lists a 5pm and a 7pm taping that night --
+  there is no 8pm -- so the blurb was corrected too.
+- Jessica Kirson Nov 23: the copy said the 9:30pm second set was "still selling". Both sets
+  read SOLD OUT on the page. Blurb and price label corrected.
+- Jeff Scheen Dec 1: Eventbrite's API shows Early Bird and Advance SOLD OUT and GA
+  ($35 + $4.79 fee) AVAILABLE. The blurb pointed at "the early show", which is now the sold-out
+  tier, so it was rewritten. The ticket page's "FEW TICKETS LEFT" badge is not a sold-out
+  signal and no going_fast tag was invented from it.
+- Hard Rock Hotel New York's venue calendar was moved to hotel.hardrock.com/new-york/; the
+  old hardrockhotelnyc.com host no longer resolves.
+
+**heat.js:** the stranded run added a body-level sold-out reader for ticket hosts that never
+say it in their structured data (NYCC's JSON-LD offers block still says InStock on a night
+whose own page says "This event is SOLD OUT"). Re-ran the scan board-wide: 6 sold out, all
+genuine, no false positives on the Eventbrite pages.
