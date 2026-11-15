@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-14T11:07:26.356Z",
- "performers_considered": 47,
+ "generated_at": "2026-11-15T11:18:04.648Z",
+ "performers_considered": 42,
  "shortlist": [
   {
    "name": "Jessica Kirson",
@@ -19,7 +19,7 @@
    "priority": 105
   },
   {
-   "name": "Daniel Sloss",
+   "name": "Michelle Wolf",
    "priority": 65
   },
   {
@@ -35,75 +35,22 @@
    "priority": 40
   },
   {
-   "name": "Michelle Wolf",
-   "priority": 40
+   "name": "Ania Magliano",
+   "priority": 37
   },
   {
-   "name": "Naomi Karavani Headlines",
+   "name": "Jake Velazquez",
    "priority": 35
   }
  ],
  "run": [
   {
-   "name": "Jacqueline Novak",
-   "priority": 45,
-   "next": {
-    "id": "jacqueline-novak-bell-house-2026-11-23",
-    "date": "2026-11-23",
-    "venue": "The Bell House",
-    "days": 9,
-    "featured": false,
-    "poster": true,
-    "demand": null
-   },
-   "cheap_signals": [
-    "Wikipedia: 365 views a day",
-    "Wikipedia views up 213% over the prior month"
-   ],
-   "reason": "in the decision window and not yet decided"
-  },
-  {
-   "name": "Michael Longfellow",
-   "priority": 40,
-   "next": {
-    "id": "michael-longfellow-union-hall-2026-11-16",
-    "date": "2026-11-16",
-    "venue": "Union Hall",
-    "days": 2,
-    "featured": false,
-    "poster": false,
-    "demand": null
-   },
-   "cheap_signals": [
-    "tickets available",
-    "Wikipedia: 357 views a day"
-   ],
-   "reason": "show within 3 days and not yet decided"
-  },
-  {
-   "name": "Jaboukie Young-White",
-   "priority": 40,
-   "next": {
-    "id": "jaboukie-young-white-bell-house-2026-11-17",
-    "date": "2026-11-17",
-    "venue": "The Bell House",
-    "days": 3,
-    "featured": false,
-    "poster": false,
-    "demand": null
-   },
-   "cheap_signals": [
-    "Wikipedia: 742 views a day"
-   ],
-   "reason": "show within 3 days and not yet decided"
-  },
-  {
-   "name": "Naomi Karavani Headlines",
+   "name": "Jake Velazquez",
    "priority": 35,
    "next": {
-    "id": "naomi-karavani-bushwick-comedy-2026-11-14",
-    "date": "2026-11-14",
-    "venue": "Bushwick Comedy Club",
+    "id": "jake-velazquez-special-nycc-2026-11-15",
+    "date": "2026-11-15",
+    "venue": "New York Comedy Club (Midtown)",
     "days": 0,
     "featured": false,
     "poster": true,
@@ -115,47 +62,62 @@
  ],
  "reuse": [
   {
-   "name": "Jessica Kirson",
-   "priority": 135,
-   "cached": {
-    "at": "2026-11-07T11:30:47.950Z",
-    "age_days": 7,
-    "fresh": true,
-    "note": "Reddit returned four threads in 30 days and every one is a name collision (Jessica Chastain, a Jessica Willis stylist, Jessica Szohr, a Jessica Tisch story); Hacker News was silent, so the NYCC Midtown Nov 17 date stands on the club's own listing with no online signal either way."
-   }
-  },
-  {
    "name": "Fahim Anwar",
    "priority": 120,
    "cached": {
     "at": "2026-11-09T13:44:03.919Z",
-    "age_days": 4.9,
+    "age_days": 5.9,
     "fresh": true,
     "note": "Two Reddit threads in 30 days and both are off-topic (r/Webseries, r/brandnew); Hacker News returned zero stories. No New York signal on the Bell House Nov 20 date, which is sold out at 7:30pm and has a second 10pm show."
    }
   },
   {
-   "name": "Daniel Sloss",
+   "name": "Michelle Wolf",
    "priority": 65,
    "cached": {
-    "at": "2026-11-07T11:30:47.913Z",
-    "age_days": 7,
+    "at": "2026-11-10T11:19:14.529Z",
+    "age_days": 5,
     "fresh": true,
-    "note": "Four Reddit threads in 30 days and none of them are about the Beacon date: two are ticket-resale posts for his Columbus and San Francisco Bitter shows, one is a Russell Brand podcast complaint, and Hacker News is silent, so the Nov 14 Beacon slot stands on the festival listing rather than on buzz."
+    "note": "Nothing usable in 30 days: Reddit returned three threads (a war-plane photo post, a relationship-advice update and a generic phrase match on 'conservative comedian') and Hacker News was silent, so the Town Hall Best Job in the World date rests on the festival listing."
    }
   },
   {
-   "name": "Michelle Wolf",
+   "name": "Jacqueline Novak",
+   "priority": 45,
+   "cached": {
+    "at": "2026-11-14T11:18:02.304Z",
+    "age_days": 1,
+    "fresh": true,
+    "note": "No New York signal in 30 days: Reddit returned only two Omaha show-list posts and Hacker News nothing, so the Bell House Nov 23 date rests on the room's own calendar."
+   }
+  },
+  {
+   "name": "Michael Longfellow",
    "priority": 40,
    "cached": {
-    "at": "2026-11-10T11:19:14.529Z",
-    "age_days": 4,
+    "at": "2026-11-14T11:18:02.201Z",
+    "age_days": 1,
     "fresh": true,
-    "note": "Nothing usable in 30 days: Reddit returned three threads (a war-plane photo post, a relationship-advice update and a generic phrase match on 'conservative comedian') and Hacker News was silent, so the Town Hall Best Job in the World date rests on the festival listing."
+    "note": "A LiveFromNewYork tour thread with 88 upvotes and 32 comments says he hits much harder live than on SNL clips, with several readers saying they cried laughing in Charlotte and one planning to catch his Monday Union Hall date; Hacker News had nothing."
+   }
+  },
+  {
+   "name": "Jaboukie Young-White",
+   "priority": 40,
+   "cached": {
+    "at": "2026-11-14T11:18:02.244Z",
+    "age_days": 1,
+    "fresh": true,
+    "note": "No signal at all in 30 days: Reddit returned one unrelated thread and Hacker News nothing, so the Bell House Nov 17 date rests on the room's own calendar."
    }
   }
  ],
  "skip": [
+  {
+   "name": "Jessica Kirson",
+   "priority": 135,
+   "reason": "already sold out; research cannot change the call"
+  },
   {
    "name": "Demetri Martin",
    "priority": 105,
@@ -167,17 +129,27 @@
    "reason": "already sold out; research cannot change the call"
   },
   {
-   "name": "Discount Philosophy",
-   "priority": 35,
-   "reason": "outside the top 10 by cheap ranking"
-  },
-  {
-   "name": "Jake Velazquez",
-   "priority": 35,
-   "reason": "outside the top 10 by cheap ranking"
+   "name": "Ania Magliano",
+   "priority": 37,
+   "reason": "next show in 17 days, outside the 10-day window"
   },
   {
    "name": "Matthew Broussard",
+   "priority": 35,
+   "reason": "outside the top 10 by cheap ranking"
+  },
+  {
+   "name": "Kel Cripe",
+   "priority": 35,
+   "reason": "outside the top 10 by cheap ranking"
+  },
+  {
+   "name": "Sean Patton",
+   "priority": 35,
+   "reason": "outside the top 10 by cheap ranking"
+  },
+  {
+   "name": "Kylie Vincent",
    "priority": 35,
    "reason": "outside the top 10 by cheap ranking"
   },
@@ -187,13 +159,8 @@
    "reason": "outside the top 10 by cheap ranking"
   },
   {
-   "name": "Ania Magliano",
-   "priority": 25,
-   "reason": "outside the top 10 by cheap ranking"
-  },
-  {
-   "name": "Kylie Vincent",
-   "priority": 20,
+   "name": "Gavin Matts",
+   "priority": 30,
    "reason": "outside the top 10 by cheap ranking"
   },
   {
@@ -208,46 +175,6 @@
   },
   {
    "name": "Judy Gold",
-   "priority": 20,
-   "reason": "outside the top 10 by cheap ranking"
-  },
-  {
-   "name": "Get Work",
-   "priority": 20,
-   "reason": "outside the top 10 by cheap ranking"
-  },
-  {
-   "name": "Modern Whitney",
-   "priority": 20,
-   "reason": "outside the top 10 by cheap ranking"
-  },
-  {
-   "name": "Lukas McCrary",
-   "priority": 20,
-   "reason": "outside the top 10 by cheap ranking"
-  },
-  {
-   "name": "College Radio",
-   "priority": 20,
-   "reason": "outside the top 10 by cheap ranking"
-  },
-  {
-   "name": "Holly Miranda",
-   "priority": 20,
-   "reason": "outside the top 10 by cheap ranking"
-  },
-  {
-   "name": "Melissa Ferrick",
-   "priority": 20,
-   "reason": "outside the top 10 by cheap ranking"
-  },
-  {
-   "name": "Denise Taylor",
-   "priority": 20,
-   "reason": "outside the top 10 by cheap ranking"
-  },
-  {
-   "name": "Business Casual",
    "priority": 20,
    "reason": "outside the top 10 by cheap ranking"
   },
@@ -272,17 +199,12 @@
    "reason": "outside the top 10 by cheap ranking"
   },
   {
-   "name": "Kel Cripe",
-   "priority": 20,
-   "reason": "outside the top 10 by cheap ranking"
-  },
-  {
    "name": "Keegan Tindall",
    "priority": 20,
    "reason": "outside the top 10 by cheap ranking"
   },
   {
-   "name": "Sean Patton",
+   "name": "Attention Deficit",
    "priority": 20,
    "reason": "outside the top 10 by cheap ranking"
   },
@@ -297,22 +219,32 @@
    "reason": "outside the top 10 by cheap ranking"
   },
   {
+   "name": "Sing",
+   "priority": 20,
+   "reason": "outside the top 10 by cheap ranking"
+  },
+  {
+   "name": "Tell",
+   "priority": 20,
+   "reason": "outside the top 10 by cheap ranking"
+  },
+  {
+   "name": "Hotel Art Thief",
+   "priority": 20,
+   "reason": "outside the top 10 by cheap ranking"
+  },
+  {
+   "name": "Ryan Davis",
+   "priority": 11,
+   "reason": "outside the top 10 by cheap ranking"
+  },
+  {
    "name": "Ismael Loutfi",
    "priority": 5,
    "reason": "outside the top 10 by cheap ranking"
   },
   {
    "name": "Gina Brillon",
-   "priority": 5,
-   "reason": "outside the top 10 by cheap ranking"
-  },
-  {
-   "name": "Gavin Matts",
-   "priority": 5,
-   "reason": "outside the top 10 by cheap ranking"
-  },
-  {
-   "name": "Ryan Davis",
    "priority": 5,
    "reason": "outside the top 10 by cheap ranking"
   },
@@ -332,12 +264,22 @@
    "reason": "outside the top 10 by cheap ranking"
   },
   {
+   "name": "Do It",
+   "priority": 5,
+   "reason": "outside the top 10 by cheap ranking"
+  },
+  {
    "name": "Epic B",
    "priority": 5,
    "reason": "outside the top 10 by cheap ranking"
   },
   {
    "name": "Uproot Andy",
+   "priority": 5,
+   "reason": "outside the top 10 by cheap ranking"
+  },
+  {
+   "name": "Reggae Rewind",
    "priority": 5,
    "reason": "outside the top 10 by cheap ranking"
   },
@@ -352,9 +294,9 @@
    "reason": "outside the top 10 by cheap ranking"
   }
  ],
- "estimated_tokens_saved": 387000,
- "estimate_basis": "9000 tokens per last30days run, 43 runs avoided out of 47",
+ "estimated_tokens_saved": 369000,
+ "estimate_basis": "9000 tokens per last30days run, 41 runs avoided out of 42",
  "no_recent_data": [
-  "Naomi Karavani Headlines"
+  "Jake Velazquez"
  ]
 }

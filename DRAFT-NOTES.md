@@ -1070,3 +1070,101 @@ rotated off the board, and the board now starts at Nov 14.
 Comedy (Union Hall, tonight 7:30pm) is now genuinely sold out — the Eventbrite page
 renders "TICKETS SOLD OUT" and the API returns is_sold_out true — so it stays on the
 board but drops out of tonight's carousel and the caption.
+
+## 2026-11-15 — recovery of the stranded 11:00 edition run
+
+The 11:00 edition run hit its tool-iteration cap after writing 17 picks and 11
+posters but before running `npm test`, committing or pushing. Its work was
+re-verified here before landing, and three of its records were wrong.
+
+**Fixed before commit:**
+- Three posters were downloaded as webp and then converted to JPEG, so the
+  POSTER-SOURCES records still carried the webp byte count, sha256 and
+  `null` dimensions, and the picks carried `null` dimensions too. All three
+  now match the files on disk: Keegan Tindall and Colin Armstrong (300x300),
+  Stand-Up Comedy NYC (1200x676), Late Night Stand-Up NYC (1121x632).
+- **Mixtape Comedy Show** (Gotham, Dec 20) had `price_amount: null` and no
+  `price_label`, which fails `npm test`. The ticket page on Leap lists
+  Admission at $30.00 plus a $4.50 service fee, so the pick now reads
+  "$34.50 all-in ($30.00 + $4.50 service fee)". The Gotham page itself
+  confirms the 7:00pm showtime and the two-drink minimum.
+- The **Hobocop** blurb read "Candyce Cook hosts the Christmas Eve edition of
+  the Thursday night series in the MacDougal Street room" — a listing, not a
+  reason to go, and `npm test` flagged it. The Grisly Pear page names
+  Candyce Cook as the only featured act, so the blurb now says that is what
+  the night is: a one-comic show in the MacDougal Street room.
+
+**Re-verified against the sources, all 17 picks:**
+- Six Eventbrite shows (Keegan Tindall and Colin Armstrong, Attention Deficit,
+  You Can Call Me Al!, Hotel Art Thief, DELIADELIA! CURSED!, Meat Cats
+  Saturday Sauce) — Eventbrite API confirms name, start time, end time and
+  the after-fees price on every one.
+- The four New York Comedy Club and Grisly Pear shows — the venue own pages
+  confirm date, time and the ticket tiers, including the $29 + $6.20 GA and
+  $39 + $7.07 premium split on the Christmas Eve bills.
+- Gotham Mixtape (Leap ticket page), Comedy In Harlem R and B Karaoke, St.
+  Marks Kosher Chinese and the two Upper East Side Comedy Club shows.
+
+**Horizon:** week 6 (Dec 20-26) was the thin week with 5 picks. It now has
+16, so every one of the next six weeks clears the 8-pick floor.
+
+**Link-in-bio:** the festival count is 5, down from 10. `count_nycf.py`
+reproduces all five published figures (31, 32, 33, 34, 33) against this
+tree before the number is trusted — the drop is real: the Nov 6-13 festival
+shows have rotated off the board.
+
+## 2026-11-15 — the 19:00 IG run re-verified tonight's board before publishing
+
+The IG run found real errors on the shows that were about to go on the
+carousel, so the copy was fixed before anything was published.
+
+**Tonight's blurb errors, each checked against the show's own page:**
+- **Kel Cripe** credited "Zavior Phillips" as the opener. The festival page
+  and the Eventbrite listing both name **Oba Olaniyi**, Alistair Ogden and
+  Jo Sunday. Fixed.
+- **Jake Velazquez** was called "a Riverdale native". NYCC's own bio says
+  "a native New Yorker" — Riverdale was never stated. The blurb now says
+  what NYCC does say: four years opening for Jordan Jensen, including her
+  Netflix special.
+- **Matthew Broussard** claimed "the Set List", a "Conan-circuit clean Texas
+  set" and a "Dry Bar and a half-hour". None of that is on the Live Nation
+  page, the Bell House calendar or his own site. The Bell House calendar
+  lists **two Broussard shows** on Sunday, and his debut full-length special
+  is **Hyperbolic**. The blurb now says that.
+- **Comfy Clash** told readers to arrive half an hour early for general
+  admission seating, which the Eastville page does not say. The page does
+  say **over 300 comics** compete for a spot in the final, so the blurb
+  leads with that.
+- **Mojo Brookzz** pointed at the Beacon's generic calendar page instead of
+  the show's tickets. The festival has two Beacon sets that day (6:30pm and
+  9:30pm) and our pick is the 6:30pm, so `ticket_url` is now that show's own
+  Ticketmaster event and `source_url` is its festival lineup page.
+- **A Very Jewdy Christmas** claimed Judy Gold was "two doors down" from her
+  own 8:30pm show. Both shows are in the **same Upper West Side room**; she
+  plays it twice, at 6:15 and 8:30.
+- **Laughing Buddha** was placed "in the Buddha Room", but the NYCC matinee
+  is staged at NYCC's Upper West Side room (410 8th Ave is a different
+  address). The blurb now describes the 4pm matinee and its eleven-comic bill.
+
+**Also corrected off tonight's board:**
+- **Mixtape Comedy Show** (Gotham, Dec 20) was priced at $34.50 all-in
+  ($30.00 + $4.50 fee). The Leap checkout for this show lists Admission at
+  **$30.00 + $7.16** service fee, so the pick now reads **$37.16 all-in**.
+- **HOBOCOP** (Grisly Pear, Dec 24) called itself "the Thursday night
+  series", which was an inference. The room's page names the show HOBOCOP.
+- **R&B Karaoke** (Comedy In Harlem, Dec 21) said DJ K Swift played "between
+  the songs"; the room's page says he is the music for the night.
+- The **Kel Cripe** poster alt said Kel is holding a mic stand; he is holding
+  a microphone. Fixed in both the pick and POSTER-SOURCES.
+
+**Two card deks were cut mid-sentence** by the 180-character card cap
+(Velazquez ended at "Take Me." and Broussard dropped his Bell House clause).
+All nine rewritten blurbs now fit the card cap whole, verified with
+`scripts/blurb.js` before the cards were re-rendered.
+
+**Re-verified for tonight, all eight shows live and not sold out:** the six
+Eventbrite shows through the Eventbrite API (`is_sold_out` false, tickets
+available), Kel Cripe and Misfit Variety through their Eventbrite listings,
+Eastville through its own pages, Jake Velazquez through NYCC and the festival
+lineup page, Mojo Brookzz through Ticketmaster and the festival page, and
+Broussard through the Bell House calendar on Live Nation.

@@ -487,3 +487,26 @@ Generated from `npm run heat` + `npm run research-plan`.
 ## Demand tags read today
 - **Sold out:** Maddy Kelly (Union Hall, Nov 11), TJ Miller Live! (Comic Strip Live, Nov 11), Fahim Anwar (Bell House, Nov 20).
 - **Going fast:** Ruperto Vanderpool's Comic Strip Nov 14 bill (a second show the same night at the same room).
+
+# Heat notes — 2026-11-15
+Generated from `npm run heat` + `npm run research-plan` (last30days for the one name under `run`; reuse cached notes for the five under `reuse`).
+
+## Rankings
+- 42 performers ranked from static data
+- Run 1 (Jake Velazquez), reuse 5 cached, skip 36
+- ~369,000 tokens saved from the research-plan
+
+## Run notes
+- **Jake Velazquez** (New York Comedy Club Midtown, Nov 15): nothing usable in 30 days — Reddit came back rate-limited (HTTP 429) and Hacker News returned only one unrelated story about a Mac app for running local AI models. The New York Comedy Club Nov 15 special taping rests on the club's own listing.
+
+## Reuse notes (already cached under 7d)
+- **Jaboukie Young-White** (Bell House, Nov 17): no signal at all in 30 days; Hacker News nothing.
+- **Naomi Karavani** (Bushwick, Nov 14): Reddit has the promoter asking for a focus group at her special, with a cluster of replies.
+- **Jacqueline Novak** (Bell House, Nov 23-24): only two Omaha show-list posts, no New York signal.
+
+## Ranked on schedule alone
+- Jake Velazquez is the one name with no recent data — he is ranked on schedule alone, and the pick stands on the venue listing.
+
+## Demand tags read today
+- **Sold out:** Jessica Kirson (New York Comedy Club Midtown, Nov 17 and Nov 23), Fahim Anwar (Bell House, Nov 20), Demetri Martin (Bell House, Dec 4 and Dec 5), Alyce Chan (New York Comedy Club Upper West Side, Dec 8).
+- **Going fast:** none. The closest signal is Michelle Wolf (Town Hall, Nov 19) at heat 50 — four Reddit threads, 449 upvotes, and Wikipedia views up 64% over the prior month — but the ticket page does not say tickets are running low, so no tag.

@@ -1,8 +1,8 @@
 {
  "source": "https://www.badslava.com/new-york-open-mics.php",
- "retrieved_at": "2026-11-14T11:03:12.777Z",
+ "retrieved_at": "2026-11-15T11:01:29.571Z",
  "note": "Crowd-sourced listing. Verify against the venue before adding to web/data/open-mics.json.",
- "dated_rows": 316,
+ "dated_rows": 315,
  "recurring": [
   {
    "venue": "Greenwich Village Comedy Club",
@@ -106,6 +106,19 @@
     "2026-11-15"
    ],
    "in_open_mics": true,
+   "venue_registered": true
+  },
+  {
+   "venue": "Laughing Buddha Comedy",
+   "address": "410 8th Ave 2nd floor New York NY",
+   "weekday": 0,
+   "weekday_name": "Sunday",
+   "time": "3:30pm",
+   "details_url": "https://badslava.com/details.php?id=53648",
+   "dates": [
+    "2026-11-15"
+   ],
+   "in_open_mics": false,
    "venue_registered": true
   },
   {
@@ -367,19 +380,6 @@
    ],
    "in_open_mics": false,
    "venue_registered": false
-  },
-  {
-   "venue": "Laughing Buddha Comedy",
-   "address": "410 8th Ave 2nd floor New York NY",
-   "weekday": 0,
-   "weekday_name": "Sunday",
-   "time": "8:00pm",
-   "details_url": "https://badslava.com/details.php?id=53648",
-   "dates": [
-    "2026-11-15"
-   ],
-   "in_open_mics": false,
-   "venue_registered": true
   },
   {
    "venue": "Liffy II Bar",
@@ -3795,7 +3795,7 @@
    "time": "10:00pm",
    "details_url": "https://badslava.com/details.php?id=31843",
    "dates": [
-    "2026-11-14"
+    "2026-11-21"
    ],
    "in_open_mics": true,
    "venue_registered": true
@@ -3808,7 +3808,7 @@
    "time": "11:00pm",
    "details_url": "https://badslava.com/details.php?id=32174",
    "dates": [
-    "2026-11-14"
+    "2026-11-21"
    ],
    "in_open_mics": true,
    "venue_registered": true
@@ -3821,7 +3821,7 @@
    "time": "11:30pm",
    "details_url": "https://badslava.com/details.php?id=33197",
    "dates": [
-    "2026-11-14"
+    "2026-11-21"
    ],
    "in_open_mics": false,
    "venue_registered": true
@@ -3834,7 +3834,7 @@
    "time": "11:45pm",
    "details_url": "https://badslava.com/details.php?id=14055",
    "dates": [
-    "2026-11-14"
+    "2026-11-21"
    ],
    "in_open_mics": false,
    "venue_registered": false
@@ -3847,7 +3847,7 @@
    "time": "2:00pm",
    "details_url": "https://badslava.com/details.php?id=50555",
    "dates": [
-    "2026-11-14"
+    "2026-11-21"
    ],
    "in_open_mics": false,
    "venue_registered": true
@@ -3860,7 +3860,7 @@
    "time": "2:30pm",
    "details_url": "https://badslava.com/details.php?id=10558",
    "dates": [
-    "2026-11-14"
+    "2026-11-21"
    ],
    "in_open_mics": false,
    "venue_registered": true
@@ -3873,7 +3873,7 @@
    "time": "3:00pm",
    "details_url": "https://badslava.com/details.php?id=9967",
    "dates": [
-    "2026-11-14"
+    "2026-11-21"
    ],
    "in_open_mics": false,
    "venue_registered": true
@@ -3886,7 +3886,7 @@
    "time": "3:00pm",
    "details_url": "https://badslava.com/details.php?id=15274",
    "dates": [
-    "2026-11-14"
+    "2026-11-21"
    ],
    "in_open_mics": true,
    "venue_registered": true
@@ -3899,7 +3899,7 @@
    "time": "3:30pm",
    "details_url": "https://badslava.com/details.php?id=35891",
    "dates": [
-    "2026-11-14"
+    "2026-11-21"
    ],
    "in_open_mics": false,
    "venue_registered": true
@@ -3912,7 +3912,7 @@
    "time": "4:00pm",
    "details_url": "https://badslava.com/details.php?id=50543",
    "dates": [
-    "2026-11-14"
+    "2026-11-21"
    ],
    "in_open_mics": false,
    "venue_registered": true
@@ -3925,7 +3925,7 @@
    "time": "5:00pm",
    "details_url": "https://badslava.com/details.php?id=13725",
    "dates": [
-    "2026-11-14"
+    "2026-11-21"
    ],
    "in_open_mics": true,
    "venue_registered": true
@@ -3938,7 +3938,7 @@
    "time": "5:00pm",
    "details_url": "https://badslava.com/details.php?id=42432",
    "dates": [
-    "2026-11-14"
+    "2026-11-21"
    ],
    "in_open_mics": false,
    "venue_registered": true
@@ -3951,7 +3951,7 @@
    "time": "5:00pm",
    "details_url": "https://badslava.com/details.php?id=53347",
    "dates": [
-    "2026-11-14"
+    "2026-11-21"
    ],
    "in_open_mics": false,
    "venue_registered": true
@@ -3964,7 +3964,7 @@
    "time": "5:00pm",
    "details_url": "https://badslava.com/details.php?id=61300",
    "dates": [
-    "2026-11-14"
+    "2026-11-21"
    ],
    "in_open_mics": false,
    "venue_registered": true
@@ -3977,7 +3977,7 @@
    "time": "6:00pm",
    "details_url": "https://badslava.com/details.php?id=31842",
    "dates": [
-    "2026-11-14"
+    "2026-11-21"
    ],
    "in_open_mics": true,
    "venue_registered": true
@@ -3990,7 +3990,7 @@
    "time": "6:00pm",
    "details_url": "https://badslava.com/details.php?id=61301",
    "dates": [
-    "2026-11-14"
+    "2026-11-21"
    ],
    "in_open_mics": false,
    "venue_registered": true
@@ -4003,7 +4003,7 @@
    "time": "6:30pm",
    "details_url": "https://badslava.com/details.php?id=13783",
    "dates": [
-    "2026-11-14"
+    "2026-11-21"
    ],
    "in_open_mics": false,
    "venue_registered": true
@@ -4016,7 +4016,7 @@
    "time": "6:30pm",
    "details_url": "https://badslava.com/details.php?id=30410",
    "dates": [
-    "2026-11-14"
+    "2026-11-21"
    ],
    "in_open_mics": true,
    "venue_registered": true
@@ -4029,7 +4029,7 @@
    "time": "6:30pm",
    "details_url": "https://badslava.com/details.php?id=48474",
    "dates": [
-    "2026-11-14"
+    "2026-11-21"
    ],
    "in_open_mics": false,
    "venue_registered": true
@@ -4042,7 +4042,7 @@
    "time": "7:00pm",
    "details_url": "https://badslava.com/details.php?id=10052",
    "dates": [
-    "2026-11-14"
+    "2026-11-21"
    ],
    "in_open_mics": false,
    "venue_registered": true
@@ -4055,7 +4055,7 @@
    "time": "7:30pm",
    "details_url": "https://badslava.com/details.php?id=61302",
    "dates": [
-    "2026-11-14"
+    "2026-11-21"
    ],
    "in_open_mics": false,
    "venue_registered": true
@@ -4068,20 +4068,7 @@
    "time": "8:00pm",
    "details_url": "https://badslava.com/details.php?id=57997",
    "dates": [
-    "2026-11-14"
-   ],
-   "in_open_mics": false,
-   "venue_registered": true
-  },
-  {
-   "venue": "Balance Arts Center",
-   "address": "151 W 30th St 3rd floor New York NY",
-   "weekday": 6,
-   "weekday_name": "Saturday",
-   "time": "8:00pm",
-   "details_url": "https://badslava.com/details.php?id=58507",
-   "dates": [
-    "2026-11-14"
+    "2026-11-21"
    ],
    "in_open_mics": false,
    "venue_registered": true
@@ -4094,7 +4081,7 @@
    "time": "8:30pm",
    "details_url": "https://badslava.com/details.php?id=61303",
    "dates": [
-    "2026-11-14"
+    "2026-11-21"
    ],
    "in_open_mics": false,
    "venue_registered": true
@@ -4107,7 +4094,7 @@
    "time": "9:00pm",
    "details_url": "https://badslava.com/details.php?id=10053",
    "dates": [
-    "2026-11-14"
+    "2026-11-21"
    ],
    "in_open_mics": false,
    "venue_registered": true

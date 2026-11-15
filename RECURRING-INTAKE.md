@@ -901,3 +901,16 @@ pages:
 Note for the next edition: the room runs a house-band open mic ("Legendary
 Locals") every Wednesday at 8pm. It is not on the board yet — the calendar
 lists it per-date, so it needs a source that names the recurrence.
+
+## 2026-11-15
+
+Nothing added to the recurring records today. The edition run that died at its
+tool cap added 17 dated shows only — no new weekly room, open mic or club.
+Still open from that run: **Eastville Comedy Club is not in `clubs.json`** and is
+the next club to add. It already has a registry entry with its real
+address (487 Atlantic Avenue, Boerum Hill) and appears on the board as a
+venue, so what is missing is the club-guide entry, not the room.
+
+Also noted for the next open-mic pass: Badslava carried one new row,
+Laughing Buddha Sunday 3:30pm, but the room own page lists Wednesday and
+Thursday mics only, so it was not confirmed and not added.

@@ -1,5 +1,5 @@
 {
- "retrieved_at": "2026-11-14T11:03:33.181Z",
+ "retrieved_at": "2026-11-15T11:01:51.902Z",
  "note": "Promoter posts from NYC neighborhood subreddits, last 14 days. Leads only: open the linked page or the venue site before anything enters the data; register the venue first.",
  "subreddits": [
   "nycevents",
@@ -27,6 +27,38 @@
  ],
  "leads": [
   {
+   "id": "1xwj8ty",
+   "date": "2026-11-15",
+   "subreddit": "nycevents",
+   "title": "We're back Nov 19 with an all new, fantastic lineup of comics (comedian bios at ticket link). Our last three shows sold out and we've got 4 tickets left for this one, so grab a seat and come have fun. East Village - $15",
+   "score": 1,
+   "comments": 1,
+   "url": "https://www.reddit.com/r/nycevents/comments/1xwj8ty/were_back_nov_19_with_an_all_new_fantastic_lineup/",
+   "venues_mentioned": [],
+   "when_mentioned": null,
+   "time_mentioned": null,
+   "links": [],
+   "free": false,
+   "new_since_last_run": true,
+   "excerpt": ""
+  },
+  {
+   "id": "1xwixdq",
+   "date": "2026-11-15",
+   "subreddit": "nycevents",
+   "title": "I’m a Ukrainian refugee chasing a stand-up dream. Performing at Gotham in NYC this Monday, November 16 — could really use your support.",
+   "score": 1,
+   "comments": 0,
+   "url": "https://www.reddit.com/r/nycevents/comments/1xwixdq/im_a_ukrainian_refugee_chasing_a_standup_dream/",
+   "venues_mentioned": [],
+   "when_mentioned": "Monday, November 16 — could really use your su",
+   "time_mentioned": null,
+   "links": [],
+   "free": false,
+   "new_since_last_run": true,
+   "excerpt": ""
+  },
+  {
    "id": "1xvpz2e",
    "date": "2026-11-14",
    "subreddit": "nycevents",
@@ -43,7 +75,7 @@
     "https://www.caveat.nyc/events/fun-in-moderation-sketch-comedy-2026-11-14"
    ],
    "free": false,
-   "new_since_last_run": true,
+   "new_since_last_run": false,
    "excerpt": "https://www.caveat.nyc/events/fun-in-moderation-sketch-comedy-2026-11-14"
   },
   {
@@ -63,7 +95,7 @@
     "https://www.caveat.nyc/events/fun-in-moderation-sketch-comedy-2026-11-14"
    ],
    "free": false,
-   "new_since_last_run": true,
+   "new_since_last_run": false,
    "excerpt": "https://www.caveat.nyc/events/fun-in-moderation-sketch-comedy-2026-11-14"
   },
   {
@@ -83,8 +115,62 @@
     "https://www.caveat.nyc/events/fun-in-moderation-sketch-comedy-2026-11-14"
    ],
    "free": false,
-   "new_since_last_run": true,
+   "new_since_last_run": false,
    "excerpt": "https://www.caveat.nyc/events/fun-in-moderation-sketch-comedy-2026-11-14"
+  },
+  {
+   "id": "1xwgiwn",
+   "date": "2026-11-14",
+   "subreddit": "Bushwick",
+   "title": "The Tuesday 7pm Show at Bibblebash Off the Halsey J Returns 11/17",
+   "score": 4,
+   "comments": 0,
+   "url": "https://www.reddit.com/r/Bushwick/comments/1xwgiwn/the_tuesday_7pm_show_at_bibblebash_off_the_halsey/",
+   "venues_mentioned": [
+    "Bibblebash"
+   ],
+   "when_mentioned": "Tuesday 7pm Show at Bibblebash Off the Halsey J",
+   "time_mentioned": "7pm",
+   "links": [
+    "https://grime-square.com/2026/07/26/bibblebash-laramie-flick-comedy-club-opening/"
+   ],
+   "free": true,
+   "new_since_last_run": true,
+   "excerpt": "I use my cellar in the quiet part of Bushwick for free comedy shows on Tuesday as well as an open mic Friday at 10 and midnight. After a 4 month hiatus for personal reasons, we return with a fantastic lineup. Free beer while supplies last or purchase whatever at the deli across t"
+  },
+  {
+   "id": "1xw7tbp",
+   "date": "2026-11-14",
+   "subreddit": "astoria",
+   "title": "I have a few free tickets for this comedy show at QED tonight, DM if interested",
+   "score": 3,
+   "comments": 0,
+   "url": "https://www.reddit.com/r/astoria/comments/1xw7tbp/i_have_a_few_free_tickets_for_this_comedy_show_at/",
+   "venues_mentioned": [],
+   "when_mentioned": null,
+   "time_mentioned": null,
+   "links": [],
+   "free": true,
+   "new_since_last_run": true,
+   "excerpt": ""
+  },
+  {
+   "id": "1xwgk13",
+   "date": "2026-11-14",
+   "subreddit": "BedStuy",
+   "title": "The Tuesday 7pm Show at Bibblebash Off the Halsey J Returns 11/17",
+   "score": 2,
+   "comments": 0,
+   "url": "https://www.reddit.com/r/BedStuy/comments/1xwgk13/the_tuesday_7pm_show_at_bibblebash_off_the_halsey/",
+   "venues_mentioned": [
+    "Bibblebash"
+   ],
+   "when_mentioned": "Tuesday 7pm Show at Bibblebash Off the Halsey J",
+   "time_mentioned": "7pm",
+   "links": [],
+   "free": true,
+   "new_since_last_run": true,
+   "excerpt": "I use my cellar a block from Bar Cornelia for free comedy shows on Tuesday as well as an open mic Friday at 10 and midnight (mixed in with 10pm shows). We've returned after a 4 month hiatus for a limited run. This Tuesday Rob Cantrell headlines. Rob was a finalist from Last Comic"
   },
   {
    "id": "1xv9nzu",
@@ -101,7 +187,7 @@
    "time_mentioned": null,
    "links": [],
    "free": false,
-   "new_since_last_run": true,
+   "new_since_last_run": false,
    "excerpt": "I know it’s a long shot, anyone selling tickets for tonight’s (11/13) show?"
   },
   {
@@ -119,7 +205,7 @@
     "http://onein35.com"
    ],
    "free": false,
-   "new_since_last_run": true,
+   "new_since_last_run": false,
    "excerpt": "6 seats left. Tix and comedian bios at [onein35.com](http://onein35.com)"
   },
   {
@@ -135,7 +221,7 @@
    "time_mentioned": null,
    "links": [],
    "free": false,
-   "new_since_last_run": true,
+   "new_since_last_run": false,
    "excerpt": "Dont think i can make it, can give tix at 2 for 1"
   },
   {
@@ -143,7 +229,7 @@
    "date": "2026-11-12",
    "subreddit": "Brooklyn",
    "title": "Haiders Mutual Aid Comedy Show benefitting North Brooklyn Mutual Aid | Sun 12/6 @ 7pm",
-   "score": 1,
+   "score": 2,
    "comments": 0,
    "url": "https://www.reddit.com/r/Brooklyn/comments/1xum1hj/haiders_mutual_aid_comedy_show_benefitting_north/",
    "venues_mentioned": [
@@ -153,7 +239,7 @@
    "time_mentioned": "7pm",
    "links": [],
    "free": false,
-   "new_since_last_run": true,
+   "new_since_last_run": false,
    "excerpt": "Hey Brooklyn! I'm producing a mutual aid comedy show on Sunday 12/6 at 7pm at Greenpoint Comedy Club. The lineup is solid and features Jake Cornell, Orion Levine, James Tom, Claire Parker, and Juicy Mawma. All proceeds benefit North Brooklyn Mutual Aid! Hope to see you there. Inc"
   },
   {
@@ -161,7 +247,7 @@
    "date": "2026-11-12",
    "subreddit": "Brooklyn",
    "title": "Owning a business &amp; other stories",
-   "score": 4,
+   "score": 5,
    "comments": 1,
    "url": "https://www.reddit.com/r/Brooklyn/comments/1xtzzki/owning_a_business_other_stories/",
    "venues_mentioned": [
@@ -179,7 +265,7 @@
    "date": "2026-11-12",
    "subreddit": "parkslope",
    "title": "This weekend there’s a marathon of comedy acts in Park Slope as part for the NY Comedy Fest and a marathon reading of ‘The Power Broker’ under the shadow of the BQE in Gowanus.",
-   "score": 7,
+   "score": 8,
    "comments": 1,
    "url": "https://www.reddit.com/r/parkslope/comments/1xubv8o/this_weekend_theres_a_marathon_of_comedy_acts_in/",
    "venues_mentioned": [],
@@ -187,7 +273,7 @@
    "time_mentioned": null,
    "links": [],
    "free": false,
-   "new_since_last_run": true,
+   "new_since_last_run": false,
    "excerpt": ""
   },
   {
@@ -195,7 +281,7 @@
    "date": "2026-11-12",
    "subreddit": "crownheights",
    "title": "I host a comedy show at Friends and Lovers!",
-   "score": 4,
+   "score": 6,
    "comments": 3,
    "url": "https://www.reddit.com/r/crownheights/comments/1xukre0/i_host_a_comedy_show_at_friends_and_lovers/",
    "venues_mentioned": [
@@ -205,7 +291,7 @@
    "time_mentioned": null,
    "links": [],
    "free": false,
-   "new_since_last_run": true,
+   "new_since_last_run": false,
    "excerpt": "Hey yall, hope reddit treating you right. My names Tawanda Gona, Im a comedian in the city. Long story short short story shorter, Im hosting a show this Friday at Friends and Lovers and Id love to see some of yall there! I wanna tell jokes about Nvidia and Landlords, yall would m"
   },
   {
@@ -343,7 +429,7 @@
    "date": "2026-11-11",
    "subreddit": "williamsburg",
    "title": "Owning a comedy &amp; other stories",
-   "score": 34,
+   "score": 30,
    "comments": 6,
    "url": "https://www.reddit.com/r/williamsburg/comments/1xtnr9t/owning_a_comedy_other_stories/",
    "venues_mentioned": [
@@ -361,7 +447,7 @@
    "date": "2026-11-11",
    "subreddit": "williamsburg",
    "title": "Interactive Comedy Show TONIGHT at Brooklyn Improv!",
-   "score": 2,
+   "score": 3,
    "comments": 0,
    "url": "https://www.reddit.com/r/williamsburg/comments/1xta8go/interactive_comedy_show_tonight_at_brooklyn_improv/",
    "venues_mentioned": [
@@ -400,7 +486,7 @@
    "subreddit": "Bushwick",
    "title": "Saturday 11/14 6pm preparing for a special (BYOB)",
    "score": 2,
-   "comments": 7,
+   "comments": 8,
    "url": "https://www.reddit.com/r/Bushwick/comments/1xtpuct/saturday_1114_6pm_preparing_for_a_special_byob/",
    "venues_mentioned": [
     "Bushwick Comedy Club"
@@ -515,7 +601,7 @@
    "date": "2026-11-10",
    "subreddit": "williamsburg",
    "title": "Hi I am local comedian doing a comedy/history show on Wednesday about the early Russian empire",
-   "score": 24,
+   "score": 23,
    "comments": 7,
    "url": "https://www.reddit.com/r/williamsburg/comments/1xt0ck1/hi_i_am_local_comedian_doing_a_comedyhistory_show/",
    "venues_mentioned": [],
@@ -549,7 +635,7 @@
    "date": "2026-11-10",
    "subreddit": "astoria",
    "title": "Post Thanksgiving comedy show at QED",
-   "score": 6,
+   "score": 5,
    "comments": 0,
    "url": "https://www.reddit.com/r/astoria/comments/1xsre4l/post_thanksgiving_comedy_show_at_qed/",
    "venues_mentioned": [],
@@ -639,7 +725,7 @@
    "date": "2026-11-09",
    "subreddit": "williamsburg",
    "title": "Free Comedy Show @ Rose's R&amp;R Bar in Williamsburg!",
-   "score": 3,
+   "score": 4,
    "comments": 0,
    "url": "https://www.reddit.com/r/williamsburg/comments/1xs0o2q/free_comedy_show_roses_rr_bar_in_williamsburg/",
    "venues_mentioned": [],
@@ -675,7 +761,7 @@
    "date": "2026-11-09",
    "subreddit": "lowereastside",
    "title": "Bars that are chill on a Saturday night?",
-   "score": 7,
+   "score": 6,
    "comments": 15,
    "url": "https://www.reddit.com/r/lowereastside/comments/1xry4an/bars_that_are_chill_on_a_saturday_night/",
    "venues_mentioned": [
@@ -731,7 +817,7 @@
    "date": "2026-11-09",
    "subreddit": "Greenpoint",
    "title": "selling a 7pm ticket for James Acaster at Greenpoint Comedy Club tonight",
-   "score": 1,
+   "score": 3,
    "comments": 2,
    "url": "https://www.reddit.com/r/Greenpoint/comments/1xs6i2y/selling_a_7pm_ticket_for_james_acaster_at/",
    "venues_mentioned": [
@@ -1137,7 +1223,7 @@
    "date": "2026-11-04",
    "subreddit": "crownheights",
    "title": "Crown Heights November Weekly Events Thread - 11/4-11/11",
-   "score": 41,
+   "score": 39,
    "comments": 5,
    "url": "https://www.reddit.com/r/crownheights/comments/1xo3hf6/crown_heights_november_weekly_events_thread/",
    "venues_mentioned": [
@@ -1232,7 +1318,7 @@
    "date": "2026-11-02",
    "subreddit": "nycComedy",
    "title": "Brooklyn Power Hour Comedy Show, Mondays at Eastville Comedy Club",
-   "score": 5,
+   "score": 4,
    "comments": 0,
    "url": "https://www.reddit.com/r/nycComedy/comments/1xllve5/brooklyn_power_hour_comedy_show_mondays_at/",
    "venues_mentioned": [

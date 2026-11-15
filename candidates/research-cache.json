@@ -364,6 +364,11 @@
    "at": "2026-11-14T11:18:02.304Z",
    "note": "No New York signal in 30 days: Reddit returned only two Omaha show-list posts and Hacker News nothing, so the Bell House Nov 23 date rests on the room's own calendar.",
    "source": "last30days"
+  },
+  "Jake Velazquez": {
+   "at": "2026-11-15T11:32:40.013Z",
+   "note": "Nothing usable in 30 days: Reddit came back rate-limited (HTTP 429) and Hacker News returned only one unrelated story about a Mac app for running local AI models, so the New York Comedy Club Nov 15 special taping rests on the club's own listing.",
+   "source": "last30days"
   }
  }
 }
