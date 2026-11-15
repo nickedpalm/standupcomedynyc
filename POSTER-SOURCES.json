@@ -3394,7 +3394,7 @@
  },
  {
   "event_id": "fun-in-moderation-caveat-2026-11-14",
-  "src": "/assets/posters/fun-in-moderation-caveat-2026-11-14.jpg",
+  "src": "/assets/posters/archive/fun-in-moderation-caveat-2026-11-14.jpg",
   "width": 1920,
   "height": 1080,
   "source_url": "https://www.caveat.nyc/events/fun-in-moderation-sketch-comedy-2026-11-14",
@@ -3405,7 +3405,8 @@
   "retrieved_at": "2026-11-07",
   "bytes": 229586,
   "sha256": "7eadcc9f187e8ce0382cf42a41b0ab79331368f08ed6fcb4985d0a8c0e10ae5f",
-  "reuse_status": "Official promotional artwork; no separate reuse license identified. Local review draft only."
+  "reuse_status": "Official promotional artwork; no separate reuse license identified. Local review draft only.",
+  "archived": true
  },
  {
   "event_id": "pretty-major-union-hall-2026-11-10",
@@ -3532,7 +3533,7 @@
  },
  {
   "event_id": "sureni-does-an-hour-union-hall-2026-11-14",
-  "src": "/assets/posters/sureni-does-an-hour-union-hall-2026-11-14.jpg",
+  "src": "/assets/posters/archive/sureni-does-an-hour-union-hall-2026-11-14.jpg",
   "width": 940,
   "height": 470,
   "source_url": "https://www.eventbrite.com/e/sureni-does-an-hour-of-comedy-tickets-1998392443594",
@@ -3543,7 +3544,8 @@
   "retrieved_at": "2026-11-10",
   "bytes": 29478,
   "sha256": "4c8accdbbc7891adfae97e0fd43cab0bc8b7a85338e745c71284ea49e93f964c",
-  "reuse_status": "Official promotional artwork; no separate reuse license identified. Local review draft only."
+  "reuse_status": "Official promotional artwork; no separate reuse license identified. Local review draft only.",
+  "archived": true
  },
  {
   "event_id": "misfit-variety-bcc-2026-11-15",
@@ -3653,7 +3655,7 @@
  },
  {
   "event_id": "naomi-karavani-bushwick-comedy-2026-11-14",
-  "src": "/assets/posters/naomi-karavani-bushwick-comedy-2026-11-14.jpg",
+  "src": "/assets/posters/archive/naomi-karavani-bushwick-comedy-2026-11-14.jpg",
   "width": 992,
   "height": 993,
   "source_url": "https://www.bushwickcomedy.com/event-details/naomi-karavani-headlines-6-00pm",
@@ -3664,7 +3666,8 @@
   "retrieved_at": "2026-11-12",
   "bytes": 882384,
   "sha256": "c7ba6a56953f2d574c1f70c86328935217a241b5d1da520a85602133709c333d",
-  "reuse_status": "Official promotional artwork published on the show's own listing; no separate reuse license identified. Site display with credit only."
+  "reuse_status": "Official promotional artwork published on the show's own listing; no separate reuse license identified. Site display with credit only.",
+  "archived": true
  },
  {
   "event_id": "boyz-in-the-woods-friends-and-lovers-2026-11-13",
@@ -3684,7 +3687,7 @@
  },
  {
   "event_id": "discount-philosophy-friends-and-lovers-2026-11-14",
-  "src": "/assets/posters/discount-philosophy-friends-and-lovers-2026-11-14.png",
+  "src": "/assets/posters/archive/discount-philosophy-friends-and-lovers-2026-11-14.png",
   "source_url": "https://www.fnlbk.com/upcoming/2026/11/14/discount-philosophy",
   "credit": "Artwork: Friends and Lovers / show organizer",
   "alt": "Discount Philosophy flyer: the show title in large black type over an illustration of two blue profiles facing each other, with the tagline Comedy for the Curious, the host, the three featured comedians, Saturday November 14, 8:00 PM, $12, and Friends and Lovers, 641 Classon Ave.",
@@ -3695,11 +3698,12 @@
   "width": 1080,
   "height": 1350,
   "bytes": 100328,
-  "sha256": "01eecedad81d1288a861cbcfdc4681cb97837c081dbeebe43a8f8ef75b68dc35"
+  "sha256": "01eecedad81d1288a861cbcfdc4681cb97837c081dbeebe43a8f8ef75b68dc35",
+  "archived": true
  },
  {
   "event_id": "the-lauren-mary-show-bell-house-2026-11-14",
-  "src": "/assets/posters/the-lauren-mary-show-bell-house-2026-11-14.jpg",
+  "src": "/assets/posters/archive/the-lauren-mary-show-bell-house-2026-11-14.jpg",
   "source_url": "https://www.livenation.com/event/1AdZZ_8GkUqAwHx/the-lauren-mary-show",
   "credit": "Artwork: The Bell House / show organizer (via Live Nation mirror of Ticketmaster CDN)",
   "alt": "The Lauren & Mary Show promotional artwork for the Bell House.",
@@ -3710,7 +3714,8 @@
   "width": 2048,
   "height": 1152,
   "bytes": 270491,
-  "sha256": "1f664c33f17a8ec49000d0741aa5808ae8781746211b9cba9fbe709394785a7d"
+  "sha256": "1f664c33f17a8ec49000d0741aa5808ae8781746211b9cba9fbe709394785a7d",
+  "archived": true
  },
  {
   "event_id": "improv-but-good-bell-house-2026-11-16",
@@ -3804,7 +3809,7 @@
  },
  {
   "event_id": "denise-taylor-flop-house-2026-11-14",
-  "src": "/assets/posters/denise-taylor-flop-house-2026-11-14.jpg",
+  "src": "/assets/posters/archive/denise-taylor-flop-house-2026-11-14.jpg",
   "width": 940,
   "height": 470,
   "source_url": "https://www.eventbrite.com/e/denise-taylor-headlines-flop-house-tickets-2002679230489",
@@ -3815,6 +3820,7 @@
   "retrieved_at": "2026-11-14",
   "reuse_status": "Official promotional artwork from the show's own public listing; no separate reuse license identified. Site display with credit only.",
   "bytes": 32394,
-  "sha256": "44058067a37f10036a2cd02d77e2c46edc4b4be586d7ea51179b3ff053810f96"
+  "sha256": "44058067a37f10036a2cd02d77e2c46edc4b4be586d7ea51179b3ff053810f96",
+  "archived": true
  }
 ]
