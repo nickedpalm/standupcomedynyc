@@ -1168,3 +1168,18 @@ available), Kel Cripe and Misfit Variety through their Eventbrite listings,
 Eastville through its own pages, Jake Velazquez through NYCC and the festival
 lineup page, Mojo Brookzz through Ticketmaster and the festival page, and
 Broussard through the Bell House calendar on Live Nation.
+
+**2026-11-15 20:30 UTC (Instagram story run):** the story frame rendered and is
+live at `https://standupcomedynyc.com/assets/ig/story-2026-11-15.jpg` (commit
+5728e1d, confirmed `image/jpeg` on the live site). The publish failed: the
+Instagram access token in `/opt/data/profiles/comedy/.env` expired on
+2026-11-14 07:51 PST and has no refresh path. Both `npm run ig-post -- --tonight
+--story` and `npm run ig-post -- --tonight` were run once each and both returned
+the same expiry error; nothing was published and `POSTED-IG.json` has no
+2026-11-15 entry. The account's newest feed post is still 2026-11-12
+(`Dfp8nl3gMT6`), confirmed in the browser while logged out. Only one token
+candidate exists on the box — `.env` and `.env.bak-20260920` hold the same
+expired value and the 2026-09-11 backup has none. The carousel and the story
+are both rendered, committed and live, so a fresh token is all that is needed to
+publish tonight. The story frame shows 5 of tonight's 8 shows plus
+"+ 3 MORE TONIGHT"; the cover card says "8 SHOWS WORTH YOUR SUNDAY".
