@@ -1183,3 +1183,73 @@ expired value and the 2026-09-11 backup has none. The carousel and the story
 are both rendered, committed and live, so a fresh token is all that is needed to
 publish tonight. The story frame shows 5 of tonight's 8 shows plus
 "+ 3 MORE TONIGHT"; the cover card says "8 SHOWS WORTH YOUR SUNDAY".
+
+**2026-11-16 19:00 UTC (Instagram carousel run) — recovery of the stranded
+edition, and the carousel publish failed again.** Three of today's cron runs
+hit the tool-iteration cap and left work in the tree: the 11:00 edition run
+(`cron_175fe3898d3f_20261116_110056`), the 13:00 Heard-around-town run
+(`cron_ffe803877e3f_20261116_130057`) and the 14:00 comment check
+(`cron_cb46f031204e_20261116_140005`). The 14:00 run had already corrected the
+broken Michelle Wolf ticket link (it pointed at `thetownhall.org/event/michelle-wolf`,
+which renders an empty page; the live URL is `.../michelle-wolf-best-job-in-the-world`,
+confirmed in the browser and re-read today: "Michelle Wolf: Best Job in the
+World / Thu Nov 19 / 7:00 PM, doors 6:00"). That fix is kept.
+
+The 11:00 run had prepared 13 picks and downloaded 13 poster files but never
+wrote `picks.json` or a `POSTER-SOURCES.json` record. All 13 were re-verified
+before landing: name, venue, local start/end and availability came from the
+Eventbrite API (`/api/v3/events/<id>/?expand=venue,ticket_availability`), and
+every poster file was compared by sha256 against that event's own
+`logo.original` — all 13 matched, and each published file is byte-identical to
+the ffmpeg output of that same original. Two corrections were made to the
+stranded run's copy:
+
+- **Prices.** The stranded numbers did not match the listings. Every price was
+  re-read from `ticket_classes` (cost + Eventbrite fee). The Comic Strip shows
+  are $20 + $3.61 = **$23.61**, not the stale $25.71 the board carried — and
+  tonight's Peter Stewart pick was carrying that same stale $25.71, so it was
+  corrected too and his card re-rendered. Caveat early bird is $15 + $3.76 =
+  $18.76, Flop House $15 + $2.85 = $17.85 for Unhinged and $20 + $3.18 =
+  $23.18 for Brownie Points, Littlefield $12 + $2.86 = $14.86 for Harry
+  Potter, Union Hall $20 + $5.69 = $25.69 for Josh Mandl, Friends and Lovers
+  $8 + $2.38 = $10.38 for AYOOO.
+- **Blurbs.** Three made claims the source does not support. The Brownie
+  Points flyer says "Stand Up Comedy With Comedians Of Color", not "all-Black",
+  so the blurb now uses the flyer's own words. The AYOOO blurb called
+  Friends and Lovers "the cheapest room on this board", which is false — West
+  Side Comedy Club is free, St. Marks is $3 and Brooklyn Improv is $8.68 — so
+  it now sells the 2.5-hour Saturday bill instead. "On the run up to its
+  Broadway debut" for Switch n' Play became the listing's own claim, that the
+  collective "is headed to Broadway".
+
+**Artwork.** Three Comic Strip listings (TJ Miller, Tom Van Horn, Sheba Mason)
+publish only a performer headshot, not a flyer. A headshot is not a flyer, so
+those three picks carry `poster: null` and no `POSTER-SOURCES.json` record.
+
+**Landed:** 13 picks, 10 poster files, 10 poster records. Board is 146 picks.
+`npm test` passes with one freshness warning (19 picks last verified over 14
+days ago, all pre-existing). `npm run heat` scored 146 upcoming picks: 8 sold
+out, 1 going fast — none of them tonight's shows.
+
+**Carousel publish failed.** `npm run ig-post -- --tonight` was run once and
+returned the same token expiry as Nov 14 and Nov 15:
+
+```
+ig-post: /28335663372757999/media: Error validating access token: Session has
+expired on Saturday, 14-Nov-26 07:51:47 PST. The current time is Monday,
+16-Nov-26 11:11:08 PST.
+```
+
+Nothing was published, `POSTED-IG.json` has no 2026-11-16 entry, and the
+account's newest feed post is still 2026-11-12. Only one token candidate
+exists on the box; `.env` and `.env.bak-20260920` hold the same expired value
+and the 2026-09-11 backup has none. The cover and all seven pick cards are
+rendered, committed and live — each card URL confirmed `image/jpeg` on
+standupcomedynyc.com — so a fresh `IG_ACCESS_TOKEN` in
+`/opt/data/profiles/comedy/.env` is all that is needed to publish.
+
+**Tonight's board is 8 shows, the carousel carries 7.** The caption and the
+cover both say 7, and they agree with each other: the board's two-per-house
+cap drops Michael Longfellow (10pm, Union Hall) because The Bell House and
+Union Hall share a house group in `venues.json`, and the cover and caption
+are both built from the same list. Longfellow stays on the site board.
