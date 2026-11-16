@@ -1282,3 +1282,47 @@ account's newest feed post is still 2026-11-12 (`Dfp8nl3gMT6`), confirmed in
 the browser while logged out. The story frame shows 5 of tonight's 8 shows
 plus "+ 3 MORE TONIGHT" — the frame uses the raw board list for the night,
 while the carousel's cover and caption use the two-per-house capped list of 7.
+
+**2026-11-16 23:00 UTC (Instagram comment and message check) — comments proven
+clean on all 57 posts; the DM side stays unverifiable.** The Meta token is still
+dead, so both API reads failed:
+
+```
+ig-comments: /28335663372757999/media: Error validating access token: Session
+has expired on Saturday, 14-Nov-26 07:51:47 PST.
+ig-messages: /28335663372757999/conversations: same error
+```
+
+The same expiry was confirmed against `GET /v23.0/me` and against v21.0/v22.0, so
+it is not a version quirk. A token sweep over the whole box found exactly one
+real candidate (the expired one in `.env`); a second 386-character match turned
+out to be a grep artefact from an old session log, not a token.
+
+**Comments: swept logged out, all 57 posts, twice.** Every post from
+2026-09-15 (`DdUap_Xmwgx`) to 2026-11-12 (`Dfp8nl3gMT6`) shows
+`comment_count: 0` and the rendered "No comments yet." The profile grid was
+enumerated by scroll-accumulation and matches `POSTED-IG.json` exactly (24
+newest codes, no hand-posted extras; the profile's own count reads "57 Posts",
+3 followers). Two independent sweeps agreed on all 57: the MCP browser (in-page
+`fetch()` of `/standupcomedynyc/p/<code>/`, meta-description detector) and a
+local Playwright run (`playwright-core` 1.63.0 with the shared headless shell).
+
+**Positive control, run in both sweeps:** NASA post `DfahZrMjAqq` returned
+"253K likes, 847 comments" with 11 comment rows extracted, so the detector
+extracts real rows and the zeros on our posts are real zeros, not a silent
+extraction failure. The Nov 4 post (`DfVK817G-gr`) still carries "Comments on
+this post have been limited.", but its count is 0, so nothing is hidden there.
+
+**No replies sent, no corrections, nothing left for Nick on the comment side.**
+`IG-REPLIES.json` is still `[]` and unchanged, so there was no reply log to
+commit — an empty "IG replies" commit would be noise.
+
+**DMs: genuinely unverifiable, not empty.** `/direct/inbox/` redirects to the
+Instagram login form and there is no public DM endpoint, so the browser cannot
+read the inbox. The last good API read was 14:00 UTC on Nov 14: 0
+conversations, 0 waiting on us. The token died 51 minutes later. Report this
+as "could not read it", never as "inbox empty".
+
+**Still the one thing needed from Nick:** a fresh `IG_ACCESS_TOKEN` in
+`/opt/data/profiles/comedy/.env`. Without it nothing can be read *or* published —
+the 19:00 carousel and 20:30 story runs today both failed on the same token.
