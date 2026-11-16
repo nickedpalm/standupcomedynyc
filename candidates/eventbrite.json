@@ -1,5 +1,5 @@
 {
- "retrieved_at": "2026-11-15T11:01:28.631Z",
+ "retrieved_at": "2026-11-16T11:01:54.424Z",
  "note": "Leads from Eventbrite organizer pages of registered rooms. Open the event page before adding a pick; artwork needs a POSTER-SOURCES record.",
  "organizers": [
   {
@@ -64,234 +64,6 @@
   }
  ],
  "events": [
-  {
-   "venue": "Littlefield",
-   "neighborhood": "Gowanus",
-   "organizer": "https://www.eventbrite.com/o/littlefield-18046024060",
-   "title": "Artist Talk and Memorial Walk for World Day of Remembrance (WDoR)",
-   "date": "2026-11-15",
-   "time": "12pm",
-   "starts_at": "2026-11-15T12:00:00-05:00",
-   "ends_at": "2026-11-15",
-   "location_name": "littlefield",
-   "location_address": "635 Sackett Street, Brooklyn, NY 11217, Brooklyn",
-   "price_from": 0,
-   "url": "https://www.eventbrite.com/e/artist-talk-and-memorial-walk-for-world-day-of-remembrance-wdor-tickets-2001015828208",
-   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1193487509%2F404652903161%2F1%2Foriginal.20260914-202733?crop=focalpoint&fit=crop&w=940&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.03&fp-y=0.414&s=21c4a7421c9b0e6830352ccfbb8dc7cf",
-   "description": "Remember, Support, Act - learn more about Freedman’s art/advocacy project and help remember local victims of traffic violence for WDoR",
-   "venue_name_matches": true,
-   "already_a_pick": false,
-   "seen_before": true
-  },
-  {
-   "venue": "Littlefield",
-   "neighborhood": "Gowanus",
-   "organizer": "https://www.eventbrite.com/o/littlefield-18046024060",
-   "title": "Go Fact Yourself LIVE - with Kate Micucci & Dean Norris",
-   "date": "2026-11-15",
-   "time": "2pm",
-   "starts_at": "2026-11-15T14:00:00-05:00",
-   "ends_at": "2026-11-15",
-   "location_name": "littlefield",
-   "location_address": "635 Sackett Street, Brooklyn, NY 11217, Brooklyn",
-   "price_from": 14.86,
-   "url": "https://www.eventbrite.com/e/go-fact-yourself-live-with-kate-micucci-dean-norris-tickets-2003389763713",
-   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1197100637%2F3019219475971%2F1%2Foriginal.20261102-175645?crop=focalpoint&fit=crop&w=940&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=33e0e0559426dc2add63cf7b40e3ab0a",
-   "description": "\"The show where we quiz the smartest celebrities we know and find out why they love what they love!\" w/Kate Micucci & Dean Norris!",
-   "venue_name_matches": true,
-   "already_a_pick": false,
-   "seen_before": true
-  },
-  {
-   "venue": "Caveat",
-   "neighborhood": "Lower East Side",
-   "organizer": "https://www.eventbrite.com/o/caveat-13580085802",
-   "title": "Alien Anchors Vol. II",
-   "date": "2026-11-15",
-   "time": "2:30pm",
-   "starts_at": "2026-11-15T14:30:00-05:00",
-   "ends_at": "2026-11-15T15:10:00-05:00",
-   "location_name": "Caveat",
-   "location_address": "21 A Clinton Street, New York, NY 10002, New York",
-   "price_from": 30.08,
-   "url": "https://www.eventbrite.com/e/alien-anchors-vol-ii-tickets-2003359026778",
-   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1196211073%2F207096185123%2F1%2Foriginal.20261020-175844?w=940&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C1080%2C540&s=40da902cb6fe7a99bd14855f17b80a26",
-   "description": "Now that Sonali is older, the stories she hears from her neighbors take new shape and hit her harder than before",
-   "venue_name_matches": true,
-   "already_a_pick": false,
-   "seen_before": true
-  },
-  {
-   "venue": "Caveat",
-   "neighborhood": "Lower East Side",
-   "organizer": "https://www.eventbrite.com/o/caveat-13580085802",
-   "title": "Funny Money",
-   "date": "2026-11-15",
-   "time": "5pm",
-   "starts_at": "2026-11-15T17:00:00-05:00",
-   "ends_at": "2026-11-15T18:30:00-05:00",
-   "location_name": "Caveat",
-   "location_address": "21 A Clinton Street, New York, NY 10002, New York",
-   "price_from": 24.41,
-   "url": "https://www.eventbrite.com/e/funny-money-tickets-1994745292868",
-   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1197605784%2F207096185123%2F1%2Foriginal.20261109-164502?w=940&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2160%2C1080&s=3819424724f48869486a23faf9ef2dac",
-   "description": "Jokes, financial advice, and a game-show-inspired showdown between money experts and standup comics.",
-   "venue_name_matches": true,
-   "already_a_pick": false,
-   "seen_before": true
-  },
-  {
-   "venue": "Union Hall",
-   "neighborhood": "Park Slope",
-   "organizer": "https://www.eventbrite.com/o/union-hall-17899496497",
-   "title": "MESS",
-   "date": "2026-11-15",
-   "time": "5pm",
-   "starts_at": "2026-11-15T17:00:00-05:00",
-   "ends_at": "2026-11-15T18:30:00-05:00",
-   "location_name": "Union Hall",
-   "location_address": "702 Union St., Brooklyn, NY 11215, Brooklyn",
-   "price_from": 19.26,
-   "url": "https://www.eventbrite.com/e/mess-tickets-1998600802802",
-   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F888524053%2F282041210522%2F1%2Foriginal.20241031-011357?crop=focalpoint&fit=crop&w=940&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=c40dc12bf89ad0c4a3e65edaeb176c95",
-   "description": "MESS - Sunday, November 15 - 4:30pm Doors / 5:00pm Show",
-   "venue_name_matches": true,
-   "already_a_pick": false,
-   "seen_before": true
-  },
-  {
-   "venue": "Flop House Comedy",
-   "neighborhood": "Williamsburg",
-   "organizer": "https://www.eventbrite.com/o/flop-house-comedy-74484939183",
-   "title": "Clocked Off",
-   "date": "2026-11-15",
-   "time": "7pm",
-   "starts_at": "2026-11-15T19:00:00-05:00",
-   "ends_at": "2026-11-15T20:30:00-05:00",
-   "location_name": "Tipsy Village",
-   "location_address": "201 Allen Street, #Store 2, New York, NY 10002, New York",
-   "price_from": 17.85,
-   "url": "https://www.eventbrite.com/e/clocked-off-tickets-2003633800634",
-   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1187480646%2F369144123539%2F1%2Foriginal.20260623-141534?w=940&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C1280%2C640&s=7f5b0abf68150d8a505d0b03b8dff9f2",
-   "description": "A chill stand up show to end the week on a high. This show highlights female comics.",
-   "venue_name_matches": false,
-   "already_a_pick": false,
-   "seen_before": true
-  },
-  {
-   "venue": "Friends and Lovers",
-   "neighborhood": "Crown Heights",
-   "organizer": "https://www.eventbrite.com/o/10023790784",
-   "title": "Cheo y los consentidos de la casa  SUN Nov 15th",
-   "date": "2026-11-15",
-   "time": "7pm",
-   "starts_at": "2026-11-15T19:00:00-05:00",
-   "ends_at": "2026-11-15T23:00:00-05:00",
-   "location_name": "Friends and Lovers",
-   "location_address": "641 Classon Avenue, Brooklyn, NY 11238, Brooklyn",
-   "price_from": 23.18,
-   "url": "https://www.eventbrite.com/e/cheo-y-los-consentidos-de-la-casa-sun-nov-15th-tickets-2004531949020",
-   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1197510900%2F2328850250333%2F1%2Foriginal.20261107-225412?crop=focalpoint&fit=crop&w=940&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.481&fp-y=0.035&s=96658e8c476b39077467fb27c4e5f4a1",
-   "description": "Cheo Pardo y Los Concentidos de la casa play Funk n' Salsa with that vintage NY sound.",
-   "venue_name_matches": true,
-   "already_a_pick": false,
-   "seen_before": true
-  },
-  {
-   "venue": "Caveat",
-   "neighborhood": "Lower East Side",
-   "organizer": "https://www.eventbrite.com/o/caveat-13580085802",
-   "title": "Comedians Interview Experts: Creativity in science with Sarah Adelman and Itai Yanai",
-   "date": "2026-11-15",
-   "time": "7:30pm",
-   "starts_at": "2026-11-15T19:30:00-05:00",
-   "ends_at": "2026-11-15T21:00:00-05:00",
-   "location_name": "Caveat",
-   "location_address": "21 A Clinton Street, New York, NY 10002, New York",
-   "price_from": 24.41,
-   "url": "https://www.eventbrite.com/e/comedians-interview-experts-creativity-in-science-with-sarah-adelman-and-itai-yanai-tickets-2001888291770",
-   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1194018470%2F207096185123%2F1%2Foriginal.20260921-155329?w=940&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C1920%2C960&s=4f6ca5610ad53579cea90b181fa4f58b",
-   "description": "Every week one of your favorite comedians interviews an expert on a topic they've always wanted to know more about.",
-   "venue_name_matches": true,
-   "already_a_pick": false,
-   "seen_before": true
-  },
-  {
-   "venue": "Littlefield",
-   "neighborhood": "Gowanus",
-   "organizer": "https://www.eventbrite.com/o/littlefield-18046024060",
-   "title": "NY Comedy Festival Presents: Spell Checc: A Spelling Bee Gameshow!",
-   "date": "2026-11-15",
-   "time": "7:30pm",
-   "starts_at": "2026-11-15T19:30:00-05:00",
-   "ends_at": "2026-11-15",
-   "location_name": "littlefield",
-   "location_address": "635 Sackett Street, Brooklyn, NY 11217, Brooklyn",
-   "price_from": 24.36,
-   "url": "https://www.eventbrite.com/e/ny-comedy-festival-presents-spell-checc-a-spelling-bee-gameshow-tickets-1998385036439",
-   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1193884295%2F3011378210665%2F1%2Foriginal.20260919-012436?crop=focalpoint&fit=crop&w=940&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=0c9059d720016b4e44981bc01c0148ce",
-   "description": "Watch New York’s funniest comedians compete in a spelling bee meets try-not-to-laugh showdown!",
-   "venue_name_matches": true,
-   "already_a_pick": false,
-   "seen_before": true
-  },
-  {
-   "venue": "Union Hall",
-   "neighborhood": "Park Slope",
-   "organizer": "https://www.eventbrite.com/o/union-hall-17899496497",
-   "title": "Kel Cripe: Easily Swindled",
-   "date": "2026-11-15",
-   "time": "7:30pm",
-   "starts_at": "2026-11-15T19:30:00-05:00",
-   "ends_at": "2026-11-15T21:00:00-05:00",
-   "location_name": "Union Hall",
-   "location_address": "702 Union St., Brooklyn, NY 11215, Brooklyn",
-   "price_from": 22.35,
-   "url": "https://www.eventbrite.com/e/kel-cripe-easily-swindled-tickets-1997937557016",
-   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1191386533%2F282041210522%2F1%2Foriginal.20260819-001829?crop=focalpoint&fit=crop&w=940&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=65ad260f5625af2682473cc6f87eac2f",
-   "description": "Kel Cripe: Easily Swindled - Sunday, November 15 - 7:00pm Doors / 7:30pm Show",
-   "venue_name_matches": true,
-   "already_a_pick": true,
-   "seen_before": true
-  },
-  {
-   "venue": "Comic Strip Live",
-   "neighborhood": "Upper East Side",
-   "organizer": "https://www.eventbrite.com/o/comic-strip-live-comedy-club-8100188167",
-   "title": "DF Sweedler, Caroline Hanes, Tobin Miller, Feraz Shere, Rachel Lenihan, +!",
-   "date": "2026-11-15",
-   "time": "8pm",
-   "starts_at": "2026-11-15T20:00:00-05:00",
-   "ends_at": "2026-11-15",
-   "location_name": "Comic Strip Live",
-   "location_address": "1568 2nd Ave, New York, NY 10028, New York",
-   "price_from": 25.71,
-   "url": "https://www.eventbrite.com/e/df-sweedler-caroline-hanes-tobin-miller-feraz-shere-rachel-lenihan-tickets-2003840862963",
-   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1196472924%2F136153380524%2F1%2Foriginal.20261023-210226?crop=focalpoint&fit=crop&w=940&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=9b5c35d56866395274b81e52cb5c9445",
-   "description": "Be part of history, celebrating 50 years of Comedy at the World Comic Strip! Comedians from, HBO, The Tonight Show, SNL & More ~",
-   "venue_name_matches": true,
-   "already_a_pick": false,
-   "seen_before": true
-  },
-  {
-   "venue": "Flop House Comedy",
-   "neighborhood": "Williamsburg",
-   "organizer": "https://www.eventbrite.com/o/flop-house-comedy-74484939183",
-   "title": "NYCF Presents: Keegan Tindall & Colin Armstrong Co-Headlining Show",
-   "date": "2026-11-15",
-   "time": "8pm",
-   "starts_at": "2026-11-15T20:00:00-05:00",
-   "ends_at": "2026-11-15T21:30:00-05:00",
-   "location_name": "362 Grand St",
-   "location_address": "362 Grand Street, Brooklyn, NY 11211, Brooklyn",
-   "price_from": 23.18,
-   "url": "https://www.eventbrite.com/e/nycf-presents-keegan-tindall-colin-armstrong-co-headlining-show-tickets-2002677477245",
-   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1194779842%2F369144123539%2F1%2Foriginal.20261001-005016?w=940&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C1280%2C640&s=c92cd7e5ef9fd6c444ace22fc46f8e0c",
-   "description": "The New York Comedy Festival presents Keegan Tindall & Colin Armstrong",
-   "venue_name_matches": false,
-   "already_a_pick": false,
-   "seen_before": true
-  },
   {
    "venue": "Littlefield",
    "neighborhood": "Gowanus",
@@ -384,8 +156,8 @@
    "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1187712820%2F369144123539%2F1%2Foriginal.20260626-142823?w=940&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C1280%2C640&s=36b7dfa2851165db16bbc257397eccf9",
    "description": "Attention Deficit is a variety comedy show that features standup, improv, sketch and more! Local art is displayed in lobby b4/after showtime",
    "venue_name_matches": false,
-   "already_a_pick": false,
-   "seen_before": false
+   "already_a_pick": true,
+   "seen_before": true
   },
   {
    "venue": "Flop House Comedy",
@@ -556,7 +328,7 @@
    "description": "Part karaoke, part confessional. Share a story about a song… then sing the hell out of it.",
    "venue_name_matches": true,
    "already_a_pick": false,
-   "seen_before": false
+   "seen_before": true
   },
   {
    "venue": "Flop House Comedy",
@@ -632,7 +404,7 @@
    "description": "A night of creative writing inspired by visual prompts. All genres welcome, no experience necessary.",
    "venue_name_matches": false,
    "already_a_pick": false,
-   "seen_before": false
+   "seen_before": true
   },
   {
    "venue": "Union Hall",
@@ -688,8 +460,8 @@
    "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1187304195%2F369144123539%2F1%2Foriginal.20260620-021352?w=940&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C1280%2C640&s=a1f4b12ce5373b76045e847af35d95cd",
    "description": "Come join Alex Jenny and Alexis DeJoy (The Als) and some of NYC's best comedians for a night of laughs !!",
    "venue_name_matches": false,
-   "already_a_pick": false,
-   "seen_before": false
+   "already_a_pick": true,
+   "seen_before": true
   },
   {
    "venue": "Caveat",
@@ -708,7 +480,7 @@
    "description": "Sorry We're Here presents an original sketch comedy show",
    "venue_name_matches": true,
    "already_a_pick": false,
-   "seen_before": false
+   "seen_before": true
   },
   {
    "venue": "Union Hall",
@@ -726,8 +498,8 @@
    "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1197776976%2F282041210522%2F1%2Foriginal.20261111-162719?crop=focalpoint&fit=crop&w=940&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=c8f383d22806ace6db8b5eebd782acd8",
    "description": "Hotel Art Thief - Wednesday, November 18 - 9:30pm Doors / 10:00pm Show",
    "venue_name_matches": true,
-   "already_a_pick": false,
-   "seen_before": false
+   "already_a_pick": true,
+   "seen_before": true
   },
   {
    "venue": "Flop House Comedy",
@@ -746,7 +518,7 @@
    "description": "The Unhinged Variety Show is getting political, incredible performers give us their hottest takes on America's intersecting dire crises",
    "venue_name_matches": false,
    "already_a_pick": false,
-   "seen_before": false
+   "seen_before": true
   },
   {
    "venue": "Caveat",
@@ -765,7 +537,7 @@
    "description": "A show for people who are curious about everything–but especially the things that make them laugh!",
    "venue_name_matches": true,
    "already_a_pick": false,
-   "seen_before": false
+   "seen_before": true
   },
   {
    "venue": "Union Hall",
@@ -783,8 +555,8 @@
    "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1194029727%2F282041210522%2F1%2Foriginal.20260921-175947?crop=focalpoint&fit=crop&w=940&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=4c314a9c6ae86baf5f0438cf85841cd6",
    "description": "DELIADELIA! CURSED!\" - Thursday, November 19 - 7:00pm Doors / 7:30pm Show",
    "venue_name_matches": true,
-   "already_a_pick": false,
-   "seen_before": false
+   "already_a_pick": true,
+   "seen_before": true
   },
   {
    "venue": "Oliver's Astoria",
@@ -803,7 +575,7 @@
    "description": "A night of freshly-popped standup comedy at Oliver's Bar in Astoria, Queens!",
    "venue_name_matches": true,
    "already_a_pick": true,
-   "seen_before": false
+   "seen_before": true
   },
   {
    "venue": "Littlefield",
@@ -841,7 +613,7 @@
    "description": "Stand-up comedy show featuring local NYC comedians from all over the world",
    "venue_name_matches": false,
    "already_a_pick": false,
-   "seen_before": false
+   "seen_before": true
   },
   {
    "venue": "Flop House Comedy",
@@ -860,7 +632,7 @@
    "description": "Better in Person is an interactive dating comedy show featuring stand-up, matchmaking, funny stories, audience games and relationship advice",
    "venue_name_matches": false,
    "already_a_pick": false,
-   "seen_before": false
+   "seen_before": true
   },
   {
    "venue": "Upper East Side Comedy Club",
@@ -898,6 +670,63 @@
    "description": "For people who wonder \"What if Wendy Williams was a comedian with a political science degree?\", there's Do It Live w/ Chika.",
    "venue_name_matches": true,
    "already_a_pick": false,
+   "seen_before": true
+  },
+  {
+   "venue": "Flop House Comedy",
+   "neighborhood": "Williamsburg",
+   "organizer": "https://www.eventbrite.com/o/flop-house-comedy-74484939183",
+   "title": "Brownie Points Comedy Show",
+   "date": "2026-11-19",
+   "time": "9:30pm",
+   "starts_at": "2026-11-19T21:30:00-05:00",
+   "ends_at": "2026-11-19T23:00:00-05:00",
+   "location_name": "362 Grand St",
+   "location_address": "362 Grand Street, Brooklyn, NY 11211, Brooklyn",
+   "price_from": 23.18,
+   "url": "https://www.eventbrite.com/e/brownie-points-comedy-show-tickets-2004595007630",
+   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1187941492%2F369144123539%2F1%2Foriginal.20260630-181100?w=940&auto=format%2Ccompress&q=75&sharp=10&s=f470c125c32133aa24583910e7143a18",
+   "description": "A hilarious line up of the funniest comedians of color in New York City",
+   "venue_name_matches": false,
+   "already_a_pick": false,
+   "seen_before": false
+  },
+  {
+   "venue": "Caveat",
+   "neighborhood": "Lower East Side",
+   "organizer": "https://www.eventbrite.com/o/caveat-13580085802",
+   "title": "Our Findings Show",
+   "date": "2026-11-20",
+   "time": "7pm",
+   "starts_at": "2026-11-20T19:00:00-05:00",
+   "ends_at": "2026-11-20T21:00:00-05:00",
+   "location_name": "Caveat",
+   "location_address": "21 A Clinton Street, New York, NY 10002, New York",
+   "price_from": 18.76,
+   "url": "https://www.eventbrite.com/e/our-findings-show-tickets-1977526536103",
+   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1172708051%2F207096185123%2F1%2Foriginal.20251210-192843?w=940&auto=format%2Ccompress&q=75&sharp=10&rect=1%2C1%2C2000%2C1000&s=d2d19ac5813367f155160951b39d1afb",
+   "description": "The science game show that's academically rigorous and comically ridiculous.",
+   "venue_name_matches": true,
+   "already_a_pick": false,
+   "seen_before": false
+  },
+  {
+   "venue": "Flop House Comedy",
+   "neighborhood": "Williamsburg",
+   "organizer": "https://www.eventbrite.com/o/flop-house-comedy-74484939183",
+   "title": "Sounds Great!",
+   "date": "2026-11-20",
+   "time": "7pm",
+   "starts_at": "2026-11-20T19:00:00-05:00",
+   "ends_at": "2026-11-20T20:30:00-05:00",
+   "location_name": "Tipsy Village",
+   "location_address": "201 Allen Street, #Store 2, New York, NY 10002, New York",
+   "price_from": 12.51,
+   "url": "https://www.eventbrite.com/e/sounds-great-tickets-2004330919736",
+   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1196465963%2F369144123539%2F1%2Foriginal.20261023-191237?w=940&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C1280%2C640&s=80c5b24b4b7fcfe6b1f6f66fd3b21914",
+   "description": "Standup Show",
+   "venue_name_matches": false,
+   "already_a_pick": false,
    "seen_before": false
   },
   {
@@ -917,7 +746,7 @@
    "description": "Opey Olagbaju - Friday, November 20 - 7:00pm Doors / 7:30pm Show",
    "venue_name_matches": true,
    "already_a_pick": true,
-   "seen_before": false
+   "seen_before": true
   },
   {
    "venue": "Littlefield",
@@ -977,6 +806,25 @@
    "seen_before": true
   },
   {
+   "venue": "Caveat",
+   "neighborhood": "Lower East Side",
+   "organizer": "https://www.eventbrite.com/o/caveat-13580085802",
+   "title": "Laughmasters",
+   "date": "2026-11-20",
+   "time": "9:30pm",
+   "starts_at": "2026-11-20T21:30:00-05:00",
+   "ends_at": "2026-11-20T23:00:00-05:00",
+   "location_name": "Caveat",
+   "location_address": "21 A Clinton Street, New York, NY 10002, New York",
+   "price_from": 18.76,
+   "url": "https://www.eventbrite.com/e/laughmasters-tickets-2003025950538",
+   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1196183390%2F207096185123%2F1%2Foriginal.20261020-130906?w=940&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2048%2C1024&s=281b14430d8421552d350e4b55a141ac",
+   "description": "The Most Serious Comedy Competition. Comedians demonstrate their ability to be comical in any situation. One is crowned The LaughMaster.",
+   "venue_name_matches": true,
+   "already_a_pick": false,
+   "seen_before": false
+  },
+  {
    "venue": "Union Hall",
    "neighborhood": "Park Slope",
    "organizer": "https://www.eventbrite.com/o/union-hall-17899496497",
@@ -993,7 +841,7 @@
    "description": "Gavin Matts: profound - Friday, November 20 - 9:30pm Doors / 10:00pm Show",
    "venue_name_matches": true,
    "already_a_pick": false,
-   "seen_before": false
+   "seen_before": true
   },
   {
    "venue": "Upper East Side Comedy Club",
@@ -1015,6 +863,82 @@
    "seen_before": true
   },
   {
+   "venue": "Caveat",
+   "neighborhood": "Lower East Side",
+   "organizer": "https://www.eventbrite.com/o/caveat-13580085802",
+   "title": "Is this Problematic? Climate 101",
+   "date": "2026-11-21",
+   "time": "1:30pm",
+   "starts_at": "2026-11-21T13:30:00-05:00",
+   "ends_at": "2026-11-21T15:30:00-05:00",
+   "location_name": "Caveat",
+   "location_address": "21 A Clinton Street, New York, NY 10002, New York",
+   "price_from": 13.61,
+   "url": "https://www.eventbrite.com/e/is-this-problematic-climate-101-tickets-2004075615113",
+   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1196860425%2F207096185123%2F1%2Foriginal.20261029-152715?w=940&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2160%2C1080&s=7a6782f6e24dd0da3d7ee22d4c264d70",
+   "description": "Got a climate hot take thats a little problematic? Bring it to Bimbo University, where scientists, artists, & comedians will battle it out!",
+   "venue_name_matches": true,
+   "already_a_pick": false,
+   "seen_before": false
+  },
+  {
+   "venue": "Caveat",
+   "neighborhood": "Lower East Side",
+   "organizer": "https://www.eventbrite.com/o/caveat-13580085802",
+   "title": "The Legend of You",
+   "date": "2026-11-21",
+   "time": "4pm",
+   "starts_at": "2026-11-21T16:00:00-05:00",
+   "ends_at": "2026-11-21T17:30:00-05:00",
+   "location_name": "Caveat",
+   "location_address": "21 A Clinton Street, New York, NY 10002, New York",
+   "price_from": 30.08,
+   "url": "https://www.eventbrite.com/e/the-legend-of-you-tickets-1988195161248",
+   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1186940833%2F207096185123%2F1%2Foriginal.20260615-152947?w=940&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C3000%2C1500&s=8db38ab10f38e0f2338f8b14c96f07fc",
+   "description": "Comedy meets catharsis in this personalized adventure that literally fights your figurative demons.",
+   "venue_name_matches": true,
+   "already_a_pick": false,
+   "seen_before": false
+  },
+  {
+   "venue": "Caveat",
+   "neighborhood": "Lower East Side",
+   "organizer": "https://www.eventbrite.com/o/caveat-13580085802",
+   "title": "The Love Seat",
+   "date": "2026-11-21",
+   "time": "4pm",
+   "starts_at": "2026-11-21T16:00:00-05:00",
+   "ends_at": "2026-11-21T17:30:00-05:00",
+   "location_name": "Caveat",
+   "location_address": "21 A Clinton Street, New York, NY 10002, New York",
+   "price_from": 21.84,
+   "url": "https://www.eventbrite.com/e/the-love-seat-tickets-2002570498268",
+   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1194650197%2F207096185123%2F1%2Foriginal.20260929-174456?w=940&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C1920%2C960&s=48843fd34232cfa874ea115ef32929c5",
+   "description": "A retro-inspired dating game show where local singles take center stage on their search for love.",
+   "venue_name_matches": true,
+   "already_a_pick": false,
+   "seen_before": false
+  },
+  {
+   "venue": "Union Hall",
+   "neighborhood": "Park Slope",
+   "organizer": "https://www.eventbrite.com/o/union-hall-17899496497",
+   "title": "Josh Mandl",
+   "date": "2026-11-21",
+   "time": "5pm",
+   "starts_at": "2026-11-21T17:00:00-05:00",
+   "ends_at": "2026-11-21T18:30:00-05:00",
+   "location_name": "Union Hall",
+   "location_address": "702 Union St., Brooklyn, NY 11215, Brooklyn",
+   "price_from": 25.69,
+   "url": "https://www.eventbrite.com/e/josh-mandl-tickets-2004872908840",
+   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1198046012%2F282041210522%2F1%2Foriginal.20261116-024221?crop=focalpoint&fit=crop&w=940&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=1517f3d49f2e385d3db94edf7b3a65bb",
+   "description": "Josh Mandl - Saturday, November 21 - 4:30pm Doors / 5:00pm Show",
+   "venue_name_matches": true,
+   "already_a_pick": false,
+   "seen_before": false
+  },
+  {
    "venue": "Friends and Lovers",
    "neighborhood": "Crown Heights",
    "organizer": "https://www.eventbrite.com/o/10023790784",
@@ -1032,6 +956,25 @@
    "venue_name_matches": true,
    "already_a_pick": false,
    "seen_before": true
+  },
+  {
+   "venue": "Union Hall",
+   "neighborhood": "Park Slope",
+   "organizer": "https://www.eventbrite.com/o/union-hall-17899496497",
+   "title": "Avery McClure & Friends",
+   "date": "2026-11-21",
+   "time": "7:30pm",
+   "starts_at": "2026-11-21T19:30:00-05:00",
+   "ends_at": "2026-11-21T21:00:00-05:00",
+   "location_name": "Union Hall",
+   "location_address": "702 Union St., Brooklyn, NY 11215, Brooklyn",
+   "price_from": 15.92,
+   "url": "https://www.eventbrite.com/e/avery-mcclure-friends-tickets-2000081377240",
+   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1192926369%2F282041210522%2F1%2Foriginal.20260908-002325?crop=focalpoint&fit=crop&w=940&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=cf290a054aa048aaf40c5a538d2771cb",
+   "description": "Avery McClure & Friends - Saturday, November 21 - 7:00pm Doors / 7:30pm Show",
+   "venue_name_matches": true,
+   "already_a_pick": false,
+   "seen_before": false
   },
   {
    "venue": "Littlefield",
@@ -1107,7 +1050,7 @@
    "description": "Presented by Parklife After Hours",
    "venue_name_matches": false,
    "already_a_pick": false,
-   "seen_before": false
+   "seen_before": true
   },
   {
    "venue": "Friends and Lovers",
@@ -1145,7 +1088,7 @@
    "description": "Giving Thanks for the Upful Vibes!",
    "venue_name_matches": true,
    "already_a_pick": false,
-   "seen_before": false
+   "seen_before": true
   },
   {
    "venue": "Comic Strip Live",
@@ -1165,6 +1108,25 @@
    "venue_name_matches": true,
    "already_a_pick": false,
    "seen_before": true
+  },
+  {
+   "venue": "Littlefield",
+   "neighborhood": "Gowanus",
+   "organizer": "https://www.eventbrite.com/o/littlefield-18046024060",
+   "title": "Dinner for One Presents: Friendsgiving",
+   "date": "2026-11-24",
+   "time": "8pm",
+   "starts_at": "2026-11-24T20:00:00-05:00",
+   "ends_at": "2026-11-24",
+   "location_name": "littlefield",
+   "location_address": "635 Sackett Street, Brooklyn, NY 11217, Brooklyn",
+   "price_from": 18.71,
+   "url": "https://www.eventbrite.com/e/dinner-for-one-presents-friendsgiving-tickets-2004028401897",
+   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1197373864%2F3019219475971%2F1%2Foriginal.20261105-194547?crop=focalpoint&fit=crop&w=940&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=b49a29e7101e6a2dbca6af4a1c0d8e15",
+   "description": "Sketch troupe Dinner for One invites all their favorite sketch & standup comedians to share the stage for a silly Thanksgiving extravaganza!",
+   "venue_name_matches": true,
+   "already_a_pick": false,
+   "seen_before": false
   },
   {
    "venue": "Comic Strip Live",
@@ -1278,6 +1240,25 @@
    "description": "Be part of history, celebrating 50 years of Comedy at the World Comic Strip! Comedians from, HBO, The Tonight Show, SNL & More ~",
    "venue_name_matches": true,
    "already_a_pick": false,
+   "seen_before": true
+  },
+  {
+   "venue": "Comic Strip Live",
+   "neighborhood": "Upper East Side",
+   "organizer": "https://www.eventbrite.com/o/comic-strip-live-comedy-club-8100188167",
+   "title": "Tom Van Horn, Meghan Hanley, Connor O'Brien, & Dan Naturman!",
+   "date": "2026-11-28",
+   "time": "8pm",
+   "starts_at": "2026-11-28T20:00:00-05:00",
+   "ends_at": "2026-11-28",
+   "location_name": "Comic Strip Live",
+   "location_address": "1568 2nd Ave, New York, NY 10028, New York",
+   "price_from": 25.71,
+   "url": "https://www.eventbrite.com/e/tom-van-horn-meghan-hanley-connor-obrien-dan-naturman-tickets-2003842119722",
+   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1196474869%2F136153380524%2F1%2Foriginal.20261023-214003?crop=focalpoint&fit=crop&w=940&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=656ccf26ad82a01a660d67d5b29ffcf0",
+   "description": "Be part of history, celebrating 50 years of Comedy at the World Comic Strip! Comedians from, HBO, The Tonight Show, SNL & More ~",
+   "venue_name_matches": true,
+   "already_a_pick": false,
    "seen_before": false
   },
   {
@@ -1319,6 +1300,44 @@
    "seen_before": true
   },
   {
+   "venue": "Comic Strip Live",
+   "neighborhood": "Upper East Side",
+   "organizer": "https://www.eventbrite.com/o/comic-strip-live-comedy-club-8100188167",
+   "title": "Tom Van Horn, Daniel Tirado, Carla Oakerson, Eagle Witt, Jason Choi, more!",
+   "date": "2026-11-29",
+   "time": "8pm",
+   "starts_at": "2026-11-29T20:00:00-05:00",
+   "ends_at": "2026-11-29",
+   "location_name": "Comic Strip Live",
+   "location_address": "1568 2nd Ave, New York, NY 10028, New York",
+   "price_from": 25.71,
+   "url": "https://www.eventbrite.com/e/tom-van-horn-daniel-tirado-carla-oakerson-eagle-witt-jason-choi-more-tickets-2003841800768",
+   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1196474371%2F136153380524%2F1%2Foriginal.20261023-212846?crop=focalpoint&fit=crop&w=940&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=833d85ddc29df221fc2b88da734dc7cd",
+   "description": "Be part of history, celebrating 50 years of Comedy at the World Comic Strip! Comedians from, HBO, The Tonight Show, SNL & More ~",
+   "venue_name_matches": true,
+   "already_a_pick": false,
+   "seen_before": false
+  },
+  {
+   "venue": "Littlefield",
+   "neighborhood": "Gowanus",
+   "organizer": "https://www.eventbrite.com/o/littlefield-18046024060",
+   "title": "Jeff Scheen Special Taping Featuring Jeff Arcuri",
+   "date": "2026-12-01",
+   "time": "7pm",
+   "starts_at": "2026-12-01T19:00:00-05:00",
+   "ends_at": "2026-12-01",
+   "location_name": "littlefield",
+   "location_address": "635 Sackett Street, Brooklyn, NY 11217, Brooklyn",
+   "price_from": 29.5,
+   "url": "https://www.eventbrite.com/e/jeff-scheen-special-taping-featuring-jeff-arcuri-tickets-2000325996904",
+   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1193117297%2F404652903161%2F1%2Foriginal.20260910-001338?crop=focalpoint&fit=crop&w=940&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=920c4f636a581c11fa493139b3dd7150",
+   "description": "Jeff Scheen tapes a comedy special.",
+   "venue_name_matches": true,
+   "already_a_pick": true,
+   "seen_before": false
+  },
+  {
    "venue": "Friends and Lovers",
    "neighborhood": "Crown Heights",
    "organizer": "https://www.eventbrite.com/o/10023790784",
@@ -1336,6 +1355,25 @@
    "venue_name_matches": true,
    "already_a_pick": false,
    "seen_before": true
+  },
+  {
+   "venue": "Littlefield",
+   "neighborhood": "Gowanus",
+   "organizer": "https://www.eventbrite.com/o/littlefield-18046024060",
+   "title": "Jeff Scheen Special Taping Featuring Jeff Arcuri",
+   "date": "2026-12-01",
+   "time": "9:30pm",
+   "starts_at": "2026-12-01T21:30:00-05:00",
+   "ends_at": "2026-12-01",
+   "location_name": "littlefield",
+   "location_address": "635 Sackett Street, Brooklyn, NY 11217, Brooklyn",
+   "price_from": 29.5,
+   "url": "https://www.eventbrite.com/e/jeff-scheen-special-taping-featuring-jeff-arcuri-tickets-2000327351957",
+   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1193117297%2F404652903161%2F1%2Foriginal.20260910-001338?crop=focalpoint&fit=crop&w=940&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=920c4f636a581c11fa493139b3dd7150",
+   "description": "Jeff Scheen tapes a comedy special.",
+   "venue_name_matches": true,
+   "already_a_pick": false,
+   "seen_before": false
   },
   {
    "venue": "Upper East Side Comedy Club",
@@ -1373,7 +1411,7 @@
    "description": "Featuring Charles Engle (Don't Tell Comedy), Allie Mae (NYCF), Alingon Mitra (Daily Show), Kareem Green (Showtime) & More!",
    "venue_name_matches": true,
    "already_a_pick": false,
-   "seen_before": false
+   "seen_before": true
   },
   {
    "venue": "Upper East Side Comedy Club",
@@ -1392,7 +1430,7 @@
    "description": "Featuring Charles Engle (Don't Tell Comedy), Allie Mae (NYCF), Alingon Mitra (Daily Show), Kareem Green (Showtime) & More!",
    "venue_name_matches": true,
    "already_a_pick": false,
-   "seen_before": false
+   "seen_before": true
   },
   {
    "venue": "Upper East Side Comedy Club",
@@ -1411,7 +1449,7 @@
    "description": "Featuring Harrison Greenbaum (Colbert), Byron Austin (NYCF), Lee Syatt (Church of What’s Happening), Alaina Hirschi (NYCF) & More!",
    "venue_name_matches": true,
    "already_a_pick": false,
-   "seen_before": false
+   "seen_before": true
   }
  ],
  "errors": []

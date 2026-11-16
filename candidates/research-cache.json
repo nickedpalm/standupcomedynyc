@@ -221,8 +221,8 @@
    "source": "last30days"
   },
   "Fahim Anwar": {
-   "at": "2026-11-09T13:44:03.919Z",
-   "note": "Two Reddit threads in 30 days and both are off-topic (r/Webseries, r/brandnew); Hacker News returned zero stories. No New York signal on the Bell House Nov 20 date, which is sold out at 7:30pm and has a second 10pm show.",
+   "at": "2026-11-16T13:38:58.222Z",
+   "note": "Nothing in 30 days: Reddit came back rate-limited (HTTP 429) on the last30days run and the repo's read-only OAuth re-check found zero posts with his name in a comedy or NYC subreddit. The actionable signal came from the Bell House calendar instead: the 7:30pm Nov 20 show is sold out and a second 10:00pm show is still selling at 8.20.",
    "source": "last30days"
   },
   "Joanne McNally": {
@@ -296,8 +296,8 @@
    "source": "last30days"
   },
   "Jessica Kirson": {
-   "at": "2026-11-07T11:30:47.950Z",
-   "note": "Reddit returned four threads in 30 days and every one is a name collision (Jessica Chastain, a Jessica Willis stylist, Jessica Szohr, a Jessica Tisch story); Hacker News was silent, so the NYCC Midtown Nov 17 date stands on the club's own listing with no online signal either way.",
+   "at": "2026-11-16T13:38:58.188Z",
+   "note": "Nothing in 30 days: Reddit auth-failed (HTTP 403) on the last30days run and the repo's read-only OAuth re-check found three name-collision posts in r/longislandliveevents, r/Accents and r/CasualConversation, none about her NYC dates. Both NYCC Midtown dates (Nov 17, Nov 23) are sold out.",
    "source": "last30days"
   },
   "Jordan Jensen": {
@@ -321,8 +321,8 @@
    "source": "last30days"
   },
   "NYC comedy": {
-   "at": "2026-11-09T13:44:03.952Z",
-   "note": "Hacker News is all civic and transit stories (NYT subscriber earnings, a Pickpocket's Guide to New York, a Bay Area walker, parking tickets) with zero comedy. The one usable Reddit hit is a Nov 5 r/StandUpComedy post for the Bourne With Talent show at St. Marks on Nov 12, which is now on our board.",
+   "at": "2026-11-16T13:38:58.287Z",
+   "note": "Hacker News returned 9 stories and not one is about comedy (surveillance-pricing vote, Jane Street fire alarm, NYT subscriber earnings, a parking-ticket quiz). Reddit was rate-limited (HTTP 429) on the last30days run and re-read through the repo's read-only OAuth path: the live signal was the One in 35 bar-tab show at Whiskey Cellar (four seats left for Nov 19), the Free Show at Rose's R&R Bar, the Bushwick Bibblebash Tuesday show, and a Ukrainian comic's Gotham set tonight.",
    "source": "last30days"
   },
   "Jess Hilarious": {
@@ -368,6 +368,11 @@
   "Jake Velazquez": {
    "at": "2026-11-15T11:32:40.013Z",
    "note": "Nothing usable in 30 days: Reddit came back rate-limited (HTTP 429) and Hacker News returned only one unrelated story about a Mac app for running local AI models, so the New York Comedy Club Nov 15 special taping rests on the club's own listing.",
+   "source": "last30days"
+  },
+  "Demetri Martin": {
+   "at": "2026-11-16T13:38:58.255Z",
+   "note": "Nothing in 30 days: Reddit rate-limited (HTTP 429) on the last30days run, zero on Hacker News, and the repo's read-only OAuth re-check found no posts. His Dec 4 and Dec 5 Bell House Christmas shows are sold out.",
    "source": "last30days"
   }
  }
