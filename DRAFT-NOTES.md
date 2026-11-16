@@ -1253,3 +1253,32 @@ cover both say 7, and they agree with each other: the board's two-per-house
 cap drops Michael Longfellow (10pm, Union Hall) because The Bell House and
 Union Hall share a house group in `venues.json`, and the cover and caption
 are both built from the same list. Longfellow stays on the site board.
+
+**2026-11-16 20:30 UTC (Instagram story run) — the story publish failed on the
+same dead token.** The story frame was already rendered and committed by the
+19:00 run (`ea24a81`, "IG story for tonight"), which also fixed the washed-out
+story rows: `.srow b/strong/span` now carry `text-shadow:0 2px 6px #000c` and
+the `.photo:after` gradient band over the top rows is translucent-dark
+(`#00000059` / `#00000080`) instead of fully transparent. Re-rendering with
+`npm run ig-card -- --story` produced a byte-identical file
+(sha256 `7c5a2100dc60a7576e28d9afaa52c0ab0e0628f7441e7d948c4abb3e1a12d390`),
+so nothing new needed committing. `npm test` passes with the one pre-existing
+freshness warning. The live frame returns `200 image/jpeg` at
+`https://standupcomedynyc.com/assets/ig/story-2026-11-16.jpg`.
+
+`npm run ig-post -- --tonight --story` was run once and returned the token
+expiry again:
+
+```
+ig-post: /28335663372757999/media: Error validating access token: Session has
+expired on Saturday, 14-Nov-26 07:51:47 PST. The current time is Monday,
+16-Nov-26 12:31:14 PST.
+```
+
+The 19:00 run attempted only the carousel, never the story, so this was the
+first and only story publish attempt today. Nothing was published:
+`POSTED-IG.json` still has 112 entries with no 2026-11-16 entry, and the
+account's newest feed post is still 2026-11-12 (`Dfp8nl3gMT6`), confirmed in
+the browser while logged out. The story frame shows 5 of tonight's 8 shows
+plus "+ 3 MORE TONIGHT" — the frame uses the raw board list for the night,
+while the carousel's cover and caption use the two-per-house capped list of 7.
