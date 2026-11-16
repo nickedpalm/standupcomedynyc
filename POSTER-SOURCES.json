@@ -1558,7 +1558,7 @@
   "archived": true
  },
  {
-  "src": "/assets/posters/matthew-broussard-bell-house-2026-11-15.jpg",
+  "src": "/assets/posters/archive/matthew-broussard-bell-house-2026-11-15.jpg",
   "original_image_url": "https://s1.ticketm.net/dam/a/47c/f4a0ce93-7afa-4083-8c9b-586f0337947c_TABLET_LANDSCAPE_LARGE_16_9.jpg",
   "credit": "Artwork: The Bell House / show organizer (via Live Nation mirror of Ticketmaster CDN)",
   "reuse_status": "Official promotional artwork; no separate reuse license identified. Local review draft only.",
@@ -1571,7 +1571,8 @@
   "height": 2571,
   "alt": "Matthew Broussard promotional artwork.",
   "kind": "dated event flyer",
-  "retrieved_at": "2026-10-08"
+  "retrieved_at": "2026-10-08",
+  "archived": true
  },
  {
   "src": "/assets/posters/archive/peter-wong-grove-34-2026-10-08.png",
@@ -1653,7 +1654,7 @@
  },
  {
   "event_id": "jake-velazquez-special-nycc-2026-11-15",
-  "src": "/assets/posters/jake-velazquez-nycf-2026-11-15.jpg",
+  "src": "/assets/posters/archive/jake-velazquez-nycf-2026-11-15.jpg",
   "width": 1072,
   "height": 680,
   "source_url": "https://newyorkcomedyclub.com/events/nycf-jake-velazquez-special-taping-2026-11-15170000",
@@ -1664,7 +1665,8 @@
   "verified_at": "2026-10-11",
   "bytes": 63152,
   "sha256": "1c76472808c539d2d43a387a7dedf2cd4d37659202c6d2676c7649cc0636a7cf",
-  "reuse_status": "Official promotional artwork; no separate reuse license identified. Local review draft only."
+  "reuse_status": "Official promotional artwork; no separate reuse license identified. Local review draft only.",
+  "archived": true
  },
  {
   "event_id": "stone-and-stone-on-the-road-wscc-2026-11-19",
@@ -3549,7 +3551,7 @@
  },
  {
   "event_id": "misfit-variety-bcc-2026-11-15",
-  "src": "/assets/posters/misfit-variety-bcc-2026-11-15.jpg",
+  "src": "/assets/posters/archive/misfit-variety-bcc-2026-11-15.jpg",
   "width": 940,
   "height": 940,
   "source_url": "https://www.eventbrite.com/e/new-york-comedy-festival-misfit-variety-show-tickets-1999298608959",
@@ -3560,11 +3562,12 @@
   "retrieved_at": "2026-11-10",
   "bytes": 73114,
   "sha256": "4581f974c8edd0a6b800f6141d652800e1146363962425ad6283f4d9bb28235e",
-  "reuse_status": "Official promotional artwork; no separate reuse license identified. Local review draft only."
+  "reuse_status": "Official promotional artwork; no separate reuse license identified. Local review draft only.",
+  "archived": true
  },
  {
   "event_id": "comfy-clash-eastville-2026-11-15",
-  "src": "/assets/posters/comfy-clash-eastville-2026-11-15.png",
+  "src": "/assets/posters/archive/comfy-clash-eastville-2026-11-15.png",
   "width": 660,
   "height": 660,
   "source_url": "https://www.eastvillecomedy.com/events/the-7th-annual-comfy-clash-featuring-tight-pants-comedy-semi-finals-show-2026-11-15180000",
@@ -3575,7 +3578,8 @@
   "retrieved_at": "2026-11-10",
   "bytes": 113173,
   "sha256": "df3c67c87cce190a509d8fca8e1c897165e4ca4c8ac7f9bc7aa8c1cbd9e47f2a",
-  "reuse_status": "Official promotional artwork; no separate reuse license identified. Local review draft only."
+  "reuse_status": "Official promotional artwork; no separate reuse license identified. Local review draft only.",
+  "archived": true
  },
  {
   "event_id": "ask-comedians-anything-brooklyn-improv-2026-11-11",
@@ -3749,7 +3753,7 @@
  },
  {
   "event_id": "kel-cripe-union-hall-2026-11-15",
-  "src": "/assets/posters/kel-cripe-union-hall-2026-11-15.jpg",
+  "src": "/assets/posters/archive/kel-cripe-union-hall-2026-11-15.jpg",
   "width": 940,
   "height": 470,
   "source_url": "https://www.eventbrite.com/e/kel-cripe-easily-swindled-tickets-1997937557016",
@@ -3760,7 +3764,8 @@
   "retrieved_at": "2026-11-14",
   "reuse_status": "Official promotional artwork from the show's own public listing; no separate reuse license identified. Site display with credit only.",
   "bytes": 66644,
-  "sha256": "3efcbe4f69612acafcd8fc90962cabcda6abc4fcc7c26d27e76366d0e001bd0f"
+  "sha256": "3efcbe4f69612acafcd8fc90962cabcda6abc4fcc7c26d27e76366d0e001bd0f",
+  "archived": true
  },
  {
   "event_id": "sean-patton-eros-union-hall-2026-11-16",
@@ -3885,7 +3890,7 @@
  },
  {
   "event_id": "keegan-tindall-colin-armstrong-flop-house-2026-11-15",
-  "src": "/assets/posters/keegan-tindall-colin-armstrong-flop-house-2026-11-15.jpg",
+  "src": "/assets/posters/archive/keegan-tindall-colin-armstrong-flop-house-2026-11-15.jpg",
   "width": 300,
   "height": 300,
   "source_url": "https://www.eventbrite.com/e/nycf-presents-keegan-tindall-colin-armstrong-co-headlining-show-tickets-2002677477245",
@@ -3896,7 +3901,8 @@
   "retrieved_at": "2026-11-15",
   "bytes": 18536,
   "sha256": "3d39077ec86caf31e1b744c71b1315d79776a80800c346be582f9c391e8a0fcb",
-  "reuse_status": "Official promotional artwork; no separate reuse license identified. Site display with credit only."
+  "reuse_status": "Official promotional artwork; no separate reuse license identified. Site display with credit only.",
+  "archived": true
  },
  {
   "event_id": "a-very-jewdy-christmas-nycc-2026-12-24",

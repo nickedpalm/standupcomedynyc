@@ -20,15 +20,6 @@
    "pinned": true
   },
   {
-   "id": "nycf",
-   "label": "New York Comedy Festival",
-   "note": "5 shows on our board, Nov 6-15",
-   "url": "https://nycomedyfestival.com/schedule/",
-   "kind": "external",
-   "starts": "2026-11-06",
-   "ends": "2026-11-15"
-  },
-  {
    "id": "open-mics",
    "label": "Open mics by night",
    "note": "For the comics: sign-up, cost, set length",
