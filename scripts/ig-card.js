@@ -192,11 +192,11 @@ function storyCard(day, list) {
   // The frame holds five rows. On a bigger night it must say so, or the reader thinks
   // five shows is the whole list (seen 2026-11-08 and 2026-11-12).
   const more = list.length > 5 ? `<div class="smore">+ ${list.length - 5} more tonight</div>` : '';
-  return `${base}<style>html,body{height:1920px}.photo{background-position:center 25%}.photo:after{background:linear-gradient(180deg,#000000a6 0%,#00000040 12%,#0000 24%,#0000 40%,#000000d0 55%,#000000f4 68%,#000000fa 100%)}
+  return `${base}<style>html,body{height:1920px}.photo{background-position:center 25%}.photo:after{background:linear-gradient(180deg,#000000a6 0%,#00000040 12%,#00000059 24%,#00000080 40%,#000000d0 55%,#000000f4 68%,#000000fa 100%)}
 .sw{position:relative;height:100%;display:flex;flex-direction:column;padding:170px 64px 210px;color:#fff}
 .sw .lock{align-self:center}
 .shead{margin-top:auto;font:700 108px/1 Oswald;text-transform:uppercase;letter-spacing:.01em}.shead i{font-style:normal;display:inline-block;background:#f6c343;color:#2a1408;padding:10px 26px 14px}.shead small{display:block;font:500 40px/1.2 Oswald;letter-spacing:.2em;color:#f6c343;margin:14px 0 26px;text-transform:uppercase}
-.srow{display:flex;gap:26px;align-items:flex-start;padding:20px 0;border-top:2px solid #ffffff33}.srow b{font:700 54px/1 Oswald;color:#f6c343;min-width:150px}.srow strong{display:block;font:700 54px/1 Oswald;text-transform:uppercase;letter-spacing:.01em}.srow span{display:block;font:30px/1.3 Arial,sans-serif;color:#e6d8b8;margin-top:8px}
+.srow{display:flex;gap:26px;align-items:flex-start;padding:20px 0;border-top:2px solid #ffffff33}.srow b{font:700 54px/1 Oswald;color:#f6c343;min-width:150px;text-shadow:0 2px 6px #000c}.srow strong{display:block;font:700 54px/1 Oswald;text-transform:uppercase;letter-spacing:.01em;text-shadow:0 2px 6px #000c}.srow span{display:block;font:30px/1.3 Arial,sans-serif;color:#e6d8b8;margin-top:8px;text-shadow:0 2px 6px #000c}
 .smore{margin-top:26px;font:700 36px/1 Oswald;letter-spacing:.1em;text-transform:uppercase;color:#f6c343;text-shadow:0 2px 6px #000c}
 .spill{margin-top:34px;align-self:flex-start;border:3px solid #fff;font:700 30px/1 Oswald;letter-spacing:.12em;text-transform:uppercase;padding:18px 28px;border-radius:50px}
 .credit2{bottom:60px;left:64px}</style>
