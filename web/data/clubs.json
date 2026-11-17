@@ -458,5 +458,25 @@
   "source_label": "Club show page (requirements and ticket tiers)",
   "verified_at": "2026-11-11",
   "verification_note": "Read from the club's own show pages on 2026-11-11: the 21+ rule with valid ID, the two-item minimum, the 15-minute arrival window with no refund, the no-refund/no-exchange terms and the changing lineup. The West Village show page prices general admission at $10 plus a $2.37 fee ($12.37 total); the Midtown room at 243 W 54th St prices its own shows at $20 plus a $3.24 fee. The venue's locations page lists both rooms."
+ },
+ {
+  "id": "eastville-comedy-club",
+  "tier": "club",
+  "name": "Eastville Comedy Club",
+  "rooms": "One 120-seat room by the Barclays Center",
+  "address": "487 Atlantic Ave, Brooklyn",
+  "neighborhood": "Boerum Hill",
+  "price_label": "From $12.15 for the Monday power hour ($10 + $2.15 fee); showcases from $28.13 ($25 + $3.13 fee) on Wednesdays and Sundays and $33.46 ($30 + $3.46 fee) on Fridays and Saturdays",
+  "price_low": 10,
+  "price_high": 30,
+  "minimum": "Two-drink minimum at all shows",
+  "age": "Not stated on the club's own pages; check the show listing before you go",
+  "reservations": "Online through the club's own site. Check your ticket for show-specific details.",
+  "character": "Brooklyn's oldest comedy club, running a show every night of the week: a Monday happy hour, a Wednesday showcase, a Thursday closed-mic amateur show, and Friday and Saturday bills that run from six in the evening to half past midnight.",
+  "calendar_url": "https://eastvillecomedy.com/calendar",
+  "source_url": "https://eastvillecomedy.com/",
+  "source_label": "Club home and calendar",
+  "verified_at": "2026-11-17",
+  "verification_note": "Address, the 120-seat room, the Barclays Center location and the two-drink minimum come from the club's own About page and its home page (\"PLEASE NOTE: TWO-DRINK MINIMUM AT ALL SHOWS\"), corroborated by the ticketing provider's venue page. Prices come from the club's own dated show pages: Monday Power Hour $10 + $2.15 fee, Wednesday and Sunday showcases $25 + $3.13 fee, Friday and Saturday showcases $30 + $3.46 fee. The club does not publish an age policy on its home, About or calendar pages, and its TERMS & CONDITIONS link is a 404, so no age rule is claimed here."
  }
 ]

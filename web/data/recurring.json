@@ -587,5 +587,24 @@
   "source_label": "Show listing on Eventbrite",
   "verified_at": "2026-11-08",
   "verification_note": "The show's own flyer says THIRD THURSDAYS, 8:30PM, THE WHISKEY CELLAR, 77 EAST 7 STREET. The Eventbrite series lists the same room on a third Thursday each month, Jun 18 through Jan 15, 2027. The no-drink-minimum and the 35-seat draw are on the listing. The address is the room's own (B Lounge NYC, 77 East 7th St, East Village)."
+ },
+ {
+  "id": "landline-comedy-wild-east",
+  "tier": "recurring",
+  "title": "Landline Comedy",
+  "cadence": "Every Thursday",
+  "weekday": 4,
+  "time_label": "8:30pm",
+  "venue": "Wild East Brewing Co.",
+  "address": "623 Sackett St, Brooklyn",
+  "neighborhood": "Gowanus",
+  "price_label": "Free",
+  "price_amount": 0,
+  "format": "Stand-up",
+  "description": "A free Thursday set in a Gowanus taproom, eight o'clock doors for an eight-thirty show, with a reserved spot putting you in a drawing for a free drink.",
+  "source_url": "https://wildeastbrewing.com/",
+  "source_label": "Wild East taproom events page",
+  "verified_at": "2026-11-17",
+  "verification_note": "The brewery's own page lists \"Thurs, Nov. 19th: Landline Comedy from 8 - 9:30pm. Free\" under Taproom Events, and the Eventbrite listing gives doors at 8 and an 8:30pm start. The organizer's Eventbrite page lists the same Thursday slot for Dec 3 and Dec 17."
  }
 ]

@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-15T11:18:04.648Z",
- "performers_considered": 42,
+ "generated_at": "2026-11-17T11:37:37.793Z",
+ "performers_considered": 30,
  "shortlist": [
   {
    "name": "Jessica Kirson",
@@ -8,7 +8,7 @@
   },
   {
    "name": "Fahim Anwar",
-   "priority": 120
+   "priority": 135
   },
   {
    "name": "Demetri Martin",
@@ -19,39 +19,72 @@
    "priority": 105
   },
   {
+   "name": "Gavin Matts",
+   "priority": 105
+  },
+  {
    "name": "Michelle Wolf",
-   "priority": 65
+   "priority": 55
   },
   {
    "name": "Jacqueline Novak",
    "priority": 45
   },
   {
-   "name": "Michael Longfellow",
-   "priority": 40
-  },
-  {
    "name": "Jaboukie Young-White",
    "priority": 40
   },
   {
-   "name": "Ania Magliano",
-   "priority": 37
+   "name": "Kylie Vincent",
+   "priority": 35
   },
   {
-   "name": "Jake Velazquez",
+   "name": "Hotel Art Thief",
    "priority": 35
   }
  ],
  "run": [
   {
-   "name": "Jake Velazquez",
+   "name": "Michelle Wolf",
+   "priority": 55,
+   "next": {
+    "id": "michelle-wolf-best-job-town-hall-2026-11-19",
+    "date": "2026-11-19",
+    "venue": "The Town Hall",
+    "days": 2,
+    "featured": false,
+    "poster": false,
+    "demand": null
+   },
+   "cheap_signals": [
+    "Wikipedia: 948 views a day",
+    "Wikipedia views up 139% over the prior month"
+   ],
+   "reason": "show within 3 days and not yet decided"
+  },
+  {
+   "name": "Kylie Vincent",
    "priority": 35,
    "next": {
-    "id": "jake-velazquez-special-nycc-2026-11-15",
-    "date": "2026-11-15",
-    "venue": "New York Comedy Club (Midtown)",
-    "days": 0,
+    "id": "kylie-vincent-lesion-lady-sesh-2026-11-18",
+    "date": "2026-11-18",
+    "venue": "Sesh Comedy",
+    "days": 1,
+    "featured": false,
+    "poster": true,
+    "demand": null
+   },
+   "cheap_signals": [],
+   "reason": "show within 3 days and not yet decided"
+  },
+  {
+   "name": "Hotel Art Thief",
+   "priority": 35,
+   "next": {
+    "id": "hotel-art-thief-union-hall-2026-11-18",
+    "date": "2026-11-18",
+    "venue": "Union Hall",
+    "days": 1,
     "featured": false,
     "poster": true,
     "demand": null
@@ -62,23 +95,33 @@
  ],
  "reuse": [
   {
-   "name": "Fahim Anwar",
-   "priority": 120,
+   "name": "Jessica Kirson",
+   "priority": 135,
    "cached": {
-    "at": "2026-11-09T13:44:03.919Z",
-    "age_days": 5.9,
+    "at": "2026-11-16T13:38:58.188Z",
+    "age_days": 0.9,
     "fresh": true,
-    "note": "Two Reddit threads in 30 days and both are off-topic (r/Webseries, r/brandnew); Hacker News returned zero stories. No New York signal on the Bell House Nov 20 date, which is sold out at 7:30pm and has a second 10pm show."
+    "note": "Nothing in 30 days: Reddit auth-failed (HTTP 403) on the last30days run and the repo's read-only OAuth re-check found three name-collision posts in r/longislandliveevents, r/Accents and r/CasualConversation, none about her NYC dates. Both NYCC Midtown dates (Nov 17, Nov 23) are sold out."
    }
   },
   {
-   "name": "Michelle Wolf",
-   "priority": 65,
+   "name": "Fahim Anwar",
+   "priority": 135,
    "cached": {
-    "at": "2026-11-10T11:19:14.529Z",
-    "age_days": 5,
+    "at": "2026-11-16T13:38:58.222Z",
+    "age_days": 0.9,
     "fresh": true,
-    "note": "Nothing usable in 30 days: Reddit returned three threads (a war-plane photo post, a relationship-advice update and a generic phrase match on 'conservative comedian') and Hacker News was silent, so the Town Hall Best Job in the World date rests on the festival listing."
+    "note": "Nothing in 30 days: Reddit came back rate-limited (HTTP 429) on the last30days run and the repo's read-only OAuth re-check found zero posts with his name in a comedy or NYC subreddit. The actionable signal came from the Bell House calendar instead: the 7:30pm Nov 20 show is sold out and a second 10:00pm show is still selling at 8.20."
+   }
+  },
+  {
+   "name": "Demetri Martin",
+   "priority": 105,
+   "cached": {
+    "at": "2026-11-16T13:38:58.255Z",
+    "age_days": 0.9,
+    "fresh": true,
+    "note": "Nothing in 30 days: Reddit rate-limited (HTTP 429) on the last30days run, zero on Hacker News, and the repo's read-only OAuth re-check found no posts. His Dec 4 and Dec 5 Bell House Christmas shows are sold out."
    }
   },
   {
@@ -86,19 +129,9 @@
    "priority": 45,
    "cached": {
     "at": "2026-11-14T11:18:02.304Z",
-    "age_days": 1,
+    "age_days": 3,
     "fresh": true,
     "note": "No New York signal in 30 days: Reddit returned only two Omaha show-list posts and Hacker News nothing, so the Bell House Nov 23 date rests on the room's own calendar."
-   }
-  },
-  {
-   "name": "Michael Longfellow",
-   "priority": 40,
-   "cached": {
-    "at": "2026-11-14T11:18:02.201Z",
-    "age_days": 1,
-    "fresh": true,
-    "note": "A LiveFromNewYork tour thread with 88 upvotes and 32 comments says he hits much harder live than on SNL clips, with several readers saying they cried laughing in Charlotte and one planning to catch his Monday Union Hall date; Hacker News had nothing."
    }
   },
   {
@@ -106,7 +139,7 @@
    "priority": 40,
    "cached": {
     "at": "2026-11-14T11:18:02.244Z",
-    "age_days": 1,
+    "age_days": 3,
     "fresh": true,
     "note": "No signal at all in 30 days: Reddit returned one unrelated thread and Hacker News nothing, so the Bell House Nov 17 date rests on the room's own calendar."
    }
@@ -114,57 +147,32 @@
  ],
  "skip": [
   {
-   "name": "Jessica Kirson",
-   "priority": 135,
-   "reason": "already sold out; research cannot change the call"
-  },
-  {
-   "name": "Demetri Martin",
-   "priority": 105,
-   "reason": "already sold out; research cannot change the call"
-  },
-  {
    "name": "Alyce Chan",
    "priority": 105,
    "reason": "already sold out; research cannot change the call"
   },
   {
-   "name": "Ania Magliano",
-   "priority": 37,
-   "reason": "next show in 17 days, outside the 10-day window"
-  },
-  {
-   "name": "Matthew Broussard",
-   "priority": 35,
-   "reason": "outside the top 10 by cheap ranking"
-  },
-  {
-   "name": "Kel Cripe",
-   "priority": 35,
-   "reason": "outside the top 10 by cheap ranking"
-  },
-  {
-   "name": "Sean Patton",
-   "priority": 35,
-   "reason": "outside the top 10 by cheap ranking"
-  },
-  {
-   "name": "Kylie Vincent",
-   "priority": 35,
-   "reason": "outside the top 10 by cheap ranking"
-  },
-  {
-   "name": "Mojo Brookzz",
-   "priority": 30,
-   "reason": "outside the top 10 by cheap ranking"
-  },
-  {
    "name": "Gavin Matts",
-   "priority": 30,
+   "priority": 105,
+   "reason": "already sold out; research cannot change the call"
+  },
+  {
+   "name": "Do It",
+   "priority": 35,
    "reason": "outside the top 10 by cheap ranking"
   },
   {
    "name": "Opey Olagbaju",
+   "priority": 35,
+   "reason": "outside the top 10 by cheap ranking"
+  },
+  {
+   "name": "Ania Magliano",
+   "priority": 25,
+   "reason": "outside the top 10 by cheap ranking"
+  },
+  {
+   "name": "Josh Mandl",
    "priority": 20,
    "reason": "outside the top 10 by cheap ranking"
   },
@@ -175,41 +183,6 @@
   },
   {
    "name": "Judy Gold",
-   "priority": 20,
-   "reason": "outside the top 10 by cheap ranking"
-  },
-  {
-   "name": "Funny Money",
-   "priority": 20,
-   "reason": "outside the top 10 by cheap ranking"
-  },
-  {
-   "name": "Clocked Off",
-   "priority": 20,
-   "reason": "outside the top 10 by cheap ranking"
-  },
-  {
-   "name": "Sarah Adelman",
-   "priority": 20,
-   "reason": "outside the top 10 by cheap ranking"
-  },
-  {
-   "name": "Itai Yanai",
-   "priority": 20,
-   "reason": "outside the top 10 by cheap ranking"
-  },
-  {
-   "name": "Keegan Tindall",
-   "priority": 20,
-   "reason": "outside the top 10 by cheap ranking"
-  },
-  {
-   "name": "Attention Deficit",
-   "priority": 20,
-   "reason": "outside the top 10 by cheap ranking"
-  },
-  {
-   "name": "Jo March Madness",
    "priority": 20,
    "reason": "outside the top 10 by cheap ranking"
   },
@@ -229,22 +202,17 @@
    "reason": "outside the top 10 by cheap ranking"
   },
   {
-   "name": "Hotel Art Thief",
-   "priority": 20,
-   "reason": "outside the top 10 by cheap ranking"
-  },
-  {
-   "name": "Ryan Davis",
-   "priority": 11,
-   "reason": "outside the top 10 by cheap ranking"
-  },
-  {
    "name": "Ismael Loutfi",
    "priority": 5,
    "reason": "outside the top 10 by cheap ranking"
   },
   {
    "name": "Gina Brillon",
+   "priority": 5,
+   "reason": "outside the top 10 by cheap ranking"
+  },
+  {
+   "name": "Ryan Davis",
    "priority": 5,
    "reason": "outside the top 10 by cheap ranking"
   },
@@ -260,11 +228,6 @@
   },
   {
    "name": "Ralph Barbosa",
-   "priority": 5,
-   "reason": "outside the top 10 by cheap ranking"
-  },
-  {
-   "name": "Do It",
    "priority": 5,
    "reason": "outside the top 10 by cheap ranking"
   },
@@ -294,9 +257,10 @@
    "reason": "outside the top 10 by cheap ranking"
   }
  ],
- "estimated_tokens_saved": 369000,
- "estimate_basis": "9000 tokens per last30days run, 41 runs avoided out of 42",
+ "estimated_tokens_saved": 243000,
+ "estimate_basis": "9000 tokens per last30days run, 27 runs avoided out of 30",
  "no_recent_data": [
-  "Jake Velazquez"
+  "Kylie Vincent",
+  "Hotel Art Thief"
  ]
 }

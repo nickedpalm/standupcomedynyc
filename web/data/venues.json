@@ -1784,5 +1784,17 @@
   "eventbrite_organizer": "https://www.eventbrite.com/o/10023790784",
   "verified_at": "2026-11-13",
   "note": "Room added from a Reddit lead (r/crownheights, Nov 12 2026) and confirmed on the room's own calendar page and its Eventbrite organizer page."
+ },
+ {
+  "name": "Wild East Brewing Co.",
+  "address": "623 Sackett St, Brooklyn",
+  "neighborhood": "Gowanus",
+  "borough": "Brooklyn",
+  "calendar_url": "https://wildeastbrewing.com/",
+  "source_label": "Venue home (taproom events listed there)",
+  "access_note": "Gowanus brewery taproom. The venue's own page lists its events under Taproom Events, including the free Thursday Landline Comedy show and the Saturday AAPI Comedy Night.",
+  "website": "https://wildeastbrewing.com/",
+  "eventbrite_organizer": "https://www.eventbrite.com/o/15154967340",
+  "verified_at": "2026-11-17"
  }
 ]

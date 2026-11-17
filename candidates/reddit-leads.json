@@ -1,5 +1,5 @@
 {
- "retrieved_at": "2026-11-16T11:02:24.095Z",
+ "retrieved_at": "2026-11-17T11:02:01.361Z",
  "note": "Promoter posts from NYC neighborhood subreddits, last 14 days. Leads only: open the linked page or the venue site before anything enters the data; register the venue first.",
  "subreddits": [
   "nycevents",
@@ -27,11 +27,99 @@
  ],
  "leads": [
   {
+   "id": "1xy5su7",
+   "date": "2026-11-17",
+   "subreddit": "AskNYC",
+   "title": "How strict are 18+ shows at the Asylum Comedy Club",
+   "score": 0,
+   "comments": 6,
+   "url": "https://www.reddit.com/r/AskNYC/comments/1xy5su7/how_strict_are_18_shows_at_the_asylum_comedy_club/",
+   "venues_mentioned": [],
+   "when_mentioned": null,
+   "time_mentioned": null,
+   "links": [],
+   "free": false,
+   "new_since_last_run": true,
+   "excerpt": "I’m going to see John Robertson’s the dark room there and I’m bringing some cousins. One is 18 but the other is 16. this particular show is 18+. do you think they’ll give me a hassle? Do they even really check ids?"
+  },
+  {
+   "id": "1xxzlez",
+   "date": "2026-11-16",
+   "subreddit": "nycevents",
+   "title": "Free Comedy at Wild East Brewing 11/19",
+   "score": 1,
+   "comments": 0,
+   "url": "https://www.reddit.com/r/nycevents/comments/1xxzlez/free_comedy_at_wild_east_brewing_1119/",
+   "venues_mentioned": [],
+   "when_mentioned": null,
+   "time_mentioned": null,
+   "links": [
+    "https://www.eventbrite.com/e/landline-comedy-at-wild-east-brewing-tickets-2003260214227?aff=ebdssbdestsearch&amp;dsrp_sid=06187331-04be-40bf-9049-f2c337ac4ce9&amp;dsrp_item_id=2003260214227"
+   ],
+   "free": true,
+   "new_since_last_run": true,
+   "excerpt": "Free comedy show at Wild East Brewing on November 19! Featuring comedians you've seen on the Late Late Show, Netflix, Just for Laughs, Don't Tell, and more! https://preview.redd.it/i5lr8ff9612i1.png?width=1080&amp;format=png&amp;auto=webp&amp;s=98adb1c4173e86f57d13847a52c10e86371"
+  },
+  {
+   "id": "1xxwjvn",
+   "date": "2026-11-16",
+   "subreddit": "Bushwick",
+   "title": "Open Mic Jam",
+   "score": 4,
+   "comments": 2,
+   "url": "https://www.reddit.com/r/Bushwick/comments/1xxwjvn/open_mic_jam/",
+   "venues_mentioned": [
+    "The Tiny Cupboard"
+   ],
+   "when_mentioned": null,
+   "time_mentioned": null,
+   "links": [],
+   "free": false,
+   "new_since_last_run": true,
+   "excerpt": "Hosting another round of the new open mic at The Tiny Cupboard - trying to gather more loyal members! Come through if you're around ✨"
+  },
+  {
+   "id": "1xxt24k",
+   "date": "2026-11-16",
+   "subreddit": "AskNYC",
+   "title": "Anyway to get comedy cellar tickets for a sold out show, or how is the line these days?",
+   "score": 0,
+   "comments": 8,
+   "url": "https://www.reddit.com/r/AskNYC/comments/1xxt24k/anyway_to_get_comedy_cellar_tickets_for_a_sold/",
+   "venues_mentioned": [
+    "Comedy Cellar"
+   ],
+   "when_mentioned": "Friday or Saturday night but they are sold out",
+   "time_mentioned": null,
+   "links": [],
+   "free": false,
+   "new_since_last_run": true,
+   "excerpt": "My wife and I used to go when we lived in the city 10 years ago, and I booked a surprise last minute trip for her the weekend of Dec 4th. I'd love to go to a show either Friday or Saturday night but they are sold out. Any advice? I don't really want to kill 2 hours of our short t"
+  },
+  {
+   "id": "1xxzhv5",
+   "date": "2026-11-16",
+   "subreddit": "parkslope",
+   "title": "Comedy at Wild East Brewing 11/19",
+   "score": 3,
+   "comments": 0,
+   "url": "https://www.reddit.com/r/parkslope/comments/1xxzhv5/comedy_at_wild_east_brewing_1119/",
+   "venues_mentioned": [],
+   "when_mentioned": "Thursday at Wild East Brewing on Sackett Street",
+   "time_mentioned": null,
+   "links": [
+    "https://www.eventbrite.com/e/landline-comedy-at-wild-east-brewing-tickets-2003260214227?aff=ebdssbdestsearch&amp;dsrp_sid=06187331-04be-40bf-9049-f2c337ac4ce9&amp;dsrp_item_id=2003260214227"
+   ],
+   "free": true,
+   "new_since_last_run": true,
+   "excerpt": "Free comedy show this Thursday at Wild East Brewing on Sackett Street. Featuring comedians you've seen on the Late Late Show, Netflix, Just for Laughs, and more! Doors at 8, show 8:30. It's free but if you [RSVP here](https://www.eventbrite.com/e/landline-comedy-at-wild-east-brew"
+  },
+  {
    "id": "1xx05yf",
    "date": "2026-11-15",
    "subreddit": "nycevents",
    "title": "I’m a Ukrainian refugee chasing a stand-up dream. Performing at Gotham in NYC this Monday, November 16 — could really use your support.",
-   "score": 3,
+   "score": 5,
    "comments": 0,
    "url": "https://www.reddit.com/r/nycevents/comments/1xx05yf/im_a_ukrainian_refugee_chasing_a_standup_dream/",
    "venues_mentioned": [
@@ -41,7 +129,7 @@
    "time_mentioned": null,
    "links": [],
    "free": true,
-   "new_since_last_run": true,
+   "new_since_last_run": false,
    "excerpt": "Hey NYC. My name is Oleg Redko. I’m a Ukrainian refugee living in Toronto, trying to build a new life and a career in stand-up comedy. This Monday, November 16, I’m performing at Gotham Comedy Club in New York. It’s a big opportunity for me, and I need people to come out and supp"
   },
   {
@@ -81,7 +169,7 @@
    "date": "2026-11-15",
    "subreddit": "ridgewood",
    "title": "Solid Reads, No Bread Required: Free Knowledge on the Stoop, Ya Dig?",
-   "score": 14,
+   "score": 15,
    "comments": 0,
    "url": "https://www.reddit.com/r/ridgewood/comments/1xx2yx6/solid_reads_no_bread_required_free_knowledge_on/",
    "venues_mentioned": [],
@@ -89,7 +177,7 @@
    "time_mentioned": null,
    "links": [],
    "free": true,
-   "new_since_last_run": true,
+   "new_since_last_run": false,
    "excerpt": "Listen up, cool cats and foxy ladies. Your main man is laying down some heavy knowledge today, and it ain't gonna cost you a single dime. We got a whole stable of fine literature waiting for you out on the stoop at 7318 Forest Ave in Ridgewood, Queens. It’s strictly first come, f"
   },
   {
@@ -157,7 +245,7 @@
    "date": "2026-11-14",
    "subreddit": "Bushwick",
    "title": "The Tuesday 7pm Show at Bibblebash Off the Halsey J Returns 11/17",
-   "score": 4,
+   "score": 3,
    "comments": 0,
    "url": "https://www.reddit.com/r/Bushwick/comments/1xwgiwn/the_tuesday_7pm_show_at_bibblebash_off_the_halsey/",
    "venues_mentioned": [
@@ -315,7 +403,7 @@
    "date": "2026-11-12",
    "subreddit": "crownheights",
    "title": "I host a comedy show at Friends and Lovers!",
-   "score": 4,
+   "score": 6,
    "comments": 3,
    "url": "https://www.reddit.com/r/crownheights/comments/1xukre0/i_host_a_comedy_show_at_friends_and_lovers/",
    "venues_mentioned": [
@@ -635,7 +723,7 @@
    "date": "2026-11-10",
    "subreddit": "williamsburg",
    "title": "Hi I am local comedian doing a comedy/history show on Wednesday about the early Russian empire",
-   "score": 23,
+   "score": 26,
    "comments": 7,
    "url": "https://www.reddit.com/r/williamsburg/comments/1xt0ck1/hi_i_am_local_comedian_doing_a_comedyhistory_show/",
    "venues_mentioned": [],
@@ -687,8 +775,8 @@
    "date": "2026-11-10",
    "subreddit": "astoria",
    "title": "Hey Astoria! Grove 34 wants to hear from you!",
-   "score": 47,
-   "comments": 47,
+   "score": 48,
+   "comments": 48,
    "url": "https://www.reddit.com/r/astoria/comments/1xspwpy/hey_astoria_grove_34_wants_to_hear_from_you/",
    "venues_mentioned": [
     "Grove 34"
@@ -831,7 +919,7 @@
    "date": "2026-11-09",
    "subreddit": "parkslope",
    "title": "Mutual Aid Comedy Show -",
-   "score": 8,
+   "score": 7,
    "comments": 0,
    "url": "https://www.reddit.com/r/parkslope/comments/1xs5x2t/mutual_aid_comedy_show/",
    "venues_mentioned": [
@@ -851,7 +939,7 @@
    "date": "2026-11-09",
    "subreddit": "Greenpoint",
    "title": "selling a 7pm ticket for James Acaster at Greenpoint Comedy Club tonight",
-   "score": 2,
+   "score": 1,
    "comments": 2,
    "url": "https://www.reddit.com/r/Greenpoint/comments/1xs6i2y/selling_a_7pm_ticket_for_james_acaster_at/",
    "venues_mentioned": [
@@ -1257,7 +1345,7 @@
    "date": "2026-11-04",
    "subreddit": "crownheights",
    "title": "Crown Heights November Weekly Events Thread - 11/4-11/11",
-   "score": 42,
+   "score": 40,
    "comments": 5,
    "url": "https://www.reddit.com/r/crownheights/comments/1xo3hf6/crown_heights_november_weekly_events_thread/",
    "venues_mentioned": [
@@ -1308,44 +1396,6 @@
    "free": false,
    "new_since_last_run": false,
    "excerpt": "A few of you came out last time so thank you! Let's keep it going, we've got some wonderful local talent lined up! [https://partiful.com/e/YoDwVFBeLRbKzTyNa9UV](https://partiful.com/e/YoDwVFBeLRbKzTyNa9UV)"
-  },
-  {
-   "id": "1xlx4m4",
-   "date": "2026-11-02",
-   "subreddit": "nycevents",
-   "title": "NYC's #1 Family Magic Show: Broadway Magic Hour (Times Square)",
-   "score": 0,
-   "comments": 0,
-   "url": "https://www.reddit.com/r/nycevents/comments/1xlx4m4/nycs_1_family_magic_show_broadway_magic_hour/",
-   "venues_mentioned": [
-    "Broadway Comedy Club"
-   ],
-   "when_mentioned": null,
-   "time_mentioned": null,
-   "links": [
-    "https://broadwaymagichour.com"
-   ],
-   "free": false,
-   "new_since_last_run": false,
-   "excerpt": "\"I've never seen our kids laugh so hard and enjoy themselves so much.\" - Matthew S., TripAdvisor What can we add to that? Thank you so much, Matthew, for sharing your review and helping other families find our \"underground\" magic show! Back in the day 15-20 years ago, there were "
-  },
-  {
-   "id": "1xm52th",
-   "date": "2026-11-02",
-   "subreddit": "nycComedy",
-   "title": "The Workout at Upper East Side Comedy Club — 15 shows across 9 nights during NYCF week",
-   "score": 1,
-   "comments": 0,
-   "url": "https://www.reddit.com/r/nycComedy/comments/1xm52th/the_workout_at_upper_east_side_comedy_club_15/",
-   "venues_mentioned": [
-    "Upper East Side Comedy Club"
-   ],
-   "when_mentioned": null,
-   "time_mentioned": null,
-   "links": [],
-   "free": false,
-   "new_since_last_run": false,
-   "excerpt": ""
   }
  ]
 }

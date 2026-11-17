@@ -1326,3 +1326,105 @@ as "could not read it", never as "inbox empty".
 **Still the one thing needed from Nick:** a fresh `IG_ACCESS_TOKEN` in
 `/opt/data/profiles/comedy/.env`. Without it nothing can be read *or* published —
 the 19:00 carousel and 20:30 story runs today both failed on the same token.
+
+**2026-11-17 14:00 UTC (Instagram comment and message check) — comments proven
+clean on all 57 posts; the DM side stays unverifiable; the 11:00 edition's
+stranded work recovered and landed.**
+
+The Meta token is still dead, so both API reads failed the same way:
+
+```
+ig-comments: /28335663372757999/media: Error validating access token: Session
+has expired on Saturday, 14-Nov-26 07:51:47 PST.
+ig-messages: /28335663372757999/conversations: same error
+```
+
+`GET /v23.0/me` returns the same expiry, so it is the token, not the endpoint.
+A sweep of the whole box for token-shaped strings found exactly one candidate
+(the expired one in `/opt/data/profiles/comedy/.env`); no Instagram session
+cookies are stored anywhere, so there is no browser session to fall back on.
+
+**Comments: swept logged out, all 57 posts, twice.** Every post from
+2026-09-15 (`DdUap_Xmwgx`) to 2026-11-12 (`Dfp8nl3gMT6`) reads
+`comment_count: 0` / "No comments yet." The profile grid was enumerated by
+scroll-accumulation and matches `POSTED-IG.json` exactly (24 newest codes, no
+hand-posted extras; the profile's own counter reads "57 Posts", 3 followers).
+
+Two independent sweeps agreed on all 57: the MCP browser (in-page `fetch()` of
+`/standupcomedynyc/p/<code>/`, meta-description detector) and a local Playwright
+run (`playwright-core` against the shared headless shell). **Positive control,
+run in both sweeps:** NASA post `DfahZrMjAqq` returned 863 comments with 9 rows
+extracted, so the zeros on our posts are real zeros, not a silent extraction
+failure. The Nov 4 post (`DfVK817G-gr`) still carries "Comments on this post
+have been limited." but its count is 0.
+
+**No replies sent, no corrections, nothing left for Nick on the comment side.**
+`IG-REPLIES.json` is still `[]` and unchanged, so there was no reply log to
+commit — an empty "IG replies" commit would be noise.
+
+**DMs: genuinely unverifiable, not empty.** `/direct/inbox/` redirects to the
+Instagram login form and there is no public DM endpoint, so the browser cannot
+read the inbox. The last good API read was 14:00 UTC on Nov 14: 0
+conversations, 0 waiting on us. Report this as "could not read it", never as
+"inbox empty".
+
+**Also landed: the 11:00 edition run's stranded work.** Its session row reads
+`cron_complete`, but the messages contain the tool-iteration cap, so nothing was
+committed. The 09:15 sweep runs `git add -A` and would have published it
+tomorrow under "Nightly: rotate expired picks". I re-verified every pick
+against its own source before landing it, and fixed four real errors the dead
+run left behind:
+
+- **Landline Comedy (Nov 19, Wild East Brewing): the poster was a stage photo
+  with no printed show info**, while its record claimed "flyer with the
+  November 19 lineup" and named seven comics that are not on the image.
+  Poster set to null, record dropped, file deleted. Its blurb also asserted a
+  food pop-up on the night; the listing says one is there "often". Rewritten.
+  Time label now says 8:30pm, matching the Eventbrite API start.
+- **Friendsgiving w/ Tiffany Cabán (Nov 30): `price_amount` was a number**, but
+  tickets are sold through ActBlue, so there is no door price to state. Set
+  to null, matching the label.
+- **Eastville Comedy Club (new club entry): four claims were wrong.** The
+  `age` line said "All ages welcome" and the verification note said that came
+  from the club's own home and About pages. It does not — no "all ages" string
+  exists on the home, About or calendar pages, and the club's own TERMS &
+  CONDITIONS link is a 404. `character` said four to five nights a week; the
+  club's calendar shows a show every night of the week. `reservations` carried
+  another room's policy ("walk-up cover is higher than presale, and tickets
+  are non-refundable") — nothing on Eastville's pages says it. `price_label`
+  gave the wrong range. All four rewritten to what the pages actually say.
+
+**The 7 new picks verified against their own pages:** Landline Comedy (Nov 19,
+free, Wild East taproom page + Eventbrite), The Peter Stewart Show w/ Nick
+Tilleli (Nov 30, Comic Strip, $20 + $3.61 fee), A Friendsgiving Comedy
+Fundraiser w/ Tiffany Cabán (Nov 30, Littlefield, ActBlue), The Comedy Olympics
+(Dec 11, St. Marks, $13 + $2 fee), Pizzazz w/ Gary Gulman (Dec 23, Union Hall,
+$15 + $4.26 fee), Highly Suspicious (Dec 27, NYCC UWS, $25 + $5.85 fee), Famous
+Last Words (Dec 28, Union Hall, $10 + $3.61 fee). One pick was replaced: the
+Dec 11 A TRUE YORK show is gone from St. Marks' site ("This show is no longer
+available"), and The Comedy Olympics takes that slot.
+
+**The 20 re-verifications are real re-checks, not date bumps.** Every bumped
+`source_url` was fetched and confirmed to still name that show and date
+(19 of 22 PASS on the first automated pass; the three that flagged were
+false alarms from sites that serve a JS shell to plain fetches, and each was
+confirmed by hand against its rendered page). One in 35 on Nov 19 is genuinely
+sold out — its own Nov 19 Eventbrite instance reads `SoldOut` in the JSON-LD
+offers block, and the board now carries the tag. The other event id for the
+same show reads `InStock` because it is a different multi-date parent, not
+because the date is available.
+
+**Poster provenance checked by byte.** The four kept posters match their
+sources exactly (Highly Suspicious byte-matches the NYCC page image; the
+Eventbrite ones match after the project's ffmpeg re-encode, and each
+POSTER-SOURCES record's sha256 matches the published file). Each was also
+opened and read: two are real flyers, one is the Friendsgiving flyer naming
+Tiffany Cabán and Nov 30, and one is the Famous Last Words flyer naming the
+four comics.
+
+`npm test` passes: 144 picks, 32 rooms, 33 mics, 24 clubs.
+
+**Still the one thing needed from Nick:** a fresh `IG_ACCESS_TOKEN` in
+`/opt/data/profiles/comedy/.env`. Without it nothing can be read *or*
+published — the 19:00 carousel and 20:30 story runs failed on the same token
+yesterday and will fail again tonight.

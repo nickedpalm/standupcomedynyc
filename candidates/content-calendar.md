@@ -11,9 +11,9 @@ Six weeks ahead from the board. Regenerated on every build; edit the data, not t
 
 ## Research plan today
 
-Ranked 42; run 1, reuse 5, skip 36; ~369,000 tokens saved. No recent data: Jake Velazquez.
+Ranked 30; run 3, reuse 5, skip 22; ~243,000 tokens saved. No recent data: Kylie Vincent, Hotel Art Thief.
 
-## Week 1: Nov 17 to Nov 23 — 46 picks — 13 without artwork · 36 Eventbrite leads not yet reviewed
+## Week 1: Nov 17 to Nov 23 — 47 picks — 14 without artwork · 28 Eventbrite leads not yet reviewed
 
 - Tue Nov 17 7pm — **Cemented Comedy Showcase (Live Taping)** at Brooklyn Improv
 - Tue Nov 17 7pm — **Jessica Kirson Live in New York** at New York Comedy Club (Midtown) · SOLD OUT · heat 100
@@ -27,17 +27,18 @@ Ranked 42; run 1, reuse 5, skip 36; ~369,000 tokens saved. No recent data: Jake 
 - Wed Nov 18 9:30pm · doors 9pm — **A TRUE YORK COMEDY EXPERIENCE** at St. Marks Comedy Club
 - Wed Nov 18 10pm · doors 9:30pm — **Hotel Art Thief** at Union Hall
 - Thu Nov 19 6:30pm — **The Unhinged Variety Show: American Apocalypse** at Flop House Comedy
-- Thu Nov 19 7pm — **Michelle Wolf: Best Job in the World** at The Town Hall · NO ARTWORK · heat 25
 - Thu Nov 19 7pm — **Facts Machine: Science Comedy & Trivia!** at Caveat
-- Thu Nov 19 7:30pm — **Popcorn Comedy with Ian Lara** at Oliver's Astoria · NO ARTWORK
+- Thu Nov 19 7pm — **Michelle Wolf: Best Job in the World** at The Town Hall · NO ARTWORK · heat 50
 - Thu Nov 19 7:30pm · doors 7pm — **DELIADELIA! CURSED!** at Union Hall
+- Thu Nov 19 7:30pm — **Popcorn Comedy with Ian Lara** at Oliver's Astoria · NO ARTWORK
+- Thu Nov 19 8pm — **Harry Potter and the Goblet of Fire Entirely From Memory** at Littlefield
 - Thu Nov 19 8pm — **Stone and Stone On The Road!** at West Side Comedy Club
 - Thu Nov 19 8pm — **Stand-Up Comedy NYC | NYC's Best Weekly Thursday Show** at Upper East Side Comedy Club · NO ARTWORK
-- Thu Nov 19 8pm — **Harry Potter and the Goblet of Fire Entirely From Memory** at Littlefield
+- Thu Nov 19 8:30pm · doors 8pm — **Landline Comedy at Wild East Brewing** at Wild East Brewing Co. · NO ARTWORK
 - Thu Nov 19 8:30pm — **Previously on Generational Curse... with Nore Davis** at New York Comedy Club (Midtown) · NO ARTWORK
-- Thu Nov 19 8:30pm — **ONE IN 35: Stand-Up Comedy With a One-in-35 Chance Your Drinks Are On Us** at Whiskey Cellar NYC
-- Thu Nov 19 9:30pm — **Do It Live w/ Chika** at Caveat
+- Thu Nov 19 8:30pm — **ONE IN 35: Stand-Up Comedy With a One-in-35 Chance Your Drinks Are On Us** at Whiskey Cellar NYC · SOLD OUT · heat 100
 - Thu Nov 19 9:30pm — **Brownie Points Comedy Show** at Flop House Comedy
+- Thu Nov 19 9:30pm — **Do It Live w/ Chika** at Caveat
 - Fri Nov 20 7:30pm — **Fahim Anwar** at The Bell House · SOLD OUT · heat 100
 - Fri Nov 20 7:30pm — **Opey Olagbaju** at Union Hall
 - Fri Nov 20 8pm — **Friday Comedy Show** at Eastville Comedy Club · NO ARTWORK
@@ -72,7 +73,7 @@ Ranked 42; run 1, reuse 5, skip 36; ~369,000 tokens saved. No recent data: Jake 
   - Tue Nov 17 10pm — MEGAVERSE at Union Hall · from $19.26 · has artwork
   - Wed Nov 18 7pm — White Lilies Release Show at Littlefield · from $14.86 · has artwork
 
-## Week 2: Nov 24 to Nov 30 — 19 picks — 10 without artwork · 11 Eventbrite leads not yet reviewed
+## Week 2: Nov 24 to Nov 30 — 21 picks — 11 without artwork · 11 Eventbrite leads not yet reviewed
 
 - Tue Nov 24 7pm — **Jacqueline Novak** at The Bell House · NO ARTWORK · heat 25
 - Tue Nov 24 7:30pm — **Judy Gold** at New York Comedy Club (Upper West Side)
@@ -92,28 +93,30 @@ Ranked 42; run 1, reuse 5, skip 36; ~369,000 tokens saved. No recent data: Jake 
 - Sun Nov 29 7:30pm — **The Silver Lining with Gianmarco Soresi** at The Bell House
 - Sun Nov 29 7:30pm — **Sunday Night Comedy** at Eastville Comedy Club · NO ARTWORK
 - Mon Nov 30 7:30pm — **Brooklyn Power Hour (Now on a New Night!)** at Eastville Comedy Club · NO ARTWORK
+- Mon Nov 30 7:30pm · doors 6:30pm — **A Friendsgiving Comedy Fundraiser featuring Tiffany Cabán** at Littlefield · going fast · heat 25
+- Mon Nov 30 8pm — **The Peter Stewart Show! With Nick Tilleli!** at Comic Strip Live · NO ARTWORK
 - Mon Nov 30 8pm — **Stamptown** at The Bell House
 
   Leads to review:
   - Tue Nov 24 8pm — Dinner for One Presents: Friendsgiving at Littlefield · from $18.71 · has artwork
-  - Tue Nov 24 8pm — Tom Van Horn, Tobin Miller, Meghan Hanley, Jason Choi, Monroe Martin, more! at Comic Strip Live · from $25.71 · has artwork
-  - Wed Nov 25 8pm — Sheba Mason, Michele Balan, Tobin Miller, Elyse DeLucci, Matt Pavich, more! at Comic Strip Live · from $25.71 · has artwork
   - Fri Nov 27 8pm — Tom Van Horn, Elyse DeLucci, Jason Salmon, & Kareem Green! at Comic Strip Live · from $25.71 · has artwork
   - Fri Nov 27 8pm — FUNNY PEOPLE Live | Stand-Up Comedy on the Upper East Side at Upper East Side Comedy Club · from $12 · has artwork
   - Fri Nov 27 10pm — Friday Night Comedy | Late Night Stand-Up on the Upper East Side at Upper East Side Comedy Club · from $10 · has artwork
   - Sat Nov 28 8pm — Tom Van Horn, Meghan Hanley, Dan Naturman, Connor O'Brien! at Comic Strip Live · from $25.71 · has artwork
   - Sat Nov 28 8pm — Tom Van Horn, Meghan Hanley, Connor O'Brien, & Dan Naturman! at Comic Strip Live · from $25.71 · has artwork
+  - Sat Nov 28 8pm — Stand-Up Comedy NYC | Top Comedians on the Upper East Side at Upper East Side Comedy Club · from $12 · has artwork
+  - Sat Nov 28 10pm — Late Night Stand-Up NYC | Comedy on the Upper East Side at Upper East Side Comedy Club · from $12 · has artwork
 
-## Week 3: Dec 1 to Dec 7 — 19 picks — 3 without artwork · 6 Eventbrite leads not yet reviewed
+## Week 3: Dec 1 to Dec 7 — 19 picks — 3 without artwork · 5 Eventbrite leads not yet reviewed
 
 - Tue Dec 1 7pm · doors 6pm — **Jeff Scheen Special Taping Featuring Jeff Arcuri** at Littlefield · going fast · heat 25
 - Tue Dec 1 7:30pm · doors 7pm — **A TRUE YORK COMEDY EXPERIENCE** at St. Marks Comedy Club
 - Tue Dec 1 7:30pm · doors 7pm — **Ismael Loutfi: Heavenly Baba** at Union Hall
 - Tue Dec 1 8pm — **Not Ripe Bananas** at West Side Comedy Club
-- Wed Dec 2 7:30pm — **Ania Magliano: Peach Fuzz** at The Bell House · heat 20
+- Wed Dec 2 7:30pm — **Ania Magliano: Peach Fuzz** at The Bell House · heat 32
 - Wed Dec 2 7:30pm · doors 7pm — **Cold Plunge with Kurt Braunohler** at Union Hall
 - Wed Dec 2 7:30pm — **Gina Brillon: Villan Era (The Rehearsal)** at Brooklyn Improv
-- Thu Dec 3 7:30pm — **Ania Magliano: Peach Fuzz** at The Bell House · heat 20
+- Thu Dec 3 7:30pm — **Ania Magliano: Peach Fuzz** at The Bell House · heat 32
 - Thu Dec 3 8:30pm · doors 8pm — **Date Night Comedy Show x2** at St. Marks Comedy Club · NO ARTWORK
 - Fri Dec 4 7pm — **Demetri Martin: Standup Comedy for Christmas** at The Bell House · SOLD OUT · heat 100
 - Fri Dec 4 7:15pm — **ISMO: Live!** at Brooklyn Improv
@@ -128,7 +131,6 @@ Ranked 42; run 1, reuse 5, skip 36; ~369,000 tokens saved. No recent data: Jake 
 
   Leads to review:
   - Tue Dec 1 7:30pm — I Hate Capitalism: Comedy Special Taping at Friends and Lovers · from $17.85 · has artwork
-  - Tue Dec 1 9:30pm — Jeff Scheen Special Taping Featuring Jeff Arcuri at Littlefield · from $29.5 · has artwork
   - Thu Dec 3 8pm — Stand-Up Comedy NYC | NYC's Best Weekly Thursday Show at Upper East Side Comedy Club · from $12 · has artwork
   - Fri Dec 4 8pm — FUNNY PEOPLE Live | Stand-Up Comedy on the Upper East Side at Upper East Side Comedy Club · from $12 · has artwork
   - Fri Dec 4 8pm — FUNNY PEOPLE Live | Stand-Up Comedy on the Upper East Side at Upper East Side Comedy Club · from $12 · has artwork
@@ -148,7 +150,7 @@ Ranked 42; run 1, reuse 5, skip 36; ~369,000 tokens saved. No recent data: Jake 
 - Thu Dec 10 6:30pm · doors 6pm — **A TRUE YORK COMEDY EXPERIENCE** at St. Marks Comedy Club · NO ARTWORK
 - Thu Dec 10 7pm — **The Party Clown Party** at West Side Comedy Club
 - Thu Dec 10 8:30pm · doors 8pm — **Date Night Comedy Show x2** at St. Marks Comedy Club · NO ARTWORK
-- Fri Dec 11 6:30pm · doors 6pm — **A TRUE YORK COMEDY EXPERIENCE** at St. Marks Comedy Club · NO ARTWORK
+- Fri Dec 11 6:30pm · doors 6pm — **The Comedy Olympics** at St. Marks Comedy Club · NO ARTWORK
 - Fri Dec 11 7pm — **Ryan Davis** at Brooklyn Improv
 - Fri Dec 11 7:30pm — **Grove Comedy** at Grove 34 · NO ARTWORK
 - Fri Dec 11 8:30pm · doors 8pm — **Friday Night Laughs Comedy Show** at St. Marks Comedy Club · NO ARTWORK
@@ -185,15 +187,18 @@ Ranked 42; run 1, reuse 5, skip 36; ~369,000 tokens saved. No recent data: Jake 
 - Mon Dec 21 8pm · doors 7pm — **R&B Karaoke and Comedy Hosted by Monifah and Jamie Roberts** at Comedy In Harlem · NO ARTWORK
 - Mon Dec 21 9:30pm · doors 9pm — **A TRUE YORK COMEDY EXPERIENCE** at St. Marks Comedy Club · NO ARTWORK
 
-## Week 6: Dec 22 to Dec 28 — 9 picks — 5 without artwork · nothing in Brooklyn
+## Week 6: Dec 22 to Dec 28 — 12 picks — 5 without artwork
 
 - Tue Dec 22 7:30pm · doors 7pm — **A TRUE YORK COMEDY EXPERIENCE** at St. Marks Comedy Club · NO ARTWORK
+- Wed Dec 23 7:30pm · doors 7pm — **Pizzazz with Gary Gulman** at Union Hall
 - Wed Dec 23 8pm — **8PM Comedy Show at The Grisly Pear Greenwich Village** at The Grisly Pear · NO ARTWORK
 - Thu Dec 24 7pm — **Aruba Ray the Red Nosed Reindeer: Xmas Eve Stand-Up for All** at New York Comedy Club (East Village)
 - Thu Dec 24 8pm — **Hobocop** at The Grisly Pear · NO ARTWORK
 - Thu Dec 24 8:30pm — **A Very Jewdy Christmas** at New York Comedy Club (Upper West Side)
 - Fri Dec 25 6:30pm · doors 6pm — **Kosher Chinese – A Christmas Comedy Show!** at St. Marks Comedy Club · NO ARTWORK
-- Sat Dec 26 8pm · doors 7:30pm — **Stand-Up Comedy NYC | Top Comedians on the Upper East Side** at Upper East Side Comedy Club
 - Sat Dec 26 8pm — **8PM Primetime Comedy Show at The Grisly Pear Greenwich Village** at The Grisly Pear · NO ARTWORK
+- Sat Dec 26 8pm · doors 7:30pm — **Stand-Up Comedy NYC | Top Comedians on the Upper East Side** at Upper East Side Comedy Club
 - Sat Dec 26 10pm · doors 9:30pm — **Late Night Stand-Up NYC | Comedy on the Upper East Side** at Upper East Side Comedy Club
+- Sun Dec 27 9pm — **Highly Suspicious w/ Aaron Putnam, Kerryn Feehan, Zach Liss** at New York Comedy Club (Upper West Side)
+- Mon Dec 28 7:30pm · doors 7pm — **Famous Last Words** at Union Hall
 
