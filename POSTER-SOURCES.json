@@ -3723,7 +3723,7 @@
  },
  {
   "event_id": "improv-but-good-bell-house-2026-11-16",
-  "src": "/assets/posters/improv-but-good-bell-house-2026-11-16.jpg",
+  "src": "/assets/posters/archive/improv-but-good-bell-house-2026-11-16.jpg",
   "source_url": "https://www.livenation.com/event/1FGZvPfVqtZ78v8e/improv-but-good",
   "credit": "Artwork: The Bell House / show organizer (via Live Nation mirror of Ticketmaster CDN)",
   "alt": "Improv But Good promotional artwork for the Bell House.",
@@ -3734,7 +3734,8 @@
   "width": 2048,
   "height": 1152,
   "bytes": 279411,
-  "sha256": "2f1e22af487918a7e6fcfdad5297a1ba6ab999498b9249ade9df9e9ed48c5613"
+  "sha256": "2f1e22af487918a7e6fcfdad5297a1ba6ab999498b9249ade9df9e9ed48c5613",
+  "archived": true
  },
  {
   "event_id": "john-oliver-seth-meyers-beacon-2026-12-13",
@@ -3769,7 +3770,7 @@
  },
  {
   "event_id": "sean-patton-eros-union-hall-2026-11-16",
-  "src": "/assets/posters/sean-patton-eros-union-hall-2026-11-16.jpg",
+  "src": "/assets/posters/archive/sean-patton-eros-union-hall-2026-11-16.jpg",
   "width": 940,
   "height": 470,
   "source_url": "https://www.eventbrite.com/e/sean-patton-eros-tickets-2000520767468",
@@ -3780,7 +3781,8 @@
   "retrieved_at": "2026-11-14",
   "reuse_status": "Official promotional artwork from the show's own public listing; no separate reuse license identified. Site display with credit only.",
   "bytes": 18484,
-  "sha256": "52354cee95067eb554fa6d17e663a2a63e123a4c27da938c179e34e56d8bdc13"
+  "sha256": "52354cee95067eb554fa6d17e663a2a63e123a4c27da938c179e34e56d8bdc13",
+  "archived": true
  },
  {
   "event_id": "best-indie-comedy-cobble-hill-2026-11-17",
@@ -3981,7 +3983,7 @@
  },
  {
   "event_id": "attention-deficit-flop-house-2026-11-16",
-  "src": "/assets/posters/attention-deficit-flop-house-2026-11-16.jpg",
+  "src": "/assets/posters/archive/attention-deficit-flop-house-2026-11-16.jpg",
   "width": 1880,
   "height": 940,
   "source_url": "https://www.eventbrite.com/e/attention-deficit-tickets-2004849794705",
@@ -3992,7 +3994,8 @@
   "retrieved_at": "2026-11-15",
   "bytes": 138317,
   "sha256": "fb33c635e6bcd195d11581680fa4ac5bf1574f68bbc9dddd4e8a17b51671fb62",
-  "reuse_status": "Official promotional artwork; no separate reuse license identified. Site display with credit only."
+  "reuse_status": "Official promotional artwork; no separate reuse license identified. Site display with credit only.",
+  "archived": true
  },
  {
   "event_id": "facts-machine-caveat-2026-11-19",
