@@ -1564,3 +1564,39 @@ mid-number, and 0 cards now end mid-number.
 `npm test` passes: 144 picks, 32 rooms, 33 mics, 24 clubs. Tonight's caption
 is 2,001 characters against Instagram's 2,200 limit, and all seven of
 tonight's card blurbs render whole at the 180-character card cap.
+
+## 2026-11-18 (23:00 UTC) — Instagram comment and message check
+
+**Comments: 0 unanswered, proven across all 57 posts. Nothing replied, nothing
+left for Nick on the comment side.**
+
+The Meta token is still dead, so both API reads failed with the same error
+the 19:00 and 20:30 runs hit:
+
+```
+ig-comments: /28335663372757999/media: Error validating access token: Session has expired on Saturday, 14-Nov-26 07:51:47 PST.
+ig-messages: /28335663372757999/conversations: same error
+```
+
+Only one token exists on the box (`.env` and `.env.bak*` hold the same
+`IGAA...` value; no `EAA` candidate anywhere). Verified read-only against
+`GET /v23.0/me` -> `code 190`. There is still no refresh path.
+
+**Comment side: verified logged out, with a positive control.** The public
+grid was enumerated to all 57 posts (the scroll container is an inner div, not
+`document.body`), and each permalink was read for its comment count from the
+page HTML. Every one of the 57 reads **0 comments**. The detector was
+validated against a control post known to have comments
+(`/nasa/p/DfahZrMjAqq/` -> 887 comments), so a zero here is a real zero and not
+a silently failed extraction. Three of the newest posts were also opened in
+the rendered DOM and each shows "No comments yet.".
+
+**DM side: unverifiable, and reported as such.** `/direct/inbox/` redirects
+to the Instagram login form when logged out, and there is no public DM
+endpoint, so the inbox cannot be read without the dead token. The last good
+API read was **2026-11-14 14:00 UTC**: `0 conversation(s) in the last 7
+day(s), 0 waiting on us`. Nothing has been readable since.
+
+`IG-REPLIES.json` is unchanged (`[]`) — no replies sent, no threads waiting
+on us. Scratch files were cleared from `candidates/tmp/` so the 09:15
+nightly sweep does not publish them.
