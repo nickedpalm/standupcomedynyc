@@ -2224,36 +2224,6 @@
   "reuse_status": "Official promotional artwork; no separate reuse license identified. Local review draft only."
  },
  {
-  "event_id": "story-warz-nycc-2026-11-18",
-  "src": "/assets/posters/story-warz-nycc-2026-11-18.jpg",
-  "width": 1040,
-  "height": 660,
-  "source_url": "https://newyorkcomedyclub.com/events/story-warz-w-big-jay-oakerson-luis-j-gomez-special-guests-2026-11-18194500",
-  "credit": "Artwork: New York Comedy Club / show organizer",
-  "alt": "Story Warz w/ Big Jay Oakerson, Luis J Gomez + Special Guests at NYCC Midtown — November 18, 2026.",
-  "kind": "dated event flyer",
-  "original_image_url": "https://newyorkcomedyclub.com/img/shows/Story-Warz-NYCC-Graphics-1072x680-e4fb1064-main-image.jpg",
-  "retrieved_at": "2026-10-26",
-  "bytes": 83635,
-  "sha256": "2284ff0934a8d6a5465e57f1240d64a6bc099dd38fabf4040a38bad388063c3f",
-  "reuse_status": "Official promotional artwork; no separate reuse license identified. Local review draft only."
- },
- {
-  "event_id": "a-true-york-st-marks-2026-11-18",
-  "src": "/assets/posters/a-true-york-st-marks-2026-11-18.jpg",
-  "width": 2054,
-  "height": 1540,
-  "source_url": "https://www.stmarkscomedy.com/shows/a-true-york-comedy-experience-2026-11-18-fa73225f",
-  "credit": "Artwork: St. Marks Comedy Club",
-  "alt": "A True York Comedy Experience at St. Marks Comedy Club — November 18, 2026.",
-  "kind": "venue photo",
-  "original_image_url": "https://qfrmgyichufynswkwaxp.supabase.co/storage/v1/object/public/show-fliers/0.7862414551778034.jpeg",
-  "retrieved_at": "2026-10-26",
-  "bytes": 394151,
-  "sha256": "4318d81fa5e67712d7fbdad24e4830a8d8066a3bc056835a128a3f90014d631d",
-  "reuse_status": "Official venue photo; no separate reuse license identified. Local review draft only."
- },
- {
   "event_id": "greta-titelman-journals-union-hall-2026-10-27",
   "src": "/assets/posters/archive/greta-titelman-journals-union-hall-2026-10-27.jpg",
   "width": 1880,
@@ -2740,21 +2710,6 @@
   "archived": true
  },
  {
-  "event_id": "a-true-york-st-marks-2026-12-07",
-  "src": "/assets/posters/a-true-york-st-marks-2026-12-07.jpg",
-  "width": 2054,
-  "height": 1540,
-  "source_url": "https://www.stmarkscomedy.com/shows/a-true-york-comedy-experience-2026-12-07-b316bb6f",
-  "credit": "Artwork: St. Marks Comedy Club",
-  "alt": "A True York Comedy Experience at St. Marks Comedy Club — December 7, 2026.",
-  "kind": "dated event flyer",
-  "original_image_url": "https://qfrmgyichufynswkwaxp.supabase.co/storage/v1/object/public/show-fliers/0.7862414551778034.jpeg",
-  "retrieved_at": "2026-10-29",
-  "bytes": 394151,
-  "sha256": "4318d81fa5e67712d7fbdad24e4830a8d8066a3bc056835a128a3f90014d631d",
-  "reuse_status": "Official promotional artwork; no separate reuse license identified. Local review draft only."
- },
- {
   "event_id": "dylans-last-show-ever-st-marks-2026-12-09",
   "src": "/assets/posters/dylans-last-show-ever-st-marks-2026-12-09.jpg",
   "width": 1200,
@@ -2980,12 +2935,12 @@
   "src": "/assets/posters/danu-live-in-america-eastville-2026-11-18.jpg",
   "width": 528,
   "height": 660,
-  "source_url": "https://www.eastvillecomedy.com/events/danu-live-in-america",
+  "source_url": "https://globalunites.org/danu-live-in-america",
   "credit": "Artwork: Eastville Comedy Club",
-  "alt": "DANU Live in America at Eastville Comedy Club - promotional artwork naming New York, November 18 and the Los Angeles date.",
+  "alt": "DANU Live in America flyer - NEW YORK, Wednesday, November 18, EastVille Comedy Club, 487 Atlantic Ave, Brooklyn, and the LOS ANGELES date, November 20. A special Global Unites fundraising evening.",
   "kind": "dated event flyer",
   "original_image_url": "https://www.eastvillecomedy.com/img/events/PHOTO-2026-10-13-21-07-27-1fb10b0c-main-image.jpg",
-  "retrieved_at": "2026-11-02",
+  "retrieved_at": "2026-11-18",
   "reuse_status": "Official promotional artwork from the show's public listing; no separate reuse license identified. Site display with credit only.",
   "bytes": 67786,
   "sha256": "7cea48a0d033fce097573f9310e37c8afbc1a68dd2cf4acdea4caa2bc2f0d6af"
@@ -4269,5 +4224,20 @@
   "reuse_status": "Official promotional artwork; no separate reuse license identified. Local review draft only.",
   "bytes": 129181,
   "sha256": "5103b40254b14ca61b7e594cf7d084ba05caa357933c3001a5c775b73d447893"
+ },
+ {
+  "event_id": "ashton-womack-amy-cardinale-nycc-2026-11-18",
+  "src": "/assets/posters/ashton-womack-amy-cardinale-nycc-2026-11-18.jpg",
+  "width": 1061,
+  "height": 660,
+  "source_url": "https://newyorkcomedyclub.com/events/ashton-womack-amy-cardinale-olivia-carter-maxwell-fine",
+  "credit": "Artwork: New York Comedy Club / show organizer",
+  "alt": "The image the club publishes for this Midtown showcase: Ashton Womack smiling on a street at night.",
+  "kind": "show artwork",
+  "original_image_url": "https://newyorkcomedynyc.com/img/imagetest/ashton-jpg-a41c09a7-ashton-jpg.jpg",
+  "retrieved_at": "2026-11-18",
+  "reuse_status": "Official promotional artwork from the show's public listing; no separate reuse license identified. Site display with credit only.",
+  "bytes": 77466,
+  "sha256": "af4f3aea5b698cc0939ce6e84e6974807071c506fe15c06333cc2f93223497b0"
  }
 ]

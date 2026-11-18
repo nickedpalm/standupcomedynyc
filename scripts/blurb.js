@@ -12,9 +12,17 @@
 
 // A run of initials (D.F., U.S., A.T.M.) or a common abbreviation (Mr., St., Dr., vs., etc.).
 const ABBREV = /\b(?:[A-Z]\.){1,3}|\b(?:Mr|Mrs|Ms|Dr|Prof|St|Jr|Sr|vs|etc|approx|est|Inc|Ltd|Co)\./g;
+// A price with cents: $30.85, $1,234.50. The dot in the number is not a sentence end,
+// so it has to be masked before the split, the same way an initialism's dot is.
+// Without this, a blurb that quotes a price ends mid-number on the card and in the caption:
+// "costs $15." and "a $12." (seen 2026-11-18).
+const MONEY = /\$\s*\d{1,3}(?:,\d{3})*(?:\.\d+)?/g;
 const MASK = '\u0001';
 
 const mask = (s) => String(s).replace(ABBREV, (m) => m.replace(/\./g, MASK));
+// Mask the decimal point inside a price. The whole number is replaced so the digit
+// grouping in "$1,234.50" cannot be broken by the split either.
+const maskMoney = (s) => String(s).replace(MONEY, (m) => m.replace(/\./g, MASK));
 const unmask = (s) => String(s).replace(new RegExp(MASK, 'g'), '.');
 
 // First sentence of a blurb. `limit` caps the sentence length; `headLen` caps the
@@ -23,7 +31,7 @@ const unmask = (s) => String(s).replace(new RegExp(MASK, 'g'), '.');
 function firstSentence(description, limit = 180, headLen = limit + 2) {
   const d = String(description || '').trim();
   if (!d) return '';
-  const masked = mask(d);
+  const masked = maskMoney(mask(d));
   const m = masked.match(new RegExp('^[^.!?]{12,' + limit + '}[.!?]'));
   if (m) return unmask(m[0]);
   if (masked.length <= 12) return '';

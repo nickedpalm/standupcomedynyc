@@ -13,14 +13,14 @@ Six weeks ahead from the board. Regenerated on every build; edit the data, not t
 
 Ranked 30; run 3, reuse 5, skip 22; ~243,000 tokens saved. No recent data: Kylie Vincent, Hotel Art Thief.
 
-## Week 1: Nov 18 to Nov 24 — 51 picks — 16 without artwork · 30 Eventbrite leads not yet reviewed
+## Week 1: Nov 18 to Nov 24 — 51 picks — 17 without artwork · 30 Eventbrite leads not yet reviewed
 
 - Wed Nov 18 7pm — **Kylie Vincent: Lesion Lady** at Sesh Comedy
 - Wed Nov 18 7:30pm · doors 7pm — **Invisible Architecture: An Evening of Comedy with Charlie Flynn** at Union Hall
-- Wed Nov 18 7:45pm — **Story Warz w/ Big Jay Oakerson, Luis J Gomez + Special Guests** at New York Comedy Club (Midtown)
+- Wed Nov 18 7:45pm — **Ashton Womack, Amy Cardinale, Olivia Carter, Maxwell Fine** at New York Comedy Club (Midtown)
 - Wed Nov 18 8pm — **DANU Live in America** at Eastville Comedy Club
 - Wed Nov 18 9pm — **You Can Call Me Al!** at Flop House Comedy
-- Wed Nov 18 9:30pm · doors 9pm — **A TRUE YORK COMEDY EXPERIENCE** at St. Marks Comedy Club
+- Wed Nov 18 9:30pm · doors 9pm — **Marito Lopez, Setareh, Alexis Carabano & more!** at St. Marks Comedy Club · NO ARTWORK
 - Wed Nov 18 10pm · doors 9:30pm — **Hotel Art Thief** at Union Hall
 - Thu Nov 19 6:30pm — **The Unhinged Variety Show: American Apocalypse** at Flop House Comedy
 - Thu Nov 19 7pm — **Facts Machine: Science Comedy & Trivia!** at Caveat
@@ -111,7 +111,7 @@ Ranked 30; run 3, reuse 5, skip 22; ~243,000 tokens saved. No recent data: Kylie
   - Sat Nov 28 10pm — Late Night Stand-Up NYC | Comedy on the Upper East Side at Upper East Side Comedy Club · from $12 · has artwork
   - Sun Nov 29 8pm — Tom Van Horn, Daniel Tirado, Carla Oakerson, Eagle Witt, Jason Choi, more! at Comic Strip Live · from $25.71 · has artwork
 
-## Week 3: Dec 2 to Dec 8 — 20 picks — 4 without artwork · 6 Eventbrite leads not yet reviewed
+## Week 3: Dec 2 to Dec 8 — 20 picks — 5 without artwork · 6 Eventbrite leads not yet reviewed
 
 - Wed Dec 2 7:30pm — **Ania Magliano: Peach Fuzz** at The Bell House · heat 32
 - Wed Dec 2 7:30pm · doors 7pm — **Cold Plunge with Kurt Braunohler** at Union Hall
@@ -127,7 +127,7 @@ Ranked 30; run 3, reuse 5, skip 22; ~243,000 tokens saved. No recent data: Kylie
 - Sun Dec 6 7:30pm — **Daniela Mora, Laz Rivero, Alexis Carabaño** at St. Marks Comedy Club · NO ARTWORK
 - Sun Dec 6 7:30pm · doors 7pm — **Jenny & Alex Try New Jokes** at Union Hall
 - Mon Dec 7 8pm · doors 7pm — **R&B Karaoke and Comedy** at Comedy In Harlem · NO ARTWORK
-- Mon Dec 7 9:30pm · doors 9pm — **A TRUE YORK COMEDY EXPERIENCE** at St. Marks Comedy Club
+- Mon Dec 7 9:30pm · doors 9pm — **A TRUE YORK COMEDY EXPERIENCE** at St. Marks Comedy Club · NO ARTWORK
 - Tue Dec 8 7:30pm — **Alyce Chan** at New York Comedy Club (Upper West Side) · SOLD OUT · heat 100
 - Tue Dec 8 7:30pm — **The Silver Lining with Gianmarco Soresi** at The Bell House
 - Tue Dec 8 8pm — **Not Ripe Bananas** at West Side Comedy Club

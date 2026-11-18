@@ -1510,3 +1510,57 @@ the caption cap (240), so no card shows a truncated fragment.
 07:51 PST and has no refresh path, so the Instagram side can neither be read
 nor published — the 19:00 carousel and 20:30 story runs fail on the same
 token, and so do the comment and DM checks.
+
+---
+
+## 2026-11-18 (19:00 UTC) — Instagram carousel run: three stale picks corrected
+
+Tonight's board was published with three picks whose source pages had moved
+underneath us. All three were verified against the venues' own calendars
+before the carousel went out.
+
+**Story Warz was replaced on NYCC's calendar.** The Nov 18 7:45pm Midtown
+slot is now *Ashton Womack, Amy Cardinale, Olivia Carter, Maxwell Fine* —
+the old Story Warz URL redirects straight to it. Story Warz itself is on
+Nov 25, Dec 9 and Dec 16, so the Nov 18 pick is now the Womack showcase,
+with its own artwork (sha256
+`af4f3aea5b698cc0939ce6e84e6974807071c506fe15c06333cc2f93223497b0`).
+The card and the caption name Womack as the reason to go: he is the newest
+Daily Show writer, and the club's own comedian page is what confirms it.
+
+**The St. Marks 9:30pm slot was a different show.** The pick was listed as
+"A True York Comedy Experience" with the lineup Keenan Steiner, Alexis
+Carabano, Danny Carabano and Macy Kwok, at $18.51. That page now shows
+*Marito Lopez, Setareh, Alexis Carabano & more!* — doors 9pm, show 9:30 to
+11pm, $8 plus a $2 service fee. The pick now carries that title, that
+lineup, that price and the page's own time. It has no artwork: the only
+image the show page offers is a headshot, and a headshot is not a flyer.
+
+**The room photo we held for St. Marks was the wrong club.** The image on
+both A True York picks (Nov 18 and Dec 7) is a photograph of the Comedy
+Cellar's interior — the illuminated sign on the right reads COMEDY CELLAR
+and the back wall carries Comedy Cellar graffiti. It was never a picture of
+St. Marks. Both picks now have `poster: null`, and the file and its
+provenance record are retired. Dec 7's show itself is fine: the page still
+lists A True York with Riley Flanagan, Alexis Carabano, Danny Carabano and
+Macy Kwok at $15 plus $2.
+
+**DANU is off Eastville's calendar but the show is on.** Eastville delisted
+it — the calendar shows 0 shows on Nov 18 and the show page 404s — but the
+producer's own page still lists Wednesday Nov 18 at 8pm at EastVille, and
+they were still posting about it on Nov 17. The pick now points at the
+producer's page, which is where the tickets actually are, and the price is
+the $50 e-ticket that page charges. The flyer confirms New York, Wednesday
+November 18, EastVille Comedy Club, 487 Atlantic Ave.
+
+**A decimal point in a price was ending sentences on cards and in captions.**
+`scripts/blurb.js` masked initials and abbreviations but not the dot in
+`$30.85`, so any blurb quoting a price was cut mid-number: "costs $15."
+and "a $12." on the card and in the caption. It now masks the decimal point
+in a price the same way. Measured over the whole board: 5 card/caption
+pairs changed across 144 picks, every one of them previously truncated
+mid-number, and 0 cards now end mid-number.
+
+`npm test` passes: 144 picks, 32 rooms, 33 mics, 24 clubs. Tonight's caption
+is 2,001 characters against Instagram's 2,200 limit, and all seven of
+tonight's card blurbs render whole at the 180-character card cap.
