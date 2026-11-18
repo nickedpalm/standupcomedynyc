@@ -1428,3 +1428,85 @@ four comics.
 `/opt/data/profiles/comedy/.env`. Without it nothing can be read *or*
 published — the 19:00 carousel and 20:30 story runs failed on the same token
 yesterday and will fail again tonight.
+
+## 2026-11-18 (recovery of the 11:00 edition run)
+
+The 11:00 edition run hit its tool-iteration cap before it committed, so its
+verified work was sitting uncommitted in the tree. The 09:15 nightly job runs
+`git add -A`, so that work was about to be published under a misleading
+"Nightly" message, together with a pile of scratch files. It was re-verified
+here and landed as its own commit.
+
+**Five picks added (all pages opened today):**
+
+- **Off Menu Comedy** — Greenpoint Comedy Club, Sat Nov 21, 6pm, doors 5:30pm,
+  $22.00 incl. $2.00 fee. Read on the room's own Punchup listing and its
+  Tixologi checkout page. Hosts named on both: Art Cai, Meredith Dietz,
+  Allie Lawrence.
+- **Plain Slice Comedy** — Fort Hamilton Distillery & Tasting Room, Fri Nov 20,
+  7:30pm, doors 7pm, free, pay what you wish with donations split among the
+  comics. The distillery's own event page carries the date and the timings
+  (cocktail hour 6, doors 7, show 7:30, end 9:30); the Eventbrite series page
+  carries the flyer and the eight names.
+- **Comedy 4 Flatbush** — Friends and Lovers, Fri Nov 20, 7pm, $17.85
+  ($15 + $2.85 fee), a 150-minute benefit for the Flatbush Building Collapse
+  Relief Fund. The listing says 30 comedians at 3 minutes each.
+- **Avery McClure & Friends** — Union Hall, Sat Nov 21, 7:30pm, doors 7pm,
+  $15.92 advance ($12 + $3.92 fee), $19.26 at the door. The listing names only
+  Avery McClure as headliner; "and his own friends" is the show's own title.
+- **Popcorn Comedy with TaTa Sherise** — Oliver's Astoria, Thu Nov 19, 7:30pm,
+  $23.18. This replaces "Popcorn Comedy with Ian Lara", which had been pointing
+  at Eventbrite id 2004412545882 — an id that now serves a different headliner
+  at the same slot, time and price. Re-pointed, re-blurred and renamed.
+
+**Two blurb errors found and fixed during verification.**
+
+1. The Avery McClure blurb said the show was "in the upstairs room". Union
+   Hall's own FAQ says "The venue is located on our basement level"; the
+   upstairs floor is the bocce-and-booths bar, and the downstairs room is the
+   one that holds shows. Now says basement room.
+2. The Off Menu blurb said "the room stays small" and "you are still eating
+   when the first set starts". Neither is stated anywhere citable — Greenpoint
+   Comedy Club does not publish a room size — so both came out and the hosts'
+   names went in instead.
+
+**Provenance error fixed.** The Clint Coley pick's poster `source_url` cited
+the Live Nation page for *Emily Wilson & Friends* (Dec 12, a different show).
+The poster file itself is byte-identical to the og:image on the Dec 13 Clint
+Coley page, so only the URL was wrong. Now points at
+`livenation.com/event/1AYZkf-GkdQLaL-/clint-coley`, whose `<title>` reads
+"Clint Coley at The Bell House on Sun, Dec 13, 2026, 6:00 PM".
+
+**Five stale picks re-verified and re-stamped to 2026-11-18.** Three St. Marks
+pages (Date Night Comedy Nov 26 8:30pm, Down Bad Comedy Nov 25 7:30pm,
+Friday Night Laughs Nov 27 8:30pm) and two Bell House Live Nation pages
+(Clint Coley Dec 13 6pm, The Silver Lining with Gianmarco Soresi Nov 29
+7:30pm) were each fetched and their `<title>` read back. Prices unchanged.
+
+**Plain Slice's recurring record was wrong and is now fixed.** It claimed a
+"3rd Friday of every month" cadence, but its own verification note listed
+"Oct 16, Nov 1" — and Nov 1, 2026 was a Sunday, so the note never supported
+the claim. The distillery's own event page and the Eventbrite series page
+both say the show runs every 3rd Friday. Oct 16 and Nov 20, 2026 are both
+third Fridays. The record now carries the timings the venue's page states
+(cocktail hour 6pm, doors 7pm, show 7:30pm) and a note that matches them.
+
+**Poster provenance checked by byte and by eye.** All four new posters
+sha256-match their POSTER-SOURCES records byte for byte, and each was opened
+and read: the Off Menu flyer names its three hosts and Nov 21 at 6pm; the
+Plain Slice flyer names Alex Shklar, the eight comics and 21+; the Comedy 4
+Flatbush flyer names the Flatbush Building Collapse Relief Fund; the Avery
+McClure flyer is the room's own design over a vintage photo, reading
+"Avery McClure & Friends! / Union Hall 11/21 @ 7:30pm".
+
+**Every new blurb now renders whole on the card cap** (180 chars) as well as
+the caption cap (240), so no card shows a truncated fragment.
+
+`npm test` passes: 144 picks, 32 rooms, 33 mics, 24 clubs. Horizon is
+51/21/20/23/18/11 over six weeks — every week clears the 8-pick floor.
+
+**The one thing still needed from Nick:** a fresh `IG_ACCESS_TOKEN` in
+`/opt/data/profiles/comedy/.env`. The token on the box expired on Nov 14 at
+07:51 PST and has no refresh path, so the Instagram side can neither be read
+nor published — the 19:00 carousel and 20:30 story runs fail on the same
+token, and so do the comment and DM checks.

@@ -914,3 +914,34 @@ venue, so what is missing is the club-guide entry, not the room.
 Also noted for the next open-mic pass: Badslava carried one new row,
 Laughing Buddha Sunday 3:30pm, but the room own page lists Wednesday and
 Thursday mics only, so it was not confirmed and not added.
+
+## 2026-11-18
+
+**Plain Slice Comedy (Fort Hamilton Distillery & Tasting Room) — record
+corrected.** The entry claimed a "3rd Friday of every month" cadence, but its
+own verification note listed the series dates as "Oct 16, Nov 1" — and Nov 1,
+2026 was a Sunday, so the note never supported the claim it was attached to.
+Re-verified against two sources today:
+
+- The distillery's own event page for the November instance: Friday November
+  20, 2026, cocktail hour 6:00pm, doors 7:00pm, show 7:30pm, ending 9:30pm,
+  at 68 34th Street, 2nd Floor, Industry City.
+- The Eventbrite series page, which states "Plain Slice Comedy shows are every
+  3rd Fridays of the month" and carries the flyer plus the eight names for
+  that date (Andrew Ginsberg, Richard Sarvate, Paul Valdes-Rodriguez, Brittany
+  Cardwell, Will Purpura, Damon Millard, Ryan Walsh, Ivan Richter).
+
+Oct 16 and Nov 20, 2026 are both third Fridays, so the cadence now matches
+both pages. The `time_label` now reads "7:30pm · doors 7pm · cocktail hour
+6pm" and the note records the timings the venue's page states.
+
+The distillery's own events index at `/upcomingevents` is the better source
+than Eventbrite for this room — it carries the address, the timings and the
+plain-text description, while the Eventbrite series page carries the flyer
+and the lineup.
+
+No new recurring room, open mic or club was added today. The open gap from
+the Nov 15 note still stands: **Eastville Comedy Club is still not in
+`clubs.json`**, and it has a registry entry with its real address (487
+Atlantic Avenue, Boerum Hill), so what is missing is the club-guide entry
+rather than the room itself.

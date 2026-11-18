@@ -518,18 +518,18 @@
   "title": "Plain Slice Comedy",
   "cadence": "3rd Friday of every month",
   "weekday": 5,
-  "time_label": "7:30pm",
+  "time_label": "7:30pm \u00b7 doors 7pm \u00b7 cocktail hour 6pm",
   "venue": "Fort Hamilton Distillery & Tasting Room",
   "address": "68 34th Street, Building 6, 2nd Floor, Brooklyn",
   "neighborhood": "Sunset Park",
   "price_label": "Free (donations split among the comics; pay what you wish, please support the venue)",
   "price_amount": 0,
   "format": "Stand-up",
-  "description": "Free Friday comedy at the Fort Hamilton Distillery's second-floor tasting room, hosted by Alex Shklar; cocktail hour at 6, doors 7, show 7:30; Industry City in Sunset Park.",
+  "description": "Free Friday comedy in the distillery's second-floor tasting room, hosted by Alex Shklar; cocktail hour at six, doors at seven, show at half past, and a bill that usually mixes New York Comedy Club regulars with newer names.",
   "source_url": "https://www.eventbrite.com/e/plain-slice-comedy-fort-hamilton-distillery-industry-city-free-standup-tickets-1105141500979",
   "source_label": "Plain Slice Comedy Eventbrite series page",
-  "verified_at": "2026-10-07",
-  "verification_note": "Series page lists 3rd-Friday dates (Oct 16, Nov 1) under the Fort Hamilton Distillery & Tasting Room location (68 34th St, Building 6, 2nd Floor). The distillery's own events page is a stale May 2025 stub and is not the source of record. Alex Shklar is the listed organizer with 459 total events on Eventbrite."
+  "verified_at": "2026-11-18",
+  "verification_note": "Re-verified 2026-11-18. The distillery's own event page for the November instance confirms Friday November 20, 2026, cocktail hour 6:00pm, doors 7:00pm, show 7:30pm, ending 9:30pm, at 68 34th Street, 2nd Floor, Industry City. The Eventbrite series page carries the flyer and the eight names for that date. The earlier note listed Oct 16 and Nov 1 as the series dates; Nov 1 was a Sunday and was wrong. The third-Friday cadence now matches both pages, and Nov 20, 2026 is the next date."
  },
  {
   "id": "post-moves-comedy-bar-bayeux",

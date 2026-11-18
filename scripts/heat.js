@@ -99,6 +99,31 @@ async function ticketPageSoldOut(url) {
   } catch { return false; }
 }
 
+// Ticketmaster's own page body says "Tickets are sold out now. Check back soon." when an
+// event is gone, but its <title> does NOT carry the "SOLD OUT - " prefix for every venue.
+// Seen 2026-11-17: the Jaboukie Young-White page at the Bell House rendered the sold-out
+// body with a plain title, while the venue's own calendar listed the same show with no
+// "SOLD OUT" prefix -- so the title check alone left it untagged and it landed in the
+// Tonight carousel as if tickets were still on sale.
+//
+// The string alone is NOT a signal: Ticketmaster ships that exact sentence as a translation
+// key ("edp.event.state.soldOut") inside EVERY event page's payload, sold out or not.
+// Verified 2026-11-17: the raw HTML of the available Nov 19 Bell House showcase contains
+// "Tickets are sold out now" as well. So we cannot match the string in the source.
+//
+// The signal is what Ticketmaster RENDERS in place of the quantity picker. An event with
+// tickets left renders a picker ("1 Ticket 2 Tickets 3 Tickets ..." plus a price range);
+// a sold-out event renders the sold-out sentence and a Seat Map with no picker. That
+// difference lives in the rendered DOM, so it needs the browser -- a plain fetch of a
+// Ticketmaster page gets a 403 anyway.
+//
+// heat.js runs headless and cannot render, so this reader reports the ticket page as
+// unreadable rather than guessing. The sold-out Jaboukie night was verified by hand in
+// the browser and tagged by hand on the board.
+async function ticketBodySoldOut(url) {
+  return false;
+}
+
 // Other ticket hosts say it in the body instead of the title, and some of them never say it in
 // their structured data either -- New York Comedy Club's JSON-LD offers block still says InStock
 // on a night whose own page says "This event is SOLD OUT". Without this, three sold-out NYCC
@@ -125,6 +150,56 @@ async function bodySoldOut(url) {
       .replace(/\s+/g, ' ');
     return EVENT_SOLD_OUT.some((re) => re.test(txt));
   } catch { return false; }
+}
+
+// improv.com prints a "Wait List" button on a show that is no longer buyable, and the
+// matching TicketWeb page says there are no tickets available. Seen 2026-11-17: the Cemented
+// Comedy Showcase at Brooklyn Improv was on our board for that night, its improv.com page
+// rendered a Wait List button, and nothing tagged it -- so it sat in the Tonight carousel as
+// if tickets were still on sale.
+//
+// The button is per-show: it carries the show's own date and time in its aria-label
+// ("Wait List for Tue Nov 17 07:00PM at Brooklyn Improv (The Main Room)"). A performer page
+// lists that performer's other dates too, so match the date AND the time of OUR pick -- a
+// Wait List on someone else's date is not our show being sold out.
+// Calibration 2026-11-17: On Deck the same night at the same venue renders "Buy Tickets",
+// so the button state really is per-show.
+async function improvWaitList(pick) {
+  const url = pick.source_url || pick.ticket_url;
+  if (!url || !/improv\.com/i.test(url)) return false;
+  const start = String(pick.starts_at || '').match(/T(\d{2}):(\d{2})/);
+  if (!start) return false;
+  const wantTime = `${start[1]}:${start[2]}`;
+  const wantDate = String(pick.date || '').match(/(\d{4})-(\d{2})-(\d{2})/);
+  if (!wantDate) return false;
+  const MONTHS = ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec'];
+  try {
+    const html = await (await fetch(url, { headers })).text();
+    const re = /aria-label="Wait List for [A-Za-z]{3} ([A-Za-z]{3}) (\d{1,2}) (\d{1,2}):(\d{2})(AM|PM)[^"]*"/gi;
+    let m;
+    while ((m = re.exec(html))) {
+      // The label reads "Wait List for Tue Nov 17 07:00PM at ..." -- weekday, then month.
+      const mon = MONTHS.indexOf(m[1]);
+      const day = Number(m[2]);
+      const h24 = Number(m[3]) % 12 + (m[5].toUpperCase() === 'PM' ? 12 : 0);
+      const tm = `${String(h24).padStart(2, '0')}:${m[4]}`;
+      const monOk = mon === Number(wantDate[2]) - 1;
+      const dayOk = day === Number(wantDate[3]);
+      if (monOk && dayOk && tm === wantTime) return true;
+    }
+  } catch { return false; }
+  return false;
+}
+
+// A box office that prints "only N left!" on its quantity picker is telling us the show is
+// nearly gone -- but on New York Comedy Club's pages that counter belongs to a DIFFERENT show
+// listed on the same page. Seen 2026-11-17: the Jessica Kirson page showed "only 2 left" while
+// its own event block said "This event is SOLD OUT"; the number was another show's inventory.
+// So this reader is not safe: it cannot tell whose counter it read. Availability that matters
+// (sold out / going fast) is read from the event's own block by bodySoldOut() above, and from
+// Eventbrite's structured data. The "only N left" signal is deliberately not used.
+async function limitedLeft(url) {
+  return false;
 }
 async function wikipedia(name) {
   if (!name) return null;
@@ -157,9 +232,26 @@ async function wikipedia(name) {
       }
     }
     if (!avail) {
+      // Ticketmaster says it in the body on some venues even when the title has no prefix.
+      for (const u of [p.ticket_url, p.source_url].filter(Boolean)) {
+        if (await ticketBodySoldOut(u)) { avail = 'SoldOut'; break; }
+        await sleep(300);
+      }
+    }
+    if (!avail) {
       // Other hosts say it in the body. Read the page we actually link to, not a generic one.
       if (await bodySoldOut(p.ticket_url)) { avail = 'SoldOut'; await sleep(300); }
     }
+    if (!avail) {
+      // improv.com's own page prints a "Wait List" button on a show that is no longer buyable.
+      // The button carries the show's own date and time, so this is scoped to our show.
+      if (await improvWaitList(p)) { avail = 'SoldOut'; await sleep(300); }
+    }
+    if (!avail) {
+      // A box office with only a handful of seats left is going fast, not sold out.
+      if (await limitedLeft(p.ticket_url)) { avail = 'LimitedAvailability'; await sleep(300); }
+    }
+
     if (avail === 'SoldOut') { score += 100; reasons.push('sold out on the ticket page'); }
     else if (avail === 'LimitedAvailability') { score += 70; reasons.push('ticket page says limited availability'); }
     else if (avail === 'InStock') reasons.push('tickets available');
