@@ -1715,7 +1715,7 @@
  },
  {
   "event_id": "jessica-kirson-nycc-2026-11-17",
-  "src": "/assets/posters/jessica-kirson-nycc-2026-11-17.jpg",
+  "src": "/assets/posters/archive/jessica-kirson-nycc-2026-11-17.jpg",
   "width": 990,
   "height": 660,
   "source_url": "https://newyorkcomedyclub.com/events/jessica-kirson-live-in-new-york-2026-11-17190000",
@@ -1726,7 +1726,8 @@
   "verified_at": "2026-10-13",
   "bytes": 47123,
   "sha256": "c45e1f34c719a82883d73bc21850b5ba53a845434ddbdb586e71162fdc83b01b",
-  "reuse_status": "Official promotional artwork; no separate reuse license identified. Local review draft only."
+  "reuse_status": "Official promotional artwork; no separate reuse license identified. Local review draft only.",
+  "archived": true
  },
  {
   "event_id": "opey-olagbaju-union-hall-2026-11-20",
@@ -3599,7 +3600,7 @@
  },
  {
   "event_id": "cemented-comedy-showcase-brooklyn-improv-2026-11-17",
-  "src": "/assets/posters/cemented-comedy-showcase-brooklyn-improv-2026-11-17.png",
+  "src": "/assets/posters/archive/cemented-comedy-showcase-brooklyn-improv-2026-11-17.png",
   "width": 1200,
   "height": 800,
   "source_url": "https://improv.com/brooklyn/event/cemented+comedy+showcase+%28live+taping%29+ft.+shane+torres%2c+maddy+smith%2c+reg+thomas%2c+yvette+segan%2c+jay+jurden%2c+and+eva+evans/14386474/",
@@ -3610,7 +3611,8 @@
   "retrieved_at": "2026-11-11",
   "bytes": 2475432,
   "sha256": "e6df533cc6de1f577681713476cb3f5a02f24a104af9a399bbe4570fa2272a41",
-  "reuse_status": "Official promotional artwork from the show's listing; no separate reuse license identified. Site display with credit only."
+  "reuse_status": "Official promotional artwork from the show's listing; no separate reuse license identified. Site display with credit only.",
+  "archived": true
  },
  {
   "event_id": "gina-brillon-brooklyn-improv-2026-12-02",
@@ -3786,7 +3788,7 @@
  },
  {
   "event_id": "best-indie-comedy-cobble-hill-2026-11-17",
-  "src": "/assets/posters/best-indie-cobble-hill-2026-11-17.jpg",
+  "src": "/assets/posters/archive/best-indie-cobble-hill-2026-11-17.jpg",
   "width": 940,
   "height": 470,
   "source_url": "https://www.eventbrite.com/e/the-best-indie-comedy-night-in-cobble-hill-tickets-2003844357415",
@@ -3797,7 +3799,8 @@
   "retrieved_at": "2026-11-14",
   "reuse_status": "Official promotional artwork from the show's own public listing; no separate reuse license identified. Site display with credit only.",
   "bytes": 23433,
-  "sha256": "f271bd4afe295fd6b86e2d47303e612ade01ec1c68f6a09d00449f183a0c3a27"
+  "sha256": "f271bd4afe295fd6b86e2d47303e612ade01ec1c68f6a09d00449f183a0c3a27",
+  "archived": true
  },
  {
   "event_id": "invisible-architecture-union-hall-2026-11-18",
