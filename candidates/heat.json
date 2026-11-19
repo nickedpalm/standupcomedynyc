@@ -1,23 +1,7 @@
 {
- "generated_at": "2026-11-18T14:14:46.298Z",
+ "generated_at": "2026-11-19T09:23:28.773Z",
  "note": "Demand signals for the editor. Only availability and second shows set the public demand tag.",
  "picks": [
-  {
-   "id": "one-in-35-whiskey-cellar-2026-11-19",
-   "title": "ONE IN 35: Stand-Up Comedy With a One-in-35 Chance Your Drinks Are On Us",
-   "venue": "Whiskey Cellar NYC",
-   "date": "2026-11-19",
-   "heat": 100,
-   "demand": "sold_out",
-   "availability": "SoldOut",
-   "second_show": false,
-   "performer": null,
-   "wikipedia": null,
-   "reddit": null,
-   "reasons": [
-    "sold out on the ticket page"
-   ]
-  },
   {
    "id": "fahim-anwar-bell-house-2026-11-20",
    "title": "Fahim Anwar",
@@ -29,14 +13,7 @@
    "second_show": false,
    "performer": "Fahim Anwar",
    "wikipedia": null,
-   "reddit": {
-    "phrase": "Fahim Anwar",
-    "posts_30d": 0,
-    "upvotes": 0,
-    "comments": 0,
-    "subreddits": [],
-    "top": null
-   },
+   "reddit": null,
    "reasons": [
     "sold out on the ticket page"
    ]
@@ -53,37 +30,36 @@
    "performer": "Jessica Kirson",
    "wikipedia": {
     "title": "Jessica Kirson",
-    "views_30d": 13935,
-    "views_prior_30d": 13235,
-    "change": 5
+    "views_30d": 13822,
+    "views_prior_30d": 13429,
+    "change": 3
    },
-   "reddit": {
-    "phrase": "Jessica Kirson",
-    "posts_30d": 3,
-    "upvotes": 3,
-    "comments": 10,
-    "subreddits": [
-     "longislandliveevents",
-     "Accents",
-     "CasualConversation"
-    ],
-    "top": {
-     "title": "Stand-Up this Weekend - Zarna Garg, Jessica Kirson, Yannis Pappas, Joey Kola and more are all coming to Long Island!",
-     "subreddit": "longislandliveevents",
-     "score": 2,
-     "url": "https://www.reddit.com/r/longislandliveevents/comments/1xn692k/standup_this_weekend_zarna_garg_jessica_kirson/"
-    }
-   },
+   "reddit": null,
    "reasons": [
     "sold out on the ticket page",
-    "Wikipedia: 465 views a day",
-    "Reddit: 3 posts in 30 days, 3 upvotes (top: r/longislandliveevents)"
+    "Wikipedia: 461 views a day"
    ]
   },
   {
    "id": "pizzazz-gary-gulman-union-hall-2026-11-25",
    "title": "Pizzazz with Gary Gulman",
    "venue": "Union Hall",
+   "date": "2026-11-25",
+   "heat": 100,
+   "demand": "sold_out",
+   "availability": "SoldOut",
+   "second_show": false,
+   "performer": null,
+   "wikipedia": null,
+   "reddit": null,
+   "reasons": [
+    "sold out on the ticket page"
+   ]
+  },
+  {
+   "id": "story-warz-nycc-2026-11-25",
+   "title": "Story Warz w/ Big Jay Oakerson, Luis J Gomez + Special Guests",
+   "venue": "New York Comedy Club (Midtown)",
    "date": "2026-11-25",
    "heat": 100,
    "demand": "sold_out",
@@ -108,21 +84,14 @@
    "performer": "Demetri Martin",
    "wikipedia": {
     "title": "Demetri Martin",
-    "views_30d": 15655,
-    "views_prior_30d": 12616,
-    "change": 24
+    "views_30d": 15188,
+    "views_prior_30d": 13108,
+    "change": 16
    },
-   "reddit": {
-    "phrase": "Demetri Martin",
-    "posts_30d": 0,
-    "upvotes": 0,
-    "comments": 0,
-    "subreddits": [],
-    "top": null
-   },
+   "reddit": null,
    "reasons": [
     "sold out on the ticket page",
-    "Wikipedia: 522 views a day"
+    "Wikipedia: 506 views a day"
    ]
   },
   {
@@ -137,21 +106,14 @@
    "performer": "Demetri Martin",
    "wikipedia": {
     "title": "Demetri Martin",
-    "views_30d": 15655,
-    "views_prior_30d": 12616,
-    "change": 24
+    "views_30d": 15188,
+    "views_prior_30d": 13108,
+    "change": 16
    },
-   "reddit": {
-    "phrase": "Demetri Martin",
-    "posts_30d": 0,
-    "upvotes": 0,
-    "comments": 0,
-    "subreddits": [],
-    "top": null
-   },
+   "reddit": null,
    "reasons": [
     "sold out on the ticket page",
-    "Wikipedia: 522 views a day"
+    "Wikipedia: 506 views a day"
    ]
   },
   {
@@ -165,14 +127,7 @@
    "second_show": false,
    "performer": "Alyce Chan",
    "wikipedia": null,
-   "reddit": {
-    "phrase": "Alyce Chan",
-    "posts_30d": 0,
-    "upvotes": 0,
-    "comments": 0,
-    "subreddits": [],
-    "top": null
-   },
+   "reddit": null,
    "reasons": [
     "sold out on the ticket page"
    ]
@@ -188,26 +143,9 @@
    "second_show": false,
    "performer": "Gavin Matts",
    "wikipedia": null,
-   "reddit": {
-    "phrase": "Gavin Matts",
-    "posts_30d": 4,
-    "upvotes": 498,
-    "comments": 54,
-    "subreddits": [
-     "Standup",
-     "StandUpComedy",
-     "justforlaughs"
-    ],
-    "top": {
-     "title": "Just want to shout out Gavin Matts new special",
-     "subreddit": "Standup",
-     "score": 486,
-     "url": "https://www.reddit.com/r/Standup/comments/1xbsoe0/just_want_to_shout_out_gavin_matts_new_special/"
-    }
-   },
+   "reddit": null,
    "reasons": [
-    "sold out on the ticket page",
-    "Reddit: 4 posts in 30 days, 498 upvotes (top: r/Standup)"
+    "sold out on the ticket page"
    ]
   },
   {
@@ -222,18 +160,11 @@
    "performer": "Ralph Barbosa",
    "wikipedia": {
     "title": "Ralph Barbosa",
-    "views_30d": 3667,
-    "views_prior_30d": 6882,
-    "change": -47
+    "views_30d": 3577,
+    "views_prior_30d": 6847,
+    "change": -48
    },
-   "reddit": {
-    "phrase": "Ralph Barbosa",
-    "posts_30d": 0,
-    "upvotes": 0,
-    "comments": 0,
-    "subreddits": [],
-    "top": null
-   },
+   "reddit": null,
    "reasons": [
     "sold out on the ticket page"
    ]
@@ -243,111 +174,21 @@
    "title": "Michelle Wolf: Best Job in the World",
    "venue": "The Town Hall",
    "date": "2026-11-19",
-   "heat": 50,
+   "heat": 35,
    "demand": null,
    "availability": null,
    "second_show": false,
    "performer": "Michelle Wolf",
    "wikipedia": {
     "title": "Michelle Wolf",
-    "views_30d": 29339,
-    "views_prior_30d": 11879,
-    "change": 147
+    "views_30d": 30111,
+    "views_prior_30d": 11868,
+    "change": 154
    },
-   "reddit": {
-    "phrase": "Michelle Wolf",
-    "posts_30d": 4,
-    "upvotes": 449,
-    "comments": 104,
-    "subreddits": [
-     "Standup",
-     "StandUpComedy"
-    ],
-    "top": {
-     "title": "Saw Michelle Wolf’s new hour “Best Job in the World” last night.",
-     "subreddit": "Standup",
-     "score": 232,
-     "url": "https://www.reddit.com/r/Standup/comments/1xpd1iw/saw_michelle_wolfs_new_hour_best_job_in_the_world/"
-    }
-   },
+   "reddit": null,
    "reasons": [
-    "Wikipedia: 978 views a day",
-    "Wikipedia views up 147% over the prior month",
-    "Reddit: 4 posts in 30 days, 449 upvotes (top: r/Standup)"
-   ]
-  },
-  {
-   "id": "ania-magliano-peach-fuzz-bell-house-2026-12-02",
-   "title": "Ania Magliano: Peach Fuzz",
-   "venue": "The Bell House",
-   "date": "2026-12-02",
-   "heat": 32,
-   "demand": null,
-   "availability": null,
-   "second_show": false,
-   "performer": "Ania Magliano",
-   "wikipedia": {
-    "title": "Ania Magliano",
-    "views_30d": 75526,
-    "views_prior_30d": 65403,
-    "change": 15
-   },
-   "reddit": {
-    "phrase": "Ania Magliano",
-    "posts_30d": 2,
-    "upvotes": 133,
-    "comments": 7,
-    "subreddits": [
-     "livefromlondon",
-     "LiveFromNewYork"
-    ],
-    "top": {
-     "title": "Saturday Night Live UK is nominated for Comedy Entertainment at Rose D’or Awards 2026 with the event hosted by Ania Magliano.",
-     "subreddit": "livefromlondon",
-     "score": 125,
-     "url": "https://www.reddit.com/r/livefromlondon/comments/1xsk9yb/saturday_night_live_uk_is_nominated_for_comedy/"
-    }
-   },
-   "reasons": [
-    "Wikipedia: 2518 views a day",
-    "Reddit: 2 posts in 30 days, 133 upvotes (top: r/livefromlondon)"
-   ]
-  },
-  {
-   "id": "ania-magliano-peach-fuzz-bell-house-2026-12-03",
-   "title": "Ania Magliano: Peach Fuzz",
-   "venue": "The Bell House",
-   "date": "2026-12-03",
-   "heat": 32,
-   "demand": null,
-   "availability": null,
-   "second_show": false,
-   "performer": "Ania Magliano",
-   "wikipedia": {
-    "title": "Ania Magliano",
-    "views_30d": 75526,
-    "views_prior_30d": 65403,
-    "change": 15
-   },
-   "reddit": {
-    "phrase": "Ania Magliano",
-    "posts_30d": 2,
-    "upvotes": 134,
-    "comments": 7,
-    "subreddits": [
-     "livefromlondon",
-     "LiveFromNewYork"
-    ],
-    "top": {
-     "title": "Saturday Night Live UK is nominated for Comedy Entertainment at Rose D’or Awards 2026 with the event hosted by Ania Magliano.",
-     "subreddit": "livefromlondon",
-     "score": 127,
-     "url": "https://www.reddit.com/r/livefromlondon/comments/1xsk9yb/saturday_night_live_uk_is_nominated_for_comedy/"
-    }
-   },
-   "reasons": [
-    "Wikipedia: 2518 views a day",
-    "Reddit: 2 posts in 30 days, 134 upvotes (top: r/livefromlondon)"
+    "Wikipedia: 1004 views a day",
+    "Wikipedia views up 154% over the prior month"
    ]
   },
   {
@@ -362,21 +203,14 @@
    "performer": "Jacqueline Novak",
    "wikipedia": {
     "title": "Jacqueline Novak",
-    "views_30d": 10731,
-    "views_prior_30d": 3501,
-    "change": 207
+    "views_30d": 10634,
+    "views_prior_30d": 3648,
+    "change": 192
    },
-   "reddit": {
-    "phrase": "Jacqueline Novak",
-    "posts_30d": 0,
-    "upvotes": 0,
-    "comments": 0,
-    "subreddits": [],
-    "top": null
-   },
+   "reddit": null,
    "reasons": [
-    "Wikipedia: 358 views a day",
-    "Wikipedia views up 207% over the prior month"
+    "Wikipedia: 354 views a day",
+    "Wikipedia views up 192% over the prior month"
    ]
   },
   {
@@ -391,21 +225,14 @@
    "performer": "Jacqueline Novak",
    "wikipedia": {
     "title": "Jacqueline Novak",
-    "views_30d": 10731,
-    "views_prior_30d": 3501,
-    "change": 207
+    "views_30d": 10634,
+    "views_prior_30d": 3648,
+    "change": 192
    },
-   "reddit": {
-    "phrase": "Jacqueline Novak",
-    "posts_30d": 0,
-    "upvotes": 0,
-    "comments": 0,
-    "subreddits": [],
-    "top": null
-   },
+   "reddit": null,
    "reasons": [
-    "Wikipedia: 358 views a day",
-    "Wikipedia views up 207% over the prior month"
+    "Wikipedia: 354 views a day",
+    "Wikipedia views up 192% over the prior month"
    ]
   },
   {
@@ -441,34 +268,45 @@
    ]
   },
   {
-   "id": "ryan-davis-brooklyn-improv-2026-12-11",
-   "title": "Ryan Davis",
-   "venue": "Brooklyn Improv",
-   "date": "2026-12-11",
-   "heat": 11,
+   "id": "ania-magliano-peach-fuzz-bell-house-2026-12-02",
+   "title": "Ania Magliano: Peach Fuzz",
+   "venue": "The Bell House",
+   "date": "2026-12-02",
+   "heat": 20,
    "demand": null,
    "availability": null,
    "second_show": false,
-   "performer": "Ryan Davis",
-   "wikipedia": null,
-   "reddit": {
-    "phrase": "Ryan Davis",
-    "posts_30d": 2,
-    "upvotes": 53,
-    "comments": 18,
-    "subreddits": [
-     "PodcastSnarks",
-     "Killtony"
-    ],
-    "top": {
-     "title": "Ryan Davis says white comics need to get better at comedy because too many of them lean on Black jokes as their main material",
-     "subreddit": "PodcastSnarks",
-     "score": 53,
-     "url": "https://www.reddit.com/r/PodcastSnarks/comments/1xvdzlj/ryan_davis_says_white_comics_need_to_get_better/"
-    }
+   "performer": "Ania Magliano",
+   "wikipedia": {
+    "title": "Ania Magliano",
+    "views_30d": 66142,
+    "views_prior_30d": 75412,
+    "change": -12
    },
+   "reddit": null,
    "reasons": [
-    "Reddit: 2 posts in 30 days, 53 upvotes (top: r/PodcastSnarks)"
+    "Wikipedia: 2205 views a day"
+   ]
+  },
+  {
+   "id": "ania-magliano-peach-fuzz-bell-house-2026-12-03",
+   "title": "Ania Magliano: Peach Fuzz",
+   "venue": "The Bell House",
+   "date": "2026-12-03",
+   "heat": 20,
+   "demand": null,
+   "availability": null,
+   "second_show": false,
+   "performer": "Ania Magliano",
+   "wikipedia": {
+    "title": "Ania Magliano",
+    "views_30d": 66142,
+    "views_prior_30d": 75412,
+    "change": -12
+   },
+   "reddit": null,
+   "reasons": [
+    "Wikipedia: 2205 views a day"
    ]
   },
   {
@@ -482,14 +320,7 @@
    "second_show": false,
    "performer": "Not Ripe Bananas",
    "wikipedia": null,
-   "reddit": {
-    "phrase": "Not Ripe Bananas",
-    "posts_30d": 0,
-    "upvotes": 0,
-    "comments": 0,
-    "subreddits": [],
-    "top": null
-   },
+   "reddit": null,
    "reasons": [
     "3 listings this month"
    ]
@@ -505,14 +336,7 @@
    "second_show": false,
    "performer": "Not Ripe Bananas",
    "wikipedia": null,
-   "reddit": {
-    "phrase": "Not Ripe Bananas",
-    "posts_30d": 0,
-    "upvotes": 0,
-    "comments": 0,
-    "subreddits": [],
-    "top": null
-   },
+   "reddit": null,
    "reasons": [
     "3 listings this month"
    ]
@@ -528,134 +352,9 @@
    "second_show": false,
    "performer": "Not Ripe Bananas",
    "wikipedia": null,
-   "reddit": {
-    "phrase": "Not Ripe Bananas",
-    "posts_30d": 0,
-    "upvotes": 0,
-    "comments": 0,
-    "subreddits": [],
-    "top": null
-   },
+   "reddit": null,
    "reasons": [
     "3 listings this month"
-   ]
-  },
-  {
-   "id": "kylie-vincent-lesion-lady-sesh-2026-11-18",
-   "title": "Kylie Vincent: Lesion Lady",
-   "venue": "Sesh Comedy",
-   "date": "2026-11-18",
-   "heat": 0,
-   "demand": null,
-   "availability": null,
-   "second_show": false,
-   "performer": "Kylie Vincent",
-   "wikipedia": null,
-   "reddit": {
-    "phrase": "Kylie Vincent",
-    "posts_30d": 0,
-    "upvotes": 0,
-    "comments": 0,
-    "subreddits": [],
-    "top": null
-   },
-   "reasons": []
-  },
-  {
-   "id": "invisible-architecture-union-hall-2026-11-18",
-   "title": "Invisible Architecture: An Evening of Comedy with Charlie Flynn",
-   "venue": "Union Hall",
-   "date": "2026-11-18",
-   "heat": 0,
-   "demand": null,
-   "availability": "InStock",
-   "second_show": false,
-   "performer": null,
-   "wikipedia": null,
-   "reddit": null,
-   "reasons": [
-    "tickets available"
-   ]
-  },
-  {
-   "id": "story-warz-nycc-2026-11-18",
-   "title": "Story Warz w/ Big Jay Oakerson, Luis J Gomez + Special Guests",
-   "venue": "New York Comedy Club (Midtown)",
-   "date": "2026-11-18",
-   "heat": 0,
-   "demand": null,
-   "availability": null,
-   "second_show": false,
-   "performer": null,
-   "wikipedia": null,
-   "reddit": null,
-   "reasons": []
-  },
-  {
-   "id": "danu-live-in-america-eastville-2026-11-18",
-   "title": "DANU Live in America",
-   "venue": "Eastville Comedy Club",
-   "date": "2026-11-18",
-   "heat": 0,
-   "demand": null,
-   "availability": null,
-   "second_show": false,
-   "performer": null,
-   "wikipedia": null,
-   "reddit": null,
-   "reasons": []
-  },
-  {
-   "id": "you-can-call-me-al-flop-house-2026-11-18",
-   "title": "You Can Call Me Al!",
-   "venue": "Flop House Comedy",
-   "date": "2026-11-18",
-   "heat": 0,
-   "demand": null,
-   "availability": "InStock",
-   "second_show": false,
-   "performer": null,
-   "wikipedia": null,
-   "reddit": null,
-   "reasons": [
-    "tickets available"
-   ]
-  },
-  {
-   "id": "a-true-york-st-marks-2026-11-18",
-   "title": "A TRUE YORK COMEDY EXPERIENCE",
-   "venue": "St. Marks Comedy Club",
-   "date": "2026-11-18",
-   "heat": 0,
-   "demand": null,
-   "availability": null,
-   "second_show": false,
-   "performer": null,
-   "wikipedia": null,
-   "reddit": null,
-   "reasons": []
-  },
-  {
-   "id": "hotel-art-thief-union-hall-2026-11-18",
-   "title": "Hotel Art Thief",
-   "venue": "Union Hall",
-   "date": "2026-11-18",
-   "heat": 0,
-   "demand": null,
-   "availability": "InStock",
-   "second_show": false,
-   "performer": "Hotel Art Thief",
-   "wikipedia": null,
-   "reddit": {
-    "phrase": "Hotel Art Thief",
-    "posts_30d": 0,
-    "upvotes": 0,
-    "comments": 0,
-    "subreddits": [],
-    "top": null
-   },
-   "reasons": [
-    "tickets available"
    ]
   },
   {
@@ -799,6 +498,22 @@
    "reasons": []
   },
   {
+   "id": "one-in-35-whiskey-cellar-2026-11-19",
+   "title": "ONE IN 35: Stand-Up Comedy With a One-in-35 Chance Your Drinks Are On Us",
+   "venue": "Whiskey Cellar NYC",
+   "date": "2026-11-19",
+   "heat": 0,
+   "demand": null,
+   "availability": "InStock",
+   "second_show": false,
+   "performer": null,
+   "wikipedia": null,
+   "reddit": null,
+   "reasons": [
+    "tickets available"
+   ]
+  },
+  {
    "id": "brownie-points-flop-house-2026-11-19",
    "title": "Brownie Points Comedy Show",
    "venue": "Flop House Comedy",
@@ -825,14 +540,7 @@
    "second_show": false,
    "performer": "Do It",
    "wikipedia": null,
-   "reddit": {
-    "phrase": "Do It",
-    "posts_30d": 0,
-    "upvotes": 0,
-    "comments": 0,
-    "subreddits": [],
-    "top": null
-   },
+   "reddit": null,
    "reasons": [
     "tickets available"
    ]
@@ -864,14 +572,7 @@
    "second_show": false,
    "performer": "Opey Olagbaju",
    "wikipedia": null,
-   "reddit": {
-    "phrase": "Opey Olagbaju",
-    "posts_30d": 0,
-    "upvotes": 0,
-    "comments": 0,
-    "subreddits": [],
-    "top": null
-   },
+   "reddit": null,
    "reasons": [
     "tickets available"
    ]
@@ -995,14 +696,7 @@
    "second_show": false,
    "performer": "Josh Mandl",
    "wikipedia": null,
-   "reddit": {
-    "phrase": "Josh Mandl",
-    "posts_30d": 0,
-    "upvotes": 0,
-    "comments": 0,
-    "subreddits": [],
-    "top": null
-   },
+   "reddit": null,
    "reasons": [
     "tickets available"
    ]
@@ -1096,14 +790,7 @@
    "second_show": false,
    "performer": "Ask Ronna",
    "wikipedia": null,
-   "reddit": {
-    "phrase": "Ask Ronna",
-    "posts_30d": 0,
-    "upvotes": 0,
-    "comments": 0,
-    "subreddits": [],
-    "top": null
-   },
+   "reddit": null,
    "reasons": []
   },
   {
@@ -1134,18 +821,11 @@
    "performer": "Christian Finnegan",
    "wikipedia": {
     "title": "Christian Finnegan",
-    "views_30d": 915,
-    "views_prior_30d": 925,
-    "change": -1
+    "views_30d": 913,
+    "views_prior_30d": 933,
+    "change": -2
    },
-   "reddit": {
-    "phrase": "Christian Finnegan",
-    "posts_30d": 0,
-    "upvotes": 0,
-    "comments": 0,
-    "subreddits": [],
-    "top": null
-   },
+   "reddit": null,
    "reasons": []
   },
   {
@@ -1215,14 +895,7 @@
    "second_show": false,
    "performer": "Famous Last Words",
    "wikipedia": null,
-   "reddit": {
-    "phrase": "Famous Last Words",
-    "posts_30d": 0,
-    "upvotes": 0,
-    "comments": 0,
-    "subreddits": [],
-    "top": null
-   },
+   "reddit": null,
    "reasons": [
     "tickets available"
    ]
@@ -1255,18 +928,11 @@
    "performer": "Judy Gold",
    "wikipedia": {
     "title": "Judy Gold",
-    "views_30d": 5722,
-    "views_prior_30d": 3948,
-    "change": 45
+    "views_30d": 5774,
+    "views_prior_30d": 3930,
+    "change": 47
    },
-   "reddit": {
-    "phrase": "Judy Gold",
-    "posts_30d": 0,
-    "upvotes": 0,
-    "comments": 0,
-    "subreddits": [],
-    "top": null
-   },
+   "reddit": null,
    "reasons": []
   },
   {
@@ -1303,20 +969,6 @@
    "id": "down-bad-comedy-st-marks-2026-11-25",
    "title": "Down Bad Comedy Show",
    "venue": "St. Marks Comedy Club",
-   "date": "2026-11-25",
-   "heat": 0,
-   "demand": null,
-   "availability": null,
-   "second_show": false,
-   "performer": null,
-   "wikipedia": null,
-   "reddit": null,
-   "reasons": []
-  },
-  {
-   "id": "story-warz-nycc-2026-11-25",
-   "title": "Story Warz w/ Big Jay Oakerson, Luis J Gomez + Special Guests",
-   "venue": "New York Comedy Club (Midtown)",
    "date": "2026-11-25",
    "heat": 0,
    "demand": null,
@@ -1541,18 +1193,11 @@
    "performer": "Ismael Loutfi",
    "wikipedia": {
     "title": "Ismael Loutfi",
-    "views_30d": 126,
-    "views_prior_30d": 97,
-    "change": 30
+    "views_30d": 131,
+    "views_prior_30d": 95,
+    "change": 38
    },
-   "reddit": {
-    "phrase": "Ismael Loutfi",
-    "posts_30d": 0,
-    "upvotes": 0,
-    "comments": 0,
-    "subreddits": [],
-    "top": null
-   },
+   "reddit": null,
    "reasons": [
     "tickets available"
    ]
@@ -1585,18 +1230,11 @@
    "performer": "Gina Brillon",
    "wikipedia": {
     "title": "Gina Brillon",
-    "views_30d": 900,
-    "views_prior_30d": 1289,
+    "views_30d": 894,
+    "views_prior_30d": 1269,
     "change": -30
    },
-   "reddit": {
-    "phrase": "Gina Brillon",
-    "posts_30d": 0,
-    "upvotes": 0,
-    "comments": 0,
-    "subreddits": [],
-    "top": null
-   },
+   "reddit": null,
    "reasons": []
   },
   {
@@ -1868,6 +1506,20 @@
    "reasons": []
   },
   {
+   "id": "ryan-davis-brooklyn-improv-2026-12-11",
+   "title": "Ryan Davis",
+   "venue": "Brooklyn Improv",
+   "date": "2026-12-11",
+   "heat": 0,
+   "demand": null,
+   "availability": null,
+   "second_show": false,
+   "performer": "Ryan Davis",
+   "wikipedia": null,
+   "reddit": null,
+   "reasons": []
+  },
+  {
    "id": "grove-comedy-grove-34-2026-12-11",
    "title": "Grove Comedy",
    "venue": "Grove 34",
@@ -1962,14 +1614,7 @@
    "second_show": false,
    "performer": "Clint Coley",
    "wikipedia": null,
-   "reddit": {
-    "phrase": "Clint Coley",
-    "posts_30d": 0,
-    "upvotes": 0,
-    "comments": 0,
-    "subreddits": [],
-    "top": null
-   },
+   "reddit": null,
    "reasons": []
   },
   {
@@ -1983,14 +1628,7 @@
    "second_show": false,
    "performer": "Mike Feeney",
    "wikipedia": null,
-   "reddit": {
-    "phrase": "Mike Feeney",
-    "posts_30d": 0,
-    "upvotes": 0,
-    "comments": 0,
-    "subreddits": [],
-    "top": null
-   },
+   "reddit": null,
    "reasons": []
   },
   {
@@ -2032,14 +1670,7 @@
    "second_show": false,
    "performer": "Double Edged",
    "wikipedia": null,
-   "reddit": {
-    "phrase": "Double Edged",
-    "posts_30d": 0,
-    "upvotes": 0,
-    "comments": 0,
-    "subreddits": [],
-    "top": null
-   },
+   "reddit": null,
    "reasons": []
   },
   {
@@ -2267,14 +1898,7 @@
    "second_show": false,
    "performer": "Sunday Funday",
    "wikipedia": null,
-   "reddit": {
-    "phrase": "Sunday Funday",
-    "posts_30d": 0,
-    "upvotes": 0,
-    "comments": 0,
-    "subreddits": [],
-    "top": null
-   },
+   "reddit": null,
    "reasons": []
   },
   {
@@ -2476,14 +2100,7 @@
    "second_show": false,
    "performer": "Famous Last Words",
    "wikipedia": null,
-   "reddit": {
-    "phrase": "Famous Last Words",
-    "posts_30d": 0,
-    "upvotes": 0,
-    "comments": 0,
-    "subreddits": [],
-    "top": null
-   },
+   "reddit": null,
    "reasons": [
     "tickets available"
    ]

@@ -2917,7 +2917,7 @@
  },
  {
   "event_id": "kylie-vincent-lesion-lady-sesh-2026-11-18",
-  "src": "/assets/posters/kylie-vincent-lesion-lady-sesh-2026-11-18.jpg",
+  "src": "/assets/posters/archive/kylie-vincent-lesion-lady-sesh-2026-11-18.jpg",
   "width": 1280,
   "height": 1280,
   "source_url": "https://seshcomedy.com/event-detail.php?id=5RY5RDR2XTRAKFW35VAE3JU4",
@@ -2928,11 +2928,12 @@
   "retrieved_at": "2026-11-02",
   "reuse_status": "Official promotional artwork from the show's public listing; no separate reuse license identified. Site display with credit only.",
   "bytes": 237084,
-  "sha256": "e73b994a2e7327f6c58d8cea3a7f89305b10a31d6d83db3f15227580189ec5c6"
+  "sha256": "e73b994a2e7327f6c58d8cea3a7f89305b10a31d6d83db3f15227580189ec5c6",
+  "archived": true
  },
  {
   "event_id": "danu-live-in-america-eastville-2026-11-18",
-  "src": "/assets/posters/danu-live-in-america-eastville-2026-11-18.jpg",
+  "src": "/assets/posters/archive/danu-live-in-america-eastville-2026-11-18.jpg",
   "width": 528,
   "height": 660,
   "source_url": "https://globalunites.org/danu-live-in-america",
@@ -2943,7 +2944,8 @@
   "retrieved_at": "2026-11-18",
   "reuse_status": "Official promotional artwork from the show's public listing; no separate reuse license identified. Site display with credit only.",
   "bytes": 67786,
-  "sha256": "7cea48a0d033fce097573f9310e37c8afbc1a68dd2cf4acdea4caa2bc2f0d6af"
+  "sha256": "7cea48a0d033fce097573f9310e37c8afbc1a68dd2cf4acdea4caa2bc2f0d6af",
+  "archived": true
  },
  {
   "event_id": "phoebe-judge-dont-worry-bell-house-2026-11-22",
@@ -3759,7 +3761,7 @@
  },
  {
   "event_id": "invisible-architecture-union-hall-2026-11-18",
-  "src": "/assets/posters/invisible-architecture-union-hall-2026-11-18.jpg",
+  "src": "/assets/posters/archive/invisible-architecture-union-hall-2026-11-18.jpg",
   "width": 940,
   "height": 470,
   "source_url": "https://www.eventbrite.com/e/invisible-architecture-an-evening-of-comedy-with-charlie-flynn-tickets-2004608769793",
@@ -3770,7 +3772,8 @@
   "retrieved_at": "2026-11-14",
   "reuse_status": "Official promotional artwork from the show's own public listing; no separate reuse license identified. Site display with credit only.",
   "bytes": 37597,
-  "sha256": "22d2aa033a97e870cd11f4f7f2518f76612588102e3748440becc9055e32a7aa"
+  "sha256": "22d2aa033a97e870cd11f4f7f2518f76612588102e3748440becc9055e32a7aa",
+  "archived": true
  },
  {
   "event_id": "denise-taylor-flop-house-2026-11-14",
@@ -3805,7 +3808,7 @@
  },
  {
   "event_id": "hotel-art-thief-union-hall-2026-11-18",
-  "src": "/assets/posters/hotel-art-thief-union-hall-2026-11-18.jpg",
+  "src": "/assets/posters/archive/hotel-art-thief-union-hall-2026-11-18.jpg",
   "width": 1880,
   "height": 940,
   "source_url": "https://www.eventbrite.com/e/hotel-art-thief-tickets-2003081272006",
@@ -3816,11 +3819,12 @@
   "retrieved_at": "2026-11-15",
   "bytes": 76791,
   "sha256": "e4c6ab6d0690b07188fb27b90aa430f26553b7d20cb9d842ad90b0228f7c4f77",
-  "reuse_status": "Official promotional artwork; no separate reuse license identified. Site display with credit only."
+  "reuse_status": "Official promotional artwork; no separate reuse license identified. Site display with credit only.",
+  "archived": true
  },
  {
   "event_id": "you-can-call-me-al-flop-house-2026-11-18",
-  "src": "/assets/posters/you-can-call-me-al-flop-house-2026-11-18.jpg",
+  "src": "/assets/posters/archive/you-can-call-me-al-flop-house-2026-11-18.jpg",
   "width": 1880,
   "height": 500,
   "source_url": "https://www.eventbrite.com/e/you-can-call-me-al-tickets-2003041849091",
@@ -3831,7 +3835,8 @@
   "retrieved_at": "2026-11-15",
   "bytes": 48573,
   "sha256": "08703ef371026b256d3827cafac80cc494468b694d0eab820bec094e52f19ae3",
-  "reuse_status": "Official promotional artwork; no separate reuse license identified. Site display with credit only."
+  "reuse_status": "Official promotional artwork; no separate reuse license identified. Site display with credit only.",
+  "archived": true
  },
  {
   "event_id": "meat-cats-saturday-sauce-union-hall-2026-11-21",
@@ -4227,7 +4232,7 @@
  },
  {
   "event_id": "ashton-womack-amy-cardinale-nycc-2026-11-18",
-  "src": "/assets/posters/ashton-womack-amy-cardinale-nycc-2026-11-18.jpg",
+  "src": "/assets/posters/archive/ashton-womack-amy-cardinale-nycc-2026-11-18.jpg",
   "width": 1061,
   "height": 660,
   "source_url": "https://newyorkcomedyclub.com/events/ashton-womack-amy-cardinale-olivia-carter-maxwell-fine",
@@ -4238,6 +4243,7 @@
   "retrieved_at": "2026-11-18",
   "reuse_status": "Official promotional artwork from the show's public listing; no separate reuse license identified. Site display with credit only.",
   "bytes": 77466,
-  "sha256": "af4f3aea5b698cc0939ce6e84e6974807071c506fe15c06333cc2f93223497b0"
+  "sha256": "af4f3aea5b698cc0939ce6e84e6974807071c506fe15c06333cc2f93223497b0",
+  "archived": true
  }
 ]
