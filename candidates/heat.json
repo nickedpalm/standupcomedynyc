@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-19T09:23:28.773Z",
+ "generated_at": "2026-11-20T09:23:01.871Z",
  "note": "Demand signals for the editor. Only availability and second shows set the public demand tag.",
  "picks": [
   {
@@ -19,6 +19,22 @@
    ]
   },
   {
+   "id": "josh-mandl-union-hall-2026-11-21",
+   "title": "Josh Mandl",
+   "venue": "Union Hall",
+   "date": "2026-11-21",
+   "heat": 100,
+   "demand": "sold_out",
+   "availability": "SoldOut",
+   "second_show": false,
+   "performer": "Josh Mandl",
+   "wikipedia": null,
+   "reddit": null,
+   "reasons": [
+    "sold out on the ticket page"
+   ]
+  },
+  {
    "id": "jessica-kirson-nycc-2026-11-23",
    "title": "Jessica Kirson Live in New York",
    "venue": "New York Comedy Club (Midtown)",
@@ -30,36 +46,20 @@
    "performer": "Jessica Kirson",
    "wikipedia": {
     "title": "Jessica Kirson",
-    "views_30d": 13822,
-    "views_prior_30d": 13429,
-    "change": 3
+    "views_30d": 13808,
+    "views_prior_30d": 13699,
+    "change": 1
    },
    "reddit": null,
    "reasons": [
     "sold out on the ticket page",
-    "Wikipedia: 461 views a day"
+    "Wikipedia: 460 views a day"
    ]
   },
   {
    "id": "pizzazz-gary-gulman-union-hall-2026-11-25",
    "title": "Pizzazz with Gary Gulman",
    "venue": "Union Hall",
-   "date": "2026-11-25",
-   "heat": 100,
-   "demand": "sold_out",
-   "availability": "SoldOut",
-   "second_show": false,
-   "performer": null,
-   "wikipedia": null,
-   "reddit": null,
-   "reasons": [
-    "sold out on the ticket page"
-   ]
-  },
-  {
-   "id": "story-warz-nycc-2026-11-25",
-   "title": "Story Warz w/ Big Jay Oakerson, Luis J Gomez + Special Guests",
-   "venue": "New York Comedy Club (Midtown)",
    "date": "2026-11-25",
    "heat": 100,
    "demand": "sold_out",
@@ -84,14 +84,14 @@
    "performer": "Demetri Martin",
    "wikipedia": {
     "title": "Demetri Martin",
-    "views_30d": 15188,
-    "views_prior_30d": 13108,
-    "change": 16
+    "views_30d": 14579,
+    "views_prior_30d": 13875,
+    "change": 5
    },
    "reddit": null,
    "reasons": [
     "sold out on the ticket page",
-    "Wikipedia: 506 views a day"
+    "Wikipedia: 486 views a day"
    ]
   },
   {
@@ -106,14 +106,14 @@
    "performer": "Demetri Martin",
    "wikipedia": {
     "title": "Demetri Martin",
-    "views_30d": 15188,
-    "views_prior_30d": 13108,
-    "change": 16
+    "views_30d": 14579,
+    "views_prior_30d": 13875,
+    "change": 5
    },
    "reddit": null,
    "reasons": [
     "sold out on the ticket page",
-    "Wikipedia: 506 views a day"
+    "Wikipedia: 486 views a day"
    ]
   },
   {
@@ -160,35 +160,13 @@
    "performer": "Ralph Barbosa",
    "wikipedia": {
     "title": "Ralph Barbosa",
-    "views_30d": 3577,
-    "views_prior_30d": 6847,
-    "change": -48
+    "views_30d": 3571,
+    "views_prior_30d": 6720,
+    "change": -47
    },
    "reddit": null,
    "reasons": [
     "sold out on the ticket page"
-   ]
-  },
-  {
-   "id": "michelle-wolf-best-job-town-hall-2026-11-19",
-   "title": "Michelle Wolf: Best Job in the World",
-   "venue": "The Town Hall",
-   "date": "2026-11-19",
-   "heat": 35,
-   "demand": null,
-   "availability": null,
-   "second_show": false,
-   "performer": "Michelle Wolf",
-   "wikipedia": {
-    "title": "Michelle Wolf",
-    "views_30d": 30111,
-    "views_prior_30d": 11868,
-    "change": 154
-   },
-   "reddit": null,
-   "reasons": [
-    "Wikipedia: 1004 views a day",
-    "Wikipedia views up 154% over the prior month"
    ]
   },
   {
@@ -203,14 +181,14 @@
    "performer": "Jacqueline Novak",
    "wikipedia": {
     "title": "Jacqueline Novak",
-    "views_30d": 10634,
-    "views_prior_30d": 3648,
-    "change": 192
+    "views_30d": 10594,
+    "views_prior_30d": 3836,
+    "change": 176
    },
    "reddit": null,
    "reasons": [
-    "Wikipedia: 354 views a day",
-    "Wikipedia views up 192% over the prior month"
+    "Wikipedia: 353 views a day",
+    "Wikipedia views up 176% over the prior month"
    ]
   },
   {
@@ -225,14 +203,14 @@
    "performer": "Jacqueline Novak",
    "wikipedia": {
     "title": "Jacqueline Novak",
-    "views_30d": 10634,
-    "views_prior_30d": 3648,
-    "change": 192
+    "views_30d": 10594,
+    "views_prior_30d": 3836,
+    "change": 176
    },
    "reddit": null,
    "reasons": [
-    "Wikipedia: 354 views a day",
-    "Wikipedia views up 192% over the prior month"
+    "Wikipedia: 353 views a day",
+    "Wikipedia views up 176% over the prior month"
    ]
   },
   {
@@ -279,13 +257,13 @@
    "performer": "Ania Magliano",
    "wikipedia": {
     "title": "Ania Magliano",
-    "views_30d": 66142,
-    "views_prior_30d": 75412,
-    "change": -12
+    "views_30d": 61289,
+    "views_prior_30d": 81265,
+    "change": -25
    },
    "reddit": null,
    "reasons": [
-    "Wikipedia: 2205 views a day"
+    "Wikipedia: 2043 views a day"
    ]
   },
   {
@@ -300,13 +278,13 @@
    "performer": "Ania Magliano",
    "wikipedia": {
     "title": "Ania Magliano",
-    "views_30d": 66142,
-    "views_prior_30d": 75412,
-    "change": -12
+    "views_30d": 61289,
+    "views_prior_30d": 81265,
+    "change": -25
    },
    "reddit": null,
    "reasons": [
-    "Wikipedia: 2205 views a day"
+    "Wikipedia: 2043 views a day"
    ]
   },
   {
@@ -355,194 +333,6 @@
    "reddit": null,
    "reasons": [
     "3 listings this month"
-   ]
-  },
-  {
-   "id": "unhinged-variety-flop-house-2026-11-19",
-   "title": "The Unhinged Variety Show: American Apocalypse",
-   "venue": "Flop House Comedy",
-   "date": "2026-11-19",
-   "heat": 0,
-   "demand": null,
-   "availability": "InStock",
-   "second_show": false,
-   "performer": null,
-   "wikipedia": null,
-   "reddit": null,
-   "reasons": [
-    "tickets available"
-   ]
-  },
-  {
-   "id": "facts-machine-caveat-2026-11-19",
-   "title": "Facts Machine: Science Comedy & Trivia!",
-   "venue": "Caveat",
-   "date": "2026-11-19",
-   "heat": 0,
-   "demand": null,
-   "availability": "InStock",
-   "second_show": false,
-   "performer": null,
-   "wikipedia": null,
-   "reddit": null,
-   "reasons": [
-    "tickets available"
-   ]
-  },
-  {
-   "id": "deliadelia-cursed-union-hall-2026-11-19",
-   "title": "DELIADELIA! CURSED!",
-   "venue": "Union Hall",
-   "date": "2026-11-19",
-   "heat": 0,
-   "demand": null,
-   "availability": "InStock",
-   "second_show": false,
-   "performer": null,
-   "wikipedia": null,
-   "reddit": null,
-   "reasons": [
-    "tickets available"
-   ]
-  },
-  {
-   "id": "popcorn-comedy-tata-sherise-olivers-2026-11-19",
-   "title": "Popcorn Comedy with TaTa Sherise",
-   "venue": "Oliver's Astoria",
-   "date": "2026-11-19",
-   "heat": 0,
-   "demand": null,
-   "availability": "InStock",
-   "second_show": false,
-   "performer": null,
-   "wikipedia": null,
-   "reddit": null,
-   "reasons": [
-    "tickets available"
-   ]
-  },
-  {
-   "id": "harry-potter-goblet-memory-littlefield-2026-11-19",
-   "title": "Harry Potter and the Goblet of Fire Entirely From Memory",
-   "venue": "Littlefield",
-   "date": "2026-11-19",
-   "heat": 0,
-   "demand": null,
-   "availability": "InStock",
-   "second_show": false,
-   "performer": null,
-   "wikipedia": null,
-   "reddit": null,
-   "reasons": [
-    "tickets available"
-   ]
-  },
-  {
-   "id": "stone-and-stone-on-the-road-wscc-2026-11-19",
-   "title": "Stone and Stone On The Road!",
-   "venue": "West Side Comedy Club",
-   "date": "2026-11-19",
-   "heat": 0,
-   "demand": null,
-   "availability": null,
-   "second_show": false,
-   "performer": null,
-   "wikipedia": null,
-   "reddit": null,
-   "reasons": []
-  },
-  {
-   "id": "upper-east-side-comedy-club-thursday-2026-11-19",
-   "title": "Stand-Up Comedy NYC | NYC's Best Weekly Thursday Show",
-   "venue": "Upper East Side Comedy Club",
-   "date": "2026-11-19",
-   "heat": 0,
-   "demand": null,
-   "availability": "InStock",
-   "second_show": false,
-   "performer": null,
-   "wikipedia": null,
-   "reddit": null,
-   "reasons": [
-    "tickets available"
-   ]
-  },
-  {
-   "id": "landline-comedy-wild-east-2026-11-19",
-   "title": "Landline Comedy at Wild East Brewing",
-   "venue": "Wild East Brewing Co.",
-   "date": "2026-11-19",
-   "heat": 0,
-   "demand": null,
-   "availability": "InStock",
-   "second_show": false,
-   "performer": null,
-   "wikipedia": null,
-   "reddit": null,
-   "reasons": [
-    "tickets available"
-   ]
-  },
-  {
-   "id": "nore-davis-previously-on-generational-curse-nycc-2026-11-19",
-   "title": "Previously on Generational Curse... with Nore Davis",
-   "venue": "New York Comedy Club (Midtown)",
-   "date": "2026-11-19",
-   "heat": 0,
-   "demand": null,
-   "availability": null,
-   "second_show": false,
-   "performer": null,
-   "wikipedia": null,
-   "reddit": null,
-   "reasons": []
-  },
-  {
-   "id": "one-in-35-whiskey-cellar-2026-11-19",
-   "title": "ONE IN 35: Stand-Up Comedy With a One-in-35 Chance Your Drinks Are On Us",
-   "venue": "Whiskey Cellar NYC",
-   "date": "2026-11-19",
-   "heat": 0,
-   "demand": null,
-   "availability": "InStock",
-   "second_show": false,
-   "performer": null,
-   "wikipedia": null,
-   "reddit": null,
-   "reasons": [
-    "tickets available"
-   ]
-  },
-  {
-   "id": "brownie-points-flop-house-2026-11-19",
-   "title": "Brownie Points Comedy Show",
-   "venue": "Flop House Comedy",
-   "date": "2026-11-19",
-   "heat": 0,
-   "demand": null,
-   "availability": "InStock",
-   "second_show": false,
-   "performer": null,
-   "wikipedia": null,
-   "reddit": null,
-   "reasons": [
-    "tickets available"
-   ]
-  },
-  {
-   "id": "do-it-live-chika-caveat-2026-11-19",
-   "title": "Do It Live w/ Chika",
-   "venue": "Caveat",
-   "date": "2026-11-19",
-   "heat": 0,
-   "demand": null,
-   "availability": "InStock",
-   "second_show": false,
-   "performer": "Do It",
-   "wikipedia": null,
-   "reddit": null,
-   "reasons": [
-    "tickets available"
    ]
   },
   {
@@ -686,22 +476,6 @@
    "reasons": []
   },
   {
-   "id": "josh-mandl-union-hall-2026-11-21",
-   "title": "Josh Mandl",
-   "venue": "Union Hall",
-   "date": "2026-11-21",
-   "heat": 0,
-   "demand": null,
-   "availability": "InStock",
-   "second_show": false,
-   "performer": "Josh Mandl",
-   "wikipedia": null,
-   "reddit": null,
-   "reasons": [
-    "tickets available"
-   ]
-  },
-  {
    "id": "off-menu-comedy-greenpoint-2026-11-21",
    "title": "Off Menu Comedy",
    "venue": "Greenpoint Comedy Club",
@@ -821,9 +595,9 @@
    "performer": "Christian Finnegan",
    "wikipedia": {
     "title": "Christian Finnegan",
-    "views_30d": 913,
-    "views_prior_30d": 933,
-    "change": -2
+    "views_30d": 912,
+    "views_prior_30d": 925,
+    "change": -1
    },
    "reddit": null,
    "reasons": []
@@ -928,9 +702,9 @@
    "performer": "Judy Gold",
    "wikipedia": {
     "title": "Judy Gold",
-    "views_30d": 5774,
-    "views_prior_30d": 3930,
-    "change": 47
+    "views_30d": 5834,
+    "views_prior_30d": 3909,
+    "change": 49
    },
    "reddit": null,
    "reasons": []
@@ -969,6 +743,20 @@
    "id": "down-bad-comedy-st-marks-2026-11-25",
    "title": "Down Bad Comedy Show",
    "venue": "St. Marks Comedy Club",
+   "date": "2026-11-25",
+   "heat": 0,
+   "demand": null,
+   "availability": null,
+   "second_show": false,
+   "performer": null,
+   "wikipedia": null,
+   "reddit": null,
+   "reasons": []
+  },
+  {
+   "id": "story-warz-nycc-2026-11-25",
+   "title": "Story Warz w/ Big Jay Oakerson, Luis J Gomez + Special Guests",
+   "venue": "New York Comedy Club (Midtown)",
    "date": "2026-11-25",
    "heat": 0,
    "demand": null,
@@ -1193,9 +981,9 @@
    "performer": "Ismael Loutfi",
    "wikipedia": {
     "title": "Ismael Loutfi",
-    "views_30d": 131,
-    "views_prior_30d": 95,
-    "change": 38
+    "views_30d": 127,
+    "views_prior_30d": 97,
+    "change": 31
    },
    "reddit": null,
    "reasons": [
@@ -1230,9 +1018,9 @@
    "performer": "Gina Brillon",
    "wikipedia": {
     "title": "Gina Brillon",
-    "views_30d": 894,
-    "views_prior_30d": 1269,
-    "change": -30
+    "views_30d": 919,
+    "views_prior_30d": 1246,
+    "change": -26
    },
    "reddit": null,
    "reasons": []

@@ -1670,7 +1670,7 @@
  },
  {
   "event_id": "stone-and-stone-on-the-road-wscc-2026-11-19",
-  "src": "/assets/posters/stone-and-stone-on-the-road-wscc-2026-11-19.webp",
+  "src": "/assets/posters/archive/stone-and-stone-on-the-road-wscc-2026-11-19.webp",
   "width": 929,
   "height": 1200,
   "source_url": "https://www.westsidecomedyclub.com/shows/stone-and-stone-on-the-road",
@@ -1681,7 +1681,8 @@
   "verified_at": "2026-10-11",
   "bytes": 70506,
   "sha256": "b377960267378a694a23ae5c7e275d10c47e89ada2ccf41e635d8803c5b7061e",
-  "reuse_status": "Official promotional artwork; no separate reuse license identified. Local review draft only."
+  "reuse_status": "Official promotional artwork; no separate reuse license identified. Local review draft only.",
+  "archived": true
  },
  {
   "event_id": "john-oliver-seth-meyers-beacon-2026-11-22",
@@ -3446,7 +3447,7 @@
  },
  {
   "event_id": "one-in-35-whiskey-cellar-2026-11-19",
-  "src": "/assets/posters/one-in-35-whiskey-cellar-2026-11-19.jpg",
+  "src": "/assets/posters/archive/one-in-35-whiskey-cellar-2026-11-19.jpg",
   "width": 1880,
   "height": 940,
   "source_url": "https://www.eventbrite.com/e/one-in-35-stand-up-comedy-with-a-one-in-35-chance-your-drinks-are-on-us-tickets-1988657104934",
@@ -3457,7 +3458,8 @@
   "retrieved_at": "2026-11-08",
   "bytes": 170775,
   "sha256": "1daccba20abe3733c97321748e9cb9427ff73bb9b32884bdddde1ba8ead0ca03",
-  "reuse_status": "Official promotional artwork; no separate reuse license identified. Local review draft only."
+  "reuse_status": "Official promotional artwork; no separate reuse license identified. Local review draft only.",
+  "archived": true
  },
  {
   "event_id": "tone-and-the-homies-littlefield-2026-11-10",
@@ -3793,7 +3795,7 @@
  },
  {
   "event_id": "deliadelia-cursed-union-hall-2026-11-19",
-  "src": "/assets/posters/deliadelia-cursed-union-hall-2026-11-19.jpg",
+  "src": "/assets/posters/archive/deliadelia-cursed-union-hall-2026-11-19.jpg",
   "width": 1880,
   "height": 940,
   "source_url": "https://www.eventbrite.com/e/deliadelia-cursed-tickets-2001893202458",
@@ -3804,7 +3806,8 @@
   "retrieved_at": "2026-11-15",
   "bytes": 61296,
   "sha256": "b8d92d29b29354158d2c9cdc9f4fae333ac54438a533a1788552b91b2ddf0685",
-  "reuse_status": "Official promotional artwork; no separate reuse license identified. Site display with credit only."
+  "reuse_status": "Official promotional artwork; no separate reuse license identified. Site display with credit only.",
+  "archived": true
  },
  {
   "event_id": "hotel-art-thief-union-hall-2026-11-18",
@@ -3962,7 +3965,7 @@
  },
  {
   "event_id": "facts-machine-caveat-2026-11-19",
-  "src": "/assets/posters/facts-machine-caveat-2026-11-19.jpg",
+  "src": "/assets/posters/archive/facts-machine-caveat-2026-11-19.jpg",
   "width": 2878,
   "height": 1438,
   "source_url": "https://www.eventbrite.com/e/facts-machine-science-comedy-trivia-tickets-2000485377616",
@@ -3973,11 +3976,12 @@
   "retrieved_at": "2026-11-16",
   "reuse_status": "Official promotional artwork from the show's own public listing; no separate reuse license identified. Site display with credit only.",
   "bytes": 359459,
-  "sha256": "2f278904d3b3bd9472f05f058c4232178044caf7416bcd60ba612290b743c4d1"
+  "sha256": "2f278904d3b3bd9472f05f058c4232178044caf7416bcd60ba612290b743c4d1",
+  "archived": true
  },
  {
   "event_id": "harry-potter-goblet-memory-littlefield-2026-11-19",
-  "src": "/assets/posters/harry-potter-goblet-memory-littlefield-2026-11-19.jpg",
+  "src": "/assets/posters/archive/harry-potter-goblet-memory-littlefield-2026-11-19.jpg",
   "width": 1880,
   "height": 940,
   "source_url": "https://www.eventbrite.com/e/harry-potter-and-the-goblet-of-fire-entirely-from-memory-tickets-2002847565985",
@@ -3988,11 +3992,12 @@
   "retrieved_at": "2026-11-16",
   "reuse_status": "Official promotional artwork from the show's own public listing; no separate reuse license identified. Site display with credit only.",
   "bytes": 565593,
-  "sha256": "6d25a3e35a89644549d1951bb7adb948317700e9bc528492b8e20da00cd6dae6"
+  "sha256": "6d25a3e35a89644549d1951bb7adb948317700e9bc528492b8e20da00cd6dae6",
+  "archived": true
  },
  {
   "event_id": "do-it-live-chika-caveat-2026-11-19",
-  "src": "/assets/posters/do-it-live-chika-caveat-2026-11-19.jpg",
+  "src": "/assets/posters/archive/do-it-live-chika-caveat-2026-11-19.jpg",
   "width": 2236,
   "height": 1118,
   "source_url": "https://www.eventbrite.com/e/do-it-live-w-chika-tickets-1976663556909",
@@ -4003,11 +4008,12 @@
   "retrieved_at": "2026-11-16",
   "reuse_status": "Official promotional artwork from the show's own public listing; no separate reuse license identified. Site display with credit only.",
   "bytes": 155892,
-  "sha256": "33d084e3d7905c45a254fad8a98fcca2592cc3472c8c7d13c9cd3b632cd88cb7"
+  "sha256": "33d084e3d7905c45a254fad8a98fcca2592cc3472c8c7d13c9cd3b632cd88cb7",
+  "archived": true
  },
  {
   "event_id": "unhinged-variety-flop-house-2026-11-19",
-  "src": "/assets/posters/unhinged-flop-house-2026-11-19.jpg",
+  "src": "/assets/posters/archive/unhinged-flop-house-2026-11-19.jpg",
   "width": 1000,
   "height": 500,
   "source_url": "https://www.eventbrite.com/e/the-unhinged-variety-show-american-apocalypse-tickets-2003782538513",
@@ -4018,11 +4024,12 @@
   "retrieved_at": "2026-11-16",
   "reuse_status": "Official promotional artwork from the show's own public listing; no separate reuse license identified. Site display with credit only.",
   "bytes": 106198,
-  "sha256": "931b9584d58fa7c85ce6d987126e405921ab2767716ecb0c5b3ba1389e5ba638"
+  "sha256": "931b9584d58fa7c85ce6d987126e405921ab2767716ecb0c5b3ba1389e5ba638",
+  "archived": true
  },
  {
   "event_id": "brownie-points-flop-house-2026-11-19",
-  "src": "/assets/posters/brownie-points-flop-house-2026-11-19.jpg",
+  "src": "/assets/posters/archive/brownie-points-flop-house-2026-11-19.jpg",
   "width": 2160,
   "height": 1080,
   "source_url": "https://www.eventbrite.com/e/brownie-points-comedy-show-tickets-2004595007630",
@@ -4033,7 +4040,8 @@
   "retrieved_at": "2026-11-16",
   "reuse_status": "Official promotional artwork from the show's own public listing; no separate reuse license identified. Site display with credit only.",
   "bytes": 301901,
-  "sha256": "6cb94eebf49adf2269f608c793a358a3bb1c011931a203ab837a8e7c3df61c0b"
+  "sha256": "6cb94eebf49adf2269f608c793a358a3bb1c011931a203ab837a8e7c3df61c0b",
+  "archived": true
  },
  {
   "event_id": "love-isnt-blind-littlefield-2026-11-20",
