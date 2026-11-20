@@ -1642,3 +1642,40 @@ gave crowded nights back roughly 300 characters of blurb.
 ranking, so a research run is not sent after a show instead of a comic.
 
 Board after this: 132 picks, week coverage 41 / 23 / 22 / 20 / 19 / 9.
+
+## 2026-11-20 (23:00 UTC) — Instagram comment and message check
+
+**Comments: 0 unanswered, proven across all 57 posts. Nothing replied, nothing
+left for Nick on the comment side.**
+
+The Meta token is still dead, so both API reads failed with the same error the
+19:00 and 20:30 runs hit:
+
+```
+ig-comments: /28335663372757999/media: Error validating access token: Session has expired on Saturday, 14-Nov-26 07:51:47 PST.
+ig-messages: /28335663372757999/conversations: same error
+```
+
+A box-wide token sweep again found exactly one candidate — the expired
+`IGAA...` value in `.env` and `.env.bak-20260920`; no `EAA` token exists
+anywhere. There is still no refresh path.
+
+**Comment side: verified logged out, with a positive control.** The public
+grid was enumerated to all 57 posts (the "Show more posts" button has to be
+clicked first, then the inner scroll container is scrolled in small steps
+because the grid virtualizes). Each permalink's comment count was read from
+the page HTML: **all 57 read 0**. The detector was validated against a
+control post known to have comments (`/nasa/p/DfahZrMjAqq/` -> 922 comments),
+so a zero here is a real zero, not a silently failed extraction. The two
+newest posts were also opened in the rendered DOM and each shows "No comments
+yet." with `"comment_count": 0`.
+
+**DM side: unverifiable, and reported as such.** `/direct/inbox/` redirects to
+the Instagram login form when logged out, and there is no public DM endpoint,
+so the inbox cannot be read without the dead token. The last good API read was
+**2026-11-14 14:00 UTC**: `0 conversation(s) in the last 7 day(s), 0 waiting on
+us`. Nothing has been readable since.
+
+`IG-REPLIES.json` is unchanged (`[]`) — no replies sent, no threads waiting on
+us — so there is no "IG replies" commit to make and no Telegram to send.
+`npm test` passes (135 picks) and the live site serves 135 picks.
