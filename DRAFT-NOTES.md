@@ -1600,3 +1600,45 @@ day(s), 0 waiting on us`. Nothing has been readable since.
 `IG-REPLIES.json` is unchanged (`[]`) — no replies sent, no threads waiting
 on us. Scratch files were cleared from `candidates/tmp/` so the 09:15
 nightly sweep does not publish them.
+
+## 2026-11-20 (14:00 UTC) — recovered edition stranded by the Nov 19 and Nov 20 runs
+
+The Nov 19 11:00 edition run and this morning's 11:00 run both stopped at the
+tool-call cap, leaving a verified edition in the working tree and nothing
+committed. Left alone, the 09:15 nightly job does `git add -A` and would have
+published it under "Nightly: rotate expired picks" along with 166 scratch files
+and 20MB of images in `candidates/tmp/`. Recovered and landed here instead.
+
+**Eight new picks, each re-verified against its own source on 2026-11-20:**
+After Hours at Flop House (Nov 20, 11pm, $12.51), Good God (Union Hall, Nov
+22, $13.61), A Fundraiser for Flatbush (Brooklyn Improv, Nov 25), Thanksgiving
+Comedy Show (Grisly Pear, Nov 26, $23.24), Grove Comedy (Grove 34, Nov 27),
+Tom Van Horn, Elyse DeLucci, Jason Salmon & Kareem Green (Comic Strip, Nov 27,
+$23.61), PRETTY MAJOR hosted by Jay Jurden (Union Hall, Dec 29, $15.92) and the
+NYE Comedy Show (Grisly Pear, Dec 31, $28.68).
+
+**Three live picks were stale and are now corrected:**
+- **Nov 25, 7:45pm at NYCC Midtown was not Story Warz.** The club replaced the
+  slot with Ian Fidance, Jack Finnegan, Neko White and Philipp Kostelecky; the
+  old URL now redirects to that show, so the pick is repointed at it and the
+  Story Warz flyer is retired to the poster archive.
+- **Highly Suspicious moved from Dec 27 to Nov 29**, still 9pm at the Upper West
+  Side room. The club's own calendar lists the Nov 29 date; the Dec 27 URL is
+  gone. The series flyer follows the show to its new date.
+- **Gavin Matts is now "(failure)", not "profound"** — the Union Hall listing was
+  retitled, and the show is sold out, so it stays on the board with the Sold
+  out tag and off the Tonight set.
+
+**A Fundraiser for Flatbush is $59.53, not $65.97** (improv.com and Ticketweb
+both show the lower price now), and the bill also includes Alexis Carabaño,
+who was missing from the blurb.
+
+**Script fixes carried over from the stranded runs:** `scripts/blurb.js` now
+masks the dots in an ellipsis run, so a title like "Previously on Generational
+Curse..." is no longer cut mid-sentence on a card or in a caption.
+`scripts/caption.js` groups the Eventbrite art credits into one line, which
+gave crowded nights back roughly 300 characters of blurb.
+`scripts/research-plan.js` drops "Do It" and similar titles from the performer
+ranking, so a research run is not sent after a show instead of a comic.
+
+Board after this: 132 picks, week coverage 41 / 23 / 22 / 20 / 19 / 9.

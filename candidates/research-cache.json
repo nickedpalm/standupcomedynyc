@@ -61,8 +61,8 @@
    "source": "last30days"
   },
   "Christian Finnegan": {
-   "at": "2026-09-21T11:13:30.801Z",
-   "note": "Three Reddit threads (624 upvotes aggregated) but none appear to be about the comedian by name; HN's two 271-point stories are about a 'Christian Buddha saints' essay and IBM chip engineers. No confirmed recent buzz on the Comic Strip Sep 21 date.",
+   "at": "2026-11-20T11:16:29.344Z",
+   "note": "Nothing in 30 days: Reddit was rate-limited (HTTP 429) and the one Hacker News hit was an Atlantic article about Christian nationalism, not the comic, so the Midtown taping rests on the club's own listing.",
    "source": "last30days"
   },
   "Kevin Sullivan": {
@@ -373,6 +373,11 @@
   "Demetri Martin": {
    "at": "2026-11-16T13:38:58.255Z",
    "note": "Nothing in 30 days: Reddit rate-limited (HTTP 429) on the last30days run, zero on Hacker News, and the repo's read-only OAuth re-check found no posts. His Dec 4 and Dec 5 Bell House Christmas shows are sold out.",
+   "source": "last30days"
+  },
+  "Opey Olagbaju": {
+   "at": "2026-11-20T11:16:29.302Z",
+   "note": "Nothing in 30 days: Reddit returned HTTP 404 and Hacker News zero stories after the prefix filter removed 30 false positives, so the Union Hall date rests on the room's own calendar rather than on any online chatter.",
    "source": "last30days"
   }
  }

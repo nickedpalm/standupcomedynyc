@@ -17,12 +17,19 @@ const ABBREV = /\b(?:[A-Z]\.){1,3}|\b(?:Mr|Mrs|Ms|Dr|Prof|St|Jr|Sr|vs|etc|approx
 // Without this, a blurb that quotes a price ends mid-number on the card and in the caption:
 // "costs $15." and "a $12." (seen 2026-11-18).
 const MONEY = /\$\s*\d{1,3}(?:,\d{3})*(?:\.\d+)?/g;
+// A run of two or more dots is an ellipsis, not a sentence end. "Previously on
+// Generational Curse..." was cut to "Previously on Generational Curse." on the card
+// and in tonight's caption (seen 2026-11-19), because the first dot of the run
+// ended the sentence. Mask the dots the same way an initialism's dot is masked.
+const ELLIPSIS = /\.{2,}/g;
 const MASK = '\u0001';
 
 const mask = (s) => String(s).replace(ABBREV, (m) => m.replace(/\./g, MASK));
 // Mask the decimal point inside a price. The whole number is replaced so the digit
 // grouping in "$1,234.50" cannot be broken by the split either.
 const maskMoney = (s) => String(s).replace(MONEY, (m) => m.replace(/\./g, MASK));
+// Mask every dot in an ellipsis run, so the split cannot stop inside one.
+const maskEllipsis = (s) => String(s).replace(ELLIPSIS, (m) => m.replace(/\./g, MASK));
 const unmask = (s) => String(s).replace(new RegExp(MASK, 'g'), '.');
 
 // First sentence of a blurb. `limit` caps the sentence length; `headLen` caps the
@@ -31,7 +38,7 @@ const unmask = (s) => String(s).replace(new RegExp(MASK, 'g'), '.');
 function firstSentence(description, limit = 180, headLen = limit + 2) {
   const d = String(description || '').trim();
   if (!d) return '';
-  const masked = maskMoney(mask(d));
+  const masked = maskEllipsis(maskMoney(mask(d)));
   const m = masked.match(new RegExp('^[^.!?]{12,' + limit + '}[.!?]'));
   if (m) return unmask(m[0]);
   if (masked.length <= 12) return '';

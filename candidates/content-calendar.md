@@ -11,9 +11,9 @@ Six weeks ahead from the board. Regenerated on every build; edit the data, not t
 
 ## Research plan today
 
-Ranked 30; run 3, reuse 5, skip 22; ~243,000 tokens saved. No recent data: Kylie Vincent, Hotel Art Thief.
+Ranked 29; run 2, reuse 4, skip 23; ~243,000 tokens saved. No recent data: Opey Olagbaju, Christian Finnegan.
 
-## Week 1: Nov 20 to Nov 26 — 37 picks — 14 without artwork · 24 Eventbrite leads not yet reviewed
+## Week 1: Nov 20 to Nov 26 — 41 picks — 16 without artwork · 32 Eventbrite leads not yet reviewed
 
 - Fri Nov 20 7pm — **Comedy 4 Flatbush** at Friends and Lovers
 - Fri Nov 20 7:30pm — **Fahim Anwar** at The Bell House · SOLD OUT · heat 100
@@ -24,6 +24,7 @@ Ranked 30; run 3, reuse 5, skip 22; ~243,000 tokens saved. No recent data: Kylie
 - Fri Nov 20 8pm — **Love Isn't Blind | A Comedy/Dating Show Where the Men Can't Speak** at Littlefield
 - Fri Nov 20 9:30pm — **Laughmasters** at Caveat
 - Fri Nov 20 10pm — **Friday Night Comedy | Late Night Stand-Up on the Upper East Side** at Upper East Side Comedy Club · NO ARTWORK
+- Fri Nov 20 11pm — **After Hours at Flop House** at Flop House Comedy · NO ARTWORK
 - Sat Nov 21 4:30pm · doors 4pm — **Prime Time Comedy Show** at St. Marks Comedy Club · NO ARTWORK
 - Sat Nov 21 5pm · doors 4:30pm — **Josh Mandl** at Union Hall · SOLD OUT · heat 100
 - Sat Nov 21 6pm · doors 5:30pm — **Off Menu Comedy** at Greenpoint Comedy Club
@@ -35,6 +36,7 @@ Ranked 30; run 3, reuse 5, skip 22; ~243,000 tokens saved. No recent data: Kylie
 - Sat Nov 21 10pm · doors 9:30pm — **Meat Cats Comedy Presents: Saturday Sauce** at Union Hall
 - Sun Nov 22 5pm — **Christian Finnegan: A Lot of Heart (Live Special Taping!)** at New York Comedy Club (Midtown)
 - Sun Nov 22 7pm — **Criminal Presents: Don't Worry with Phoebe Judge** at The Bell House
+- Sun Nov 22 7:30pm · doors 7pm — **Good God** at Union Hall
 - Sun Nov 22 7:30pm — **John Oliver & Seth Meyers** at Beacon Theatre
 - Sun Nov 22 9pm — **Cesh Reyes & Brian Pham Present: Comics Anonymous** at Eastville Comedy Club · NO ARTWORK
 - Mon Nov 23 7pm — **Jacqueline Novak** at The Bell House · heat 25
@@ -47,24 +49,28 @@ Ranked 30; run 3, reuse 5, skip 22; ~243,000 tokens saved. No recent data: Kylie
 - Tue Nov 24 8pm — **Tom Van Horn, Tobin Miller, Meghan Hanley, Jason Choi, Monroe Martin, more!** at Comic Strip Live · NO ARTWORK
 - Tue Nov 24 9:30pm · doors 9pm — **The Gong Show - Hosted by Robert Punchur** at St. Marks Comedy Club · NO ARTWORK
 - Wed Nov 25 7:30pm · doors 7pm — **Down Bad Comedy Show** at St. Marks Comedy Club · NO ARTWORK
+- Wed Nov 25 7:30pm — **A Fundraiser for Flatbush** at Brooklyn Improv
 - Wed Nov 25 7:30pm — **Pizzazz with Gary Gulman** at Union Hall · SOLD OUT · heat 100
-- Wed Nov 25 7:45pm — **Story Warz w/ Big Jay Oakerson, Luis J Gomez + Special Guests** at New York Comedy Club (Midtown)
+- Wed Nov 25 7:45pm — **Ian Fidance, Jack Finnegan, Neko White, Philipp Kostelecky** at New York Comedy Club (Midtown) · NO ARTWORK
 - Wed Nov 25 8pm — **Sheba Mason, Michele Balan, Tobin Miller, Elyse DeLucci, Matt Pavich, more!** at Comic Strip Live · NO ARTWORK
 - Thu Nov 26 6:30pm · doors 6pm — **A TRUE YORK COMEDY EXPERIENCE** at St. Marks Comedy Club · NO ARTWORK
+- Thu Nov 26 8pm — **Thanksgiving Comedy Show** at The Grisly Pear
 - Thu Nov 26 8:30pm · doors 8pm — **Date Night Comedy Show x2** at St. Marks Comedy Club
 
   Leads to review:
   - Fri Nov 20 7pm — Our Findings Show at Caveat · from $18.76 · has artwork
   - Fri Nov 20 7pm — Sounds Great! at Flop House Comedy · from $12.51 · has artwork
-  - Fri Nov 20 7pm — Comedy 4  Flatbush Hosted by Joel Pipitone at Friends and Lovers · from $17.85 · has artwork
   - Fri Nov 20 8pm — Mike Burton, Michele Balan, Connor O'Brien, Sean Donnelly, & Wali Collins! at Comic Strip Live · from $25.71 · has artwork
   - Fri Nov 20 8pm — The Prime Time Show at Flop House | Stand-Up Comedy in Williamsburg at Flop House Comedy · from $7.18 · has artwork
   - Fri Nov 20 9:30pm — The Late Show at Flop House | Stand-Up Comedy in Williamsburg at Flop House Comedy · from $23.18 · has artwork
   - Fri Nov 20 10pm — Gavin Matts: (failure) at Union Hall · from $19.26 · has artwork
-  - Fri Nov 20 11pm — After Hours at Flop House | Late-Night Stand-Up Comedy in Williamsburg at Tipsy Village · from $12.51 · has artwork
+  - Fri Nov 20 11pm — After Hours at Flop House | Late-Night Stand-Up Comedy in Williamsburg at Flop House Comedy · from $12.51 · has artwork
+  - Sat Nov 21 1:30pm — Is this Problematic? Climate 101 at Caveat · from $13.61 · has artwork
 
-## Week 2: Nov 27 to Dec 3 — 20 picks — 6 without artwork · 14 Eventbrite leads not yet reviewed
+## Week 2: Nov 27 to Dec 3 — 23 picks — 7 without artwork · 18 Eventbrite leads not yet reviewed
 
+- Fri Nov 27 7:30pm — **Grove Comedy** at Grove 34
+- Fri Nov 27 8pm — **Tom Van Horn, Elyse DeLucci, Jason Salmon & Kareem Green** at Comic Strip Live · NO ARTWORK
 - Fri Nov 27 8:30pm · doors 8pm — **Friday Night Laughs Comedy Show** at St. Marks Comedy Club
 - Fri Nov 27 10pm · doors 9:30pm — **Girl Church hosted by Amelia Ritthaler** at Union Hall
 - Sat Nov 28 8pm — **Eastville Saturday Showcase** at Eastville Comedy Club · NO ARTWORK
@@ -72,6 +78,7 @@ Ranked 30; run 3, reuse 5, skip 22; ~243,000 tokens saved. No recent data: Kylie
 - Sun Nov 29 7pm — **Comedy Idol Finale** at West Side Comedy Club · NO ARTWORK
 - Sun Nov 29 7:30pm — **The Silver Lining with Gianmarco Soresi** at The Bell House
 - Sun Nov 29 7:30pm — **Sunday Night Comedy** at Eastville Comedy Club · NO ARTWORK
+- Sun Nov 29 9pm — **Highly Suspicious w/ Aaron Putnam, Kerryn Feehan, Zach Liss** at New York Comedy Club (Upper West Side)
 - Mon Nov 30 7:30pm — **Brooklyn Power Hour (Now on a New Night!)** at Eastville Comedy Club · NO ARTWORK
 - Mon Nov 30 7:30pm · doors 6:30pm — **A Friendsgiving Comedy Fundraiser featuring Tiffany Cabán** at Littlefield · going fast · heat 25
 - Mon Nov 30 8pm — **The Peter Stewart Show! With Nick Tilleli!** at Comic Strip Live · NO ARTWORK
@@ -90,11 +97,11 @@ Ranked 30; run 3, reuse 5, skip 22; ~243,000 tokens saved. No recent data: Kylie
   - Fri Nov 27 8pm — Tom Van Horn, Elyse DeLucci, Jason Salmon, & Kareem Green! at Comic Strip Live · from $25.71 · has artwork
   - Fri Nov 27 8pm — FUNNY PEOPLE Live | Stand-Up Comedy on the Upper East Side at Upper East Side Comedy Club · from $12 · has artwork
   - Fri Nov 27 10pm — Friday Night Comedy | Late Night Stand-Up on the Upper East Side at Upper East Side Comedy Club · from $10 · has artwork
+  - Sat Nov 28 7pm — Garbage Day - Worst Things On The Internet 2026 at Caveat · from $24.41 · has artwork
   - Sat Nov 28 8pm — Tom Van Horn, Meghan Hanley, Dan Naturman, Connor O'Brien! at Comic Strip Live · from $25.71 · has artwork
   - Sat Nov 28 8pm — Tom Van Horn, Meghan Hanley, Connor O'Brien, & Dan Naturman! at Comic Strip Live · from $25.71 · has artwork
   - Sat Nov 28 8pm — Stand-Up Comedy NYC | Top Comedians on the Upper East Side at Upper East Side Comedy Club · from $12 · has artwork
   - Sat Nov 28 10pm — Late Night Stand-Up NYC | Comedy on the Upper East Side at Upper East Side Comedy Club · from $12 · has artwork
-  - Sun Nov 29 8pm — Tom Van Horn, Daniel Tirado, Carla Oakerson, Eagle Witt, Jason Choi, more! at Comic Strip Live · from $25.71 · has artwork
 
 ## Week 3: Dec 4 to Dec 10 — 22 picks — 7 without artwork · 3 Eventbrite leads not yet reviewed
 
@@ -116,7 +123,7 @@ Ranked 30; run 3, reuse 5, skip 22; ~243,000 tokens saved. No recent data: Kylie
 - Wed Dec 9 7pm — **Joe DeVito Graduation Show** at West Side Comedy Club
 - Wed Dec 9 7:30pm · doors 7pm — **Down Bad Comedy Show** at St. Marks Comedy Club · NO ARTWORK
 - Wed Dec 9 9:30pm · doors 9pm — **DYLAN'S LAST SHOW EVER** at St. Marks Comedy Club
-- Wed Dec 9 10pm · doors 9:30pm — **Gavin Matts: profound** at Union Hall · SOLD OUT · heat 100
+- Wed Dec 9 10pm · doors 9:30pm — **Gavin Matts: (failure)** at Union Hall · SOLD OUT
 - Thu Dec 10 6:30pm · doors 6pm — **A TRUE YORK COMEDY EXPERIENCE** at St. Marks Comedy Club · NO ARTWORK
 - Thu Dec 10 7pm — **The Party Clown Party** at West Side Comedy Club
 - Thu Dec 10 8:30pm · doors 8pm — **Date Night Comedy Show x2** at St. Marks Comedy Club · NO ARTWORK
@@ -174,12 +181,16 @@ Ranked 30; run 3, reuse 5, skip 22; ~243,000 tokens saved. No recent data: Kylie
 - Thu Dec 24 8pm — **Hobocop** at The Grisly Pear · NO ARTWORK
 - Thu Dec 24 8:30pm — **A Very Jewdy Christmas** at New York Comedy Club (Upper West Side)
 
-## Week 6: Dec 25 to Dec 31 — 6 picks — only 6 picks; target 8 · 2 without artwork
+## Week 6: Dec 25 to Dec 31 — 10 picks — 5 without artwork
 
 - Fri Dec 25 6:30pm · doors 6pm — **Kosher Chinese – A Christmas Comedy Show!** at St. Marks Comedy Club · NO ARTWORK
 - Sat Dec 26 8pm — **8PM Primetime Comedy Show at The Grisly Pear Greenwich Village** at The Grisly Pear · NO ARTWORK
 - Sat Dec 26 8pm · doors 7:30pm — **Stand-Up Comedy NYC | Top Comedians on the Upper East Side** at Upper East Side Comedy Club
 - Sat Dec 26 10pm · doors 9:30pm — **Late Night Stand-Up NYC | Comedy on the Upper East Side** at Upper East Side Comedy Club
-- Sun Dec 27 9pm — **Highly Suspicious w/ Aaron Putnam, Kerryn Feehan, Zach Liss** at New York Comedy Club (Upper West Side)
 - Mon Dec 28 7:30pm · doors 7pm — **Famous Last Words** at Union Hall
+- Tue Dec 29 7:30pm · doors 7pm — **PRETTY MAJOR Hosted by Jay Jurden** at Union Hall
+- Wed Dec 30 7:30pm · doors 7pm — **A TRUE YORK COMEDY EXPERIENCE** at St. Marks Comedy Club · NO ARTWORK
+- Thu Dec 31 6:30pm · doors 6pm — **A TRUE YORK COMEDY EXPERIENCE** at St. Marks Comedy Club · NO ARTWORK
+- Thu Dec 31 8pm — **NYE Comedy Show** at The Grisly Pear
+- Thu Dec 31 8:30pm · doors 8pm — **Date Night Comedy Show x2** at St. Marks Comedy Club · NO ARTWORK
 

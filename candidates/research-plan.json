@@ -1,14 +1,18 @@
 {
- "generated_at": "2026-11-17T11:37:37.793Z",
- "performers_considered": 30,
+ "generated_at": "2026-11-20T11:11:26.177Z",
+ "performers_considered": 29,
  "shortlist": [
-  {
-   "name": "Jessica Kirson",
-   "priority": 135
-  },
   {
    "name": "Fahim Anwar",
    "priority": 135
+  },
+  {
+   "name": "Josh Mandl",
+   "priority": 135
+  },
+  {
+   "name": "Jessica Kirson",
+   "priority": 130
   },
   {
    "name": "Demetri Martin",
@@ -23,53 +27,31 @@
    "priority": 105
   },
   {
-   "name": "Michelle Wolf",
-   "priority": 55
+   "name": "Ralph Barbosa",
+   "priority": 105
   },
   {
    "name": "Jacqueline Novak",
-   "priority": 45
+   "priority": 60
   },
   {
-   "name": "Jaboukie Young-White",
-   "priority": 40
-  },
-  {
-   "name": "Kylie Vincent",
+   "name": "Opey Olagbaju",
    "priority": 35
   },
   {
-   "name": "Hotel Art Thief",
+   "name": "Christian Finnegan",
    "priority": 35
   }
  ],
  "run": [
   {
-   "name": "Michelle Wolf",
-   "priority": 55,
-   "next": {
-    "id": "michelle-wolf-best-job-town-hall-2026-11-19",
-    "date": "2026-11-19",
-    "venue": "The Town Hall",
-    "days": 2,
-    "featured": false,
-    "poster": false,
-    "demand": null
-   },
-   "cheap_signals": [
-    "Wikipedia: 948 views a day",
-    "Wikipedia views up 139% over the prior month"
-   ],
-   "reason": "show within 3 days and not yet decided"
-  },
-  {
-   "name": "Kylie Vincent",
+   "name": "Opey Olagbaju",
    "priority": 35,
    "next": {
-    "id": "kylie-vincent-lesion-lady-sesh-2026-11-18",
-    "date": "2026-11-18",
-    "venue": "Sesh Comedy",
-    "days": 1,
+    "id": "opey-olagbaju-union-hall-2026-11-20",
+    "date": "2026-11-20",
+    "venue": "Union Hall",
+    "days": 0,
     "featured": false,
     "poster": true,
     "demand": null
@@ -78,13 +60,13 @@
    "reason": "show within 3 days and not yet decided"
   },
   {
-   "name": "Hotel Art Thief",
+   "name": "Christian Finnegan",
    "priority": 35,
    "next": {
-    "id": "hotel-art-thief-union-hall-2026-11-18",
-    "date": "2026-11-18",
-    "venue": "Union Hall",
-    "days": 1,
+    "id": "christian-finnegan-nycc-2026-11-22",
+    "date": "2026-11-22",
+    "venue": "New York Comedy Club (Midtown)",
+    "days": 2,
     "featured": false,
     "poster": true,
     "demand": null
@@ -95,23 +77,23 @@
  ],
  "reuse": [
   {
-   "name": "Jessica Kirson",
-   "priority": 135,
-   "cached": {
-    "at": "2026-11-16T13:38:58.188Z",
-    "age_days": 0.9,
-    "fresh": true,
-    "note": "Nothing in 30 days: Reddit auth-failed (HTTP 403) on the last30days run and the repo's read-only OAuth re-check found three name-collision posts in r/longislandliveevents, r/Accents and r/CasualConversation, none about her NYC dates. Both NYCC Midtown dates (Nov 17, Nov 23) are sold out."
-   }
-  },
-  {
    "name": "Fahim Anwar",
    "priority": 135,
    "cached": {
     "at": "2026-11-16T13:38:58.222Z",
-    "age_days": 0.9,
+    "age_days": 3.9,
     "fresh": true,
     "note": "Nothing in 30 days: Reddit came back rate-limited (HTTP 429) on the last30days run and the repo's read-only OAuth re-check found zero posts with his name in a comedy or NYC subreddit. The actionable signal came from the Bell House calendar instead: the 7:30pm Nov 20 show is sold out and a second 10:00pm show is still selling at 8.20."
+   }
+  },
+  {
+   "name": "Jessica Kirson",
+   "priority": 130,
+   "cached": {
+    "at": "2026-11-16T13:38:58.188Z",
+    "age_days": 3.9,
+    "fresh": true,
+    "note": "Nothing in 30 days: Reddit auth-failed (HTTP 403) on the last30days run and the repo's read-only OAuth re-check found three name-collision posts in r/longislandliveevents, r/Accents and r/CasualConversation, none about her NYC dates. Both NYCC Midtown dates (Nov 17, Nov 23) are sold out."
    }
   },
   {
@@ -119,33 +101,28 @@
    "priority": 105,
    "cached": {
     "at": "2026-11-16T13:38:58.255Z",
-    "age_days": 0.9,
+    "age_days": 3.9,
     "fresh": true,
     "note": "Nothing in 30 days: Reddit rate-limited (HTTP 429) on the last30days run, zero on Hacker News, and the repo's read-only OAuth re-check found no posts. His Dec 4 and Dec 5 Bell House Christmas shows are sold out."
    }
   },
   {
    "name": "Jacqueline Novak",
-   "priority": 45,
+   "priority": 60,
    "cached": {
     "at": "2026-11-14T11:18:02.304Z",
-    "age_days": 3,
+    "age_days": 6,
     "fresh": true,
     "note": "No New York signal in 30 days: Reddit returned only two Omaha show-list posts and Hacker News nothing, so the Bell House Nov 23 date rests on the room's own calendar."
-   }
-  },
-  {
-   "name": "Jaboukie Young-White",
-   "priority": 40,
-   "cached": {
-    "at": "2026-11-14T11:18:02.244Z",
-    "age_days": 3,
-    "fresh": true,
-    "note": "No signal at all in 30 days: Reddit returned one unrelated thread and Hacker News nothing, so the Bell House Nov 17 date rests on the room's own calendar."
    }
   }
  ],
  "skip": [
+  {
+   "name": "Josh Mandl",
+   "priority": 135,
+   "reason": "already sold out; research cannot change the call"
+  },
   {
    "name": "Alyce Chan",
    "priority": 105,
@@ -157,28 +134,13 @@
    "reason": "already sold out; research cannot change the call"
   },
   {
-   "name": "Do It",
-   "priority": 35,
-   "reason": "outside the top 10 by cheap ranking"
-  },
-  {
-   "name": "Opey Olagbaju",
-   "priority": 35,
-   "reason": "outside the top 10 by cheap ranking"
+   "name": "Ralph Barbosa",
+   "priority": 105,
+   "reason": "already sold out; research cannot change the call"
   },
   {
    "name": "Ania Magliano",
    "priority": 25,
-   "reason": "outside the top 10 by cheap ranking"
-  },
-  {
-   "name": "Josh Mandl",
-   "priority": 20,
-   "reason": "outside the top 10 by cheap ranking"
-  },
-  {
-   "name": "Christian Finnegan",
-   "priority": 20,
    "reason": "outside the top 10 by cheap ranking"
   },
   {
@@ -187,17 +149,47 @@
    "reason": "outside the top 10 by cheap ranking"
   },
   {
-   "name": "Town Hall Tuesday",
+   "name": "Epic B",
    "priority": 20,
    "reason": "outside the top 10 by cheap ranking"
   },
   {
-   "name": "Sing",
+   "name": "Uproot Andy",
    "priority": 20,
    "reason": "outside the top 10 by cheap ranking"
   },
   {
-   "name": "Tell",
+   "name": "Reggae Rewind",
+   "priority": 20,
+   "reason": "outside the top 10 by cheap ranking"
+  },
+  {
+   "name": "Somewhat Shakespeare",
+   "priority": 20,
+   "reason": "outside the top 10 by cheap ranking"
+  },
+  {
+   "name": "Clocked Off",
+   "priority": 20,
+   "reason": "outside the top 10 by cheap ranking"
+  },
+  {
+   "name": "Rediscovering ancient wisdom",
+   "priority": 20,
+   "reason": "outside the top 10 by cheap ranking"
+  },
+  {
+   "name": "Mick Szal",
+   "priority": 20,
+   "reason": "outside the top 10 by cheap ranking"
+  },
+  {
+   "name": "June Cohen",
+   "priority": 20,
+   "reason": "outside the top 10 by cheap ranking"
+  },
+  {
+   "name": "Good God",
    "priority": 20,
    "reason": "outside the top 10 by cheap ranking"
   },
@@ -227,26 +219,6 @@
    "reason": "outside the top 10 by cheap ranking"
   },
   {
-   "name": "Ralph Barbosa",
-   "priority": 5,
-   "reason": "outside the top 10 by cheap ranking"
-  },
-  {
-   "name": "Epic B",
-   "priority": 5,
-   "reason": "outside the top 10 by cheap ranking"
-  },
-  {
-   "name": "Uproot Andy",
-   "priority": 5,
-   "reason": "outside the top 10 by cheap ranking"
-  },
-  {
-   "name": "Reggae Rewind",
-   "priority": 5,
-   "reason": "outside the top 10 by cheap ranking"
-  },
-  {
    "name": "Paula J. Leon",
    "priority": 0,
    "reason": "outside the top 10 by cheap ranking"
@@ -255,12 +227,17 @@
    "name": "Mario Pisano",
    "priority": 0,
    "reason": "outside the top 10 by cheap ranking"
+  },
+  {
+   "name": "Dear Kiko",
+   "priority": -10,
+   "reason": "outside the top 10 by cheap ranking"
   }
  ],
  "estimated_tokens_saved": 243000,
- "estimate_basis": "9000 tokens per last30days run, 27 runs avoided out of 30",
+ "estimate_basis": "9000 tokens per last30days run, 27 runs avoided out of 29",
  "no_recent_data": [
-  "Kylie Vincent",
-  "Hotel Art Thief"
+  "Opey Olagbaju",
+  "Christian Finnegan"
  ]
 }

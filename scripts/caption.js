@@ -31,7 +31,38 @@ const p0 = (list) => {
   return shown.slice(0, -1).join(', ') + ' and ' + shown[shown.length - 1];
 };
 const bets = (n) => n === 1 ? 'One good bet.' : n === 2 ? 'Two good bets.' : n === 3 ? 'Three good bets.' : `${n} good bets.`;
-const credits = (list) => { const c = [...new Set(list.filter((p) => p.poster && p.poster.credit).map((p) => p.poster.credit.replace(/^(Artwork|Photo|Poster):\s*/i, '')))]; return c.length ? `\n\nArt: ${c.join(' · ')}` : ''; };
+// The art credit line.
+//
+// Each poster record carries its own credit: "Artwork: Flop House Comedy (via the
+// Eventbrite listing)". Printing every one of those in full costs ~300 characters on a
+// crowded night, and that cost comes straight out of the blurbs -- a 13-show Thursday
+// in November 2026 lost three of them entirely at the old floor.
+//
+// So the Eventbrite listings, which all share one source, are grouped: the venues are
+// named once and the source is credited once. Other credits keep their source, since
+// they are genuinely different sources (Ticketmaster, a club's own page, a promoter).
+const credits = (list) => {
+  const raw = [...new Set(list.filter((p) => p.poster && p.poster.credit).map((p) => p.poster.credit))];
+  if (!raw.length) return '';
+  const strip = (c) => c.replace(/^(Artwork|Photo|Poster):\s*/i, '').replace(/\s+/g, ' ').trim();
+  const eb = [];
+  const other = [];
+  for (const c of raw) {
+    const m = strip(c).match(/^(.*?)\s*\(via (?:the )?Eventbrite listing\)$/i);
+    if (m) {
+      // Grouped: the venue is named once and the shared source is credited once.
+      if (!eb.includes(m[1])) eb.push(m[1]);
+    } else {
+      // A different source (Ticketmaster, a club's own page, a promoter) -- keep the
+      // credit exactly as it was written, so nothing about its provenance is lost.
+      other.push(strip(c));
+    }
+  }
+  const parts = [];
+  if (eb.length) parts.push(`${eb.join(', ')} (Eventbrite)`);
+  parts.push(...other);
+  return `\n\nArt: ${parts.join(' · ')}`;
+};
 const hashtags = '#nyccomedy #nycstandup #brooklyncomedy #standupnyc';
 
 // One block per show: time + title, where it is, then the blurb.
