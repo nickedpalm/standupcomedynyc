@@ -13,9 +13,8 @@ Six weeks ahead from the board. Regenerated on every build; edit the data, not t
 
 Ranked 28; run 3, reuse 3, skip 22; ~225,000 tokens saved. No recent data: Josh Mandl.
 
-## Week 1: Nov 21 to Nov 27 — 35 picks — 13 without artwork · 28 Eventbrite leads not yet reviewed
+## Week 1: Nov 21 to Nov 27 — 34 picks — 12 without artwork · 28 Eventbrite leads not yet reviewed
 
-- Sat Nov 21 4:30pm · doors 4pm — **Prime Time Comedy Show** at St. Marks Comedy Club · NO ARTWORK
 - Sat Nov 21 5pm · doors 4:30pm — **Josh Mandl** at Union Hall · SOLD OUT · heat 100
 - Sat Nov 21 6pm · doors 5:30pm — **Off Menu Comedy** at Greenpoint Comedy Club
 - Sat Nov 21 7pm — **AYOOO Comedy Show Hosted by Darius Dinkins** at Friends and Lovers
