@@ -2888,8 +2888,8 @@
  {
   "event_id": "not-ripe-bananas-wscc-2026-12-15",
   "src": "/assets/posters/not-ripe-bananas-wscc-2026-12-15.webp",
-  "width": 3248,
-  "height": 7426,
+  "width": 792,
+  "height": 660,
   "source_url": "https://www.westsidecomedyclub.com/shows/not-ripe-bananas-9277",
   "credit": "Artwork: West Side Comedy Club",
   "alt": "The Not Ripe Bananas artwork for West Side Comedy Club - the show's own flyer art.",
@@ -4350,5 +4350,35 @@
   "sha256": "627da9bdeb774976ffbc68961915b35c8896d50810c9ddabd65e4f13947ffde6",
   "reuse_status": "Official promotional artwork; no separate reuse license identified. Local review draft only.",
   "archived": true
+ },
+ {
+  "event_id": "not-ripe-bananas-wscc-2026-12-22",
+  "src": "/assets/posters/not-ripe-bananas-wscc-2026-12-15.webp",
+  "width": 792,
+  "height": 660,
+  "source_url": "https://www.westsidecomedyclub.com/shows/not-ripe-bananas-9278",
+  "credit": "Artwork: West Side Comedy Club",
+  "alt": "The Not Ripe Bananas artwork for West Side Comedy Club - the show's own flyer art, a weekly card that names no calendar date.",
+  "kind": "official show artwork",
+  "original_image_url": "https://storage.googleapis.com/partner-portal-storage/ticketing/events/eventc731d053-70b1-4d77-89ff-860f3c08090c.webp",
+  "retrieved_at": "2026-11-21",
+  "bytes": 22456,
+  "sha256": "ca4cc4c90bec1deadbf2a103eda1258f4520eb9a3062fd696862be1c0ef9175c",
+  "reuse_status": "Official promotional artwork; no separate reuse license identified."
+ },
+ {
+  "event_id": "not-ripe-bananas-wscc-2026-12-29",
+  "src": "/assets/posters/not-ripe-bananas-wscc-2026-12-15.webp",
+  "width": 792,
+  "height": 660,
+  "source_url": "https://www.westsidecomedyclub.com/shows/not-ripe-bananas-9279",
+  "credit": "Artwork: West Side Comedy Club",
+  "alt": "The Not Ripe Bananas artwork for West Side Comedy Club - the show's own flyer art, a weekly card that names no calendar date.",
+  "kind": "official show artwork",
+  "original_image_url": "https://storage.googleapis.com/partner-portal-storage/ticketing/events/eventc731d053-70b1-4d77-89ff-860f3c08090c.webp",
+  "retrieved_at": "2026-11-21",
+  "bytes": 22456,
+  "sha256": "ca4cc4c90bec1deadbf2a103eda1258f4520eb9a3062fd696862be1c0ef9175c",
+  "reuse_status": "Official promotional artwork; no separate reuse license identified."
  }
 ]

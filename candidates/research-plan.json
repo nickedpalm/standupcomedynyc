@@ -1,15 +1,7 @@
 {
- "generated_at": "2026-11-20T11:11:26.177Z",
- "performers_considered": 29,
+ "generated_at": "2026-11-21T11:23:33.624Z",
+ "performers_considered": 28,
  "shortlist": [
-  {
-   "name": "Fahim Anwar",
-   "priority": 135
-  },
-  {
-   "name": "Josh Mandl",
-   "priority": 135
-  },
   {
    "name": "Jessica Kirson",
    "priority": 130
@@ -35,7 +27,15 @@
    "priority": 60
   },
   {
-   "name": "Opey Olagbaju",
+   "name": "Judy Gold",
+   "priority": 50
+  },
+  {
+   "name": "Ania Magliano",
+   "priority": 37
+  },
+  {
+   "name": "Josh Mandl",
    "priority": 35
   },
   {
@@ -45,28 +45,48 @@
  ],
  "run": [
   {
-   "name": "Opey Olagbaju",
-   "priority": 35,
+   "name": "Jacqueline Novak",
+   "priority": 60,
    "next": {
-    "id": "opey-olagbaju-union-hall-2026-11-20",
-    "date": "2026-11-20",
-    "venue": "Union Hall",
-    "days": 0,
+    "id": "jacqueline-novak-bell-house-2026-11-23",
+    "date": "2026-11-23",
+    "venue": "The Bell House",
+    "days": 2,
     "featured": false,
     "poster": true,
     "demand": null
    },
-   "cheap_signals": [],
+   "cheap_signals": [
+    "Wikipedia: 321 views a day",
+    "Wikipedia views up 102% over the prior month"
+   ],
    "reason": "show within 3 days and not yet decided"
   },
   {
-   "name": "Christian Finnegan",
+   "name": "Judy Gold",
+   "priority": 50,
+   "next": {
+    "id": "judy-gold-nycc-2026-11-24",
+    "date": "2026-11-24",
+    "venue": "New York Comedy Club (Upper West Side)",
+    "days": 3,
+    "featured": false,
+    "poster": true,
+    "demand": null
+   },
+   "cheap_signals": [
+    "Wikipedia views up 52% over the prior month"
+   ],
+   "reason": "show within 3 days and not yet decided"
+  },
+  {
+   "name": "Josh Mandl",
    "priority": 35,
    "next": {
-    "id": "christian-finnegan-nycc-2026-11-22",
-    "date": "2026-11-22",
-    "venue": "New York Comedy Club (Midtown)",
-    "days": 2,
+    "id": "josh-mandl-union-hall-2026-11-21",
+    "date": "2026-11-21",
+    "venue": "Union Hall",
+    "days": 0,
     "featured": false,
     "poster": true,
     "demand": null
@@ -77,21 +97,11 @@
  ],
  "reuse": [
   {
-   "name": "Fahim Anwar",
-   "priority": 135,
-   "cached": {
-    "at": "2026-11-16T13:38:58.222Z",
-    "age_days": 3.9,
-    "fresh": true,
-    "note": "Nothing in 30 days: Reddit came back rate-limited (HTTP 429) on the last30days run and the repo's read-only OAuth re-check found zero posts with his name in a comedy or NYC subreddit. The actionable signal came from the Bell House calendar instead: the 7:30pm Nov 20 show is sold out and a second 10:00pm show is still selling at 8.20."
-   }
-  },
-  {
    "name": "Jessica Kirson",
    "priority": 130,
    "cached": {
     "at": "2026-11-16T13:38:58.188Z",
-    "age_days": 3.9,
+    "age_days": 4.9,
     "fresh": true,
     "note": "Nothing in 30 days: Reddit auth-failed (HTTP 403) on the last30days run and the repo's read-only OAuth re-check found three name-collision posts in r/longislandliveevents, r/Accents and r/CasualConversation, none about her NYC dates. Both NYCC Midtown dates (Nov 17, Nov 23) are sold out."
    }
@@ -101,28 +111,23 @@
    "priority": 105,
    "cached": {
     "at": "2026-11-16T13:38:58.255Z",
-    "age_days": 3.9,
+    "age_days": 4.9,
     "fresh": true,
     "note": "Nothing in 30 days: Reddit rate-limited (HTTP 429) on the last30days run, zero on Hacker News, and the repo's read-only OAuth re-check found no posts. His Dec 4 and Dec 5 Bell House Christmas shows are sold out."
    }
   },
   {
-   "name": "Jacqueline Novak",
-   "priority": 60,
+   "name": "Christian Finnegan",
+   "priority": 35,
    "cached": {
-    "at": "2026-11-14T11:18:02.304Z",
-    "age_days": 6,
+    "at": "2026-11-20T11:16:29.344Z",
+    "age_days": 1,
     "fresh": true,
-    "note": "No New York signal in 30 days: Reddit returned only two Omaha show-list posts and Hacker News nothing, so the Bell House Nov 23 date rests on the room's own calendar."
+    "note": "Nothing in 30 days: Reddit was rate-limited (HTTP 429) and the one Hacker News hit was an Atlantic article about Christian nationalism, not the comic, so the Midtown taping rests on the club's own listing."
    }
   }
  ],
  "skip": [
-  {
-   "name": "Josh Mandl",
-   "priority": 135,
-   "reason": "already sold out; research cannot change the call"
-  },
   {
    "name": "Alyce Chan",
    "priority": 105,
@@ -140,11 +145,16 @@
   },
   {
    "name": "Ania Magliano",
-   "priority": 25,
+   "priority": 37,
+   "reason": "next show in 11 days, outside the 10-day window"
+  },
+  {
+   "name": "Good God",
+   "priority": 35,
    "reason": "outside the top 10 by cheap ranking"
   },
   {
-   "name": "Judy Gold",
+   "name": "Ismael Loutfi",
    "priority": 20,
    "reason": "outside the top 10 by cheap ranking"
   },
@@ -189,22 +199,12 @@
    "reason": "outside the top 10 by cheap ranking"
   },
   {
-   "name": "Good God",
-   "priority": 20,
-   "reason": "outside the top 10 by cheap ranking"
-  },
-  {
-   "name": "Ismael Loutfi",
-   "priority": 5,
+   "name": "Ryan Davis",
+   "priority": 16,
    "reason": "outside the top 10 by cheap ranking"
   },
   {
    "name": "Gina Brillon",
-   "priority": 5,
-   "reason": "outside the top 10 by cheap ranking"
-  },
-  {
-   "name": "Ryan Davis",
    "priority": 5,
    "reason": "outside the top 10 by cheap ranking"
   },
@@ -215,6 +215,11 @@
   },
   {
    "name": "Mike Feeney",
+   "priority": 5,
+   "reason": "outside the top 10 by cheap ranking"
+  },
+  {
+   "name": "Good Comics",
    "priority": 5,
    "reason": "outside the top 10 by cheap ranking"
   },
@@ -234,10 +239,9 @@
    "reason": "outside the top 10 by cheap ranking"
   }
  ],
- "estimated_tokens_saved": 243000,
- "estimate_basis": "9000 tokens per last30days run, 27 runs avoided out of 29",
+ "estimated_tokens_saved": 225000,
+ "estimate_basis": "9000 tokens per last30days run, 25 runs avoided out of 28",
  "no_recent_data": [
-  "Opey Olagbaju",
-  "Christian Finnegan"
+  "Josh Mandl"
  ]
 }

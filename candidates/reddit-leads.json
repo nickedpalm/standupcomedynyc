@@ -1,5 +1,5 @@
 {
- "retrieved_at": "2026-11-20T11:04:38.005Z",
+ "retrieved_at": "2026-11-21T11:03:04.406Z",
  "note": "Promoter posts from NYC neighborhood subreddits, last 14 days. Leads only: open the linked page or the venue site before anything enters the data; register the venue first.",
  "subreddits": [
   "nycevents",
@@ -27,6 +27,28 @@
  ],
  "leads": [
   {
+   "id": "1y1mhh1",
+   "date": "2026-11-21",
+   "subreddit": "williamsburg",
+   "title": "In 2025, we started a free book club for men. In 2026, we helped other guys start their own. Now we're running it back in 2027.",
+   "score": 49,
+   "comments": 4,
+   "url": "https://www.reddit.com/r/williamsburg/comments/1y1mhh1/in_2025_we_started_a_free_book_club_for_men_in/",
+   "venues_mentioned": [
+    "Union Hall"
+   ],
+   "when_mentioned": null,
+   "time_mentioned": null,
+   "links": [
+    "https://www.lastcallnewyork.com/",
+    "https://www.lastcallnewyork.com/post/2026-kick-off-union-hall",
+    "https://nymag.com/listings/bar/burp-castle/"
+   ],
+   "free": true,
+   "new_since_last_run": true,
+   "excerpt": "Last Call Library is recruiting new members for 2027! We're a free, DIY collective of men's book clubs that meet at neighborhood bars across NYC to discuss good books, shoot the shit, and develop new friendships. If that sounds like your thing, [fill out our interest form](https:"
+  },
+  {
    "id": "1y0t8cf",
    "date": "2026-11-20",
    "subreddit": "nycevents",
@@ -43,8 +65,24 @@
     "https://www.eventbrite.com/e/2004591018699/?aff=r-nycevents"
    ],
    "free": false,
-   "new_since_last_run": true,
+   "new_since_last_run": false,
    "excerpt": " I produce and host this! Cake In The Face is a birthday party with standup. Five comics, and after each one the room votes: slice of cake, or cake in the face. One audience member gets picked to do the caking. (That's me in the clip, from the last show.) 🎂 Sat 11/21 · doors 6, "
+  },
+  {
+   "id": "1y180ac",
+   "date": "2026-11-20",
+   "subreddit": "Bushwick",
+   "title": "FREE: 5 Boxes of Books — Literary Fiction, Classics, Art Theory, Philosophy, &amp; Nonfiction",
+   "score": 19,
+   "comments": 11,
+   "url": "https://www.reddit.com/r/Bushwick/comments/1y180ac/free_5_boxes_of_books_literary_fiction_classics/",
+   "venues_mentioned": [],
+   "when_mentioned": null,
+   "time_mentioned": null,
+   "links": [],
+   "free": true,
+   "new_since_last_run": true,
+   "excerpt": "Giving away a large collection of books across 5 boxes! Great mix of literary fiction, classics, art history/theory, philosophy, biographies, and DIY/reference guides. We will be putting out more free books this weekend . I will post list tomorrow 😅 **Contemporary &amp; Literary"
   },
   {
    "id": "1y0k4s5",
@@ -62,7 +100,7 @@
     "https://www.skipthesmalltalk.com/store/lgbtqia-skip-the-small-talk-night-at-threes-brewing-gowanus-tuesday-december-1-2026"
    ],
    "free": false,
-   "new_since_last_run": true,
+   "new_since_last_run": false,
    "excerpt": "Get cozy this fall with Skip the Small Talk - it’s a chill, sincere event focused on connection! We will be in Manhattan and Brooklyn! You rotate through short conversations with prompts that skip past surface-level small talk. It’s structured enough to make it easy, but relaxed "
   },
   {
@@ -101,7 +139,7 @@
     "https://www.urbanspacemarkets.com/union-square-holiday-market"
    ],
    "free": true,
-   "new_since_last_run": true,
+   "new_since_last_run": false,
    "excerpt": "Hi NYC! Here are my picks for **this weekend, Friday Nov 20 through Sunday Nov 22**, broken down by day and borough. The holiday season officially kicks off this weekend, and there's a lot going on: Philip Glass at BAM, three nights of LCD Soundsystem, John Oliver and Seth Meyers"
   },
   {
@@ -109,7 +147,7 @@
    "date": "2026-11-19",
    "subreddit": "astoria",
    "title": "Friday the 27th a day after Thanksgiving comedy special at QED Astoria",
-   "score": 2,
+   "score": 3,
    "comments": 0,
    "url": "https://www.reddit.com/r/astoria/comments/1xzv3gf/friday_the_27th_a_day_after_thanksgiving_comedy/",
    "venues_mentioned": [
@@ -119,7 +157,7 @@
    "time_mentioned": null,
    "links": [],
    "free": false,
-   "new_since_last_run": true,
+   "new_since_last_run": false,
    "excerpt": "Hey All Come join us for our day after Thanksgiving special. Bring the family or give yourself a break from the family by laughing with us. We promise you all of the laughs with comedians from NYCF, Comedy Central &amp; more! Tickets only $15 Line Up Santiago Angel Megan McMurtry"
   },
   {
@@ -127,7 +165,7 @@
    "date": "2026-11-18",
    "subreddit": "nycevents",
    "title": "Comedy show featuring some of the best comedians in NYC!",
-   "score": 3,
+   "score": 2,
    "comments": 0,
    "url": "https://www.reddit.com/r/nycevents/comments/1xzn79b/comedy_show_featuring_some_of_the_best_comedians/",
    "venues_mentioned": [],
@@ -137,7 +175,7 @@
     "https://www.eventbrite.com/e/meat-cats-comedy-presents-saturday-sauce-tickets-2002220043047"
    ],
    "free": false,
-   "new_since_last_run": true,
+   "new_since_last_run": false,
    "excerpt": "With comics seen on Comedy Central, HBO, Netflix, Hulu and more. Saturday Sauce is a live comedy show in Brooklyn, NY. Come through! [https://www.eventbrite.com/e/meat-cats-comedy-presents-saturday-sauce-tickets-2002220043047](https://www.eventbrite.com/e/meat-cats-comedy-present"
   },
   {
@@ -155,7 +193,7 @@
     "https://www.eventbrite.com/e/popcorn-comedy-with-tata-sherise-tickets-2004412545882"
    ],
    "free": false,
-   "new_since_last_run": true,
+   "new_since_last_run": false,
    "excerpt": "We’d love to see you there! Code POPCORN for $5 off! https://www.eventbrite.com/e/popcorn-comedy-with-tata-sherise-tickets-2004412545882"
   },
   {
@@ -163,7 +201,7 @@
    "date": "2026-11-18",
    "subreddit": "astoria",
    "title": "TaTa Sherise Headlines Popcorn Comedy at Oliver’s Astoria Tomorrow Night (Nov 19 @ 7:30pm)!",
-   "score": 4,
+   "score": 5,
    "comments": 0,
    "url": "https://www.reddit.com/r/astoria/comments/1xzl0p6/tata_sherise_headlines_popcorn_comedy_at_olivers/",
    "venues_mentioned": [],
@@ -173,7 +211,7 @@
     "https://www.eventbrite.com/e/popcorn-comedy-with-tata-sherise-tickets-2004412545882"
    ],
    "free": false,
-   "new_since_last_run": true,
+   "new_since_last_run": false,
    "excerpt": "We’d love to see you there if you’re looking for plans! You can use code POPCORN for 5 bucks off! https://www.eventbrite.com/e/popcorn-comedy-with-tata-sherise-tickets-2004412545882"
   },
   {
@@ -191,7 +229,7 @@
    "time_mentioned": "10pm",
    "links": [],
    "free": false,
-   "new_since_last_run": true,
+   "new_since_last_run": false,
    "excerpt": "If anyone is looking for something to do this weekend, there's a great show at Union Hall this Saturday at 10pm called 'Saturday Sauce!' Lineup is sick: James Mwaura, Chloe Radcliffe, Joe Palana, PK Mackey, Max Higgins, Clare Donaher, Britt Migs, Irina Chelidze "
   },
   {
@@ -214,7 +252,7 @@
     "https://www.instagram.com/p/DeabuxENhml/"
    ],
    "free": true,
-   "new_since_last_run": true,
+   "new_since_last_run": false,
    "excerpt": "Hoping this nice (if chilly) weather holds. Here's what's happening in our neck of the woods this week. As always, comment your suggestions and they'll be added to the roster! *Wed 11/18* * 6-8pm - [CHTU Crown Heights Tenant Circle](https://www.instagram.com/p/DfXORC8EQTs/) @ Ano"
   },
   {
@@ -232,7 +270,7 @@
     "https://www.eventbrite.com/e/popcorn-comedy-with-tata-sherise-tickets-2004412545882"
    ],
    "free": false,
-   "new_since_last_run": true,
+   "new_since_last_run": false,
    "excerpt": "We’d love to see you there if you’re looking for plans! You can use code POPCORN for 5 bucks off! https://www.eventbrite.com/e/popcorn-comedy-with-tata-sherise-tickets-2004412545882"
   },
   {
@@ -366,7 +404,7 @@
    "date": "2026-11-17",
    "subreddit": "williamsburg",
    "title": "Talent Show [for adults] @ Brooklyn Bowl 11/18 hosted by @journalingclasses",
-   "score": 3,
+   "score": 4,
    "comments": 0,
    "url": "https://www.reddit.com/r/williamsburg/comments/1xyotgd/talent_show_for_adults_brooklyn_bowl_1118_hosted/",
    "venues_mentioned": [],
@@ -464,7 +502,7 @@
    "date": "2026-11-17",
    "subreddit": "Greenpoint",
    "title": "Talent Show [for adults] 11/18 at Brooklyn Bowl Hosted by @journalingclasses",
-   "score": 4,
+   "score": 5,
    "comments": 0,
    "url": "https://www.reddit.com/r/Greenpoint/comments/1xyorx6/talent_show_for_adults_1118_at_brooklyn_bowl/",
    "venues_mentioned": [],
@@ -574,7 +612,7 @@
    "date": "2026-11-15",
    "subreddit": "nycevents",
    "title": "I’m a Ukrainian refugee chasing a stand-up dream. Performing at Gotham in NYC this Monday, November 16 — could really use your support.",
-   "score": 4,
+   "score": 5,
    "comments": 2,
    "url": "https://www.reddit.com/r/nycevents/comments/1xx05yf/im_a_ukrainian_refugee_chasing_a_standup_dream/",
    "venues_mentioned": [
@@ -624,7 +662,7 @@
    "date": "2026-11-15",
    "subreddit": "ridgewood",
    "title": "Solid Reads, No Bread Required: Free Knowledge on the Stoop, Ya Dig?",
-   "score": 14,
+   "score": 16,
    "comments": 0,
    "url": "https://www.reddit.com/r/ridgewood/comments/1xx2yx6/solid_reads_no_bread_required_free_knowledge_on/",
    "venues_mentioned": [],
@@ -720,7 +758,7 @@
    "date": "2026-11-14",
    "subreddit": "astoria",
    "title": "I have a few free tickets for this comedy show at QED tonight, DM if interested",
-   "score": 4,
+   "score": 2,
    "comments": 0,
    "url": "https://www.reddit.com/r/astoria/comments/1xw7tbp/i_have_a_few_free_tickets_for_this_comedy_show_at/",
    "venues_mentioned": [],
@@ -858,7 +896,7 @@
    "date": "2026-11-12",
    "subreddit": "crownheights",
    "title": "I host a comedy show at Friends and Lovers!",
-   "score": 9,
+   "score": 6,
    "comments": 3,
    "url": "https://www.reddit.com/r/crownheights/comments/1xukre0/i_host_a_comedy_show_at_friends_and_lovers/",
    "venues_mentioned": [
@@ -1006,7 +1044,7 @@
    "date": "2026-11-11",
    "subreddit": "williamsburg",
    "title": "Owning a comedy &amp; other stories",
-   "score": 35,
+   "score": 33,
    "comments": 6,
    "url": "https://www.reddit.com/r/williamsburg/comments/1xtnr9t/owning_a_comedy_other_stories/",
    "venues_mentioned": [
@@ -1119,7 +1157,7 @@
    "date": "2026-11-11",
    "subreddit": "crownheights",
    "title": "Crown Heights November Events Thread 11/11-11/18",
-   "score": 17,
+   "score": 16,
    "comments": 3,
    "url": "https://www.reddit.com/r/crownheights/comments/1xtu2rw/crown_heights_november_events_thread_11111118/",
    "venues_mentioned": [
@@ -1230,7 +1268,7 @@
    "date": "2026-11-10",
    "subreddit": "astoria",
    "title": "Hey Astoria! Grove 34 wants to hear from you!",
-   "score": 46,
+   "score": 48,
    "comments": 49,
    "url": "https://www.reddit.com/r/astoria/comments/1xspwpy/hey_astoria_grove_34_wants_to_hear_from_you/",
    "venues_mentioned": [
@@ -1338,7 +1376,7 @@
    "date": "2026-11-09",
    "subreddit": "lowereastside",
    "title": "Bars that are chill on a Saturday night?",
-   "score": 5,
+   "score": 7,
    "comments": 15,
    "url": "https://www.reddit.com/r/lowereastside/comments/1xry4an/bars_that_are_chill_on_a_saturday_night/",
    "venues_mentioned": [
@@ -1394,7 +1432,7 @@
    "date": "2026-11-09",
    "subreddit": "Greenpoint",
    "title": "selling a 7pm ticket for James Acaster at Greenpoint Comedy Club tonight",
-   "score": 3,
+   "score": 1,
    "comments": 2,
    "url": "https://www.reddit.com/r/Greenpoint/comments/1xs6i2y/selling_a_7pm_ticket_for_james_acaster_at/",
    "venues_mentioned": [
@@ -1458,46 +1496,6 @@
    "excerpt": ""
   },
   {
-   "id": "1xpx3y0",
-   "date": "2026-11-07",
-   "subreddit": "nycevents",
-   "title": "Sketch Comedy next Saturday - $10 Tickets with code: NYCF",
-   "score": 0,
-   "comments": 0,
-   "url": "https://www.reddit.com/r/nycevents/comments/1xpx3y0/sketch_comedy_next_saturday_10_tickets_with_code/",
-   "venues_mentioned": [
-    "Caveat"
-   ],
-   "when_mentioned": "Saturday - $10 Tickets with code: NYCF [https://",
-   "time_mentioned": null,
-   "links": [
-    "https://www.caveat.nyc/events/fun-in-moderation-sketch-comedy-2026-11-14"
-   ],
-   "free": false,
-   "new_since_last_run": false,
-   "excerpt": "[https://www.caveat.nyc/events/fun-in-moderation-sketch-comedy-2026-11-14](https://www.caveat.nyc/events/fun-in-moderation-sketch-comedy-2026-11-14)"
-  },
-  {
-   "id": "1xpx5ip",
-   "date": "2026-11-07",
-   "subreddit": "nycComedy",
-   "title": "Sketch Comedy next Saturday - $10 Tickets with code: NYCF",
-   "score": 1,
-   "comments": 0,
-   "url": "https://www.reddit.com/r/nycComedy/comments/1xpx5ip/sketch_comedy_next_saturday_10_tickets_with_code/",
-   "venues_mentioned": [
-    "Caveat"
-   ],
-   "when_mentioned": "Saturday - $10 Tickets with code: NYCF [https://",
-   "time_mentioned": null,
-   "links": [
-    "https://www.caveat.nyc/events/fun-in-moderation-sketch-comedy-2026-11-14"
-   ],
-   "free": false,
-   "new_since_last_run": false,
-   "excerpt": "[https://www.caveat.nyc/events/fun-in-moderation-sketch-comedy-2026-11-14](https://www.caveat.nyc/events/fun-in-moderation-sketch-comedy-2026-11-14)"
-  },
-  {
    "id": "1xqcj1u",
    "date": "2026-11-07",
    "subreddit": "lowereastside",
@@ -1514,26 +1512,6 @@
    "free": false,
    "new_since_last_run": false,
    "excerpt": "Comedian bios at tix at [onein35.com](http://onein35.com) \\- Thanks and hope to see you there. "
-  },
-  {
-   "id": "1xpq41b",
-   "date": "2026-11-06",
-   "subreddit": "longislandcity",
-   "title": "Secret Comedy Show - Saturday (11/7)!",
-   "score": 1,
-   "comments": 1,
-   "url": "https://www.reddit.com/r/longislandcity/comments/1xpq41b/secret_comedy_show_saturday_117/",
-   "venues_mentioned": [],
-   "when_mentioned": "Saturday (11/7)",
-   "time_mentioned": "9:30pm",
-   "links": [
-    "https://www.eventbrite.com/e/secret-comedy-show-long-island-city-byob-tickets-1992646889487?aff=reddit",
-    "https://www.instagram.com/thespotlightcomedynyc/",
-    "https://www.thespotlightcomedy.com/newyork"
-   ],
-   "free": false,
-   "new_since_last_run": false,
-   "excerpt": "Hey friends! We are running a super fun secret comedy show this Saturday November 7th at 9:30pm in Long Island City! It takes place in a super cool art studio. Think of it as an intimate, secret comedy club. We have a lineup of top-tier comedians to this cozy, 40-seat venue for a"
   }
  ]
 }

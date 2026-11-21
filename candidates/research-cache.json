@@ -361,8 +361,8 @@
    "source": "last30days"
   },
   "Jacqueline Novak": {
-   "at": "2026-11-14T11:18:02.304Z",
-   "note": "No New York signal in 30 days: Reddit returned only two Omaha show-list posts and Hacker News nothing, so the Bell House Nov 23 date rests on the room's own calendar.",
+   "at": "2026-11-21T11:26:02.019Z",
+   "note": "Nothing in 30 days: Reddit returned HTTP 404 and Hacker News had zero hits for her name, so the Bell House Nov 23 and Nov 24 sets rest on the venue's own listing.",
    "source": "last30days"
   },
   "Jake Velazquez": {
@@ -378,6 +378,16 @@
   "Opey Olagbaju": {
    "at": "2026-11-20T11:16:29.302Z",
    "note": "Nothing in 30 days: Reddit returned HTTP 404 and Hacker News zero stories after the prefix filter removed 30 false positives, so the Union Hall date rests on the room's own calendar rather than on any online chatter.",
+   "source": "last30days"
+  },
+  "Judy Gold": {
+   "at": "2026-11-21T11:26:02.051Z",
+   "note": "Nothing in 30 days: Reddit returned no posts and Hacker News dropped all eight hits as prefix false positives, so the Upper West Side Nov 24 show rests on the club's own listing.",
+   "source": "last30days"
+  },
+  "Josh Mandl": {
+   "at": "2026-11-21T11:26:02.084Z",
+   "note": "Nothing in 30 days: Reddit returned no posts and the two Hacker News hits were false positives about Josh Kushner and a crawler called joshternet, so tonight's Union Hall set rests on the venue's own listing.",
    "source": "last30days"
   }
  }

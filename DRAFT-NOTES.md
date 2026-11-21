@@ -1679,3 +1679,93 @@ us`. Nothing has been readable since.
 `IG-REPLIES.json` is unchanged (`[]`) — no replies sent, no threads waiting on
 us — so there is no "IG replies" commit to make and no Telegram to send.
 `npm test` passes (135 picks) and the live site serves 135 picks.
+
+## 2026-11-21 (19:00 UTC) — Recover the stranded 11:00 edition, fix tonight's copy
+
+**The 11:00 edition run died at its tool cap** (`cron_175fe3898d3f_20261121_110038`,
+280 messages, "You've reached the maximum number of tool-calling iterations allowed").
+It verified its sources and wrote notes but never edited `picks.json`, so
+nothing was committed. The 09:15 nightly sweep then published its scratch
+under "Nightly: rotate expired picks". The 14:00 comment-check run died at its
+cap too. Both recovered here.
+
+**Nine picks added, every source page re-opened today:**
+
+- Grisly Pear Dec 27 8pm and Jan 1 6pm — the club's own event pages: $28.68
+  ($25 + $3.68) and $23.24 ($20 + $3.24), both with a 2 drink/item minimum.
+  The Dec 27 page's own copy says "weekend shows typically sell out"; that is
+  the club's boilerplate, so it is not a scarcity claim in a blurb.
+- St. Marks Dec 26 Prime Time — $12 + $2 service = $14, doors 4, show 4:30-6:00.
+- St. Marks Dec 27 Sunday Funday (7:30-9:00) and Sunday Late (9:30-11:00) —
+  lineups read from the **rendered DOM**, not the raw HTML: Funday is Alexis
+  Carabano, Danny Carabano and Macy Kwok; Late adds Brandon Ledesma. Both
+  $15 + $2 = $17 with a **two drink minimum**.
+- West Side Comedy Club Dec 22 and Dec 29 Not Ripe Bananas — both pages say
+  Free, 8:00-9:30pm. The artwork is the same weekly card the club serves for
+  every date (one image, `eventc731d053...webp`).
+- Upper East Side Comedy Club Dec 31 — the venue page's Thursday lineup
+  (Harrison Greenbaum, Michael Good, Yvette Segan, Sam Rubinoff) and the
+  Eventbrite tiers.
+- Union Hall Dec 19 Martin Urbano — the listing says he "does stand-up to
+  farm clips to post online", highlights 1 hour 30 minutes, and names his
+  debut special and 2023 Edinburgh Fringe nomination.
+
+**Four real bugs found in the stranded work and fixed:**
+
+1. **The St. Marks Sunday Late blurb claimed a two-drink minimum "instead of a
+   cover".** The page says Two Drink Minimum on *both* shows, and the
+   "instead of" pattern is what `npm test`'s "blurb claims" check looks for.
+   Rewritten around the lineup and the 11pm finish.
+2. **Martin Urbano's blurb called Union Hall "the cheapest seat in Manhattan."**
+   False against this board: West Side Comedy Club is free and St. Marks does a
+   $3 Monday. Dropped.
+3. **The Grisly Pear Dec 27 blurb said the show "typically sells out."** That
+   is the venue's own boilerplate note, not a claim we can make about one
+   night. Rewritten around the price and the minimum.
+4. **Joe DeVito's West Side show page is a 404** (the club's own URL); the pick
+   now points at the live Punchup show page, which still carries the show.
+
+**Tonight's own copy — four bugs, all on tonight's cards:**
+
+- **The Upper East Side card named the wrong night.** The board listed Dan St
+  Germain, Michael Brigante, James Patrick and Allie Mae for Nov 21 — that is
+  the **Dec 26** bill. The venue page and the Eventbrite listing both say
+  **Mark Gagnon, Janelle Draper, Daniel Dellano and Michael Good**. Fixed.
+- **Four UESC picks said "$25 at the door."** No page prints that. The
+  Eventbrite tiers for all four are Super Early Bird $12, Early Bird $15
+  (+$2.52), Regular $20 (+$2.83); the Dec 31 page says "Regular at the door"
+  for $20. Label now follows the tiers. This also removes an unsourced price.
+- **St. Marks Prime Time said $15.24 "incl. fees (ticket $12 + service $2 +
+  tax)".** The show page today prints Ticket $12.00 + Service Fee $2.00 =
+  Total **$14.00**, with no tax line. Fixed, and the dek no longer truncates.
+- **The Bell House Ronnukah dek cut mid-sentence** ("...with a 5pm.") and
+  called an 8:30 show an afternoon. The Bell House calendar lists a **5pm**
+  show with Robin Lord Taylor and this **8:30** one with Michael Foote.
+  Rewritten around the 8:30 taping.
+- **The Avery McClure dek said "the room fills up fast."** Nothing on the page
+  says that. Rewritten around the mixed seating the listing does state.
+
+**Josh Mandl — tonight's 5pm show — its Eventbrite listing went private.** The
+`/e/josh-mandl-tickets-2004872908840` page now renders Eventbrite's "Something
+went wrong" and the API returns **403 NOT_AUTHORIZED** on that id, while a
+deleted id returns 404 and an archived id still returns 200 — so the event
+exists but is no longer public. No cancellation notice anywhere: Union Hall's
+own Facebook post still advertises "SATURDAY, NOVEMBER 21 4:30 DOORS • 5:00
+SHOW", and GetRightOut still lists it. The **last verified read of that ticket
+page was "sold out"** (the 09:15 heat run), so the Sold out tag is kept and
+the pick stays off tonight's carousel. That is the safe reading: we cannot
+verify it is buyable, and we cannot verify it is cancelled.
+
+**The Not Ripe Bananas flyer dimensions were wrong in three records.** The
+published file is 792x660; the records claimed 3248x7426 (the *source*
+image's size). `picks.js` reads `poster.width`/`poster.height` to decide
+whether a poster is landscape, so the wrong numbers made the board render it
+the wrong way round. Corrected in `picks.json` and `POSTER-SOURCES.json`.
+
+**Horizon:** week 6 was thinnest with Dec 27 and Jan 1 empty; both now have
+picks, and 9 December picks were re-opened at their own source pages and
+re-stamped. `npm test` passes (134 picks).
+
+**The IG token is still dead** (expired 14-Nov-26 07:51 PST; a box-wide sweep
+finds exactly one candidate and it fails). The cards render and publish to the
+site; the Instagram API publish cannot succeed until a fresh token lands.
