@@ -697,7 +697,7 @@
  },
  {
   "event_id": "comedy-4-flatbush-friends-and-lovers-2026-11-20",
-  "src": "/assets/posters/comedy-4-flatbush-friends-and-lovers-2026-11-20.jpg",
+  "src": "/assets/posters/archive/comedy-4-flatbush-friends-and-lovers-2026-11-20.jpg",
   "width": 1880,
   "height": 2350,
   "source_url": "https://www.eventbrite.com/e/comedy-4-flatbush-hosted-by-joel-pipitone-tickets-2004964151750",
@@ -708,7 +708,8 @@
   "retrieved_at": "2026-11-18",
   "reuse_status": "Official promotional artwork; no separate reuse license identified. Local review draft only.",
   "bytes": 368404,
-  "sha256": "396c5353560e47c5b15f07dd2117d8f6151a0cdeec3b4fcff06b33924b0fe07b"
+  "sha256": "396c5353560e47c5b15f07dd2117d8f6151a0cdeec3b4fcff06b33924b0fe07b",
+  "archived": true
  },
  {
   "event_id": "comedy-girl-autumn-2026-10-04",
@@ -1235,7 +1236,7 @@
  },
  {
   "event_id": "fahim-anwar-bell-house-2026-11-20",
-  "src": "/assets/posters/fahim-anwar-bell-house-2026-11-20.jpg",
+  "src": "/assets/posters/archive/fahim-anwar-bell-house-2026-11-20.jpg",
   "width": 2048,
   "height": 1152,
   "source_url": "https://www.livenation.com/event/17GZv0G657P29RG/fahim-anwar",
@@ -1245,7 +1246,8 @@
   "sha256": "cf805bba65e67f921dc2fd8f493b4d9ac154731c9260564aea01ec925a5c0419",
   "bytes": 480092,
   "original_image_url": "https://s1.ticketm.net/dam/a/5eb/c8055e6e-cab8-471d-8167-ddceccfd35eb_TABLET_LANDSCAPE_LARGE_16_9.jpg",
-  "verified_at": "2026-10-10"
+  "verified_at": "2026-10-10",
+  "archived": true
  },
  {
   "event_id": "famous-last-words-union-hall-2026-10-26",
@@ -2408,7 +2410,7 @@
  },
  {
   "event_id": "laughmasters-caveat-2026-11-20",
-  "src": "/assets/posters/laughmasters-caveat-2026-11-20.jpg",
+  "src": "/assets/posters/archive/laughmasters-caveat-2026-11-20.jpg",
   "width": 2048,
   "height": 1024,
   "source_url": "https://www.eventbrite.com/e/laughmasters-tickets-2003025950538",
@@ -2419,7 +2421,8 @@
   "retrieved_at": "2026-11-16",
   "reuse_status": "Official promotional artwork from the show's own public listing; no separate reuse license identified. Site display with credit only.",
   "bytes": 519099,
-  "sha256": "1bedfa2827cb689f0ff9ad2cf751d90737807628bfdf7fe08043ec8a16c1ade3"
+  "sha256": "1bedfa2827cb689f0ff9ad2cf751d90737807628bfdf7fe08043ec8a16c1ade3",
+  "archived": true
  },
  {
   "event_id": "leah-sampson-union-hall-2026-10-14",
@@ -2503,7 +2506,7 @@
  },
  {
   "event_id": "love-isnt-blind-littlefield-2026-11-20",
-  "src": "/assets/posters/love-isnt-blind-littlefield-2026-11-20.jpg",
+  "src": "/assets/posters/archive/love-isnt-blind-littlefield-2026-11-20.jpg",
   "width": 6912,
   "height": 3456,
   "source_url": "https://www.eventbrite.com/e/love-isnt-blind-a-comedydating-show-where-the-men-cant-speak-tickets-1996475316415",
@@ -2514,7 +2517,8 @@
   "retrieved_at": "2026-11-16",
   "reuse_status": "Official promotional artwork from the show's own public listing; no separate reuse license identified. Site display with credit only.",
   "bytes": 1541045,
-  "sha256": "e9deea2002df9f06f523ec8b03c3c1c7dc86fbe48157467a524daf9f8b850d3f"
+  "sha256": "e9deea2002df9f06f523ec8b03c3c1c7dc86fbe48157467a524daf9f8b850d3f",
+  "archived": true
  },
  {
   "event_id": "maddy-kelly-union-hall-2026-11-11",
@@ -3008,7 +3012,7 @@
  },
  {
   "event_id": "opey-olagbaju-union-hall-2026-11-20",
-  "src": "/assets/posters/opey-olagbaju-union-hall-2026-11-20.jpg",
+  "src": "/assets/posters/archive/opey-olagbaju-union-hall-2026-11-20.jpg",
   "width": 768,
   "height": 768,
   "source_url": "https://unionhallny.com/",
@@ -3019,7 +3023,8 @@
   "verified_at": "2026-10-13",
   "bytes": 68512,
   "sha256": "e42906dc48c9efdeeed9feed0d28d16f2614005f204294399368099024033b46",
-  "reuse_status": "Official promotional artwork; no separate reuse license identified. Local review draft only."
+  "reuse_status": "Official promotional artwork; no separate reuse license identified. Local review draft only.",
+  "archived": true
  },
  {
   "event_id": "out-of-the-loop-slipper-room-2026-10-13",
@@ -3241,7 +3246,7 @@
  },
  {
   "event_id": "plain-slice-comedy-fort-hamilton-2026-11-20",
-  "src": "/assets/posters/plain-slice-comedy-fort-hamilton-2026-11-20.jpg",
+  "src": "/assets/posters/archive/plain-slice-comedy-fort-hamilton-2026-11-20.jpg",
   "width": 940,
   "height": 1175,
   "source_url": "https://www.forthamilton.com/upcomingevents/fep7gxrfjyy5gbp8vrz5o64at1lug6-d49de-6ky4k-ar9mn-flx6n-szswy-3zn5t-eg7xf-9t3mb-bwtt6-gwcz3-5mbe4",
@@ -3252,7 +3257,8 @@
   "retrieved_at": "2026-11-18",
   "reuse_status": "Official promotional artwork; no separate reuse license identified. Local review draft only.",
   "bytes": 246994,
-  "sha256": "266cc973be1ba088466357e139f35011437e32e3fea77159fce5d28ea7aee520"
+  "sha256": "266cc973be1ba088466357e139f35011437e32e3fea77159fce5d28ea7aee520",
+  "archived": true
  },
  {
   "event_id": "please-stay-seated-wscc-2026-11-04",

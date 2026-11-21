@@ -1,23 +1,7 @@
 {
- "generated_at": "2026-11-20T09:23:01.871Z",
+ "generated_at": "2026-11-21T09:21:28.809Z",
  "note": "Demand signals for the editor. Only availability and second shows set the public demand tag.",
  "picks": [
-  {
-   "id": "fahim-anwar-bell-house-2026-11-20",
-   "title": "Fahim Anwar",
-   "venue": "The Bell House",
-   "date": "2026-11-20",
-   "heat": 100,
-   "demand": "sold_out",
-   "availability": "SoldOut",
-   "second_show": false,
-   "performer": "Fahim Anwar",
-   "wikipedia": null,
-   "reddit": null,
-   "reasons": [
-    "sold out on the ticket page"
-   ]
-  },
   {
    "id": "josh-mandl-union-hall-2026-11-21",
    "title": "Josh Mandl",
@@ -46,14 +30,14 @@
    "performer": "Jessica Kirson",
    "wikipedia": {
     "title": "Jessica Kirson",
-    "views_30d": 13808,
-    "views_prior_30d": 13699,
-    "change": 1
+    "views_30d": 13703,
+    "views_prior_30d": 13783,
+    "change": -1
    },
    "reddit": null,
    "reasons": [
     "sold out on the ticket page",
-    "Wikipedia: 460 views a day"
+    "Wikipedia: 457 views a day"
    ]
   },
   {
@@ -84,14 +68,30 @@
    "performer": "Demetri Martin",
    "wikipedia": {
     "title": "Demetri Martin",
-    "views_30d": 14579,
-    "views_prior_30d": 13875,
-    "change": 5
+    "views_30d": 14070,
+    "views_prior_30d": 14327,
+    "change": -2
    },
    "reddit": null,
    "reasons": [
     "sold out on the ticket page",
-    "Wikipedia: 486 views a day"
+    "Wikipedia: 469 views a day"
+   ]
+  },
+  {
+   "id": "ismo-live-brooklyn-improv-2026-12-04",
+   "title": "ISMO: Live!",
+   "venue": "Brooklyn Improv",
+   "date": "2026-12-04",
+   "heat": 100,
+   "demand": "sold_out",
+   "availability": "SoldOut",
+   "second_show": false,
+   "performer": null,
+   "wikipedia": null,
+   "reddit": null,
+   "reasons": [
+    "sold out on the ticket page"
    ]
   },
   {
@@ -106,14 +106,14 @@
    "performer": "Demetri Martin",
    "wikipedia": {
     "title": "Demetri Martin",
-    "views_30d": 14579,
-    "views_prior_30d": 13875,
-    "change": 5
+    "views_30d": 14070,
+    "views_prior_30d": 14327,
+    "change": -2
    },
    "reddit": null,
    "reasons": [
     "sold out on the ticket page",
-    "Wikipedia: 486 views a day"
+    "Wikipedia: 469 views a day"
    ]
   },
   {
@@ -133,8 +133,8 @@
    ]
   },
   {
-   "id": "gavin-matts-profound-union-hall-2026-12-09",
-   "title": "Gavin Matts: profound",
+   "id": "gavin-matts-failure-union-hall-2026-12-09",
+   "title": "Gavin Matts: (failure)",
    "venue": "Union Hall",
    "date": "2026-12-09",
    "heat": 100,
@@ -160,8 +160,8 @@
    "performer": "Ralph Barbosa",
    "wikipedia": {
     "title": "Ralph Barbosa",
-    "views_30d": 3571,
-    "views_prior_30d": 6720,
+    "views_30d": 3499,
+    "views_prior_30d": 6600,
     "change": -47
    },
    "reddit": null,
@@ -181,14 +181,30 @@
    "performer": "Jacqueline Novak",
    "wikipedia": {
     "title": "Jacqueline Novak",
-    "views_30d": 10594,
-    "views_prior_30d": 3836,
-    "change": 176
+    "views_30d": 9632,
+    "views_prior_30d": 4757,
+    "change": 102
    },
    "reddit": null,
    "reasons": [
-    "Wikipedia: 353 views a day",
-    "Wikipedia views up 176% over the prior month"
+    "Wikipedia: 321 views a day",
+    "Wikipedia views up 102% over the prior month"
+   ]
+  },
+  {
+   "id": "pachelbel-rant-20th-caveat-2026-11-23",
+   "title": "The Pachelbel Rant 20th Anniversary Show",
+   "venue": "Caveat",
+   "date": "2026-11-23",
+   "heat": 25,
+   "demand": "going_fast",
+   "availability": null,
+   "second_show": true,
+   "performer": null,
+   "wikipedia": null,
+   "reddit": null,
+   "reasons": [
+    "a second show the same night at the same room"
    ]
   },
   {
@@ -203,14 +219,14 @@
    "performer": "Jacqueline Novak",
    "wikipedia": {
     "title": "Jacqueline Novak",
-    "views_30d": 10594,
-    "views_prior_30d": 3836,
-    "change": 176
+    "views_30d": 9632,
+    "views_prior_30d": 4757,
+    "change": 102
    },
    "reddit": null,
    "reasons": [
-    "Wikipedia: 353 views a day",
-    "Wikipedia views up 176% over the prior month"
+    "Wikipedia: 321 views a day",
+    "Wikipedia views up 102% over the prior month"
    ]
   },
   {
@@ -257,13 +273,13 @@
    "performer": "Ania Magliano",
    "wikipedia": {
     "title": "Ania Magliano",
-    "views_30d": 61289,
-    "views_prior_30d": 81265,
-    "change": -25
+    "views_30d": 58363,
+    "views_prior_30d": 79932,
+    "change": -27
    },
    "reddit": null,
    "reasons": [
-    "Wikipedia: 2043 views a day"
+    "Wikipedia: 1945 views a day"
    ]
   },
   {
@@ -278,13 +294,51 @@
    "performer": "Ania Magliano",
    "wikipedia": {
     "title": "Ania Magliano",
-    "views_30d": 61289,
-    "views_prior_30d": 81265,
-    "change": -25
+    "views_30d": 58363,
+    "views_prior_30d": 79932,
+    "change": -27
    },
    "reddit": null,
    "reasons": [
-    "Wikipedia: 2043 views a day"
+    "Wikipedia: 1945 views a day"
+   ]
+  },
+  {
+   "id": "judy-gold-nycc-2026-11-24",
+   "title": "Judy Gold",
+   "venue": "New York Comedy Club (Upper West Side)",
+   "date": "2026-11-24",
+   "heat": 15,
+   "demand": null,
+   "availability": null,
+   "second_show": false,
+   "performer": "Judy Gold",
+   "wikipedia": {
+    "title": "Judy Gold",
+    "views_30d": 5864,
+    "views_prior_30d": 3850,
+    "change": 52
+   },
+   "reddit": null,
+   "reasons": [
+    "Wikipedia views up 52% over the prior month"
+   ]
+  },
+  {
+   "id": "famous-last-words-union-hall-2026-11-23",
+   "title": "Famous Last Words",
+   "venue": "Union Hall",
+   "date": "2026-11-23",
+   "heat": 10,
+   "demand": null,
+   "availability": "InStock",
+   "second_show": false,
+   "performer": "Famous Last Words",
+   "wikipedia": null,
+   "reddit": null,
+   "reasons": [
+    "tickets available",
+    "3 listings this month"
    ]
   },
   {
@@ -336,129 +390,20 @@
    ]
   },
   {
-   "id": "comedy-4-flatbush-friends-and-lovers-2026-11-20",
-   "title": "Comedy 4 Flatbush",
-   "venue": "Friends and Lovers",
-   "date": "2026-11-20",
-   "heat": 0,
-   "demand": null,
-   "availability": "InStock",
-   "second_show": false,
-   "performer": null,
-   "wikipedia": null,
-   "reddit": null,
-   "reasons": [
-    "tickets available"
-   ]
-  },
-  {
-   "id": "opey-olagbaju-union-hall-2026-11-20",
-   "title": "Opey Olagbaju",
+   "id": "famous-last-words-union-hall-2026-12-28",
+   "title": "Famous Last Words",
    "venue": "Union Hall",
-   "date": "2026-11-20",
-   "heat": 0,
+   "date": "2026-12-28",
+   "heat": 10,
    "demand": null,
    "availability": "InStock",
    "second_show": false,
-   "performer": "Opey Olagbaju",
+   "performer": "Famous Last Words",
    "wikipedia": null,
    "reddit": null,
    "reasons": [
-    "tickets available"
-   ]
-  },
-  {
-   "id": "plain-slice-comedy-fort-hamilton-2026-11-20",
-   "title": "Plain Slice Comedy",
-   "venue": "Fort Hamilton Distillery & Tasting Room",
-   "date": "2026-11-20",
-   "heat": 0,
-   "demand": null,
-   "availability": "InStock",
-   "second_show": false,
-   "performer": null,
-   "wikipedia": null,
-   "reddit": null,
-   "reasons": [
-    "tickets available"
-   ]
-  },
-  {
-   "id": "friday-comedy-eastville-2026-11-20",
-   "title": "Friday Comedy Show",
-   "venue": "Eastville Comedy Club",
-   "date": "2026-11-20",
-   "heat": 0,
-   "demand": null,
-   "availability": null,
-   "second_show": false,
-   "performer": null,
-   "wikipedia": null,
-   "reddit": null,
-   "reasons": []
-  },
-  {
-   "id": "funny-people-live-upper-east-side-2026-11-20",
-   "title": "FUNNY PEOPLE Live",
-   "venue": "Upper East Side Comedy Club",
-   "date": "2026-11-20",
-   "heat": 0,
-   "demand": null,
-   "availability": "InStock",
-   "second_show": false,
-   "performer": null,
-   "wikipedia": null,
-   "reddit": null,
-   "reasons": [
-    "tickets available"
-   ]
-  },
-  {
-   "id": "love-isnt-blind-littlefield-2026-11-20",
-   "title": "Love Isn't Blind | A Comedy/Dating Show Where the Men Can't Speak",
-   "venue": "Littlefield",
-   "date": "2026-11-20",
-   "heat": 0,
-   "demand": null,
-   "availability": "InStock",
-   "second_show": false,
-   "performer": null,
-   "wikipedia": null,
-   "reddit": null,
-   "reasons": [
-    "tickets available"
-   ]
-  },
-  {
-   "id": "laughmasters-caveat-2026-11-20",
-   "title": "Laughmasters",
-   "venue": "Caveat",
-   "date": "2026-11-20",
-   "heat": 0,
-   "demand": null,
-   "availability": "InStock",
-   "second_show": false,
-   "performer": null,
-   "wikipedia": null,
-   "reddit": null,
-   "reasons": [
-    "tickets available"
-   ]
-  },
-  {
-   "id": "friday-night-comedy-upper-east-side-2026-11-20",
-   "title": "Friday Night Comedy | Late Night Stand-Up on the Upper East Side",
-   "venue": "Upper East Side Comedy Club",
-   "date": "2026-11-20",
-   "heat": 0,
-   "demand": null,
-   "availability": "InStock",
-   "second_show": false,
-   "performer": null,
-   "wikipedia": null,
-   "reddit": null,
-   "reasons": [
-    "tickets available"
+    "tickets available",
+    "3 listings this month"
    ]
   },
   {
@@ -595,9 +540,9 @@
    "performer": "Christian Finnegan",
    "wikipedia": {
     "title": "Christian Finnegan",
-    "views_30d": 912,
-    "views_prior_30d": 925,
-    "change": -1
+    "views_30d": 899,
+    "views_prior_30d": 934,
+    "change": -4
    },
    "reddit": null,
    "reasons": []
@@ -615,6 +560,22 @@
    "wikipedia": null,
    "reddit": null,
    "reasons": []
+  },
+  {
+   "id": "good-god-union-hall-2026-11-22",
+   "title": "Good God",
+   "venue": "Union Hall",
+   "date": "2026-11-22",
+   "heat": 0,
+   "demand": null,
+   "availability": "InStock",
+   "second_show": false,
+   "performer": "Good God",
+   "wikipedia": null,
+   "reddit": null,
+   "reasons": [
+    "tickets available"
+   ]
   },
   {
    "id": "john-oliver-seth-meyers-beacon-2026-11-22",
@@ -645,36 +606,6 @@
    "reasons": []
   },
   {
-   "id": "pachelbel-rant-20th-caveat-2026-11-23",
-   "title": "The Pachelbel Rant 20th Anniversary Show",
-   "venue": "Caveat",
-   "date": "2026-11-23",
-   "heat": 0,
-   "demand": null,
-   "availability": null,
-   "second_show": false,
-   "performer": null,
-   "wikipedia": null,
-   "reddit": null,
-   "reasons": []
-  },
-  {
-   "id": "famous-last-words-union-hall-2026-11-23",
-   "title": "Famous Last Words",
-   "venue": "Union Hall",
-   "date": "2026-11-23",
-   "heat": 0,
-   "demand": null,
-   "availability": "InStock",
-   "second_show": false,
-   "performer": "Famous Last Words",
-   "wikipedia": null,
-   "reddit": null,
-   "reasons": [
-    "tickets available"
-   ]
-  },
-  {
    "id": "tj-miller-comic-strip-2026-11-23",
    "title": "TJ MILLER: LIVE!",
    "venue": "Comic Strip Live",
@@ -689,25 +620,6 @@
    "reasons": [
     "tickets available"
    ]
-  },
-  {
-   "id": "judy-gold-nycc-2026-11-24",
-   "title": "Judy Gold",
-   "venue": "New York Comedy Club (Upper West Side)",
-   "date": "2026-11-24",
-   "heat": 0,
-   "demand": null,
-   "availability": null,
-   "second_show": false,
-   "performer": "Judy Gold",
-   "wikipedia": {
-    "title": "Judy Gold",
-    "views_30d": 5834,
-    "views_prior_30d": 3909,
-    "change": 49
-   },
-   "reddit": null,
-   "reasons": []
   },
   {
    "id": "tom-van-horn-tobin-miller-comic-strip-2026-11-24",
@@ -754,8 +666,22 @@
    "reasons": []
   },
   {
-   "id": "story-warz-nycc-2026-11-25",
-   "title": "Story Warz w/ Big Jay Oakerson, Luis J Gomez + Special Guests",
+   "id": "fundraiser-for-flatbush-brooklyn-improv-2026-11-25",
+   "title": "A Fundraiser for Flatbush",
+   "venue": "Brooklyn Improv",
+   "date": "2026-11-25",
+   "heat": 0,
+   "demand": null,
+   "availability": null,
+   "second_show": false,
+   "performer": null,
+   "wikipedia": null,
+   "reddit": null,
+   "reasons": []
+  },
+  {
+   "id": "ian-fidance-jack-finnegan-neko-white-philipp-kostelecky-nycc-2026-11-25",
+   "title": "Ian Fidance, Jack Finnegan, Neko White, Philipp Kostelecky",
    "venue": "New York Comedy Club (Midtown)",
    "date": "2026-11-25",
    "heat": 0,
@@ -798,6 +724,20 @@
    "reasons": []
   },
   {
+   "id": "thanksgiving-comedy-show-grisly-pear-2026-11-26",
+   "title": "Thanksgiving Comedy Show",
+   "venue": "The Grisly Pear",
+   "date": "2026-11-26",
+   "heat": 0,
+   "demand": null,
+   "availability": null,
+   "second_show": false,
+   "performer": null,
+   "wikipedia": null,
+   "reddit": null,
+   "reasons": []
+  },
+  {
    "id": "date-night-comedy-st-marks-2026-11-26",
    "title": "Date Night Comedy Show x2",
    "venue": "St. Marks Comedy Club",
@@ -810,6 +750,36 @@
    "wikipedia": null,
    "reddit": null,
    "reasons": []
+  },
+  {
+   "id": "grove-comedy-grove-34-2026-11-27",
+   "title": "Grove Comedy",
+   "venue": "Grove 34",
+   "date": "2026-11-27",
+   "heat": 0,
+   "demand": null,
+   "availability": null,
+   "second_show": false,
+   "performer": null,
+   "wikipedia": null,
+   "reddit": null,
+   "reasons": []
+  },
+  {
+   "id": "tom-van-horn-comic-strip-2026-11-27",
+   "title": "Tom Van Horn, Elyse DeLucci, Jason Salmon & Kareem Green",
+   "venue": "Comic Strip Live",
+   "date": "2026-11-27",
+   "heat": 0,
+   "demand": null,
+   "availability": "InStock",
+   "second_show": false,
+   "performer": null,
+   "wikipedia": null,
+   "reddit": null,
+   "reasons": [
+    "tickets available"
+   ]
   },
   {
    "id": "friday-night-laughs-st-marks-2026-11-27",
@@ -912,6 +882,20 @@
    "reasons": []
   },
   {
+   "id": "highly-suspicious-nycc-2026-11-29",
+   "title": "Highly Suspicious w/ Aaron Putnam, Kerryn Feehan, Zach Liss",
+   "venue": "New York Comedy Club (Upper West Side)",
+   "date": "2026-11-29",
+   "heat": 0,
+   "demand": null,
+   "availability": null,
+   "second_show": false,
+   "performer": null,
+   "wikipedia": null,
+   "reddit": null,
+   "reasons": []
+  },
+  {
    "id": "brooklyn-power-hour-eastville-2026-11-30",
    "title": "Brooklyn Power Hour (Now on a New Night!)",
    "venue": "Eastville Comedy Club",
@@ -981,9 +965,9 @@
    "performer": "Ismael Loutfi",
    "wikipedia": {
     "title": "Ismael Loutfi",
-    "views_30d": 127,
-    "views_prior_30d": 97,
-    "change": 31
+    "views_30d": 125,
+    "views_prior_30d": 94,
+    "change": 33
    },
    "reddit": null,
    "reasons": [
@@ -1018,9 +1002,9 @@
    "performer": "Gina Brillon",
    "wikipedia": {
     "title": "Gina Brillon",
-    "views_30d": 919,
-    "views_prior_30d": 1246,
-    "change": -26
+    "views_30d": 931,
+    "views_prior_30d": 1219,
+    "change": -24
    },
    "reddit": null,
    "reasons": []
@@ -1030,20 +1014,6 @@
    "title": "Date Night Comedy Show x2",
    "venue": "St. Marks Comedy Club",
    "date": "2026-12-03",
-   "heat": 0,
-   "demand": null,
-   "availability": null,
-   "second_show": false,
-   "performer": null,
-   "wikipedia": null,
-   "reddit": null,
-   "reasons": []
-  },
-  {
-   "id": "ismo-live-brooklyn-improv-2026-12-04",
-   "title": "ISMO: Live!",
-   "venue": "Brooklyn Improv",
-   "date": "2026-12-04",
    "heat": 0,
    "demand": null,
    "availability": null,
@@ -1864,10 +1834,26 @@
    ]
   },
   {
-   "id": "highly-suspicious-nycc-2026-12-27",
-   "title": "Highly Suspicious w/ Aaron Putnam, Kerryn Feehan, Zach Liss",
-   "venue": "New York Comedy Club (Upper West Side)",
-   "date": "2026-12-27",
+   "id": "pretty-major-union-hall-2026-12-29",
+   "title": "PRETTY MAJOR Hosted by Jay Jurden",
+   "venue": "Union Hall",
+   "date": "2026-12-29",
+   "heat": 0,
+   "demand": null,
+   "availability": "InStock",
+   "second_show": false,
+   "performer": null,
+   "wikipedia": null,
+   "reddit": null,
+   "reasons": [
+    "tickets available"
+   ]
+  },
+  {
+   "id": "a-true-york-st-marks-2026-12-30",
+   "title": "A TRUE YORK COMEDY EXPERIENCE",
+   "venue": "St. Marks Comedy Club",
+   "date": "2026-12-30",
    "heat": 0,
    "demand": null,
    "availability": null,
@@ -1878,20 +1864,46 @@
    "reasons": []
   },
   {
-   "id": "famous-last-words-union-hall-2026-12-28",
-   "title": "Famous Last Words",
-   "venue": "Union Hall",
-   "date": "2026-12-28",
+   "id": "a-true-york-st-marks-2026-12-31",
+   "title": "A TRUE YORK COMEDY EXPERIENCE",
+   "venue": "St. Marks Comedy Club",
+   "date": "2026-12-31",
    "heat": 0,
    "demand": null,
-   "availability": "InStock",
+   "availability": null,
    "second_show": false,
-   "performer": "Famous Last Words",
+   "performer": null,
    "wikipedia": null,
    "reddit": null,
-   "reasons": [
-    "tickets available"
-   ]
+   "reasons": []
+  },
+  {
+   "id": "nye-comedy-show-grisly-pear-2026-12-31",
+   "title": "NYE Comedy Show",
+   "venue": "The Grisly Pear",
+   "date": "2026-12-31",
+   "heat": 0,
+   "demand": null,
+   "availability": null,
+   "second_show": false,
+   "performer": null,
+   "wikipedia": null,
+   "reddit": null,
+   "reasons": []
+  },
+  {
+   "id": "date-night-comedy-st-marks-2026-12-31",
+   "title": "Date Night Comedy Show x2",
+   "venue": "St. Marks Comedy Club",
+   "date": "2026-12-31",
+   "heat": 0,
+   "demand": null,
+   "availability": null,
+   "second_show": false,
+   "performer": null,
+   "wikipedia": null,
+   "reddit": null,
+   "reasons": []
   }
  ]
 }
