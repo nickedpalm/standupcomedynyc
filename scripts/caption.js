@@ -23,10 +23,15 @@ const CAP_STEP = 20;
 const clock = (p) => { const t = p.time_label.split(' · ')[0]; return t.includes(':') ? t.replace(/\s*(am|pm)$/i, '') : t; };
 const weekdayOf = (day) => new Intl.DateTimeFormat('en-US', { timeZone: 'America/New_York', weekday: 'long' }).format(new Date(day + 'T12:00:00-04:00'));
 // Every neighborhood on the board tonight, joined so the list reads as English.
-// Capped at 4 so a crowded night cannot turn the closing line into a paragraph.
+//
+// The cap was 4, which silently dropped a neighborhood on a night with five shows
+// (2026-11-22: Park Slope went missing while a Union Hall show sat in the list
+// above). A reader comparing the show lines with the summary saw a show in a
+// neighborhood the summary did not name. Measured over the whole board, the
+// closing line is ~120 characters at its worst, so the cap can be generous.
 const p0 = (list) => {
   const hoods = [...new Set(list.map((p) => p.neighborhood))];
-  const shown = hoods.length > 4 ? hoods.slice(0, 4) : hoods;
+  const shown = hoods.length > 6 ? hoods.slice(0, 6) : hoods;
   if (shown.length === 1) return shown[0];
   return shown.slice(0, -1).join(', ') + ' and ' + shown[shown.length - 1];
 };
