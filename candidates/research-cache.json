@@ -191,8 +191,8 @@
    "source": "last30days"
   },
   "Ania Magliano": {
-   "at": "2026-10-22T11:20:34.073Z",
-   "note": "The loudest signal on the board right now: a 9,974-upvote r/Fauxmoi thread on Oct 17 plus heavy r/SNLbabes and LiveFrom chatter on her Taskmaster season, which is why the Bell House Dec 2 Peach Fuzz date is worth a board slot two months out.",
+   "at": "2026-11-22T11:38:53.674Z",
+   "note": "Reddit has two threads in 30 days (135 upvotes total) and the loudest is an SNL UK Rose d'Or nomination thread, not the Bell House dates, so the Dec 2 and Dec 3 Peach Fuzz sets rest on the Bell House's own calendar.",
    "source": "last30days"
   },
   "Marc Maron": {
@@ -388,6 +388,11 @@
   "Josh Mandl": {
    "at": "2026-11-21T11:26:02.084Z",
    "note": "Nothing in 30 days: Reddit returned no posts and the two Hacker News hits were false positives about Josh Kushner and a crawler called joshternet, so tonight's Union Hall set rests on the venue's own listing.",
+   "source": "last30days"
+  },
+  "Devon Walker": {
+   "at": "2026-11-22T11:38:53.708Z",
+   "note": "Nothing in 30 days: Reddit returned zero posts and Hacker News nothing for the name, so his Nov 28 Union Hall late show rests on the room's own listing and the ticket page.",
    "source": "last30days"
   }
  }

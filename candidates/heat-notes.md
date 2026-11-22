@@ -510,3 +510,29 @@ Generated from `npm run heat` + `npm run research-plan` (last30days for the one 
 ## Demand tags read today
 - **Sold out:** Jessica Kirson (New York Comedy Club Midtown, Nov 17 and Nov 23), Fahim Anwar (Bell House, Nov 20), Demetri Martin (Bell House, Dec 4 and Dec 5), Alyce Chan (New York Comedy Club Upper West Side, Dec 8).
 - **Going fast:** none. The closest signal is Michelle Wolf (Town Hall, Nov 19) at heat 50 — four Reddit threads, 449 upvotes, and Wikipedia views up 64% over the prior month — but the ticket page does not say tickets are running low, so no tag.
+
+# Heat notes — 2026-11-22
+Generated from `npm run heat` + `npm run research-plan` (last30days for the two names under `run`; reuse cached notes for the five under `reuse`).
+
+## Rankings
+- 22 performers ranked from static data
+- Run 2 (Ania Magliano, Devon Walker), reuse 5 cached, skip 15
+- ~180,000 tokens saved from the research-plan
+
+## Run notes
+- **Ania Magliano** (The Bell House, Dec 2 and Dec 3): two Reddit threads in 30 days, 135 upvotes between them, and the loudest is an SNL UK Rose d'Or nomination thread rather than either Bell House date, so her two Peach Fuzz sets rest on the Bell House's own calendar.
+- **Devon Walker** (Union Hall, Nov 28): nothing in 30 days — Reddit returned zero posts and Hacker News nothing for the name, so the late show rests on the room's own listing and the ticket page.
+
+## Reuse notes (already cached under 7d)
+- **Jessica Kirson** (New York Comedy Club Midtown, Nov 23): sold out; the last run's Reddit auth failure means no newer note.
+- **Demetri Martin** (The Bell House, Dec 4 and Dec 5): sold out on both dates.
+- **Judy Gold** (New York Comedy Club Upper West Side, Nov 24): nothing in 30 days.
+- **Jacqueline Novak** (The Bell House, Nov 23 and Nov 24): nothing in 30 days.
+- **Christian Finnegan** (New York Comedy Club Midtown, Nov 22): nothing in 30 days.
+
+## Ranked on schedule alone
+- Devon Walker is the one name with no recent data — he is ranked on schedule alone because his Union Hall show is inside the 10-day window and there is no cached result.
+
+## Demand tags read today
+- **Sold out:** Jessica Kirson (New York Comedy Club Midtown, Nov 23), Pizzazz with Gary Gulman (Union Hall, Nov 25), Jacqueline Novak (The Bell House, Nov 23), Demetri Martin (The Bell House, Dec 4 and Dec 5), ISMO: Live! (Brooklyn Improv, Dec 4), Shafi and Friends in NYC (Flop House Comedy, Dec 4), Alyce Chan (New York Comedy Club Upper West Side, Dec 8), Gavin Matts: (failure) (Union Hall, Dec 9), Ralph Barbosa (The Bell House, Dec 14).
+- **Going fast:** The Pachelbel Rant 20th Anniversary Show (Caveat, Nov 23) — a second show the same night at the same room. Ania Magliano's two Peach Fuzz sets sit at heat 32 on Wikipedia traffic (1,868 views a day) and two Reddit threads, just under the going-fast floor.

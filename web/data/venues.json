@@ -1796,5 +1796,17 @@
   "website": "https://wildeastbrewing.com/",
   "eventbrite_organizer": "https://www.eventbrite.com/o/15154967340",
   "verified_at": "2026-11-17"
+ },
+ {
+  "name": "The Mvmnt Studio",
+  "address": "510 Flatbush Ave, Brooklyn",
+  "neighborhood": "Flatbush",
+  "borough": "Brooklyn",
+  "website": "https://www.instagram.com/the_mvmntnyc/",
+  "source_label": "The room's own Instagram bio and the Flatbush Comedy Festival's site",
+  "access_note": "Gym and community studio in Flatbush with the city's largest salt cave; the comedy night inside it is produced by Comedic Cardio, the team behind the Flatbush Comedy Festival, and sold on Eventbrite under their organizer page (eventbrite.com/o/93684169573). The room's own domain is for sale, so the producer's listing and the festival's site are the sources of record for show details.",
+  "eventbrite_organizer": "https://www.eventbrite.com/o/93684169573",
+  "verified_at": "2026-11-22",
+  "note": "Room registered from a Reddit lead (r/Brooklyn, Nov 19 2026). Address and neighborhood from the room's own Instagram bio and the Eventbrite listing's venue-supplied data (510 Flatbush Avenue, Brooklyn NY 11225)."
  }
 ]

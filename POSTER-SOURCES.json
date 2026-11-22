@@ -4387,5 +4387,35 @@
   "bytes": 22456,
   "sha256": "ca4cc4c90bec1deadbf2a103eda1258f4520eb9a3062fd696862be1c0ef9175c",
   "reuse_status": "Official promotional artwork; no separate reuse license identified."
+ },
+ {
+  "event_id": "devon-walker-union-hall-2026-11-28",
+  "src": "/assets/posters/devon-walker-union-hall-2026-11-28.jpg",
+  "width": 1880,
+  "height": 940,
+  "source_url": "https://www.eventbrite.com/e/devon-walker-please-dont-make-me-famous-ii-tickets-2004853371403",
+  "credit": "Artwork: Union Hall / show organizer (via the Eventbrite listing)",
+  "alt": "Devon Walker flyer: a woman's face in blue light behind the words PLEASE DON'T MAKE ME FAMOUS.",
+  "kind": "undated official show artwork",
+  "original_image_url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1198001950%2F282041210522%2F1%2Foriginal.20261115-025953",
+  "retrieved_at": "2026-11-22",
+  "reuse_status": "Official promotional artwork from the show's public listing; no separate reuse license identified. Site display with credit only.",
+  "bytes": 118291,
+  "sha256": "dcf1346a0f47f6b7c003167ebffe1bc7fac093e354089ac1d28d2aae7d4f58df"
+ },
+ {
+  "event_id": "tj-turns-38-littlefield-2027-01-02",
+  "src": "/assets/posters/tj-turns-38-littlefield-2027-01-02.jpg",
+  "width": 1880,
+  "height": 940,
+  "source_url": "https://www.eventbrite.com/e/tj-turns-38-tickets-2004529489664",
+  "credit": "Artwork: Littlefield / show organizer (via the Eventbrite listing)",
+  "alt": "TJ turns 38 flyer: a smiling man in a cream sweater against an orange background.",
+  "kind": "undated official show artwork",
+  "original_image_url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1197508971%2F3019219475971%2F1%2Foriginal.20261107-215701",
+  "retrieved_at": "2026-11-22",
+  "reuse_status": "Official promotional artwork from the show's public listing; no separate reuse license identified. Site display with credit only.",
+  "bytes": 52041,
+  "sha256": "9c3713b6ba869436591c417ed797cd712db03b5fdb826569b951ac382dbe7aa5"
  }
 ]

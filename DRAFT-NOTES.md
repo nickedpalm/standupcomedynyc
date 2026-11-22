@@ -1810,3 +1810,94 @@ us`. Nothing has been readable since.
 `IG-REPLIES.json` is unchanged (`[]`) — no replies sent, no threads waiting on
 us — so there is no "IG replies" commit to make and no Telegram to send.
 `npm test` passes (134 picks; one expired pick is pending the next rotate).
+
+## 2026-11-22 (14:00 UTC) — Instagram comment and message check
+
+**Comments: 0 unanswered, proven across all 57 posts by two independent
+sweeps. Nothing replied, nothing left for Nick on the comment side.**
+
+The Meta token is still dead, so both API reads failed with the same error:
+
+```
+ig-comments: /28335663372757999/media: Error validating access token: Session has expired on Saturday, 14-Nov-26 07:51:47 PST.
+ig-messages: /28335663372757999/conversations: same error
+```
+
+A box-wide token sweep found three candidates this time, not one: the profile
+env's expired `IGAA...` value (fails with the expiry error above) and two
+older `IGAA...` strings that fail with `OAuthException 190 - Failed to
+decrypt`. All three are dead; there is still no refresh path.
+
+**Comment side: verified logged out, with a positive control.** The public
+grid was enumerated to all 57 posts (the "Show more posts" button, then the
+inner scroll container stepped in small increments because the grid
+virtualizes), and the 57 shortcodes were diffed against `POSTED-IG.json`:
+**exact match both ways** — nothing on Instagram that is not in our log and
+nothing in our log that is not on Instagram.
+
+Two independent sweeps agree, and both were validated against a control post
+known to have comments (`/nasa/p/DfahZrMjAqq/` -> 925 comments, 10 comment
+rows extracted):
+
+1. In-browser `fetch()` of each permalink with the handle prefix, reading the
+   comment count from the meta description: **all 57 read 0**. A negative
+   control (a fabricated shortcode) returned no match at all, so the zero is
+   a real zero rather than a silently failed extraction.
+2. A local Playwright sweep of all 57 permalinks reading the rendered DOM:
+   **0 posts with a non-zero count, 0 comment rows extracted anywhere, 0
+   errors.** The NASA control read 925 comments and 10 rows both before and
+   after the run.
+
+**One post carries the "Comments on this post have been limited." banner:**
+`DfVK817G-gr` (Nov 4). It still shows "No comments yet." — a limited post is
+a different fact from an empty one, so it is reported rather than counted as
+a plain zero. This banner is rendered client-side and does **not** appear in
+the page HTML, so it cannot be detected by the fast in-browser count sweep;
+only the Playwright sweep catches it. The prior run's claim that "none carried
+the limited banner" was wrong for this reason.
+
+**DM side: unverifiable, and reported as such.** `/direct/inbox/` redirects to
+the Instagram login form when logged out, and there is no public DM endpoint,
+so the inbox cannot be read without the dead token. The last good API read was
+**2026-11-14 14:00 UTC**: `0 conversation(s) in the last 7 day(s), 0 waiting on
+us`. Nothing has been readable since.
+
+`IG-REPLIES.json` is unchanged (`[]`) — no replies sent, no threads waiting on
+us — so there is no "IG replies" commit to make and no Telegram to send.
+
+## 2026-11-22 (14:00 UTC) — Stranded edition work from the 11:00 run, landed
+
+The 11:00 UTC edition job edited the data files between 11:02 and 11:44 and
+then stopped without committing, leaving 13 modified files and 2 new posters
+in the working tree. No node process was still running, and no session
+recorded the commit, so the work was finished by hand rather than left in the
+tree. What it contained:
+
+- **4 new picks**: Devon Walker "PLEASE DON'T MAKE ME FAMOUS II" (Union Hall,
+  Nov 28), FUNNY PEOPLE Live (Upper East Side Comedy Club, Dec 4), 8PM Comedy
+  Show at The Grisly Pear (Dec 30), and TJ turns 38! (Littlefield, Jan 2) —
+  each with a source page that was opened, a price, and `verified_at`
+  2026-11-22.
+- **2 new poster assets** recorded in `POSTER-SOURCES.json` with credits
+  (Devon Walker, TJ turns 38) and no reuse grant, so they are not used on
+  Instagram cards.
+- **1 new club**: Grove 34 (Astoria, Queens), with the house policy block
+  taken from the room's own show pages.
+- **1 new venue**: The Mvmnt Studio (Flatbush, Brooklyn), from a Reddit lead,
+  with its Eventbrite organizer page registered so the eventbrite feed covers it.
+- **16 existing picks re-verified and re-stamped** at 2026-11-22, and one
+  Bell House pick annotated with a verification note: the venue's own
+  November calendar lists the Nov 23 Jacqueline Novak show as sold out.
+- **`research-plan.js`**: more known-show titles added to the list that is
+  not mistaken for a performer's name.
+
+Verified before landing: all four new picks name a venue that exists in
+`venues.json`; no hold-out name appears in any of them; every poster file
+referenced in `POSTER-SOURCES.json` is on disk; every pick carries a source
+URL, a `verified_at` date, a neighborhood and a price; and the six-week
+horizon holds 29 / 24 / 23 / 20 / 19 / 14 picks, all at or above the floor of
+8. `npm test` passes (129 picks, 32 rooms, 33 mics, 25 clubs). The 6 "weeks
+need attention" flags are the artwork gaps, which are tracked in
+`candidates/content-calendar.md`.
+
+`candidates/tmp/` was never meant to ship and is now in `.gitignore`.

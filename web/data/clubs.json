@@ -478,5 +478,25 @@
   "source_label": "Club home and calendar",
   "verified_at": "2026-11-17",
   "verification_note": "Address, the 120-seat room, the Barclays Center location and the two-drink minimum come from the club's own About page and its home page (\"PLEASE NOTE: TWO-DRINK MINIMUM AT ALL SHOWS\"), corroborated by the ticketing provider's venue page. Prices come from the club's own dated show pages: Monday Power Hour $10 + $2.15 fee, Wednesday and Sunday showcases $25 + $3.13 fee, Friday and Saturday showcases $30 + $3.46 fee. The club does not publish an age policy on its home, About or calendar pages, and its TERMS & CONDITIONS link is a 404, so no age rule is claimed here."
+ },
+ {
+  "id": "grove-34",
+  "tier": "club",
+  "name": "Grove 34",
+  "rooms": "One 50-seat showroom at 31-83 34th St, Astoria",
+  "address": "31-83 34th St, Astoria, Queens",
+  "neighborhood": "Astoria",
+  "price_label": "$21.78 including sales tax on most shows; ticket tiers vary by night",
+  "price_low": null,
+  "price_high": null,
+  "minimum": "No drink minimum. The bar serves beer, wine, seltzers and NA drinks; BYOB is allowed with a $25 corking fee.",
+  "age": "Not stated on the club's own pages; check the show listing before you go",
+  "reservations": "All tickets general admission, seating first come first served, doors 15 minutes before showtime. If you are not in the room when the show starts, your ticket can be released to the waitlist. Refunds only more than 7 days before the show.",
+  "character": "A comedy club in Astoria owned and run by comedians, filmmakers and artists who all live in the neighborhood. Stand-up most nights, plus roast battles, improv and a musical-comedy night.",
+  "calendar_url": "https://grove34.com/",
+  "source_url": "https://grove34.com/shows/grove-comedy-4dec",
+  "source_label": "The room's own show page (house policy block) and its About page",
+  "verified_at": "2026-11-22",
+  "verification_note": "Seat count, general admission, the waitlist rule, the refund window, the bar and the $25 corking fee come from the house policy block printed on the club's own show pages. The neighborhood and address come from the About page. The club publishes no age policy and no flat price list, so both lines say to check the listing rather than guessing."
  }
 ]

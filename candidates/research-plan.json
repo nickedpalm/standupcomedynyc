@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-21T11:23:33.624Z",
- "performers_considered": 28,
+ "generated_at": "2026-11-22T11:38:17.033Z",
+ "performers_considered": 22,
  "shortlist": [
   {
    "name": "Jessica Kirson",
@@ -23,76 +23,59 @@
    "priority": 105
   },
   {
-   "name": "Jacqueline Novak",
-   "priority": 60
+   "name": "Ania Magliano",
+   "priority": 52
   },
   {
    "name": "Judy Gold",
    "priority": 50
   },
   {
-   "name": "Ania Magliano",
-   "priority": 37
-  },
-  {
-   "name": "Josh Mandl",
-   "priority": 35
+   "name": "Jacqueline Novak",
+   "priority": 45
   },
   {
    "name": "Christian Finnegan",
    "priority": 35
+  },
+  {
+   "name": "Devon Walker",
+   "priority": 20
   }
  ],
  "run": [
   {
-   "name": "Jacqueline Novak",
-   "priority": 60,
+   "name": "Ania Magliano",
+   "priority": 52,
    "next": {
-    "id": "jacqueline-novak-bell-house-2026-11-23",
-    "date": "2026-11-23",
+    "id": "ania-magliano-peach-fuzz-bell-house-2026-12-02",
+    "date": "2026-12-02",
     "venue": "The Bell House",
-    "days": 2,
+    "days": 10,
     "featured": false,
     "poster": true,
     "demand": null
    },
    "cheap_signals": [
-    "Wikipedia: 321 views a day",
-    "Wikipedia views up 102% over the prior month"
+    "Wikipedia: 1868 views a day",
+    "Reddit: 2 posts in 30 days, 132 upvotes (top: r/livefromlondon)"
    ],
-   "reason": "show within 3 days and not yet decided"
+   "reason": "in the decision window and not yet decided"
   },
   {
-   "name": "Judy Gold",
-   "priority": 50,
+   "name": "Devon Walker",
+   "priority": 20,
    "next": {
-    "id": "judy-gold-nycc-2026-11-24",
-    "date": "2026-11-24",
-    "venue": "New York Comedy Club (Upper West Side)",
-    "days": 3,
-    "featured": false,
-    "poster": true,
-    "demand": null
-   },
-   "cheap_signals": [
-    "Wikipedia views up 52% over the prior month"
-   ],
-   "reason": "show within 3 days and not yet decided"
-  },
-  {
-   "name": "Josh Mandl",
-   "priority": 35,
-   "next": {
-    "id": "josh-mandl-union-hall-2026-11-21",
-    "date": "2026-11-21",
+    "id": "devon-walker-union-hall-2026-11-28",
+    "date": "2026-11-28",
     "venue": "Union Hall",
-    "days": 0,
+    "days": 6,
     "featured": false,
     "poster": true,
     "demand": null
    },
    "cheap_signals": [],
-   "reason": "show within 3 days and not yet decided"
+   "reason": "in the decision window and not yet decided"
   }
  ],
  "reuse": [
@@ -101,7 +84,7 @@
    "priority": 130,
    "cached": {
     "at": "2026-11-16T13:38:58.188Z",
-    "age_days": 4.9,
+    "age_days": 5.9,
     "fresh": true,
     "note": "Nothing in 30 days: Reddit auth-failed (HTTP 403) on the last30days run and the repo's read-only OAuth re-check found three name-collision posts in r/longislandliveevents, r/Accents and r/CasualConversation, none about her NYC dates. Both NYCC Midtown dates (Nov 17, Nov 23) are sold out."
    }
@@ -111,9 +94,29 @@
    "priority": 105,
    "cached": {
     "at": "2026-11-16T13:38:58.255Z",
-    "age_days": 4.9,
+    "age_days": 5.9,
     "fresh": true,
     "note": "Nothing in 30 days: Reddit rate-limited (HTTP 429) on the last30days run, zero on Hacker News, and the repo's read-only OAuth re-check found no posts. His Dec 4 and Dec 5 Bell House Christmas shows are sold out."
+   }
+  },
+  {
+   "name": "Judy Gold",
+   "priority": 50,
+   "cached": {
+    "at": "2026-11-21T11:26:02.051Z",
+    "age_days": 1,
+    "fresh": true,
+    "note": "Nothing in 30 days: Reddit returned no posts and Hacker News dropped all eight hits as prefix false positives, so the Upper West Side Nov 24 show rests on the club's own listing."
+   }
+  },
+  {
+   "name": "Jacqueline Novak",
+   "priority": 45,
+   "cached": {
+    "at": "2026-11-21T11:26:02.019Z",
+    "age_days": 1,
+    "fresh": true,
+    "note": "Nothing in 30 days: Reddit returned HTTP 404 and Hacker News had zero hits for her name, so the Bell House Nov 23 and Nov 24 sets rest on the venue's own listing."
    }
   },
   {
@@ -121,7 +124,7 @@
    "priority": 35,
    "cached": {
     "at": "2026-11-20T11:16:29.344Z",
-    "age_days": 1,
+    "age_days": 2,
     "fresh": true,
     "note": "Nothing in 30 days: Reddit was rate-limited (HTTP 429) and the one Hacker News hit was an Atlantic article about Christian nationalism, not the comic, so the Midtown taping rests on the club's own listing."
    }
@@ -144,42 +147,12 @@
    "reason": "already sold out; research cannot change the call"
   },
   {
-   "name": "Ania Magliano",
-   "priority": 37,
-   "reason": "next show in 11 days, outside the 10-day window"
-  },
-  {
-   "name": "Good God",
-   "priority": 35,
-   "reason": "outside the top 10 by cheap ranking"
-  },
-  {
    "name": "Ismael Loutfi",
    "priority": 20,
    "reason": "outside the top 10 by cheap ranking"
   },
   {
-   "name": "Epic B",
-   "priority": 20,
-   "reason": "outside the top 10 by cheap ranking"
-  },
-  {
-   "name": "Uproot Andy",
-   "priority": 20,
-   "reason": "outside the top 10 by cheap ranking"
-  },
-  {
-   "name": "Reggae Rewind",
-   "priority": 20,
-   "reason": "outside the top 10 by cheap ranking"
-  },
-  {
-   "name": "Somewhat Shakespeare",
-   "priority": 20,
-   "reason": "outside the top 10 by cheap ranking"
-  },
-  {
-   "name": "Clocked Off",
+   "name": "Gina Brillon",
    "priority": 20,
    "reason": "outside the top 10 by cheap ranking"
   },
@@ -204,8 +177,8 @@
    "reason": "outside the top 10 by cheap ranking"
   },
   {
-   "name": "Gina Brillon",
-   "priority": 5,
+   "name": "Martin Urbano",
+   "priority": 6,
    "reason": "outside the top 10 by cheap ranking"
   },
   {
@@ -215,11 +188,6 @@
   },
   {
    "name": "Mike Feeney",
-   "priority": 5,
-   "reason": "outside the top 10 by cheap ranking"
-  },
-  {
-   "name": "Good Comics",
    "priority": 5,
    "reason": "outside the top 10 by cheap ranking"
   },
@@ -234,14 +202,14 @@
    "reason": "outside the top 10 by cheap ranking"
   },
   {
-   "name": "Dear Kiko",
+   "name": "Standup",
    "priority": -10,
    "reason": "outside the top 10 by cheap ranking"
   }
  ],
- "estimated_tokens_saved": 225000,
- "estimate_basis": "9000 tokens per last30days run, 25 runs avoided out of 28",
+ "estimated_tokens_saved": 180000,
+ "estimate_basis": "9000 tokens per last30days run, 20 runs avoided out of 22",
  "no_recent_data": [
-  "Josh Mandl"
+  "Devon Walker"
  ]
 }
