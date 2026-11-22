@@ -253,7 +253,7 @@
  },
  {
   "event_id": "ask-ronna-ronnukah-bell-house-2026-11-21",
-  "src": "/assets/posters/ask-ronna-ronnukah-bell-house-2026-11-21.jpg",
+  "src": "/assets/posters/archive/ask-ronna-ronnukah-bell-house-2026-11-21.jpg",
   "width": 2048,
   "height": 1152,
   "source_url": "https://www.thebellhouseny.com/shows/calendar/2026-11",
@@ -264,7 +264,8 @@
   "retrieved_at": "2026-10-23",
   "bytes": 349750,
   "sha256": "df699794ec5c2f5add17660f858cd1f3066bf771a0d26a6201ea26ed0e52e543",
-  "reuse_status": "Official promotional artwork; no separate reuse license identified. Local review draft only."
+  "reuse_status": "Official promotional artwork; no separate reuse license identified. Local review draft only.",
+  "archived": true
  },
  {
   "event_id": "attention-deficit-flop-house-2026-11-16",
@@ -284,7 +285,7 @@
  },
  {
   "event_id": "avery-mcclure-friends-union-hall-2026-11-21",
-  "src": "/assets/posters/avery-mcclure-friends-union-hall-2026-11-21.jpg",
+  "src": "/assets/posters/archive/avery-mcclure-friends-union-hall-2026-11-21.jpg",
   "width": 1880,
   "height": 940,
   "source_url": "https://www.eventbrite.com/e/avery-mcclure-friends-tickets-2000081377240",
@@ -295,11 +296,12 @@
   "retrieved_at": "2026-11-18",
   "reuse_status": "Official promotional artwork; no separate reuse license identified. Local review draft only.",
   "bytes": 129181,
-  "sha256": "5103b40254b14ca61b7e594cf7d084ba05caa357933c3001a5c775b73d447893"
+  "sha256": "5103b40254b14ca61b7e594cf7d084ba05caa357933c3001a5c775b73d447893",
+  "archived": true
  },
  {
   "event_id": "ayooo-dinkins-friends-and-lovers-2026-11-21",
-  "src": "/assets/posters/ayooo-friends-and-lovers-2026-11-21.jpg",
+  "src": "/assets/posters/archive/ayooo-friends-and-lovers-2026-11-21.jpg",
   "width": 1086,
   "height": 1448,
   "source_url": "https://www.eventbrite.com/e/ayooo-comedy-show-hosted-by-darius-dinkins-tickets-2004820579321",
@@ -310,7 +312,8 @@
   "retrieved_at": "2026-11-16",
   "reuse_status": "Official promotional artwork from the show's own public listing; no separate reuse license identified. Site display with credit only.",
   "bytes": 219707,
-  "sha256": "083b7e9bec4891b9004268cb80b20dc2490efe28c5abb832e973e19090f81756"
+  "sha256": "083b7e9bec4891b9004268cb80b20dc2490efe28c5abb832e973e19090f81756",
+  "archived": true
  },
  {
   "event_id": "bechdel-cast-2026-10-12",
@@ -2204,7 +2207,7 @@
  },
  {
   "event_id": "josh-mandl-union-hall-2026-11-21",
-  "src": "/assets/posters/josh-mandl-union-hall-2026-11-21.jpg",
+  "src": "/assets/posters/archive/josh-mandl-union-hall-2026-11-21.jpg",
   "width": 2160,
   "height": 1080,
   "source_url": "https://www.eventbrite.com/e/josh-mandl-tickets-2004872908840",
@@ -2215,7 +2218,8 @@
   "retrieved_at": "2026-11-16",
   "reuse_status": "Official promotional artwork from the show's own public listing; no separate reuse license identified. Site display with credit only.",
   "bytes": 123324,
-  "sha256": "4ef1803923700748f428d0619392b0515d09c250bc69ddf789e73727ab9af6d6"
+  "sha256": "4ef1803923700748f428d0619392b0515d09c250bc69ddf789e73727ab9af6d6",
+  "archived": true
  },
  {
   "event_id": "josh-sharp-2026-09-20",
@@ -2619,7 +2623,7 @@
  },
  {
   "event_id": "meat-cats-saturday-sauce-union-hall-2026-11-21",
-  "src": "/assets/posters/meat-cats-saturday-sauce-union-hall-2026-11-21.jpg",
+  "src": "/assets/posters/archive/meat-cats-saturday-sauce-union-hall-2026-11-21.jpg",
   "width": 1880,
   "height": 940,
   "source_url": "https://www.eventbrite.com/e/meat-cats-comedy-presents-saturday-sauce-tickets-2002220043047",
@@ -2630,7 +2634,8 @@
   "retrieved_at": "2026-11-15",
   "bytes": 99083,
   "sha256": "c5e543960c12568d3e5ffd096660a0a414a1779cc3dc39378de1a12f3138726a",
-  "reuse_status": "Official promotional artwork; no separate reuse license identified. Site display with credit only."
+  "reuse_status": "Official promotional artwork; no separate reuse license identified. Site display with credit only.",
+  "archived": true
  },
  {
   "event_id": "michael-j-fox-foundation-showcase-sesh-2026-11-12",
@@ -2981,7 +2986,7 @@
  },
  {
   "event_id": "off-menu-comedy-greenpoint-2026-11-21",
-  "src": "/assets/posters/off-menu-comedy-greenpoint-2026-11-21.jpg",
+  "src": "/assets/posters/archive/off-menu-comedy-greenpoint-2026-11-21.jpg",
   "width": 959,
   "height": 1200,
   "source_url": "https://event.tixologi.com/event/15535/tickets",
@@ -2992,7 +2997,8 @@
   "retrieved_at": "2026-11-18",
   "reuse_status": "Official promotional artwork; no separate reuse license identified. Local review draft only.",
   "bytes": 269695,
-  "sha256": "18352d6a3327fd9c15fa8f2c67f7dcc496656a12200f5c350d0182c93f25660f"
+  "sha256": "18352d6a3327fd9c15fa8f2c67f7dcc496656a12200f5c350d0182c93f25660f",
+  "archived": true
  },
  {
   "event_id": "one-in-35-whiskey-cellar-2026-11-19",
@@ -3971,7 +3977,7 @@
  },
  {
   "event_id": "switch-n-play-littlefield-2026-11-21",
-  "src": "/assets/posters/switch-n-play-littlefield-2026-11-21.jpg",
+  "src": "/assets/posters/archive/switch-n-play-littlefield-2026-11-21.jpg",
   "width": 2160,
   "height": 1080,
   "source_url": "https://www.eventbrite.com/e/switch-n-play-presents-switch-n-playbill-tickets-2003581926477",
@@ -3982,7 +3988,8 @@
   "retrieved_at": "2026-11-16",
   "reuse_status": "Official promotional artwork from the show's own public listing; no separate reuse license identified. Site display with credit only.",
   "bytes": 219453,
-  "sha256": "c70a8f10ff1e4f25e2818347f011ba05c530d4e3c944f3694f235ee64ce442d8"
+  "sha256": "c70a8f10ff1e4f25e2818347f011ba05c530d4e3c944f3694f235ee64ce442d8",
+  "archived": true
  },
  {
   "event_id": "sydnee-washington-2026-10-23",
