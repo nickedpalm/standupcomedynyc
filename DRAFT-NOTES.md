@@ -1901,3 +1901,33 @@ need attention" flags are the artwork gaps, which are tracked in
 `candidates/content-calendar.md`.
 
 `candidates/tmp/` was never meant to ship and is now in `.gitignore`.
+
+## 2026-11-22 — sold-out tag that would not survive the nightly run
+
+The 11:00 edition run flagged this and handed it off: the Nov 23 Jacqueline
+Novak show at the Bell House is **sold out** — the venue's own November
+calendar lists it as "SOLD OUT - Jacqueline Novak" — but the pick carried no
+`demand` tag. `heat.js` had overwritten the hand-applied tag back to null, and
+the 09:15 nightly job runs `heat.js`, so a hand tag would have been wiped
+every night. The tag had to come from the data, not from a human.
+
+**Root cause:** both Novak picks pointed `source_url` at the venue's monthly
+calendar (`thebellhouseny.com/shows/calendar/2026-11`) instead of their own
+show page. `heat.js` reads availability from a show's own page — the
+Live Nation `<title>` carries the state ("SOLD OUT - Jacqueline Novak at The
+Bell House on Mon, Nov 23, 2026, 7:00 PM - Live Nation") — and Ticketmaster
+403s a plain fetch, so a calendar pointer gave the reader nothing to read.
+Every other Bell House pick already pointed at its own Live Nation event page;
+these two were the exceptions.
+
+**Fix:** repointed both `source_url`s at their own Live Nation event pages
+(Nov 23 `16YZk4k8NZAC5dk2`, Nov 24 `16dZZ_f_6G7iQou`) and re-stamped
+`verified_at`. `npm run heat` now reports the Nov 23 show as "sold out on the
+ticket page" on its own, so the tag is derived nightly instead of lost
+nightly. The Nov 24 show reads as on sale from the same source.
+
+**Checked while in there:** tonight's five shows are all untagged and all
+still buyable — the Beacon Theatre page for Nov 22 still renders a live
+"Buy Tickets" button, the NYCC Finnegan page and the Eastville page carry no
+sold-out language. No change to tonight's board, so the story frame and the
+carousel stay as rendered.

@@ -1,7 +1,36 @@
 {
- "generated_at": "2026-11-22T11:44:55.866Z",
+ "generated_at": "2026-11-22T20:47:54.492Z",
  "note": "Demand signals for the editor. Only availability and second shows set the public demand tag.",
  "picks": [
+  {
+   "id": "jacqueline-novak-bell-house-2026-11-23",
+   "title": "Jacqueline Novak",
+   "venue": "The Bell House",
+   "date": "2026-11-23",
+   "heat": 100,
+   "demand": "sold_out",
+   "availability": "SoldOut",
+   "second_show": false,
+   "performer": "Jacqueline Novak",
+   "wikipedia": {
+    "title": "Jacqueline Novak",
+    "views_30d": 8379,
+    "views_prior_30d": 5977,
+    "change": 40
+   },
+   "reddit": {
+    "phrase": "Jacqueline Novak",
+    "posts_30d": 0,
+    "upvotes": 0,
+    "comments": 0,
+    "subreddits": [],
+    "top": null
+   },
+   "reasons": [
+    "sold out on the ticket page",
+    "Wikipedia: 279 views a day"
+   ]
+  },
   {
    "id": "jessica-kirson-nycc-2026-11-23",
    "title": "Jessica Kirson Live in New York",
@@ -232,7 +261,7 @@
    "reddit": {
     "phrase": "Ania Magliano",
     "posts_30d": 2,
-    "upvotes": 134,
+    "upvotes": 138,
     "comments": 7,
     "subreddits": [
      "livefromlondon",
@@ -241,13 +270,13 @@
     "top": {
      "title": "Saturday Night Live UK is nominated for Comedy Entertainment at Rose D’or Awards 2026 with the event hosted by Ania Magliano.",
      "subreddit": "livefromlondon",
-     "score": 125,
+     "score": 129,
      "url": "https://www.reddit.com/r/livefromlondon/comments/1xsk9yb/saturday_night_live_uk_is_nominated_for_comedy/"
     }
    },
    "reasons": [
     "Wikipedia: 1868 views a day",
-    "Reddit: 2 posts in 30 days, 134 upvotes (top: r/livefromlondon)"
+    "Reddit: 2 posts in 30 days, 138 upvotes (top: r/livefromlondon)"
    ]
   },
   {
@@ -269,7 +298,7 @@
    "reddit": {
     "phrase": "Ania Magliano",
     "posts_30d": 2,
-    "upvotes": 132,
+    "upvotes": 134,
     "comments": 7,
     "subreddits": [
      "livefromlondon",
@@ -278,13 +307,13 @@
     "top": {
      "title": "Saturday Night Live UK is nominated for Comedy Entertainment at Rose D’or Awards 2026 with the event hosted by Ania Magliano.",
      "subreddit": "livefromlondon",
-     "score": 123,
+     "score": 127,
      "url": "https://www.reddit.com/r/livefromlondon/comments/1xsk9yb/saturday_night_live_uk_is_nominated_for_comedy/"
     }
    },
    "reasons": [
     "Wikipedia: 1868 views a day",
-    "Reddit: 2 posts in 30 days, 132 upvotes (top: r/livefromlondon)"
+    "Reddit: 2 posts in 30 days, 134 upvotes (top: r/livefromlondon)"
    ]
   },
   {
@@ -410,7 +439,7 @@
    "reddit": {
     "phrase": "Ryan Davis",
     "posts_30d": 2,
-    "upvotes": 56,
+    "upvotes": 55,
     "comments": 23,
     "subreddits": [
      "PodcastSnarks",
@@ -419,40 +448,12 @@
     "top": {
      "title": "Ryan Davis says white comics need to get better at comedy because too many of them lean on Black jokes as their main material",
      "subreddit": "PodcastSnarks",
-     "score": 56,
+     "score": 55,
      "url": "https://www.reddit.com/r/PodcastSnarks/comments/1xvdzlj/ryan_davis_says_white_comics_need_to_get_better/"
     }
    },
    "reasons": [
-    "Reddit: 2 posts in 30 days, 56 upvotes (top: r/PodcastSnarks)"
-   ]
-  },
-  {
-   "id": "jacqueline-novak-bell-house-2026-11-23",
-   "title": "Jacqueline Novak",
-   "venue": "The Bell House",
-   "date": "2026-11-23",
-   "heat": 10,
-   "demand": null,
-   "availability": null,
-   "second_show": false,
-   "performer": "Jacqueline Novak",
-   "wikipedia": {
-    "title": "Jacqueline Novak",
-    "views_30d": 8379,
-    "views_prior_30d": 5977,
-    "change": 40
-   },
-   "reddit": {
-    "phrase": "Jacqueline Novak",
-    "posts_30d": 0,
-    "upvotes": 0,
-    "comments": 0,
-    "subreddits": [],
-    "top": null
-   },
-   "reasons": [
-    "Wikipedia: 279 views a day"
+    "Reddit: 2 posts in 30 days, 55 upvotes (top: r/PodcastSnarks)"
    ]
   },
   {
@@ -660,7 +661,7 @@
    "reddit": {
     "phrase": "Martin Urbano",
     "posts_30d": 1,
-    "upvotes": 55,
+    "upvotes": 53,
     "comments": 2,
     "subreddits": [
      "StandUpComedy"
@@ -668,13 +669,13 @@
     "top": {
      "title": "Low and inside- Martin Urbano",
      "subreddit": "StandUpComedy",
-     "score": 55,
+     "score": 53,
      "url": "https://www.reddit.com/r/StandUpComedy/comments/1xgnyui/low_and_inside_martin_urbano/"
     }
    },
    "reasons": [
     "tickets available",
-    "Reddit: 1 post in 30 days, 55 upvotes (top: r/StandUpComedy)"
+    "Reddit: 1 post in 30 days, 53 upvotes (top: r/StandUpComedy)"
    ]
   },
   {

@@ -20,7 +20,7 @@ Ranked 22; run 2, reuse 5, skip 15; ~180,000 tokens saved. No recent data: Devon
 - Sun Nov 22 7:30pm · doors 7pm — **Good God** at Union Hall
 - Sun Nov 22 7:30pm — **John Oliver & Seth Meyers** at Beacon Theatre
 - Sun Nov 22 9pm — **Cesh Reyes & Brian Pham Present: Comics Anonymous** at Eastville Comedy Club · NO ARTWORK
-- Mon Nov 23 7pm — **Jacqueline Novak** at The Bell House
+- Mon Nov 23 7pm — **Jacqueline Novak** at The Bell House · SOLD OUT · heat 100
 - Mon Nov 23 7pm — **Jessica Kirson Live in New York** at New York Comedy Club (Midtown) · NO ARTWORK · SOLD OUT · heat 100
 - Mon Nov 23 7pm — **The Pachelbel Rant 20th Anniversary Show** at Caveat · going fast · heat 25
 - Mon Nov 23 7:30pm · doors 7pm — **Famous Last Words** at Union Hall
