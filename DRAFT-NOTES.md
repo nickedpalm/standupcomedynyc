@@ -1931,3 +1931,52 @@ still buyable — the Beacon Theatre page for Nov 22 still renders a live
 "Buy Tickets" button, the NYCC Finnegan page and the Eastville page carry no
 sold-out language. No change to tonight's board, so the story frame and the
 carousel stay as rendered.
+
+## 2026-11-22 (23:00 UTC) — Instagram comment and message check
+
+**Comments: 0 unanswered, proven across all 57 posts. Nothing replied, nothing
+left for Nick on the comment side.**
+
+The Meta token is still dead, so both API reads failed with the same error the
+19:00 and 20:30 runs hit:
+
+```
+ig-comments: /28335663372757999/media: Error validating access token: Session has expired on Saturday, 14-Nov-26 07:51:47 PST.
+ig-messages: /28335663372757999/conversations: same error
+```
+
+A box-wide token sweep found three candidate `IGAA...` values this time. All
+three fail: the profile env value reports the expiry above, and the two older
+ones fail with `OAuthException 190 - Failed to decrypt`. No `EAA` token exists
+anywhere on the box, and there is still no refresh path.
+
+**Comment side: verified logged out, by two independent sweeps.** The public
+grid was enumerated to all 57 posts (the "Show more posts" button first, then
+the inner scroll container stepped in small increments, because the grid
+virtualizes and drops older shortcodes). The 57 shortcodes were diffed against
+`POSTED-IG.json`: **exact match both ways** — nothing on Instagram that is not
+in our log, nothing in our log that is not on Instagram.
+
+- In-browser `fetch()` count sweep: **all 57 read 0**.
+- Local Playwright rendered-DOM sweep: **0 non-zero counts, 0 comment rows
+  anywhere, 0 errors**, and every post rendered "No comments yet."
+
+Both were validated against a positive control, a NASA post known to have
+comments (`/nasa/p/DfahZrMjAqq/` -> 925 comments, 10 rows extracted) run
+before *and* after the sweep, so a zero here is a real zero and not a
+silently failed extraction.
+
+**One post still carries the "Comments on this post have been limited" banner**
+(`DfVK817G-gr`, Nov 4). The banner renders client-side and is invisible to the
+count sweep — only the rendered-DOM sweep catches it. It still shows "No
+comments yet." A limited post is a different fact from an empty one.
+
+**DM side: unverifiable, and reported as such.** `/direct/inbox/` redirects to
+the Instagram login form when logged out, and there is no public DM endpoint,
+so the inbox cannot be read without the dead token. The last good API read was
+**2026-11-14 14:00 UTC**: `0 conversation(s) in the last 7 day(s), 0 waiting on
+us`. Nothing has been readable since.
+
+`IG-REPLIES.json` is unchanged (`[]`) — no replies sent, no threads waiting on
+us — so there is no "IG replies" commit to make and no Telegram to send.
+`npm test` passes (129 picks).
