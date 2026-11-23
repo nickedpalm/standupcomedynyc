@@ -1980,3 +1980,62 @@ us`. Nothing has been readable since.
 `IG-REPLIES.json` is unchanged (`[]`) — no replies sent, no threads waiting on
 us — so there is no "IG replies" commit to make and no Telegram to send.
 `npm test` passes (129 picks).
+
+## 2026-11-23 — Recovered edition (the 11:00 run died at its tool cap)
+
+The 11:00 edition cron hit its tool-iteration cap and committed nothing. Its
+work was recovered here, re-verified against the source, and landed.
+
+**Four picks added** (all Union Hall / Friends and Lovers, all verified
+against Eventbrite's own API on Nov 23):
+- `gone-fishing-union-hall-2026-11-29` — Wally Baram and Vikrant Sunderlal,
+  Nov 29, 7:30pm. Advance $12 + $3.92 fee; door $15 + $4.26 fee.
+- `charlie-bardey-union-hall-2026-11-30` — THE PROMISE OF THE HEARTH Part II,
+  Nov 30, 7:30pm. Advance $15 + $4.26 fee; door $20 + $5.69 fee. The flyer
+  prints Part I (Oct 22), Part II (Nov 30) and Part III (Dec 15) with each
+  night's lineup; Part II is Brittany Carney, Pierce Campion, Honey Pluton.
+- `tommy-armstrong-union-hall-2026-11-30` — his last show before touring,
+  Nov 30, 10pm. Hosted by Clarey Donaher, Hyde Healy featured.
+- `i-hate-capitalism-friends-and-lovers-2026-12-01` — Marcela Onyango taps
+  her special at the Crown Heights room, Dec 1, 7:30pm. $15 + $2.85 fee;
+  $25 + $3.52 fee.
+
+**Four bugs in the dead run's own work, found and fixed:**
+
+1. **The Nov 25 St. Marks pick pointed at the wrong show.** The URL
+   `down-bad-comedy-show-2026-11-25-f803da81` now renders "AFTER WORK AFTER
+   CLASS LAUGHS with Alexis Carabano (HBO MAX) and friendsssss". The room
+   swaps the bill in that slot weekly and this URL's slug and id stay the
+   same, so only the page shows it. Repointed at the show actually on sale:
+   title, description, price ($17 = $15 + $2 service) and URL all changed,
+   and the lineup now names Corey Yoskowitz, which is what the page's own
+   "Lineup" section lists.
+2. **Eleven St. Marks picks carried a "+ tax" price.** The room's checkout
+   prints "1 x Ticket ($X each)" + "Service Fee ($2.00 x 1)" + "Total: $Y"
+   and no tax line at all, so the amounts were inflated by a tax that was
+   never verified. All eleven re-read from the venue's own show pages.
+3. **The four new posters were PNG bytes written to `.jpg` filenames**, and
+   three of the four were resized or letterboxed crops rather than the
+   original. The Bardey one in particular was the portrait flyer centred in
+   a 1880x940 frame with black bars either side. All four are re-encoded
+   from the CDN original (`cdn.evbuc.com/.../original.*`) and checked with
+   `vision_analyze` — each is the right show's own flyer, not a headshot.
+   Provenance recorded in POSTER-SOURCES.json with bytes and sha256.
+4. **Two blurbs did not match their source.** The Gone Fishing blurb listed
+   four support names the flyer does not carry; it now names the four the
+   flyer prints. The Tommy Armstrong blurb quoted a coffee-and-wine line
+   the listing does not use; it now names Clarey Donaher and Hyde Healy,
+   which the listing does.
+
+**How the poster bytes were proven.** The dead run's files did not match
+the CDN originals by sha256, so they were re-downloaded from
+`cdn.evbuc.com/images/<id>/<id>/1/original.<stamp>` and re-encoded with
+`ffmpeg -q:v 3`, the same pipeline the published posters use. Note that
+Eventbrite's `img.evbuc.com` proxy rejects a rewritten `w=` parameter
+(`sig_invalid`) — the CDN original must be fetched from the `cdn.evbuc.com`
+URL itself, not through the proxy.
+
+**Not landed:** the "Heard around town" draft from the 13:00 run is still
+at `candidates/heard-around-town-2026-11-23.md`, uncommitted. It needs an
+editor's eye before it goes out. It also asks for a decision: a third
+Demetri Martin Bell House show, Saturday Dec 5 at 9:30pm, is listed unsold.
