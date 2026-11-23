@@ -2039,3 +2039,66 @@ URL itself, not through the proxy.
 at `candidates/heard-around-town-2026-11-23.md`, uncommitted. It needs an
 editor's eye before it goes out. It also asks for a decision: a third
 Demetri Martin Bell House show, Saturday Dec 5 at 9:30pm, is listed unsold.
+
+## 2026-11-23 (23:00 UTC) — Instagram comment and message check
+
+**Comments: 0 unanswered across all 57 posts. Nothing replied, nothing left
+for Nick on the comment side.**
+
+The Meta token is still dead, so both API reads failed the same way:
+
+```
+ig-comments: /28335663372757999/media: Error validating access token: Session has expired on Saturday, 14-Nov-26 07:51:47 PST.
+ig-messages: /28335663372757999/conversations: same error
+```
+
+A box-wide token sweep found two candidates and both fail: the profile env
+value (expired 14-Nov-26) and an older `IGAA…` string in the logs ("Failed to
+decrypt"). There is no refresh path.
+
+**Comment side: proven logged out, two independent ways, both against a
+positive control.** The in-browser `fetch()` count sweep read **0 on all 57
+posts** (control: NASA `DfahZrMjAqq` → 928 comments; a fabricated shortcode
+returned null, so the zeros are real zeros and not a failed extraction). The
+local Playwright rendered-DOM sweep read **0 non-zero counts, 0 comment rows,
+0 errors** across the same 57 posts, with the NASA control reading 928 before
+and after the run. Still limited: the Nov 4 post `DfVK817G-gr` carries "Comments
+on this post have been limited" — only the rendered sweep can see that banner.
+
+The live grid enumerated to 57 shortcodes and diffed against `POSTED-IG.json`:
+**exact match both ways**, nothing on Instagram missing from our log and
+nothing in our log missing from Instagram.
+
+**DM side: unverifiable, not empty.** `/direct/inbox/` redirects to the login
+wall logged out and there is no public DM endpoint. The last good API read was
+2026-11-14 14:00 UTC (0 conversations, 0 waiting on us). Nothing readable
+since, so no thread was answered and none was passed to Nick.
+
+`IG-REPLIES.json` is unchanged (`[]`) — no replies were sent, so there is no
+"IG replies" commit and no Telegram message under the rule that Nick only
+hears from this job when something was sent or left for him.
+
+**Also closed: the open question the 13:00 "Heard around town" run left for
+Nick.** It asked whether the third Demetri Martin Bell House show — Saturday
+Dec 5 at 9:30pm — is worth adding, since both 7pm dates are sold out. It is,
+and it is now on the board as `demetri-martin-bell-house-2026-12-05-late`:
+
+- The Bell House's own calendar lists a third Demetri Martin date on Sat Dec 5
+  at 9:30 PM with a plain Buy Tickets link, while the Dec 4 and Dec 5 7:00 PM
+  entries on that same calendar read SOLD OUT.
+- The Live Nation event page for that listing shows the same date, time and
+  room with a Buy Tickets button and no sold-out prefix; the Ticketmaster
+  event page opens and prints "Sat • Dec 05, 2026 • 9:30 PM" with doors at 9pm.
+- The `<title>` check the nightly heat job uses reads SOLD OUT on both 7pm
+  listings and plain "Demetri Martin: Standup Comedy for Christmas at The Bell
+  House on Sat, Dec 5, 2026, 9:30 PM" on this one, so the sold-out tags on the
+  two earlier dates stay correct and the new pick is not tagged.
+- No price is printed on any of the three pages, so it stays unknown.
+
+The poster is the same official tour art as the Dec 4 date (a portrait of
+Martin against a ridged wall, no date printed on it). `npm test` passes at
+**129 picks** with no blurb warnings.
+
+**Published:** commit `36cc575` pushed to `origin/main`; Cloudflare deployed
+and the live site serves 129 picks with all three Bell House dates on the
+board, the two 7pm ones still tagged SOLD OUT.
