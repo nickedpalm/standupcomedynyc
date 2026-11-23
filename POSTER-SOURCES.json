@@ -557,7 +557,7 @@
  },
  {
   "event_id": "christian-finnegan-nycc-2026-11-22",
-  "src": "/assets/posters/christian-finnegan-nycc-2026-11-22.png",
+  "src": "/assets/posters/archive/christian-finnegan-nycc-2026-11-22.png",
   "width": 660,
   "height": 660,
   "source_url": "https://newyorkcomedyclub.com/events/christian-finnegan-live-special-taping-2026-10-18170000",
@@ -568,7 +568,8 @@
   "verified_at": "2026-10-13",
   "bytes": 328073,
   "sha256": "e77ae2db2259cbcfadbd675af66ce60f3e0bfe0749757fc09cec9c4376208a7e",
-  "reuse_status": "Official promotional artwork; no separate reuse license identified. Local review draft only."
+  "reuse_status": "Official promotional artwork; no separate reuse license identified. Local review draft only.",
+  "archived": true
  },
  {
   "event_id": "chronically-offline-wscc-2026-10-29",
@@ -1611,7 +1612,7 @@
  },
  {
   "event_id": "good-god-union-hall-2026-11-22",
-  "src": "/assets/posters/good-god-union-hall-2026-11-22.jpg",
+  "src": "/assets/posters/archive/good-god-union-hall-2026-11-22.jpg",
   "width": 1880,
   "height": 1058,
   "source_url": "https://www.eventbrite.com/e/good-god-tickets-2004852174824",
@@ -1622,7 +1623,8 @@
   "retrieved_at": "2026-11-19",
   "reuse_status": "Official promotional artwork from the show's public listing; no separate reuse license identified. Site display with credit only.",
   "bytes": 122455,
-  "sha256": "bf32d2b59336b03a446d3d42d455b88d480e5a264581df5550ef006409a75b42"
+  "sha256": "bf32d2b59336b03a446d3d42d455b88d480e5a264581df5550ef006409a75b42",
+  "archived": true
  },
  {
   "event_id": "good-grief-littlefield-2026-09-26",
@@ -2113,7 +2115,7 @@
  },
  {
   "event_id": "john-oliver-seth-meyers-beacon-2026-11-22",
-  "src": "/assets/posters/john-oliver-seth-meyers-beacon-2026-11-22.jpg",
+  "src": "/assets/posters/archive/john-oliver-seth-meyers-beacon-2026-11-22.jpg",
   "width": 1024,
   "height": 576,
   "source_url": "https://www.msg.com/events-tickets/john-oliver-seth-meyers-beacon-theatre-november-2026/3B00649092832D66",
@@ -2124,7 +2126,8 @@
   "verified_at": "2026-10-13",
   "bytes": 135601,
   "sha256": "587c8ca672dbdaf4f543c80ee9f68e03966049781c6598b082362c6f60878905",
-  "reuse_status": "Official promotional artwork; no separate reuse license identified. Local review draft only."
+  "reuse_status": "Official promotional artwork; no separate reuse license identified. Local review draft only.",
+  "archived": true
  },
  {
   "event_id": "john-oliver-seth-meyers-beacon-2026-12-13",
@@ -3143,7 +3146,7 @@
  },
  {
   "event_id": "phoebe-judge-dont-worry-bell-house-2026-11-22",
-  "src": "/assets/posters/phoebe-judge-dont-worry-bell-house-2026-11-22.jpg",
+  "src": "/assets/posters/archive/phoebe-judge-dont-worry-bell-house-2026-11-22.jpg",
   "width": 2048,
   "height": 1152,
   "source_url": "https://www.livenation.com/event/1kGZvPudGACQzXY/criminal-presents-don-t-worry-with-phoebe-judge",
@@ -3154,7 +3157,8 @@
   "retrieved_at": "2026-11-02",
   "reuse_status": "Official promotional artwork from the show's Live Nation / Ticketmaster listing; no separate reuse license identified. Site display with credit only.",
   "bytes": 443039,
-  "sha256": "f11ebb5f269b851fdd9342d62eafa01336f24b0cac8a5de1785ea8b516c8cba4"
+  "sha256": "f11ebb5f269b851fdd9342d62eafa01336f24b0cac8a5de1785ea8b516c8cba4",
+  "archived": true
  },
  {
   "event_id": "phoebe-robinson-2026-10-02",
