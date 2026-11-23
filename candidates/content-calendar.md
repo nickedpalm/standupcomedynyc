@@ -55,7 +55,7 @@ Ranked 20; run 1, reuse 6, skip 13; ~171,000 tokens saved. No recent data: Ismae
   - Wed Nov 25 8pm — OnlyFriends at Flop House Comedy · from $12.51 · has artwork
   - Wed Nov 25 9:31pm — Grapevine Comedy - NYC Stand Up at Flop House Comedy · from $12.51 · has artwork
 
-## Week 2: Nov 30 to Dec 6 — 25 picks — 5 without artwork · 24 Eventbrite leads not yet reviewed
+## Week 2: Nov 30 to Dec 6 — 26 picks — 5 without artwork · 24 Eventbrite leads not yet reviewed
 
 - Mon Nov 30 7:30pm — **Brooklyn Power Hour (Now on a New Night!)** at Eastville Comedy Club · NO ARTWORK
 - Mon Nov 30 7:30pm · doors 6:30pm — **A Friendsgiving Comedy Fundraiser featuring Tiffany Cabán** at Littlefield · going fast · heat 25
@@ -80,6 +80,7 @@ Ranked 20; run 1, reuse 6, skip 13; ~171,000 tokens saved. No recent data: Ismae
 - Sat Dec 5 6:30pm · doors 6pm — **Peter & Friends Comedy Show** at St. Marks Comedy Club
 - Sat Dec 5 7pm — **Demetri Martin: Standup Comedy for Christmas** at The Bell House · SOLD OUT · heat 100
 - Sat Dec 5 8:30pm · doors 8pm — **Speakeasy Saturday Night** at St. Marks Comedy Club
+- Sat Dec 5 9:30pm · doors 9pm — **Demetri Martin: Standup Comedy for Christmas** at The Bell House
 - Sun Dec 6 7:30pm — **Daniela Mora, Laz Rivero, Alexis Carabaño** at St. Marks Comedy Club · NO ARTWORK
 - Sun Dec 6 7:30pm · doors 7pm — **Jenny & Alex Try New Jokes** at Union Hall
 

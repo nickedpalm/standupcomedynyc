@@ -1395,6 +1395,37 @@
   "verification_note": "Date, 7pm time and the Bell House venue from the Live Nation mirror of the Ticketmaster event page (the Ticketmaster page itself is CAPTCHA-gated). The tour's shape, the live Christmas album, the live music and the clean bill come from the comic's own site, demetrimartin.com, which lists The Bell House on Dec 4 and Dec 5. The poster is the same official tour art as the Dec 4 date."
  },
  {
+  "id": "demetri-martin-bell-house-2026-12-05-late",
+  "title": "Demetri Martin: Standup Comedy for Christmas",
+  "date": "2026-12-05",
+  "starts_at": "2026-12-05T21:30:00-05:00",
+  "ends_at": "2026-12-05T23:30:00-05:00",
+  "end_time_confirmed": false,
+  "time_label": "9:30pm · doors 9pm",
+  "venue": "The Bell House",
+  "neighborhood": "Gowanus",
+  "price_amount": null,
+  "price_label": "See ticket page for price",
+  "ticket_url": "https://www.ticketmaster.com/demetri-martin-standup-comedy-for-christmas-brooklyn-new-york-12-05-2026/event/300065590AF51614",
+  "source_url": "https://www.livenation.com/event/1kGZvPp8GA1Wobf/demetri-martin-standup-comedy-for-christmas",
+  "verified_at": "2026-11-23",
+  "description": "The one night of Martin's Christmas run still selling tickets: a 9:30pm late show, doors at 9, with the 7pm sets on Dec 4 and Dec 5 already sold out.",
+  "tier": "special",
+  "featured": false,
+  "poster": {
+   "src": "/assets/posters/demetri-martin-bell-house-2026-12-04.jpg",
+   "width": 2048,
+   "height": 1152,
+   "source_url": "https://www.livenation.com/event/1AdZZ_3GkiKJcJ4/demetri-martin-standup-comedy-for-christmas",
+   "credit": "Artwork: The Bell House / Live Nation",
+   "alt": "Demetri Martin in profile against a ridged wall - the same official tour art used for the Bell House December dates.",
+   "kind": "undated official show artwork"
+  },
+  "demand": null,
+  "demand_checked": "2026-11-23",
+  "verification_note": "The Bell House's own calendar lists a third Demetri Martin date on Sat Dec 5 at 9:30 PM with a plain Buy Tickets link, while both 7:00 PM Dec 4 and Dec 5 dates on that same calendar read SOLD OUT. The Live Nation event page for this listing shows the same date, time and room with a Buy Tickets button and no sold-out prefix; the Ticketmaster event page opens and prints Sat Dec 05 9:30 PM with doors at 9pm. Price is not shown on any of the three pages, so it stays unknown. The poster is the same official tour art as the Dec 4 date."
+ },
+ {
   "id": "speakeasy-saturday-night-st-marks-2026-12-05",
   "title": "Speakeasy Saturday Night",
   "date": "2026-12-05",
