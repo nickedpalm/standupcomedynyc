@@ -1,5 +1,5 @@
 {
- "retrieved_at": "2026-11-22T11:02:51.108Z",
+ "retrieved_at": "2026-11-23T11:02:20.634Z",
  "note": "Promoter posts from NYC neighborhood subreddits, last 14 days. Leads only: open the linked page or the venue site before anything enters the data; register the venue first.",
  "subreddits": [
   "nycevents",
@@ -27,12 +27,76 @@
  ],
  "leads": [
   {
+   "id": "1y2swzk",
+   "date": "2026-11-22",
+   "subreddit": "williamsburg",
+   "title": "Open Mic / Jam",
+   "score": 2,
+   "comments": 0,
+   "url": "https://www.reddit.com/r/williamsburg/comments/1y2swzk/open_mic_jam/",
+   "venues_mentioned": [],
+   "when_mentioned": null,
+   "time_mentioned": null,
+   "links": [],
+   "free": false,
+   "new_since_last_run": true,
+   "excerpt": ""
+  },
+  {
+   "id": "1y2swlo",
+   "date": "2026-11-22",
+   "subreddit": "Bushwick",
+   "title": "Open Mic / Jam",
+   "score": 1,
+   "comments": 0,
+   "url": "https://www.reddit.com/r/Bushwick/comments/1y2swlo/open_mic_jam/",
+   "venues_mentioned": [],
+   "when_mentioned": null,
+   "time_mentioned": null,
+   "links": [],
+   "free": false,
+   "new_since_last_run": true,
+   "excerpt": "Hosting an open mic jam today at Tiny Cupboard 🎤 bring your instruments! "
+  },
+  {
+   "id": "1y2sxo5",
+   "date": "2026-11-22",
+   "subreddit": "BedStuy",
+   "title": "Open Mic / Jam",
+   "score": 2,
+   "comments": 0,
+   "url": "https://www.reddit.com/r/BedStuy/comments/1y2sxo5/open_mic_jam/",
+   "venues_mentioned": [],
+   "when_mentioned": null,
+   "time_mentioned": null,
+   "links": [],
+   "free": false,
+   "new_since_last_run": true,
+   "excerpt": ""
+  },
+  {
+   "id": "1y2sxfp",
+   "date": "2026-11-22",
+   "subreddit": "ridgewood",
+   "title": "Open Mic / Jam",
+   "score": 1,
+   "comments": 0,
+   "url": "https://www.reddit.com/r/ridgewood/comments/1y2sxfp/open_mic_jam/",
+   "venues_mentioned": [],
+   "when_mentioned": null,
+   "time_mentioned": null,
+   "links": [],
+   "free": false,
+   "new_since_last_run": true,
+   "excerpt": ""
+  },
+  {
    "id": "1y1mhh1",
    "date": "2026-11-21",
    "subreddit": "williamsburg",
    "title": "In 2025, we started a free book club for men. In 2026, we helped other guys start their own. Now we're running it back in 2027.",
-   "score": 159,
-   "comments": 39,
+   "score": 179,
+   "comments": 40,
    "url": "https://www.reddit.com/r/williamsburg/comments/1y1mhh1/in_2025_we_started_a_free_book_club_for_men_in/",
    "venues_mentioned": [
     "Union Hall"
@@ -53,7 +117,7 @@
    "date": "2026-11-21",
    "subreddit": "astoria",
    "title": "Back at it tomorrow at 7:30 PM",
-   "score": 5,
+   "score": 4,
    "comments": 0,
    "url": "https://www.reddit.com/r/astoria/comments/1y1m9fq/back_at_it_tomorrow_at_730_pm/",
    "venues_mentioned": [],
@@ -61,7 +125,7 @@
    "time_mentioned": "7:30 PM",
    "links": [],
    "free": false,
-   "new_since_last_run": true,
+   "new_since_last_run": false,
    "excerpt": "Hey everyone! Monthly Astoria comedy show is back tomorrow at Grove34 at 7:30 PM It’s a fun show, hope to see you there!"
   },
   {
@@ -165,15 +229,17 @@
    "date": "2026-11-19",
    "subreddit": "Brooklyn",
    "title": "We're doing standup inside NYC's largest salt cave on Flatbush this Saturday",
-   "score": 1,
+   "score": 2,
    "comments": 0,
    "url": "https://www.reddit.com/r/Brooklyn/comments/1y04mge/were_doing_standup_inside_nycs_largest_salt_cave/",
-   "venues_mentioned": [],
+   "venues_mentioned": [
+    "The Mvmnt Studio"
+   ],
    "when_mentioned": "Saturday Hey Brooklyn",
    "time_mentioned": null,
    "links": [],
    "free": false,
-   "new_since_last_run": true,
+   "new_since_last_run": false,
    "excerpt": "Hey Brooklyn. We're the folks that brought you the Flatbush Comedy Festival, and we just started Salt Cave Comedy. It's a standup show inside the salt cave at The Mvmnt Studio, 510 Flatbush Ave. Our motto is \"laughter is recovery,\" which is either very wellness or very Brooklyn. "
   },
   {
@@ -217,7 +283,7 @@
    "date": "2026-11-18",
    "subreddit": "astoria",
    "title": "TaTa Sherise Headlines Popcorn Comedy at Oliver’s Astoria Tomorrow Night (Nov 19 @ 7:30pm)!",
-   "score": 5,
+   "score": 4,
    "comments": 0,
    "url": "https://www.reddit.com/r/astoria/comments/1xzl0p6/tata_sherise_headlines_popcorn_comedy_at_olivers/",
    "venues_mentioned": [],
@@ -253,7 +319,7 @@
    "date": "2026-11-18",
    "subreddit": "crownheights",
    "title": "Crown Heights November Events Thread 11/18-11/25",
-   "score": 14,
+   "score": 15,
    "comments": 0,
    "url": "https://www.reddit.com/r/crownheights/comments/1xzo078/crown_heights_november_events_thread_11181125/",
    "venues_mentioned": [
@@ -420,7 +486,7 @@
    "date": "2026-11-17",
    "subreddit": "williamsburg",
    "title": "Talent Show [for adults] @ Brooklyn Bowl 11/18 hosted by @journalingclasses",
-   "score": 3,
+   "score": 5,
    "comments": 0,
    "url": "https://www.reddit.com/r/williamsburg/comments/1xyotgd/talent_show_for_adults_brooklyn_bowl_1118_hosted/",
    "venues_mentioned": [],
@@ -454,7 +520,7 @@
    "date": "2026-11-17",
    "subreddit": "Brooklyn",
    "title": "Comedy show tomorrow night 11/18 featuring Edy Modica (Jury Duty) and Sabrina Wu (Abbott Elementary, Murderbot) and more!",
-   "score": 1,
+   "score": 2,
    "comments": 0,
    "url": "https://www.reddit.com/r/Brooklyn/comments/1xypqes/comedy_show_tomorrow_night_1118_featuring_edy/",
    "venues_mentioned": [],
@@ -462,7 +528,7 @@
    "time_mentioned": null,
    "links": [],
    "free": false,
-   "new_since_last_run": true,
+   "new_since_last_run": false,
    "excerpt": "I don't have much else to say other than it's going to be a really fun time. If you say you came from reddit I'll buy you 1 (ONE) drink"
   },
   {
@@ -534,7 +600,7 @@
    "date": "2026-11-17",
    "subreddit": "Greenpoint",
    "title": "Talent Show [for adults] 11/18 at Brooklyn Bowl Hosted by @journalingclasses",
-   "score": 5,
+   "score": 4,
    "comments": 0,
    "url": "https://www.reddit.com/r/Greenpoint/comments/1xyorx6/talent_show_for_adults_1118_at_brooklyn_bowl/",
    "venues_mentioned": [],
@@ -590,7 +656,7 @@
    "date": "2026-11-16",
    "subreddit": "Bushwick",
    "title": "Open Mic Jam",
-   "score": 6,
+   "score": 5,
    "comments": 2,
    "url": "https://www.reddit.com/r/Bushwick/comments/1xxwjvn/open_mic_jam/",
    "venues_mentioned": [
@@ -644,7 +710,7 @@
    "date": "2026-11-15",
    "subreddit": "nycevents",
    "title": "I’m a Ukrainian refugee chasing a stand-up dream. Performing at Gotham in NYC this Monday, November 16 — could really use your support.",
-   "score": 4,
+   "score": 5,
    "comments": 2,
    "url": "https://www.reddit.com/r/nycevents/comments/1xx05yf/im_a_ukrainian_refugee_chasing_a_standup_dream/",
    "venues_mentioned": [
@@ -694,7 +760,7 @@
    "date": "2026-11-15",
    "subreddit": "ridgewood",
    "title": "Solid Reads, No Bread Required: Free Knowledge on the Stoop, Ya Dig?",
-   "score": 17,
+   "score": 16,
    "comments": 0,
    "url": "https://www.reddit.com/r/ridgewood/comments/1xx2yx6/solid_reads_no_bread_required_free_knowledge_on/",
    "venues_mentioned": [],
@@ -790,7 +856,7 @@
    "date": "2026-11-14",
    "subreddit": "astoria",
    "title": "I have a few free tickets for this comedy show at QED tonight, DM if interested",
-   "score": 2,
+   "score": 3,
    "comments": 0,
    "url": "https://www.reddit.com/r/astoria/comments/1xw7tbp/i_have_a_few_free_tickets_for_this_comedy_show_at/",
    "venues_mentioned": [],
@@ -928,7 +994,7 @@
    "date": "2026-11-12",
    "subreddit": "crownheights",
    "title": "I host a comedy show at Friends and Lovers!",
-   "score": 7,
+   "score": 8,
    "comments": 3,
    "url": "https://www.reddit.com/r/crownheights/comments/1xukre0/i_host_a_comedy_show_at_friends_and_lovers/",
    "venues_mentioned": [
@@ -1189,7 +1255,7 @@
    "date": "2026-11-11",
    "subreddit": "crownheights",
    "title": "Crown Heights November Events Thread 11/11-11/18",
-   "score": 15,
+   "score": 16,
    "comments": 3,
    "url": "https://www.reddit.com/r/crownheights/comments/1xtu2rw/crown_heights_november_events_thread_11111118/",
    "venues_mentioned": [
@@ -1248,7 +1314,7 @@
    "date": "2026-11-10",
    "subreddit": "williamsburg",
    "title": "Hi I am local comedian doing a comedy/history show on Wednesday about the early Russian empire",
-   "score": 26,
+   "score": 24,
    "comments": 7,
    "url": "https://www.reddit.com/r/williamsburg/comments/1xt0ck1/hi_i_am_local_comedian_doing_a_comedyhistory_show/",
    "venues_mentioned": [],
@@ -1282,7 +1348,7 @@
    "date": "2026-11-10",
    "subreddit": "astoria",
    "title": "Post Thanksgiving comedy show at QED",
-   "score": 5,
+   "score": 4,
    "comments": 0,
    "url": "https://www.reddit.com/r/astoria/comments/1xsre4l/post_thanksgiving_comedy_show_at_qed/",
    "venues_mentioned": [],
@@ -1300,7 +1366,7 @@
    "date": "2026-11-10",
    "subreddit": "astoria",
    "title": "Hey Astoria! Grove 34 wants to hear from you!",
-   "score": 45,
+   "score": 47,
    "comments": 49,
    "url": "https://www.reddit.com/r/astoria/comments/1xspwpy/hey_astoria_grove_34_wants_to_hear_from_you/",
    "venues_mentioned": [
@@ -1372,7 +1438,7 @@
    "date": "2026-11-09",
    "subreddit": "williamsburg",
    "title": "Free Comedy Show @ Rose's R&amp;R Bar in Williamsburg!",
-   "score": 3,
+   "score": 4,
    "comments": 0,
    "url": "https://www.reddit.com/r/williamsburg/comments/1xs0o2q/free_comedy_show_roses_rr_bar_in_williamsburg/",
    "venues_mentioned": [],
@@ -1408,7 +1474,7 @@
    "date": "2026-11-09",
    "subreddit": "lowereastside",
    "title": "Bars that are chill on a Saturday night?",
-   "score": 6,
+   "score": 5,
    "comments": 15,
    "url": "https://www.reddit.com/r/lowereastside/comments/1xry4an/bars_that_are_chill_on_a_saturday_night/",
    "venues_mentioned": [
@@ -1420,24 +1486,6 @@
    "free": false,
    "new_since_last_run": false,
    "excerpt": "Hi! I'm looking for a chill, large bar on the LES that would be good for people to hang after a comedy show at Caveat. We have a cast of 10 people (who all have guests who come to the show) and we always struggle to find a place that's not packed/reserved for special parties afte"
-  },
-  {
-   "id": "1xrlcqk",
-   "date": "2026-11-09",
-   "subreddit": "AskNYC",
-   "title": "Is it possible to buy comedy cellar tickets secondhand?",
-   "score": 0,
-   "comments": 3,
-   "url": "https://www.reddit.com/r/AskNYC/comments/1xrlcqk/is_it_possible_to_buy_comedy_cellar_tickets/",
-   "venues_mentioned": [
-    "Comedy Cellar"
-   ],
-   "when_mentioned": null,
-   "time_mentioned": null,
-   "links": [],
-   "free": false,
-   "new_since_last_run": false,
-   "excerpt": "Family is visiting last minute from out of town and I’m really hoping to bring them to a show, but it looks to be sold out. Do people sell them secondhand on a separate vendor website or is that not a thing?"
   },
   {
    "id": "1xs5x2t",
@@ -1464,7 +1512,7 @@
    "date": "2026-11-09",
    "subreddit": "Greenpoint",
    "title": "selling a 7pm ticket for James Acaster at Greenpoint Comedy Club tonight",
-   "score": 1,
+   "score": 2,
    "comments": 2,
    "url": "https://www.reddit.com/r/Greenpoint/comments/1xs6i2y/selling_a_7pm_ticket_for_james_acaster_at/",
    "venues_mentioned": [
@@ -1510,22 +1558,6 @@
    "free": false,
    "new_since_last_run": false,
    "excerpt": "Have an extra ticket I’m looking to sell. This is for the 7pm show tonight (November 9) Both shows this evening are sold out. Selling for face value $29.50 Venmo or Cash App payment only and I will email you the ticket. "
-  },
-  {
-   "id": "1xqy3om",
-   "date": "2026-11-08",
-   "subreddit": "nycComedy",
-   "title": "The NY Comedy Festival \"Workout Room\" is at Bedford Falls on E 67th every night this week — $20",
-   "score": 1,
-   "comments": 0,
-   "url": "https://www.reddit.com/r/nycComedy/comments/1xqy3om/the_ny_comedy_festival_workout_room_is_at_bedford/",
-   "venues_mentioned": [],
-   "when_mentioned": null,
-   "time_mentioned": null,
-   "links": [],
-   "free": false,
-   "new_since_last_run": false,
-   "excerpt": ""
   }
  ]
 }

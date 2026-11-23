@@ -1,7 +1,11 @@
 {
- "generated_at": "2026-11-22T11:38:17.033Z",
- "performers_considered": 22,
+ "generated_at": "2026-11-23T11:16:28.456Z",
+ "performers_considered": 20,
  "shortlist": [
+  {
+   "name": "Jacqueline Novak",
+   "priority": 135
+  },
   {
    "name": "Jessica Kirson",
    "priority": 130
@@ -23,53 +27,31 @@
    "priority": 105
   },
   {
-   "name": "Ania Magliano",
-   "priority": 52
-  },
-  {
    "name": "Judy Gold",
    "priority": 50
   },
   {
-   "name": "Jacqueline Novak",
-   "priority": 45
-  },
-  {
-   "name": "Christian Finnegan",
-   "priority": 35
+   "name": "Ania Magliano",
+   "priority": 40
   },
   {
    "name": "Devon Walker",
+   "priority": 20
+  },
+  {
+   "name": "Ismael Loutfi",
    "priority": 20
   }
  ],
  "run": [
   {
-   "name": "Ania Magliano",
-   "priority": 52,
-   "next": {
-    "id": "ania-magliano-peach-fuzz-bell-house-2026-12-02",
-    "date": "2026-12-02",
-    "venue": "The Bell House",
-    "days": 10,
-    "featured": false,
-    "poster": true,
-    "demand": null
-   },
-   "cheap_signals": [
-    "Wikipedia: 1868 views a day",
-    "Reddit: 2 posts in 30 days, 132 upvotes (top: r/livefromlondon)"
-   ],
-   "reason": "in the decision window and not yet decided"
-  },
-  {
-   "name": "Devon Walker",
+   "name": "Ismael Loutfi",
    "priority": 20,
    "next": {
-    "id": "devon-walker-union-hall-2026-11-28",
-    "date": "2026-11-28",
+    "id": "ismael-loutfi-heavenly-baba-union-hall-2026-12-01",
+    "date": "2026-12-01",
     "venue": "Union Hall",
-    "days": 6,
+    "days": 8,
     "featured": false,
     "poster": true,
     "demand": null
@@ -80,11 +62,21 @@
  ],
  "reuse": [
   {
+   "name": "Jacqueline Novak",
+   "priority": 135,
+   "cached": {
+    "at": "2026-11-21T11:26:02.019Z",
+    "age_days": 2,
+    "fresh": true,
+    "note": "Nothing in 30 days: Reddit returned HTTP 404 and Hacker News had zero hits for her name, so the Bell House Nov 23 and Nov 24 sets rest on the venue's own listing."
+   }
+  },
+  {
    "name": "Jessica Kirson",
    "priority": 130,
    "cached": {
     "at": "2026-11-16T13:38:58.188Z",
-    "age_days": 5.9,
+    "age_days": 6.9,
     "fresh": true,
     "note": "Nothing in 30 days: Reddit auth-failed (HTTP 403) on the last30days run and the repo's read-only OAuth re-check found three name-collision posts in r/longislandliveevents, r/Accents and r/CasualConversation, none about her NYC dates. Both NYCC Midtown dates (Nov 17, Nov 23) are sold out."
    }
@@ -94,7 +86,7 @@
    "priority": 105,
    "cached": {
     "at": "2026-11-16T13:38:58.255Z",
-    "age_days": 5.9,
+    "age_days": 6.9,
     "fresh": true,
     "note": "Nothing in 30 days: Reddit rate-limited (HTTP 429) on the last30days run, zero on Hacker News, and the repo's read-only OAuth re-check found no posts. His Dec 4 and Dec 5 Bell House Christmas shows are sold out."
    }
@@ -104,29 +96,29 @@
    "priority": 50,
    "cached": {
     "at": "2026-11-21T11:26:02.051Z",
-    "age_days": 1,
+    "age_days": 2,
     "fresh": true,
     "note": "Nothing in 30 days: Reddit returned no posts and Hacker News dropped all eight hits as prefix false positives, so the Upper West Side Nov 24 show rests on the club's own listing."
    }
   },
   {
-   "name": "Jacqueline Novak",
-   "priority": 45,
+   "name": "Ania Magliano",
+   "priority": 40,
    "cached": {
-    "at": "2026-11-21T11:26:02.019Z",
+    "at": "2026-11-22T11:38:53.674Z",
     "age_days": 1,
     "fresh": true,
-    "note": "Nothing in 30 days: Reddit returned HTTP 404 and Hacker News had zero hits for her name, so the Bell House Nov 23 and Nov 24 sets rest on the venue's own listing."
+    "note": "Reddit has two threads in 30 days (135 upvotes total) and the loudest is an SNL UK Rose d'Or nomination thread, not the Bell House dates, so the Dec 2 and Dec 3 Peach Fuzz sets rest on the Bell House's own calendar."
    }
   },
   {
-   "name": "Christian Finnegan",
-   "priority": 35,
+   "name": "Devon Walker",
+   "priority": 20,
    "cached": {
-    "at": "2026-11-20T11:16:29.344Z",
-    "age_days": 2,
+    "at": "2026-11-22T11:38:53.708Z",
+    "age_days": 1,
     "fresh": true,
-    "note": "Nothing in 30 days: Reddit was rate-limited (HTTP 429) and the one Hacker News hit was an Atlantic article about Christian nationalism, not the comic, so the Midtown taping rests on the club's own listing."
+    "note": "Nothing in 30 days: Reddit returned zero posts and Hacker News nothing for the name, so his Nov 28 Union Hall late show rests on the room's own listing and the ticket page."
    }
   }
  ],
@@ -147,38 +139,13 @@
    "reason": "already sold out; research cannot change the call"
   },
   {
-   "name": "Ismael Loutfi",
-   "priority": 20,
-   "reason": "outside the top 10 by cheap ranking"
-  },
-  {
    "name": "Gina Brillon",
    "priority": 20,
    "reason": "outside the top 10 by cheap ranking"
   },
   {
-   "name": "Rediscovering ancient wisdom",
-   "priority": 20,
-   "reason": "outside the top 10 by cheap ranking"
-  },
-  {
-   "name": "Mick Szal",
-   "priority": 20,
-   "reason": "outside the top 10 by cheap ranking"
-  },
-  {
-   "name": "June Cohen",
-   "priority": 20,
-   "reason": "outside the top 10 by cheap ranking"
-  },
-  {
    "name": "Ryan Davis",
-   "priority": 16,
-   "reason": "outside the top 10 by cheap ranking"
-  },
-  {
-   "name": "Martin Urbano",
-   "priority": 6,
+   "priority": 5,
    "reason": "outside the top 10 by cheap ranking"
   },
   {
@@ -188,6 +155,16 @@
   },
   {
    "name": "Mike Feeney",
+   "priority": 5,
+   "reason": "outside the top 10 by cheap ranking"
+  },
+  {
+   "name": "Charlie Bardey",
+   "priority": 5,
+   "reason": "outside the top 10 by cheap ranking"
+  },
+  {
+   "name": "Nerd Nite",
    "priority": 5,
    "reason": "outside the top 10 by cheap ranking"
   },
@@ -202,14 +179,19 @@
    "reason": "outside the top 10 by cheap ranking"
   },
   {
+   "name": "Martin Urbano",
+   "priority": 0,
+   "reason": "outside the top 10 by cheap ranking"
+  },
+  {
    "name": "Standup",
    "priority": -10,
    "reason": "outside the top 10 by cheap ranking"
   }
  ],
- "estimated_tokens_saved": 180000,
- "estimate_basis": "9000 tokens per last30days run, 20 runs avoided out of 22",
+ "estimated_tokens_saved": 171000,
+ "estimate_basis": "9000 tokens per last30days run, 19 runs avoided out of 20",
  "no_recent_data": [
-  "Devon Walker"
+  "Ismael Loutfi"
  ]
 }

@@ -11,9 +11,9 @@ Six weeks ahead from the board. Regenerated on every build; edit the data, not t
 
 ## Research plan today
 
-Ranked 22; run 2, reuse 5, skip 15; ~180,000 tokens saved. No recent data: Devon Walker.
+Ranked 20; run 1, reuse 6, skip 13; ~171,000 tokens saved. No recent data: Ismael Loutfi.
 
-## Week 1: Nov 23 to Nov 29 — 28 picks — 13 without artwork · 25 Eventbrite leads not yet reviewed
+## Week 1: Nov 23 to Nov 29 — 29 picks — 13 without artwork · 31 Eventbrite leads not yet reviewed
 
 - Mon Nov 23 7pm — **Jacqueline Novak** at The Bell House · SOLD OUT · heat 100
 - Mon Nov 23 7pm — **Jessica Kirson Live in New York** at New York Comedy Club (Midtown) · NO ARTWORK · SOLD OUT · heat 100
@@ -24,7 +24,7 @@ Ranked 22; run 2, reuse 5, skip 15; ~180,000 tokens saved. No recent data: Devon
 - Tue Nov 24 7:30pm — **Judy Gold** at New York Comedy Club (Upper West Side)
 - Tue Nov 24 8pm — **Tom Van Horn, Tobin Miller, Meghan Hanley, Jason Choi, Monroe Martin, more!** at Comic Strip Live · NO ARTWORK
 - Tue Nov 24 9:30pm · doors 9pm — **The Gong Show - Hosted by Robert Punchur** at St. Marks Comedy Club · NO ARTWORK
-- Wed Nov 25 7:30pm · doors 7pm — **Down Bad Comedy Show** at St. Marks Comedy Club · NO ARTWORK
+- Wed Nov 25 7:30pm · doors 7pm — **After Work After Class Laughs with Alexis Carabano (HBO Max) and friendsssss** at St. Marks Comedy Club · NO ARTWORK
 - Wed Nov 25 7:30pm — **A Fundraiser for Flatbush** at Brooklyn Improv
 - Wed Nov 25 7:30pm — **Pizzazz with Gary Gulman** at Union Hall · SOLD OUT · heat 100
 - Wed Nov 25 7:45pm — **Ian Fidance, Jack Finnegan, Neko White, Philipp Kostelecky** at New York Comedy Club (Midtown) · NO ARTWORK
@@ -42,6 +42,7 @@ Ranked 22; run 2, reuse 5, skip 15; ~180,000 tokens saved. No recent data: Devon
 - Sun Nov 29 7pm — **Comedy Idol Finale** at West Side Comedy Club · NO ARTWORK
 - Sun Nov 29 7:30pm — **The Silver Lining with Gianmarco Soresi** at The Bell House
 - Sun Nov 29 7:30pm — **Sunday Night Comedy** at Eastville Comedy Club · NO ARTWORK
+- Sun Nov 29 7:30pm — **Gone Fishing with Wally Baram and Vikrant Sunderlal** at Union Hall
 - Sun Nov 29 9pm — **Highly Suspicious w/ Aaron Putnam, Kerryn Feehan, Zach Liss** at New York Comedy Club (Upper West Side)
 
   Leads to review:
@@ -54,15 +55,18 @@ Ranked 22; run 2, reuse 5, skip 15; ~180,000 tokens saved. No recent data: Devon
   - Wed Nov 25 8pm — OnlyFriends at Flop House Comedy · from $12.51 · has artwork
   - Wed Nov 25 9:31pm — Grapevine Comedy - NYC Stand Up at Flop House Comedy · from $12.51 · has artwork
 
-## Week 2: Nov 30 to Dec 6 — 22 picks — 5 without artwork · 26 Eventbrite leads not yet reviewed
+## Week 2: Nov 30 to Dec 6 — 25 picks — 5 without artwork · 24 Eventbrite leads not yet reviewed
 
 - Mon Nov 30 7:30pm — **Brooklyn Power Hour (Now on a New Night!)** at Eastville Comedy Club · NO ARTWORK
 - Mon Nov 30 7:30pm · doors 6:30pm — **A Friendsgiving Comedy Fundraiser featuring Tiffany Cabán** at Littlefield · going fast · heat 25
+- Mon Nov 30 7:30pm — **Charlie Bardey Presents THE PROMISE OF THE HEARTH - Part II: The Eave** at Union Hall
 - Mon Nov 30 8pm — **The Peter Stewart Show! With Nick Tilleli!** at Comic Strip Live · NO ARTWORK
 - Mon Nov 30 8pm — **Stamptown** at The Bell House
+- Mon Nov 30 10pm — **Tommy Armstrong's last show before he goes on tour** at Union Hall
 - Tue Dec 1 7pm · doors 6pm — **Jeff Scheen Special Taping Featuring Jeff Arcuri** at Littlefield · going fast · heat 25
 - Tue Dec 1 7:30pm · doors 7pm — **A TRUE YORK COMEDY EXPERIENCE** at St. Marks Comedy Club
 - Tue Dec 1 7:30pm · doors 7pm — **Ismael Loutfi: Heavenly Baba** at Union Hall
+- Tue Dec 1 7:30pm — **I Hate Capitalism: Comedy Special Taping** at Friends and Lovers
 - Tue Dec 1 8pm — **Not Ripe Bananas** at West Side Comedy Club
 - Wed Dec 2 7:30pm — **Ania Magliano: Peach Fuzz** at The Bell House · heat 20
 - Wed Dec 2 7:30pm · doors 7pm — **Cold Plunge with Kurt Braunohler** at Union Hall
@@ -81,13 +85,13 @@ Ranked 22; run 2, reuse 5, skip 15; ~180,000 tokens saved. No recent data: Devon
 
   Leads to review:
   - Mon Nov 30 7pm — Camp Virgo at Caveat · from $18.76 · has artwork
+  - Mon Nov 30 7:30pm — Charlie Bardey Presents THE PROMISE OF THE HEARTH - Part II: The Eave at Union Hall · from $19.26 · has artwork
+  - Mon Nov 30 10pm — Tommy Armstrong's last show before he goes on tour at Union Hall · from $15.92 · has artwork
   - Tue Dec 1 7pm — Good Work Live! at Caveat · from $24.41 · has artwork
-  - Tue Dec 1 7pm — Brain Rot Sip & Act at Flop House Comedy · from $33.85
   - Tue Dec 1 7:30pm — I Hate Capitalism: Comedy Special Taping at Friends and Lovers · from $17.85 · has artwork
   - Tue Dec 1 8pm — Tobin Miller, Jason Choi, Nick Tilleli, Vanessa Hollingshead, & more! at Comic Strip Live · from $25.71 · has artwork
   - Tue Dec 1 9:30pm — Sagematch at Caveat · from $18.76 · has artwork
   - Tue Dec 1 9:30pm — Jeff Scheen Special Taping Featuring Jeff Arcuri at Littlefield · from $29.5 · has artwork
-  - Wed Dec 2 8pm — REAL-ASIAN-SHIPS: The Dating Show For Asian Americans at Littlefield · from $18.71 · has artwork
 
 ## Week 3: Dec 7 to Dec 13 — 25 picks — 12 without artwork · 3 Eventbrite leads not yet reviewed
 
