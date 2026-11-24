@@ -1271,7 +1271,7 @@
  },
  {
   "event_id": "famous-last-words-union-hall-2026-11-23",
-  "src": "/assets/posters/famous-last-words-union-hall-2026-11-23.jpg",
+  "src": "/assets/posters/archive/famous-last-words-union-hall-2026-11-23.jpg",
   "width": 1880,
   "height": 940,
   "source_url": "https://www.eventbrite.com/e/famous-last-words-tickets-2003111432216",
@@ -1282,7 +1282,8 @@
   "retrieved_at": "2026-10-29",
   "bytes": 72957,
   "sha256": "09a6aa79efb0fc2615e5ef0581c43b63c77e6a44e24aaeaef40520cd55c01296",
-  "reuse_status": "Official promotional artwork; no separate reuse license identified. Local review draft only."
+  "reuse_status": "Official promotional artwork; no separate reuse license identified. Local review draft only.",
+  "archived": true
  },
  {
   "event_id": "famous-last-words-union-hall-2026-12-28",
@@ -1943,7 +1944,7 @@
  },
  {
   "event_id": "jacqueline-novak-bell-house-2026-11-23",
-  "src": "/assets/posters/jacqueline-novak-bell-house-2026-11-23.jpg",
+  "src": "/assets/posters/archive/jacqueline-novak-bell-house-2026-11-23.jpg",
   "width": 2048,
   "height": 1152,
   "source_url": "https://www.livenation.com/event/16YZk4k8NZAC5dk2/jacqueline-novak",
@@ -1954,7 +1955,8 @@
   "verified_at": "2026-10-15",
   "bytes": 254217,
   "sha256": "de3f95de1fc6ad2b650197eda94e80344c6592064c887b49338e8689a39fae1d",
-  "reuse_status": "Official promotional artwork; no separate reuse license identified. Local review draft only."
+  "reuse_status": "Official promotional artwork; no separate reuse license identified. Local review draft only.",
+  "archived": true
  },
  {
   "event_id": "jake-velazquez-special-nycc-2026-11-15",
@@ -3052,7 +3054,7 @@
  },
  {
   "event_id": "pachelbel-rant-20th-caveat-2026-11-23",
-  "src": "/assets/posters/pachelbel-rant-20th-caveat-2026-11-23.jpg",
+  "src": "/assets/posters/archive/pachelbel-rant-20th-caveat-2026-11-23.jpg",
   "width": 2000,
   "height": 1000,
   "source_url": "https://caveat.nyc/events/the-pachelbel-rant-20th-anniversary-show-2026-11-23",
@@ -3063,7 +3065,8 @@
   "verified_at": "2026-10-17",
   "bytes": 807273,
   "sha256": "542c2dab752bea36c075f5eee02e1a117957cdc9d83b7a80a9982ece9c5267d6",
-  "reuse_status": "Official promotional artwork; no separate reuse license identified. Local review draft only."
+  "reuse_status": "Official promotional artwork; no separate reuse license identified. Local review draft only.",
+  "archived": true
  },
  {
   "event_id": "party-clown-party-wscc-2026-12-10",

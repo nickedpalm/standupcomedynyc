@@ -1,51 +1,7 @@
 {
- "generated_at": "2026-11-23T09:27:22.905Z",
+ "generated_at": "2026-11-24T09:24:08.869Z",
  "note": "Demand signals for the editor. Only availability and second shows set the public demand tag.",
  "picks": [
-  {
-   "id": "jacqueline-novak-bell-house-2026-11-23",
-   "title": "Jacqueline Novak",
-   "venue": "The Bell House",
-   "date": "2026-11-23",
-   "heat": 100,
-   "demand": "sold_out",
-   "availability": "SoldOut",
-   "second_show": false,
-   "performer": "Jacqueline Novak",
-   "wikipedia": {
-    "title": "Jacqueline Novak",
-    "views_30d": 7396,
-    "views_prior_30d": 6936,
-    "change": 7
-   },
-   "reddit": null,
-   "reasons": [
-    "sold out on the ticket page",
-    "Wikipedia: 247 views a day"
-   ]
-  },
-  {
-   "id": "jessica-kirson-nycc-2026-11-23",
-   "title": "Jessica Kirson Live in New York",
-   "venue": "New York Comedy Club (Midtown)",
-   "date": "2026-11-23",
-   "heat": 100,
-   "demand": "sold_out",
-   "availability": "SoldOut",
-   "second_show": false,
-   "performer": "Jessica Kirson",
-   "wikipedia": {
-    "title": "Jessica Kirson",
-    "views_30d": 13548,
-    "views_prior_30d": 13910,
-    "change": -3
-   },
-   "reddit": null,
-   "reasons": [
-    "sold out on the ticket page",
-    "Wikipedia: 452 views a day"
-   ]
-  },
   {
    "id": "pizzazz-gary-gulman-union-hall-2026-11-25",
    "title": "Pizzazz with Gary Gulman",
@@ -74,14 +30,15 @@
    "performer": "Demetri Martin",
    "wikipedia": {
     "title": "Demetri Martin",
-    "views_30d": 13427,
-    "views_prior_30d": 15053,
-    "change": -11
+    "views_30d": 13159,
+    "views_prior_30d": 15119,
+    "change": -13
    },
    "reddit": null,
    "reasons": [
     "sold out on the ticket page",
-    "Wikipedia: 448 views a day"
+    "3 listings this month",
+    "Wikipedia: 439 views a day"
    ]
   },
   {
@@ -108,18 +65,20 @@
    "heat": 100,
    "demand": "sold_out",
    "availability": "SoldOut",
-   "second_show": false,
+   "second_show": true,
    "performer": "Demetri Martin",
    "wikipedia": {
     "title": "Demetri Martin",
-    "views_30d": 13427,
-    "views_prior_30d": 15053,
-    "change": -11
+    "views_30d": 13159,
+    "views_prior_30d": 15119,
+    "change": -13
    },
    "reddit": null,
    "reasons": [
     "sold out on the ticket page",
-    "Wikipedia: 448 views a day"
+    "a second show the same night at the same room",
+    "3 listings this month",
+    "Wikipedia: 439 views a day"
    ]
   },
   {
@@ -166,9 +125,9 @@
    "performer": "Ralph Barbosa",
    "wikipedia": {
     "title": "Ralph Barbosa",
-    "views_30d": 3367,
-    "views_prior_30d": 6469,
-    "change": -48
+    "views_30d": 3335,
+    "views_prior_30d": 6332,
+    "change": -47
    },
    "reddit": null,
    "reasons": [
@@ -176,19 +135,26 @@
    ]
   },
   {
-   "id": "pachelbel-rant-20th-caveat-2026-11-23",
-   "title": "The Pachelbel Rant 20th Anniversary Show",
-   "venue": "Caveat",
-   "date": "2026-11-23",
-   "heat": 25,
+   "id": "demetri-martin-bell-house-2026-12-05-late",
+   "title": "Demetri Martin: Standup Comedy for Christmas",
+   "venue": "The Bell House",
+   "date": "2026-12-05",
+   "heat": 45,
    "demand": "going_fast",
    "availability": null,
    "second_show": true,
-   "performer": null,
-   "wikipedia": null,
+   "performer": "Demetri Martin",
+   "wikipedia": {
+    "title": "Demetri Martin",
+    "views_30d": 13159,
+    "views_prior_30d": 15119,
+    "change": -13
+   },
    "reddit": null,
    "reasons": [
-    "a second show the same night at the same room"
+    "a second show the same night at the same room",
+    "3 listings this month",
+    "Wikipedia: 439 views a day"
    ]
   },
   {
@@ -268,13 +234,13 @@
    "performer": "Ania Magliano",
    "wikipedia": {
     "title": "Ania Magliano",
-    "views_30d": 54514,
-    "views_prior_30d": 80484,
-    "change": -32
+    "views_30d": 53190,
+    "views_prior_30d": 81118,
+    "change": -34
    },
    "reddit": null,
    "reasons": [
-    "Wikipedia: 1817 views a day"
+    "Wikipedia: 1773 views a day"
    ]
   },
   {
@@ -289,13 +255,13 @@
    "performer": "Ania Magliano",
    "wikipedia": {
     "title": "Ania Magliano",
-    "views_30d": 54514,
-    "views_prior_30d": 80484,
-    "change": -32
+    "views_30d": 53190,
+    "views_prior_30d": 81118,
+    "change": -34
    },
    "reddit": null,
    "reasons": [
-    "Wikipedia: 1817 views a day"
+    "Wikipedia: 1773 views a day"
    ]
   },
   {
@@ -310,8 +276,8 @@
    "performer": "Judy Gold",
    "wikipedia": {
     "title": "Judy Gold",
-    "views_30d": 5885,
-    "views_prior_30d": 3776,
+    "views_30d": 5883,
+    "views_prior_30d": 3780,
     "change": 56
    },
    "reddit": null,
@@ -320,20 +286,25 @@
    ]
   },
   {
-   "id": "famous-last-words-union-hall-2026-11-23",
-   "title": "Famous Last Words",
+   "id": "ismael-loutfi-heavenly-baba-union-hall-2026-12-01",
+   "title": "Ismael Loutfi: Heavenly Baba",
    "venue": "Union Hall",
-   "date": "2026-11-23",
-   "heat": 10,
+   "date": "2026-12-01",
+   "heat": 15,
    "demand": null,
    "availability": "InStock",
    "second_show": false,
-   "performer": "Famous Last Words",
-   "wikipedia": null,
+   "performer": "Ismael Loutfi",
+   "wikipedia": {
+    "title": "Ismael Loutfi",
+    "views_30d": 130,
+    "views_prior_30d": 83,
+    "change": 57
+   },
    "reddit": null,
    "reasons": [
     "tickets available",
-    "3 listings this month"
+    "Wikipedia views up 57% over the prior month"
    ]
   },
   {
@@ -348,13 +319,13 @@
    "performer": "Jacqueline Novak",
    "wikipedia": {
     "title": "Jacqueline Novak",
-    "views_30d": 7396,
-    "views_prior_30d": 6936,
-    "change": 7
+    "views_30d": 6685,
+    "views_prior_30d": 7638,
+    "change": -12
    },
    "reddit": null,
    "reasons": [
-    "Wikipedia: 247 views a day"
+    "Wikipedia: 223 views a day"
    ]
   },
   {
@@ -422,23 +393,6 @@
    ]
   },
   {
-   "id": "famous-last-words-union-hall-2026-12-28",
-   "title": "Famous Last Words",
-   "venue": "Union Hall",
-   "date": "2026-12-28",
-   "heat": 10,
-   "demand": null,
-   "availability": "InStock",
-   "second_show": false,
-   "performer": "Famous Last Words",
-   "wikipedia": null,
-   "reddit": null,
-   "reasons": [
-    "tickets available",
-    "3 listings this month"
-   ]
-  },
-  {
    "id": "not-ripe-bananas-wscc-2026-12-29",
    "title": "Not Ripe Bananas",
    "venue": "West Side Comedy Club",
@@ -452,22 +406,6 @@
    "reddit": null,
    "reasons": [
     "5 listings this month"
-   ]
-  },
-  {
-   "id": "tj-miller-comic-strip-2026-11-23",
-   "title": "TJ MILLER: LIVE!",
-   "venue": "Comic Strip Live",
-   "date": "2026-11-23",
-   "heat": 0,
-   "demand": null,
-   "availability": "InStock",
-   "second_show": false,
-   "performer": null,
-   "wikipedia": null,
-   "reddit": null,
-   "reasons": [
-    "tickets available"
    ]
   },
   {
@@ -502,7 +440,7 @@
   },
   {
    "id": "down-bad-comedy-st-marks-2026-11-25",
-   "title": "Down Bad Comedy Show",
+   "title": "After Work After Class Laughs with Alexis Carabano (HBO Max) and friendsssss",
    "venue": "St. Marks Comedy Club",
    "date": "2026-11-25",
    "heat": 0,
@@ -700,9 +638,9 @@
    "performer": "Devon Walker",
    "wikipedia": {
     "title": "Devon Walker (comedian)",
-    "views_30d": 5953,
-    "views_prior_30d": 6706,
-    "change": -11
+    "views_30d": 5927,
+    "views_prior_30d": 6720,
+    "change": -12
    },
    "reddit": null,
    "reasons": [
@@ -752,6 +690,22 @@
    "reasons": []
   },
   {
+   "id": "gone-fishing-union-hall-2026-11-29",
+   "title": "Gone Fishing with Wally Baram and Vikrant Sunderlal",
+   "venue": "Union Hall",
+   "date": "2026-11-29",
+   "heat": 0,
+   "demand": null,
+   "availability": "InStock",
+   "second_show": false,
+   "performer": null,
+   "wikipedia": null,
+   "reddit": null,
+   "reasons": [
+    "tickets available"
+   ]
+  },
+  {
    "id": "highly-suspicious-nycc-2026-11-29",
    "title": "Highly Suspicious w/ Aaron Putnam, Kerryn Feehan, Zach Liss",
    "venue": "New York Comedy Club (Upper West Side)",
@@ -778,6 +732,22 @@
    "wikipedia": null,
    "reddit": null,
    "reasons": []
+  },
+  {
+   "id": "charlie-bardey-union-hall-2026-11-30",
+   "title": "Charlie Bardey Presents THE PROMISE OF THE HEARTH - Part II: The Eave",
+   "venue": "Union Hall",
+   "date": "2026-11-30",
+   "heat": 0,
+   "demand": null,
+   "availability": "InStock",
+   "second_show": false,
+   "performer": "Charlie Bardey",
+   "wikipedia": null,
+   "reddit": null,
+   "reasons": [
+    "tickets available"
+   ]
   },
   {
    "id": "peter-stewart-nick-tilleli-comic-strip-2026-11-30",
@@ -810,6 +780,22 @@
    "reasons": []
   },
   {
+   "id": "tommy-armstrong-union-hall-2026-11-30",
+   "title": "Tommy Armstrong's last show before he goes on tour",
+   "venue": "Union Hall",
+   "date": "2026-11-30",
+   "heat": 0,
+   "demand": null,
+   "availability": "InStock",
+   "second_show": false,
+   "performer": null,
+   "wikipedia": null,
+   "reddit": null,
+   "reasons": [
+    "tickets available"
+   ]
+  },
+  {
    "id": "a-true-york-st-marks-2026-12-01",
    "title": "A TRUE YORK COMEDY EXPERIENCE",
    "venue": "St. Marks Comedy Club",
@@ -824,21 +810,16 @@
    "reasons": []
   },
   {
-   "id": "ismael-loutfi-heavenly-baba-union-hall-2026-12-01",
-   "title": "Ismael Loutfi: Heavenly Baba",
-   "venue": "Union Hall",
+   "id": "i-hate-capitalism-friends-and-lovers-2026-12-01",
+   "title": "I Hate Capitalism: Comedy Special Taping",
+   "venue": "Friends and Lovers",
    "date": "2026-12-01",
    "heat": 0,
    "demand": null,
    "availability": "InStock",
    "second_show": false,
-   "performer": "Ismael Loutfi",
-   "wikipedia": {
-    "title": "Ismael Loutfi",
-    "views_30d": 121,
-    "views_prior_30d": 86,
-    "change": 41
-   },
+   "performer": null,
+   "wikipedia": null,
    "reddit": null,
    "reasons": [
     "tickets available"
@@ -872,9 +853,9 @@
    "performer": "Gina Brillon",
    "wikipedia": {
     "title": "Gina Brillon",
-    "views_30d": 980,
-    "views_prior_30d": 1201,
-    "change": -18
+    "views_30d": 978,
+    "views_prior_30d": 1217,
+    "change": -20
    },
    "reddit": null,
    "reasons": []
@@ -1760,6 +1741,22 @@
    "wikipedia": null,
    "reddit": null,
    "reasons": []
+  },
+  {
+   "id": "famous-last-words-union-hall-2026-12-28",
+   "title": "Famous Last Words",
+   "venue": "Union Hall",
+   "date": "2026-12-28",
+   "heat": 0,
+   "demand": null,
+   "availability": "InStock",
+   "second_show": false,
+   "performer": "Famous Last Words",
+   "wikipedia": null,
+   "reddit": null,
+   "reasons": [
+    "tickets available"
+   ]
   },
   {
    "id": "pretty-major-union-hall-2026-12-29",
