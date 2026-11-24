@@ -394,6 +394,26 @@
    "at": "2026-11-22T11:38:53.708Z",
    "note": "Nothing in 30 days: Reddit returned zero posts and Hacker News nothing for the name, so his Nov 28 Union Hall late show rests on the room's own listing and the ticket page.",
    "source": "last30days"
+  },
+  "Ismael Loutfi": {
+   "at": "2026-11-24T11:36:48.477Z",
+   "note": "Nothing in 30 days: Reddit returned HTTP 404 and Hacker News had zero hits for the name, so his Union Hall Dec 1 set rests on the room's own calendar and the ticket page.",
+   "source": "last30days"
+  },
+  "Charlie Bardey": {
+   "at": "2026-11-24T11:36:48.505Z",
+   "note": "Nothing in 30 days: Reddit came back HTTP 404 and Hacker News found no mentions, so his Union Hall Nov 30 showcase rests on the room's own calendar.",
+   "source": "last30days"
+  },
+  "Black Cat Fridays": {
+   "at": "2026-11-24T12:06:12.859Z",
+   "note": "Nothing on the show in 30 days: Reddit returned HTTP 404 and every Hacker News hit was a false positive on the words black, cat or Friday, so the Black Friday bill rests on the producer's own Eventbrite listing.",
+   "source": "last30days"
+  },
+  "Immigrant Jam": {
+   "at": "2026-11-24T12:06:12.898Z",
+   "note": "Nothing on the series in 30 days: Reddit came back HTTP 404 and Hacker News found no mentions, so the Caveat dates rest on the room's own show pages and its ticket listing.",
+   "source": "last30days"
   }
  }
 }

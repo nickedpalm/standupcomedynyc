@@ -2102,3 +2102,101 @@ Martin against a ridged wall, no date printed on it). `npm test` passes at
 **Published:** commit `36cc575` pushed to `origin/main`; Cloudflare deployed
 and the live site serves 129 picks with all three Bell House dates on the
 board, the two 7pm ones still tagged SOLD OUT.
+
+## 2026-11-24 (20:30 UTC) — Recovered edition (the 14:00 run died at its tool cap)
+
+The 14:00 cron hit its tool-iteration cap and committed nothing, leaving sixteen
+new picks, two venue corrections, one new club, one new recurring room, eleven
+posters and a set of poster-format fixes in the working tree. The 20:30 IG
+story run owns that work, so it was audited and landed here.
+
+**Sixteen picks added**, all re-verified against the source listing today:
+
+- `thankful-for-laughs-union-hall-2026-11-27` — Jenny Gorelick hosts a Black
+  Friday bill with Jessie Lee, Charlie Flynn, Julia Shiplett, Nataly Aukar and
+  Shaunak Godkhindi. Nov 27, 7:30pm to 9pm, $15.92 with fees. The Union Hall
+  Eventbrite listing prints both tiers, the end time and the no-refunds line.
+- `immigrant-jam-caveat-2026-12-04` — Bini Yamin, Loyiso Madinga, Julio Diaz,
+  Cansu Karabiyik and Pedro Gonzalez, hosted by Lucie Pohl. Dec 4, 7pm, doors
+  6:30pm. Three prices on Caveat's own page: $18.76 early bird until Nov 27,
+  $24.41 standard, $25 at the door.
+- `feel-the-news-friends-and-lovers-2026-12-05` — Marcela Onyango's monthly
+  anti-capitalist show with Emma Dalenberg, David Perez, Tocarra Elise, Chase
+  DuRousseau and Winter. Dec 5, 7pm to 9:30pm, $12.51 with fees.
+- `ruperto-vanderpool-comic-strip-2026-12-05` — Ruperto Vanderpool, Nick
+  Griffin, Vanessa Hollingshead and Joe Matarese, with a 10:30pm second set the
+  same night. Dec 5, 8pm, doors 7:30pm, $25.71 with fees, two-item minimum.
+- `family-therapy-wscc-2026-11-27` — Nov 27, 6pm. No price on the room's own
+  page, so the price line says to check the ticket page.
+- `jordan-rock-greenbaum-wscc-2026-11-25` — Erin Maguire, Chris Barnes, Eagle
+  Witt, Tom Kelly and Harrison Greenbaum. Nov 25, 8pm. No price printed.
+- `wednesday-favs-wscc-2026-12-30` — Dec 30, 8pm. No price printed.
+- `immigrant-jam-caveat-2027-01-01` — the same Caveat bill on Jan 1.
+- `yurie-collins-nycc-2027-01-06` — People Different, her first US solo
+  headlining tour. Jan 6, 7pm, $30.85 GA with fees, $47.15 premium, 16+.
+- `standuptown-post-thanksgiving-qed-2026-11-27` — Santiago Angel, Megan
+  McMurtry, Hyde Healy, Michael Brigante, Bini Yamin, Jeff Greenspan, Aidan
+  Kelly and Jeff Dylan. Nov 27, 7:30pm, $15. The start time comes from QED's
+  own event calendar, which lists "7:30p StandUpTown @ Q.E.D." on that Friday;
+  the product page carries the lineup and the price but no time.
+- `black-cat-fridays-les-2026-11-27` — Kate Willett heads a bill with Tom
+  McCaffrey, Olivia Stadler, Caroline Hanes, Nina Tarr and Flora Manon. Nov 27,
+  9pm to 10:30pm, doors and playlist at 8:30pm. The listing runs a free RSVP
+  alongside paid tiers to $17.85, which is why the price line says both.
+- `prime-time-flop-house-2026-11-27` — the 90-minute showcase, eight to twelve
+  minutes a comic, done by 9:30pm. $7.18 early bird with fees.
+- `grapevine-flop-house-2026-11-25` — Nov 25, 9:31pm to 11pm, $12.51 with fees.
+- `landline-comedy-wild-east-2026-12-03` and `landline-comedy-wild-east-2026-12-17`
+  — free, doors 8pm, show 8:30pm to 10pm, with a reserved spot and a drawing
+  for a free drink.
+- `aapi-comedy-night-wild-east-2026-11-28` — Nov 28, 7pm to 10pm, free, from
+  the brewery's own taproom calendar.
+
+**Twelve December picks re-stamped** as verified today. The data did not
+change: A TRUE YORK (Dec 1), Date Night x2 (Dec 3), Down Bad (Dec 13 and
+Dec 20), Mike Feeney (Dec 13), Double Edged (Dec 15), Good Eggs (Dec 16),
+Prime Time (Dec 19), Golden Hour Fest (Dec 19), Speakeasy Saturday (Dec 19)
+and Sunday Funday (Dec 20). Each page was re-read on Nov 24 and still prints
+the same date, time and price.
+
+**Two venue records corrected:**
+- **QED Astoria** now points at the room's ticketing site
+  (`/collections/event`) instead of the open-mic collection page, and the
+  access note records that the room sells tickets through its own Shopify
+  site, one product per show, each product page naming the lineup, the price
+  and the ticketing policies you agree to before you pay. The address and
+  neighborhood are unchanged.
+- **Black Cat LES** loses its dead `badslava_url` — the room's own domain
+  does not resolve and Badslava lists it as http only. The source is now the
+  producer's Eventbrite organizer page and the room's own Instagram bio, and
+  the access note says the domain does not resolve.
+
+**One club added:** Flop House Comedy, the Williamsburg room at 362 Grand St
+run by the brothers Nicholas and Nathan Hopping. No drink minimum, a $20
+monthly pass that covers the whole calendar, and a 90-minute format most
+nights. The room publishes no age policy and no seat count, so both lines say
+to check the listing rather than guessing.
+
+**One recurring room added:** AAPI Comedy Night at Wild East Brewing Co., a
+Saturday each month, 7pm, free. The taproom page prints a date rather than a
+rule, so the cadence is kept loose.
+
+**Ten poster files re-encoded.** Cloudflare Pages serves a static file with the
+Content-Type its extension implies, so a PNG named `.jpg` went out as
+image/jpeg and browsers refused to decode it — the artwork silently did not
+appear. Seven of the ten are already archived and unreferenced; three are on
+the board. The pixels are unchanged (every file's dimensions match what HEAD
+had), the file names and the `poster.src` values stay as they are, and each
+POSTER-SOURCES record carries a `format_note` saying the file was re-encoded
+from the original download on Nov 24.
+
+**Also checked and left alone:** the double-escaped unicode in `venues.json`
+and `recurring.json` was cleaned by the dead run (75 and 56 literal `\uXXXX`
+sequences at HEAD, zero now). Every new poster file's sha256 matches its
+POSTER-SOURCES record, and every record's `bytes` matches the file. The QED
+StandUpTown listing still shows its General Admission variant as available,
+so the pick is not tagged sold out. Every new pick's venue is in the registry
+with an address, a neighborhood and a borough, and each pick's neighborhood
+matches the registry's.
+
+`npm test` passes at **140 picks**.

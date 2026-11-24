@@ -1,5 +1,5 @@
 {
- "retrieved_at": "2026-11-23T11:01:43.657Z",
+ "retrieved_at": "2026-11-24T11:03:00.932Z",
  "note": "Leads from Eventbrite organizer pages of registered rooms. Open the event page before adding a pick; artwork needs a POSTER-SOURCES record.",
  "organizers": [
   {
@@ -72,63 +72,6 @@
   }
  ],
  "events": [
-  {
-   "venue": "Caveat",
-   "neighborhood": "Lower East Side",
-   "organizer": "https://www.eventbrite.com/o/caveat-13580085802",
-   "title": "The Pachelbel Rant 20th Anniversary Show",
-   "date": "2026-11-23",
-   "time": "7pm",
-   "starts_at": "2026-11-23T19:00:00-05:00",
-   "ends_at": "2026-11-23T20:15:00-05:00",
-   "location_name": "Caveat",
-   "location_address": "21 A Clinton Street, New York, NY 10002, New York",
-   "price_from": 18.76,
-   "url": "https://www.eventbrite.com/e/the-pachelbel-rant-20th-anniversary-show-tickets-2001032453936",
-   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1193519476%2F207096185123%2F1%2Foriginal.20260915-030931?w=940&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2000%2C1000&s=c2734fb776b11dcfda56a8f1147746fc",
-   "description": "The viral Pachelbel Rant hits 20 years on YouTube and creator Rob Paravonian commemorates with comedy, music, and an updated Rant",
-   "venue_name_matches": true,
-   "already_a_pick": false,
-   "seen_before": true
-  },
-  {
-   "venue": "Union Hall",
-   "neighborhood": "Park Slope",
-   "organizer": "https://www.eventbrite.com/o/union-hall-17899496497",
-   "title": "Famous Last Words",
-   "date": "2026-11-23",
-   "time": "7:30pm",
-   "starts_at": "2026-11-23T19:30:00-05:00",
-   "ends_at": "2026-11-23T21:00:00-05:00",
-   "location_name": "Union Hall",
-   "location_address": "702 Union St., Brooklyn, NY 11215, Brooklyn",
-   "price_from": 13.61,
-   "url": "https://www.eventbrite.com/e/famous-last-words-tickets-2003111432216",
-   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1196768787%2F282041210522%2F1%2Foriginal.20261028-140456?crop=focalpoint&fit=crop&w=940&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=2ed031009e92f629b1b90a6c12367299",
-   "description": "Famous Last Words - Monday, November 23 - 7:00pm Doors / 7:30pm Show",
-   "venue_name_matches": true,
-   "already_a_pick": true,
-   "seen_before": true
-  },
-  {
-   "venue": "Comic Strip Live",
-   "neighborhood": "Upper East Side",
-   "organizer": "https://www.eventbrite.com/o/comic-strip-live-comedy-club-8100188167",
-   "title": "T.J. MILLER: LIVE!",
-   "date": "2026-11-23",
-   "time": "8pm",
-   "starts_at": "2026-11-23T20:00:00-05:00",
-   "ends_at": "2026-11-23",
-   "location_name": "Comic Strip Live",
-   "location_address": "1568 2nd Ave, New York, NY 10028, New York",
-   "price_from": 25.71,
-   "url": "https://www.eventbrite.com/e/tj-miller-live-tickets-2003841506889",
-   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1197720589%2F136153380524%2F1%2Foriginal.20261110-213508?crop=focalpoint&fit=crop&w=940&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=ab2fb53bc2f64353b7698af6f77d4448",
-   "description": "Todd Joseph Miller is an American comedian/actor who played Erlich Bachman in the HBO sitcom Silicon Valley and Weasel in Marvel's Deadpool.",
-   "venue_name_matches": true,
-   "already_a_pick": true,
-   "seen_before": true
-  },
   {
    "venue": "Caveat",
    "neighborhood": "Lower East Side",
@@ -320,10 +263,29 @@
    "seen_before": true
   },
   {
+   "venue": "Union Hall",
+   "neighborhood": "Park Slope",
+   "organizer": "https://www.eventbrite.com/o/union-hall-17899496497",
+   "title": "Thankful for Laughs with Jenny Gorelick and Friends",
+   "date": "2026-11-27",
+   "time": "7:30pm",
+   "starts_at": "2026-11-27T19:30:00-05:00",
+   "ends_at": "2026-11-27T21:00:00-05:00",
+   "location_name": "Union Hall",
+   "location_address": "702 Union St., Brooklyn, NY 11215, Brooklyn",
+   "price_from": 15.92,
+   "url": "https://www.eventbrite.com/e/thankful-for-laughs-with-jenny-gorelick-and-friends-tickets-2005299914024",
+   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1198548867%2F282041210522%2F1%2Foriginal.20261123-180116?crop=focalpoint&fit=crop&w=940&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=29947f43d8a68df3a96e0928614fb829",
+   "description": "Thankful for Laughs - Friday, November 27 - 7:00pm Doors / 7:30pm Show",
+   "venue_name_matches": true,
+   "already_a_pick": false,
+   "seen_before": false
+  },
+  {
    "venue": "Comic Strip Live",
    "neighborhood": "Upper East Side",
    "organizer": "https://www.eventbrite.com/o/comic-strip-live-comedy-club-8100188167",
-   "title": "Tom Van Horn, Elyse DeLucci, Jason Salmon, & Kareem Green!",
+   "title": "Tom Van Horn, Elyse DeLucci, Jason Salmon, & MORE!",
    "date": "2026-11-27",
    "time": "8pm",
    "starts_at": "2026-11-27T20:00:00-05:00",
@@ -331,12 +293,12 @@
    "location_name": "Comic Strip Live",
    "location_address": "1568 2nd Ave, New York, NY 10028, New York",
    "price_from": 25.71,
-   "url": "https://www.eventbrite.com/e/tom-van-horn-elyse-delucci-jason-salmon-kareem-green-tickets-2003841773687",
+   "url": "https://www.eventbrite.com/e/tom-van-horn-elyse-delucci-jason-salmon-more-tickets-2003841773687",
    "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1196474279%2F136153380524%2F1%2Foriginal.20261023-212704?crop=focalpoint&fit=crop&w=940&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=6cff9b9ada49a47f74daf4caf8f962a4",
    "description": "Be part of history, celebrating 50 years of Comedy at the World Comic Strip! Comedians from, HBO, The Tonight Show, SNL & More ~",
    "venue_name_matches": true,
    "already_a_pick": false,
-   "seen_before": true
+   "seen_before": false
   },
   {
    "venue": "Flop House Comedy",
@@ -355,7 +317,7 @@
    "description": "Flop House Comedy Club, Williamsburg · 8:00–9:30pm · 362 Grand St, Brooklyn. Featuring comics seen on Netflix, HBO, and Comedy Central.",
    "venue_name_matches": false,
    "already_a_pick": false,
-   "seen_before": false
+   "seen_before": true
   },
   {
    "venue": "Upper East Side Comedy Club",
@@ -393,7 +355,7 @@
    "description": "Flop House Comedy Club, Williamsburg · 9:30pm - 11pm · 362 Grand St, Brooklyn",
    "venue_name_matches": false,
    "already_a_pick": false,
-   "seen_before": false
+   "seen_before": true
   },
   {
    "venue": "Union Hall",
@@ -450,7 +412,7 @@
    "description": "Flop House Comedy Club, Williamsburg · 11:00pm–[12:30am] · 362 Grand St, Brooklyn Rapid-fire, late-night, only $10, Surprise lineup.",
    "venue_name_matches": false,
    "already_a_pick": false,
-   "seen_before": false
+   "seen_before": true
   },
   {
    "venue": "Caveat",
@@ -526,7 +488,7 @@
    "description": "Flop House Comedy Club, Williamsburg · 8:00–9:30pm · 362 Grand St, Brooklyn",
    "venue_name_matches": false,
    "already_a_pick": false,
-   "seen_before": false
+   "seen_before": true
   },
   {
    "venue": "Upper East Side Comedy Club",
@@ -602,7 +564,7 @@
    "description": "Flop House Comedy Club, Williamsburg · 9:30pm - 11pm · 362 Grand St, Brooklyn, featuring comics seen on Netflix, HBO, and Comedy Central.",
    "venue_name_matches": false,
    "already_a_pick": false,
-   "seen_before": false
+   "seen_before": true
   },
   {
    "venue": "Union Hall",
@@ -697,7 +659,7 @@
    "description": "Flop House Comedy Club, Williamsburg · 11:00pm–[12:30am] · 362 Grand St, Brooklyn Rapid-fire, late-night, only $10, Surprise lineup.",
    "venue_name_matches": false,
    "already_a_pick": false,
-   "seen_before": false
+   "seen_before": true
   },
   {
    "venue": "Caveat",
@@ -753,8 +715,8 @@
    "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1198096523%2F2330790970943%2F1%2Foriginal.20261116-185143?crop=focalpoint&fit=crop&w=940&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=effb4a8c9c1b1a9f45bfa37c09446094",
    "description": "Gone Fishing with Wally Baram and Vikrant Sunderlal - Sunday, November 29 - 7:00pm Doors / 7:30pm Show",
    "venue_name_matches": true,
-   "already_a_pick": false,
-   "seen_before": false
+   "already_a_pick": true,
+   "seen_before": true
   },
   {
    "venue": "Comic Strip Live",
@@ -848,8 +810,8 @@
    "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1195875943%2F282041210522%2F1%2Foriginal.20261015-155747?crop=focalpoint&fit=crop&w=940&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=040f0a6fd695a467e4c4d51e5d859404",
    "description": "Charlie Bardey Presents: THE PROMISE OF THE HEARTH - Part II: The Eave - Monday, November 30 - 7:00pm Doors / 7:30pm Show",
    "venue_name_matches": true,
-   "already_a_pick": false,
-   "seen_before": false
+   "already_a_pick": true,
+   "seen_before": true
   },
   {
    "venue": "Comic Strip Live",
@@ -886,8 +848,8 @@
    "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1198496151%2F282041210522%2F1%2Foriginal.20261122-211152?crop=focalpoint&fit=crop&w=940&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=066e7e46b61ec6f8d3883004c435ef83",
    "description": "Tommy Armstrong's last show before he goes on tour - Monday, November 30 - 9:30pm Doors / 10:00pm Show",
    "venue_name_matches": true,
-   "already_a_pick": false,
-   "seen_before": false
+   "already_a_pick": true,
+   "seen_before": true
   },
   {
    "venue": "Caveat",
@@ -944,7 +906,7 @@
    "description": "Ismael Loutfi: Heavenly Baba - Tuesday, December 1 - 7:00pm Doors / 7:30pm Show.",
    "venue_name_matches": true,
    "already_a_pick": true,
-   "seen_before": false
+   "seen_before": true
   },
   {
    "venue": "Friends and Lovers",
@@ -962,7 +924,7 @@
    "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1197795807%2F2328850250333%2F1%2Foriginal.20261111-202456?crop=focalpoint&fit=crop&w=940&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.542&fp-y=0.482&s=b6c3bd95a8c5f30940b1b34bd45a6884",
    "description": "Join us for the taping of Marcela Onyango's comedy special, I Hate Capitalism!",
    "venue_name_matches": true,
-   "already_a_pick": false,
+   "already_a_pick": true,
    "seen_before": true
   },
   {
@@ -1039,7 +1001,7 @@
    "description": "Comedians give PowerPoints about whatever they want. You might learn something, but no promises.",
    "venue_name_matches": true,
    "already_a_pick": false,
-   "seen_before": false
+   "seen_before": true
   },
   {
    "venue": "Littlefield",
@@ -1096,7 +1058,7 @@
    "description": "Nerd Nite NYC is back at Caveat NYC with three fun-yet-informative presentations!",
    "venue_name_matches": true,
    "already_a_pick": false,
-   "seen_before": false
+   "seen_before": true
   },
   {
    "venue": "Littlefield",
@@ -1173,6 +1135,44 @@
    "venue_name_matches": true,
    "already_a_pick": false,
    "seen_before": true
+  },
+  {
+   "venue": "Caveat",
+   "neighborhood": "Lower East Side",
+   "organizer": "https://www.eventbrite.com/o/caveat-13580085802",
+   "title": "Major Fix",
+   "date": "2026-12-03",
+   "time": "9:30pm",
+   "starts_at": "2026-12-03T21:30:00-05:00",
+   "ends_at": "2026-12-03T23:30:00-05:00",
+   "location_name": "Caveat",
+   "location_address": "21 A Clinton Street, New York, NY 10002, New York",
+   "price_from": 22.35,
+   "url": "https://www.eventbrite.com/e/major-fix-tickets-2002302887838",
+   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1196886726%2F207096185123%2F1%2Foriginal.20261029-203914?w=940&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2160%2C1080&s=09a25c66b683a3325e08b398609dd57b",
+   "description": "A PowerPoint lecture series where NYC’s brightest creative minds share a presentation on a personal obsession, followed by an audience Q&A.",
+   "venue_name_matches": true,
+   "already_a_pick": false,
+   "seen_before": false
+  },
+  {
+   "venue": "Caveat",
+   "neighborhood": "Lower East Side",
+   "organizer": "https://www.eventbrite.com/o/caveat-13580085802",
+   "title": "Immigrant Jam",
+   "date": "2026-12-04",
+   "time": "7pm",
+   "starts_at": "2026-12-04T19:00:00-05:00",
+   "ends_at": "2026-12-04T20:30:00-05:00",
+   "location_name": "Caveat",
+   "location_address": "21 A Clinton Street, New York, NY 10002, New York",
+   "price_from": 18.76,
+   "url": "https://www.eventbrite.com/e/immigrant-jam-tickets-1998827650309",
+   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1191808380%2F207096185123%2F1%2Foriginal.20260824-232435?w=940&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2000%2C1000&s=4456195e423102f1a1bc3d2617679472",
+   "description": "Lucie Pohl's Immigrant Jam Comedy features NYC's funniest immigrant and 1st gen comedians",
+   "venue_name_matches": true,
+   "already_a_pick": false,
+   "seen_before": false
   },
   {
    "venue": "Comic Strip Live",
@@ -1268,6 +1268,44 @@
    "venue_name_matches": true,
    "already_a_pick": false,
    "seen_before": true
+  },
+  {
+   "venue": "Friends and Lovers",
+   "neighborhood": "Crown Heights",
+   "organizer": "https://www.eventbrite.com/o/10023790784",
+   "title": "Feel The News Comedy",
+   "date": "2026-12-05",
+   "time": "7pm",
+   "starts_at": "2026-12-05T19:00:00-05:00",
+   "ends_at": "2026-12-05T21:30:00-05:00",
+   "location_name": "Friends and Lovers",
+   "location_address": "641 Classon Avenue, Brooklyn, NY 11238, Brooklyn",
+   "price_from": 12.51,
+   "url": "https://www.eventbrite.com/e/feel-the-news-comedy-tickets-2005296025393",
+   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1198545457%2F2328850250333%2F1%2Foriginal.20261123-171424?crop=focalpoint&fit=crop&w=940&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.033&s=dd4be7db03677d28eb8092cf220e911e",
+   "description": "Join us every first Sat. for Feel the News, a variety comedy show, hosted by Marcela Onyango that also tells you how to feel about the news",
+   "venue_name_matches": true,
+   "already_a_pick": false,
+   "seen_before": false
+  },
+  {
+   "venue": "Comic Strip Live",
+   "neighborhood": "Upper East Side",
+   "organizer": "https://www.eventbrite.com/o/comic-strip-live-comedy-club-8100188167",
+   "title": "Ruperto Vanderpool, Nick Griffin, Vanessa Hollingshead, Joe Matarese, more!",
+   "date": "2026-12-05",
+   "time": "8pm",
+   "starts_at": "2026-12-05T20:00:00-05:00",
+   "ends_at": "2026-12-05",
+   "location_name": "Comic Strip Live",
+   "location_address": "1568 2nd Ave, New York, NY 10028, New York",
+   "price_from": 25.71,
+   "url": "https://www.eventbrite.com/e/ruperto-vanderpool-nick-griffin-vanessa-hollingshead-joe-matarese-more-tickets-2004550794387",
+   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1198417758%2F136153380524%2F1%2Foriginal.20261120-205132?crop=focalpoint&fit=crop&w=940&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=d801a36920b9c21d9e86878c2ee2f677",
+   "description": "Be part of history, celebrating 50 years of Comedy at the World Comic Strip! Comedians from, HBO, The Tonight Show, SNL & More ~",
+   "venue_name_matches": true,
+   "already_a_pick": false,
+   "seen_before": false
   },
   {
    "venue": "Upper East Side Comedy Club",
@@ -1417,25 +1455,6 @@
    "url": "https://www.eventbrite.com/e/dinner-for-one-presents-presents-tickets-2004903819294",
    "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1198096711%2F3019219475971%2F1%2Foriginal.20261116-185404?crop=focalpoint&fit=crop&w=940&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.166&fp-y=0.478&s=d182d03587157e1b787bd69e69698843",
    "description": "An interactive holiday sketch show where audience members unwrap presents to determine which sketches the Dinner for One gang performs!",
-   "venue_name_matches": true,
-   "already_a_pick": false,
-   "seen_before": true
-  },
-  {
-   "venue": "Littlefield",
-   "neighborhood": "Gowanus",
-   "organizer": "https://www.eventbrite.com/o/littlefield-18046024060",
-   "title": "Once More, With Feeling: Live! 25th Anniversary Show",
-   "date": "2026-12-15",
-   "time": "8pm",
-   "starts_at": "2026-12-15T20:00:00-05:00",
-   "ends_at": "2026-12-15",
-   "location_name": "littlefield",
-   "location_address": "635 Sackett Street, Brooklyn, NY 11217, Brooklyn",
-   "price_from": 11.79,
-   "url": "https://www.eventbrite.com/e/once-more-with-feeling-live-25th-anniversary-show-tickets-2001996160408",
-   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1194067760%2F404652903161%2F1%2Foriginal.20260922-022203?crop=focalpoint&fit=crop&w=940&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=5b214dfcba2cf62449aa9bd0c48a763b",
-   "description": "Celebrate the 25th anniversary of the Buffy the Vampire Slayer musical episode with a full cast and live band!",
    "venue_name_matches": true,
    "already_a_pick": false,
    "seen_before": true

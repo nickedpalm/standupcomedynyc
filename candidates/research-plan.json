@@ -1,18 +1,10 @@
 {
- "generated_at": "2026-11-23T11:16:28.456Z",
- "performers_considered": 20,
+ "generated_at": "2026-11-24T12:04:45.908Z",
+ "performers_considered": 24,
  "shortlist": [
   {
-   "name": "Jacqueline Novak",
-   "priority": 135
-  },
-  {
-   "name": "Jessica Kirson",
-   "priority": 130
-  },
-  {
    "name": "Demetri Martin",
-   "priority": 105
+   "priority": 120
   },
   {
    "name": "Alyce Chan",
@@ -27,68 +19,74 @@
    "priority": 105
   },
   {
+   "name": "Ania Magliano",
+   "priority": 52
+  },
+  {
    "name": "Judy Gold",
    "priority": 50
   },
   {
-   "name": "Ania Magliano",
+   "name": "Jacqueline Novak",
    "priority": 40
   },
   {
-   "name": "Devon Walker",
-   "priority": 20
+   "name": "Ismael Loutfi",
+   "priority": 35
   },
   {
-   "name": "Ismael Loutfi",
-   "priority": 20
+   "name": "Black Cat Fridays",
+   "priority": 35
+  },
+  {
+   "name": "Immigrant Jam",
+   "priority": 30
   }
  ],
  "run": [
   {
-   "name": "Ismael Loutfi",
-   "priority": 20,
+   "name": "Black Cat Fridays",
+   "priority": 35,
    "next": {
-    "id": "ismael-loutfi-heavenly-baba-union-hall-2026-12-01",
-    "date": "2026-12-01",
-    "venue": "Union Hall",
-    "days": 8,
+    "id": "black-cat-fridays-les-2026-11-27",
+    "date": "2026-11-27",
+    "venue": "Black Cat LES",
+    "days": 3,
     "featured": false,
     "poster": true,
     "demand": null
    },
    "cheap_signals": [],
+   "reason": "show within 3 days and not yet decided"
+  },
+  {
+   "name": "Immigrant Jam",
+   "priority": 30,
+   "next": {
+    "id": "immigrant-jam-caveat-2026-12-04",
+    "date": "2026-12-04",
+    "venue": "Caveat",
+    "days": 10,
+    "featured": false,
+    "poster": true,
+    "demand": null
+   },
+   "cheap_signals": [
+    "tickets available",
+    "3 listings this month"
+   ],
    "reason": "in the decision window and not yet decided"
   }
  ],
  "reuse": [
   {
-   "name": "Jacqueline Novak",
-   "priority": 135,
+   "name": "Ania Magliano",
+   "priority": 52,
    "cached": {
-    "at": "2026-11-21T11:26:02.019Z",
+    "at": "2026-11-22T11:38:53.674Z",
     "age_days": 2,
     "fresh": true,
-    "note": "Nothing in 30 days: Reddit returned HTTP 404 and Hacker News had zero hits for her name, so the Bell House Nov 23 and Nov 24 sets rest on the venue's own listing."
-   }
-  },
-  {
-   "name": "Jessica Kirson",
-   "priority": 130,
-   "cached": {
-    "at": "2026-11-16T13:38:58.188Z",
-    "age_days": 6.9,
-    "fresh": true,
-    "note": "Nothing in 30 days: Reddit auth-failed (HTTP 403) on the last30days run and the repo's read-only OAuth re-check found three name-collision posts in r/longislandliveevents, r/Accents and r/CasualConversation, none about her NYC dates. Both NYCC Midtown dates (Nov 17, Nov 23) are sold out."
-   }
-  },
-  {
-   "name": "Demetri Martin",
-   "priority": 105,
-   "cached": {
-    "at": "2026-11-16T13:38:58.255Z",
-    "age_days": 6.9,
-    "fresh": true,
-    "note": "Nothing in 30 days: Reddit rate-limited (HTTP 429) on the last30days run, zero on Hacker News, and the repo's read-only OAuth re-check found no posts. His Dec 4 and Dec 5 Bell House Christmas shows are sold out."
+    "note": "Reddit has two threads in 30 days (135 upvotes total) and the loudest is an SNL UK Rose d'Or nomination thread, not the Bell House dates, so the Dec 2 and Dec 3 Peach Fuzz sets rest on the Bell House's own calendar."
    }
   },
   {
@@ -96,33 +94,38 @@
    "priority": 50,
    "cached": {
     "at": "2026-11-21T11:26:02.051Z",
-    "age_days": 2,
+    "age_days": 3,
     "fresh": true,
     "note": "Nothing in 30 days: Reddit returned no posts and Hacker News dropped all eight hits as prefix false positives, so the Upper West Side Nov 24 show rests on the club's own listing."
    }
   },
   {
-   "name": "Ania Magliano",
+   "name": "Jacqueline Novak",
    "priority": 40,
    "cached": {
-    "at": "2026-11-22T11:38:53.674Z",
-    "age_days": 1,
+    "at": "2026-11-21T11:26:02.019Z",
+    "age_days": 3,
     "fresh": true,
-    "note": "Reddit has two threads in 30 days (135 upvotes total) and the loudest is an SNL UK Rose d'Or nomination thread, not the Bell House dates, so the Dec 2 and Dec 3 Peach Fuzz sets rest on the Bell House's own calendar."
+    "note": "Nothing in 30 days: Reddit returned HTTP 404 and Hacker News had zero hits for her name, so the Bell House Nov 23 and Nov 24 sets rest on the venue's own listing."
    }
   },
   {
-   "name": "Devon Walker",
-   "priority": 20,
+   "name": "Ismael Loutfi",
+   "priority": 35,
    "cached": {
-    "at": "2026-11-22T11:38:53.708Z",
-    "age_days": 1,
+    "at": "2026-11-24T11:36:48.477Z",
+    "age_days": 0,
     "fresh": true,
-    "note": "Nothing in 30 days: Reddit returned zero posts and Hacker News nothing for the name, so his Nov 28 Union Hall late show rests on the room's own listing and the ticket page."
+    "note": "Nothing in 30 days: Reddit returned HTTP 404 and Hacker News had zero hits for the name, so his Union Hall Dec 1 set rests on the room's own calendar and the ticket page."
    }
   }
  ],
  "skip": [
+  {
+   "name": "Demetri Martin",
+   "priority": 120,
+   "reason": "already sold out; research cannot change the call"
+  },
   {
    "name": "Alyce Chan",
    "priority": 105,
@@ -137,6 +140,21 @@
    "name": "Ralph Barbosa",
    "priority": 105,
    "reason": "already sold out; research cannot change the call"
+  },
+  {
+   "name": "Family Therapy",
+   "priority": 30,
+   "reason": "outside the top 10 by cheap ranking"
+  },
+  {
+   "name": "Devon Walker",
+   "priority": 20,
+   "reason": "outside the top 10 by cheap ranking"
+  },
+  {
+   "name": "Charlie Bardey",
+   "priority": 20,
+   "reason": "outside the top 10 by cheap ranking"
   },
   {
    "name": "Gina Brillon",
@@ -145,7 +163,12 @@
   },
   {
    "name": "Ryan Davis",
-   "priority": 5,
+   "priority": 16,
+   "reason": "outside the top 10 by cheap ranking"
+  },
+  {
+   "name": "Martin Urbano",
+   "priority": 6,
    "reason": "outside the top 10 by cheap ranking"
   },
   {
@@ -159,7 +182,12 @@
    "reason": "outside the top 10 by cheap ranking"
   },
   {
-   "name": "Charlie Bardey",
+   "name": "Wednesday Favs",
+   "priority": 5,
+   "reason": "outside the top 10 by cheap ranking"
+  },
+  {
+   "name": "Yurie Collins",
    "priority": 5,
    "reason": "outside the top 10 by cheap ranking"
   },
@@ -179,19 +207,14 @@
    "reason": "outside the top 10 by cheap ranking"
   },
   {
-   "name": "Martin Urbano",
-   "priority": 0,
-   "reason": "outside the top 10 by cheap ranking"
-  },
-  {
    "name": "Standup",
    "priority": -10,
    "reason": "outside the top 10 by cheap ranking"
   }
  ],
- "estimated_tokens_saved": 171000,
- "estimate_basis": "9000 tokens per last30days run, 19 runs avoided out of 20",
+ "estimated_tokens_saved": 198000,
+ "estimate_basis": "9000 tokens per last30days run, 22 runs avoided out of 24",
  "no_recent_data": [
-  "Ismael Loutfi"
+  "Black Cat Fridays"
  ]
 }

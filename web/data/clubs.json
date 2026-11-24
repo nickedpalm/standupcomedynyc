@@ -498,5 +498,25 @@
   "source_label": "The room's own show page (house policy block) and its About page",
   "verified_at": "2026-11-22",
   "verification_note": "Seat count, general admission, the waitlist rule, the refund window, the bar and the $25 corking fee come from the house policy block printed on the club's own show pages. The neighborhood and address come from the About page. The club publishes no age policy and no flat price list, so both lines say to check the listing rather than guessing."
+ },
+ {
+  "id": "flop-house-comedy",
+  "tier": "club",
+  "name": "Flop House Comedy",
+  "rooms": "One house room at 362 Grand St, plus a second room at 201 Allen St #Store 2 in the East Village for some Saturday series",
+  "address": "362 Grand St, Brooklyn",
+  "neighborhood": "Williamsburg",
+  "price_label": "From $12.51 to $23.18 incl. fees depending on the show; a $20 monthly pass covers the whole calendar",
+  "price_low": 12.51,
+  "price_high": 23.18,
+  "minimum": "No drink minimum. The club sells a $20 monthly pass that covers every show on the calendar and auto-renews unless you cancel.",
+  "age": "Not stated on the club’s own pages; check the show listing before you go",
+  "reservations": "Tickets through Eventbrite, under the Flop House Comedy organizer page. Every listing says no refunds.",
+  "character": "A Williamsburg room run by the comedian brothers Nicholas and Nathan Hopping, with a 90-minute showcase most nights: a prime-time bill at eight, a late show at nine-thirty, and an after-hours slot at eleven. The sets are eight to twelve minutes each, so the line-up changes often and somebody new is up every few minutes.",
+  "calendar_url": "https://flophousecomedy.com/",
+  "source_url": "https://flophousecomedy.com/about",
+  "source_label": "The club’s own About page, its monthly-pass page and its Eventbrite organizer page",
+  "verified_at": "2026-11-24",
+  "verification_note": "The no-drink-minimum policy, the $20 monthly pass and the founders come from the club's own About and Monthly Pass pages. Prices come from the club's own Eventbrite listings (OnlyFriends $12.51, The Facebook $17.85, The Late Show $23.18) and the Prime Time listing, which states the 90-minute format, six to eight comics with eight-to-twelve-minute sets, no drink minimum, and a done-by-9:30 finish. The club publishes no age policy and no seat count, so both lines say to check the listing rather than guessing. The club's own calendar lists every Flop House bill at 362 Grand Street and one Saturday series, \"The Laugh Supply\", at 201 Allen Street #Store 2 in the East Village, with Williamsburg and East Village as the two filters on the site."
  }
 ]

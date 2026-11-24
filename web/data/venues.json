@@ -111,9 +111,11 @@
   "address": "27-16 23rd Ave, Queens",
   "neighborhood": "Astoria",
   "borough": "Queens",
-  "calendar_url": "https://qedastoria.com/collections/open-mic-nights",
-  "source_label": "Venue open-mic collection page",
-  "access_note": "Loads plainly"
+  "calendar_url": "https://qedastoria.com/collections/event",
+  "source_label": "The room’s own ticketing site (events collection and open-mic nights)",
+  "access_note": "Astoria comedy room and bar on 23rd Ave. The room sells tickets through its own Shopify site, one product per show, and each product page names the lineup, the price and the ticketing policies you have to agree to before you pay.",
+  "website": "https://qedastoria.com/",
+  "verified_at": "2026-11-24"
  },
  {
   "name": "SoHo Playhouse",
@@ -373,7 +375,7 @@
   "borough": "Manhattan",
   "website": "https://phoenixbarnyc.com/",
   "source_label": "Venue home (queer neighborhood bar with weekly events but no regular comedy showcase)",
-  "access_note": "East Village queer bar; weekly programming is karaoke, trivia, drag, DJs, bingo, poker \u2014 no recurring stand-up showcase listed on its site",
+  "access_note": "East Village queer bar; weekly programming is karaoke, trivia, drag, DJs, bingo, poker — no recurring stand-up showcase listed on its site",
   "verified_at": "2026-09-14"
  },
  {
@@ -538,7 +540,7 @@
   "website": "https://www.pineboxrockshop.com/",
   "calendar_url": "https://www.pineboxrockshop.com/event-calender",
   "source_label": "Pine Box Rock Shop event calendar",
-  "access_note": "Bushwick (the venue's own homepage says 'East Williamsburg/Bushwick, just steps from the Morgan Ave L') bar in a former casket factory. Multiple recurring stand-up mics: Deadass (every Friday 6pm, free), CHAMPS (every Wednesday), Pillow Fight, Jeans & A Nice Top, JesterMAXXING, plus Mi\u00e9rcoles con Mateo Wednesdays and the monthly Sketch Mic NYC on the last Tuesday",
+  "access_note": "Bushwick (the venue's own homepage says 'East Williamsburg/Bushwick, just steps from the Morgan Ave L') bar in a former casket factory. Multiple recurring stand-up mics: Deadass (every Friday 6pm, free), CHAMPS (every Wednesday), Pillow Fight, Jeans & A Nice Top, JesterMAXXING, plus Miércoles con Mateo Wednesdays and the monthly Sketch Mic NYC on the last Tuesday",
   "verified_at": "2026-09-14",
   "note": "Registry keeps Bushwick; the venue labels the area East Williamsburg/Bushwick on its site."
  },
@@ -573,7 +575,7 @@
   "website": "https://www.freddysbar.com/",
   "calendar_url": "https://www.freddysbar.com/events",
   "source_label": "Freddy's Bar events page",
-  "access_note": "South Slope bar at 627 5th Ave (between 17th and 18th Sts). Weekly Comedy Open Mic (The Fun Mic \u2014 Alex's Comedy Open Mic) Mondays and Wednesdays at 7pm; New Material Night 1st Wednesdays at 9:30pm; Late Night Laughs after Thursday burlesque; monthly storytelling 3rd Mondays",
+  "access_note": "South Slope bar at 627 5th Ave (between 17th and 18th Sts). Weekly Comedy Open Mic (The Fun Mic — Alex's Comedy Open Mic) Mondays and Wednesdays at 7pm; New Material Night 1st Wednesdays at 9:30pm; Late Night Laughs after Thursday burlesque; monthly storytelling 3rd Mondays",
   "verified_at": "2026-09-14",
   "note": "Neighborhood South Slope confirmed via Yelp and the venue's own pages."
  },
@@ -596,7 +598,7 @@
   "source_label": "Venue homepage",
   "access_note": "Queer bar & venue in Park Slope (the venue's own Instagram bio says 'Park Slope, BK'; /events subpage returns 404). Blue Room hosts drag and karaoke; Badslava's Freak Latte Monday open mic is on Instagram, not the venue's own site",
   "verified_at": "2026-09-14",
-  "note": "Corrected neighborhood from South Slope to Park Slope \u2014 Good Judy's own site and Instagram bio both call the area Park Slope."
+  "note": "Corrected neighborhood from South Slope to Park Slope — Good Judy's own site and Instagram bio both call the area Park Slope."
  },
  {
   "name": "SkyBox Sports Bar",
@@ -605,7 +607,7 @@
   "borough": "Manhattan",
   "website": "https://www.skyboxsportsbareastharlem.com/",
   "source_label": "Venue homepage (What's Happening carousel lists Laugh Out Loud Mondays)",
-  "access_note": "East Harlem's first woman-owned sports bar; wings, karaoke, DJ nights, big games. Site lists 'Laugh Out Loud Mondays \u2014 Monday Comedy Night & Open Mic' as a recurring weekly event at 8PM",
+  "access_note": "East Harlem's first woman-owned sports bar; wings, karaoke, DJ nights, big games. Site lists 'Laugh Out Loud Mondays — Monday Comedy Night & Open Mic' as a recurring weekly event at 8PM",
   "verified_at": "2026-09-14",
   "note": "Neighborhood East Harlem confirmed via the venue's own site (banner reads 'East Harlem's First Woman-Owned Sports Bar')."
  },
@@ -626,9 +628,9 @@
   "borough": "Queens",
   "website": "https://wildgoosenyc.com/",
   "source_label": "Venue homepage (Upcoming Events widget empty as of Sep 14, 2026)",
-  "access_note": "Neighborhood pub at 54-20 Roosevelt Ave on the Sunnyside/Woodside border (the venue's own site says 'Sunnyside / Woodside'). Live music on weekends, dart boards, pool table. Upcoming Events widget shows 'No upcoming events' \u2014 no recurring stand-up showcase on the venue's own site",
+  "access_note": "Neighborhood pub at 54-20 Roosevelt Ave on the Sunnyside/Woodside border (the venue's own site says 'Sunnyside / Woodside'). Live music on weekends, dart boards, pool table. Upcoming Events widget shows 'No upcoming events' — no recurring stand-up showcase on the venue's own site",
   "verified_at": "2026-09-14",
-  "note": "Neighborhood kept as Woodside \u2014 site says Sunnyside/Woodside; Woodside matches the address block."
+  "note": "Neighborhood kept as Woodside — site says Sunnyside/Woodside; Woodside matches the address block."
  },
  {
   "name": "The Cobra Club",
@@ -669,7 +671,7 @@
   "borough": "Manhattan",
   "website": "https://www.area140first.com/",
   "source_label": "Venue homepage",
-  "access_note": "East Village classic dive bar (the venue's own homepage says 'classic dive bar in the East Village of New York City'). Bed of nails, pinball, sports. The /events subpage lists Rock and Roll Live Karaoke (12/12/24), 2024-25 Ipswich Town soccer schedule and Live Rock Band Karaoke every Thursday \u2014 no recurring stand-up showcase on its own pages",
+  "access_note": "East Village classic dive bar (the venue's own homepage says 'classic dive bar in the East Village of New York City'). Bed of nails, pinball, sports. The /events subpage lists Rock and Roll Live Karaoke (12/12/24), 2024-25 Ipswich Town soccer schedule and Live Rock Band Karaoke every Thursday — no recurring stand-up showcase on its own pages",
   "verified_at": "2026-09-14",
   "note": "Neighborhood East Village confirmed via the venue's own homepage."
  },
@@ -681,7 +683,7 @@
   "website": "https://grove34.com/",
   "calendar_url": "https://grove34.com/",
   "source_label": "Grove 34 Comedy Club home and shows list",
-  "access_note": "Astoria dedicated comedy club (the venue's own tagline: 'Grove 34 Comedy Club | Astoria Queens'). Full upcoming shows list on the homepage with multiple weekly showcases \u2014 Grove Comedy (Fri 7:30 PM), Roast Battle League NYC, Sounds Funny Presents: Stand-Up Showcase, Improv Night, The Great Improv Experiment. Show pages: grove-comedy-sept18 / -sept25 / -live-oct16; roast-battle-league-nyc-16sept / -23sept / -30sept",
+  "access_note": "Astoria dedicated comedy club (the venue's own tagline: 'Grove 34 Comedy Club | Astoria Queens'). Full upcoming shows list on the homepage with multiple weekly showcases — Grove Comedy (Fri 7:30 PM), Roast Battle League NYC, Sounds Funny Presents: Stand-Up Showcase, Improv Night, The Great Improv Experiment. Show pages: grove-comedy-sept18 / -sept25 / -live-oct16; roast-battle-league-nyc-16sept / -23sept / -30sept",
   "verified_at": "2026-09-14"
  },
  {
@@ -690,7 +692,7 @@
   "neighborhood": "Ridgewood",
   "borough": "Queens",
   "source_label": "Footlight Underground operator site (bar itself has no own https site)",
-  "access_note": "Ridgewood corner bar at 552 Grandview Ave (Bleecker + Grandview). Programming is run by Footlight Underground (footlightunderground.com \u2014 'Footlight Underground at The Windjammer'), which lists weekly Monday 'The Joy of Ranting' mixed-medium open mic 9 PM (sign-up 8:45) and weekly Tuesday Open Mic Comedy 8 PM on its own calendar. The Windjammer's own Instagram is @thewindjammer; no own https site",
+  "access_note": "Ridgewood corner bar at 552 Grandview Ave (Bleecker + Grandview). Programming is run by Footlight Underground (footlightunderground.com — 'Footlight Underground at The Windjammer'), which lists weekly Monday 'The Joy of Ranting' mixed-medium open mic 9 PM (sign-up 8:45) and weekly Tuesday Open Mic Comedy 8 PM on its own calendar. The Windjammer's own Instagram is @thewindjammer; no own https site",
   "verified_at": "2026-09-14",
   "note": "No own website; the operator (Footlight Underground) is a third-party nonprofit that runs the venue programming. Held out of recurring.json and open-mics.json until the venue has its own page that lists the showcase."
  },
@@ -703,7 +705,7 @@
   "source_label": "Venue homepage (EVENTS nav link)",
   "access_note": "East Village Tiki bar with rockabilly, comedy, burlesque, drag per NYC Tourism. The site's /events returns 404; nightly entertainment schedule is promoted on Facebook (OttosShrunkenHead) and Instagram (@ottosnyc). No fixed weekly stand-up showcase listed on its own pages",
   "verified_at": "2026-09-14",
-  "note": "Old static site; the EVENTS subpage 404s. Held out of recurring.json \u2014 no own calendar lists a recurring weekly showcase."
+  "note": "Old static site; the EVENTS subpage 404s. Held out of recurring.json — no own calendar lists a recurring weekly showcase."
  },
  {
   "name": "The Throwback",
@@ -742,7 +744,7 @@
   "neighborhood": "Harlem",
   "borough": "Manhattan",
   "website": "https://silvana-nyc.com/",
-  "source_label": "Venue home (silvana-nyc.com \u2014 site renders only the nav; subpages 404)",
+  "source_label": "Venue home (silvana-nyc.com — site renders only the nav; subpages 404)",
   "access_note": "Harlem cafe/music venue; the venue's own site loads but renders no content and /calendar and /about return 404. The female-performer Tuesday open mic 'Off The Clock' is a third-party Funny Hunnyz production promoted via @funnyhunnyz",
   "verified_at": "2026-09-14"
  },
@@ -815,7 +817,7 @@
   "neighborhood": "Upper East Side",
   "borough": "Manhattan",
   "source_label": "Instagram only (@somebodys_darling_nyc); no own website",
-  "access_note": "Upper East Side bar at 1664 1st Ave. No own https website \u2014 Badslava lists only the venue Instagram. Badslava's 'Hot Mic' Tuesday weekly open mic (8pm, 1-drink minimum, email sign-up) is promoted via @somebodys_darling_nyc and Claire Grant's Instagram, not the venue's own site",
+  "access_note": "Upper East Side bar at 1664 1st Ave. No own https website — Badslava lists only the venue Instagram. Badslava's 'Hot Mic' Tuesday weekly open mic (8pm, 1-drink minimum, email sign-up) is promoted via @somebodys_darling_nyc and Claire Grant's Instagram, not the venue's own site",
   "verified_at": "2026-09-14",
   "note": "No venue-controlled source beyond Instagram; open mic info via the producer's Instagram only."
  },
@@ -826,7 +828,7 @@
   "borough": "Manhattan",
   "website": "https://www.teddysnyc.com/",
   "source_label": "Venue home (Spanish Harlem bar & grill; events nav covers NFL and Live Music only)",
-  "access_note": "2171 2nd Ave bar & grill the venue labels 'BORN & BRED In Spanish Harlem' (Mon-Sun 5pm-2am, Happy Hour 5-8pm all week). Events nav covers NFL Schedule and Teddy's F&B Live Music Series (the series page itself 404s) \u2014 no comedy on the venue's own site. Badslava's 'The Bar Mic' Tuesday weekly open mic ($5 for 5 min, walk-in or email signup) is a separate Comedy on purpose listing",
+  "access_note": "2171 2nd Ave bar & grill the venue labels 'BORN & BRED In Spanish Harlem' (Mon-Sun 5pm-2am, Happy Hour 5-8pm all week). Events nav covers NFL Schedule and Teddy's F&B Live Music Series (the series page itself 404s) — no comedy on the venue's own site. Badslava's 'The Bar Mic' Tuesday weekly open mic ($5 for 5 min, walk-in or email signup) is a separate Comedy on purpose listing",
   "verified_at": "2026-09-14",
   "note": "Corrected neighborhood from 'East Harlem' to 'Spanish Harlem' per the venue's own homepage. The two labels overlap; the venue self-identifies as Spanish Harlem."
  },
@@ -853,7 +855,7 @@
   "website": "https://www.anbealbochtcafe.com/",
   "calendar_url": "https://www.anbealbochtcafe.com/events-programs",
   "source_label": "Venue events calendar (Events & Programs)",
-  "access_note": "Riverdale Irish cafe confirmed by the venue's own footer (445 West 238th Street, Bronx, NY 10463). Events & Programs calendar lists weekly events including Tuesday's Open Mic w/ Eric Sullivan (9pm) on the venue's own page \u2014 every Tuesday the mic runs in the venue calendar",
+  "access_note": "Riverdale Irish cafe confirmed by the venue's own footer (445 West 238th Street, Bronx, NY 10463). Events & Programs calendar lists weekly events including Tuesday's Open Mic w/ Eric Sullivan (9pm) on the venue's own page — every Tuesday the mic runs in the venue calendar",
   "verified_at": "2026-09-14",
   "note": "Venue calendar lists the Tuesday Open Mic w/ Eric Sullivan 9pm explicitly. Address and Riverdale label both confirmed by venue footer."
  },
@@ -866,9 +868,9 @@
   "needs_review": false,
   "website": "https://frigid.nyc/",
   "source_label": "FRIGID New York site (Under St Marks is the house)",
-  "access_note": "East Village theater confirmed by FRIGID New York's own About page ('an off-off-Broadway venue in the East Village'). The Badslava Tuesday open mic ('The Open Mic Downstairs') is run by an outside producer \u2014 not listed on FRIGID's site, so it is not registered in open-mics.json",
+  "access_note": "East Village theater confirmed by FRIGID New York's own About page ('an off-off-Broadway venue in the East Village'). The Badslava Tuesday open mic ('The Open Mic Downstairs') is run by an outside producer — not listed on FRIGID's site, so it is not registered in open-mics.json",
   "verified_at": "2026-09-14",
-  "note": "FRIGID is the company; Under St Marks is its 94 St Marks Pl theater. No public calendar of dated shows for the open mic \u2014 Badslava/Instagram only \u2014 so no open-mics.json entry."
+  "note": "FRIGID is the company; Under St Marks is its 94 St Marks Pl theater. No public calendar of dated shows for the open mic — Badslava/Instagram only — so no open-mics.json entry."
  },
  {
   "name": "Hotel Edison",
@@ -879,7 +881,7 @@
   "needs_review": false,
   "website": "https://www.edisonhotelnyc.com/",
   "source_label": "Hotel site (no comedy calendar)",
-  "access_note": "Times Square hotel at 228 W 47th St confirmed on the venue's own header/footer. Site is a hotel site with no comedy/events calendar. Badslava's 'Let's Go Mental' Wednesday 5pm lobby open mic is run by an outside producer (minacheon.com/mj/) \u2014 not on the hotel site, so not added to open-mics.json",
+  "access_note": "Times Square hotel at 228 W 47th St confirmed on the venue's own header/footer. Site is a hotel site with no comedy/events calendar. Badslava's 'Let's Go Mental' Wednesday 5pm lobby open mic is run by an outside producer (minacheon.com/mj/) — not on the hotel site, so not added to open-mics.json",
   "verified_at": "2026-09-14",
   "note": "Hotel lobby open mic is producer-run; hotel site confirms the address but does not list the mic."
  },
@@ -904,7 +906,7 @@
   "badslava_url": "https://badslava.com/details.php?id=59064",
   "needs_review": false,
   "source_label": "No venue-owned website (Yelp page only)",
-  "access_note": "East Harlem cafe at 2154 Third Ave. Badslava's 'Venue Website' field points to the Yelp page; the cafe has no own https site. The Wednesday 5:30pm 'mike' Drop open mic is run by an outside producer (dbjcomedy via NGL link / Instagram @dbjcomedy) \u2014 no venue source, no open-mics.json entry",
+  "access_note": "East Harlem cafe at 2154 Third Ave. Badslava's 'Venue Website' field points to the Yelp page; the cafe has no own https site. The Wednesday 5:30pm 'mike' Drop open mic is run by an outside producer (dbjcomedy via NGL link / Instagram @dbjcomedy) — no venue source, no open-mics.json entry",
   "verified_at": "2026-09-14",
   "note": "No venue-owned site; Yelp is the only public listing. Open mic is producer-run via DBJ Comedy."
  },
@@ -917,7 +919,7 @@
   "needs_review": false,
   "website": "https://www.maemaecafe.com/",
   "source_label": "Venue home (cafe & plant shop, no events page)",
-  "access_note": "Mott Haven cafe at 2417 Third Avenue, Bronx \u2014 confirmed by the venue's own homepage. Hours Mon\u2013Fri 8am\u20133pm, Sat\u2013Sun closed. Badslava's Wednesday 6pm 'Mae Mae Mic Nites' would start after the cafe closes; the venue's own site lists no events page or comedy schedule, so it is not added to open-mics.json",
+  "access_note": "Mott Haven cafe at 2417 Third Avenue, Bronx — confirmed by the venue's own homepage. Hours Mon–Fri 8am–3pm, Sat–Sun closed. Badslava's Wednesday 6pm 'Mae Mae Mic Nites' would start after the cafe closes; the venue's own site lists no events page or comedy schedule, so it is not added to open-mics.json",
   "verified_at": "2026-09-14",
   "note": "Venue hours conflict with the Badslava 6pm Wed mic; mic likely stale or moved. Left out of open-mics.json until a venue or producer confirms."
  },
@@ -930,7 +932,7 @@
   "needs_review": false,
   "website": "https://www.judyznyc.com/",
   "source_label": "Venue home (sports tavern, no comedy listing)",
-  "access_note": "Sports tavern at 1 7th Ave S confirmed by the venue's own header; site calls the corner 'where Greenwich Village meets the West Village'. The Wednesday 6pm 'Brainstorm Open Mic' is run by an outside producer (brainstormopenmic@gmail.com) \u2014 not on the venue's site, so not added to open-mics.json",
+  "access_note": "Sports tavern at 1 7th Ave S confirmed by the venue's own header; site calls the corner 'where Greenwich Village meets the West Village'. The Wednesday 6pm 'Brainstorm Open Mic' is run by an outside producer (brainstormopenmic@gmail.com) — not on the venue's site, so not added to open-mics.json",
   "verified_at": "2026-09-14",
   "note": "Address confirmed by the venue header; West Village kept in the registry because 1 7th Ave S / Carmine is West Village per the venue's own description."
  },
@@ -967,7 +969,7 @@
   "badslava_url": "https://badslava.com/details.php?id=50569",
   "needs_review": false,
   "source_label": "Venue site is down (oneandonenyc.com returns 404)",
-  "access_note": "East Village bar at 76 E 1st St. The Badslava 'Venue Website' (oneandonenyc.com) returns 404 in the managed browser on every path tried (root, /events). The Wednesday 6:15pm 'Orangutan Comedy Mic' is run by outside producers (Max Ryan and Hilary Schwartz, @orangutancomedy) \u2014 no venue source to verify against",
+  "access_note": "East Village bar at 76 E 1st St. The Badslava 'Venue Website' (oneandonenyc.com) returns 404 in the managed browser on every path tried (root, /events). The Wednesday 6:15pm 'Orangutan Comedy Mic' is run by outside producers (Max Ryan and Hilary Schwartz, @orangutancomedy) — no venue source to verify against",
   "verified_at": "2026-09-14",
   "note": "No working venue website. Without a venue-owned page the Wednesday mic cannot be added to open-mics.json."
  },
@@ -981,7 +983,7 @@
   "website": "https://www.caravanofdreams.net/",
   "calendar_url": "https://www.caravanofdreams.net/events",
   "source_label": "Venue events page (currently empty)",
-  "access_note": "East Village vegan Mediterranean cafe confirmed by the venue's own footer (405 E 6th St, New York, NY 10009) and tagline 'Hidden Gem of the East Village'. Events page renders but lists no upcoming events. The Badslava Wednesday 7pm 'Club of Comedy' ($3 + one drink) is run by an outside producer \u2014 not on the venue's calendar, so not added to open-mics.json",
+  "access_note": "East Village vegan Mediterranean cafe confirmed by the venue's own footer (405 E 6th St, New York, NY 10009) and tagline 'Hidden Gem of the East Village'. Events page renders but lists no upcoming events. The Badslava Wednesday 7pm 'Club of Comedy' ($3 + one drink) is run by an outside producer — not on the venue's calendar, so not added to open-mics.json",
   "verified_at": "2026-09-14",
   "note": "Address and East Village label both confirmed by the venue's own footer; events page is up but currently empty."
  },
@@ -994,7 +996,7 @@
   "needs_review": false,
   "website": "https://brooklynbeso.com/",
   "source_label": "Venue home (Caribbean & Latin restaurant; Events page 404s)",
-  "access_note": "Bed-Stuy Caribbean & Latin restaurant at 370 Lewis Ave (zip 11233) confirmed by the venue's own header/footer (Hours: Sun\u2013Thu 11am\u201311pm, Fri\u2013Sat 11am\u20132am). Events nav page returns 'There is some problem' in the browser; the monthly Wednesday 7pm 'Words 2 Everything I Love' is run by an outside producer (ahveyus@gmail.com) \u2014 not on the venue's site, so not added to open-mics.json",
+  "access_note": "Bed-Stuy Caribbean & Latin restaurant at 370 Lewis Ave (zip 11233) confirmed by the venue's own header/footer (Hours: Sun–Thu 11am–11pm, Fri–Sat 11am–2am). Events nav page returns 'There is some problem' in the browser; the monthly Wednesday 7pm 'Words 2 Everything I Love' is run by an outside producer (ahveyus@gmail.com) — not on the venue's site, so not added to open-mics.json",
   "verified_at": "2026-09-14",
   "note": "Address confirmed by venue header; zip 11233 keeps the Bed-Stuyvesant label."
  },
@@ -1006,9 +1008,9 @@
   "badslava_url": "https://badslava.com/details.php?id=28125",
   "needs_review": false,
   "source_label": "Instagram only (@shilltavern); own domain parked",
-  "access_note": "Astoria Irish bar (47-22 30th Ave). The shillelaghtavern.com domain is a parked Wix page; the venue does not maintain an active own website. Badslava's Wed 7:30pm weekly open mic is promoted only on Instagram \u2014 held out of open-mics.json until the venue has its own page or the mic is confirmed by the venue.",
+  "access_note": "Astoria Irish bar (47-22 30th Ave). The shillelaghtavern.com domain is a parked Wix page; the venue does not maintain an active own website. Badslava's Wed 7:30pm weekly open mic is promoted only on Instagram — held out of open-mics.json until the venue has its own page or the mic is confirmed by the venue.",
   "verified_at": "2026-09-14",
-  "note": "No own website. Held out \u2014 venue-controlled source for the open mic does not exist."
+  "note": "No own website. Held out — venue-controlled source for the open mic does not exist."
  },
  {
   "name": "Postcard Brewing",
@@ -1018,9 +1020,9 @@
   "badslava_url": "https://badslava.com/details.php?id=60570",
   "needs_review": false,
   "source_label": "Instagram only; own domain parked on GoDaddy",
-  "access_note": "Rockaway Beach brewery (111-30 Beach Channel Dr, zip 11693). postcardbrewing.com is parked on GoDaddy (Domain For Sale); the venue does not maintain an active own website. Badslava lists a weather-dependent Wed 7:30pm weekly open mic \u2014 held out of open-mics.json since the venue itself does not list the mic.",
+  "access_note": "Rockaway Beach brewery (111-30 Beach Channel Dr, zip 11693). postcardbrewing.com is parked on GoDaddy (Domain For Sale); the venue does not maintain an active own website. Badslava lists a weather-dependent Wed 7:30pm weekly open mic — held out of open-mics.json since the venue itself does not list the mic.",
   "verified_at": "2026-09-14",
-  "note": "No own website. Held out \u2014 venue-controlled source for the open mic does not exist."
+  "note": "No own website. Held out — venue-controlled source for the open mic does not exist."
  },
  {
   "name": "Starr Bar",
@@ -1032,7 +1034,7 @@
   "website": "https://www.starrbar.com/",
   "calendar_url": "https://www.starrbar.com/events",
   "source_label": "Starr Bar events page (Squarespace)",
-  "access_note": "Bushwick bar (homepage self-describes as 'a Bushwick destination for unique drinks, delicious food, and seriously inspiring events'). The /events page lists Kismet Comedy (Tuesday 8:30pm stand-up showcase, $10 at the door, Sep 15 confirmed), Art vs Life Open Mic (biweekly Monday, doors 5pm, sign-ups 7pm \u2014 bands/singers/poets/dancers, not strictly stand-up), HRTuesday! (last Tuesday of every month, trans fundraiser with comedians and drag), and a weekly NYC Salsa Social & Karaoke. Hours: Mon-Thu 5pm-2am, Fri-Sat 5pm-4am, Sun 5pm-2am",
+  "access_note": "Bushwick bar (homepage self-describes as 'a Bushwick destination for unique drinks, delicious food, and seriously inspiring events'). The /events page lists Kismet Comedy (Tuesday 8:30pm stand-up showcase, $10 at the door, Sep 15 confirmed), Art vs Life Open Mic (biweekly Monday, doors 5pm, sign-ups 7pm — bands/singers/poets/dancers, not strictly stand-up), HRTuesday! (last Tuesday of every month, trans fundraiser with comedians and drag), and a weekly NYC Salsa Social & Karaoke. Hours: Mon-Thu 5pm-2am, Fri-Sat 5pm-4am, Sun 5pm-2am",
   "verified_at": "2026-09-14",
   "note": "Bushwick label confirmed by the venue's own homepage. Kismet Comedy is the cleanest weekly stand-up showcase on the venue's page."
  },
@@ -1044,9 +1046,9 @@
   "badslava_url": "https://badslava.com/details.php?id=16414",
   "needs_review": false,
   "source_label": "WordPress install broken (wp-admin/setup-config.php exposed); venue site is down",
-  "access_note": "Bed-Stuy bar (1662 Atlantic Ave between Schenectady and Hopkins). The 'Venue Website' on Badslava (essencebar.com) now lands on the WordPress setup-config page \u2014 the WP install is broken/unconfigured, not a working site. Instagram (@essencebar) is the only public source. Badslava's Wed 8pm weekly 'Under New Mgmt Comedy Show' open mic is not on a venue-controlled page; held out of open-mics.json",
+  "access_note": "Bed-Stuy bar (1662 Atlantic Ave between Schenectady and Hopkins). The 'Venue Website' on Badslava (essencebar.com) now lands on the WordPress setup-config page — the WP install is broken/unconfigured, not a working site. Instagram (@essencebar) is the only public source. Badslava's Wed 8pm weekly 'Under New Mgmt Comedy Show' open mic is not on a venue-controlled page; held out of open-mics.json",
   "verified_at": "2026-09-14",
-  "note": "No working venue website. Held out \u2014 venue-controlled source for the open mic does not exist."
+  "note": "No working venue website. Held out — venue-controlled source for the open mic does not exist."
  },
  {
   "name": "the Rock House bar and grill",
@@ -1071,7 +1073,7 @@
   "website": "https://www.hartbarnyc.com/",
   "calendar_url": "https://www.hartbarnyc.com/shows",
   "source_label": "Hart Bar shows calendar (embedded Google Calendar)",
-  "access_note": "Bushwick bar at 538 Hart St #1 (corner of Hart St and Metropolitan). The SHOWS nav links to a Google Calendar embedded in the venue's own page; the calendar lists music, karaoke (Charlie-oke Mondays in the Garage, Savage Karaoke! Thursdays in the Garage), burlesque (The Hart of the Matter monthly Saturdays) and indie showcases. Badslava lists a bi-weekly Foolery open mic (1st & 3rd Wednesdays, Hart Garage) that does NOT appear in the venue's calendar on the relevant Wednesdays in September 2026 \u2014 mic appears dormant. Held out of open-mics.json until the venue's calendar lists it",
+  "access_note": "Bushwick bar at 538 Hart St #1 (corner of Hart St and Metropolitan). The SHOWS nav links to a Google Calendar embedded in the venue's own page; the calendar lists music, karaoke (Charlie-oke Mondays in the Garage, Savage Karaoke! Thursdays in the Garage), burlesque (The Hart of the Matter monthly Saturdays) and indie showcases. Badslava lists a bi-weekly Foolery open mic (1st & 3rd Wednesdays, Hart Garage) that does NOT appear in the venue's calendar on the relevant Wednesdays in September 2026 — mic appears dormant. Held out of open-mics.json until the venue's calendar lists it",
   "verified_at": "2026-09-14",
   "note": "Bushwick label kept. Venue calendar is music/karaoke/burlesque-focused; the Badslava-listed Foolery open mic is not currently on the venue's own calendar."
  },
@@ -1085,7 +1087,7 @@
   "website": "https://captainkirkscomedylounge.com/",
   "calendar_url": "https://captainkirkscomedylounge.com/",
   "source_label": "Captain Kirk's Comedy Lounge home (COMEDY SHOWS / EVENTS section)",
-  "access_note": "Brooklyn comedy club at 1000 Broadway (zip 11221, Broadway and Bushwick Ave; the venue's footer confirms '1000 Broadway, Brooklyn, New York 11221'). $20 per person food/beverage minimum, cash not accepted at the door. The COMEDY SHOWS / EVENTS section on the venue's own home lists Double The Trouble Thursdays (every Thursday from Aug 27, 6pm-12am, LADIES FREE), Fashion Week Every Week (Mondays starting Sep 14, 5pm-11pm) and ticketed showcase nights. Badslava's Wed 8pm Open Mic Night is run by an outside producer (@dslaughtercomedy, danniellewornall@gmail.com) \u2014 not on the venue's own page, so held out of open-mics.json",
+  "access_note": "Brooklyn comedy club at 1000 Broadway (zip 11221, Broadway and Bushwick Ave; the venue's footer confirms '1000 Broadway, Brooklyn, New York 11221'). $20 per person food/beverage minimum, cash not accepted at the door. The COMEDY SHOWS / EVENTS section on the venue's own home lists Double The Trouble Thursdays (every Thursday from Aug 27, 6pm-12am, LADIES FREE), Fashion Week Every Week (Mondays starting Sep 14, 5pm-11pm) and ticketed showcase nights. Badslava's Wed 8pm Open Mic Night is run by an outside producer (@dslaughtercomedy, danniellewornall@gmail.com) — not on the venue's own page, so held out of open-mics.json",
   "verified_at": "2026-09-14",
   "note": "Bed-Stuyvesant label kept (zip 11221). Phone (516) area code is Long Island, but the venue confirms 1000 Broadway Brooklyn. Double Trouble Thursdays is the weekly recurring showcase."
  },
@@ -1098,7 +1100,7 @@
   "needs_review": false,
   "website": "https://www.commune-nyc.com/",
   "source_label": "Commune NYC homepage (nav has Event Calendar but calendar page 404s)",
-  "access_note": "Cafe and wine bar at 415 Classon Ave (between Classon and the Pratt area). The site's own title 'Commune NYC \u2013 Coffee Wine & Events \u2013 Bed Stuy, Brooklyn' self-labels the area Bed-Stuy, but 415 Classon sits in Clinton Hill per the address. The site loads but its main page renders only an empty article body. The /event-calendar page 404s \u2014 no working calendar_url to attach. Badslava lists a free Thu 6pm weekly 'ADHD Mic' (sign up via Slotted link) \u2014 held out of open-mics.json since the venue's own event calendar does not load.",
+  "access_note": "Cafe and wine bar at 415 Classon Ave (between Classon and the Pratt area). The site's own title 'Commune NYC – Coffee Wine & Events – Bed Stuy, Brooklyn' self-labels the area Bed-Stuy, but 415 Classon sits in Clinton Hill per the address. The site loads but its main page renders only an empty article body. The /event-calendar page 404s — no working calendar_url to attach. Badslava lists a free Thu 6pm weekly 'ADHD Mic' (sign up via Slotted link) — held out of open-mics.json since the venue's own event calendar does not load.",
   "verified_at": "2026-09-14",
   "note": "Clinton Hill label kept (matches the address); the venue's own site title self-labels 'Bed Stuy' but 415 Classon is Clinton Hill. Site exists but event calendar subpage 404s."
  },
@@ -1112,9 +1114,9 @@
   "website": "https://www.terraza7.com/",
   "calendar_url": "https://www.terraza7.com/events",
   "source_label": "Terraza 7 Concert Schedule (music-focused)",
-  "access_note": "Elmhurst live music hub (40-19 Gleane St, zip 11373; the venue's own page title self-labels '40-19 Gleane St, Elmhurst, Queens, NY 11373'). The Concert Schedule on the venue's home lists nearly-nightly Latin jazz, salsa, Brazilian jazz and Colombian folk sets \u2014 open daily 4pm-4am, performances almost every night from 8pm. Badslava's Thu 7pm weekly open mic is NOT on the venue's own page; held out of open-mics.json.",
+  "access_note": "Elmhurst live music hub (40-19 Gleane St, zip 11373; the venue's own page title self-labels '40-19 Gleane St, Elmhurst, Queens, NY 11373'). The Concert Schedule on the venue's home lists nearly-nightly Latin jazz, salsa, Brazilian jazz and Colombian folk sets — open daily 4pm-4am, performances almost every night from 8pm. Badslava's Thu 7pm weekly open mic is NOT on the venue's own page; held out of open-mics.json.",
   "verified_at": "2026-09-14",
-  "note": "Elmhurst label kept. Live music venue \u2014 no own-page listing of a recurring stand-up mic."
+  "note": "Elmhurst label kept. Live music venue — no own-page listing of a recurring stand-up mic."
  },
  {
   "name": "Partea Lab",
@@ -1125,9 +1127,9 @@
   "needs_review": false,
   "website": "https://www.partealab.com/",
   "source_label": "Partealab.com (announces last day of service Friday Sep 11, 2026)",
-  "access_note": "K-Town speakeasy/cyberpunk night market at 32 E 32nd St. The venue's own homepage announces 'Our last day of service will be Friday, September 11th. Book now!' \u2014 venue is closed as of Sep 12, 2026. Badslava's Humor Section Comedy Open Mic (bi-weekly Thu 7pm, English/Chinese friendly) ran there until closing but is no longer operating. Held out of open-mics.json \u2014 Humor Section co-presents the JEST ASIANS showcase with Asia Society and runs ongoing Mandarin shows at QED Astoria and Broadway Comedy Club per the Badslava notes, so the mic may move.",
+  "access_note": "K-Town speakeasy/cyberpunk night market at 32 E 32nd St. The venue's own homepage announces 'Our last day of service will be Friday, September 11th. Book now!' — venue is closed as of Sep 12, 2026. Badslava's Humor Section Comedy Open Mic (bi-weekly Thu 7pm, English/Chinese friendly) ran there until closing but is no longer operating. Held out of open-mics.json — Humor Section co-presents the JEST ASIANS showcase with Asia Society and runs ongoing Mandarin shows at QED Astoria and Broadway Comedy Club per the Badslava notes, so the mic may move.",
   "verified_at": "2026-09-14",
-  "note": "Venue closed Sep 11, 2026 per the venue's own homepage banner. Held out of open-mics.json \u2014 Humor Section is looking for a new room."
+  "note": "Venue closed Sep 11, 2026 per the venue's own homepage banner. Held out of open-mics.json — Humor Section is looking for a new room."
  },
  {
   "name": "Island Rib House",
@@ -1137,9 +1139,9 @@
   "badslava_url": "https://badslava.com/details.php?id=18293",
   "needs_review": false,
   "source_label": "No working venue website (islandribhouse.com 404s)",
-  "access_note": "Crown Heights Caribbean restaurant at 611 Nostrand Ave. islandribhouse.com (the 'Venue Website' on Badslava) returns 404; no working own website. Badslava's Thu 7:30pm weekly open mic ('Thursdays', 7:30 signup, buy one item from the venue) is producer-side via book.kylekilledkyle@gmail.com \u2014 not on a venue-controlled page; held out of open-mics.json.",
+  "access_note": "Crown Heights Caribbean restaurant at 611 Nostrand Ave. islandribhouse.com (the 'Venue Website' on Badslava) returns 404; no working own website. Badslava's Thu 7:30pm weekly open mic ('Thursdays', 7:30 signup, buy one item from the venue) is producer-side via book.kylekilledkyle@gmail.com — not on a venue-controlled page; held out of open-mics.json.",
   "verified_at": "2026-09-14",
-  "note": "No own website. Held out \u2014 venue-controlled source for the open mic does not exist."
+  "note": "No own website. Held out — venue-controlled source for the open mic does not exist."
  },
  {
   "name": "Cool Beans! Coffee House",
@@ -1149,9 +1151,9 @@
   "badslava_url": "https://badslava.com/details.php?id=18240",
   "needs_review": false,
   "source_label": "Instagram only (@coolbeanscoffeespot); no own website",
-  "access_note": "Woodside coffee shop at 50-20 39th Ave. Both coolbeansnyc.com (returns 'Squarespace - Website Expired') and coolbeanscoffee.com (200 OK with 114 bytes of empty content) fail as a venue site. Badslava lists the free Thu 8pm weekly Pop Shop mic (sign-up via @popshopmic Instagram) \u2014 held out of open-mics.json since the venue itself does not list the mic.",
+  "access_note": "Woodside coffee shop at 50-20 39th Ave. Both coolbeansnyc.com (returns 'Squarespace - Website Expired') and coolbeanscoffee.com (200 OK with 114 bytes of empty content) fail as a venue site. Badslava lists the free Thu 8pm weekly Pop Shop mic (sign-up via @popshopmic Instagram) — held out of open-mics.json since the venue itself does not list the mic.",
   "verified_at": "2026-09-14",
-  "note": "No working venue website. Held out \u2014 venue-controlled source for the open mic does not exist."
+  "note": "No working venue website. Held out — venue-controlled source for the open mic does not exist."
  },
  {
   "name": "N&M's Pizza Bar",
@@ -1162,7 +1164,7 @@
   "needs_review": false,
   "website": "https://nmspizzabar.com/",
   "source_label": "Badslava venue URL (Cloudflare-gated; site did not render in the managed browser)",
-  "access_note": "Washington Heights pizza bar. Badslava's 'Bent Over Laughing' Thursday 8pm weekly open mic is producer-run (John Bent, bol.johnbent.com) \u2014 not on the venue's own site. Venue's https site is behind Cloudflare bot protection so no calendar_url was reached",
+  "access_note": "Washington Heights pizza bar. Badslava's 'Bent Over Laughing' Thursday 8pm weekly open mic is producer-run (John Bent, bol.johnbent.com) — not on the venue's own site. Venue's https site is behind Cloudflare bot protection so no calendar_url was reached",
   "verified_at": "2026-09-14",
   "note": "Address 2048 Amsterdam Ave confirmed by Badslava and the venue URL field. Washington Heights label assigned from the address."
  },
@@ -1174,7 +1176,7 @@
   "badslava_url": "https://badslava.com/details.php?id=52479",
   "needs_review": false,
   "source_label": "No venue-owned website (Badslava has no Venue Website field)",
-  "access_note": "Tompkinsville Mexican cantina. Badslava's 'The Shaolin Talent Show' Thursday 8pm weekly open mic is producer-run (via @theshaolinshow on Instagram, thecomedianformerlyknownassaul@gmail.com) \u2014 not on a venue-controlled page. Venue has no own website",
+  "access_note": "Tompkinsville Mexican cantina. Badslava's 'The Shaolin Talent Show' Thursday 8pm weekly open mic is producer-run (via @theshaolinshow on Instagram, thecomedianformerlyknownassaul@gmail.com) — not on a venue-controlled page. Venue has no own website",
   "verified_at": "2026-09-14",
   "note": "No venue-owned site; held out of open-mics.json. Tompkinsville label kept from address."
  },
@@ -1188,9 +1190,9 @@
   "website": "https://acoustikgardenlounge.com/",
   "calendar_url": "https://acoustikgardenlounge.com/events",
   "source_label": "Acoustik Garden Lounge events page (Wix; SOFAR NYC + AFROJAM Afrohouse parties)",
-  "access_note": "Bed-Stuy lounge and events venue (venue footer reads 'Acoustik Garden Lounge, 1515 Atlantic Ave, New York, New York 11213, United States'; zip 11213 keeps the Bed-Stuyvesant label). EVENTS page lists SOFAR NYC, AFROJAM - AFROHOUSE PARTY and birthday parties \u2014 Afrobeats/Amapiano/Soca/Reggae programming, no comedy. Hours 5pm-2am; Happy Hour Wed/Thu 9pm-2am. Badslava's Thursday 9pm weekly open mic ($10 minimum purchase) is producer-run via acoustikgardenevents@gmail.com \u2014 not on the venue's calendar",
+  "access_note": "Bed-Stuy lounge and events venue (venue footer reads 'Acoustik Garden Lounge, 1515 Atlantic Ave, New York, New York 11213, United States'; zip 11213 keeps the Bed-Stuyvesant label). EVENTS page lists SOFAR NYC, AFROJAM - AFROHOUSE PARTY and birthday parties — Afrobeats/Amapiano/Soca/Reggae programming, no comedy. Hours 5pm-2am; Happy Hour Wed/Thu 9pm-2am. Badslava's Thursday 9pm weekly open mic ($10 minimum purchase) is producer-run via acoustikgardenevents@gmail.com — not on the venue's calendar",
   "verified_at": "2026-09-14",
-  "note": "Corrected neighborhood from 'Crown Heights' to 'Bedford-Stuyvesant' \u2014 venue's own footer lists the 11213 zip; Atlantic Ave between Albany and Troy is Bed-Stuy, not Crown Heights."
+  "note": "Corrected neighborhood from 'Crown Heights' to 'Bedford-Stuyvesant' — venue's own footer lists the 11213 zip; Atlantic Ave between Albany and Troy is Bed-Stuy, not Crown Heights."
  },
  {
   "name": "Blind Barber",
@@ -1201,7 +1203,7 @@
   "needs_review": false,
   "website": "https://blindbarber.com/",
   "source_label": "Blind Barber East Village location page (barbershop + Backroom bar; no comedy listed)",
-  "access_note": "East Village barbershop-by-day / Backroom-speakeasy-by-night at 339 E 10th St (the venue's own location page confirms '339 E 10th St, New York, NY 10009'). Barbershop 10am-7pm Sun-Sat; Backroom 7pm-3am Thu, 7pm-4am Fri/Sat. Badslava's Thursday 9:30pm weekly open mic (sign-up 9:15, set length 5-7 min, two-drink minimum) is producer-run via @iamartur.music on Instagram \u2014 not listed on the venue's own page",
+  "access_note": "East Village barbershop-by-day / Backroom-speakeasy-by-night at 339 E 10th St (the venue's own location page confirms '339 E 10th St, New York, NY 10009'). Barbershop 10am-7pm Sun-Sat; Backroom 7pm-3am Thu, 7pm-4am Fri/Sat. Badslava's Thursday 9:30pm weekly open mic (sign-up 9:15, set length 5-7 min, two-drink minimum) is producer-run via @iamartur.music on Instagram — not listed on the venue's own page",
   "verified_at": "2026-09-14",
   "note": "Neighborhood East Village confirmed by the venue's own location page heading. Backroom has no comedy calendar on the venue's site."
  },
@@ -1213,9 +1215,9 @@
   "badslava_url": "https://badslava.com/details.php?id=54654",
   "needs_review": false,
   "source_label": "No venue-owned website (bibblebash.com does not resolve; Badslava lists no Venue Website)",
-  "access_note": "Bushwick venue at 1139 Jefferson Ave #1. bibblebash.com does not resolve (DNS lookup fails); Badslava has no Venue Website field. Badslava's 'Bubblebath Mic' Friday 10pm weekly open mic ($3 beers, sign-up by DM to @LaramieFlick, signup via slotted.co/bubblebath-mic, producer Instagram @bibcomedy) is producer-run \u2014 held out of open-mics.json. Venue has no own website",
+  "access_note": "Bushwick venue at 1139 Jefferson Ave #1. bibblebash.com does not resolve (DNS lookup fails); Badslava has no Venue Website field. Badslava's 'Bubblebath Mic' Friday 10pm weekly open mic ($3 beers, sign-up by DM to @LaramieFlick, signup via slotted.co/bubblebath-mic, producer Instagram @bibcomedy) is producer-run — held out of open-mics.json. Venue has no own website",
   "verified_at": "2026-09-14",
-  "note": "No working venue website (the bibblebash.com domain does not resolve). Held out \u2014 venue-controlled source for the open mic does not exist."
+  "note": "No working venue website (the bibblebash.com domain does not resolve). Held out — venue-controlled source for the open mic does not exist."
  },
  {
   "name": "Dacia Gallery",
@@ -1225,9 +1227,9 @@
   "badslava_url": "https://badslava.com/details.php?id=47994",
   "needs_review": false,
   "source_label": "Dacia Gallery home + Events page (visual art gallery; no comedy calendar)",
-  "access_note": "East Village visual art gallery at 621 E 11th Street, NY 10009 (corrected from '11st' typo in Badslava; confirmed by venue footer '621 E. 11th Street, New York, NY 10009'). The home page features the 16-year anniversary exhibition, an upcoming comic books/pop art exhibition, and a 'Superheroes, Comic Books & Pop Art Exhibition' call for submissions. Events page lists only 'ComIC BOOKS & COMIC ART WANTED' \u2014 visual art, not comedy. Badslava's monthly Friday 5pm 'Ladies Who Laugh' ($5 for 5 minutes) is producer-run via @femininelifestyleco / Jaiya at 646-229-6416 \u2014 not on the venue's site. Venue URL is http (no https), so website and calendar_url were not set (the check requires https)",
+  "access_note": "East Village visual art gallery at 621 E 11th Street, NY 10009 (corrected from '11st' typo in Badslava; confirmed by venue footer '621 E. 11th Street, New York, NY 10009'). The home page features the 16-year anniversary exhibition, an upcoming comic books/pop art exhibition, and a 'Superheroes, Comic Books & Pop Art Exhibition' call for submissions. Events page lists only 'ComIC BOOKS & COMIC ART WANTED' — visual art, not comedy. Badslava's monthly Friday 5pm 'Ladies Who Laugh' ($5 for 5 minutes) is producer-run via @femininelifestyleco / Jaiya at 646-229-6416 — not on the venue's site. Venue URL is http (no https), so website and calendar_url were not set (the check requires https)",
   "verified_at": "2026-09-14",
-  "note": "Corrected the Badslava address typo '621 East 11st' to '621 E 11th St'. Visual art gallery with no comedy on its own pages \u2014 held out of recurring.json and open-mics.json. No https site to link."
+  "note": "Corrected the Badslava address typo '621 East 11st' to '621 E 11th St'. Visual art gallery with no comedy on its own pages — held out of recurring.json and open-mics.json. No https site to link."
  },
  {
   "name": "Qahwah House - Broadway",
@@ -1237,7 +1239,7 @@
   "badslava_url": "https://badslava.com/details.php?id=61389",
   "needs_review": false,
   "source_label": "No venue-owned website (Badslava has no Venue Website field)",
-  "access_note": "Morningside Heights Yemeni coffee shop at 2869 Broadway (one block from the 110th St #1 train per Badslava's notes). Badslava lists no Venue Website; the parent Qahwah House brand has a site but the Broadway location does not publish its own calendar. Badslava's monthly Friday 6:30pm 'Morningside Comedy Open Mic' (free, buy a coffee to support the venue) is producer-run via @dr.max.sheppard on Instagram \u2014 not on a venue-controlled page",
+  "access_note": "Morningside Heights Yemeni coffee shop at 2869 Broadway (one block from the 110th St #1 train per Badslava's notes). Badslava lists no Venue Website; the parent Qahwah House brand has a site but the Broadway location does not publish its own calendar. Badslava's monthly Friday 6:30pm 'Morningside Comedy Open Mic' (free, buy a coffee to support the venue) is producer-run via @dr.max.sheppard on Instagram — not on a venue-controlled page",
   "verified_at": "2026-09-14",
   "note": "No venue-owned site for the Broadway location; held out of open-mics.json until the cafe or producer puts a calendar on its own page."
  },
@@ -1249,7 +1251,7 @@
   "badslava_url": "https://badslava.com/details.php?id=60894",
   "needs_review": false,
   "source_label": "No venue-owned website (Badslava has no Venue Website field)",
-  "access_note": "Boerum Hill cafe at 519 Atlantic Ave. Badslava lists no Venue Website; the venue does not publish its own calendar. Badslava's weekly Friday 7pm 'Summer Fridays' open mic (1-item minimum, weather permitting) is producer-run via @summerfridaysmic on Instagram \u2014 not on a venue-controlled page",
+  "access_note": "Boerum Hill cafe at 519 Atlantic Ave. Badslava lists no Venue Website; the venue does not publish its own calendar. Badslava's weekly Friday 7pm 'Summer Fridays' open mic (1-item minimum, weather permitting) is producer-run via @summerfridaysmic on Instagram — not on a venue-controlled page",
   "verified_at": "2026-09-14",
   "note": "No venue-owned site; held out of open-mics.json until the cafe puts a calendar on its own page."
  },
@@ -1258,12 +1260,12 @@
   "address": "172 Rivington St, Manhattan",
   "neighborhood": "Lower East Side",
   "borough": "Manhattan",
-  "badslava_url": "https://badslava.com/details.php?id=10052",
   "needs_review": false,
-  "source_label": "No working venue website (blackcatles.com does not resolve; Badslava lists the URL as http only)",
-  "access_note": "Lower East Side bar at 172 Rivington St. Badslava lists 'Venue Website: http://blackcatles.com/' (http, not https) but the domain does not resolve today (DNS lookup fails). Badslava's weekly Saturday 7pm 'Comedians On The Loose' open mic ($6 for 5-7 min, online reservation via comediansontheloose.com/open-mics, producer @cotlcomedy / sonja@comediansontheloose.com) is producer-run \u2014 held out of open-mics.json. Venue has no working own website",
-  "verified_at": "2026-09-14",
-  "note": "No working venue website (blackcatles.com domain does not resolve). Held out \u2014 venue-controlled source for the open mic does not exist."
+  "source_label": "The producer's Eventbrite organizer page (Danny Palmer) and the room's own Instagram bio; the venue's own domain does not resolve",
+  "access_note": "Lower East Side bar at 172 Rivington St that turns into a comedy room on Friday nights. The venue's own domain does not resolve (DNS lookup fails), so the producer's Eventbrite organizer page is the source of record for the weekly Friday show and its lineups.",
+  "verified_at": "2026-11-24",
+  "note": "Black Cat Fridays confirmed on the producer's Eventbrite listing, which gives the room address, the 8:30pm doors and the Black Friday lineup. The venue's own website does not resolve, so it stays a producer-ticketed room.",
+  "calendar_url": "https://www.eventbrite.com/o/15323627756"
  },
  {
   "name": "Kellogg's Diner",
@@ -1274,7 +1276,7 @@
   "access_note": "Williamsburg diner at 518 Metropolitan Ave, Brooklyn NY 11211 (zip 11211, Williamsburg per Yelp and Google Maps). The .com domain is currently a parked/squatter site; the show is run by outside producers Danny Metz & Jackson Colvin and ticketed via Eventbrite (organizer page: danny-metz-jackson-colvin-108104564651). Show: 'Standup Comedy (After Dark) at Kellogg's Diner' every Wednesday at 11pm, doors 10:30pm, $10, no item minimum, late-night back-room showcase",
   "eventbrite_organizer": "https://www.eventbrite.com/o/danny-metz-jackson-colvin-108104564651",
   "verified_at": "2026-09-15",
-  "note": "Venue added from Reddit leads (r/nycevents + r/williamsburg 2026-09-15) and the Eventbrite listing's venue-supplied address. No working own website \u2014 the .com is parked."
+  "note": "Venue added from Reddit leads (r/nycevents + r/williamsburg 2026-09-15) and the Eventbrite listing's venue-supplied address. No working own website — the .com is parked."
  },
  {
   "name": "Balance Arts Center",
@@ -1286,9 +1288,9 @@
   "website": "https://www.balanceartscenter.com/",
   "calendar_url": "https://www.balanceartscenter.com/calendar",
   "source_label": "Balance Arts Center home + Classes & Workshops Calendar (Alexander Technique training center)",
-  "access_note": "Chelsea Alexander Technique training center at 151 West 30th Street, NY 10001, 3rd floor (the venue's own calendar page confirms the address). The site's own September 2026 calendar lists only Alexander Technique classes (Principles Level I Certification Sep 19-20, Group Class Tuesdays 7-8:30pm, Creative Flow Class Series Mondays 8:30-10am). The /study-with-us page lists Space Rental \u2014 Badslava's 'Night Cap' Saturday 8pm weekly open mic ($5 + one-drink minimum) is producer-run via Laugh Pack Productions (thelaughpackproductions@gmail.com, Eventbrite tickets), not a venue-run comedy night. The 3rd-floor room is rented out for one-off productions rather than a fixed weekly showcase",
+  "access_note": "Chelsea Alexander Technique training center at 151 West 30th Street, NY 10001, 3rd floor (the venue's own calendar page confirms the address). The site's own September 2026 calendar lists only Alexander Technique classes (Principles Level I Certification Sep 19-20, Group Class Tuesdays 7-8:30pm, Creative Flow Class Series Mondays 8:30-10am). The /study-with-us page lists Space Rental — Badslava's 'Night Cap' Saturday 8pm weekly open mic ($5 + one-drink minimum) is producer-run via Laugh Pack Productions (thelaughpackproductions@gmail.com, Eventbrite tickets), not a venue-run comedy night. The 3rd-floor room is rented out for one-off productions rather than a fixed weekly showcase",
   "verified_at": "2026-09-14",
-  "note": "Venue is an Alexander Technique school, not a comedy club \u2014 held out of recurring.json. The weekly Night Cap is a producer rental, not a venue showcase."
+  "note": "Venue is an Alexander Technique school, not a comedy club — held out of recurring.json. The weekly Night Cap is a producer rental, not a venue showcase."
  },
  {
   "name": "Beacon Theatre",
@@ -1658,10 +1660,10 @@
   "calendar_url": "https://www.barbayeux.com/comedy",
   "website": "https://www.barbayeux.com/",
   "source_label": "Venue comedy page and contact page",
-  "access_note": "Cocktail bar and live-jazz room on Nostrand Ave; the room\u2019s own site describes it as \"Live Jazz in Prospect Lefferts Gardens\". It posts stand-up on its /comedy page (Sundays 8:30pm, produced by Post Moves Comedy); the jazz calendar is at /jazz. Address and hours from the contact page.",
+  "access_note": "Cocktail bar and live-jazz room on Nostrand Ave; the room’s own site describes it as \"Live Jazz in Prospect Lefferts Gardens\". It posts stand-up on its /comedy page (Sundays 8:30pm, produced by Post Moves Comedy); the jazz calendar is at /jazz. Address and hours from the contact page.",
   "eventbrite_organizer": "https://www.eventbrite.com/o/67515401553",
   "verified_at": "2026-10-27",
-  "note": "Room added from a Reddit lead (r/crownheights, Oct 2026) and confirmed on the room\u2019s own comedy page plus the producer\u2019s Eventbrite organizer page, which lists the free Sunday 8:30pm show at this address."
+  "note": "Room added from a Reddit lead (r/crownheights, Oct 2026) and confirmed on the room’s own comedy page plus the producer’s Eventbrite organizer page, which lists the free Sunday 8:30pm show at this address."
  },
  {
   "name": "Rose's R&R Bar",
