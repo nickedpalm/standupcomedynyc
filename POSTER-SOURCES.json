@@ -2267,7 +2267,7 @@
  },
  {
   "event_id": "judy-gold-nycc-2026-11-24",
-  "src": "/assets/posters/judy-gold-nycc-2026-11-24.jpg",
+  "src": "/assets/posters/archive/judy-gold-nycc-2026-11-24.jpg",
   "width": 1040,
   "height": 660,
   "source_url": "https://newyorkcomedyclub.com/events/judy-gold-2026-11-24193000",
@@ -2278,7 +2278,8 @@
   "retrieved_at": "2026-10-30",
   "bytes": 49215,
   "sha256": "d2ecb4858c6924a6657710a4b10148db1b9be482700f2f400713eeae5774ea54",
-  "reuse_status": "Official promotional artwork; no separate reuse license identified. Local review draft only."
+  "reuse_status": "Official promotional artwork; no separate reuse license identified. Local review draft only.",
+  "archived": true
  },
  {
   "event_id": "keegan-tindall-colin-armstrong-flop-house-2026-11-15",

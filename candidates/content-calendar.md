@@ -1,4 +1,4 @@
-# Content calendar — generated 2026-11-24
+# Content calendar — generated 2026-11-25
 
 Six weeks ahead from the board. Regenerated on every build; edit the data, not this file.
 
@@ -13,12 +13,8 @@ Six weeks ahead from the board. Regenerated on every build; edit the data, not t
 
 Ranked 24; run 2, reuse 4, skip 18; ~198,000 tokens saved. No recent data: Black Cat Fridays.
 
-## Week 1: Nov 24 to Nov 30 — 38 picks — 18 without artwork · 31 Eventbrite leads not yet reviewed
+## Week 1: Nov 25 to Dec 1 — 39 picks — 15 without artwork · 30 Eventbrite leads not yet reviewed
 
-- Tue Nov 24 7pm — **Jacqueline Novak** at The Bell House · NO ARTWORK
-- Tue Nov 24 7:30pm — **Judy Gold** at New York Comedy Club (Upper West Side)
-- Tue Nov 24 8pm — **Tom Van Horn, Tobin Miller, Meghan Hanley, Jason Choi, Monroe Martin, more!** at Comic Strip Live · NO ARTWORK
-- Tue Nov 24 9:30pm · doors 9pm — **The Gong Show - Hosted by Robert Punchur** at St. Marks Comedy Club · NO ARTWORK
 - Wed Nov 25 7:30pm · doors 7pm — **After Work After Class Laughs with Alexis Carabano (HBO Max) and friendsssss** at St. Marks Comedy Club · NO ARTWORK
 - Wed Nov 25 7:30pm — **A Fundraiser for Flatbush** at Brooklyn Improv
 - Wed Nov 25 7:30pm — **Pizzazz with Gary Gulman** at Union Hall · SOLD OUT · heat 100
@@ -53,28 +49,28 @@ Ranked 24; run 2, reuse 4, skip 18; ~198,000 tokens saved. No recent data: Black
 - Mon Nov 30 8pm — **The Peter Stewart Show! With Nick Tilleli!** at Comic Strip Live · NO ARTWORK
 - Mon Nov 30 8pm — **Stamptown** at The Bell House
 - Mon Nov 30 10pm — **Tommy Armstrong's last show before he goes on tour** at Union Hall
-
-  Leads to review:
-  - Tue Nov 24 7pm — Science Tonight! - Ooops All Reporter Sketches at Caveat · from $18.76 · has artwork
-  - Tue Nov 24 7:30pm — PRETTY  MAJOR Hosted by Jay Jurden at Union Hall · from $15.92 · has artwork
-  - Tue Nov 24 8pm — Dinner for One Presents: Friendsgiving at Littlefield · from $18.71 · has artwork
-  - Tue Nov 24 8pm — The Facebook -  A Comedy Show Whose Name Was Available at Flop House Comedy · from $17.85 · has artwork
-  - Tue Nov 24 9:30pm — CROWD WORKIN COMEDY SHOW at Flop House Comedy · from $12.51 · has artwork
-  - Wed Nov 25 8pm — OnlyFriends at Flop House Comedy · from $12.51 · has artwork
-  - Wed Nov 25 9:31pm — Grapevine Comedy - NYC Stand Up at Flop House Comedy · from $12.51 · has artwork
-  - Fri Nov 27 7:30pm — Thankful for Laughs with Jenny Gorelick and Friends at Union Hall · from $15.92 · has artwork
-
-## Week 2: Dec 1 to Dec 7 — 26 picks — 5 without artwork · 25 Eventbrite leads not yet reviewed
-
 - Tue Dec 1 7pm · doors 6pm — **Jeff Scheen Special Taping Featuring Jeff Arcuri** at Littlefield · going fast · heat 25
 - Tue Dec 1 7:30pm · doors 7pm — **A TRUE YORK COMEDY EXPERIENCE** at St. Marks Comedy Club
 - Tue Dec 1 7:30pm · doors 7pm — **Ismael Loutfi: Heavenly Baba** at Union Hall
 - Tue Dec 1 7:30pm — **I Hate Capitalism: Comedy Special Taping** at Friends and Lovers
 - Tue Dec 1 8pm — **Not Ripe Bananas** at West Side Comedy Club
-- Wed Dec 2 7:30pm — **Ania Magliano: Peach Fuzz** at The Bell House · heat 32
+
+  Leads to review:
+  - Wed Nov 25 8pm — OnlyFriends at Flop House Comedy · from $12.51 · has artwork
+  - Wed Nov 25 9:31pm — Grapevine Comedy - NYC Stand Up at Flop House Comedy · from $12.51 · has artwork
+  - Fri Nov 27 7:30pm — Thankful for Laughs with Jenny Gorelick and Friends at Union Hall · from $15.92 · has artwork
+  - Fri Nov 27 8pm — Tom Van Horn, Elyse DeLucci, Jason Salmon, & MORE! at Comic Strip Live · from $25.71 · has artwork
+  - Fri Nov 27 8pm — The Prime Time Show at Flop House | Stand-Up Comedy in Williamsburg at Flop House Comedy · from $7.18 · has artwork
+  - Fri Nov 27 8pm — FUNNY PEOPLE Live | Stand-Up Comedy on the Upper East Side at Upper East Side Comedy Club · from $12 · has artwork
+  - Fri Nov 27 9:30pm — The Late Show at Flop House | Stand-Up Comedy in Williamsburg at Flop House Comedy · from $23.18 · has artwork
+  - Fri Nov 27 10pm — Friday Night Comedy | Late Night Stand-Up on the Upper East Side at Upper East Side Comedy Club · from $10 · has artwork
+
+## Week 2: Dec 2 to Dec 8 — 26 picks — 6 without artwork · 21 Eventbrite leads not yet reviewed
+
+- Wed Dec 2 7:30pm — **Ania Magliano: Peach Fuzz** at The Bell House · heat 20
 - Wed Dec 2 7:30pm · doors 7pm — **Cold Plunge with Kurt Braunohler** at Union Hall
 - Wed Dec 2 7:30pm — **Gina Brillon: Villan Era (The Rehearsal)** at Brooklyn Improv
-- Thu Dec 3 7:30pm — **Ania Magliano: Peach Fuzz** at The Bell House · heat 32
+- Thu Dec 3 7:30pm — **Ania Magliano: Peach Fuzz** at The Bell House · heat 20
 - Thu Dec 3 8:30pm · doors 8pm — **Date Night Comedy Show x2** at St. Marks Comedy Club · NO ARTWORK
 - Thu Dec 3 8:30pm · doors 8pm — **Landline Comedy at Wild East Brewing** at Wild East Brewing Co.
 - Fri Dec 4 7pm — **Demetri Martin: Standup Comedy for Christmas** at The Bell House · SOLD OUT · heat 100
@@ -92,24 +88,24 @@ Ranked 24; run 2, reuse 4, skip 18; ~198,000 tokens saved. No recent data: Black
 - Sun Dec 6 7:30pm · doors 7pm — **Jenny & Alex Try New Jokes** at Union Hall
 - Mon Dec 7 8pm · doors 7pm — **R&B Karaoke and Comedy** at Comedy In Harlem · NO ARTWORK
 - Mon Dec 7 9:30pm · doors 9pm — **A TRUE YORK COMEDY EXPERIENCE** at St. Marks Comedy Club · NO ARTWORK
-
-  Leads to review:
-  - Tue Dec 1 7pm — Good Work Live! at Caveat · from $24.41 · has artwork
-  - Tue Dec 1 8pm — Tobin Miller, Jason Choi, Nick Tilleli, Vanessa Hollingshead, & more! at Comic Strip Live · from $25.71 · has artwork
-  - Tue Dec 1 9:30pm — Sagematch at Caveat · from $18.76 · has artwork
-  - Tue Dec 1 9:30pm — Jeff Scheen Special Taping Featuring Jeff Arcuri at Littlefield · from $29.5 · has artwork
-  - Wed Dec 2 7pm — Next Slide Please at Caveat · from $18.76 · has artwork
-  - Wed Dec 2 8pm — REAL-ASIAN-SHIPS: The Dating Show For Asian Americans at Littlefield · from $18.71 · has artwork
-  - Wed Dec 2 8pm — Barry Weintraub, Tobin Miller, Subhah Agarwal, Jordan Rock, Jason Choi, +! at Comic Strip Live · from $25.71 · has artwork
-  - Thu Dec 3 7pm — Nerd Nite at Caveat · from $20.29 · has artwork
-
-## Week 3: Dec 8 to Dec 14 — 25 picks — 11 without artwork · 2 Eventbrite leads not yet reviewed
-
 - Tue Dec 8 7:30pm — **Alyce Chan** at New York Comedy Club (Upper West Side) · SOLD OUT · heat 100
 - Tue Dec 8 7:30pm — **The Silver Lining with Gianmarco Soresi** at The Bell House
 - Tue Dec 8 8pm — **Not Ripe Bananas** at West Side Comedy Club
 - Tue Dec 8 8pm · doors 7pm — **PUNDERDOME: NYC's Comedy PUN-SLAM Competition** at Littlefield · going fast · heat 25
 - Tue Dec 8 9:30pm · doors 9pm — **The Gong Show - Hosted by Robert Punchur** at St. Marks Comedy Club · NO ARTWORK
+
+  Leads to review:
+  - Wed Dec 2 7pm — Next Slide Please at Caveat · from $18.76 · has artwork
+  - Wed Dec 2 8pm — REAL-ASIAN-SHIPS: The Dating Show For Asian Americans at Littlefield · from $18.71 · has artwork
+  - Wed Dec 2 8pm — Barry Weintraub, Tobin Miller, Subhah Agarwal, Jordan Rock, Jason Choi, +! at Comic Strip Live · from $25.71 · has artwork
+  - Thu Dec 3 7pm — Nerd Nite at Caveat · from $20.29 · has artwork
+  - Thu Dec 3 7:30pm — Dear Kiko: The Musical Advice Show at Littlefield · from $26.42 · has artwork
+  - Thu Dec 3 8pm — The Peter Stewart Show! Comedy Contest FINALS at Comic Strip Live · from $25.71 · has artwork
+  - Thu Dec 3 8pm — Stand-Up Comedy NYC | NYC's Best Weekly Thursday Show at Upper East Side Comedy Club · from $12 · has artwork
+  - Thu Dec 3 8:30pm — Landline Comedy at Wild East Brewing at Wild East Brewing Co. · from $0 · has artwork
+
+## Week 3: Dec 9 to Dec 15 — 23 picks — 11 without artwork · 2 Eventbrite leads not yet reviewed
+
 - Wed Dec 9 7pm — **Joe DeVito Graduation Show** at West Side Comedy Club
 - Wed Dec 9 7:30pm · doors 7pm — **Down Bad Comedy Show** at St. Marks Comedy Club · NO ARTWORK
 - Wed Dec 9 9:30pm · doors 9pm — **DYLAN'S LAST SHOW EVER** at St. Marks Comedy Club
@@ -130,16 +126,16 @@ Ranked 24; run 2, reuse 4, skip 18; ~198,000 tokens saved. No recent data: Black
 - Sun Dec 13 7:30pm — **John Oliver & Seth Meyers** at Beacon Theatre
 - Mon Dec 14 7:30pm · doors 7pm — **$3 Monday Night StandUp Show** at St. Marks Comedy Club · NO ARTWORK
 - Mon Dec 14 10pm · doors 9:30pm — **Ralph Barbosa** at The Bell House · SOLD OUT · heat 100
+- Tue Dec 15 7:30pm — **Double Edged: Paula J. Leon and Mario Pisano** at New York Comedy Club (Upper West Side) · NO ARTWORK
+- Tue Dec 15 7:30pm — **How Nick Stole Christmas: A Christmas Comedy Cabaret** at The Bell House
+- Tue Dec 15 8pm — **Not Ripe Bananas** at West Side Comedy Club
 
   Leads to review:
   - Wed Dec 9 8pm — Mortified NYC Live Show at Littlefield · from $14.86 · has artwork
   - Sun Dec 13 8pm — Dinner for One Presents: PRESENTS! at Littlefield · from $18.71 · has artwork
 
-## Week 4: Dec 15 to Dec 21 — 22 picks — 14 without artwork · 1 Eventbrite lead not yet reviewed
+## Week 4: Dec 16 to Dec 22 — 21 picks — 14 without artwork · 1 Eventbrite lead not yet reviewed
 
-- Tue Dec 15 7:30pm — **Double Edged: Paula J. Leon and Mario Pisano** at New York Comedy Club (Upper West Side) · NO ARTWORK
-- Tue Dec 15 7:30pm — **How Nick Stole Christmas: A Christmas Comedy Cabaret** at The Bell House
-- Tue Dec 15 8pm — **Not Ripe Bananas** at West Side Comedy Club
 - Wed Dec 16 7:30pm — **Down Bad Comedy Show** at St. Marks Comedy Club · NO ARTWORK
 - Wed Dec 16 8pm — **Good Eggs Presented by Mark Normand, Gary Vider, Matt Ruby** at New York Comedy Club (East Village)
 - Thu Dec 17 7:30pm — **Don't Stop I'm About to Jazz** at The Bell House
@@ -159,14 +155,14 @@ Ranked 24; run 2, reuse 4, skip 18; ~198,000 tokens saved. No recent data: Black
 - Sun Dec 20 7:30pm · doors 7pm — **Sunday Funday** at St. Marks Comedy Club · NO ARTWORK
 - Mon Dec 21 8pm · doors 7pm — **R&B Karaoke and Comedy Hosted by Monifah and Jamie Roberts** at Comedy In Harlem · NO ARTWORK
 - Mon Dec 21 9:30pm · doors 9pm — **A TRUE YORK COMEDY EXPERIENCE** at St. Marks Comedy Club · NO ARTWORK
+- Tue Dec 22 7:30pm · doors 7pm — **A TRUE YORK COMEDY EXPERIENCE** at St. Marks Comedy Club · NO ARTWORK
+- Tue Dec 22 8pm — **Not Ripe Bananas** at West Side Comedy Club
 
   Leads to review:
   - Thu Dec 17 8:30pm — Landline Comedy at Wild East Brewing at Wild East Brewing Co. · from $0 · has artwork
 
-## Week 5: Dec 22 to Dec 28 — 16 picks — 9 without artwork
+## Week 5: Dec 23 to Dec 29 — 16 picks — 8 without artwork
 
-- Tue Dec 22 7:30pm · doors 7pm — **A TRUE YORK COMEDY EXPERIENCE** at St. Marks Comedy Club · NO ARTWORK
-- Tue Dec 22 8pm — **Not Ripe Bananas** at West Side Comedy Club
 - Wed Dec 23 7:30pm · doors 7pm — **Pizzazz with Gary Gulman** at Union Hall
 - Wed Dec 23 8pm — **8PM Comedy Show at The Grisly Pear Greenwich Village** at The Grisly Pear · NO ARTWORK
 - Thu Dec 24 7pm — **Aruba Ray the Red Nosed Reindeer: Xmas Eve Stand-Up for All** at New York Comedy Club (East Village)
@@ -181,11 +177,11 @@ Ranked 24; run 2, reuse 4, skip 18; ~198,000 tokens saved. No recent data: Black
 - Sun Dec 27 8pm — **8PM Comedy Show at The Grisly Pear Greenwich Village** at The Grisly Pear · NO ARTWORK
 - Sun Dec 27 9:30pm · doors 9pm — **Sunday Late Comedy Show** at St. Marks Comedy Club · NO ARTWORK
 - Mon Dec 28 7:30pm · doors 7pm — **Famous Last Words** at Union Hall
-
-## Week 6: Dec 29 to Jan 4 — 12 picks — 6 without artwork
-
 - Tue Dec 29 7:30pm · doors 7pm — **PRETTY MAJOR Hosted by Jay Jurden** at Union Hall
 - Tue Dec 29 8pm — **Not Ripe Bananas** at West Side Comedy Club
+
+## Week 6: Dec 30 to Jan 5 — 10 picks — 6 without artwork
+
 - Wed Dec 30 7:30pm · doors 7pm — **A TRUE YORK COMEDY EXPERIENCE** at St. Marks Comedy Club · NO ARTWORK
 - Wed Dec 30 8pm — **8PM Comedy Show at The Grisly Pear Greenwich Village** at The Grisly Pear · NO ARTWORK
 - Wed Dec 30 8pm — **Wednesday Favs** at West Side Comedy Club
