@@ -536,3 +536,30 @@ Generated from `npm run heat` + `npm run research-plan` (last30days for the two 
 ## Demand tags read today
 - **Sold out:** Jessica Kirson (New York Comedy Club Midtown, Nov 23), Pizzazz with Gary Gulman (Union Hall, Nov 25), Jacqueline Novak (The Bell House, Nov 23), Demetri Martin (The Bell House, Dec 4 and Dec 5), ISMO: Live! (Brooklyn Improv, Dec 4), Shafi and Friends in NYC (Flop House Comedy, Dec 4), Alyce Chan (New York Comedy Club Upper West Side, Dec 8), Gavin Matts: (failure) (Union Hall, Dec 9), Ralph Barbosa (The Bell House, Dec 14).
 - **Going fast:** The Pachelbel Rant 20th Anniversary Show (Caveat, Nov 23) — a second show the same night at the same room. Ania Magliano's two Peach Fuzz sets sit at heat 32 on Wikipedia traffic (1,868 views a day) and two Reddit threads, just under the going-fast floor.
+
+# Heat notes — 2026-11-25
+
+Generated from `npm run heat` + `npm run research-plan` (last30days for the names under `run`; reuse cached notes for the ones under `reuse`).
+
+## Rankings
+- 21 performers ranked from static data
+- Run 0, reuse 6 cached, skip 15
+- ~189,000 tokens saved from the research-plan
+
+## Run notes
+- None. No name cleared the bar for a fresh run today: the four top-ranked performers are all sold out (research cannot change the call) and the next six already had notes less than four days old. The plan was left with an empty `run` list.
+
+## Reuse notes (already cached under 7d)
+- **Ania Magliano** (The Bell House, Dec 2 and Dec 3): two Reddit threads in 30 days, 135 upvotes between them, and the loudest is an SNL UK Rose d'Or nomination thread rather than either Bell House date, so her two Peach Fuzz sets rest on the Bell House's own calendar.
+- **Devon Walker** (Union Hall, Nov 28): nothing in 30 days — Reddit returned zero posts and Hacker News nothing for the name, so the late show rests on the room's own listing and the ticket page.
+- **Ismael Loutfi** (Union Hall, Dec 1): nothing in 30 days — Reddit returned HTTP 404 and Hacker News had zero hits for the name, so his set rests on the room's own calendar and the ticket page.
+- **Black Cat Fridays** (Black Cat LES, Nov 27): nothing on the show in 30 days — Reddit returned HTTP 404 and every Hacker News hit was a false positive on the words black, cat or Friday, so the bill rests on the producer's own Eventbrite listing.
+- **Immigrant Jam** (Caveat, Dec 4 and Jan 1): nothing on the series in 30 days — Reddit came back HTTP 404 and Hacker News found no mentions, so the Caveat dates rest on the room's own show pages and its ticket listing.
+- **Charlie Bardey** (Union Hall, Nov 30): nothing in 30 days — Reddit returned HTTP 404 and Hacker News had no mentions, so the showcase rests on the room's own calendar.
+
+## Ranked on schedule alone (no recent data)
+- None today. Every ranked name had either a cached note under seven days or a sold-out show that no research would change.
+
+## Demand tags read today
+- **Sold out:** Pizzazz with Gary Gulman (Union Hall, Nov 25), Demetri Martin: Standup Comedy for Christmas (The Bell House, Dec 4 and Dec 5), ISMO: Live! (Brooklyn Improv, Dec 4), Alyce Chan (New York Comedy Club Upper West Side, Dec 8), Gavin Matts: (failure) (Union Hall, Dec 9), Ralph Barbosa (The Bell House, Dec 14).
+- **Going fast:** Demetri Martin (a second show the same night at the same room) and Ania Magliano's two Peach Fuzz sets at heat 37 on Wikipedia traffic (1,727 views a day) and three Reddit threads.

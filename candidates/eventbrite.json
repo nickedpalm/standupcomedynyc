@@ -1,5 +1,5 @@
 {
- "retrieved_at": "2026-11-24T11:03:00.932Z",
+ "retrieved_at": "2026-11-25T11:01:37.887Z",
  "note": "Leads from Eventbrite organizer pages of registered rooms. Open the event page before adding a pick; artwork needs a POSTER-SOURCES record.",
  "organizers": [
   {
@@ -73,120 +73,6 @@
  ],
  "events": [
   {
-   "venue": "Caveat",
-   "neighborhood": "Lower East Side",
-   "organizer": "https://www.eventbrite.com/o/caveat-13580085802",
-   "title": "Science Tonight! - Ooops All Reporter Sketches",
-   "date": "2026-11-24",
-   "time": "7pm",
-   "starts_at": "2026-11-24T19:00:00-05:00",
-   "ends_at": "2026-11-24T21:00:00-05:00",
-   "location_name": "Caveat",
-   "location_address": "21 A Clinton Street, New York, NY 10002, New York",
-   "price_from": 18.76,
-   "url": "https://www.eventbrite.com/e/science-tonight-ooops-all-reporter-sketches-tickets-2004092039238",
-   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1196886107%2F207096185123%2F1%2Foriginal.20261029-203048?w=940&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C1242%2C621&s=c35568da87bfb94ee53b93a23df5e5b0",
-   "description": "A late-night comedy talk show with guests scientists who are prepared, and improvisers who are not, to talk about science.",
-   "venue_name_matches": true,
-   "already_a_pick": false,
-   "seen_before": true
-  },
-  {
-   "venue": "Union Hall",
-   "neighborhood": "Park Slope",
-   "organizer": "https://www.eventbrite.com/o/union-hall-17899496497",
-   "title": "PRETTY  MAJOR Hosted by Jay Jurden",
-   "date": "2026-11-24",
-   "time": "7:30pm",
-   "starts_at": "2026-11-24T19:30:00-05:00",
-   "ends_at": "2026-11-24T21:00:00-05:00",
-   "location_name": "Union Hall",
-   "location_address": "702 Union St., Brooklyn, NY 11215, Brooklyn",
-   "price_from": 15.92,
-   "url": "https://www.eventbrite.com/e/pretty-major-hosted-by-jay-jurden-tickets-2003946945258",
-   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1127766923%2F282041210522%2F1%2Foriginal.20250918-031114?crop=focalpoint&fit=crop&w=940&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=947b2715fe8cfa0ac5ab18e8ce99319c",
-   "description": "PRETTY MAJOR - Tuesday, November 24 - 7:00pm Doors / 7:30pm Show",
-   "venue_name_matches": true,
-   "already_a_pick": false,
-   "seen_before": true
-  },
-  {
-   "venue": "Littlefield",
-   "neighborhood": "Gowanus",
-   "organizer": "https://www.eventbrite.com/o/littlefield-18046024060",
-   "title": "Dinner for One Presents: Friendsgiving",
-   "date": "2026-11-24",
-   "time": "8pm",
-   "starts_at": "2026-11-24T20:00:00-05:00",
-   "ends_at": "2026-11-24",
-   "location_name": "littlefield",
-   "location_address": "635 Sackett Street, Brooklyn, NY 11217, Brooklyn",
-   "price_from": 18.71,
-   "url": "https://www.eventbrite.com/e/dinner-for-one-presents-friendsgiving-tickets-2004028401897",
-   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1197373864%2F3019219475971%2F1%2Foriginal.20261105-194547?crop=focalpoint&fit=crop&w=940&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=b49a29e7101e6a2dbca6af4a1c0d8e15",
-   "description": "Sketch troupe Dinner for One invites all their favorite sketch & standup comedians to share the stage for a silly Thanksgiving extravaganza!",
-   "venue_name_matches": true,
-   "already_a_pick": false,
-   "seen_before": true
-  },
-  {
-   "venue": "Comic Strip Live",
-   "neighborhood": "Upper East Side",
-   "organizer": "https://www.eventbrite.com/o/comic-strip-live-comedy-club-8100188167",
-   "title": "Tom Van Horn, Tobin Miller, Meghan Hanley, Jason Choi, Monroe Martin, more!",
-   "date": "2026-11-24",
-   "time": "8pm",
-   "starts_at": "2026-11-24T20:00:00-05:00",
-   "ends_at": "2026-11-24",
-   "location_name": "Comic Strip Live",
-   "location_address": "1568 2nd Ave, New York, NY 10028, New York",
-   "price_from": 25.71,
-   "url": "https://www.eventbrite.com/e/tom-van-horn-tobin-miller-meghan-hanley-jason-choi-monroe-martin-more-tickets-2003841761651",
-   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1196474221%2F136153380524%2F1%2Foriginal.20261023-212552?crop=focalpoint&fit=crop&w=940&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=7ff09c44e6df00bb2b5fbeff8978f2ea",
-   "description": "Be part of history, celebrating 50 years of Comedy at the World Comic Strip! Comedians from, HBO, The Tonight Show, SNL & More ~",
-   "venue_name_matches": true,
-   "already_a_pick": true,
-   "seen_before": true
-  },
-  {
-   "venue": "Flop House Comedy",
-   "neighborhood": "Williamsburg",
-   "organizer": "https://www.eventbrite.com/o/flop-house-comedy-74484939183",
-   "title": "The Facebook -  A Comedy Show Whose Name Was Available",
-   "date": "2026-11-24",
-   "time": "8pm",
-   "starts_at": "2026-11-24T20:00:00-05:00",
-   "ends_at": "2026-11-24T21:30:00-05:00",
-   "location_name": "362 Grand St",
-   "location_address": "362 Grand Street, Brooklyn, NY 11211, Brooklyn",
-   "price_from": 17.85,
-   "url": "https://www.eventbrite.com/e/the-facebook-a-comedy-show-whose-name-was-available-tickets-2003303545833",
-   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1190674456%2F369144123539%2F1%2Foriginal.20260810-012953?w=940&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C1280%2C640&s=77485cebe74e6ef0cff17617c2c02586",
-   "description": "A night of new material hosted by Dan Toomey, Grace Lobo, Olivia, Witt, and Hayden Arrington",
-   "venue_name_matches": false,
-   "already_a_pick": false,
-   "seen_before": true
-  },
-  {
-   "venue": "Flop House Comedy",
-   "neighborhood": "Williamsburg",
-   "organizer": "https://www.eventbrite.com/o/flop-house-comedy-74484939183",
-   "title": "CROWD WORKIN COMEDY SHOW",
-   "date": "2026-11-24",
-   "time": "9:30pm",
-   "starts_at": "2026-11-24T21:30:00-05:00",
-   "ends_at": "2026-11-24T23:00:00-05:00",
-   "location_name": "362 Grand St",
-   "location_address": "362 Grand Street, Brooklyn, NY 11211, Brooklyn",
-   "price_from": 12.51,
-   "url": "https://www.eventbrite.com/e/crowd-workin-comedy-show-tickets-2004870558811",
-   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1191910765%2F369144123539%2F1%2Foriginal.20260826-020537?w=940&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C1280%2C640&s=ec33eacf7ab261408b07e1c95c812f71",
-   "description": "Get ready for a wild night of unscripted comedy where you might just be part of the act CROWD WORKIN is coming to Flophouse with fast-paced",
-   "venue_name_matches": false,
-   "already_a_pick": false,
-   "seen_before": true
-  },
-  {
    "venue": "Union Hall",
    "neighborhood": "Park Slope",
    "organizer": "https://www.eventbrite.com/o/union-hall-17899496497",
@@ -209,7 +95,7 @@
    "venue": "Comic Strip Live",
    "neighborhood": "Upper East Side",
    "organizer": "https://www.eventbrite.com/o/comic-strip-live-comedy-club-8100188167",
-   "title": "Sheba Mason, Michele Balan, Tobin Miller, Elyse DeLucci, Matt Pavich, more!",
+   "title": "Sheba Mason, Michele Balan, Harrison Greenbaum, Elyse DeLucci, and more!",
    "date": "2026-11-25",
    "time": "8pm",
    "starts_at": "2026-11-25T20:00:00-05:00",
@@ -217,12 +103,12 @@
    "location_name": "Comic Strip Live",
    "location_address": "1568 2nd Ave, New York, NY 10028, New York",
    "price_from": 25.71,
-   "url": "https://www.eventbrite.com/e/sheba-mason-michele-balan-tobin-miller-elyse-delucci-matt-pavich-more-tickets-2003841765663",
+   "url": "https://www.eventbrite.com/e/sheba-mason-michele-balan-harrison-greenbaum-elyse-delucci-and-more-tickets-2003841765663",
    "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1196474232%2F136153380524%2F1%2Foriginal.20261023-212603?crop=focalpoint&fit=crop&w=940&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=a172932b50ba40d55d639fa8b46adf9f",
    "description": "Be part of history, celebrating 50 years of Comedy at the World Comic Strip! Comedians from, HBO, The Tonight Show, SNL & More ~",
    "venue_name_matches": true,
    "already_a_pick": true,
-   "seen_before": true
+   "seen_before": false
   },
   {
    "venue": "Flop House Comedy",
@@ -259,7 +145,7 @@
    "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1188394340%2F369144123539%2F1%2Foriginal.20260707-184751?w=940&auto=format%2Ccompress&q=75&sharp=10&s=38a31e051ad7f3832eb29415882a480b",
    "description": "Step into the heart of Williamsburg every Wednesday night for Grapevine Comedy, where the city’s brightest up-and-coming comedians mix it up",
    "venue_name_matches": false,
-   "already_a_pick": false,
+   "already_a_pick": true,
    "seen_before": true
   },
   {
@@ -278,14 +164,14 @@
    "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1198548867%2F282041210522%2F1%2Foriginal.20261123-180116?crop=focalpoint&fit=crop&w=940&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=29947f43d8a68df3a96e0928614fb829",
    "description": "Thankful for Laughs - Friday, November 27 - 7:00pm Doors / 7:30pm Show",
    "venue_name_matches": true,
-   "already_a_pick": false,
-   "seen_before": false
+   "already_a_pick": true,
+   "seen_before": true
   },
   {
    "venue": "Comic Strip Live",
    "neighborhood": "Upper East Side",
    "organizer": "https://www.eventbrite.com/o/comic-strip-live-comedy-club-8100188167",
-   "title": "Tom Van Horn, Elyse DeLucci, Jason Salmon, & MORE!",
+   "title": "Tom Van Horn, Elyse DeLucci, Jason Salmon, & JJ Ramirez!",
    "date": "2026-11-27",
    "time": "8pm",
    "starts_at": "2026-11-27T20:00:00-05:00",
@@ -293,7 +179,7 @@
    "location_name": "Comic Strip Live",
    "location_address": "1568 2nd Ave, New York, NY 10028, New York",
    "price_from": 25.71,
-   "url": "https://www.eventbrite.com/e/tom-van-horn-elyse-delucci-jason-salmon-more-tickets-2003841773687",
+   "url": "https://www.eventbrite.com/e/tom-van-horn-elyse-delucci-jason-salmon-jj-ramirez-tickets-2003841773687",
    "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1196474279%2F136153380524%2F1%2Foriginal.20261023-212704?crop=focalpoint&fit=crop&w=940&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=6cff9b9ada49a47f74daf4caf8f962a4",
    "description": "Be part of history, celebrating 50 years of Comedy at the World Comic Strip! Comedians from, HBO, The Tonight Show, SNL & More ~",
    "venue_name_matches": true,
@@ -316,7 +202,7 @@
    "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1187515756%2F369144123539%2F1%2Foriginal.20260623-211226?w=940&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C1280%2C640&s=12aaf8d6970088698166439988134958",
    "description": "Flop House Comedy Club, Williamsburg · 8:00–9:30pm · 362 Grand St, Brooklyn. Featuring comics seen on Netflix, HBO, and Comedy Central.",
    "venue_name_matches": false,
-   "already_a_pick": false,
+   "already_a_pick": true,
    "seen_before": true
   },
   {
@@ -332,8 +218,8 @@
    "location_address": "206 E 67th St, New York, NY 10065, New York",
    "price_from": 12,
    "url": "https://www.eventbrite.com/e/funny-people-live-stand-up-comedy-on-the-upper-east-side-tickets-2003863160656",
-   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1196145082%2F156982928809%2F1%2Foriginal.20261019-232838?crop=focalpoint&fit=crop&w=940&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=9b30155ab50a949937ddf74a13642e64",
-   "description": "Featuring Charles Engle (Don't Tell Comedy), Allie Mae (NYCF), Alingon Mitra (Daily Show), Kareem Green (Showtime) & More!",
+   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1198620262%2F156982928809%2F1%2Foriginal.20261124-163933?crop=focalpoint&fit=crop&w=940&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=264819568949393ed9a04945128fa9e4",
+   "description": "Featuring Jarrett Campbell (Just For Laughs), Liam Dalton (Netflix is a Joke), Amanda Gail (Sirius XM) & many more!",
    "venue_name_matches": true,
    "already_a_pick": false,
    "seen_before": true
@@ -390,7 +276,7 @@
    "price_from": 10,
    "url": "https://www.eventbrite.com/e/friday-night-comedy-late-night-stand-up-on-the-upper-east-side-tickets-2003863168680",
    "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1196145357%2F156982928809%2F1%2Foriginal.20261019-233243?crop=focalpoint&fit=crop&w=940&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=9ac52ef2e68506c7b03c4d1f689cb264",
-   "description": "Featuring Harrison Greenbaum (Colbert), Byron Austin (NYCF), Lee Syatt (Church of What’s Happening), Alaina Hirschi (NYCF) & More!",
+   "description": "Featuring Cab Washington (HBO/MAX), Lee Syatt (Church of What’s Happening), Liam Dalton (MTV) & Many More!",
    "venue_name_matches": true,
    "already_a_pick": false,
    "seen_before": true
@@ -503,8 +389,8 @@
    "location_address": "206 E 67th St, New York, NY 10065, New York",
    "price_from": 12,
    "url": "https://www.eventbrite.com/e/stand-up-comedy-nyc-top-comedians-on-the-upper-east-side-tickets-2003863172692",
-   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1196190662%2F156982928809%2F1%2Foriginal.20261020-143144?crop=focalpoint&fit=crop&w=940&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=2d1f0eeadfc137a60ba04f99b0dea5d9",
-   "description": "Featuring Michael Brigante (Comedy Cellar), Dan St Germain (Conan), James Patrick (Laughing Buddha), Allie Mae (NYCF) & More!",
+   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1198620924%2F156982928809%2F1%2Foriginal.20261124-164824?crop=focalpoint&fit=crop&w=940&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=de6784a356bdb0d03493dc5e71a871c9",
+   "description": "Festuring Liam Dalton (Netflix is a Joke), JJ Liberman (Kill Tony), Amanda Gail (Sirius XM) & More!",
    "venue_name_matches": true,
    "already_a_pick": false,
    "seen_before": true
@@ -598,8 +484,8 @@
    "location_address": "206 E 67th St, New York, NY 10065, New York",
    "price_from": 12,
    "url": "https://www.eventbrite.com/e/late-night-stand-up-nyc-comedy-on-the-upper-east-side-tickets-2003863230866",
-   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1196515453%2F156982928809%2F1%2Foriginal.20260524-150505?w=940&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C1121%2C632&s=777dfe09f920e3649902f901fa40e5c2",
-   "description": "Featuring NYC's top working comics with credits from Netflix, HBO, Comedy Central, Don't Tell Comedy, Jimmy Kimmel Live, Jimmy Fallon, Just",
+   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1198621455%2F156982928809%2F1%2Foriginal.20261124-165515?crop=focalpoint&fit=crop&w=940&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.502&fp-y=0.158&s=41039e6e9605b031dc2c098e76166f45",
+   "description": "Featuring Amanda Gail (Sirius) Farooq Hussain (Comedy Central), Liam Dalton (Netflix is a Joke), Cab Washngton (Netflix is a Joke) & More!",
    "venue_name_matches": true,
    "already_a_pick": false,
    "seen_before": true
@@ -890,6 +776,25 @@
    "seen_before": true
   },
   {
+   "venue": "Flop House Comedy",
+   "neighborhood": "Williamsburg",
+   "organizer": "https://www.eventbrite.com/o/flop-house-comedy-74484939183",
+   "title": "Brain Rot Sip & Act",
+   "date": "2026-12-01",
+   "time": "7pm",
+   "starts_at": "2026-12-01T19:00:00-05:00",
+   "ends_at": "2026-12-01T21:00:00-05:00",
+   "location_name": "362 Grand St",
+   "location_address": "362 Grand Street, Brooklyn, NY 11211, Brooklyn",
+   "price_from": 33.85,
+   "url": "https://www.eventbrite.com/e/brain-rot-sip-act-tickets-2002469531273",
+   "image": null,
+   "description": "Brain Rot Sip & Act is exactly what it sounds like: drinks, dramatic readings, and brain rot.",
+   "venue_name_matches": false,
+   "already_a_pick": false,
+   "seen_before": false
+  },
+  {
    "venue": "Union Hall",
    "neighborhood": "Park Slope",
    "organizer": "https://www.eventbrite.com/o/union-hall-17899496497",
@@ -907,6 +812,25 @@
    "venue_name_matches": true,
    "already_a_pick": true,
    "seen_before": true
+  },
+  {
+   "venue": "Flop House Comedy",
+   "neighborhood": "Williamsburg",
+   "organizer": "https://www.eventbrite.com/o/flop-house-comedy-74484939183",
+   "title": "The Facebook -  A Comedy Show Whose Name Was Available",
+   "date": "2026-12-01",
+   "time": "7:30pm",
+   "starts_at": "2026-12-01T19:30:00-05:00",
+   "ends_at": "2026-12-01T21:00:00-05:00",
+   "location_name": "61 Bergen Street",
+   "location_address": "61 Bergen Street, Brooklyn, NY 11201, Brooklyn",
+   "price_from": 17.85,
+   "url": "https://www.eventbrite.com/e/the-facebook-a-comedy-show-whose-name-was-available-tickets-2005413357336",
+   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1190674456%2F369144123539%2F1%2Foriginal.20260810-012953?w=940&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C1280%2C640&s=77485cebe74e6ef0cff17617c2c02586",
+   "description": "A night of new material hosted by Dan Toomey, Grace Lobo, Olivia, Witt, and Hayden Arrington",
+   "venue_name_matches": false,
+   "already_a_pick": false,
+   "seen_before": false
   },
   {
    "venue": "Friends and Lovers",
@@ -983,6 +907,25 @@
    "venue_name_matches": true,
    "already_a_pick": false,
    "seen_before": true
+  },
+  {
+   "venue": "Union Hall",
+   "neighborhood": "Park Slope",
+   "organizer": "https://www.eventbrite.com/o/union-hall-17899496497",
+   "title": "Nick Mestad: Body Of Work",
+   "date": "2026-12-01",
+   "time": "10pm",
+   "starts_at": "2026-12-01T22:00:00-05:00",
+   "ends_at": "2026-12-01T23:30:00-05:00",
+   "location_name": "Union Hall",
+   "location_address": "702 Union St., Brooklyn, NY 11215, Brooklyn",
+   "price_from": 13.61,
+   "url": "https://www.eventbrite.com/e/nick-mestad-body-of-work-tickets-2004088414396",
+   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1197716292%2F282041210522%2F1%2Foriginal.20261110-204522?crop=focalpoint&fit=crop&w=940&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=64bf7fc6823c7d2b09ad6dee934b0e97",
+   "description": "Nick Mestad: Body Of Work - Tuesday, December 1 - 9:30pm Doors / 10:00pm Show",
+   "venue_name_matches": true,
+   "already_a_pick": false,
+   "seen_before": false
   },
   {
    "venue": "Caveat",
@@ -1133,7 +1076,7 @@
    "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1196182918%2F20123076358%2F1%2Foriginal.20261020-130245?crop=focalpoint&fit=crop&w=940&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.585&fp-y=0.121&s=94320642ada371196504f82d246b6de9",
    "description": "Live comedy at one of NYC's best breweries!",
    "venue_name_matches": true,
-   "already_a_pick": false,
+   "already_a_pick": true,
    "seen_before": true
   },
   {
@@ -1153,7 +1096,7 @@
    "description": "A PowerPoint lecture series where NYC’s brightest creative minds share a presentation on a personal obsession, followed by an audience Q&A.",
    "venue_name_matches": true,
    "already_a_pick": false,
-   "seen_before": false
+   "seen_before": true
   },
   {
    "venue": "Caveat",
@@ -1171,8 +1114,8 @@
    "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1191808380%2F207096185123%2F1%2Foriginal.20260824-232435?w=940&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2000%2C1000&s=4456195e423102f1a1bc3d2617679472",
    "description": "Lucie Pohl's Immigrant Jam Comedy features NYC's funniest immigrant and 1st gen comedians",
    "venue_name_matches": true,
-   "already_a_pick": false,
-   "seen_before": false
+   "already_a_pick": true,
+   "seen_before": true
   },
   {
    "venue": "Comic Strip Live",
@@ -1232,6 +1175,25 @@
    "seen_before": true
   },
   {
+   "venue": "Caveat",
+   "neighborhood": "Lower East Side",
+   "organizer": "https://www.eventbrite.com/o/caveat-13580085802",
+   "title": "Arguments and Grievances",
+   "date": "2026-12-04",
+   "time": "9:30pm",
+   "starts_at": "2026-12-04T21:30:00-05:00",
+   "ends_at": "2026-12-04T23:00:00-05:00",
+   "location_name": "Caveat",
+   "location_address": "21 A Clinton Street, New York, NY 10002, New York",
+   "price_from": 18.76,
+   "url": "https://www.eventbrite.com/e/arguments-and-grievances-tickets-2003369227288",
+   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1195716286%2F207096185123%2F1%2Foriginal.20261013-184953?w=940&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2000%2C1000&s=4db62ebd69a7bec41a9747cb76c6ce49",
+   "description": "Arguments & Grievances is a live comedy debate show where the audience decides the victor!",
+   "venue_name_matches": true,
+   "already_a_pick": false,
+   "seen_before": false
+  },
+  {
    "venue": "Upper East Side Comedy Club",
    "neighborhood": "Upper East Side",
    "organizer": "https://www.eventbrite.com/o/121391640642",
@@ -1285,8 +1247,8 @@
    "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1198545457%2F2328850250333%2F1%2Foriginal.20261123-171424?crop=focalpoint&fit=crop&w=940&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.033&s=dd4be7db03677d28eb8092cf220e911e",
    "description": "Join us every first Sat. for Feel the News, a variety comedy show, hosted by Marcela Onyango that also tells you how to feel about the news",
    "venue_name_matches": true,
-   "already_a_pick": false,
-   "seen_before": false
+   "already_a_pick": true,
+   "seen_before": true
   },
   {
    "venue": "Comic Strip Live",
@@ -1304,8 +1266,8 @@
    "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1198417758%2F136153380524%2F1%2Foriginal.20261120-205132?crop=focalpoint&fit=crop&w=940&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=d801a36920b9c21d9e86878c2ee2f677",
    "description": "Be part of history, celebrating 50 years of Comedy at the World Comic Strip! Comedians from, HBO, The Tonight Show, SNL & More ~",
    "venue_name_matches": true,
-   "already_a_pick": false,
-   "seen_before": false
+   "already_a_pick": true,
+   "seen_before": true
   },
   {
    "venue": "Upper East Side Comedy Club",
@@ -1363,6 +1325,25 @@
    "venue_name_matches": true,
    "already_a_pick": false,
    "seen_before": true
+  },
+  {
+   "venue": "Comic Strip Live",
+   "neighborhood": "Upper East Side",
+   "organizer": "https://www.eventbrite.com/o/comic-strip-live-comedy-club-8100188167",
+   "title": "Ruperto Vanderpool, Nick Griffin, Vanessa Hollingshead, Joe Matarese, more!",
+   "date": "2026-12-05",
+   "time": "10:30pm",
+   "starts_at": "2026-12-05T22:30:00-05:00",
+   "ends_at": "2026-12-06",
+   "location_name": "Comic Strip Live",
+   "location_address": "1568 2nd Ave, New York, NY 10028, New York",
+   "price_from": 25.71,
+   "url": "https://www.eventbrite.com/e/ruperto-vanderpool-nick-griffin-vanessa-hollingshead-joe-matarese-more-tickets-2004975544827",
+   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1198417825%2F136153380524%2F1%2Foriginal.20261120-205219?crop=focalpoint&fit=crop&w=940&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.581&fp-y=0.214&s=99bd4a2d902270906780d1d3bd5db47b",
+   "description": "Be part of history, celebrating 50 years of Comedy at the World Comic Strip! Comedians from, HBO, The Tonight Show, SNL & More ~",
+   "venue_name_matches": true,
+   "already_a_pick": false,
+   "seen_before": false
   },
   {
    "venue": "Littlefield",
@@ -1475,7 +1456,7 @@
    "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1195568849%2F20123076358%2F1%2Foriginal.20261011-231950?crop=focalpoint&fit=crop&w=940&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.554&fp-y=0.195&s=53fa56974112731ce58adf6b866c0fd8",
    "description": "Live comedy at one of NYC's best breweries!",
    "venue_name_matches": true,
-   "already_a_pick": false,
+   "already_a_pick": true,
    "seen_before": true
   }
  ],

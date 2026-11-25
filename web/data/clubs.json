@@ -518,5 +518,25 @@
   "source_label": "The club’s own About page, its monthly-pass page and its Eventbrite organizer page",
   "verified_at": "2026-11-24",
   "verification_note": "The no-drink-minimum policy, the $20 monthly pass and the founders come from the club's own About and Monthly Pass pages. Prices come from the club's own Eventbrite listings (OnlyFriends $12.51, The Facebook $17.85, The Late Show $23.18) and the Prime Time listing, which states the 90-minute format, six to eight comics with eight-to-twelve-minute sets, no drink minimum, and a done-by-9:30 finish. The club publishes no age policy and no seat count, so both lines say to check the listing rather than guessing. The club's own calendar lists every Flop House bill at 362 Grand Street and one Saturday series, \"The Laugh Supply\", at 201 Allen Street #Store 2 in the East Village, with Williamsburg and East Village as the two filters on the site."
+ },
+ {
+  "id": "club-cumming",
+  "tier": "club",
+  "name": "Club Cumming",
+  "rooms": "One room on East 6th Street between Second and Third, open 6pm to 4am; the building is not ADA compliant",
+  "address": "505 E 6th St, Manhattan",
+  "neighborhood": "East Village",
+  "price_label": "Show by show, $10 to $30 general admission depending on the night",
+  "price_low": 10,
+  "price_high": 30,
+  "minimum": "Two-drink minimum on the room’s own weekly craft night; other shows list no minimum, so check the listing",
+  "age": "21+ on the shows that say so; the room itself is an adults-out-late space",
+  "reservations": "Online through the room’s own ticket page, one product per show",
+  "character": "A 500-seat-feel East Village room that is really a hundred and change, running comedy, burlesque, drag, music and a full-on improv spectacle on most nights of the week.",
+  "calendar_url": "https://clubcummingnyc.com/schedule",
+  "source_url": "https://clubcummingnyc.com/schedule",
+  "source_label": "The room’s own schedule and contact pages",
+  "verified_at": "2026-11-25",
+  "verification_note": "The address and the 6pm–4am hours come from the room’s contact page; the show-by-show prices, the age policies and the two-drink minimum on the Make It craft night come from the room’s own show pages. The accessibility statement on the room’s site says the physical space at 505 E 6th Street is not ADA compliant."
  }
 ]

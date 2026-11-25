@@ -945,3 +945,95 @@ the Nov 15 note still stands: **Eastville Comedy Club is still not in
 `clubs.json`**, and it has a registry entry with its real address (487
 Atlantic Avenue, Boerum Hill), so what is missing is the club-guide entry
 rather than the room itself.
+
+## 2026-11-25 — Club Cumming, SESH's open mic, and the Thursday potluck
+
+**Club Cumming** (505 E 6th St, East Village, Manhattan). New room, found through a
+Reddit lead in r/nycComedy advertising "The Canadian Thanksgiving Comedy Show" and
+confirmed on the room's own schedule page. It is a real East 6th Street room with a
+published calendar, a contact page giving the address, and a stated 6pm–4am schedule.
+The address on the contact page is 505 E 6th St, New York NY 10009; East Village is the
+neighborhood from that address and from how the room is described. Its accessibility
+statement says the physical space is not ADA compliant, so the club entry says so.
+
+Added to `venues.json` (with the Club Cumming Eventbrite organizer page, so the lead
+feed covers the room from now on), to `clubs.json` with the policy read from the room's
+own pages — show-by-show prices of $10 to $30, a two-drink minimum on the weekly craft
+night and no minimum on the comedy shows, and the ages the shows themselves state — and
+to `recurring.json` for "Mondays in the Club with Lance" (every Monday, 9:30pm, no cover),
+which the room's own show page states as a fixed weekly run.
+
+Two picks from the room's schedule page:
+- **The Canadian Thanksgiving Comedy Show** (Sun Nov 29, 6:30pm, $15, 21+). Hosts
+  Jacqueline Frances and Sam Sferrazza with Marito Lopez, Jess Salomon, Hoodo Hersi and
+  Olivia Statler. The page also states that Canadians can get the fee waived by emailing
+  proof of citizenship.
+- **Loose Lips Comedy Show** (Wed Dec 2, 7pm, $15, 21+). Hosts Fallon Boles and Vass
+  Kazee with Sean Patton, Abe Shapiro, Marito Lopez, MC Nanda, Jamie Linn Watson and
+  Sureni Weerasekera.
+
+**SESH Open Mic** — three records added to `open-mics.json`, one per night (Wednesday
+5:30pm, Friday 7:15pm, Saturday 7pm), from the room's own signup page. Twelve slots,
+five minutes each, $5 per spot paid up front, the list closes an hour before and needs
+eight comics for the mic to go ahead. The page's rules are unusually clear and worth
+carrying in the note: release the spot six hours ahead for a full refund, cancel inside
+six hours and you sit out two weeks, no-shows sit out two weeks with no refund, and
+everyone stays for the whole hour.
+
+**Thanksgiving Comedy Potluck** (Thu Nov 26, Bushwick Comedy Club) went on the board
+from the club's own event page: food at 8pm, show at 8:30pm, $5.13 for dinner and a
+seat, with Hoodo Hersi, Eeland Stribling and Olivia Carter on the bill. It is the
+club's fifth annual dinner show.
+
+### Held out
+- **The Facebook** (Flop House Comedy at Talea Beer Co., Cobble Hill) went on the board
+  rather than being held: it is a clean new-material night with named hosts, and the
+  room is already in the registry as Talea Beer Co.
+- **Arguments and Grievances** (Caveat, Dec 4) — a live comedy debate where the
+  audience votes. Game-show format; the standing rule that keeps game shows, drinking
+  games and panel formats off a stand-up-first rail still holds.
+- **Brain Rot Sip & Act** (Flop House, Dec 1) — dramatic readings of movie and TV lines
+  with drinks. A themed improv night, not stand-up.
+- **Yay! A Sketch Show** (Union Hall, Nov 28) — sketch, not stand-up.
+- **Nerd Nite, Next Slide Please, Major Fix** (Caveat) — presentation and lecture
+  formats.
+- **REAL-ASIAN-SHIPS** (Littlefield, Dec 2) — a dating show.
+- **Dinner for One Presents: PRESENTS!** (Littlefield, Dec 13) — an interactive holiday
+  sketch show.
+- **Shitzprobe** (Asylum NYC) and **The New York Neo-Futurists: The Infinite Wrench**
+  (Asylum NYC) — the first is a fully improvised musical with a live band, the second is
+  thirty short plays in an hour. Neither is stand-up. Asylum NYC was read and is a real
+  room (123 E 24th St, 150 seats, 16+, no drink minimum, all-ages venue), but its
+  current calendar has no stand-up show to put on the board.
+- **The Salt Cave Comedy** at The Mvmnt Studio, 510 Flatbush Ave — the room is already
+  registered from a Nov 22 lead and the show runs every other Friday, but the Eventbrite
+  organizer's upcoming page shows nothing planned, and the last confirmed date (Nov 21)
+  has passed. No dated show to publish until the producer posts the next one.
+- **Comic Strip's New Faces Show** (Dec 6, 5pm) and its Saturday New Talent Show — the
+  club's rotating showcase structure, already represented on the board by the named
+  headliner bills.
+
+### Club tier
+St. Marks Comedy Club was already in `clubs.json` (added Sep 15) and every other
+registered club with nightly shows was already there. Club Cumming was the only
+meaningful gap and is now the 27th entry.
+
+### Research plan
+`npm run research-plan` ranked 21 performers: **0 runs, 6 reuse, 15 skip**, about
+**189,000 tokens saved**. No name was ranked on schedule alone — every ranked performer
+had either a cached note under seven days old or a sold-out show that research could not
+change. The plan had wanted to spend a run on "Family Therapy", which is a show title
+at the West Side Comedy Club and not a performer; `SHOW_TITLES` in `research-plan.js`
+now carries it, along with the other show titles already on the board, so the run went
+nowhere instead of after a show.
+
+### Improvement today
+`scripts/research-plan.js` ranked **Family Therapy** — the West Side Comedy Club's 6pm
+show — as a performer and put it first in today's `run` list, which would have spent a
+last30days run researching a show instead of a comic. The `SHOW_TITLES` list already
+existed for exactly this problem ("Picture This", "Drunk Planet Earth", "Not Ripe
+Bananas"); Family Therapy and the other current show titles were missing from it.
+Added there, along with Steam Room Etiquette, Wednesday Favs, Mondays in the Club, Late
+Night Laughs, Date Night and True York, so the recurring and rotating shows on the board
+stop producing fake performers. The plan now runs zero times instead of one, and the
+ranked roster drops from 23 names to 21.

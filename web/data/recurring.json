@@ -623,5 +623,24 @@
   "verified_at": "2026-11-24",
   "verification_note": "The brewery's own taproom calendar lists \"Sat, Nov. 28th: AAPI Comedy Night - Friendsgiving from 7-10pm. Free\". The series has run on other Saturdays that month (May 16 and October 31), so the day of the month moves; the taproom page prints a date, not a rule, so the cadence is kept loose. No address is printed on the taproom page; it comes from the brewery's own footer, 623 Sackett St, Brooklyn.",
   "address": "623 Sackett St, Brooklyn"
+ },
+ {
+  "id": "mondays-in-the-club-club-cumming",
+  "tier": "recurring",
+  "title": "Mondays in the Club with Lance",
+  "cadence": "Every Monday",
+  "weekday": 1,
+  "time_label": "9:30pm",
+  "venue": "Club Cumming",
+  "address": "505 E 6th St, Manhattan",
+  "neighborhood": "East Village",
+  "price_label": "No cover",
+  "price_amount": 0,
+  "format": "Stand-up",
+  "description": "The East 6th Street room’s Monday night, hosted by Lance Horne with Hunter Canning: no cover, and a room that keeps running until four in the morning.",
+  "source_url": "https://clubcummingnyc.com/schedule/4zxtyly3np2gz2h-bzgmd-xy38j-c489k-gk4jr-e8tsl-rlkbb-2ymdy-8rrdn",
+  "source_label": "The room’s own show page",
+  "verified_at": "2026-11-25",
+  "verification_note": "The show page on the room’s own site states \"Every Monday join us for Mondays in the Club with Lance Horne and Hunter Canning. 9:30 pm show. No cover… ever!\" The room is at 505 East 6th Street, New York NY 10009, per the same page and its contact page."
  }
 ]

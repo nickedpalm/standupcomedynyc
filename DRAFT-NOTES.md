@@ -2200,3 +2200,49 @@ with an address, a neighborhood and a borough, and each pick's neighborhood
 matches the registry's.
 
 `npm test` passes at **140 picks**.
+
+## 2026-11-25 — New East Village room, seven picks, and the research plan's fake performer
+
+**Club Cumming** is on the board, the clubs page and the neighborhoods directory. The
+room came out of a Reddit post in r/nycComedy advertising a Canadian Thanksgiving
+show; the show was confirmed on the room's own schedule page, and the address on the
+room's contact page. 505 E 6th St, East Village, open 6pm to 4am. It is now the 27th
+club on /clubs.html, with the ticket range, the minimum and the age policy read from
+the room's own pages rather than guessed. Its accessibility statement says the building
+is not ADA compliant, so the club entry says that in plain words instead of leaving a
+reader to find out at the door.
+
+**Seven picks added**, each from a page opened and read today: Bushwick Comedy Club's
+Thanksgiving potluck (Thu Nov 26), the Upper East Side Comedy Club's Saturday bill
+(Nov 28), The Canadian Thanksgiving Comedy Show (Sun Nov 29), Nick Mestad at Union Hall
+and The Facebook at Talea Beer Co. (Tue Dec 1), Loose Lips at Club Cumming (Wed Dec 2),
+Steam Room Etiquette at SESH (Thu Dec 3) and the 10:30pm second Ruperto Vanderpool set
+at Comic Strip (Sat Dec 5). Seven of them carry official artwork saved to
+`web/assets/posters/` with a POSTER-SOURCES record each; the Comic Strip late show does
+not, because that listing has no flyer of its own.
+
+**SESH's own open mic** is on /open-mics.html — three records, one per night, from the
+room's signup page, with the money and the rules (release six hours ahead for a refund,
+sit out two weeks for a late cancel or a no-show) written out because they are
+unusually clear and a comic reading the page needs them.
+
+**The link-in-bio page** was reviewed and its date bumped to today. No copy changed:
+the six links still point at the board, the mailing list, the open mics, the clubs, the
+neighborhoods and the week.
+
+**The research plan was ranking a show as a performer.** "Family Therapy" — the West
+Side Comedy Club's Friday 6pm show — came second in today's shortlist and was the only
+name under `run`, because the plan reads pick titles and splits them into names, and
+nothing told it that Family Therapy is a show. `scripts/research-plan.js` already had a
+`SHOW_TITLES` list for this ("Picture This", "Drunk Planet Earth", "Not Ripe
+Bananas"); Family Therapy and the other current show titles were missing from it, so
+today's run would have spent a last30days run looking for chatter about a comedy
+show's name. Added the missing titles to that list. The plan now ranks 21 performers
+instead of 23 and runs zero times today instead of one.
+
+**Freshness:** eight picks were more than fourteen days past their last check. Each
+one's own page was re-read today — five St. Marks shows, the West Side room's Tuesday
+workshop and both Demetri Martin Bell House dates — and the stamps moved to today. The
+Demetri Martin pages now read SOLD OUT, which is what `npm run heat` already had.
+
+`npm test` passes at **144 picks**, no warnings.

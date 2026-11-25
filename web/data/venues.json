@@ -1810,5 +1810,18 @@
   "eventbrite_organizer": "https://www.eventbrite.com/o/93684169573",
   "verified_at": "2026-11-22",
   "note": "Room registered from a Reddit lead (r/Brooklyn, Nov 19 2026). Address and neighborhood from the room's own Instagram bio and the Eventbrite listing's venue-supplied data (510 Flatbush Avenue, Brooklyn NY 11225)."
+ },
+ {
+  "name": "Club Cumming",
+  "address": "505 E 6th St, Manhattan",
+  "neighborhood": "East Village",
+  "borough": "Manhattan",
+  "website": "https://clubcummingnyc.com/",
+  "calendar_url": "https://clubcummingnyc.com/schedule",
+  "source_label": "The room's own contact page (address) and its schedule page (shows)",
+  "access_note": "Comedy and variety room on East 6th between Second and Third, open 6pm to 4am. The room's own schedule page lists every show with its date, time, price and age policy, and the contact page gives the address. Its building is not ADA compliant, per the room's own accessibility statement.",
+  "eventbrite_organizer": "https://www.eventbrite.com/o/33126418015",
+  "verified_at": "2026-11-25",
+  "note": "Registered from a Reddit lead (r/nycComedy, Nov 24 2026) naming the Canadian Thanksgiving Comedy Show; the show was confirmed on the room’s own schedule page. Neighborhood East Village from the address the room publishes."
  }
 ]

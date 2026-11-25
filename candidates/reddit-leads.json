@@ -1,5 +1,5 @@
 {
- "retrieved_at": "2026-11-24T11:03:21.451Z",
+ "retrieved_at": "2026-11-25T11:02:02.564Z",
  "note": "Promoter posts from NYC neighborhood subreddits, last 14 days. Leads only: open the linked page or the venue site before anything enters the data; register the venue first.",
  "subreddits": [
   "nycevents",
@@ -27,19 +27,171 @@
  ],
  "leads": [
   {
+   "id": "1y4y6il",
+   "date": "2026-11-25",
+   "subreddit": "williamsburg",
+   "title": "Thanksgiving Comedy Potluck (8:00 PM)",
+   "score": 1,
+   "comments": 0,
+   "url": "https://www.reddit.com/r/williamsburg/comments/1y4y6il/thanksgiving_comedy_potluck_800_pm/",
+   "venues_mentioned": [
+    "Bushwick Comedy Club"
+   ],
+   "when_mentioned": null,
+   "time_mentioned": "8:00 PM",
+   "links": [
+    "https://www.bushwickcomedy.com/event-details/thanksgiving-comedy-potluck-8-00-pm-2"
+   ],
+   "free": false,
+   "new_since_last_run": true,
+   "excerpt": "Hi folks, Don't know how many people remember \"Joe the BBQ Guy\" from a few years back, but I've got an open invite for everyone reading this. My friend Kyle and I have put together a potluck, comedy show, and karaoke night every Thanksgiving for a few years now, starting with the"
+  },
+  {
+   "id": "1y4y56i",
+   "date": "2026-11-25",
+   "subreddit": "Bushwick",
+   "title": "Thanksgiving Comedy Potluck (8:00 PM)",
+   "score": 3,
+   "comments": 0,
+   "url": "https://www.reddit.com/r/Bushwick/comments/1y4y56i/thanksgiving_comedy_potluck_800_pm/",
+   "venues_mentioned": [
+    "Bushwick Comedy Club"
+   ],
+   "when_mentioned": null,
+   "time_mentioned": "8:00 PM",
+   "links": [
+    "https://www.bushwickcomedy.com/event-details/thanksgiving-comedy-potluck-8-00-pm-2"
+   ],
+   "free": false,
+   "new_since_last_run": true,
+   "excerpt": "https://preview.redd.it/vahgq9e9ro3i1.png?width=1080&amp;format=png&amp;auto=webp&amp;s=aee24c9db716e769e5f634f37210ef14b6ac2e8f Hi folks, Don't know how many people remember \"Joe the BBQ Guy\" from a few years back, but I've got an open invite for everyone reading this. My friend"
+  },
+  {
+   "id": "1y4y6jw",
+   "date": "2026-11-25",
+   "subreddit": "nyc",
+   "title": "Thanksgiving Comedy Potluck (8:00 PM)",
+   "score": 3,
+   "comments": 0,
+   "url": "https://www.reddit.com/r/nyc/comments/1y4y6jw/thanksgiving_comedy_potluck_800_pm/",
+   "venues_mentioned": [
+    "Bushwick Comedy Club"
+   ],
+   "when_mentioned": null,
+   "time_mentioned": "8:00 PM",
+   "links": [
+    "https://www.bushwickcomedy.com/event-details/thanksgiving-comedy-potluck-8-00-pm-2"
+   ],
+   "free": false,
+   "new_since_last_run": true,
+   "excerpt": "Hi folks, Don't know how many people remember \"Joe the BBQ Guy\" from a few years back, but I've got an open invite for everyone reading this. My friend Kyle and I have put together a potluck, comedy show, and karaoke night every Thanksgiving for a few years now, starting with the"
+  },
+  {
+   "id": "1y4y6gn",
+   "date": "2026-11-25",
+   "subreddit": "ridgewood",
+   "title": "Thanksgiving Comedy Potluck (8:00 PM)",
+   "score": 3,
+   "comments": 0,
+   "url": "https://www.reddit.com/r/ridgewood/comments/1y4y6gn/thanksgiving_comedy_potluck_800_pm/",
+   "venues_mentioned": [
+    "Bushwick Comedy Club"
+   ],
+   "when_mentioned": null,
+   "time_mentioned": "8:00 PM",
+   "links": [
+    "https://www.bushwickcomedy.com/event-details/thanksgiving-comedy-potluck-8-00-pm-2"
+   ],
+   "free": false,
+   "new_since_last_run": true,
+   "excerpt": "Hi folks, Don't know how many people remember \"Joe the BBQ Guy\" from a few years back, but I've got an open invite for everyone reading this. My friend Kyle and I have put together a potluck, comedy show, and karaoke night every Thanksgiving for a few years now, starting with the"
+  },
+  {
+   "id": "1y4old3",
+   "date": "2026-11-24",
+   "subreddit": "nycevents",
+   "title": "Late-night hidden comedy show in Williamsburg THIS WEDNESDAY 11/25 | 10:30pm, $15",
+   "score": 2,
+   "comments": 0,
+   "url": "https://www.reddit.com/r/nycevents/comments/1y4old3/latenight_hidden_comedy_show_in_williamsburg_this/",
+   "venues_mentioned": [],
+   "when_mentioned": "WEDNESDAY 11/25 | 10:30pm, $15 Late-night hidden ",
+   "time_mentioned": "10:30pm",
+   "links": [
+    "https://www.eventbrite.com/e/the-late-night-comedy-show-at-kelloggs-diner-tickets-2003776111289?aff=odcleoeventsincollection"
+   ],
+   "free": true,
+   "new_since_last_run": true,
+   "excerpt": "Late-night hidden comedy show in the back room of a Kellogg’s Diner in Williamsburg, Brooklyn. Featuring a brand new lineup of top-tier comedians every week! From Netflix, HBO, Comedy Central, Viral Tik-Toks and more. Order food and drinks before or during the show! The room has "
+  },
+  {
+   "id": "1y4hy5r",
+   "date": "2026-11-24",
+   "subreddit": "nycevents",
+   "title": "New Standup Show in NYC",
+   "score": 1,
+   "comments": 0,
+   "url": "https://www.reddit.com/r/nycevents/comments/1y4hy5r/new_standup_show_in_nyc/",
+   "venues_mentioned": [
+    "Eastville Comedy Club"
+   ],
+   "when_mentioned": "Tuesday",
+   "time_mentioned": null,
+   "links": [],
+   "free": false,
+   "new_since_last_run": true,
+   "excerpt": "I'm starting to produce a new comedy show in Brooklyn, at Eastville Comedy Club in Brooklyn, every Tuesday. I've been a server in comedy clubs for years, and I've met all the best comics. I'm finally starting to produce my own show with my favorites. I hope you can come out and s"
+  },
+  {
+   "id": "1y4mmkh",
+   "date": "2026-11-24",
+   "subreddit": "nycComedy",
+   "title": "An All-Canadian Comedy Show for Canadians (and those who love them) who are alone in the city this Thanksgiving weekend!",
+   "score": 2,
+   "comments": 0,
+   "url": "https://www.reddit.com/r/nycComedy/comments/1y4mmkh/an_allcanadian_comedy_show_for_canadians_and/",
+   "venues_mentioned": [
+    "The Stand"
+   ],
+   "when_mentioned": null,
+   "time_mentioned": null,
+   "links": [
+    "https://www.eventbrite.com/e/the-canadian-thanksgiving-comedy-show-tickets-2004566960741?aff=oddtdtcreator"
+   ],
+   "free": false,
+   "new_since_last_run": true,
+   "excerpt": "Ft. comedians from Seth Meyers, Just For Laughs and The Stand! [https://www.eventbrite.com/e/the-canadian-thanksgiving-comedy-show-tickets-2004566960741?aff=oddtdtcreator](https://www.eventbrite.com/e/the-canadian-thanksgiving-comedy-show-tickets-2004566960741?aff=oddtdtcreator)"
+  },
+  {
+   "id": "1y4l1yj",
+   "date": "2026-11-24",
+   "subreddit": "astoria",
+   "title": "Free Comedy show featuring Netflix, tv and social media talents",
+   "score": 0,
+   "comments": 1,
+   "url": "https://www.reddit.com/r/astoria/comments/1y4l1yj/free_comedy_show_featuring_netflix_tv_and_social/",
+   "venues_mentioned": [],
+   "when_mentioned": null,
+   "time_mentioned": null,
+   "links": [],
+   "free": true,
+   "new_since_last_run": true,
+   "excerpt": ""
+  },
+  {
    "id": "1y487n7",
    "date": "2026-11-24",
    "subreddit": "BedStuy",
    "title": "Free Comedy in a speakeasy style cellar on the Bed Stuy / Bushwick border",
-   "score": 1,
-   "comments": 0,
+   "score": 10,
+   "comments": 1,
    "url": "https://www.reddit.com/r/BedStuy/comments/1y487n7/free_comedy_in_a_speakeasy_style_cellar_on_the/",
    "venues_mentioned": [],
    "when_mentioned": "Tuesday at 7 and open mics at 10 and midnight o",
    "time_mentioned": "7pm",
    "links": [],
    "free": true,
-   "new_since_last_run": true,
+   "new_since_last_run": false,
    "excerpt": "I use my cellar a block from Bar Cornelia for comedy shows on Tuesday at 7 and open mics at 10 and midnight on Fridays. Check it out? **This week: Tuesday, November 24, 7pm:** **Doors: 6:45** This week: **SHALEWA SHARPE** Bushwick Legend: Comedy Central / HBO / The CW / Showtime "
   },
   {
@@ -63,7 +215,7 @@
    "date": "2026-11-22",
    "subreddit": "Bushwick",
    "title": "Open Mic / Jam",
-   "score": 3,
+   "score": 4,
    "comments": 0,
    "url": "https://www.reddit.com/r/Bushwick/comments/1y2swlo/open_mic_jam/",
    "venues_mentioned": [],
@@ -111,8 +263,8 @@
    "date": "2026-11-21",
    "subreddit": "williamsburg",
    "title": "In 2025, we started a free book club for men. In 2026, we helped other guys start their own. Now we're running it back in 2027.",
-   "score": 185,
-   "comments": 41,
+   "score": 191,
+   "comments": 42,
    "url": "https://www.reddit.com/r/williamsburg/comments/1y1mhh1/in_2025_we_started_a_free_book_club_for_men_in/",
    "venues_mentioned": [
     "Union Hall"
@@ -299,7 +451,7 @@
    "date": "2026-11-18",
    "subreddit": "astoria",
    "title": "TaTa Sherise Headlines Popcorn Comedy at Oliver’s Astoria Tomorrow Night (Nov 19 @ 7:30pm)!",
-   "score": 3,
+   "score": 4,
    "comments": 0,
    "url": "https://www.reddit.com/r/astoria/comments/1xzl0p6/tata_sherise_headlines_popcorn_comedy_at_olivers/",
    "venues_mentioned": [],
@@ -317,7 +469,7 @@
    "date": "2026-11-18",
    "subreddit": "parkslope",
    "title": "Comedy Show this Saturday at Union Hall",
-   "score": 7,
+   "score": 6,
    "comments": 1,
    "url": "https://www.reddit.com/r/parkslope/comments/1xzn7p2/comedy_show_this_saturday_at_union_hall/",
    "venues_mentioned": [
@@ -335,7 +487,7 @@
    "date": "2026-11-18",
    "subreddit": "crownheights",
    "title": "Crown Heights November Events Thread 11/18-11/25",
-   "score": 16,
+   "score": 18,
    "comments": 0,
    "url": "https://www.reddit.com/r/crownheights/comments/1xzo078/crown_heights_november_events_thread_11181125/",
    "venues_mentioned": [
@@ -578,22 +730,6 @@
    "free": false,
    "new_since_last_run": false,
    "excerpt": ""
-  },
-  {
-   "id": "1xypr18",
-   "date": "2026-11-17",
-   "subreddit": "parkslope",
-   "title": "Comedy show tomorrow night 11/18 featuring Edy Modica (Jury Duty) and Sabrina Wu (Abbott Elementary, Murderbot) and more!",
-   "score": 0,
-   "comments": 0,
-   "url": "https://www.reddit.com/r/parkslope/comments/1xypr18/comedy_show_tomorrow_night_1118_featuring_edy/",
-   "venues_mentioned": [],
-   "when_mentioned": null,
-   "time_mentioned": null,
-   "links": [],
-   "free": false,
-   "new_since_last_run": false,
-   "excerpt": "I don't have much else to say other than it's going to be a really fun time. If you say you came from reddit I'll buy you 1 (ONE) drink"
   },
   {
    "id": "1xyuxn4",
@@ -872,7 +1008,7 @@
    "date": "2026-11-14",
    "subreddit": "astoria",
    "title": "I have a few free tickets for this comedy show at QED tonight, DM if interested",
-   "score": 3,
+   "score": 2,
    "comments": 0,
    "url": "https://www.reddit.com/r/astoria/comments/1xw7tbp/i_have_a_few_free_tickets_for_this_comedy_show_at/",
    "venues_mentioned": [],
@@ -994,7 +1130,7 @@
    "date": "2026-11-12",
    "subreddit": "parkslope",
    "title": "This weekend there’s a marathon of comedy acts in Park Slope as part for the NY Comedy Fest and a marathon reading of ‘The Power Broker’ under the shadow of the BQE in Gowanus.",
-   "score": 8,
+   "score": 7,
    "comments": 1,
    "url": "https://www.reddit.com/r/parkslope/comments/1xubv8o/this_weekend_theres_a_marathon_of_comedy_acts_in/",
    "venues_mentioned": [],
@@ -1010,7 +1146,7 @@
    "date": "2026-11-12",
    "subreddit": "crownheights",
    "title": "I host a comedy show at Friends and Lovers!",
-   "score": 9,
+   "score": 8,
    "comments": 3,
    "url": "https://www.reddit.com/r/crownheights/comments/1xukre0/i_host_a_comedy_show_at_friends_and_lovers/",
    "venues_mentioned": [
@@ -1094,26 +1230,6 @@
    "excerpt": "Hi everyone. My name is Oleg Redko. I’m a Ukrainian refugee living in Canada, working toward a career in stand-up comedy. It feels uncomfortable asking strangers for help, but here I am. Starting over in another country means rebuilding your connections, your confidence, and some"
   },
   {
-   "id": "1xta7ia",
-   "date": "2026-11-11",
-   "subreddit": "nycevents",
-   "title": "Interactive Comedy Show TONIGHT at Brooklyn Improv!",
-   "score": 1,
-   "comments": 0,
-   "url": "https://www.reddit.com/r/nycevents/comments/1xta7ia/interactive_comedy_show_tonight_at_brooklyn_improv/",
-   "venues_mentioned": [
-    "Brooklyn Improv"
-   ],
-   "when_mentioned": "Wednesday November 11th, 7:30pm‼️ 🎟️ Tickets her",
-   "time_mentioned": "7:30pm",
-   "links": [
-    "https://improv.com/brooklyn/event/ask+comedians+anything+presented+by+new+york+comedy+festival+ft.+daniela+mora%2C+alex+english%2C+mike+hanford%2C+and+more%21/15022613/"
-   ],
-   "free": false,
-   "new_since_last_run": false,
-   "excerpt": "🗣️ Ask Comedians Anything Show 10 is LIVE at Brooklyn Improv with Daniela Mora, Joey Dardano (Adults), Alex English (SNL), Caroline Hanes &amp; Mike Hanford THIS Wednesday November 11th, 7:30pm‼️ 🎟️ Tickets here: [https://improv.com/brooklyn/event/ask+comedians+anything+present"
-  },
-  {
    "id": "1xtv8r1",
    "date": "2026-11-11",
    "subreddit": "nycComedy",
@@ -1134,31 +1250,11 @@
    "excerpt": "🟣 PAGOL is comedian Neel Ghosh’s live comedy show where jokes are built, looped, and remixed into music — part stand-up, part DJ set, fully unhinged. 🎙️ With special guests Nimesh Patel (Netflix), Aye D1, Sureni Weerasekera, Zubi Ahmed, Sabeen Sadiq, Craig Sketch, Misha Han! 🎟"
   },
   {
-   "id": "1xta725",
-   "date": "2026-11-11",
-   "subreddit": "nycComedy",
-   "title": "Interactive Comedy Show TONIGHT at Brooklyn Improv!",
-   "score": 1,
-   "comments": 0,
-   "url": "https://www.reddit.com/r/nycComedy/comments/1xta725/interactive_comedy_show_tonight_at_brooklyn_improv/",
-   "venues_mentioned": [
-    "Brooklyn Improv"
-   ],
-   "when_mentioned": "Wednesday November 11th, 7:30pm‼️ 🎟️ Tickets her",
-   "time_mentioned": "7:30pm",
-   "links": [
-    "https://improv.com/brooklyn/event/ask+comedians+anything+presented+by+new+york+comedy+festival+ft.+daniela+mora%2C+alex+english%2C+mike+hanford%2C+and+more%21/15022613/"
-   ],
-   "free": false,
-   "new_since_last_run": false,
-   "excerpt": "🗣️ Ask Comedians Anything Show 10 is LIVE at Brooklyn Improv with Daniela Mora, Joey Dardano (Adults), Alex English (SNL), Caroline Hanes &amp; Mike Hanford THIS Wednesday November 11th, 7:30pm‼️ 🎟️ Tickets here: [https://improv.com/brooklyn/event/ask+comedians+anything+present"
-  },
-  {
    "id": "1xtnr9t",
    "date": "2026-11-11",
    "subreddit": "williamsburg",
    "title": "Owning a comedy &amp; other stories",
-   "score": 32,
+   "score": 31,
    "comments": 6,
    "url": "https://www.reddit.com/r/williamsburg/comments/1xtnr9t/owning_a_comedy_other_stories/",
    "venues_mentioned": [
@@ -1170,26 +1266,6 @@
    "free": false,
    "new_since_last_run": false,
    "excerpt": "Hello, I'm Nick. I'm a comedian and owner of Flop House Comedy club. If you've been here before, you've almost certainly seen me do stand up. I am headlining this Thursday at Flop House for the NYC Fest. The new hour is mostly about starting a business and getting married. I hope"
-  },
-  {
-   "id": "1xta8go",
-   "date": "2026-11-11",
-   "subreddit": "williamsburg",
-   "title": "Interactive Comedy Show TONIGHT at Brooklyn Improv!",
-   "score": 3,
-   "comments": 0,
-   "url": "https://www.reddit.com/r/williamsburg/comments/1xta8go/interactive_comedy_show_tonight_at_brooklyn_improv/",
-   "venues_mentioned": [
-    "Brooklyn Improv"
-   ],
-   "when_mentioned": "Wednesday November 11th, 7:30pm‼️ 🎟️ Tickets her",
-   "time_mentioned": "7:30pm",
-   "links": [
-    "https://improv.com/brooklyn/event/ask+comedians+anything+presented+by+new+york+comedy+festival+ft.+daniela+mora%2C+alex+english%2C+mike+hanford%2C+and+more%21/15022613/"
-   ],
-   "free": false,
-   "new_since_last_run": false,
-   "excerpt": "🗣️ Ask Comedians Anything Show 10 is LIVE at Brooklyn Improv with Daniela Mora, Joey Dardano (Adults), Alex English (SNL), Caroline Hanes &amp; Mike Hanford THIS Wednesday November 11th, 7:30pm‼️ 🎟️ Tickets here: [https://improv.com/brooklyn/event/ask+comedians+anything+present"
   },
   {
    "id": "1xtsz29",
@@ -1271,7 +1347,7 @@
    "date": "2026-11-11",
    "subreddit": "crownheights",
    "title": "Crown Heights November Events Thread 11/11-11/18",
-   "score": 17,
+   "score": 15,
    "comments": 3,
    "url": "https://www.reddit.com/r/crownheights/comments/1xtu2rw/crown_heights_november_events_thread_11111118/",
    "venues_mentioned": [
@@ -1288,112 +1364,6 @@
    "free": true,
    "new_since_last_run": false,
    "excerpt": "Happy November! Hope everyone's recovered from the weekend. Here's what's happening in our neck of the woods this week. As always, comment more suggestions and they'll be added to the roster! *Wed 11/11* Veterans Day * 6-9pm - [Chess &amp; Cheers](https://www.instagram.com/p/Deab"
-  },
-  {
-   "id": "1xt2hjq",
-   "date": "2026-11-10",
-   "subreddit": "nycevents",
-   "title": "New York Comedy Fest Show in Williamsburg! 11/12, 9:30 $20",
-   "score": 1,
-   "comments": 0,
-   "url": "https://www.reddit.com/r/nycevents/comments/1xt2hjq/new_york_comedy_fest_show_in_williamsburg_1112/",
-   "venues_mentioned": [
-    "Flop House Comedy"
-   ],
-   "when_mentioned": null,
-   "time_mentioned": null,
-   "links": [
-    "https://flophousecomedy.com/d4746cdc-a0b5-45ce-b897-afcb896b1851/event/404045bd-c3c3-4459-af3b-eb1a9fd5d6eb"
-   ],
-   "free": false,
-   "new_since_last_run": false,
-   "excerpt": "**Daegen Asfaha &amp; Friends Headline Flop House Comedy Club! Get Tickets** [HERE](https://flophousecomedy.com/d4746cdc-a0b5-45ce-b897-afcb896b1851/event/404045bd-c3c3-4459-af3b-eb1a9fd5d6eb)"
-  },
-  {
-   "id": "1xt2hx3",
-   "date": "2026-11-10",
-   "subreddit": "williamsburg",
-   "title": "New York Comedy Fest Show in Williamsburg! 11/12, 9:30 $20",
-   "score": 1,
-   "comments": 0,
-   "url": "https://www.reddit.com/r/williamsburg/comments/1xt2hx3/new_york_comedy_fest_show_in_williamsburg_1112/",
-   "venues_mentioned": [],
-   "when_mentioned": null,
-   "time_mentioned": null,
-   "links": [],
-   "free": false,
-   "new_since_last_run": false,
-   "excerpt": ""
-  },
-  {
-   "id": "1xt0ck1",
-   "date": "2026-11-10",
-   "subreddit": "williamsburg",
-   "title": "Hi I am local comedian doing a comedy/history show on Wednesday about the early Russian empire",
-   "score": 23,
-   "comments": 7,
-   "url": "https://www.reddit.com/r/williamsburg/comments/1xt0ck1/hi_i_am_local_comedian_doing_a_comedyhistory_show/",
-   "venues_mentioned": [],
-   "when_mentioned": "Wednesday about the early Russian empire If you l",
-   "time_mentioned": null,
-   "links": [
-    "https://www.eventbrite.com/e/matty-litwack-presents-peter-the-great-final-showing-tickets-1998926892144?discount=REDDIT"
-   ],
-   "free": false,
-   "new_since_last_run": false,
-   "excerpt": "If you like comedy and history then you'll probably like this show. Many Redditors have come to past shows and enjoyed it and this is a special show because it's part of the New York Comedy Festival and it's also THE FINAL TIME I'm ever doing the show, because I'm working on a ne"
-  },
-  {
-   "id": "1xsvrjz",
-   "date": "2026-11-10",
-   "subreddit": "astoria",
-   "title": "Spaces in Astoria for private open mic?",
-   "score": 2,
-   "comments": 7,
-   "url": "https://www.reddit.com/r/astoria/comments/1xsvrjz/spaces_in_astoria_for_private_open_mic/",
-   "venues_mentioned": [],
-   "when_mentioned": null,
-   "time_mentioned": null,
-   "links": [],
-   "free": true,
-   "new_since_last_run": false,
-   "excerpt": "Pretty much as the title says. I’m hoping to find a cheap/free private space to host an open mic night for my birthday. I’m expecting maybe 30 or so people who I’m sure will be buying lots of drinks and food at whatever venue I go with. Any recs would be greatly appreciated!"
-  },
-  {
-   "id": "1xsre4l",
-   "date": "2026-11-10",
-   "subreddit": "astoria",
-   "title": "Post Thanksgiving comedy show at QED",
-   "score": 5,
-   "comments": 0,
-   "url": "https://www.reddit.com/r/astoria/comments/1xsre4l/post_thanksgiving_comedy_show_at_qed/",
-   "venues_mentioned": [],
-   "when_mentioned": null,
-   "time_mentioned": null,
-   "links": [
-    "https://qedastoria.com/products/standuptown-q-e-d?"
-   ],
-   "free": false,
-   "new_since_last_run": false,
-   "excerpt": "Hey All, November 27th day after Thanksgiving we have this awesome comedy show! Bring the family or give yourself a break from the family by laughing with us. We promise you all of the laughs with comedians from NYCF, Comedy Central &amp; more! *Line Up* Santiago Angel Megan McNu"
-  },
-  {
-   "id": "1xspwpy",
-   "date": "2026-11-10",
-   "subreddit": "astoria",
-   "title": "Hey Astoria! Grove 34 wants to hear from you!",
-   "score": 48,
-   "comments": 49,
-   "url": "https://www.reddit.com/r/astoria/comments/1xspwpy/hey_astoria_grove_34_wants_to_hear_from_you/",
-   "venues_mentioned": [
-    "Grove 34"
-   ],
-   "when_mentioned": null,
-   "time_mentioned": null,
-   "links": [],
-   "free": false,
-   "new_since_last_run": false,
-   "excerpt": "Hello fellow Astorians! I’ve recently been hired to develop the education program at Grove 34 Comedy Club and would love to hear from the community as to what y’all would want to see. Besides a standard beginner improv or stand up class, what would pique your interest to check ou"
   }
  ]
 }

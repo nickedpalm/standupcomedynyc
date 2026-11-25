@@ -39,7 +39,7 @@ const isPerson = (s) => Boolean(s) && s.length <= 40 && !NOT_A_NAME.test(s) && !
 // performers sends a research run after a show rather than a comic, so a
 // two-word title that is also on the known-show list is dropped, and a title
 // with a plural or collective noun is dropped as a brand.
-const SHOW_TITLES = /\b(peer revue|sunday funday|tone|homies|workout|revue|spectacular|showcase|experience|funday|trial|contest|finale|crowd work|good god|good work|good comics|camp virgo|dear kiko|mortified|clocked off|somewhat shakespeare|shafi and friends|famous last words|not ripe bananas|pizzazz|deadass|kismet comedy|comic idol|laughing buddha|thespirits|the launch|more)\b/i;
+const SHOW_TITLES = /\b(peer revue|sunday funday|tone|homies|workout|revue|spectacular|showcase|experience|funday|trial|contest|finale|crowd work|good god|good work|good comics|camp virgo|dear kiko|mortified|clocked off|somewhat shakespeare|shafi and friends|famous last words|not ripe bananas|pizzazz|deadass|kismet comedy|comic idol|laughing buddha|thespirits|the launch|family therapy|steam room etiquette|wednesday favs|mondays in the club|late night laughs|date night|true york|args and grievances|arguments and grievances)\b/i;
 const COLLECTIVE = /\b(friends named|and friends|named casey|the homies|the dudes|guys|ladies|crew|squad|collective)\b/i;
 const isPersonTitle = (s) => isPerson(s) && !SHOW_TITLES.test(s) && !COLLECTIVE.test(s);
 // Split a credit list on commas and conjunctions: "Francis Ellis, Caitlin Peluffo, Peyton Ruddy, & More!"
