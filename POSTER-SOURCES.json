@@ -1462,7 +1462,7 @@
  },
  {
   "event_id": "fundraiser-for-flatbush-brooklyn-improv-2026-11-25",
-  "src": "/assets/posters/fundraiser-for-flatbush-brooklyn-improv-2026-11-25.png",
+  "src": "/assets/posters/archive/fundraiser-for-flatbush-brooklyn-improv-2026-11-25.png",
   "width": 1200,
   "height": 803,
   "source_url": "https://improv.com/brooklyn/event/a+fundraiser+for+flatbush+ft.+reg+thomas%2c+eva+evans%2c+onika+mclean%2c+jordan+rock%2c+and+more!/15057253/",
@@ -1473,7 +1473,8 @@
   "retrieved_at": "2026-11-19",
   "reuse_status": "Official promotional artwork from the show's public listing; no separate reuse license identified. Site display with credit only.",
   "bytes": 1283035,
-  "sha256": "7fc5d4a64fceeda5da0d5f9430b1b1894c7636ad1ddcea7589b2d126a890b24a"
+  "sha256": "7fc5d4a64fceeda5da0d5f9430b1b1894c7636ad1ddcea7589b2d126a890b24a",
+  "archived": true
  },
  {
   "event_id": "gavin-matts-failure-union-hall-2026-12-09",
@@ -3219,7 +3220,7 @@
  },
  {
   "event_id": "pizzazz-gary-gulman-union-hall-2026-11-25",
-  "src": "/assets/posters/pizzazz-gary-gulman-union-hall-2026-11-25.jpg",
+  "src": "/assets/posters/archive/pizzazz-gary-gulman-union-hall-2026-11-25.jpg",
   "width": 1880,
   "height": 940,
   "source_url": "https://www.eventbrite.com/e/pizzazz-with-gary-gulman-tickets-2004047837028",
@@ -3230,7 +3231,8 @@
   "retrieved_at": "2026-10-29",
   "bytes": 152728,
   "sha256": "8d101f03e9bf4c14b84163d96d192c726f5f839dd1da15f69da12def0bab1ef0",
-  "reuse_status": "Official promotional artwork; no separate reuse license identified. Local review draft only."
+  "reuse_status": "Official promotional artwork; no separate reuse license identified. Local review draft only.",
+  "archived": true
  },
  {
   "event_id": "pizzazz-gary-gulman-union-hall-2026-12-23",
