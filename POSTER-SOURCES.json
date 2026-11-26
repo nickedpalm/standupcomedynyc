@@ -846,7 +846,7 @@
  },
  {
   "event_id": "date-night-comedy-st-marks-2026-11-26",
-  "src": "/assets/posters/date-night-comedy-st-marks-2026-11-26.jpg",
+  "src": "/assets/posters/archive/date-night-comedy-st-marks-2026-11-26.jpg",
   "width": 1200,
   "height": 630,
   "source_url": "https://www.stmarkscomedy.com/shows/date-night-comedy-show-x2-2026-11-26-78474198",
@@ -857,7 +857,10 @@
   "retrieved_at": "2026-10-19",
   "bytes": 171520,
   "sha256": "9692d227de6c4887c009b0e3a53eec1f53f5d41107325bde5528c1f4743cbe14",
-  "reuse_status": "Official promotional artwork; no separate reuse license identified. Local review draft only."
+  "reuse_status": "Official promotional artwork; no separate reuse license identified. Local review draft only.",
+  "archived": true,
+  "archived_at": "2026-11-26",
+  "archived_reason": "The Nov 26 8:30 slot is now DATE NIGHT LAUGHS; the Date Night Comedy Show x2 flyer is retired."
  },
  {
   "event_id": "david-cross-benefit-2026-10-20",
@@ -1369,7 +1372,7 @@
  },
  {
   "event_id": "friday-night-laughs-st-marks-2026-11-27",
-  "src": "/assets/posters/friday-night-laughs-st-marks-2026-11-27.png",
+  "src": "/assets/posters/archive/friday-night-laughs-st-marks-2026-11-27.png",
   "width": 1200,
   "height": 630,
   "source_url": "https://www.stmarkscomedy.com/shows/friday-night-laughs-comedy-show-2026-11-27-4aa808e6",
@@ -1380,7 +1383,10 @@
   "retrieved_at": "2026-10-19",
   "bytes": 10909089,
   "sha256": "dfe8e48854ec34dbc20b827bbec3b2375c138b7c027e34358d7cd201f348cb66",
-  "reuse_status": "Official promotional artwork; no separate reuse license identified. Local review draft only."
+  "reuse_status": "Official promotional artwork; no separate reuse license identified. Local review draft only.",
+  "archived": true,
+  "archived_at": "2026-11-26",
+  "archived_reason": "The Nov 27 8:30 slot is now FRIDAY’s HOTTEST SHOW; the Friday Night Laughs flyer is retired."
  },
  {
   "event_id": "friday-night-laughs-st-marks-2026-12-04",
@@ -1524,7 +1530,7 @@
  },
  {
   "event_id": "gina-brillon-st-marks-2026-12-18",
-  "src": "/assets/posters/gina-brillon-st-marks-2026-12-18.jpeg",
+  "src": "/assets/posters/archive/gina-brillon-st-marks-2026-12-18.jpeg",
   "width": 540,
   "height": 720,
   "source_url": "https://www.tixr.com/groups/stmarkscomedyclub/events/gina-brillon-the-comedy-cellar-viral-social-media-jj-liberman-2-goons-podcast-alvin-kuai-comedy-cellar-and-moreeee-208088",
@@ -1535,7 +1541,10 @@
   "retrieved_at": "2026-11-07",
   "bytes": 92508,
   "sha256": "25dd058f5576da9bf34e131892cdacd6a0f89e98431ba00b47821d25eda68da7",
-  "reuse_status": "Official promotional artwork; no separate reuse license identified. Local review draft only."
+  "reuse_status": "Official promotional artwork; no separate reuse license identified. Local review draft only.",
+  "archived": true,
+  "archived_at": "2026-11-26",
+  "archived_reason": "The Dec 18 8:30 slot is now Friday Night Laughs Comedy Show; the per-performer flyer is retired."
  },
  {
   "event_id": "girl-church-union-hall-2026-09-25",
@@ -3110,13 +3119,13 @@
   "archived": true
  },
  {
-  "event_id": "peter-and-friends-st-marks-2026-12-05",
-  "src": "/assets/posters/peter-and-friends-st-marks-2026-12-05.png",
+  "event_id": "peter-and-friends-st-marks-2027-02-06",
+  "src": "/assets/posters/peter-and-friends-st-marks-2027-02-06.png",
   "width": 1038,
   "height": 1516,
-  "source_url": "https://www.stmarkscomedy.com/shows/peter-friends-comedy-show-2026-12-05-fa92b902",
+  "source_url": "https://www.stmarkscomedy.com/shows/peter-friends-comedy-show-2027-02-06-fa92b902",
   "credit": "Artwork: St. Marks Comedy Club",
-  "alt": "Peter & Friends Comedy Show at St. Marks Comedy Club — Saturday December 5, 2026, 6:30pm.",
+  "alt": "Peter & Friends Comedy Show at St. Marks Comedy Club — Saturday February 6, 2027, 6:30pm.",
   "kind": "dated event flyer",
   "original_image_url": "https://qfrmgyichufynswkwaxp.supabase.co/storage/v1/object/public/show-fliers/0.6287584107635822.png",
   "retrieved_at": "2026-10-25",
@@ -3699,7 +3708,7 @@
  },
  {
   "event_id": "sienna-hubert-ross-st-marks-2026-12-18",
-  "src": "/assets/posters/sienna-hubert-ross-st-marks-2026-12-18.png",
+  "src": "/assets/posters/archive/sienna-hubert-ross-st-marks-2026-12-18.png",
   "width": 450,
   "height": 600,
   "source_url": "https://www.tixr.com/groups/stmarkscomedyclub/events/sienna-hubert-ross-the-stand-plus-viral-tiktoks-jj-liberman-2-goons-podcast-and-many-more--208102",
@@ -3710,7 +3719,10 @@
   "retrieved_at": "2026-11-07",
   "bytes": 512286,
   "sha256": "25ad6c14ea31a8e8c42b1444044fdd2631fb3cc30eb0e4b76e33197b698dffc8",
-  "reuse_status": "Official promotional artwork; no separate reuse license identified. Local review draft only."
+  "reuse_status": "Official promotional artwork; no separate reuse license identified. Local review draft only.",
+  "archived": true,
+  "archived_at": "2026-11-26",
+  "archived_reason": "The Dec 18 10:30 slot is now Late Night Speakeasy Comedy Show; the per-performer flyer is retired."
  },
  {
   "event_id": "sienna-hubert-ross-union-hall-2026-11-12",
@@ -4845,5 +4857,95 @@
   "bytes": 13400,
   "sha256": "0f3dff683163ef120ab805699d7e85a9a96b394d67356d83ed3bba274bb4f6db",
   "reuse_status": "Official promotional artwork; no separate reuse license identified. Site display with credit only."
+ },
+ {
+  "event_id": "early-pregame-comedy-night-st-marks-2026-11-26",
+  "src": "/assets/posters/early-pregame-comedy-night-st-marks-2026-11-26.jpg",
+  "width": 1280,
+  "height": 720,
+  "source_url": "https://www.stmarkscomedy.com/shows/early-pregame-comedy-night-with-danielle-slaugher-kill-tony-2026-11-26-bb0a9b80",
+  "credit": "Photo: St. Marks Comedy Club (via the club’s show page)",
+  "alt": "A comic on the small stage at St. Marks Comedy Club, blue wall behind her.",
+  "kind": "show photo",
+  "original_image_url": "https://qfrmgyichufynswkwaxp.supabase.co/storage/v1/object/public/show-fliers/0.32920519607995524.jpg",
+  "retrieved_at": "2026-11-26",
+  "bytes": 42748,
+  "sha256": "2e0da1a6dc1f604309ff89bc8c3225bacb0e46c8080494028f5b0f3ad1d8f68b",
+  "reuse_status": "Official promotional artwork; no separate reuse license identified. Local review draft only."
+ },
+ {
+  "event_id": "date-night-laughs-st-marks-2026-11-26",
+  "src": "/assets/posters/date-night-laughs-st-marks-2026-11-26.jpg",
+  "width": 960,
+  "height": 1441,
+  "source_url": "https://www.stmarkscomedy.com/shows/date-night-laughs-with-vivi-armacast-viral-tiktok-alexis-car-2026-11-26-78474198",
+  "credit": "Artwork: St. Marks Comedy Club",
+  "alt": "Date Night Laughs at St. Marks Comedy Club — Thursday, November 26, 2026.",
+  "kind": "dated event flyer",
+  "original_image_url": "https://qfrmgyichufynswkwaxp.supabase.co/storage/v1/object/public/show-fliers/0.3988401691384529.jpg",
+  "retrieved_at": "2026-11-26",
+  "bytes": 151283,
+  "sha256": "2d393aea72b5896ed9ed922bc57d5abcb4afc52eb728f0c5a795f1e5c532486b",
+  "reuse_status": "Official promotional artwork; no separate reuse license identified. Local review draft only."
+ },
+ {
+  "event_id": "fridays-hottest-show-st-marks-2026-11-27",
+  "src": "/assets/posters/fridays-hottest-show-st-marks-2026-11-27.jpg",
+  "width": 474,
+  "height": 315,
+  "source_url": "https://www.stmarkscomedy.com/shows/fridays-hottest-show-with-chris-riggins-bet-plus-bay-areas-f-2026-11-27-4aa808e6",
+  "credit": "Photo: St. Marks Comedy Club (via the club’s show page)",
+  "alt": "A smiling man in a cap, the club’s photo for the Friday 8:30 show.",
+  "kind": "show photo",
+  "original_image_url": "https://qfrmgyichufynswkwaxp.supabase.co/storage/v1/object/public/show-fliers/0.056672076803737204.jpg",
+  "retrieved_at": "2026-11-26",
+  "bytes": 30957,
+  "sha256": "5c10a22b45b985e1f6e0ebeec35ba03b474b61895d6d833216752be8f5ae8703",
+  "reuse_status": "Official promotional artwork; no separate reuse license identified. Local review draft only."
+ },
+ {
+  "event_id": "thanksgiving-comedy-in-the-city-st-marks-2026-11-26",
+  "src": "/assets/posters/thanksgiving-comedy-in-the-city-st-marks-2026-11-26.jpg",
+  "width": 1254,
+  "height": 1254,
+  "source_url": "https://www.stmarkscomedy.com/shows/thanksgiving-comedy-in-the-city-2026-11-26-46f4e6d7",
+  "credit": "Artwork: St. Marks Comedy Club",
+  "alt": "Thanksgiving Comedy in the City at St. Marks Comedy Club — Thursday, November 26, 2026.",
+  "kind": "dated event flyer",
+  "original_image_url": "https://qfrmgyichufynswkwaxp.supabase.co/storage/v1/object/public/show-fliers/0.6218406036846413.jpg",
+  "retrieved_at": "2026-11-26",
+  "bytes": 589247,
+  "sha256": "25f80cc06c2af32693ada6e4f6a11cabfad044318679d5e7d4060f0bb54e1a3f",
+  "reuse_status": "Official promotional artwork; no separate reuse license identified. Local review draft only."
+ },
+ {
+  "event_id": "daniela-ines-calvo-st-marks-2026-12-06",
+  "src": "/assets/posters/daniela-ines-calvo-st-marks-2026-12-06.png",
+  "width": 1080,
+  "height": 1440,
+  "source_url": "https://www.stmarkscomedy.com/shows/daniela-ines-calvo-comedy-show-2026-12-06-7cf7b179",
+  "credit": "Artwork: St. Marks Comedy Club",
+  "alt": "Daniela Inés Calvo Comedy Show at St. Marks Comedy Club — Sunday, December 6, 2026.",
+  "kind": "dated event flyer",
+  "original_image_url": "https://qfrmgyichufynswkwaxp.supabase.co/storage/v1/object/public/show-fliers/0.5966728988304465.png",
+  "retrieved_at": "2026-11-26",
+  "bytes": 1678971,
+  "sha256": "634d051f8caee4f3db05ef9927a9dc0da5a98df57ab34ec51449b4a58d382c62",
+  "reuse_status": "Official promotional artwork; no separate reuse license identified. Local review draft only."
+ },
+ {
+  "event_id": "a-true-york-st-marks-2026-12-05",
+  "src": "/assets/posters/a-true-york-st-marks-2026-12-05.jpg",
+  "width": 2054,
+  "height": 1540,
+  "source_url": "https://www.stmarkscomedy.com/shows/a-true-york-comedy-experience-2026-12-05-c30ba566",
+  "credit": "Photo: St. Marks Comedy Club (the club’s own room photo)",
+  "alt": "The St. Marks Comedy Club room, packed for a show with the stage lit and the crowd at the tables.",
+  "kind": "venue photo",
+  "original_image_url": "https://qfrmgyichufynswkwaxp.supabase.co/storage/v1/object/public/show-fliers/0.7862414551778034.jpeg",
+  "retrieved_at": "2026-11-26",
+  "bytes": 394151,
+  "sha256": "4318d81fa5e67712d7fbdad24e4830a8d8066a3bc056835a128a3f90014d631d",
+  "reuse_status": "Official promotional artwork; no separate reuse license identified. Local review draft only."
  }
 ]

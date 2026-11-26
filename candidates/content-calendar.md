@@ -13,12 +13,13 @@ Six weeks ahead from the board. Regenerated on every build; edit the data, not t
 
 Ranked 23; run 0, reuse 6, skip 17; ~207,000 tokens saved.
 
-## Week 1: Nov 26 to Dec 2 — 45 picks — 15 without artwork · 31 Eventbrite leads not yet reviewed
+## Week 1: Nov 26 to Dec 2 — 46 picks — 14 without artwork · 31 Eventbrite leads not yet reviewed
 
-- Thu Nov 26 6:30pm · doors 6pm — **A TRUE YORK COMEDY EXPERIENCE** at St. Marks Comedy Club · NO ARTWORK
+- Thu Nov 26 6:30pm · doors 6pm — **EARLY PREGAME COMEDY NIGHT** at St. Marks Comedy Club
 - Thu Nov 26 8pm — **Thanksgiving Comedy Show** at The Grisly Pear
-- Thu Nov 26 8:30pm · doors 8pm — **Date Night Comedy Show x2** at St. Marks Comedy Club
+- Thu Nov 26 8:30pm · doors 8pm — **DATE NIGHT LAUGHS** at St. Marks Comedy Club
 - Thu Nov 26 8:30pm · doors 8pm with the food — **Thanksgiving Comedy Potluck** at Bushwick Comedy Club · SOLD OUT · heat 100
+- Thu Nov 26 10:30pm · doors 10pm — **Thanksgiving Comedy in the City** at St. Marks Comedy Club
 - Fri Nov 27 6pm — **Family Therapy** at West Side Comedy Club · NO ARTWORK
 - Fri Nov 27 7:30pm — **Grove Comedy** at Grove 34
 - Fri Nov 27 7:30pm · doors 7pm — **Thankful for Laughs with Jenny Gorelick and Friends** at Union Hall
@@ -26,7 +27,7 @@ Ranked 23; run 0, reuse 6, skip 17; ~207,000 tokens saved.
 - Fri Nov 27 8pm — **Tom Van Horn, Elyse DeLucci, Jason Salmon & Kareem Green** at Comic Strip Live · NO ARTWORK
 - Fri Nov 27 8pm — **The Prime Time Show at Flop House** at Flop House Comedy · NO ARTWORK
 - Fri Nov 27 8pm — **Friday Favs** at West Side Comedy Club · NO ARTWORK
-- Fri Nov 27 8:30pm · doors 8pm — **Friday Night Laughs Comedy Show** at St. Marks Comedy Club
+- Fri Nov 27 8:30pm · doors 8pm — **FRIDAY's HOTTEST SHOW** at St. Marks Comedy Club
 - Fri Nov 27 9pm · doors 8:30pm — **Black Cat Fridays** at Black Cat LES
 - Fri Nov 27 10pm · doors 9:30pm — **Girl Church hosted by Amelia Ritthaler** at Union Hall
 - Fri Nov 27 10pm — **Cipha Sounds, Isabel Hagen, Katie Blunt, Sharief Johnson, Sam Frank and Eeland Stribling** at West Side Comedy Club · NO ARTWORK
@@ -71,7 +72,7 @@ Ranked 23; run 0, reuse 6, skip 17; ~207,000 tokens saved.
   - Sat Nov 28 7pm — Garbage Day - Worst Things On The Internet 2026 at Caveat · from $24.41 · has artwork
   - Sat Nov 28 7:30pm — Yay! A Sketch Show at Union Hall · from $15.92 · has artwork
 
-## Week 2: Dec 3 to Dec 9 — 31 picks — 8 without artwork · 21 Eventbrite leads not yet reviewed
+## Week 2: Dec 3 to Dec 9 — 31 picks — 7 without artwork · 21 Eventbrite leads not yet reviewed
 
 - Thu Dec 3 7:30pm — **Ania Magliano: Peach Fuzz** at The Bell House · heat 39
 - Thu Dec 3 8pm · doors 7:30pm — **Steam Room Etiquette Stand-Up** at Sesh Comedy
@@ -83,14 +84,14 @@ Ranked 23; run 0, reuse 6, skip 17; ~207,000 tokens saved.
 - Fri Dec 4 7:30pm · doors 7pm — **The Ethically Sourced Amanda Show** at Friends and Lovers
 - Fri Dec 4 8pm · doors 7:30pm — **FUNNY PEOPLE Live | Stand-Up Comedy on the Upper East Side** at Upper East Side Comedy Club · NO ARTWORK · going fast · heat 25
 - Fri Dec 4 8:30pm · doors 8pm — **Friday Night Laughs Comedy Show** at St. Marks Comedy Club
-- Sat Dec 5 6:30pm · doors 6pm — **Peter & Friends Comedy Show** at St. Marks Comedy Club
+- Sat Dec 5 6:30pm · doors 6pm — **A TRUE YORK COMEDY EXPERIENCE** at St. Marks Comedy Club
 - Sat Dec 5 7pm — **Demetri Martin: Standup Comedy for Christmas** at The Bell House · SOLD OUT · heat 100
 - Sat Dec 5 7pm — **Feel The News** at Friends and Lovers
 - Sat Dec 5 8pm · doors 7:30pm — **Ruperto Vanderpool, Nick Griffin, Vanessa Hollingshead, Joe Matarese and more** at Comic Strip Live · going fast · heat 25
 - Sat Dec 5 8:30pm · doors 8pm — **Speakeasy Saturday Night** at St. Marks Comedy Club
 - Sat Dec 5 9:30pm · doors 9pm — **Demetri Martin: Standup Comedy for Christmas** at The Bell House · going fast · heat 45
 - Sat Dec 5 10:30pm · doors 10pm — **Ruperto Vanderpool, Nick Griffin, Vanessa Hollingshead, Joe Matarese and more** at Comic Strip Live · NO ARTWORK · going fast · heat 25
-- Sun Dec 6 7:30pm — **Daniela Mora, Laz Rivero, Alexis Carabaño** at St. Marks Comedy Club · NO ARTWORK
+- Sun Dec 6 7:30pm — **Daniela Inés Calvo Comedy Show** at St. Marks Comedy Club
 - Sun Dec 6 7:30pm · doors 7pm — **Jenny & Alex Try New Jokes** at Union Hall
 - Sun Dec 6 8pm · doors 7:30pm — **DF Sweedler, Elyse DeLucci, Alli Breen, Nick Tilleli, Thash Mose, & more!** at Comic Strip Live
 - Mon Dec 7 8pm · doors 7pm — **R&B Karaoke and Comedy** at Comedy In Harlem · NO ARTWORK
@@ -115,11 +116,12 @@ Ranked 23; run 0, reuse 6, skip 17; ~207,000 tokens saved.
   - Thu Dec 3 9:30pm — Major Fix at Caveat · from $22.35 · has artwork
   - Fri Dec 4 8pm — Tom Van Horn, Connor O'Brien, Gregg Rogell, Joe Matarese, & Jordan Rock! at Comic Strip Live · from $25.71 · has artwork
 
-## Week 3: Dec 10 to Dec 16 — 21 picks — 11 without artwork · 7 Eventbrite leads not yet reviewed
+## Week 3: Dec 10 to Dec 16 — 22 picks — 12 without artwork · 7 Eventbrite leads not yet reviewed
 
 - Thu Dec 10 6:30pm · doors 6pm — **A TRUE YORK COMEDY EXPERIENCE** at St. Marks Comedy Club · NO ARTWORK
 - Thu Dec 10 7pm — **The Party Clown Party** at West Side Comedy Club
-- Thu Dec 10 8:30pm · doors 8pm — **Date Night Comedy Show x2** at St. Marks Comedy Club · NO ARTWORK
+- Thu Dec 10 8:30pm · doors 8pm — **Bourne With Talent Comedy Show** at St. Marks Comedy Club · NO ARTWORK
+- Thu Dec 10 10:30pm · doors 10pm — **Date Night Comedy Show x2** at St. Marks Comedy Club · NO ARTWORK
 - Fri Dec 11 6:30pm · doors 6pm — **The Comedy Olympics** at St. Marks Comedy Club · NO ARTWORK
 - Fri Dec 11 7pm — **Ryan Davis** at Brooklyn Improv
 - Fri Dec 11 7:30pm — **Grove Comedy** at Grove 34 · NO ARTWORK
@@ -148,14 +150,14 @@ Ranked 23; run 0, reuse 6, skip 17; ~207,000 tokens saved.
   - Tue Dec 15 8pm — Once More, With Feeling: Live! 25th Anniversary Show at Littlefield · from $11.79 · has artwork
   - Wed Dec 16 7pm — Barefooting Through The Snow with Tom Hearn at Club Cumming · from $17.85 · has artwork
 
-## Week 4: Dec 17 to Dec 23 — 21 picks — 14 without artwork
+## Week 4: Dec 17 to Dec 23 — 21 picks — 16 without artwork
 
 - Thu Dec 17 7:30pm — **Don't Stop I'm About to Jazz** at The Bell House
 - Thu Dec 17 8:30pm — **Tight Pants Comedy Show** at St. Marks Comedy Club · NO ARTWORK
 - Thu Dec 17 8:30pm · doors 8pm — **Landline Comedy at Wild East Brewing** at Wild East Brewing Co.
-- Fri Dec 18 8:30pm · doors 8pm — **Gina Brillon, JJ Liberman, Alvin Kuai and more** at St. Marks Comedy Club
-- Fri Dec 18 10:30pm · doors 10pm — **Sienna Hubert Ross, JJ Liberman and more** at St. Marks Comedy Club
-- Sat Dec 19 4:30pm · doors 4pm — **Prime Time Comedy Show** at St. Marks Comedy Club · NO ARTWORK
+- Fri Dec 18 8:30pm · doors 8pm — **Friday Night Laughs Comedy Show** at St. Marks Comedy Club · NO ARTWORK
+- Fri Dec 18 10:30pm · doors 10pm — **Late Night Speakeasy Comedy Show** at St. Marks Comedy Club · NO ARTWORK
+- Sat Dec 19 4:30pm · doors 4pm — **Am I the asshole? Comedy Show** at St. Marks Comedy Club · NO ARTWORK
 - Sat Dec 19 7:30pm · doors 6:30pm — **Golden Hour Fest hosted by Charlene Kaye** at Littlefield · NO ARTWORK
 - Sat Dec 19 7:30pm · doors 7pm — **Martin Urbano** at Union Hall · NO ARTWORK
 - Sat Dec 19 8pm — **Stand-Up Comedy NYC | Top Comedians on the Upper East Side** at Upper East Side Comedy Club · NO ARTWORK
@@ -182,7 +184,7 @@ Ranked 23; run 0, reuse 6, skip 17; ~207,000 tokens saved.
 - Sat Dec 26 8pm — **8PM Primetime Comedy Show at The Grisly Pear Greenwich Village** at The Grisly Pear · NO ARTWORK
 - Sat Dec 26 8pm · doors 7:30pm — **Stand-Up Comedy NYC | Top Comedians on the Upper East Side** at Upper East Side Comedy Club
 - Sat Dec 26 10pm · doors 9:30pm — **Late Night Stand-Up NYC | Comedy on the Upper East Side** at Upper East Side Comedy Club
-- Sun Dec 27 7:30pm · doors 7pm — **Sunday Funday** at St. Marks Comedy Club · NO ARTWORK
+- Sun Dec 27 7:30pm · doors 7pm — **Tony Dabas (Tony D Comedy Tour)** at St. Marks Comedy Club · NO ARTWORK
 - Sun Dec 27 8pm — **8PM Comedy Show at The Grisly Pear Greenwich Village** at The Grisly Pear · NO ARTWORK
 - Sun Dec 27 9:30pm · doors 9pm — **Sunday Late Comedy Show** at St. Marks Comedy Club · NO ARTWORK
 - Mon Dec 28 7:30pm · doors 7pm — **Famous Last Words** at Union Hall
