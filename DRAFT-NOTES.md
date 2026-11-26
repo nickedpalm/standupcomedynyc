@@ -2246,3 +2246,81 @@ workshop and both Demetri Martin Bell House dates — and the stamps moved to to
 Demetri Martin pages now read SOLD OUT, which is what `npm run heat` already had.
 
 `npm test` passes at **144 picks**, no warnings.
+
+## 2026-11-26 — Recovered edition (the 11:00 run died at its tool cap), plus five board corrections
+
+The 11:00 edition run stopped at its 120-iteration cap at 11:48 with its work
+uncommitted: thirteen new picks, five posters, a new club entry and a set of
+re-stamps sitting in the tree. The 09:15 nightly does `git add -A`, so that
+work would have gone out overnight under the message "Nightly: rotate expired
+picks" — mislabelled and attributed to the wrong run. It was verified and landed
+here instead.
+
+**Thirteen picks added**, each from a page opened and read today:
+
+- Cipha Sounds and friends (West Side Comedy Club, Fri Nov 27, 10pm)
+- Glorelys (Brooklyn Improv, Sat Nov 28, 6:45pm, The Lab)
+- Naansense with Raj Suresh & Zahid Dewji (Brooklyn Improv, Sat Nov 28, 7pm, Main Room)
+- Angelo Colina (En Español) (Brooklyn Improv, Sun Nov 29, 7pm, Main Room)
+- The Ethically Sourced Amanda Show (Friends and Lovers, Fri Dec 4, 7:30pm)
+- DF Sweedler and more (Comic Strip Live, Sun Dec 6, 8pm)
+- Pregame: A NYE Comedy Show Before Your Other Plans (Littlefield, Thu Dec 31, 7pm)
+- Best Year Ever (Union Hall, Thu Dec 31, 7:30pm)
+- New Joke Night at the Grisly Pear - Midtown (Tue Jan 5, 7pm)
+- 8PM Comedy Show at the Grisly Pear - Greenwich Village (Tue Jan 5, 8pm)
+- Secret Comedy Show (Cozy Art Land, Long Island City, Sat Jan 9, 9:30pm)
+- Comedia Criolla (En Español) (New York Comedy Club, UWS, Sun Jan 10, 6:30pm)
+- Jessica Kirson (New York Comedy Club, Midtown, Tue Jan 12, 7pm)
+
+**Five flyers** with provenance, one record each in `POSTER-SOURCES.json`; none
+is marked `reuse: granted`, so none goes on an Instagram card. **BK Made
+Comedy** added to the club registry (Bushwick, 1241 Halsey St). Bushwick's
+Thanksgiving potluck is tagged sold out, which is what the room's own page
+says.
+
+**Five board corrections**, each verified against the room's own page today
+rather than against our earlier notes:
+
+1. **Nine picks carried `end_time_confirmed: false` and a note saying the page
+   "prints no end time". The pages print it.** The West Side Comedy Club's show
+   pages carry the end time in the `<time>` element and in JSON-LD
+   `endDate` — "Friday, November 27, 2026 · 10:00 PM – 11:30 PM" — and the
+   same was true of the Caveat pages, whose own JSON-LD gives Immigrant Jam an
+   `endDate` of 20:30 on both Dec 4 and Jan 1, against the 21:00 we carried.
+   All nine now say `end_time_confirmed: true` with the end time the page
+   prints.
+
+2. **Not Ripe Bananas on Tuesday Dec 1 is not a show — it came off the board.**
+   The room's own December calendar renders that date as "7:00pm Closed For
+   Private Event", the PunchUp listing for that ticket carries no show name
+   and no start time, and the Not Ripe Bananas series dates are Dec 8, 15, 22
+   and 29. The pick was removed and its poster archived the way the Oct 15
+   pull did it, with a `POSTER-SOURCES.json` record marked archived and the
+   reason written down.
+
+3. **WSCC Wednesday Dec 9 was pointing at a dead ticket.** We had a Joe DeVito
+   Graduation Show at 7pm; the room's own calendar renders Dec 9 as "8:00pm
+   Navidades en NYC con Abelardo", no DeVito graduation page exists on the
+   club's site, and the PunchUp id we had pointed at renders "Oops, something
+   went wrong" with no start time. A Joe DeVito show that night does appear on
+   third-party ticket sites, so it may be real somewhere — but not as this
+   room's listing. The pick now names the show the room itself lists, at the
+   time the room itself lists, and the note says why it changed. **This is the
+   one to have a human eye on**: if the DeVito show is real and belongs on the
+   board, it needs its own verified listing, not this room's slot.
+
+4. **WSCC Friday Favs was missing from Nov 27 entirely.** The club's calendar
+   and its own show page both list Friday Favs at 8pm with Miss Lissa, Caitlin
+   Peluffo, Richie Redding, Shaunak Godkhindi and Pedro Gonzalez; the board had
+   no pick for it. Added, with the end time and the two-item minimum from the
+   page.
+
+5. **Family Therapy re-stamped.** The West Side room's 6pm clean, all-ages show
+   survives: the club's own show page exists and gives the date, the time and
+   the age policy. It is not in the club's ticket list for that month, so the
+   show page, not the calendar, is the evidence — and the note now says so.
+
+`npm test` passes at **150 picks**, no warnings. Six-week horizon reads
+45/31/21/21/17/12 picks. The 09:15 nightly's `git add -A` will no longer
+sweep scratch files: the six `scripts/_*` helpers from today were deleted
+before committing, as the Nov 24 and Nov 25 runs did.

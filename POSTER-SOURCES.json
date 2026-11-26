@@ -2874,7 +2874,7 @@
  },
  {
   "event_id": "not-ripe-bananas-wscc-2026-12-01",
-  "src": "/assets/posters/not-ripe-bananas-wscc-2026-12-01.webp",
+  "src": "/assets/posters/archive/not-ripe-bananas-wscc-2026-12-01.webp",
   "width": 792,
   "height": 660,
   "source_url": "https://www.westsidecomedyclub.com/shows/not-ripe-bananas",
@@ -2885,7 +2885,10 @@
   "retrieved_at": "2026-10-24",
   "bytes": 22456,
   "sha256": "ca4cc4c90bec1deadbf2a103eda1258f4520eb9a3062fd696862be1c0ef9175c",
-  "reuse_status": "Official promotional artwork; no separate reuse license identified. Local review draft only."
+  "reuse_status": "Official promotional artwork; no separate reuse license identified. Local review draft only.",
+  "archived": true,
+  "archived_at": "2026-11-26",
+  "archived_reason": "The room's own December 2026 calendar renders Tuesday December 1 as \"7:00pm Closed For Private Event\", and the PunchUp listing for the Not Ripe Bananas ticket carries no show name and no start time. The Not Ripe Bananas series dates are Dec 8, 15, 22 and 29. The pick was removed from the board on 2026-11-26."
  },
  {
   "event_id": "not-ripe-bananas-wscc-2026-12-08",
@@ -4766,6 +4769,81 @@
   "retrieved_at": "2026-11-25",
   "bytes": 46379,
   "sha256": "05576ba285639d720a1f7859f1aaff7da2c15b98448097b8b43b489306660bda",
+  "reuse_status": "Official promotional artwork; no separate reuse license identified. Site display with credit only."
+ },
+ {
+  "event_id": "df-sweedler-comic-strip-2026-12-06",
+  "src": "/assets/posters/df-sweedler-comic-strip-2026-12-06.webp",
+  "width": 940,
+  "height": 627,
+  "source_url": "https://www.eventbrite.com/e/df-sweedler-elyse-delucci-alli-breen-nick-tilleli-thash-mose-more-tickets-2005159306463",
+  "credit": "Artwork: Comic Strip Live / show organizer",
+  "alt": "DF Sweedler, Elyse DeLucci, Alli Breen, Nick Tilleli, Thash Mose and more — Comic Strip Live, Sunday December 6, 2026.",
+  "kind": "dated event flyer",
+  "original_image_url": "Eventbrite listing image (cdn.evbuc.com), served through the eventbrite.com image proxy",
+  "retrieved_at": "2026-11-26",
+  "bytes": 25162,
+  "sha256": "d7e5d074a0037176f3881d714006dec008252dddc5c24c99ec65f58a2f923aa6",
+  "reuse_status": "Official promotional artwork; no separate reuse license identified. Site display with credit only."
+ },
+ {
+  "event_id": "ethically-sourced-amanda-fnl-2026-12-04",
+  "src": "/assets/posters/ethically-sourced-amanda-fnl-2026-12-04.webp",
+  "width": 940,
+  "height": 470,
+  "source_url": "https://www.eventbrite.com/e/the-ethically-sourced-amanda-show-tickets-2005038532224",
+  "credit": "Artwork: Amanda Gordon / show organizer",
+  "alt": "The Ethically Sourced Amanda Show flyer for Friends and Lovers, Friday December 4, 2026.",
+  "kind": "dated event flyer",
+  "original_image_url": "Eventbrite listing image (cdn.evbuc.com), served through the eventbrite.com image proxy",
+  "retrieved_at": "2026-11-26",
+  "bytes": 77666,
+  "sha256": "414c1d37377061eebce7c3b3e98fefc8656f5ed03e5088f32a2ee71de2d2e554",
+  "reuse_status": "Official promotional artwork; no separate reuse license identified. Site display with credit only."
+ },
+ {
+  "event_id": "best-year-ever-union-hall-2026-12-31",
+  "src": "/assets/posters/best-year-ever-union-hall-2026-12-31.webp",
+  "width": 940,
+  "height": 470,
+  "source_url": "https://www.eventbrite.com/e/best-year-ever-tickets-2004793137241",
+  "credit": "Artwork: Union Hall / show organizer",
+  "alt": "Best Year Ever flyer for Union Hall, Thursday December 31, 2026.",
+  "kind": "dated event flyer",
+  "original_image_url": "Eventbrite listing image (cdn.evbuc.com), served through the eventbrite.com image proxy",
+  "retrieved_at": "2026-11-26",
+  "bytes": 41820,
+  "sha256": "976a45e5473adafc62bd8552982445ade264c5ea3685ae9524f10105c7cd4414",
+  "reuse_status": "Official promotional artwork; no separate reuse license identified. Site display with credit only."
+ },
+ {
+  "event_id": "pregame-littlefield-2026-12-31",
+  "src": "/assets/posters/pregame-littlefield-2026-12-31.webp",
+  "width": 940,
+  "height": 489,
+  "source_url": "https://www.eventbrite.com/e/pregame-a-nye-comedy-show-before-your-other-plans-tickets-2004623271167",
+  "credit": "Artwork: littlefield / show organizer",
+  "alt": "Pregame: A NYE Comedy Show Before Your Other Plans flyer for Littlefield, December 31, 2026.",
+  "kind": "dated event flyer",
+  "original_image_url": "Eventbrite listing image (cdn.evbuc.com), served through the eventbrite.com image proxy",
+  "retrieved_at": "2026-11-26",
+  "bytes": 34466,
+  "sha256": "9914b8a41b2ba213c37c32d52a5d009a99780a20a40193655d091955ba88a23e",
+  "reuse_status": "Official promotional artwork; no separate reuse license identified. Site display with credit only."
+ },
+ {
+  "event_id": "secret-comedy-show-cozy-art-land-2027-01-09",
+  "src": "/assets/posters/secret-comedy-show-cozy-art-land-2027-01-09.webp",
+  "width": 940,
+  "height": 353,
+  "source_url": "https://www.eventbrite.com/e/secret-comedy-show-long-island-city-byob-tickets-2004602290413",
+  "credit": "Artwork: The Spotlight Comedy (NYC) / show organizer",
+  "alt": "Secret Comedy Show flyer for the Long Island City BYOB room at Cozy Art Land.",
+  "kind": "dated event flyer",
+  "original_image_url": "Eventbrite listing image (cdn.evbuc.com), served through the eventbrite.com image proxy",
+  "retrieved_at": "2026-11-26",
+  "bytes": 13400,
+  "sha256": "0f3dff683163ef120ab805699d7e85a9a96b394d67356d83ed3bba274bb4f6db",
   "reuse_status": "Official promotional artwork; no separate reuse license identified. Site display with credit only."
  }
 ]

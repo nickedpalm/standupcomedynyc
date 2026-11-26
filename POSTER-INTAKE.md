@@ -229,3 +229,22 @@ expired.
 - `comfy-clash-eastville-2026-11-15.png` — 660x660, 113,173 bytes
 
 None is marked `reuse: granted`, so none appears on an Instagram card.
+
+## 2026-11-26 — five flyers with the recovered 11:00 edition, and one retired
+
+Each local file was re-hashed against its `POSTER-SOURCES.json` record and
+matched byte for byte. The Eventbrite image proxy served WebP, so the files
+are named `.webp` and their real dimensions are read from the VP8 header.
+
+- `df-sweedler-comic-strip-2026-12-06.webp` — 940x627, 25,162 bytes
+- `ethically-sourced-amanda-fnl-2026-12-04.webp` — 940x470, 77,666 bytes
+- `pregame-littlefield-2026-12-31.webp` — 940x489, 34,466 bytes
+- `best-year-ever-union-hall-2026-12-31.webp` — 940x470, 41,820 bytes
+- `secret-comedy-show-cozy-art-land-2027-01-09.webp` — 940x353, 13,400 bytes
+
+None is marked `reuse: granted`, so none appears on an Instagram card.
+
+**Retired:** `not-ripe-bananas-wscc-2026-12-01.webp` moved to
+`web/assets/posters/archive/` and its record marked `archived: true` with the
+reason — the room's own December calendar shows Dec 1 closed for a private
+event, and the Not Ripe Bananas series dates are Dec 8, 15, 22 and 29.

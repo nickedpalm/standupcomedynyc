@@ -1037,3 +1037,34 @@ Added there, along with Steam Room Etiquette, Wednesday Favs, Mondays in the Clu
 Night Laughs, Date Night and True York, so the recurring and rotating shows on the board
 stop producing fake performers. The plan now runs zero times instead of one, and the
 ranked roster drops from 23 names to 21.
+
+### BK Made Comedy, a new Bushwick room (2026-11-26)
+
+Added to the club registry from the club's own About page and its event list:
+founded in 2025 by George Diaz, owned and operated by comedians, a small
+showroom at 1241 Halsey St off the Halsey L stop, every show BYOB with no drink
+minimum. The weeknight showcase is $5, Friday and Saturday 8pm shows are $15
+with free slices from Tony's Pizza while they last, and the hosted Sunday show
+is $10. Doors are 7:45pm for the 8pm shows and 6:45pm for the 7pm one, and the
+club's own show page warns that arriving more than fifteen minutes late may
+mean losing your seat. The sets are ten to fifteen minutes. The club publishes
+no age policy, so the entry says to check the listing rather than guess.
+
+### The West Side room's end times, settled (2026-11-26)
+
+The club's show pages do print an end time — in the `<time>` element and in
+JSON-LD `endDate` — and nine of our picks said the opposite. All nine are
+fixed, with the end time the page prints and a note that says where it came
+from. Caveat's own pages carry the same thing, so the two Immigrant Jam dates
+now end at 8:30pm instead of 9pm.
+
+### Two West Side shows that were not on the calendar (2026-11-26)
+
+The room's December calendar renders Tuesday Dec 1 as "7:00pm Closed For
+Private Event" and Wednesday Dec 9 as "8:00pm Navidades en NYC con Abelardo".
+We had a free Not Ripe Bananas workshop on Dec 1 and a Joe DeVito Graduation
+Show at 7pm on Dec 9. The first is off the board; the second now names the
+show the room actually lists. Friday Favs, which the room does list at 8pm on
+Nov 27, was missing and is now on. The club's own ticket pages are the
+evidence here, not the calendar: a show page can exist for a date the month
+calendar does not show, and vice versa.

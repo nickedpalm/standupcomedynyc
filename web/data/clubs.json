@@ -538,5 +538,25 @@
   "source_label": "The room’s own schedule and contact pages",
   "verified_at": "2026-11-25",
   "verification_note": "The address and the 6pm–4am hours come from the room’s contact page; the show-by-show prices, the age policies and the two-drink minimum on the Make It craft night come from the room’s own show pages. The accessibility statement on the room’s site says the physical space at 505 E 6th Street is not ADA compliant."
+ },
+ {
+  "id": "bk-made-comedy",
+  "tier": "club",
+  "name": "BK Made Comedy",
+  "rooms": "One small showroom at 1241 Halsey St, right off the Halsey L stop",
+  "address": "1241 Halsey St, Brooklyn",
+  "neighborhood": "Bushwick",
+  "price_label": "$5 weeknight general admission; $15 Friday and Saturday general admission; $10 for the Sunday hosted show",
+  "price_low": 5,
+  "price_high": 15,
+  "minimum": "No drink minimum. Every show is BYOB, and the room says so on every listing.",
+  "age": "Not stated on the club’s own pages; check the show listing before you go",
+  "reservations": "Tickets through the club’s own site, one page per show. Doors 7:45pm for the 8pm shows and 6:45pm for the 7pm shows, and arriving more than fifteen minutes late can cost you your seat.",
+  "character": "A Bushwick room founded in 2025 by the comedian George Diaz and run by comics, with a five-dollar weeknight showcase Monday to Thursday, a fifteen-dollar weekend bill Friday and Saturday with free slices from Tony’s Pizza, and a hosted Sunday show. The sets are ten to fifteen minutes and the lineup is never the same twice.",
+  "calendar_url": "https://www.bkmadecomedy.com/event-list",
+  "source_url": "https://www.bkmadecomedy.com/about",
+  "source_label": "The club’s own About page and its show pages",
+  "verified_at": "2026-11-26",
+  "verification_note": "The club’s own About page says it was founded in 2025 by George Diaz, is owned and operated by comedians, runs every show BYOB with no drink minimum, and puts weekend shows at $15. Its show pages give the $5 Monday-to-Thursday weeknight price, the $15 Friday and Saturday price with free pizza from Tony’s Pizza, the $10 Sunday hosted show, doors at 7:45pm for the 8pm shows and 6:45pm for the 7pm shows, and the rule that arriving more than fifteen minutes late may mean losing your seat. The club publishes no age policy, so that line says to check the listing rather than guessing."
  }
 ]

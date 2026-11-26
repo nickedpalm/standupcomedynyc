@@ -1,5 +1,5 @@
 {
- "retrieved_at": "2026-11-25T11:01:37.887Z",
+ "retrieved_at": "2026-11-26T11:01:34.739Z",
  "note": "Leads from Eventbrite organizer pages of registered rooms. Open the event page before adding a pick; artwork needs a POSTER-SOURCES record.",
  "organizers": [
   {
@@ -69,85 +69,13 @@
   {
    "venue": "The Mvmnt Studio",
    "organizer": "https://www.eventbrite.com/o/93684169573"
+  },
+  {
+   "venue": "Club Cumming",
+   "organizer": "https://www.eventbrite.com/o/33126418015"
   }
  ],
  "events": [
-  {
-   "venue": "Union Hall",
-   "neighborhood": "Park Slope",
-   "organizer": "https://www.eventbrite.com/o/union-hall-17899496497",
-   "title": "Pizzazz with Gary Gulman",
-   "date": "2026-11-25",
-   "time": "7:30pm",
-   "starts_at": "2026-11-25T19:30:00-05:00",
-   "ends_at": "2026-11-25T21:00:00-05:00",
-   "location_name": "Union Hall",
-   "location_address": "702 Union St., Brooklyn, NY 11215, Brooklyn",
-   "price_from": 19.26,
-   "url": "https://www.eventbrite.com/e/pizzazz-with-gary-gulman-tickets-2004047837028",
-   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F454979339%2F282041210522%2F1%2Foriginal.20230226-185050?w=940&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2160%2C1080&s=3378eaacf9c57b888e2be5a5f99e37a4",
-   "description": "Pizzazz with Gary Gulman - Wednesday, November 25 - 7:00pm Doors / 7:30pm Show",
-   "venue_name_matches": true,
-   "already_a_pick": true,
-   "seen_before": true
-  },
-  {
-   "venue": "Comic Strip Live",
-   "neighborhood": "Upper East Side",
-   "organizer": "https://www.eventbrite.com/o/comic-strip-live-comedy-club-8100188167",
-   "title": "Sheba Mason, Michele Balan, Harrison Greenbaum, Elyse DeLucci, and more!",
-   "date": "2026-11-25",
-   "time": "8pm",
-   "starts_at": "2026-11-25T20:00:00-05:00",
-   "ends_at": "2026-11-25",
-   "location_name": "Comic Strip Live",
-   "location_address": "1568 2nd Ave, New York, NY 10028, New York",
-   "price_from": 25.71,
-   "url": "https://www.eventbrite.com/e/sheba-mason-michele-balan-harrison-greenbaum-elyse-delucci-and-more-tickets-2003841765663",
-   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1196474232%2F136153380524%2F1%2Foriginal.20261023-212603?crop=focalpoint&fit=crop&w=940&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=a172932b50ba40d55d639fa8b46adf9f",
-   "description": "Be part of history, celebrating 50 years of Comedy at the World Comic Strip! Comedians from, HBO, The Tonight Show, SNL & More ~",
-   "venue_name_matches": true,
-   "already_a_pick": true,
-   "seen_before": false
-  },
-  {
-   "venue": "Flop House Comedy",
-   "neighborhood": "Williamsburg",
-   "organizer": "https://www.eventbrite.com/o/flop-house-comedy-74484939183",
-   "title": "OnlyFriends",
-   "date": "2026-11-25",
-   "time": "8pm",
-   "starts_at": "2026-11-25T20:00:00-05:00",
-   "ends_at": "2026-11-25T21:25:00-05:00",
-   "location_name": "362 Grand St",
-   "location_address": "362 Grand Street, Brooklyn, NY 11211, Brooklyn",
-   "price_from": 12.51,
-   "url": "https://www.eventbrite.com/e/onlyfriends-tickets-2002980960973",
-   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1187482940%2F369144123539%2F1%2Foriginal.20260623-144436?w=940&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C1280%2C640&s=c4421b1c769fa7a65206a8d15d9d4cd7",
-   "description": "A comedy showcase where comedians try their new material on their friends.",
-   "venue_name_matches": false,
-   "already_a_pick": false,
-   "seen_before": true
-  },
-  {
-   "venue": "Flop House Comedy",
-   "neighborhood": "Williamsburg",
-   "organizer": "https://www.eventbrite.com/o/flop-house-comedy-74484939183",
-   "title": "Grapevine Comedy - NYC Stand Up",
-   "date": "2026-11-25",
-   "time": "9:31pm",
-   "starts_at": "2026-11-25T21:31:00-05:00",
-   "ends_at": "2026-11-25T23:00:00-05:00",
-   "location_name": "362 Grand St",
-   "location_address": "362 Grand Street, Brooklyn, NY 11211, Brooklyn",
-   "price_from": 12.51,
-   "url": "https://www.eventbrite.com/e/grapevine-comedy-nyc-stand-up-tickets-2004408077517",
-   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1188394340%2F369144123539%2F1%2Foriginal.20260707-184751?w=940&auto=format%2Ccompress&q=75&sharp=10&s=38a31e051ad7f3832eb29415882a480b",
-   "description": "Step into the heart of Williamsburg every Wednesday night for Grapevine Comedy, where the city’s brightest up-and-coming comedians mix it up",
-   "venue_name_matches": false,
-   "already_a_pick": true,
-   "seen_before": true
-  },
   {
    "venue": "Union Hall",
    "neighborhood": "Park Slope",
@@ -184,7 +112,7 @@
    "description": "Be part of history, celebrating 50 years of Comedy at the World Comic Strip! Comedians from, HBO, The Tonight Show, SNL & More ~",
    "venue_name_matches": true,
    "already_a_pick": false,
-   "seen_before": false
+   "seen_before": true
   },
   {
    "venue": "Flop House Comedy",
@@ -223,6 +151,25 @@
    "venue_name_matches": true,
    "already_a_pick": false,
    "seen_before": true
+  },
+  {
+   "venue": "Club Cumming",
+   "neighborhood": "East Village",
+   "organizer": "https://www.eventbrite.com/o/33126418015",
+   "title": "JMV Presents: QUEERLESQUE",
+   "date": "2026-11-27",
+   "time": "8pm",
+   "starts_at": "2026-11-27T20:00:00-05:00",
+   "ends_at": "2026-11-27T22:00:00-05:00",
+   "location_name": "Club Cumming",
+   "location_address": "505 East 6th Street, New York, NY 10009, New York",
+   "price_from": 12.51,
+   "url": "https://www.eventbrite.com/e/jmv-presents-queerlesque-tickets-2004566254629",
+   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1197563470%2F533246917959%2F1%2Foriginal.20261109-025212?crop=focalpoint&fit=crop&w=940&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.456&fp-y=0.15&s=38f24710161fd5e43c9f611543b5d591",
+   "description": "JMV Presents: QUEERLESQUE / Friday, November 27th / 8pm / 21+",
+   "venue_name_matches": true,
+   "already_a_pick": false,
+   "seen_before": false
   },
   {
    "venue": "Flop House Comedy",
@@ -392,7 +339,7 @@
    "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1198620924%2F156982928809%2F1%2Foriginal.20261124-164824?crop=focalpoint&fit=crop&w=940&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=de6784a356bdb0d03493dc5e71a871c9",
    "description": "Festuring Liam Dalton (Netflix is a Joke), JJ Liberman (Kill Tony), Amanda Gail (Sirius XM) & More!",
    "venue_name_matches": true,
-   "already_a_pick": false,
+   "already_a_pick": true,
    "seen_before": true
   },
   {
@@ -584,6 +531,25 @@
    "venue_name_matches": true,
    "already_a_pick": false,
    "seen_before": true
+  },
+  {
+   "venue": "Club Cumming",
+   "neighborhood": "East Village",
+   "organizer": "https://www.eventbrite.com/o/33126418015",
+   "title": "The Canadian Thanksgiving Comedy Show",
+   "date": "2026-11-29",
+   "time": "6:30pm",
+   "starts_at": "2026-11-29T18:30:00-05:00",
+   "ends_at": "2026-11-29T20:00:00-05:00",
+   "location_name": "Club Cumming",
+   "location_address": "505 East 6th Street, New York, NY 10009, New York",
+   "price_from": 17.85,
+   "url": "https://www.eventbrite.com/e/the-canadian-thanksgiving-comedy-show-tickets-2004566960741",
+   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1197565005%2F533246917959%2F1%2Foriginal.20261109-033053?crop=focalpoint&fit=crop&w=940&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=056206c0bfc3c020cfecf3ab5c18db35",
+   "description": "The Canadian Thanksgiving Comedy Show / Sunday, November 29th / 6:30pm / 21+",
+   "venue_name_matches": true,
+   "already_a_pick": true,
+   "seen_before": false
   },
   {
    "venue": "Union Hall",
@@ -792,7 +758,7 @@
    "description": "Brain Rot Sip & Act is exactly what it sounds like: drinks, dramatic readings, and brain rot.",
    "venue_name_matches": false,
    "already_a_pick": false,
-   "seen_before": false
+   "seen_before": true
   },
   {
    "venue": "Union Hall",
@@ -829,8 +795,8 @@
    "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1190674456%2F369144123539%2F1%2Foriginal.20260810-012953?w=940&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C1280%2C640&s=77485cebe74e6ef0cff17617c2c02586",
    "description": "A night of new material hosted by Dan Toomey, Grace Lobo, Olivia, Witt, and Hayden Arrington",
    "venue_name_matches": false,
-   "already_a_pick": false,
-   "seen_before": false
+   "already_a_pick": true,
+   "seen_before": true
   },
   {
    "venue": "Friends and Lovers",
@@ -878,7 +844,7 @@
    "date": "2026-12-01",
    "time": "9:30pm",
    "starts_at": "2026-12-01T21:30:00-05:00",
-   "ends_at": "2026-12-01T23:30:00-05:00",
+   "ends_at": "2026-12-01T23:00:00-05:00",
    "location_name": "Caveat",
    "location_address": "21 A Clinton Street, New York, NY 10002, New York",
    "price_from": 18.76,
@@ -924,8 +890,8 @@
    "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1197716292%2F282041210522%2F1%2Foriginal.20261110-204522?crop=focalpoint&fit=crop&w=940&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=64bf7fc6823c7d2b09ad6dee934b0e97",
    "description": "Nick Mestad: Body Of Work - Tuesday, December 1 - 9:30pm Doors / 10:00pm Show",
    "venue_name_matches": true,
-   "already_a_pick": false,
-   "seen_before": false
+   "already_a_pick": true,
+   "seen_before": true
   },
   {
    "venue": "Caveat",
@@ -945,6 +911,44 @@
    "venue_name_matches": true,
    "already_a_pick": false,
    "seen_before": true
+  },
+  {
+   "venue": "Club Cumming",
+   "neighborhood": "East Village",
+   "organizer": "https://www.eventbrite.com/o/33126418015",
+   "title": "Loose Lips Comedy Show",
+   "date": "2026-12-02",
+   "time": "7pm",
+   "starts_at": "2026-12-02T19:00:00-05:00",
+   "ends_at": "2026-12-02T20:30:00-05:00",
+   "location_name": "Club Cumming",
+   "location_address": "505 East 6th Street, New York, NY 10009, New York",
+   "price_from": 17.85,
+   "url": "https://www.eventbrite.com/e/loose-lips-comedy-show-tickets-2004913271566",
+   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1198099560%2F533246917959%2F1%2Foriginal.20261116-192622?crop=focalpoint&fit=crop&w=940&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.432&fp-y=0.017&s=85246c5c6c10b032fb20ef7b0594d871",
+   "description": "Loose Lips Comedy Show / Wednesday, December 2nd / 7pm / 21+",
+   "venue_name_matches": true,
+   "already_a_pick": true,
+   "seen_before": false
+  },
+  {
+   "venue": "Union Hall",
+   "neighborhood": "Park Slope",
+   "organizer": "https://www.eventbrite.com/o/union-hall-17899496497",
+   "title": "Cold Plunge with Kurt Braunohler",
+   "date": "2026-12-02",
+   "time": "7:30pm",
+   "starts_at": "2026-12-02T19:30:00-05:00",
+   "ends_at": "2026-12-02T21:00:00-05:00",
+   "location_name": "Union Hall",
+   "location_address": "702 Union St., Brooklyn, NY 11215, Brooklyn",
+   "price_from": 15.92,
+   "url": "https://www.eventbrite.com/e/cold-plunge-with-kurt-braunohler-tickets-2003267452878",
+   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1183770960%2F282041210522%2F1%2Foriginal.20260505-013120?w=940&auto=format%2Ccompress&q=75&sharp=10&s=5a7e609b93e5d6c90d4237625d9f0f35",
+   "description": "Cold Plunge with Kurt Braunohler - Wednesday, December 2 - 7:00pm Doors / 7:30pm Show",
+   "venue_name_matches": true,
+   "already_a_pick": true,
+   "seen_before": false
   },
   {
    "venue": "Littlefield",
@@ -985,6 +989,25 @@
    "seen_before": true
   },
   {
+   "venue": "Club Cumming",
+   "neighborhood": "East Village",
+   "organizer": "https://www.eventbrite.com/o/33126418015",
+   "title": "Love, Sex & Magic: Comedy Variety Show",
+   "date": "2026-12-02",
+   "time": "9pm",
+   "starts_at": "2026-12-02T21:00:00-05:00",
+   "ends_at": "2026-12-02T22:30:00-05:00",
+   "location_name": "Club Cumming",
+   "location_address": "505 East 6th Street, New York, NY 10009, New York",
+   "price_from": 17.85,
+   "url": "https://www.eventbrite.com/e/love-sex-magic-comedy-variety-show-tickets-2004198395352",
+   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1197042704%2F533246917959%2F1%2Foriginal.20261101-224839?crop=focalpoint&fit=crop&w=940&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.48&fp-y=0.208&s=4daf08ddd19f3494b45828cdf1d2f064",
+   "description": "Love, Sex & Magic: Comedy Variety Show / Wednesday, December 2nd / 9:00pm / 21+",
+   "venue_name_matches": true,
+   "already_a_pick": false,
+   "seen_before": false
+  },
+  {
    "venue": "Caveat",
    "neighborhood": "Lower East Side",
    "organizer": "https://www.eventbrite.com/o/caveat-13580085802",
@@ -1002,6 +1025,25 @@
    "venue_name_matches": true,
    "already_a_pick": false,
    "seen_before": true
+  },
+  {
+   "venue": "Flop House Comedy",
+   "neighborhood": "Williamsburg",
+   "organizer": "https://www.eventbrite.com/o/flop-house-comedy-74484939183",
+   "title": "Weekend on Thursdays",
+   "date": "2026-12-03",
+   "time": "7pm",
+   "starts_at": "2026-12-03T19:00:00-05:00",
+   "ends_at": "2026-12-03T21:00:00-05:00",
+   "location_name": "Tipsy Village",
+   "location_address": "201 Allen Street, #Store 2, New York, NY 10002, New York",
+   "price_from": 12.51,
+   "url": "https://www.eventbrite.com/e/weekend-on-thursdays-tickets-2004330921742",
+   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1195226870%2F369144123539%2F1%2Foriginal.20261006-214324?w=940&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C1280%2C640&s=2a0f2edd1cc37714ef9e6735fecb6471",
+   "description": "Start your weekend off early with hilarious stand up comedy from local NYC legends. Different lineups every week! 1 item minimum",
+   "venue_name_matches": false,
+   "already_a_pick": false,
+   "seen_before": false
   },
   {
    "venue": "Littlefield",
@@ -1040,6 +1082,25 @@
    "venue_name_matches": true,
    "already_a_pick": false,
    "seen_before": true
+  },
+  {
+   "venue": "Flop House Comedy",
+   "neighborhood": "Williamsburg",
+   "organizer": "https://www.eventbrite.com/o/flop-house-comedy-74484939183",
+   "title": "A Night of PowerPoint Comedy",
+   "date": "2026-12-03",
+   "time": "8pm",
+   "starts_at": "2026-12-03T20:00:00-05:00",
+   "ends_at": "2026-12-03T21:29:00-05:00",
+   "location_name": "362 Grand St",
+   "location_address": "362 Grand Street, Brooklyn, NY 11211, Brooklyn",
+   "price_from": 17.85,
+   "url": "https://www.eventbrite.com/e/a-night-of-powerpoint-comedy-tickets-2003041913283",
+   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1188411769%2F369144123539%2F1%2Foriginal.20260707-221854?w=940&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C1280%2C640&s=c3af42193469a9c3e91843878453efce",
+   "description": "LizaBanks Campagna, Matty Litwack, and Luke Strathmann present a night of PowerPoint Comedy. featuring NYC's best comedians.",
+   "venue_name_matches": false,
+   "already_a_pick": false,
+   "seen_before": false
   },
   {
    "venue": "Upper East Side Comedy Club",
@@ -1191,7 +1252,7 @@
    "description": "Arguments & Grievances is a live comedy debate show where the audience decides the victor!",
    "venue_name_matches": true,
    "already_a_pick": false,
-   "seen_before": false
+   "seen_before": true
   },
   {
    "venue": "Upper East Side Comedy Club",
@@ -1342,8 +1403,8 @@
    "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1198417825%2F136153380524%2F1%2Foriginal.20261120-205219?crop=focalpoint&fit=crop&w=940&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.581&fp-y=0.214&s=99bd4a2d902270906780d1d3bd5db47b",
    "description": "Be part of history, celebrating 50 years of Comedy at the World Comic Strip! Comedians from, HBO, The Tonight Show, SNL & More ~",
    "venue_name_matches": true,
-   "already_a_pick": false,
-   "seen_before": false
+   "already_a_pick": true,
+   "seen_before": true
   },
   {
    "venue": "Littlefield",
@@ -1363,6 +1424,25 @@
    "venue_name_matches": true,
    "already_a_pick": false,
    "seen_before": true
+  },
+  {
+   "venue": "Comic Strip Live",
+   "neighborhood": "Upper East Side",
+   "organizer": "https://www.eventbrite.com/o/comic-strip-live-comedy-club-8100188167",
+   "title": "DF Sweedler, Elyse DeLucci, Alli Breen, Nick Tilleli, Thash Mose, & more!",
+   "date": "2026-12-06",
+   "time": "8pm",
+   "starts_at": "2026-12-06T20:00:00-05:00",
+   "ends_at": "2026-12-06",
+   "location_name": "Comic Strip Live",
+   "location_address": "1568 2nd Ave, New York, NY 10028, New York",
+   "price_from": 25.71,
+   "url": "https://www.eventbrite.com/e/df-sweedler-elyse-delucci-alli-breen-nick-tilleli-thash-mose-more-tickets-2005159306463",
+   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1198412335%2F136153380524%2F1%2Foriginal.20261120-192758?crop=focalpoint&fit=crop&w=940&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=907b9f328724897f188cde9475a01b8d",
+   "description": "Be part of history, celebrating 50 years of Comedy at the World Comic Strip! Comedians from, HBO, The Tonight Show, SNL & More ~",
+   "venue_name_matches": true,
+   "already_a_pick": false,
+   "seen_before": false
   },
   {
    "venue": "Littlefield",
@@ -1403,6 +1483,44 @@
    "seen_before": true
   },
   {
+   "venue": "Club Cumming",
+   "neighborhood": "East Village",
+   "organizer": "https://www.eventbrite.com/o/33126418015",
+   "title": "Attention Deficit Disorder Cabaret",
+   "date": "2026-12-08",
+   "time": "8:30pm",
+   "starts_at": "2026-12-08T20:30:00-05:00",
+   "ends_at": "2026-12-08T21:30:00-05:00",
+   "location_name": "Club Cumming",
+   "location_address": "505 East 6th Street, New York, NY 10009, New York",
+   "price_from": 23.18,
+   "url": "https://www.eventbrite.com/e/attention-deficit-disorder-cabaret-tickets-2004566618718",
+   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1197564107%2F533246917959%2F1%2Foriginal.20261109-030939?crop=focalpoint&fit=crop&w=940&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.518&fp-y=0.858&s=69b48004be557d6b6296205296ca4ccc",
+   "description": "Attention Deficit Disorder Cabaret / Tuesday, December 8th / 8:30pm / 21+",
+   "venue_name_matches": true,
+   "already_a_pick": false,
+   "seen_before": false
+  },
+  {
+   "venue": "Club Cumming",
+   "neighborhood": "East Village",
+   "organizer": "https://www.eventbrite.com/o/33126418015",
+   "title": "Gorge Night with Jake Cornell",
+   "date": "2026-12-09",
+   "time": "7:30pm",
+   "starts_at": "2026-12-09T19:30:00-05:00",
+   "ends_at": "2026-12-09T21:00:00-05:00",
+   "location_name": "Club Cumming",
+   "location_address": "505 East 6th Street, New York, NY 10009, New York",
+   "price_from": 17.85,
+   "url": "https://www.eventbrite.com/e/gorge-night-with-jake-cornell-tickets-2005359058928",
+   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1198591133%2F533246917959%2F1%2Foriginal.20261124-072752?crop=focalpoint&fit=crop&w=940&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.468&fp-y=0.712&s=d58297a36095e4650d0553e75fbe11bd",
+   "description": "Gorge Night with Jake Cornell / Wednesday December 9th / 7:30pm / 21+",
+   "venue_name_matches": true,
+   "already_a_pick": false,
+   "seen_before": false
+  },
+  {
    "venue": "Littlefield",
    "neighborhood": "Gowanus",
    "organizer": "https://www.eventbrite.com/o/littlefield-18046024060",
@@ -1422,6 +1540,63 @@
    "seen_before": true
   },
   {
+   "venue": "Club Cumming",
+   "neighborhood": "East Village",
+   "organizer": "https://www.eventbrite.com/o/33126418015",
+   "title": "The Revue  (An All Femme Variety Benefit Show)",
+   "date": "2026-12-10",
+   "time": "7:30pm",
+   "starts_at": "2026-12-10T19:30:00-05:00",
+   "ends_at": "2026-12-10T21:00:00-05:00",
+   "location_name": "Club Cumming",
+   "location_address": "505 East 6th Street, New York, NY 10009, New York",
+   "price_from": 23.18,
+   "url": "https://www.eventbrite.com/e/the-revue-an-all-femme-variety-benefit-show-tickets-2004735763635",
+   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1197870078%2F533246917959%2F1%2Foriginal.20261112-193512?crop=focalpoint&fit=crop&w=940&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.487&fp-y=0.013&s=c498933870284447202c5a41f9f5b65f",
+   "description": "The Revue (An All Femme Variety Benefit Show) / Thursday, December 10th / 7:30pm / 21+",
+   "venue_name_matches": true,
+   "already_a_pick": false,
+   "seen_before": false
+  },
+  {
+   "venue": "Club Cumming",
+   "neighborhood": "East Village",
+   "organizer": "https://www.eventbrite.com/o/33126418015",
+   "title": "Kim David Smith's \"A Wery Weimar Christmas\"",
+   "date": "2026-12-11",
+   "time": "8pm",
+   "starts_at": "2026-12-11T20:00:00-05:00",
+   "ends_at": "2026-12-11T21:30:00-05:00",
+   "location_name": "Club Cumming",
+   "location_address": "505 East 6th Street, New York, NY 10009, New York",
+   "price_from": 28.52,
+   "url": "https://www.eventbrite.com/e/kim-david-smiths-a-wery-weimar-christmas-tickets-2001625131651",
+   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1193868132%2F533246917959%2F1%2Foriginal.20260918-201048?crop=focalpoint&fit=crop&w=940&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.478&fp-y=0.023&s=102aeadf838c365d8d62981721b8431e",
+   "description": "Kim David Smith's \"A Wery Weimar Christmas\" / Friday, December 11th / 8pm / 21+",
+   "venue_name_matches": true,
+   "already_a_pick": false,
+   "seen_before": false
+  },
+  {
+   "venue": "Club Cumming",
+   "neighborhood": "East Village",
+   "organizer": "https://www.eventbrite.com/o/33126418015",
+   "title": "Club Cumming Christmas Spectacular Spectacular!",
+   "date": "2026-12-11",
+   "time": "10pm",
+   "starts_at": "2026-12-11T22:00:00-05:00",
+   "ends_at": "2026-12-12T00:00:00-05:00",
+   "location_name": "Club Cumming",
+   "location_address": "505 East 6th Street, New York, NY 10009, New York",
+   "price_from": 23.18,
+   "url": "https://www.eventbrite.com/e/club-cumming-christmas-spectacular-spectacular-tickets-2005303492728",
+   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1198553624%2F533246917959%2F1%2Foriginal.20261123-191342?crop=focalpoint&fit=crop&w=940&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=0ebaa5bb8e7355636d82ec92343932bb",
+   "description": "Club Cumming Christmas Spectacular Spectacular! / Friday, December 11th / 10pm / 21+",
+   "venue_name_matches": true,
+   "already_a_pick": false,
+   "seen_before": false
+  },
+  {
    "venue": "Littlefield",
    "neighborhood": "Gowanus",
    "organizer": "https://www.eventbrite.com/o/littlefield-18046024060",
@@ -1439,6 +1614,63 @@
    "venue_name_matches": true,
    "already_a_pick": false,
    "seen_before": true
+  },
+  {
+   "venue": "Club Cumming",
+   "neighborhood": "East Village",
+   "organizer": "https://www.eventbrite.com/o/33126418015",
+   "title": "Attention Deficit Disorder Cabaret",
+   "date": "2026-12-14",
+   "time": "7pm",
+   "starts_at": "2026-12-14T19:00:00-05:00",
+   "ends_at": "2026-12-14T20:00:00-05:00",
+   "location_name": "Club Cumming",
+   "location_address": "505 East 6th Street, New York, NY 10009, New York",
+   "price_from": 23.18,
+   "url": "https://www.eventbrite.com/e/attention-deficit-disorder-cabaret-tickets-2004566807282",
+   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1197564107%2F533246917959%2F1%2Foriginal.20261109-030939?crop=focalpoint&fit=crop&w=940&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.518&fp-y=0.858&s=69b48004be557d6b6296205296ca4ccc",
+   "description": "Attention Deficit Disorder Cabaret / Monday, December 14th / 7pm / 21+",
+   "venue_name_matches": true,
+   "already_a_pick": false,
+   "seen_before": false
+  },
+  {
+   "venue": "Littlefield",
+   "neighborhood": "Gowanus",
+   "organizer": "https://www.eventbrite.com/o/littlefield-18046024060",
+   "title": "Once More, With Feeling: Live! 25th Anniversary Show",
+   "date": "2026-12-15",
+   "time": "8pm",
+   "starts_at": "2026-12-15T20:00:00-05:00",
+   "ends_at": "2026-12-15",
+   "location_name": "littlefield",
+   "location_address": "635 Sackett Street, Brooklyn, NY 11217, Brooklyn",
+   "price_from": 11.79,
+   "url": "https://www.eventbrite.com/e/once-more-with-feeling-live-25th-anniversary-show-tickets-2001996160408",
+   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1194067760%2F404652903161%2F1%2Foriginal.20260922-022203?crop=focalpoint&fit=crop&w=940&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=5b214dfcba2cf62449aa9bd0c48a763b",
+   "description": "Celebrate the 25th anniversary of the Buffy the Vampire Slayer musical episode with a full cast and live band!",
+   "venue_name_matches": true,
+   "already_a_pick": false,
+   "seen_before": false
+  },
+  {
+   "venue": "Club Cumming",
+   "neighborhood": "East Village",
+   "organizer": "https://www.eventbrite.com/o/33126418015",
+   "title": "Barefooting Through The Snow with Tom Hearn",
+   "date": "2026-12-16",
+   "time": "7pm",
+   "starts_at": "2026-12-16T19:00:00-05:00",
+   "ends_at": "2026-12-16T20:30:00-05:00",
+   "location_name": "Club Cumming",
+   "location_address": "505 East 6th Street, New York, NY 10009, New York",
+   "price_from": 17.85,
+   "url": "https://www.eventbrite.com/e/barefooting-through-the-snow-with-tom-hearn-tickets-2004200163641",
+   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1197043537%2F533246917959%2F1%2Foriginal.20261101-230939?crop=focalpoint&fit=crop&w=940&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=f2cc54346854e41bbae944c2e92a9efb",
+   "description": "Barefooting Through The Snow with Tom Hearn / Wednesday, December 16th / 7pm / 21+",
+   "venue_name_matches": true,
+   "already_a_pick": false,
+   "seen_before": false
   },
   {
    "venue": "Wild East Brewing Co.",

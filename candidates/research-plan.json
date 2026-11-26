@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-25T11:42:58.879Z",
- "performers_considered": 21,
+ "generated_at": "2026-11-26T11:44:48.612Z",
+ "performers_considered": 23,
  "shortlist": [
   {
    "name": "Demetri Martin",
@@ -20,7 +20,11 @@
   },
   {
    "name": "Ania Magliano",
-   "priority": 52
+   "priority": 59
+  },
+  {
+   "name": "Black Cat Fridays",
+   "priority": 35
   },
   {
    "name": "Devon Walker",
@@ -28,10 +32,6 @@
   },
   {
    "name": "Ismael Loutfi",
-   "priority": 35
-  },
-  {
-   "name": "Black Cat Fridays",
    "priority": 35
   },
   {
@@ -47,12 +47,22 @@
  "reuse": [
   {
    "name": "Ania Magliano",
-   "priority": 52,
+   "priority": 59,
    "cached": {
     "at": "2026-11-22T11:38:53.674Z",
-    "age_days": 3,
+    "age_days": 4,
     "fresh": true,
     "note": "Reddit has two threads in 30 days (135 upvotes total) and the loudest is an SNL UK Rose d'Or nomination thread, not the Bell House dates, so the Dec 2 and Dec 3 Peach Fuzz sets rest on the Bell House's own calendar."
+   }
+  },
+  {
+   "name": "Black Cat Fridays",
+   "priority": 35,
+   "cached": {
+    "at": "2026-11-24T12:06:12.859Z",
+    "age_days": 2,
+    "fresh": true,
+    "note": "Nothing on the show in 30 days: Reddit returned HTTP 404 and every Hacker News hit was a false positive on the words black, cat or Friday, so the Black Friday bill rests on the producer's own Eventbrite listing."
    }
   },
   {
@@ -60,7 +70,7 @@
    "priority": 35,
    "cached": {
     "at": "2026-11-22T11:38:53.708Z",
-    "age_days": 3,
+    "age_days": 4,
     "fresh": true,
     "note": "Nothing in 30 days: Reddit returned zero posts and Hacker News nothing for the name, so his Nov 28 Union Hall late show rests on the room's own listing and the ticket page."
    }
@@ -70,19 +80,9 @@
    "priority": 35,
    "cached": {
     "at": "2026-11-24T11:36:48.477Z",
-    "age_days": 1,
+    "age_days": 2,
     "fresh": true,
     "note": "Nothing in 30 days: Reddit returned HTTP 404 and Hacker News had zero hits for the name, so his Union Hall Dec 1 set rests on the room's own calendar and the ticket page."
-   }
-  },
-  {
-   "name": "Black Cat Fridays",
-   "priority": 35,
-   "cached": {
-    "at": "2026-11-24T12:06:12.859Z",
-    "age_days": 1,
-    "fresh": true,
-    "note": "Nothing on the show in 30 days: Reddit returned HTTP 404 and every Hacker News hit was a false positive on the words black, cat or Friday, so the Black Friday bill rests on the producer's own Eventbrite listing."
    }
   },
   {
@@ -90,7 +90,7 @@
    "priority": 30,
    "cached": {
     "at": "2026-11-24T12:06:12.898Z",
-    "age_days": 1,
+    "age_days": 2,
     "fresh": true,
     "note": "Nothing on the series in 30 days: Reddit came back HTTP 404 and Hacker News found no mentions, so the Caveat dates rest on the room's own show pages and its ticket listing."
    }
@@ -100,7 +100,7 @@
    "priority": 20,
    "cached": {
     "at": "2026-11-24T11:36:48.505Z",
-    "age_days": 1,
+    "age_days": 2,
     "fresh": true,
     "note": "Nothing in 30 days: Reddit came back HTTP 404 and Hacker News found no mentions, so his Union Hall Nov 30 showcase rests on the room's own calendar."
    }
@@ -128,12 +128,12 @@
    "reason": "already sold out; research cannot change the call"
   },
   {
-   "name": "Gina Brillon",
+   "name": "Nick Mestad",
    "priority": 20,
    "reason": "outside the top 10 by cheap ranking"
   },
   {
-   "name": "Nick Mestad",
+   "name": "Gina Brillon",
    "priority": 20,
    "reason": "outside the top 10 by cheap ranking"
   },
@@ -143,17 +143,17 @@
    "reason": "outside the top 10 by cheap ranking"
   },
   {
-   "name": "Martin Urbano",
-   "priority": 6,
-   "reason": "outside the top 10 by cheap ranking"
-  },
-  {
    "name": "Clint Coley",
    "priority": 5,
    "reason": "outside the top 10 by cheap ranking"
   },
   {
    "name": "Mike Feeney",
+   "priority": 5,
+   "reason": "outside the top 10 by cheap ranking"
+  },
+  {
+   "name": "Best Year Ever",
    "priority": 5,
    "reason": "outside the top 10 by cheap ranking"
   },
@@ -178,12 +178,22 @@
    "reason": "outside the top 10 by cheap ranking"
   },
   {
+   "name": "Martin Urbano",
+   "priority": 0,
+   "reason": "outside the top 10 by cheap ranking"
+  },
+  {
+   "name": "Jessica Kirson",
+   "priority": 0,
+   "reason": "outside the top 10 by cheap ranking"
+  },
+  {
    "name": "Standup",
    "priority": -10,
    "reason": "outside the top 10 by cheap ranking"
   }
  ],
- "estimated_tokens_saved": 189000,
- "estimate_basis": "9000 tokens per last30days run, 21 runs avoided out of 21",
+ "estimated_tokens_saved": 207000,
+ "estimate_basis": "9000 tokens per last30days run, 23 runs avoided out of 23",
  "no_recent_data": []
 }
