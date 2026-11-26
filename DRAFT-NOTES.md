@@ -2421,5 +2421,11 @@ and the two stale card files removed. The cover reads "3 SHOWS WORTH YOUR
 THURSDAY" with Early Pregame Comedy Night 6:30, Thanksgiving Comedy Show 8pm
 and Date Night Laughs 8:30, with no escape artifacts in the text.
 
+**Two guessed end times corrected.** The A TRUE YORK picks on Dec 10 and
+Dec 12 carried a 7:45pm end time that was ours, not the club's. Both show
+pages print "Doors: 6:00 PM | Show: 6:30 PM - 8:00 PM", so the end time is
+8:00 PM; both now say so and carry `end_time_confirmed: true`. They were the
+only two picks on the board with a :45 end.
+
 `npm test` passes at **153 picks**, no warnings. The live site serves 153
 picks with all eight renamed and added picks present.
