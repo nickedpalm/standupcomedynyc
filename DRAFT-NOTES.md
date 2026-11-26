@@ -2324,3 +2324,102 @@ rather than against our earlier notes:
 45/31/21/21/17/12 picks. The 09:15 nightly's `git add -A` will no longer
 sweep scratch files: the six `scripts/_*` helpers from today were deleted
 before committing, as the Nov 24 and Nov 25 runs did.
+
+## 2026-11-26 (23:00 UTC) — Instagram comment and message check, and the St. Marks board fix the 20:30 job stranded
+
+**Comments: 0 unanswered across all 57 posts. 0 replies sent. Nothing left
+for Nick on the comment side.**
+
+The Meta token is still dead, so both API reads failed the same way:
+
+```
+ig-comments: /28335663372757999/media: Error validating access token: Session has expired on Saturday, 14-Nov-26 07:51:47 PST.
+ig-messages: /28335663372757999/conversations: same error
+```
+
+`--refresh-token` fails the same way — there is no refresh path. A box-wide
+token sweep found exactly two candidates and both are dead: the profile `.env`
+value (expired) and an older `IGAA…` in the logs ("Failed to decrypt").
+
+**Comment side proven logged out, two independent ways, both against a
+positive control.** The in-browser `fetch()` count sweep read **0 on all 57
+posts**; the NASA control `DfahZrMjAqq` read **934 before and after**, and a
+fabricated shortcode returned null, so the zeros are real zeros. The local
+Playwright rendered-DOM sweep read **checked=57, nonzero=0, comment rows=0,
+errors=0**, with the NASA control reading 934 before and after and every one
+of the 57 pages rendering "No comments yet." Still limited: the Nov 4 post
+`DfVK817G-gr` carries "Comments on this post have been limited."
+
+**The grid could not be enumerated this time.** The profile page
+(`/standupcomedynyc/`) redirected to the login wall logged out, on desktop,
+mobile and Android user agents alike, and the scroll-container walk collected
+0 shortcodes. The `/embed/` page still renders and still prints **57 posts**,
+and the captions on it match our newest posts (Thursday, Tuesday, Monday,
+Sunday, Saturday, Friday nights), so the account count is unchanged — but the
+per-post diff against `POSTED-IG.json` could not be completed today, unlike
+the Nov 23 run. **Worth a re-run when the grid is reachable.**
+
+**DM side: unverifiable, not empty.** `/direct/inbox/` redirects to the login
+wall logged out and there is no public DM endpoint. The last good API read was
+2026-11-14 14:00 UTC (0 conversations, 0 waiting on us). Nothing readable
+since, so no thread was answered and none was passed to Nick.
+
+`IG-REPLIES.json` is unchanged (`[]`) — no replies were sent, so there is no
+"IG replies" commit and no Telegram under the rule that Nick only hears from
+this job when something was sent or left for him.
+
+### Also landed: the St. Marks corrections the 20:30 story job left half-done
+
+The 20:30 story job failed on the dead token and then, while trying to
+re-render the story card, hit a missing poster file — because it had already
+moved and renamed three flyers while `picks.json` still pointed at the old
+paths. It left the tree with `npm test` failing on **10 problems** (5 missing
+poster files, 5 missing POSTER-SOURCES files) and its correction script
+written but never run. The 09:15 nightly does `git add -A`, so that broken
+state would have gone out overnight under the message "Nightly: rotate expired
+picks."
+
+Verified and landed here instead (commit `bab1fab`, pushed, live). Every
+value below was read off the club's own show pages today, not off the club's
+listing or a third-party ticket site:
+
+- **Tonight's three St. Marks slots were renamed and repriced.** The 6:30 is
+  now EARLY PREGAME COMEDY NIGHT ($10 all-in, doors 6, show 6:30–8:00), the
+  8:30 is DATE NIGHT LAUGHS with Vivi Armacast ($20 all-in, one drink free
+  with the two-drink minimum), and the 10:30 Thanksgiving Comedy in the City
+  ($15 all-in, Laz Rivero, Rashad Bashir, Ben McKay, Brian Grossi and a
+  surprise guest, DJ E.M. between sets) **was missing from the board
+  entirely** — it is now a pick.
+- **Friday's 8:30 is FRIDAY's HOTTEST SHOW** ($23.50 all-in).
+- **Speakeasy Saturday Night is $20, not $23.50.**
+- **Dec 10:** Bourne With Talent takes the 8:30 ($22, Kevin Bourne and Talent
+  Harris Jr hosting), and Date Night Comedy Show x2 moves to 10:30 at $20.
+- **Dec 18:** the two slots are now Friday Night Laughs Comedy Show (8:30,
+  $23.50) and Late Night Speakeasy Comedy Show (10:30, $20).
+- **Dec 19:** the matinee is Am I the asshole? Comedy Show ($12 all-in; sold
+  out in San Francisco, debuting in New York).
+- **Dec 27:** the 7:30 is Tony Dabas (Tony D Comedy Tour) at $42 all-in — the
+  priciest ticket on our board that week.
+- **Peter & Friends follows its show to Feb 6 2027**, $12 all-in.
+- Nine picks that carried `end_time_confirmed: false` now carry the end time
+  the club's own page prints, including the three tonight slots.
+
+**Seven posters** added with provenance records, each one **byte-identical
+(sha256) to the source URL in its own record** — the club's Supabase flyer
+bucket, for all of them. Four retired flyers archived with the reason written
+down, the way the Oct 15 and Nov 26 pulls did it. I also added the missing
+provenance record for the St. Marks room photo the Dec 5 pick points at: the
+fix script had pointed the pick at a file that had no POSTER-SOURCES record,
+which the check does not catch but which would have left the artwork's origin
+unrecorded. Its own source is the club's Supabase bucket and the bytes match.
+
+**Tonight's Instagram cards were regenerated**, because the two pick IDs the
+cards were named after had been renamed: `a-true-york-st-marks-2026-11-26`
+and `date-night-comedy-st-marks-2026-11-26` no longer exist on the board.
+The cover and the three pick cards were re-rendered from the corrected board
+and the two stale card files removed. The cover reads "3 SHOWS WORTH YOUR
+THURSDAY" with Early Pregame Comedy Night 6:30, Thanksgiving Comedy Show 8pm
+and Date Night Laughs 8:30, with no escape artifacts in the text.
+
+`npm test` passes at **153 picks**, no warnings. The live site serves 153
+picks with all eight renamed and added picks present.
