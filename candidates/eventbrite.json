@@ -1,5 +1,5 @@
 {
- "retrieved_at": "2026-11-26T11:01:34.739Z",
+ "retrieved_at": "2026-11-27T11:02:06.032Z",
  "note": "Leads from Eventbrite organizer pages of registered rooms. Open the event page before adding a pick; artwork needs a POSTER-SOURCES record.",
  "organizers": [
   {
@@ -125,7 +125,7 @@
    "ends_at": "2026-11-27T21:30:00-05:00",
    "location_name": "362 Grand St",
    "location_address": "362 Grand Street, Brooklyn, NY 11211, Brooklyn",
-   "price_from": 7.18,
+   "price_from": 23.18,
    "url": "https://www.eventbrite.com/e/the-prime-time-show-at-flop-house-stand-up-comedy-in-williamsburg-tickets-2005230578640",
    "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1187515756%2F369144123539%2F1%2Foriginal.20260623-211226?w=940&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C1280%2C640&s=12aaf8d6970088698166439988134958",
    "description": "Flop House Comedy Club, Williamsburg · 8:00–9:30pm · 362 Grand St, Brooklyn. Featuring comics seen on Netflix, HBO, and Comedy Central.",
@@ -169,7 +169,7 @@
    "description": "JMV Presents: QUEERLESQUE / Friday, November 27th / 8pm / 21+",
    "venue_name_matches": true,
    "already_a_pick": false,
-   "seen_before": false
+   "seen_before": true
   },
   {
    "venue": "Flop House Comedy",
@@ -549,13 +549,13 @@
    "description": "The Canadian Thanksgiving Comedy Show / Sunday, November 29th / 6:30pm / 21+",
    "venue_name_matches": true,
    "already_a_pick": true,
-   "seen_before": false
+   "seen_before": true
   },
   {
    "venue": "Union Hall",
    "neighborhood": "Park Slope",
    "organizer": "https://www.eventbrite.com/o/union-hall-17899496497",
-   "title": "Gone Fishing with Wally Baram and Vikrant Sunderlal",
+   "title": "Gone Fishing",
    "date": "2026-11-29",
    "time": "7:30pm",
    "starts_at": "2026-11-29T19:30:00-05:00",
@@ -563,12 +563,12 @@
    "location_name": "Union Hall",
    "location_address": "702 Union St., Brooklyn, NY 11215, Brooklyn",
    "price_from": 15.92,
-   "url": "https://www.eventbrite.com/e/gone-fishing-with-wally-baram-and-vikrant-sunderlal-tickets-2004793441150",
-   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1198096523%2F2330790970943%2F1%2Foriginal.20261116-185143?crop=focalpoint&fit=crop&w=940&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=effb4a8c9c1b1a9f45bfa37c09446094",
-   "description": "Gone Fishing with Wally Baram and Vikrant Sunderlal - Sunday, November 29 - 7:00pm Doors / 7:30pm Show",
+   "url": "https://www.eventbrite.com/e/gone-fishing-tickets-2004793441150",
+   "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1198770654%2F2330790970943%2F1%2Foriginal.20261127-055925?crop=focalpoint&fit=crop&w=940&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=b2fa3d00509ad2fc63a6f9ffecc42a81",
+   "description": "Gone Fishing - Sunday, November 29 - 7:00pm Doors / 7:30pm Show",
    "venue_name_matches": true,
    "already_a_pick": true,
-   "seen_before": true
+   "seen_before": false
   },
   {
    "venue": "Comic Strip Live",
@@ -929,7 +929,7 @@
    "description": "Loose Lips Comedy Show / Wednesday, December 2nd / 7pm / 21+",
    "venue_name_matches": true,
    "already_a_pick": true,
-   "seen_before": false
+   "seen_before": true
   },
   {
    "venue": "Union Hall",
@@ -948,7 +948,7 @@
    "description": "Cold Plunge with Kurt Braunohler - Wednesday, December 2 - 7:00pm Doors / 7:30pm Show",
    "venue_name_matches": true,
    "already_a_pick": true,
-   "seen_before": false
+   "seen_before": true
   },
   {
    "venue": "Littlefield",
@@ -1005,7 +1005,7 @@
    "description": "Love, Sex & Magic: Comedy Variety Show / Wednesday, December 2nd / 9:00pm / 21+",
    "venue_name_matches": true,
    "already_a_pick": false,
-   "seen_before": false
+   "seen_before": true
   },
   {
    "venue": "Caveat",
@@ -1043,7 +1043,7 @@
    "description": "Start your weekend off early with hilarious stand up comedy from local NYC legends. Different lineups every week! 1 item minimum",
    "venue_name_matches": false,
    "already_a_pick": false,
-   "seen_before": false
+   "seen_before": true
   },
   {
    "venue": "Littlefield",
@@ -1100,7 +1100,7 @@
    "description": "LizaBanks Campagna, Matty Litwack, and Luke Strathmann present a night of PowerPoint Comedy. featuring NYC's best comedians.",
    "venue_name_matches": false,
    "already_a_pick": false,
-   "seen_before": false
+   "seen_before": true
   },
   {
    "venue": "Upper East Side Comedy Club",
@@ -1441,8 +1441,8 @@
    "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1198412335%2F136153380524%2F1%2Foriginal.20261120-192758?crop=focalpoint&fit=crop&w=940&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=907b9f328724897f188cde9475a01b8d",
    "description": "Be part of history, celebrating 50 years of Comedy at the World Comic Strip! Comedians from, HBO, The Tonight Show, SNL & More ~",
    "venue_name_matches": true,
-   "already_a_pick": false,
-   "seen_before": false
+   "already_a_pick": true,
+   "seen_before": true
   },
   {
    "venue": "Littlefield",
@@ -1499,7 +1499,7 @@
    "description": "Attention Deficit Disorder Cabaret / Tuesday, December 8th / 8:30pm / 21+",
    "venue_name_matches": true,
    "already_a_pick": false,
-   "seen_before": false
+   "seen_before": true
   },
   {
    "venue": "Club Cumming",
@@ -1518,7 +1518,7 @@
    "description": "Gorge Night with Jake Cornell / Wednesday December 9th / 7:30pm / 21+",
    "venue_name_matches": true,
    "already_a_pick": false,
-   "seen_before": false
+   "seen_before": true
   },
   {
    "venue": "Littlefield",
@@ -1556,7 +1556,7 @@
    "description": "The Revue (An All Femme Variety Benefit Show) / Thursday, December 10th / 7:30pm / 21+",
    "venue_name_matches": true,
    "already_a_pick": false,
-   "seen_before": false
+   "seen_before": true
   },
   {
    "venue": "Club Cumming",
@@ -1575,7 +1575,7 @@
    "description": "Kim David Smith's \"A Wery Weimar Christmas\" / Friday, December 11th / 8pm / 21+",
    "venue_name_matches": true,
    "already_a_pick": false,
-   "seen_before": false
+   "seen_before": true
   },
   {
    "venue": "Club Cumming",
@@ -1594,7 +1594,7 @@
    "description": "Club Cumming Christmas Spectacular Spectacular! / Friday, December 11th / 10pm / 21+",
    "venue_name_matches": true,
    "already_a_pick": false,
-   "seen_before": false
+   "seen_before": true
   },
   {
    "venue": "Littlefield",
@@ -1632,7 +1632,7 @@
    "description": "Attention Deficit Disorder Cabaret / Monday, December 14th / 7pm / 21+",
    "venue_name_matches": true,
    "already_a_pick": false,
-   "seen_before": false
+   "seen_before": true
   },
   {
    "venue": "Littlefield",
@@ -1651,7 +1651,7 @@
    "description": "Celebrate the 25th anniversary of the Buffy the Vampire Slayer musical episode with a full cast and live band!",
    "venue_name_matches": true,
    "already_a_pick": false,
-   "seen_before": false
+   "seen_before": true
   },
   {
    "venue": "Club Cumming",
@@ -1670,7 +1670,7 @@
    "description": "Barefooting Through The Snow with Tom Hearn / Wednesday, December 16th / 7pm / 21+",
    "venue_name_matches": true,
    "already_a_pick": false,
-   "seen_before": false
+   "seen_before": true
   },
   {
    "venue": "Wild East Brewing Co.",

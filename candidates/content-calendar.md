@@ -11,7 +11,7 @@ Six weeks ahead from the board. Regenerated on every build; edit the data, not t
 
 ## Research plan today
 
-Ranked 23; run 0, reuse 6, skip 17; ~207,000 tokens saved.
+Ranked 25; run 1, reuse 5, skip 19; ~216,000 tokens saved. No recent data: Friday Favs.
 
 ## Week 1: Nov 27 to Dec 3 — 45 picks — 15 without artwork · 38 Eventbrite leads not yet reviewed
 
@@ -41,7 +41,7 @@ Ranked 23; run 0, reuse 6, skip 17; ~207,000 tokens saved.
 - Sun Nov 29 7:30pm — **Gone Fishing with Wally Baram and Vikrant Sunderlal** at Union Hall
 - Sun Nov 29 9pm — **Highly Suspicious w/ Aaron Putnam, Kerryn Feehan, Zach Liss** at New York Comedy Club (Upper West Side)
 - Mon Nov 30 7:30pm — **Brooklyn Power Hour (Now on a New Night!)** at Eastville Comedy Club · NO ARTWORK
-- Mon Nov 30 7:30pm · doors 6:30pm — **A Friendsgiving Comedy Fundraiser featuring Tiffany Cabán** at Littlefield · going fast · heat 25
+- Mon Nov 30 7:30pm · doors 6:30pm — **A Friendsgiving Comedy Fundraiser featuring Tiffany Cabán** at Littlefield
 - Mon Nov 30 7:30pm — **Charlie Bardey Presents THE PROMISE OF THE HEARTH - Part II: The Eave** at Union Hall
 - Mon Nov 30 8pm — **The Peter Stewart Show! With Nick Tilleli!** at Comic Strip Live · NO ARTWORK
 - Mon Nov 30 8pm — **Stamptown** at The Bell House
@@ -53,10 +53,10 @@ Ranked 23; run 0, reuse 6, skip 17; ~207,000 tokens saved.
 - Tue Dec 1 7:30pm — **The Facebook - A Comedy Show Whose Name Was Available** at Talea Beer Co. (Cobble Hill)
 - Tue Dec 1 10pm · doors 9:30pm — **Nick Mestad: Body Of Work** at Union Hall
 - Wed Dec 2 7pm · doors 6:30pm — **Loose Lips Comedy Show** at Club Cumming
-- Wed Dec 2 7:30pm — **Ania Magliano: Peach Fuzz** at The Bell House · heat 20
+- Wed Dec 2 7:30pm — **Ania Magliano: Peach Fuzz** at The Bell House · heat 39
 - Wed Dec 2 7:30pm · doors 7pm — **Cold Plunge with Kurt Braunohler** at Union Hall
 - Wed Dec 2 7:30pm — **Gina Brillon: Villan Era (The Rehearsal)** at Brooklyn Improv
-- Thu Dec 3 7:30pm — **Ania Magliano: Peach Fuzz** at The Bell House · heat 20
+- Thu Dec 3 7:30pm — **Ania Magliano: Peach Fuzz** at The Bell House · heat 39
 - Thu Dec 3 8pm · doors 7:30pm — **Steam Room Etiquette Stand-Up** at Sesh Comedy
 - Thu Dec 3 8:30pm · doors 8pm — **Date Night Comedy Show x2** at St. Marks Comedy Club · NO ARTWORK
 - Thu Dec 3 8:30pm · doors 8pm — **Landline Comedy at Wild East Brewing** at Wild East Brewing Co.
@@ -71,7 +71,7 @@ Ranked 23; run 0, reuse 6, skip 17; ~207,000 tokens saved.
   - Sat Nov 28 7pm — Garbage Day - Worst Things On The Internet 2026 at Caveat · from $24.41 · has artwork
   - Sat Nov 28 7:30pm — Yay! A Sketch Show at Union Hall · from $15.92 · has artwork
 
-## Week 2: Dec 4 to Dec 10 — 31 picks — 9 without artwork · 15 Eventbrite leads not yet reviewed
+## Week 2: Dec 4 to Dec 10 — 31 picks — 9 without artwork · 14 Eventbrite leads not yet reviewed
 
 - Fri Dec 4 7pm — **Demetri Martin: Standup Comedy for Christmas** at The Bell House · SOLD OUT · heat 100
 - Fri Dec 4 7pm · doors 6:30pm — **Immigrant Jam** at Caveat
@@ -94,7 +94,7 @@ Ranked 23; run 0, reuse 6, skip 17; ~207,000 tokens saved.
 - Tue Dec 8 7:30pm — **Alyce Chan** at New York Comedy Club (Upper West Side) · SOLD OUT · heat 100
 - Tue Dec 8 7:30pm — **The Silver Lining with Gianmarco Soresi** at The Bell House
 - Tue Dec 8 8pm — **Not Ripe Bananas** at West Side Comedy Club
-- Tue Dec 8 8pm · doors 7pm — **PUNDERDOME: NYC's Comedy PUN-SLAM Competition** at Littlefield · going fast · heat 25
+- Tue Dec 8 8pm · doors 7pm — **PUNDERDOME: NYC's Comedy PUN-SLAM Competition** at Littlefield
 - Tue Dec 8 9:30pm · doors 9pm — **The Gong Show - Hosted by Robert Punchur** at St. Marks Comedy Club · NO ARTWORK
 - Wed Dec 9 7:30pm · doors 7pm — **Down Bad Comedy Show** at St. Marks Comedy Club · NO ARTWORK
 - Wed Dec 9 8pm — **Navidades en NYC con Abelardo** at West Side Comedy Club
