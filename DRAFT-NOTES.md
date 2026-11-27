@@ -2544,3 +2544,73 @@ the badge reads "From $14.86", so the page and the live price disagree. The Even
 `/e/api/<id>/ticket-information` endpoint is what actually reflects the live tiers.
 
 `npm test` passes at **148 picks** with one warning left (week 6 thin at 6 picks).
+
+## 2026-11-27 (23:00 UTC) — Instagram comment and message check
+
+**Comments: 0 unanswered across all 57 posts. 0 replies sent. Nothing left for
+Nick on the comment side.**
+
+**The Meta token is still dead — day 13 since it expired on Nov 14 07:51 PST.**
+Both API reads failed identically:
+
+```
+ig-comments: /28335663372757999/media: Error validating access token: Session has expired on Saturday, 14-Nov-26 07:51:47 PST.
+ig-messages: /28335663372757999/conversations: same error
+```
+
+A box-wide sweep (`cache/ig_token_sweep.py`) still finds exactly two `IGAA…`
+candidates, both dead: the 184-char token in `.env` (expired 14-Nov-26) and the
+188-char one in `logs/errors.log` ("Failed to decrypt", code 190). No Meta app id
+or app secret on the box, so there is no refresh path and no way to mint one.
+
+**Comment side proven logged out, two independent ways, both against a positive
+control.**
+
+- In-browser `fetch()` count sweep over all 57 shortcodes from `POSTED-IG.json`:
+  **0 on every post.** NASA control `DfahZrMjAqq` read **936 before and after**,
+  and a fabricated shortcode returned a null meta match, so the zeros are real
+  zeros and not a broken detector.
+- Local Playwright rendered-DOM sweep: **checked=57, nonzero=0, comment rows=0,
+  errors=0**, NASA control reading **936 before and after**, every one of the 57
+  pages rendering "No comments yet."
+
+Still limited: the Nov 4 post `DfVK817G-gr` carries "Comments on this post have
+been limited." — visible only in the rendered sweep, exactly as the skill records.
+
+**The grid diff is now complete — the open item from Nov 26 and Nov 27.** The
+profile page is still walled (`/standupcomedynyc/` redirects to the login wall on
+desktop, mobile and Android UAs; the scroll walk collected 0 shortcodes), but the
+diff no longer needs the grid:
+
+- `/standupcomedynyc/embed/` still renders and still prints **57 posts**, which is
+  the account's feed-post count. Our log holds **57 carousels**.
+- Every one of the 57 logged shortcodes was fetched and **all 57 are live**, each
+  with a live date matching its logged date — 57 checked, 0 mismatches.
+- The "More posts from standupcomedynyc" rail on a permalink lists the newest 10
+  posts with their permalinks, and all 10 are in our log.
+
+Feed count 57 = logged carousels 57, with every logged post live and dated as
+logged, and nothing newer than **November 12** on the account. So the sets match
+**exactly, both ways**: no post on Instagram missing from the log, and no entry in
+the log missing from Instagram. Nothing went up blind and nothing went up
+unlogged.
+
+**Two posting gaps, now dated precisely.** The feed has no carousel and no story
+on **November 11**, and none on **November 13** either. November 11 and November 13
+were both inside the token's life, so those are job failures, not the token
+freeze — November 13 is the night the 19:00 carousel run died on its tool cap.
+Every gap from **November 14 onward** is the token. November 12 remains the newest
+post, **15 days dark**.
+
+**DM side: unverifiable, not empty.** `/direct/inbox/` redirects to the login
+wall logged out and there is no public DM endpoint. The last good API read was
+2026-11-14 14:00 UTC (0 conversations, 0 waiting on us). Nothing readable since,
+so no thread was answered and none was passed to Nick.
+
+`IG-REPLIES.json` is unchanged (`[]`) — no replies were sent, so there is no
+"IG replies" commit and, per the rule that Nick only hears from this job when
+something was sent or left for him, no Telegram message.
+
+`npm test` passes at **148 picks** with one warning: week 6 (2027-01-01 to
+2027-01-07) holds **6 picks** against a target of 8. Neither is a comment or a
+DM, so neither was touched here.
