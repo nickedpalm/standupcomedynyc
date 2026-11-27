@@ -4089,7 +4089,7 @@
  },
  {
   "event_id": "thanksgiving-comedy-show-grisly-pear-2026-11-26",
-  "src": "/assets/posters/thanksgiving-comedy-grisly-pear-2026-11-26.jpg",
+  "src": "/assets/posters/archive/thanksgiving-comedy-grisly-pear-2026-11-26.jpg",
   "width": 988,
   "height": 660,
   "source_url": "https://www.grislypearstandup.com/events/thanksgiving-comedy-show-at-the-grisly-pear-greenwich-village-11-26-26-08-00-pm",
@@ -4100,7 +4100,8 @@
   "retrieved_at": "2026-11-19",
   "reuse_status": "Official promotional artwork from the show's public listing; no separate reuse license identified. Site display with credit only.",
   "bytes": 76577,
-  "sha256": "f0520b9913d8e03e291ef6ccfb73eb05718664981ee5bcbf0393032384bf25c5"
+  "sha256": "f0520b9913d8e03e291ef6ccfb73eb05718664981ee5bcbf0393032384bf25c5",
+  "archived": true
  },
  {
   "event_id": "the-bisque-comedy-for-charity-2026-09-22",
@@ -4680,7 +4681,7 @@
  },
  {
   "event_id": "thanksgiving-potluck-bushwick-2026-11-26",
-  "src": "/assets/posters/thanksgiving-potluck-bushwick-2026-11-26.png",
+  "src": "/assets/posters/archive/thanksgiving-potluck-bushwick-2026-11-26.png",
   "width": 1080,
   "height": 1080,
   "source_url": "https://www.bushwickcomedy.com/event-details/thanksgiving-comedy-potluck-8-00-pm-2",
@@ -4691,7 +4692,8 @@
   "retrieved_at": "2026-11-25",
   "bytes": 1380114,
   "sha256": "dd3dbaa49ec238c48fc8e797dba2111399c2beaf3ce812678aa20d549f6e2157",
-  "reuse_status": "Official promotional artwork; no separate reuse license identified. Site display with credit only."
+  "reuse_status": "Official promotional artwork; no separate reuse license identified. Site display with credit only.",
+  "archived": true
  },
  {
   "event_id": "canadian-thanksgiving-club-cumming-2026-11-29",
@@ -4860,7 +4862,7 @@
  },
  {
   "event_id": "early-pregame-comedy-night-st-marks-2026-11-26",
-  "src": "/assets/posters/early-pregame-comedy-night-st-marks-2026-11-26.jpg",
+  "src": "/assets/posters/archive/early-pregame-comedy-night-st-marks-2026-11-26.jpg",
   "width": 1280,
   "height": 720,
   "source_url": "https://www.stmarkscomedy.com/shows/early-pregame-comedy-night-with-danielle-slaugher-kill-tony-2026-11-26-bb0a9b80",
@@ -4871,11 +4873,12 @@
   "retrieved_at": "2026-11-26",
   "bytes": 42748,
   "sha256": "2e0da1a6dc1f604309ff89bc8c3225bacb0e46c8080494028f5b0f3ad1d8f68b",
-  "reuse_status": "Official promotional artwork; no separate reuse license identified. Local review draft only."
+  "reuse_status": "Official promotional artwork; no separate reuse license identified. Local review draft only.",
+  "archived": true
  },
  {
   "event_id": "date-night-laughs-st-marks-2026-11-26",
-  "src": "/assets/posters/date-night-laughs-st-marks-2026-11-26.jpg",
+  "src": "/assets/posters/archive/date-night-laughs-st-marks-2026-11-26.jpg",
   "width": 960,
   "height": 1441,
   "source_url": "https://www.stmarkscomedy.com/shows/date-night-laughs-with-vivi-armacast-viral-tiktok-alexis-car-2026-11-26-78474198",
@@ -4886,7 +4889,8 @@
   "retrieved_at": "2026-11-26",
   "bytes": 151283,
   "sha256": "2d393aea72b5896ed9ed922bc57d5abcb4afc52eb728f0c5a795f1e5c532486b",
-  "reuse_status": "Official promotional artwork; no separate reuse license identified. Local review draft only."
+  "reuse_status": "Official promotional artwork; no separate reuse license identified. Local review draft only.",
+  "archived": true
  },
  {
   "event_id": "fridays-hottest-show-st-marks-2026-11-27",
@@ -4905,7 +4909,7 @@
  },
  {
   "event_id": "thanksgiving-comedy-in-the-city-st-marks-2026-11-26",
-  "src": "/assets/posters/thanksgiving-comedy-in-the-city-st-marks-2026-11-26.jpg",
+  "src": "/assets/posters/archive/thanksgiving-comedy-in-the-city-st-marks-2026-11-26.jpg",
   "width": 1254,
   "height": 1254,
   "source_url": "https://www.stmarkscomedy.com/shows/thanksgiving-comedy-in-the-city-2026-11-26-46f4e6d7",
@@ -4916,7 +4920,8 @@
   "retrieved_at": "2026-11-26",
   "bytes": 589247,
   "sha256": "25f80cc06c2af32693ada6e4f6a11cabfad044318679d5e7d4060f0bb54e1a3f",
-  "reuse_status": "Official promotional artwork; no separate reuse license identified. Local review draft only."
+  "reuse_status": "Official promotional artwork; no separate reuse license identified. Local review draft only.",
+  "archived": true
  },
  {
   "event_id": "daniela-ines-calvo-st-marks-2026-12-06",
