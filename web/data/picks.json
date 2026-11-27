@@ -714,7 +714,7 @@
    "alt": "A Friendsgiving Comedy Fundraiser featuring Tiffany Cabán — Littlefield flyer for the November 30 show.",
    "kind": "dated event flyer"
   },
-  "demand": "going_fast",
+  "demand": null,
   "demand_checked": "2026-11-27"
  },
  {
@@ -1918,11 +1918,11 @@
   "time_label": "8pm · doors 7pm",
   "venue": "Littlefield",
   "neighborhood": "Gowanus",
-  "price_amount": 14.86,
-  "price_label": "$14.86 - $19.74 (early bird $14.86, advance $16.92, day of show $19.74)",
+  "price_amount": 16.92,
+  "price_label": "$16.92 (advance; early bird ended Nov 10, day of show $19.74)",
   "ticket_url": "https://littlefieldnyc.com/event/?wfea_eb_id=2003588724811",
   "source_url": "https://littlefieldnyc.com/event/?wfea_eb_id=2003588724811",
-  "verified_at": "2026-11-12",
+  "verified_at": "2026-11-27",
   "description": "Punsters get two minutes of preparation and two minutes on stage, and the room decides the winner with a calibrated clap-o-meter — fifteen years of New York tradition, and the loudest night in Gowanus while it lasts.",
   "tier": "special",
   "featured": false,
@@ -1935,7 +1935,7 @@
    "alt": "PUNDERDOME at Littlefield — the pun competition's own show photography.",
    "kind": "undated official promotional artwork"
   },
-  "demand": "going_fast",
+  "demand": null,
   "demand_checked": "2026-11-27"
  },
  {

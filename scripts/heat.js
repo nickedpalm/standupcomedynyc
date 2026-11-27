@@ -43,11 +43,15 @@ const performers = (title) => {
 
 // Eventbrite shows can be listed under a vanity domain (e.g. silverman_ip.eventbrite.com) instead of
 // the canonical /e/ path, so resolve the vanity URL to its event id before deciding we cannot read it.
+// A venue can also hand out the event id in its own link: Littlefield's ticket pages carry it as
+// ?wfea_eb_id=2003588724811. That id IS the Eventbrite event, so it has to be read before we give up
+// on a URL that is not on eventbrite.com -- otherwise the show's own Eventbrite listing looks like a
+// different show, and the pick gets a false "a second show the same night at the same room" tag.
 const ebIdCache = new Map();
 async function eventbriteEventId(url) {
-  if (!/eventbrite\.com/i.test(url || '')) return null;
   const direct = ebId(url);
   if (direct) return direct;
+  if (!/eventbrite\.com/i.test(url || '')) return null;
   if (ebIdCache.has(url)) return ebIdCache.get(url);
   let found = null;
   try {
@@ -65,26 +69,36 @@ async function eventbriteEventId(url) {
 
 // Eventbrite's JSON-LD offers block states availability, but the event type is not always "Event":
 // a talk or a panel is published as "EducationEvent" (and "SocialEvent"). Read every event-ish type.
+// A venue's own ticket page (Littlefield's ?wfea_eb_id=...) is the same event as its Eventbrite
+// listing, so read availability from the canonical Eventbrite page for that id too -- otherwise a
+// sold-out or low-availability night reads as unknown and the pick carries no demand signal.
 async function availability(url) {
-  if (!/eventbrite\.com/i.test(url || '')) return null;
-  try {
-    const html = await (await fetch(url, { headers })).text();
-    for (const m of html.matchAll(/<script[^>]*application\/ld\+json[^>]*>([\s\S]*?)<\/script>/g)) {
-      let j; try { j = JSON.parse(m[1]); } catch { continue; }
-      for (const x of (Array.isArray(j) ? j : [j])) {
-        if (!x || typeof x !== 'object') continue;
-        const type = String(x['@type'] || '');
-        if (!/Event$/.test(type) || /WebPage|BreadcrumbList|ImageObject|Organization/.test(type)) continue;
-        const offers = [].concat(x.offers || []);
-        const a = offers.map((o) => String(o.availability || '').replace(/.*\//, '')).filter(Boolean);
-        if (a.includes('SoldOut') && a.every((v) => v === 'SoldOut')) return 'SoldOut';
-        if (a.includes('LimitedAvailability')) return 'LimitedAvailability';
-        if (a.includes('SoldOut')) return 'LimitedAvailability';
-        if (a.includes('InStock')) return 'InStock';
+  if (!url) return null;
+  const targets = [];
+  if (/eventbrite\.com/i.test(url)) targets.push(url);
+  const id = ebId(url);
+  if (id && !targets.some((t) => ebId(t) === id)) targets.push(`https://www.eventbrite.com/e/${id}`);
+  let fallback = null;
+  for (const target of targets) {
+    try {
+      const html = await (await fetch(target, { headers })).text();
+      for (const m of html.matchAll(/<script[^>]*application\/ld\+json[^>]*>([\s\S]*?)<\/script>/g)) {
+        let j; try { j = JSON.parse(m[1]); } catch { continue; }
+        for (const x of (Array.isArray(j) ? j : [j])) {
+          if (!x || typeof x !== 'object') continue;
+          const type = String(x['@type'] || '');
+          if (!/Event$/.test(type) || /WebPage|BreadcrumbList|ImageObject|Organization/.test(type)) continue;
+          const offers = [].concat(x.offers || []);
+          const a = offers.map((o) => String(o.availability || '').replace(/.*\//, '')).filter(Boolean);
+          if (a.includes('SoldOut') && a.every((v) => v === 'SoldOut')) return 'SoldOut';
+          if (a.includes('LimitedAvailability')) return 'LimitedAvailability';
+          if (a.includes('SoldOut')) return 'LimitedAvailability';
+          if (a.includes('InStock')) fallback = fallback || 'InStock';
+        }
       }
-    }
-  } catch {}
-  return null;
+    } catch {}
+  }
+  return fallback;
 }
 
 // Live Nation and Ticketmaster have no JSON-LD offers block, but their event pages put the

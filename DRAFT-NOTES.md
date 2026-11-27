@@ -2504,3 +2504,43 @@ both outside this job's scope:
   first week of January would close it.
 
 Neither is a comment or DM, so neither was touched here.
+
+### Also landed: three false "going fast" tags, and a stale ticket price
+
+Found while re-verifying this run's board warnings, not from the comment side.
+
+**heat.js could not read the Eventbrite event id out of a venue's own ticket link.**
+Littlefield hands out its events as `littlefieldnyc.com/event/?wfea_eb_id=2003588724811`.
+`eventbriteEventId()` bailed out on any URL that was not on eventbrite.com, so that URL resolved
+to **no id at all**. Two consequences, both reader-facing:
+
+1. **A show's own Eventbrite listing was read as a different show.** The second-show check compares
+   a pick against the Eventbrite leads for the same room and night, and skips any lead whose event
+   id is already one of ours. With the pick's id unreadable, its own listing looked like a *second
+   show at the same room on the same night*, and three picks were tagged **going_fast** on a signal
+   that was really just themselves: **PUNDERDOME (Dec 8, Littlefield)** and **the Friendsgiving
+   Fundraiser with Tiffany Cabán (Nov 30, Littlefield)** — both were the same show as themselves —
+   plus **Jeff Scheen's taping (Dec 1)**, where the "second show" is a genuinely separate 9:30pm
+   listing of the same taping (`2000327351957`, a 30-minute slot) and the tag is correct.
+2. **No availability was ever read for those picks**, so a sold-out or scarce night could not be
+   tagged from the Eventbrite data.
+
+The fix reads the id from the venue's link first, before deciding a non-Eventbrite URL is unreadable,
+and the availability reader now also reads the canonical `eventbrite.com/e/<id>` page for that id.
+Verified against the two Ruperto picks on Dec 5, which are two real shows of the same title in the
+same room: they still match each other and keep their tag. `npm run heat` now reports
+**6 sold out, 5 going fast** (was 6 sold out, 7 going fast) — the two false tags are gone.
+
+**PUNDERDOME's price was stale.** The pick had said "$14.86 - $19.74 (early bird $14.86, advance
+$16.92, day of show $19.74)", verified 2026-11-12. Littlefield's own page says the early bird sale
+ends Nov 10, 2026, so the $14.86 tier is gone. Eventbrite's ticket-information endpoint for the
+event confirms it: `availableMinimumTicketPrice` and `availableMaximumTicketPrice` both read
+**$16.92**, with `hasEarlyBirdTickets: false`, `isSoldOut: false`, 79 sold. The price now says
+**"$16.92 (advance; early bird ended Nov 10, day of show $19.74)"**, `price_amount` 16.92, and the
+pick is re-stamped 2026-11-27 — which also clears the freshness warning `npm test` was printing.
+
+Note for the next edition: the JSON-LD `offers` block still quotes the old low price of 14.86 and
+the badge reads "From $14.86", so the page and the live price disagree. The Eventbrite
+`/e/api/<id>/ticket-information` endpoint is what actually reflects the live tiers.
+
+`npm test` passes at **148 picks** with one warning left (week 6 thin at 6 picks).
