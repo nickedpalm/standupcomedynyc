@@ -2429,3 +2429,78 @@ only two picks on the board with a :45 end.
 
 `npm test` passes at **153 picks**, no warnings. The live site serves 153
 picks with all eight renamed and added picks present.
+
+## 2026-11-27 (14:15 UTC) — Instagram comment and message check
+
+**Comments: 0 unanswered across all 57 posts. 0 replies sent. Nothing left
+for Nick on the comment side.**
+
+**The Meta token is still dead — day 13 since it expired on Nov 14 07:51 PST.**
+Both API reads failed identically:
+
+```
+ig-comments: /28335663372757999/media: Error validating access token: Session has expired on Saturday, 14-Nov-26 07:51:47 PST.
+ig-messages: /28335663372757999/conversations: same error
+```
+
+A box-wide sweep found the same two candidates as last week and both are
+dead: the profile `.env` value (expired) and an older `IGAA…` in the logs
+("Failed to decrypt"). No Meta app id or secret exists on the box, so there
+is no refresh path and no way to mint one.
+
+**Comment side proven logged out, two independent ways, both against a
+positive control.**
+
+- In-browser `fetch()` count sweep over all 57 shortcodes from
+  `POSTED-IG.json`: **0 on every post.** The NASA control `DfahZrMjAqq` read
+  **934 before and after**, and a fabricated shortcode returned a null meta
+  match, so the zeros are real zeros and not a broken detector.
+- Local Playwright rendered-DOM sweep: **checked=57, nonzero=0, comment rows=0,
+  errors=0**, NASA control reading **934 before and after**, every one of the
+  57 pages rendering "No comments yet."
+
+Still limited: the Nov 4 post `DfVK817G-gr` carries "Comments on this post
+have been limited." — visible only in the rendered sweep, exactly as the
+skill records.
+
+**The grid could not be enumerated again.** The profile page
+(`/standupcomedynyc/`) redirected to the login wall logged out, and the
+scroll-container walk collected 0 shortcodes — the same wall as Nov 26. Two
+logged-out substitutes carried the question instead: the `/embed/` page still
+renders and still prints **57 posts**, and the "More posts from standupcomedynyc"
+rail on a permalink page lists the newest posts as image alt text, confirming
+**November 12 as the newest post on the account**. So the account count is
+unchanged and nothing newer went up, but the **per-post shortcode diff against
+`POSTED-IG.json` did not complete** — it could not on Nov 26 either. Worth a
+re-run when the grid is reachable.
+
+**One new fact worth recording:** our feed has no post dated **November 13**
+(only September 27 and November 11 are the two other gaps), and there is no
+Nov 13 entry in `POSTED-IG.json` and no Nov 13 carousel commit. The token was
+still alive on Nov 13, so the 19:00 carousel that night never went up. That
+gap is a posting failure, not a publishing freeze.
+
+**DM side: unverifiable, not empty.** `/direct/inbox/` redirects to the login
+wall logged out and there is no public DM endpoint. The last good API read was
+2026-11-14 14:00 UTC (0 conversations, 0 waiting on us). Nothing readable
+since, so no thread was answered and none was passed to Nick.
+
+`IG-REPLIES.json` is unchanged (`[]`) — no replies were sent, so there is no
+"IG replies" commit and, per the rule that Nick only hears from this job when
+something was sent or left for him, no Telegram message.
+
+### Two things on the board, noted not fixed
+
+`npm test` passes at **148 picks** with two warnings, both pre-existing and
+both outside this job's scope:
+
+- `punderdrome-littlefield-2026-12-08` was last verified on 2026-11-12 and is
+  now over 14 days stale, so it warns on freshness. The Littlefield event
+  page should be reopened and re-stamped.
+- Week 6 (2027-01-01 to 2027-01-07) holds **6 picks** against a target of 8.
+  The week is thin: 6PM Comedy Show and Immigrant Jam at the Grisly Pear
+  (Jan 1), TJ turns 38 (Jan 2), New Joke Night and the Grisly Pear 8PM show
+  (Jan 5), and Yurie Collins: People Different (Jan 6). Two more picks for the
+  first week of January would close it.
+
+Neither is a comment or DM, so neither was touched here.
