@@ -1564,7 +1564,7 @@
  },
  {
   "event_id": "girl-church-union-hall-2026-11-27",
-  "src": "/assets/posters/girl-church-union-hall-2026-11-27.jpg",
+  "src": "/assets/posters/archive/girl-church-union-hall-2026-11-27.jpg",
   "width": 1880,
   "height": 940,
   "source_url": "https://www.eventbrite.com/e/girl-church-hosted-by-amelia-ritthaler-tickets-2004050382642",
@@ -1576,7 +1576,8 @@
   "bytes": 1308618,
   "sha256": "833e6feb7b48ab47974c795aacb24100e8217cc0b4c85ce2ab0c3d35333228ce",
   "reuse_status": "Official promotional artwork; no separate reuse license identified. Local review draft only.",
-  "format_note": "Re-encoded from png bytes to jpeg on 2026-11-24 so the file extension matches the bytes and the CDN serves the right Content-Type. Pixels are unchanged from https://www.eventbrite.com/e/_next/image?url=https%3A%2F%2Fimg.evbuc.com%2Fhttps%253A%252F%252Fcdn.evbuc.com%252Fimages%252F1195892194%252F282041210522%252F1%252Foriginal.20261015-191134%3Fcrop%3Dfocalpoint%26fit%3Dcrop%26w%3D1880%26auto%3Dformat%252Ccompress%26q%3D75%26sharp%3D10%26fp-x%3D0.5%26fp-y%3D0.5%26s%3D1aed3c7bc692944800e18cfc27fbd8d7&w=1880&q=75."
+  "format_note": "Re-encoded from png bytes to jpeg on 2026-11-24 so the file extension matches the bytes and the CDN serves the right Content-Type. Pixels are unchanged from https://www.eventbrite.com/e/_next/image?url=https%3A%2F%2Fimg.evbuc.com%2Fhttps%253A%252F%252Fcdn.evbuc.com%252Fimages%252F1195892194%252F282041210522%252F1%252Foriginal.20261015-191134%3Fcrop%3Dfocalpoint%26fit%3Dcrop%26w%3D1880%26auto%3Dformat%252Ccompress%26q%3D75%26sharp%3D10%26fp-x%3D0.5%26fp-y%3D0.5%26s%3D1aed3c7bc692944800e18cfc27fbd8d7&w=1880&q=75.",
+  "archived": true
  },
  {
   "event_id": "good-eggs-nycc-2026-11-11",
@@ -1675,7 +1676,7 @@
  },
  {
   "event_id": "grove-comedy-grove-34-2026-11-27",
-  "src": "/assets/posters/grove-comedy-grove-34-2026-11-27.jpg",
+  "src": "/assets/posters/archive/grove-comedy-grove-34-2026-11-27.jpg",
   "width": 1920,
   "height": 1080,
   "source_url": "https://grove34.com/shows/grove-comedy-27nov",
@@ -1686,7 +1687,8 @@
   "retrieved_at": "2026-11-19",
   "reuse_status": "Official promotional artwork from the show's public listing; no separate reuse license identified. Site display with credit only.",
   "bytes": 169549,
-  "sha256": "a479c30b8102592dcd12b876bae2fd3c986df3c8b27a2cef6fbfbbb2994ea1dc"
+  "sha256": "a479c30b8102592dcd12b876bae2fd3c986df3c8b27a2cef6fbfbbb2994ea1dc",
+  "archived": true
  },
  {
   "event_id": "harry-potter-goblet-memory-littlefield-2026-11-19",
@@ -4513,7 +4515,7 @@
  },
  {
   "event_id": "thankful-for-laughs-union-hall-2026-11-27",
-  "src": "/assets/posters/thankful-for-laughs-union-hall-2026-11-27.png",
+  "src": "/assets/posters/archive/thankful-for-laughs-union-hall-2026-11-27.png",
   "width": 2160,
   "height": 1080,
   "source_url": "https://www.eventbrite.com/e/thankful-for-laughs-with-jenny-gorelick-and-friends-tickets-2005299914024",
@@ -4524,7 +4526,8 @@
   "retrieved_at": "2026-11-24",
   "bytes": 1719838,
   "sha256": "0382d673ee8eef2b78049e44ac1d2b2347981d3ce1bbff369eab7b76ad240c66",
-  "reuse_status": "Official promotional artwork; no separate reuse license identified. Site display with credit only."
+  "reuse_status": "Official promotional artwork; no separate reuse license identified. Site display with credit only.",
+  "archived": true
  },
  {
   "event_id": "immigrant-jam-caveat-2026-12-04",
@@ -4619,7 +4622,7 @@
  },
  {
   "event_id": "standuptown-post-thanksgiving-qed-2026-11-27",
-  "src": "/assets/posters/standuptown-qed-2026-11-27.png",
+  "src": "/assets/posters/archive/standuptown-qed-2026-11-27.png",
   "width": 1024,
   "height": 1024,
   "source_url": "https://qedastoria.com/products/standuptown-q-e-d",
@@ -4631,11 +4634,12 @@
   "bytes": 1576922,
   "sha256": "6b58853164f859ed9da1ee790a93a259c3d815bbdae9c99391b4d3fe4f2fff6c",
   "reuse_status": "Official promotional artwork; no separate reuse license identified. Site display with credit only.",
-  "format_note": "Re-encoded from jpeg bytes to png on 2026-11-24 so the file extension matches the bytes and the CDN serves the right Content-Type. Pixels are unchanged from https://qedastoria.com/cdn/shop/files/IMG_3785_1024x1024.png?v=1794369204."
+  "format_note": "Re-encoded from jpeg bytes to png on 2026-11-24 so the file extension matches the bytes and the CDN serves the right Content-Type. Pixels are unchanged from https://qedastoria.com/cdn/shop/files/IMG_3785_1024x1024.png?v=1794369204.",
+  "archived": true
  },
  {
   "event_id": "black-cat-fridays-les-2026-11-27",
-  "src": "/assets/posters/black-cat-fridays-les-2026-11-27.jpg",
+  "src": "/assets/posters/archive/black-cat-fridays-les-2026-11-27.jpg",
   "width": 1774,
   "height": 887,
   "source_url": "https://www.eventbrite.com/e/black-cat-fridays-stand-up-comedy-tickets-1990458641378",
@@ -4647,7 +4651,8 @@
   "bytes": 546352,
   "sha256": "1695e70e46ba90257f9f4e56356b3cc9a4cac25a8b334be53f5ff89f287159c3",
   "reuse_status": "Official promotional artwork; no separate reuse license identified. Site display with credit only.",
-  "format_note": "Re-encoded from png bytes to jpeg on 2026-11-24 so the file extension matches the bytes and the CDN serves the right Content-Type. Pixels are unchanged from https://cdn.evbuc.com/images/1182746896/27072033929/1/original.20260422-042616?crop=focalpoint&fit=crop&w=1880&auto=format,compress&q=75&sharp=10&fp-x=0.488&fp-y=0.528&s=d52b114a1e7740c7edeb7a613fb6fafc."
+  "format_note": "Re-encoded from png bytes to jpeg on 2026-11-24 so the file extension matches the bytes and the CDN serves the right Content-Type. Pixels are unchanged from https://cdn.evbuc.com/images/1182746896/27072033929/1/original.20260422-042616?crop=focalpoint&fit=crop&w=1880&auto=format,compress&q=75&sharp=10&fp-x=0.488&fp-y=0.528&s=d52b114a1e7740c7edeb7a613fb6fafc.",
+  "archived": true
  },
  {
   "event_id": "landline-comedy-wild-east-2026-12-03",
@@ -4894,7 +4899,7 @@
  },
  {
   "event_id": "fridays-hottest-show-st-marks-2026-11-27",
-  "src": "/assets/posters/fridays-hottest-show-st-marks-2026-11-27.jpg",
+  "src": "/assets/posters/archive/fridays-hottest-show-st-marks-2026-11-27.jpg",
   "width": 474,
   "height": 315,
   "source_url": "https://www.stmarkscomedy.com/shows/fridays-hottest-show-with-chris-riggins-bet-plus-bay-areas-f-2026-11-27-4aa808e6",
@@ -4905,7 +4910,8 @@
   "retrieved_at": "2026-11-26",
   "bytes": 30957,
   "sha256": "5c10a22b45b985e1f6e0ebeec35ba03b474b61895d6d833216752be8f5ae8703",
-  "reuse_status": "Official promotional artwork; no separate reuse license identified. Local review draft only."
+  "reuse_status": "Official promotional artwork; no separate reuse license identified. Local review draft only.",
+  "archived": true
  },
  {
   "event_id": "thanksgiving-comedy-in-the-city-st-marks-2026-11-26",

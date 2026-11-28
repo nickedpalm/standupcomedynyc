@@ -1,300 +1,5 @@
 [
  {
-  "id": "family-therapy-wscc-2026-11-27",
-  "title": "Family Therapy",
-  "date": "2026-11-27",
-  "starts_at": "2026-11-27T18:00:00-05:00",
-  "ends_at": "2026-11-27T19:30:00-05:00",
-  "end_time_confirmed": true,
-  "time_label": "6pm",
-  "venue": "West Side Comedy Club",
-  "neighborhood": "Upper West Side",
-  "price_amount": null,
-  "price_label": "See ticket page for price (two-item minimum)",
-  "ticket_url": "https://westsidecomedyclub.com/shows/family-therapy-16577",
-  "source_url": "https://westsidecomedyclub.com/shows/family-therapy-16577",
-  "verified_at": "2026-11-26",
-  "description": "The early Friday show under Playa Betty’s on the Upper West Side, and the one the club bills as clean and all ages: no swearing, no phones, just comics working out the week’s mess in front of you.",
-  "tier": "special",
-  "featured": false,
-  "demand": null,
-  "demand_checked": "2026-11-27",
-  "verification_note": "The club's own show page gives Friday November 27 at 6pm and describes the show as clean and all ages, with a two-item minimum of food or drink and the age policy 16+ with a guardian, 18+ without. The page prints the end time, 9:30pm, so end_time_confirmed is true. The club's month calendar does not show the 6pm slot in its ticket list, so the show page is the evidence here."
- },
- {
-  "id": "grove-comedy-grove-34-2026-11-27",
-  "title": "Grove Comedy",
-  "date": "2026-11-27",
-  "starts_at": "2026-11-27T19:30:00-05:00",
-  "ends_at": "2026-11-27T21:30:00-05:00",
-  "end_time_confirmed": false,
-  "time_label": "7:30pm",
-  "venue": "Grove 34",
-  "neighborhood": "Astoria",
-  "price_amount": null,
-  "price_label": "See show page for price",
-  "ticket_url": "https://grove34.com/shows/grove-comedy-27nov",
-  "source_url": "https://grove34.com/shows/grove-comedy-27nov",
-  "verified_at": "2026-11-20",
-  "description": "Grove 34's Friday showcase in Astoria, where you can bring your own bottle for a $25 corking fee and the room seats everyone first come, first served.",
-  "tier": "special",
-  "featured": false,
-  "poster": {
-   "src": "/assets/posters/grove-comedy-grove-34-2026-11-27.jpg",
-   "width": 1920,
-   "height": 1080,
-   "source_url": "https://grove34.com/shows/grove-comedy-27nov",
-   "credit": "Photo: Grove 34 (via the club's own show page)",
-   "alt": "Two comics on the Grove 34 stage in front of the club's neon GROVE34 sign.",
-   "kind": "undated official show artwork"
-  },
-  "demand": null,
-  "demand_checked": "2026-11-27"
- },
- {
-  "id": "thankful-for-laughs-union-hall-2026-11-27",
-  "title": "Thankful for Laughs with Jenny Gorelick and Friends",
-  "date": "2026-11-27",
-  "starts_at": "2026-11-27T19:30:00-05:00",
-  "ends_at": "2026-11-27T21:00:00-05:00",
-  "end_time_confirmed": true,
-  "time_label": "7:30pm · doors 7pm",
-  "venue": "Union Hall",
-  "neighborhood": "Park Slope",
-  "price_amount": 15.92,
-  "price_label": "$15.92 incl. fees",
-  "ticket_url": "https://www.eventbrite.com/e/thankful-for-laughs-with-jenny-gorelick-and-friends-tickets-2005299914024",
-  "source_url": "https://www.eventbrite.com/e/thankful-for-laughs-with-jenny-gorelick-and-friends-tickets-2005299914024",
-  "verified_at": "2026-11-24",
-  "description": "Jenny Gorelick hosts a Black Friday bill built around her own crowd: Jessie Lee, Charlie Flynn, Julia Shiplett, Nataly Aukar and Shaunak Godkhindi, 90 minutes in the Park Slope room with no refunds and no surprises.",
-  "tier": "special",
-  "featured": false,
-  "poster": {
-   "src": "/assets/posters/thankful-for-laughs-union-hall-2026-11-27.png",
-   "width": 2160,
-   "height": 1080,
-   "source_url": "https://www.eventbrite.com/e/thankful-for-laughs-with-jenny-gorelick-and-friends-tickets-2005299914024",
-   "credit": "Artwork: Union Hall / show organizer",
-   "alt": "Thankful for Laughs with Jenny Gorelick and Friends flyer for Union Hall, Friday November 27, 2026.",
-   "kind": "dated event flyer"
-  },
-  "demand": null,
-  "demand_checked": "2026-11-27",
-  "verification_note": "The Union Hall Eventbrite listing gives Friday November 27, doors at 7pm, show 7:30pm to 9pm, 21+, no refunds, and the $15.92 price with fees, and names Jenny Gorelick with Jessie Lee, Charlie Flynn, Julia Shiplett, Nataly Aukar and Shaunak Godkhindi. The end time is on the listing, so end_time_confirmed is true."
- },
- {
-  "id": "standuptown-post-thanksgiving-qed-2026-11-27",
-  "title": "StandUpTown: A Post Thanksgiving Special",
-  "date": "2026-11-27",
-  "starts_at": "2026-11-27T19:30:00-05:00",
-  "ends_at": "2026-11-27T21:00:00-05:00",
-  "end_time_confirmed": false,
-  "time_label": "7:30pm",
-  "venue": "QED Astoria",
-  "neighborhood": "Astoria",
-  "price_amount": 15,
-  "price_label": "$15 general admission",
-  "ticket_url": "https://qedastoria.com/products/standuptown-q-e-d",
-  "source_url": "https://qedastoria.com/products/standuptown-q-e-d",
-  "verified_at": "2026-11-24",
-  "description": "StandUpTown brings the Friday after Thanksgiving to the Astoria room with Santiago Angel, Megan McMurtry, Hyde Healy, Michael Brigante and Bini Yamin, and the club asks you to read its ticketing policies before you pay.",
-  "tier": "special",
-  "featured": false,
-  "poster": {
-   "src": "/assets/posters/standuptown-qed-2026-11-27.png",
-   "width": 1024,
-   "height": 1024,
-   "source_url": "https://qedastoria.com/products/standuptown-q-e-d",
-   "credit": "Artwork: Q.E.D. Astoria",
-   "alt": "StandUpTown at Q.E.D. artwork for the November 27, 2026 post-Thanksgiving show.",
-   "kind": "dated event flyer"
-  },
-  "demand": null,
-  "demand_checked": "2026-11-27",
-  "verification_note": "QED's own event calendar (/apps/events/calendar) lists \"7:30p StandUpTown @ Q.E.D.\" on Fri Nov 27 and links it to the product page with the 19:30 slot, so the start time comes from the room's calendar rather than the product page, which carries no time. The lineup and the $15 general admission come from the product page itself. The page prints no end time, so ends_at is an estimate. The Nov 27 date carried a bullet on the calendar but no sold-out marker."
- },
- {
-  "id": "tom-van-horn-comic-strip-2026-11-27",
-  "title": "Tom Van Horn, Elyse DeLucci, Jason Salmon & Kareem Green",
-  "date": "2026-11-27",
-  "starts_at": "2026-11-27T20:00:00-05:00",
-  "ends_at": "2026-11-27T22:00:00-05:00",
-  "end_time_confirmed": true,
-  "time_label": "8pm",
-  "venue": "Comic Strip Live",
-  "neighborhood": "Upper East Side",
-  "price_amount": 23.61,
-  "price_label": "$23.61 after fees ($20 + $3.61 fee)",
-  "ticket_url": "https://www.eventbrite.com/e/2003841773687",
-  "source_url": "https://comicstriplive.com/tom-van-horn-comedy-central-elyse-delucci-new-york-comedy-festival-jason-salmon-30-rock-kareem-green-showtime/",
-  "verified_at": "2026-11-20",
-  "description": "The Friday after Thanksgiving, with Jason Salmon (30 Rock) and Kareem Green (Showtime) alongside Tom Van Horn and Elyse DeLucci.",
-  "tier": "special",
-  "featured": false,
-  "poster": null,
-  "demand": null,
-  "demand_checked": "2026-11-27"
- },
- {
-  "id": "prime-time-flop-house-2026-11-27",
-  "title": "The Prime Time Show at Flop House",
-  "date": "2026-11-27",
-  "starts_at": "2026-11-27T20:00:00-05:00",
-  "ends_at": "2026-11-27T21:30:00-05:00",
-  "end_time_confirmed": true,
-  "time_label": "8pm",
-  "venue": "Flop House Comedy",
-  "neighborhood": "Williamsburg",
-  "price_amount": 7.18,
-  "price_label": "$7.18 early bird incl. fees",
-  "ticket_url": "https://www.eventbrite.com/e/the-prime-time-show-at-flop-house-stand-up-comedy-in-williamsburg-tickets-2005230578640",
-  "source_url": "https://www.eventbrite.com/e/the-prime-time-show-at-flop-house-stand-up-comedy-in-williamsburg-tickets-2005230578640",
-  "verified_at": "2026-11-24",
-  "description": "Six to eight of the city’s working comics take eight-to-twelve-minute sets and are done by half past nine, so the Williamsburg room still leaves you the rest of your Friday, and there is no drink minimum.",
-  "tier": "special",
-  "featured": false,
-  "demand": null,
-  "demand_checked": "2026-11-27",
-  "verification_note": "The Flop House Eventbrite listing gives Friday November 27, 8:00pm to 9:30pm at 362 Grand St, and states the format in its own copy: a 90-minute showcase of six to eight working comics on eight-to-twelve-minute sets, done by 9:30, no drink minimum, no refunds. The end time is on the listing, so end_time_confirmed is true."
- },
- {
-  "id": "friday-favs-wscc-2026-11-27",
-  "title": "Friday Favs",
-  "date": "2026-11-27",
-  "starts_at": "2026-11-27T20:00:00-05:00",
-  "ends_at": "2026-11-27T21:30:00-05:00",
-  "end_time_confirmed": true,
-  "time_label": "8pm",
-  "venue": "West Side Comedy Club",
-  "neighborhood": "Upper West Side",
-  "price_amount": null,
-  "price_label": "See ticket page for price (two-item minimum)",
-  "ticket_url": "https://westsidecomedyclub.com/shows/richie-redding-pedro-gonzalez-caitlin-peluffo-shaunak-godkhindi-and-miss-lissa-9130",
-  "source_url": "https://westsidecomedyclub.com/shows/richie-redding-pedro-gonzalez-caitlin-peluffo-shaunak-godkhindi-and-miss-lissa-9130",
-  "description": "The Friday eight o'clock at the Upper West Side room, with Miss Lissa, Caitlin Peluffo, Richie Redding, Shaunak Godkhindi and Pedro Gonzalez on the bill — the room's own Friday anchor, and the one that runs 8pm to half past.",
-  "tier": "special",
-  "featured": false,
-  "poster": null,
-  "verification_note": "The club's own show page gives Friday November 27 at 8pm for Friday Favs, names Miss Lissa, Caitlin Peluffo, Richie Redding, Shaunak Godkhindi and Pedro Gonzalez, and prints the end time, 9:30pm, so end_time_confirmed is true. It states a two-item minimum of food or drink and the age policy 16+ with a guardian, 18+ without. It prints no ticket price, so the price stays unknown.",
-  "verified_at": "2026-11-26",
-  "demand": null,
-  "demand_checked": "2026-11-27"
- },
- {
-  "id": "fridays-hottest-show-st-marks-2026-11-27",
-  "title": "FRIDAY's HOTTEST SHOW",
-  "date": "2026-11-27",
-  "starts_at": "2026-11-27T20:30:00-05:00",
-  "ends_at": "2026-11-27T22:00:00-05:00",
-  "end_time_confirmed": true,
-  "time_label": "8:30pm · doors 8pm",
-  "venue": "St. Marks Comedy Club",
-  "neighborhood": "East Village",
-  "price_amount": 23.5,
-  "price_label": "$23.50 all-in ($21.50 + $2 fee)",
-  "ticket_url": "https://www.stmarkscomedy.com/shows/fridays-hottest-show-with-chris-riggins-bet-plus-bay-areas-f-2026-11-27-4aa808e6",
-  "source_url": "https://www.stmarkscomedy.com/shows/fridays-hottest-show-with-chris-riggins-bet-plus-bay-areas-f-2026-11-27-4aa808e6",
-  "verified_at": "2026-11-26",
-  "description": "Chris Riggins is on the bill for the Friday 8:30 in the East Village, with Alexis Carabano and Daniel Carabano — the day after Thanksgiving, so the room is the plan.",
-  "tier": "special",
-  "featured": false,
-  "poster": {
-   "src": "/assets/posters/fridays-hottest-show-st-marks-2026-11-27.jpg",
-   "width": 474,
-   "height": 315,
-   "source_url": "https://www.stmarkscomedy.com/shows/fridays-hottest-show-with-chris-riggins-bet-plus-bay-areas-f-2026-11-27-4aa808e6",
-   "credit": "Photo: St. Marks Comedy Club (via the club’s show page)",
-   "alt": "A smiling man in a cap, the club’s photo for the Friday 8:30 show.",
-   "kind": "show photo"
-  },
-  "demand": null,
-  "demand_checked": "2026-11-27"
- },
- {
-  "id": "black-cat-fridays-les-2026-11-27",
-  "title": "Black Cat Fridays",
-  "date": "2026-11-27",
-  "starts_at": "2026-11-27T21:00:00-05:00",
-  "ends_at": "2026-11-27T22:30:00-05:00",
-  "end_time_confirmed": true,
-  "time_label": "9pm · doors 8:30pm",
-  "venue": "Black Cat LES",
-  "neighborhood": "Lower East Side",
-  "price_amount": 0,
-  "price_label": "Free RSVP; $0-$17.85 tiers on the listing",
-  "ticket_url": "https://www.eventbrite.com/e/black-cat-fridays-stand-up-comedy-tickets-1990458641378",
-  "source_url": "https://www.eventbrite.com/e/black-cat-fridays-stand-up-comedy-tickets-1990458641378",
-  "verified_at": "2026-11-24",
-  "description": "Kate Willett headlines Black Friday at the Rivington Street cafe-bar with Tom McCaffrey, Olivia Stadler and Caroline Hanes, and the room asks you to arrive by quarter to nine if you want a seat.",
-  "tier": "special",
-  "featured": false,
-  "poster": {
-   "src": "/assets/posters/black-cat-fridays-les-2026-11-27.jpg",
-   "width": 1774,
-   "height": 887,
-   "source_url": "https://www.eventbrite.com/e/black-cat-fridays-stand-up-comedy-tickets-1990458641378",
-   "credit": "Artwork: Black Cat LES / show organizer",
-   "alt": "Black Cat Fridays promotional artwork for the Lower East Side room.",
-   "kind": "dated event flyer"
-  },
-  "demand": null,
-  "demand_checked": "2026-11-27",
-  "verification_note": "The producer's Eventbrite listing gives Friday November 27, doors and playlist at 8:30pm, show 9pm to 10:30pm, and asks you to arrive by 8:45pm for the best seating. Kate Willett headlines with Tom McCaffrey, Olivia Stadler, Caroline Hanes, Nina Tarr and Flora Manon. The listing runs free RSVP alongside paid tiers up to $17.85, which is why the price line says both."
- },
- {
-  "id": "girl-church-union-hall-2026-11-27",
-  "title": "Girl Church hosted by Amelia Ritthaler",
-  "date": "2026-11-27",
-  "starts_at": "2026-11-27T22:00:00-05:00",
-  "ends_at": "2026-11-27T23:30:00-05:00",
-  "end_time_confirmed": false,
-  "time_label": "10pm · doors 9:30pm",
-  "venue": "Union Hall",
-  "neighborhood": "Park Slope",
-  "price_amount": 13.61,
-  "price_label": "$13.61",
-  "ticket_url": "https://www.eventbrite.com/e/girl-church-hosted-by-amelia-ritthaler-tickets-2004050382642",
-  "source_url": "https://www.eventbrite.com/e/girl-church-hosted-by-amelia-ritthaler-tickets-2004050382642",
-  "verified_at": "2026-11-13",
-  "description": "Thirteen dollars and a 10pm start on the Friday after Thanksgiving, so the night is still young when you get out. Amelia Ritthaler hosts her monthly show with the Girls Rewatch crowd and a rotating cast of New York comics.",
-  "tier": "special",
-  "featured": false,
-  "poster": {
-   "src": "/assets/posters/girl-church-union-hall-2026-11-27.jpg",
-   "width": 1880,
-   "height": 940,
-   "source_url": "https://www.eventbrite.com/e/girl-church-hosted-by-amelia-ritthaler-tickets-2004050382642",
-   "credit": "Artwork: Union Hall / show organizer",
-   "alt": "Girl Church hosted by Amelia Ritthaler at Union Hall — November 27, 2026 promotional artwork.",
-   "kind": "dated event flyer"
-  },
-  "demand": null,
-  "demand_checked": "2026-11-27"
- },
- {
-  "id": "cipha-sounds-wscc-2026-11-27",
-  "title": "Cipha Sounds, Isabel Hagen, Katie Blunt, Sharief Johnson, Sam Frank and Eeland Stribling",
-  "date": "2026-11-27",
-  "starts_at": "2026-11-27T22:00:00-05:00",
-  "ends_at": "2026-11-27T23:30:00-05:00",
-  "end_time_confirmed": true,
-  "time_label": "10pm",
-  "venue": "West Side Comedy Club",
-  "neighborhood": "Upper West Side",
-  "price_amount": null,
-  "price_label": "See ticket page for price",
-  "ticket_url": "https://westsidecomedyclub.com/shows/cipha-sounds-isabel-hagen-katie-blunt-sharief-johnson-sam-frank-and-eeland-strib-9179",
-  "source_url": "https://westsidecomedyclub.com/shows/cipha-sounds-isabel-hagen-katie-blunt-sharief-johnson-sam-frank-and-eeland-strib-9179",
-  "description": "The West Side room’s ten o’clock slot on the Friday after Thanksgiving, with Cipha Sounds on the bill — a radio legend who tours with the biggest names and still does a late set in a room with a two-item minimum.",
-  "poster": null,
-  "verification_note": "The club's own show page gives Friday November 27 at 10pm and names Cipha Sounds, Isabel Hagen, Katie Blunt, Sharief Johnson, Sam Frank and Eeland Stribling, and states a two-item minimum of food or drink per person. The page prints the end time, 11:30pm, so end_time_confirmed is true. The page prints no ticket price, so the price stays unknown.",
-  "verified_at": "2026-11-26",
-  "tier": "special",
-  "featured": false,
-  "demand": null,
-  "demand_checked": "2026-11-27"
- },
- {
   "id": "glorelys-brooklyn-improv-2026-11-28",
   "title": "Glorelys",
   "date": "2026-11-28",
@@ -315,7 +20,7 @@
   "tier": "special",
   "featured": false,
   "demand": null,
-  "demand_checked": "2026-11-27"
+  "demand_checked": "2026-11-28"
  },
  {
   "id": "aapi-comedy-night-wild-east-2026-11-28",
@@ -336,7 +41,7 @@
   "tier": "special",
   "featured": false,
   "demand": null,
-  "demand_checked": "2026-11-27",
+  "demand_checked": "2026-11-28",
   "verification_note": "The brewery's own taproom page lists 'Sat, Nov. 28th: AAPI Comedy Night - Friendsgiving from 7-10pm. Free'. The address, 623 Sackett St, comes from the brewery's own footer. The page prints the end time (10pm), so end_time_confirmed is true."
  },
  {
@@ -360,7 +65,7 @@
   "tier": "special",
   "featured": false,
   "demand": null,
-  "demand_checked": "2026-11-27"
+  "demand_checked": "2026-11-28"
  },
  {
   "id": "eastville-saturday-showcase-2026-11-28",
@@ -382,7 +87,7 @@
   "featured": false,
   "poster": null,
   "demand": null,
-  "demand_checked": "2026-11-27"
+  "demand_checked": "2026-11-28"
  },
  {
   "id": "stand-up-comedy-nyc-uesc-2026-11-28",
@@ -413,7 +118,7 @@
   "tier": "special",
   "featured": false,
   "demand": null,
-  "demand_checked": "2026-11-27"
+  "demand_checked": "2026-11-28"
  },
  {
   "id": "speakeasy-saturday-night-st-marks-2026-11-28",
@@ -443,7 +148,7 @@
    "kind": "dated event flyer"
   },
   "demand": null,
-  "demand_checked": "2026-11-27"
+  "demand_checked": "2026-11-28"
  },
  {
   "id": "devon-walker-union-hall-2026-11-28",
@@ -473,7 +178,7 @@
    "kind": "undated official show artwork"
   },
   "demand": null,
-  "demand_checked": "2026-11-27"
+  "demand_checked": "2026-11-28"
  },
  {
   "id": "canadian-thanksgiving-club-cumming-2026-11-29",
@@ -504,7 +209,7 @@
   "tier": "special",
   "featured": false,
   "demand": null,
-  "demand_checked": "2026-11-27"
+  "demand_checked": "2026-11-28"
  },
  {
   "id": "comedy-idol-finale-wscc-2026-11-29",
@@ -526,7 +231,7 @@
   "featured": false,
   "poster": null,
   "demand": null,
-  "demand_checked": "2026-11-27",
+  "demand_checked": "2026-11-28",
   "verification_note": "The club's own show page gives Sunday November 29 at 7pm for the Comedy Idol Finale, and prints the end time, 9pm, so end_time_confirmed is true. The page states a two-item minimum of food or drink and the age policy 16+ with a guardian, 18+ without. It prints no ticket price, so the price stays unknown."
  },
  {
@@ -550,7 +255,7 @@
   "tier": "special",
   "featured": false,
   "demand": null,
-  "demand_checked": "2026-11-27"
+  "demand_checked": "2026-11-28"
  },
  {
   "id": "silver-lining-gianmarco-soresi-bell-house-2026-11-29",
@@ -580,7 +285,7 @@
    "kind": "dated event flyer"
   },
   "demand": null,
-  "demand_checked": "2026-11-27"
+  "demand_checked": "2026-11-28"
  },
  {
   "id": "sunday-night-comedy-eastville-2026-11-29",
@@ -602,7 +307,7 @@
   "featured": false,
   "poster": null,
   "demand": null,
-  "demand_checked": "2026-11-27",
+  "demand_checked": "2026-11-28",
   "verification_note": "Eastville’s own show page confirms Sunday November 29 at 7:30pm at 487 Atlantic Ave, with a two-drink minimum at all shows. The page lists no price today, so the price on the record stands as read previously."
  },
  {
@@ -633,7 +338,7 @@
    "kind": "dated event flyer"
   },
   "demand": null,
-  "demand_checked": "2026-11-27"
+  "demand_checked": "2026-11-28"
  },
  {
   "id": "highly-suspicious-nycc-2026-11-29",
@@ -663,7 +368,7 @@
    "kind": "dated event flyer"
   },
   "demand": null,
-  "demand_checked": "2026-11-27"
+  "demand_checked": "2026-11-28"
  },
  {
   "id": "brooklyn-power-hour-eastville-2026-11-30",
@@ -685,7 +390,7 @@
   "featured": false,
   "poster": null,
   "demand": null,
-  "demand_checked": "2026-11-27"
+  "demand_checked": "2026-11-28"
  },
  {
   "id": "friendsgiving-tiffany-caban-littlefield-2026-11-30",
@@ -715,7 +420,7 @@
    "kind": "dated event flyer"
   },
   "demand": null,
-  "demand_checked": "2026-11-27"
+  "demand_checked": "2026-11-28"
  },
  {
   "id": "charlie-bardey-union-hall-2026-11-30",
@@ -745,7 +450,7 @@
    "kind": "dated event flyer"
   },
   "demand": null,
-  "demand_checked": "2026-11-27"
+  "demand_checked": "2026-11-28"
  },
  {
   "id": "peter-stewart-nick-tilleli-comic-strip-2026-11-30",
@@ -767,7 +472,7 @@
   "featured": false,
   "poster": null,
   "demand": null,
-  "demand_checked": "2026-11-27"
+  "demand_checked": "2026-11-28"
  },
  {
   "id": "stamptown-bell-house-2026-11-30",
@@ -797,7 +502,7 @@
    "kind": "dated event flyer"
   },
   "demand": null,
-  "demand_checked": "2026-11-27"
+  "demand_checked": "2026-11-28"
  },
  {
   "id": "tommy-armstrong-union-hall-2026-11-30",
@@ -827,7 +532,7 @@
    "kind": "dated event flyer"
   },
   "demand": null,
-  "demand_checked": "2026-11-27"
+  "demand_checked": "2026-11-28"
  },
  {
   "id": "jeff-scheen-special-littlefield-2026-12-01",
@@ -857,7 +562,7 @@
    "kind": "dated event flyer"
   },
   "demand": "going_fast",
-  "demand_checked": "2026-11-27"
+  "demand_checked": "2026-11-28"
  },
  {
   "id": "a-true-york-st-marks-2026-12-01",
@@ -887,7 +592,7 @@
    "kind": "dated event flyer"
   },
   "demand": null,
-  "demand_checked": "2026-11-27"
+  "demand_checked": "2026-11-28"
  },
  {
   "id": "ismael-loutfi-heavenly-baba-union-hall-2026-12-01",
@@ -917,7 +622,7 @@
    "kind": "dated event flyer"
   },
   "demand": null,
-  "demand_checked": "2026-11-27"
+  "demand_checked": "2026-11-28"
  },
  {
   "id": "i-hate-capitalism-friends-and-lovers-2026-12-01",
@@ -947,7 +652,7 @@
    "kind": "dated event flyer"
   },
   "demand": null,
-  "demand_checked": "2026-11-27"
+  "demand_checked": "2026-11-28"
  },
  {
   "id": "the-facebook-talea-2026-12-01",
@@ -978,7 +683,7 @@
   "tier": "special",
   "featured": false,
   "demand": null,
-  "demand_checked": "2026-11-27"
+  "demand_checked": "2026-11-28"
  },
  {
   "id": "nick-mestad-union-hall-2026-12-01",
@@ -1009,7 +714,7 @@
   "tier": "special",
   "featured": false,
   "demand": null,
-  "demand_checked": "2026-11-27"
+  "demand_checked": "2026-11-28"
  },
  {
   "id": "loose-lips-club-cumming-2026-12-02",
@@ -1040,7 +745,7 @@
   "tier": "special",
   "featured": false,
   "demand": null,
-  "demand_checked": "2026-11-27"
+  "demand_checked": "2026-11-28"
  },
  {
   "id": "ania-magliano-peach-fuzz-bell-house-2026-12-02",
@@ -1070,7 +775,7 @@
    "kind": "dated event flyer"
   },
   "demand": null,
-  "demand_checked": "2026-11-27"
+  "demand_checked": "2026-11-28"
  },
  {
   "id": "cold-plunge-kurt-braunohler-union-hall-2026-12-02",
@@ -1100,7 +805,7 @@
    "kind": "dated event flyer"
   },
   "demand": null,
-  "demand_checked": "2026-11-27"
+  "demand_checked": "2026-11-28"
  },
  {
   "id": "gina-brillon-brooklyn-improv-2026-12-02",
@@ -1131,7 +836,7 @@
    "reuse_status": "Official promotional artwork for the show, published on the club's event page; no separate reuse license identified. Site display with credit only."
   },
   "demand": null,
-  "demand_checked": "2026-11-27",
+  "demand_checked": "2026-11-28",
   "verification_note": "The venue’s own event page confirms Wednesday December 2 at 7:30pm in the Main Room and the ticket at $33.36. The page prints no end time, so ends_at is an estimate."
  },
  {
@@ -1152,7 +857,7 @@
   "featured": false,
   "tier": "special",
   "demand": null,
-  "demand_checked": "2026-11-27",
+  "demand_checked": "2026-11-28",
   "poster": {
    "src": "/assets/posters/ania-magliano-peach-fuzz-bell-house-2026-12-03.jpg",
    "width": 2048,
@@ -1193,7 +898,7 @@
   "tier": "special",
   "featured": false,
   "demand": null,
-  "demand_checked": "2026-11-27"
+  "demand_checked": "2026-11-28"
  },
  {
   "id": "date-night-comedy-st-marks-2026-12-03",
@@ -1214,7 +919,7 @@
   "tier": "special",
   "featured": false,
   "demand": null,
-  "demand_checked": "2026-11-27"
+  "demand_checked": "2026-11-28"
  },
  {
   "id": "landline-comedy-wild-east-2026-12-03",
@@ -1244,7 +949,7 @@
    "kind": "undated official show artwork"
   },
   "demand": null,
-  "demand_checked": "2026-11-27",
+  "demand_checked": "2026-11-28",
   "verification_note": "The Landline Eventbrite listing gives Thursday December 3, doors 8pm, show 8:30pm to 10pm, free with a reserved spot entering you in a drawing for a free drink, and a food pop-up usually running. Myka Fox, Max Fine, Kelly Collette, Matt Goldich, Gabbie Watts and Darragh White are on the bill. The end time is on the listing, so end_time_confirmed is true."
  },
  {
@@ -1275,7 +980,7 @@
    "kind": "dated event flyer"
   },
   "demand": "sold_out",
-  "demand_checked": "2026-11-27"
+  "demand_checked": "2026-11-28"
  },
  {
   "id": "immigrant-jam-caveat-2026-12-04",
@@ -1305,7 +1010,7 @@
    "kind": "dated event flyer"
   },
   "demand": null,
-  "demand_checked": "2026-11-27",
+  "demand_checked": "2026-11-28",
   "verification_note": "Caveat's own show page for Fri Dec 4 gives doors 6:30pm, show 7:00pm, 21+, no drink minimum, and the three prices: $18.76 early bird until Nov 27, $24.41 standard, $25 at the door. The lineup is Bini Yamin, Loyiso Madinga, Julio Diaz, Cansu Karabiyik and Pedro Gonzalez, hosted by Lucie Pohl. The page gives the end time, 8:30pm, so end_time_confirmed is true."
  },
  {
@@ -1336,8 +1041,8 @@
    "kind": "performer photo from the event page",
    "reuse_status": "Performer photo published on the club's event page; no separate reuse license identified. Site display with credit only."
   },
-  "demand": "sold_out",
-  "demand_checked": "2026-11-27",
+  "demand": null,
+  "demand_checked": "2026-11-28",
   "verification_note": "The venue’s own event page confirms Friday December 4 at 7:15pm in the Main Room and the ticket at $39.83, and describes the new material and the parody songs he writes in Finnish. The page prints no end time, so ends_at is an estimate."
  },
  {
@@ -1369,7 +1074,7 @@
   "tier": "special",
   "featured": false,
   "demand": null,
-  "demand_checked": "2026-11-27"
+  "demand_checked": "2026-11-28"
  },
  {
   "id": "funny-people-uesc-2026-12-04",
@@ -1391,7 +1096,7 @@
   "featured": false,
   "poster": null,
   "demand": "going_fast",
-  "demand_checked": "2026-11-27"
+  "demand_checked": "2026-11-28"
  },
  {
   "id": "friday-night-laughs-st-marks-2026-12-04",
@@ -1421,7 +1126,7 @@
    "kind": "dated event flyer"
   },
   "demand": null,
-  "demand_checked": "2026-11-27"
+  "demand_checked": "2026-11-28"
  },
  {
   "id": "a-true-york-st-marks-2026-12-05",
@@ -1451,7 +1156,7 @@
    "kind": "venue photo"
   },
   "demand": null,
-  "demand_checked": "2026-11-27"
+  "demand_checked": "2026-11-28"
  },
  {
   "id": "bourne-with-talent-st-marks-2026-12-10",
@@ -1473,7 +1178,7 @@
   "featured": false,
   "poster": null,
   "demand": null,
-  "demand_checked": "2026-11-27"
+  "demand_checked": "2026-11-28"
  },
  {
   "id": "peter-and-friends-st-marks-2027-02-06",
@@ -1503,7 +1208,7 @@
    "kind": "dated event flyer"
   },
   "demand": null,
-  "demand_checked": "2026-11-27"
+  "demand_checked": "2026-11-28"
  },
  {
   "id": "demetri-martin-bell-house-2026-12-05",
@@ -1533,7 +1238,7 @@
    "kind": "dated event flyer"
   },
   "demand": "sold_out",
-  "demand_checked": "2026-11-27",
+  "demand_checked": "2026-11-28",
   "verification_note": "Date, 7pm time and the Bell House venue from the Live Nation mirror of the Ticketmaster event page (the Ticketmaster page itself is CAPTCHA-gated). The tour's shape, the live Christmas album, the live music and the clean bill come from the comic's own site, demetrimartin.com, which lists The Bell House on Dec 4 and Dec 5. The poster is the same official tour art as the Dec 4 date."
  },
  {
@@ -1564,7 +1269,7 @@
    "kind": "dated event flyer"
   },
   "demand": null,
-  "demand_checked": "2026-11-27",
+  "demand_checked": "2026-11-28",
   "verification_note": "The room's own event page gives Saturday December 5, 7:00pm to 9:30pm, with Marcela Onyango hosting, books and guests, and the first-Saturday-of-the-month pattern. The end time is on the page, so end_time_confirmed is true. The $12.51 price with fees is from the room's Eventbrite listing."
  },
  {
@@ -1595,7 +1300,7 @@
    "kind": "dated event flyer"
   },
   "demand": "going_fast",
-  "demand_checked": "2026-11-27",
+  "demand_checked": "2026-11-28",
   "verification_note": "The Comic Strip Eventbrite listing gives Saturday December 5, doors 7:30pm, show 8pm, 17+ unless with a guardian, a two-item minimum, and the $25.71 price with fees. It names Ruperto Vanderpool, Nick Griffin, Vanessa Hollingshead and Joe Matarese, and a second set at 10:30pm the same night. The listing prints no end time for the 8pm show, so ends_at is an estimate."
  },
  {
@@ -1626,7 +1331,7 @@
    "kind": "dated event flyer"
   },
   "demand": null,
-  "demand_checked": "2026-11-27"
+  "demand_checked": "2026-11-28"
  },
  {
   "id": "demetri-martin-bell-house-2026-12-05-late",
@@ -1656,7 +1361,7 @@
    "kind": "undated official show artwork"
   },
   "demand": "going_fast",
-  "demand_checked": "2026-11-27",
+  "demand_checked": "2026-11-28",
   "verification_note": "The Bell House's own calendar lists a third Demetri Martin date on Sat Dec 5 at 9:30 PM with a plain Buy Tickets link, while both 7:00 PM Dec 4 and Dec 5 dates on that same calendar read SOLD OUT. The Live Nation event page for this listing shows the same date, time and room with a Buy Tickets button and no sold-out prefix; the Ticketmaster event page opens and prints Sat Dec 05 9:30 PM with doors at 9pm. Price is not shown on any of the three pages, so it stays unknown. The poster is the same official tour art as the Dec 4 date."
  },
  {
@@ -1680,7 +1385,7 @@
   "tier": "special",
   "featured": false,
   "demand": "going_fast",
-  "demand_checked": "2026-11-27"
+  "demand_checked": "2026-11-28"
  },
  {
   "id": "daniela-ines-calvo-st-marks-2026-12-06",
@@ -1710,7 +1415,7 @@
    "kind": "dated event flyer"
   },
   "demand": null,
-  "demand_checked": "2026-11-27"
+  "demand_checked": "2026-11-28"
  },
  {
   "id": "jenny-alex-try-new-jokes-union-hall-2026-12-06",
@@ -1740,7 +1445,7 @@
    "kind": "dated event flyer"
   },
   "demand": null,
-  "demand_checked": "2026-11-27"
+  "demand_checked": "2026-11-28"
  },
  {
   "id": "df-sweedler-comic-strip-2026-12-06",
@@ -1771,7 +1476,7 @@
   "tier": "special",
   "featured": false,
   "demand": null,
-  "demand_checked": "2026-11-27"
+  "demand_checked": "2026-11-28"
  },
  {
   "id": "rb-karaoke-comedy-comedy-in-harlem-2026-12-07",
@@ -1793,7 +1498,7 @@
   "featured": false,
   "poster": null,
   "demand": null,
-  "demand_checked": "2026-11-27"
+  "demand_checked": "2026-11-28"
  },
  {
   "id": "a-true-york-st-marks-2026-12-07",
@@ -1815,7 +1520,7 @@
   "featured": false,
   "poster": null,
   "demand": null,
-  "demand_checked": "2026-11-27"
+  "demand_checked": "2026-11-28"
  },
  {
   "id": "alyce-chan-nycc-2026-12-08",
@@ -1845,7 +1550,7 @@
    "kind": "performer headshot from the event page"
   },
   "demand": "sold_out",
-  "demand_checked": "2026-11-27"
+  "demand_checked": "2026-11-28"
  },
  {
   "title": "The Silver Lining with Gianmarco Soresi",
@@ -1865,7 +1570,7 @@
   "featured": false,
   "tier": "special",
   "demand": null,
-  "demand_checked": "2026-11-27",
+  "demand_checked": "2026-11-28",
   "poster": {
    "src": "/assets/posters/silver-lining-gianmarco-soresi-bell-house-2026-12-08.jpg",
    "width": 2048,
@@ -1905,7 +1610,7 @@
    "kind": "undated official show artwork"
   },
   "demand": null,
-  "demand_checked": "2026-11-27",
+  "demand_checked": "2026-11-28",
   "verification_note": "The club's own show page gives Tuesday December 8 at 8pm for Not Ripe Bananas and prints the end time, 9:30pm, so end_time_confirmed is true."
  },
  {
@@ -1936,7 +1641,7 @@
    "kind": "undated official promotional artwork"
   },
   "demand": null,
-  "demand_checked": "2026-11-27"
+  "demand_checked": "2026-11-28"
  },
  {
   "id": "gong-show-st-marks-2026-12-08",
@@ -1958,7 +1663,7 @@
   "featured": false,
   "poster": null,
   "demand": null,
-  "demand_checked": "2026-11-27"
+  "demand_checked": "2026-11-28"
  },
  {
   "id": "joe-devito-graduation-wscc-2026-12-09",
@@ -1988,7 +1693,7 @@
    "kind": "official show artwork"
   },
   "demand": null,
-  "demand_checked": "2026-11-27",
+  "demand_checked": "2026-11-28",
   "verification_note": "The club's own show page gives Wednesday December 9 at 8pm, runs 8:00 PM – 9:30 PM so end_time_confirmed is true, states a two-item minimum of food or drink per person and the age policy 16+ with a guardian, 18+ without, and describes a brand new hour of Spanish-language stand-up after the comedian's first special. This replaces the Joe DeVito Graduation Show we had listed at 7pm: the club's December calendar renders Dec 9 as this 8pm show, no DeVito graduation page exists on the club's site, and the PunchUp ticket id we had pointed at renders \"Oops, something went wrong\" with no start time. A Joe DeVito show that night does appear on third-party ticket sites, so if it is real it is a different room's booking; this listing now says what the room itself says it is."
  },
  {
@@ -2011,7 +1716,7 @@
   "featured": false,
   "poster": null,
   "demand": null,
-  "demand_checked": "2026-11-27"
+  "demand_checked": "2026-11-28"
  },
  {
   "id": "dylans-last-show-ever-st-marks-2026-12-09",
@@ -2041,7 +1746,7 @@
    "kind": "dated event flyer"
   },
   "demand": null,
-  "demand_checked": "2026-11-27"
+  "demand_checked": "2026-11-28"
  },
  {
   "id": "gavin-matts-failure-union-hall-2026-12-09",
@@ -2071,7 +1776,7 @@
    "kind": "performer photo from the event page"
   },
   "demand": "sold_out",
-  "demand_checked": "2026-11-27"
+  "demand_checked": "2026-11-28"
  },
  {
   "id": "a-true-york-st-marks-2026-12-10",
@@ -2093,7 +1798,7 @@
   "featured": false,
   "poster": null,
   "demand": null,
-  "demand_checked": "2026-11-27"
+  "demand_checked": "2026-11-28"
  },
  {
   "id": "party-clown-party-wscc-2026-12-10",
@@ -2123,7 +1828,7 @@
    "kind": "official show artwork"
   },
   "demand": null,
-  "demand_checked": "2026-11-27",
+  "demand_checked": "2026-11-28",
   "verification_note": "The club's own show page gives Thursday December 10 at 7pm for The Party Clown Party and prints the end time, 8:30pm, so end_time_confirmed is true. The page states a two-item minimum of food or drink and the age policy 16+ with a guardian, 18+ without."
  },
  {
@@ -2146,7 +1851,7 @@
   "featured": false,
   "poster": null,
   "demand": null,
-  "demand_checked": "2026-11-27"
+  "demand_checked": "2026-11-28"
  },
  {
   "id": "comedy-olympics-st-marks-2026-12-11",
@@ -2168,7 +1873,7 @@
   "featured": false,
   "poster": null,
   "demand": null,
-  "demand_checked": "2026-11-27"
+  "demand_checked": "2026-11-28"
  },
  {
   "id": "ryan-davis-brooklyn-improv-2026-12-11",
@@ -2199,7 +1904,7 @@
    "reuse_status": "Performer photo published on the club's event page; no separate reuse license identified. Site display with credit only."
   },
   "demand": null,
-  "demand_checked": "2026-11-27",
+  "demand_checked": "2026-11-28",
   "verification_note": "The venue’s own event page confirms Ryan Davis plays the Main Room four times on Friday December 11, at 7pm and 9:30pm, with the ticket at $33.36 general admission and $52.77 for reserved VIP seating. The ticket page adds a two-item minimum in the showroom, general-admission seating first-come and 21+."
  },
  {
@@ -2222,7 +1927,7 @@
   "featured": false,
   "poster": null,
   "demand": null,
-  "demand_checked": "2026-11-27"
+  "demand_checked": "2026-11-28"
  },
  {
   "id": "friday-night-laughs-st-marks-2026-12-11",
@@ -2244,7 +1949,7 @@
   "featured": false,
   "poster": null,
   "demand": null,
-  "demand_checked": "2026-11-27"
+  "demand_checked": "2026-11-28"
  },
  {
   "id": "a-true-york-st-marks-2026-12-12",
@@ -2266,7 +1971,7 @@
   "featured": false,
   "poster": null,
   "demand": null,
-  "demand_checked": "2026-11-27"
+  "demand_checked": "2026-11-28"
  },
  {
   "id": "emily-wilson-friends-bell-house-2026-12-12",
@@ -2296,7 +2001,7 @@
    "kind": "undated official show artwork"
   },
   "demand": null,
-  "demand_checked": "2026-11-27"
+  "demand_checked": "2026-11-28"
  },
  {
   "id": "speakeasy-saturday-night-st-marks-2026-12-12",
@@ -2318,7 +2023,7 @@
   "featured": false,
   "poster": null,
   "demand": null,
-  "demand_checked": "2026-11-27"
+  "demand_checked": "2026-11-28"
  },
  {
   "id": "down-bad-comedy-show-st-marks-2026-12-13",
@@ -2340,7 +2045,7 @@
   "featured": false,
   "poster": null,
   "demand": null,
-  "demand_checked": "2026-11-27"
+  "demand_checked": "2026-11-28"
  },
  {
   "title": "Clint Coley",
@@ -2360,7 +2065,7 @@
   "featured": false,
   "tier": "special",
   "demand": null,
-  "demand_checked": "2026-11-27",
+  "demand_checked": "2026-11-28",
   "poster": {
    "src": "/assets/posters/clint-coley-bell-house-2026-12-13.jpg",
    "width": 2048,
@@ -2401,7 +2106,7 @@
    "kind": "dated event flyer"
   },
   "demand": null,
-  "demand_checked": "2026-11-27"
+  "demand_checked": "2026-11-28"
  },
  {
   "id": "john-oliver-seth-meyers-beacon-2026-12-13",
@@ -2431,7 +2136,7 @@
    "kind": "dated event flyer"
   },
   "demand": null,
-  "demand_checked": "2026-11-27"
+  "demand_checked": "2026-11-28"
  },
  {
   "id": "monday-night-comedy-st-marks-2026-12-14",
@@ -2453,7 +2158,7 @@
   "featured": false,
   "poster": null,
   "demand": null,
-  "demand_checked": "2026-11-27"
+  "demand_checked": "2026-11-28"
  },
  {
   "id": "ralph-barbosa-bell-house-2026-12-14",
@@ -2483,7 +2188,7 @@
    "kind": "undated official show artwork"
   },
   "demand": "sold_out",
-  "demand_checked": "2026-11-27"
+  "demand_checked": "2026-11-28"
  },
  {
   "id": "double-edged-paula-j-leon-mario-pisano-nycc-2026-12-15",
@@ -2505,7 +2210,7 @@
   "featured": false,
   "poster": null,
   "demand": null,
-  "demand_checked": "2026-11-27"
+  "demand_checked": "2026-11-28"
  },
  {
   "id": "how-nick-stole-christmas-bell-house-2026-12-15",
@@ -2535,7 +2240,7 @@
    "kind": "undated official show artwork"
   },
   "demand": null,
-  "demand_checked": "2026-11-27"
+  "demand_checked": "2026-11-28"
  },
  {
   "id": "not-ripe-bananas-wscc-2026-12-15",
@@ -2565,7 +2270,7 @@
    "kind": "official show artwork"
   },
   "demand": null,
-  "demand_checked": "2026-11-27",
+  "demand_checked": "2026-11-28",
   "verification_note": "The club's own show page gives Tuesday December 15 at 8pm for Not Ripe Bananas and prints the end time, 9:30pm, so end_time_confirmed is true."
  },
  {
@@ -2588,7 +2293,7 @@
   "featured": false,
   "poster": null,
   "demand": null,
-  "demand_checked": "2026-11-27"
+  "demand_checked": "2026-11-28"
  },
  {
   "id": "good-eggs-nycc-2026-12-16",
@@ -2618,7 +2323,7 @@
    "kind": "dated event flyer"
   },
   "demand": null,
-  "demand_checked": "2026-11-27"
+  "demand_checked": "2026-11-28"
  },
  {
   "id": "dont-stop-im-about-to-jazz-bell-house-2026-12-17",
@@ -2648,7 +2353,7 @@
    "kind": "undated official show artwork"
   },
   "demand": null,
-  "demand_checked": "2026-11-27"
+  "demand_checked": "2026-11-28"
  },
  {
   "id": "tight-pants-comedy-show-st-marks-2026-12-17",
@@ -2670,7 +2375,7 @@
   "featured": false,
   "poster": null,
   "demand": null,
-  "demand_checked": "2026-11-27"
+  "demand_checked": "2026-11-28"
  },
  {
   "id": "landline-comedy-wild-east-2026-12-17",
@@ -2700,7 +2405,7 @@
    "kind": "undated official show artwork"
   },
   "demand": null,
-  "demand_checked": "2026-11-27",
+  "demand_checked": "2026-11-28",
   "verification_note": "The Landline Eventbrite listing gives Thursday December 17, doors 8pm, show 8:30pm to 10pm, free with a reserved spot entering you in a drawing for a free drink. Chris Barnes, Sam Evans, Salma Zaky, Hannah Jones, Erik Bergstrom and Vernon Payne are on the bill. The end time is on the listing, so end_time_confirmed is true."
  },
  {
@@ -2723,7 +2428,7 @@
   "featured": false,
   "poster": null,
   "demand": null,
-  "demand_checked": "2026-11-27"
+  "demand_checked": "2026-11-28"
  },
  {
   "id": "late-night-speakeasy-comedy-show-st-marks-2026-12-18",
@@ -2745,7 +2450,7 @@
   "featured": false,
   "poster": null,
   "demand": null,
-  "demand_checked": "2026-11-27"
+  "demand_checked": "2026-11-28"
  },
  {
   "id": "am-i-the-asshole-st-marks-2026-12-19",
@@ -2767,7 +2472,7 @@
   "featured": false,
   "poster": null,
   "demand": null,
-  "demand_checked": "2026-11-27"
+  "demand_checked": "2026-11-28"
  },
  {
   "id": "golden-hour-fest-littlefield-2026-12-19",
@@ -2789,7 +2494,7 @@
   "featured": false,
   "poster": null,
   "demand": null,
-  "demand_checked": "2026-11-27"
+  "demand_checked": "2026-11-28"
  },
  {
   "id": "martin-urbano-union-hall-2026-12-19",
@@ -2811,7 +2516,7 @@
   "featured": false,
   "poster": null,
   "demand": null,
-  "demand_checked": "2026-11-27"
+  "demand_checked": "2026-11-28"
  },
  {
   "id": "stand-up-comedy-nyc-top-comedians-upper-east-side-2026-12-19",
@@ -2833,7 +2538,7 @@
   "featured": false,
   "poster": null,
   "demand": null,
-  "demand_checked": "2026-11-27"
+  "demand_checked": "2026-11-28"
  },
  {
   "id": "speakeasy-saturday-night-st-marks-2026-12-19",
@@ -2855,7 +2560,7 @@
   "featured": false,
   "poster": null,
   "demand": null,
-  "demand_checked": "2026-11-27"
+  "demand_checked": "2026-11-28"
  },
  {
   "id": "laughing-buddha-comedy-nycc-2026-12-20",
@@ -2885,7 +2590,7 @@
   "featured": false,
   "tier": "special",
   "demand": null,
-  "demand_checked": "2026-11-27"
+  "demand_checked": "2026-11-28"
  },
  {
   "id": "down-bad-comedy-show-st-marks-2026-12-20",
@@ -2907,7 +2612,7 @@
   "featured": false,
   "poster": null,
   "demand": null,
-  "demand_checked": "2026-11-27"
+  "demand_checked": "2026-11-28"
  },
  {
   "id": "carmen-and-fiends-bell-house-2026-12-20",
@@ -2929,7 +2634,7 @@
   "featured": false,
   "poster": null,
   "demand": null,
-  "demand_checked": "2026-11-27",
+  "demand_checked": "2026-11-28",
   "verification_note": "The Bell House's own December calendar lists Carmen & Fiends at 7pm on Dec 20. The Live Nation mirror of the Ticketmaster page confirms the date, the 7pm showtime, the 6pm door time and the lineup of Carmen Christopher only; the ticket page lists a $30 to $31 price range. The only artwork Eventbrite and Ticketmaster publish for this show is Carmen Christopher's headshot, so there is no flyer to attach."
  },
  {
@@ -2952,7 +2657,7 @@
   "featured": false,
   "tier": "special",
   "demand": null,
-  "demand_checked": "2026-11-27"
+  "demand_checked": "2026-11-28"
  },
  {
   "id": "sunday-funday-st-marks-2026-12-20",
@@ -2974,7 +2679,7 @@
   "featured": false,
   "poster": null,
   "demand": null,
-  "demand_checked": "2026-11-27"
+  "demand_checked": "2026-11-28"
  },
  {
   "id": "rb-karaoke-comedy-comedy-in-harlem-2026-12-21",
@@ -2996,7 +2701,7 @@
   "featured": false,
   "tier": "special",
   "demand": null,
-  "demand_checked": "2026-11-27"
+  "demand_checked": "2026-11-28"
  },
  {
   "id": "a-true-york-st-marks-2026-12-21",
@@ -3018,7 +2723,7 @@
   "featured": false,
   "poster": null,
   "demand": null,
-  "demand_checked": "2026-11-27"
+  "demand_checked": "2026-11-28"
  },
  {
   "id": "a-true-york-st-marks-2026-12-22",
@@ -3040,7 +2745,7 @@
   "featured": false,
   "poster": null,
   "demand": null,
-  "demand_checked": "2026-11-27",
+  "demand_checked": "2026-11-28",
   "verification_note": "The club’s own show page confirms A TRUE YORK COMEDY EXPERIENCE on Tuesday December 22 at 7:30pm, doors 7pm, at 12 St Marks Place."
  },
  {
@@ -3071,7 +2776,7 @@
    "kind": "official show artwork"
   },
   "demand": null,
-  "demand_checked": "2026-11-27"
+  "demand_checked": "2026-11-28"
  },
  {
   "id": "pizzazz-gary-gulman-union-hall-2026-12-23",
@@ -3101,7 +2806,7 @@
    "kind": "dated event flyer"
   },
   "demand": null,
-  "demand_checked": "2026-11-27"
+  "demand_checked": "2026-11-28"
  },
  {
   "id": "8pm-comedy-show-grisly-pear-2026-12-23",
@@ -3123,7 +2828,7 @@
   "featured": false,
   "tier": "special",
   "demand": null,
-  "demand_checked": "2026-11-27"
+  "demand_checked": "2026-11-28"
  },
  {
   "id": "aruba-ray-xmas-eve-nycc-2026-12-24",
@@ -3153,7 +2858,7 @@
   "featured": false,
   "tier": "special",
   "demand": null,
-  "demand_checked": "2026-11-27"
+  "demand_checked": "2026-11-28"
  },
  {
   "id": "hobocop-grisly-pear-2026-12-24",
@@ -3175,7 +2880,7 @@
   "featured": false,
   "tier": "special",
   "demand": null,
-  "demand_checked": "2026-11-27"
+  "demand_checked": "2026-11-28"
  },
  {
   "id": "a-very-jewdy-christmas-nycc-2026-12-24",
@@ -3205,7 +2910,7 @@
   "featured": false,
   "tier": "special",
   "demand": null,
-  "demand_checked": "2026-11-27"
+  "demand_checked": "2026-11-28"
  },
  {
   "id": "kosher-chinese-st-marks-2026-12-25",
@@ -3227,7 +2932,7 @@
   "featured": false,
   "tier": "special",
   "demand": null,
-  "demand_checked": "2026-11-27"
+  "demand_checked": "2026-11-28"
  },
  {
   "id": "prime-time-comedy-show-st-marks-2026-12-26",
@@ -3249,7 +2954,7 @@
   "featured": false,
   "poster": null,
   "demand": null,
-  "demand_checked": "2026-11-27"
+  "demand_checked": "2026-11-28"
  },
  {
   "id": "primetime-comedy-show-grisly-pear-2026-12-26",
@@ -3271,7 +2976,7 @@
   "featured": false,
   "tier": "special",
   "demand": null,
-  "demand_checked": "2026-11-27"
+  "demand_checked": "2026-11-28"
  },
  {
   "id": "stand-up-comedy-nyc-top-comedians-upper-east-side-2026-12-26",
@@ -3301,7 +3006,7 @@
   "featured": false,
   "tier": "special",
   "demand": null,
-  "demand_checked": "2026-11-27"
+  "demand_checked": "2026-11-28"
  },
  {
   "id": "late-night-stand-up-nyc-upper-east-side-2026-12-26",
@@ -3331,7 +3036,7 @@
   "featured": false,
   "tier": "special",
   "demand": null,
-  "demand_checked": "2026-11-27"
+  "demand_checked": "2026-11-28"
  },
  {
   "id": "tony-dabas-st-marks-2026-12-27",
@@ -3353,7 +3058,7 @@
   "featured": false,
   "poster": null,
   "demand": null,
-  "demand_checked": "2026-11-27"
+  "demand_checked": "2026-11-28"
  },
  {
   "id": "8pm-comedy-show-grisly-pear-2026-12-27",
@@ -3375,7 +3080,7 @@
   "featured": false,
   "poster": null,
   "demand": null,
-  "demand_checked": "2026-11-27"
+  "demand_checked": "2026-11-28"
  },
  {
   "id": "sunday-late-comedy-show-st-marks-2026-12-27",
@@ -3397,7 +3102,7 @@
   "featured": false,
   "poster": null,
   "demand": null,
-  "demand_checked": "2026-11-27"
+  "demand_checked": "2026-11-28"
  },
  {
   "id": "famous-last-words-union-hall-2026-12-28",
@@ -3427,7 +3132,7 @@
    "kind": "dated event flyer"
   },
   "demand": null,
-  "demand_checked": "2026-11-27"
+  "demand_checked": "2026-11-28"
  },
  {
   "id": "pretty-major-union-hall-2026-12-29",
@@ -3457,7 +3162,7 @@
    "kind": "performer photo from the event page"
   },
   "demand": null,
-  "demand_checked": "2026-11-27"
+  "demand_checked": "2026-11-28"
  },
  {
   "id": "not-ripe-bananas-wscc-2026-12-29",
@@ -3487,7 +3192,7 @@
    "kind": "official show artwork"
   },
   "demand": null,
-  "demand_checked": "2026-11-27"
+  "demand_checked": "2026-11-28"
  },
  {
   "id": "a-true-york-st-marks-2026-12-30",
@@ -3509,7 +3214,7 @@
   "featured": false,
   "poster": null,
   "demand": null,
-  "demand_checked": "2026-11-27"
+  "demand_checked": "2026-11-28"
  },
  {
   "id": "8pm-comedy-show-grisly-pear-2026-12-30",
@@ -3531,7 +3236,7 @@
   "featured": false,
   "poster": null,
   "demand": null,
-  "demand_checked": "2026-11-27"
+  "demand_checked": "2026-11-28"
  },
  {
   "id": "wednesday-favs-wscc-2026-12-30",
@@ -3561,7 +3266,7 @@
    "kind": "dated event flyer"
   },
   "demand": null,
-  "demand_checked": "2026-11-27",
+  "demand_checked": "2026-11-28",
   "verification_note": "The club's own show page gives Wednesday December 30 at 8pm for Wednesday Favs and prints the end time, 9:30pm, so end_time_confirmed is true. The page states a two-item minimum of food or drink and the age policy 16+ with a guardian, 18+ without."
  },
  {
@@ -3584,7 +3289,7 @@
   "featured": false,
   "poster": null,
   "demand": null,
-  "demand_checked": "2026-11-27"
+  "demand_checked": "2026-11-28"
  },
  {
   "id": "pregame-littlefield-2026-12-31",
@@ -3615,7 +3320,7 @@
   "tier": "special",
   "featured": false,
   "demand": null,
-  "demand_checked": "2026-11-27"
+  "demand_checked": "2026-11-28"
  },
  {
   "id": "best-year-ever-union-hall-2026-12-31",
@@ -3646,7 +3351,7 @@
   "tier": "special",
   "featured": false,
   "demand": null,
-  "demand_checked": "2026-11-27"
+  "demand_checked": "2026-11-28"
  },
  {
   "id": "nye-comedy-show-grisly-pear-2026-12-31",
@@ -3676,7 +3381,7 @@
    "kind": "venue photo"
   },
   "demand": null,
-  "demand_checked": "2026-11-27"
+  "demand_checked": "2026-11-28"
  },
  {
   "id": "stand-up-comedy-nyc-nycs-best-weekly-thursday-show-2026-12-31",
@@ -3698,7 +3403,7 @@
   "featured": false,
   "poster": null,
   "demand": null,
-  "demand_checked": "2026-11-27"
+  "demand_checked": "2026-11-28"
  },
  {
   "id": "date-night-comedy-st-marks-2026-12-31",
@@ -3720,7 +3425,7 @@
   "featured": false,
   "poster": null,
   "demand": null,
-  "demand_checked": "2026-11-27"
+  "demand_checked": "2026-11-28"
  },
  {
   "id": "6pm-comedy-show-grisly-pear-2027-01-01",
@@ -3742,7 +3447,7 @@
   "featured": false,
   "poster": null,
   "demand": null,
-  "demand_checked": "2026-11-27"
+  "demand_checked": "2026-11-28"
  },
  {
   "id": "immigrant-jam-caveat-2027-01-01",
@@ -3772,7 +3477,7 @@
    "kind": "dated event flyer"
   },
   "demand": null,
-  "demand_checked": "2026-11-27",
+  "demand_checked": "2026-11-28",
   "verification_note": "Caveat's own show page for Fri Jan 1 gives doors 6:30pm, show 7:00pm, 21+, no drink minimum, and the three prices: $18.76 early bird until Dec 25, $24.41 standard, $25 at the door. The page gives the end time, 8:30pm, so end_time_confirmed is true."
  },
  {
@@ -3803,7 +3508,7 @@
    "kind": "undated official show artwork"
   },
   "demand": null,
-  "demand_checked": "2026-11-27"
+  "demand_checked": "2026-11-28"
  },
  {
   "id": "grisly-pear-new-joke-night-midtown-2027-01-05",
@@ -3826,7 +3531,7 @@
   "tier": "special",
   "featured": false,
   "demand": null,
-  "demand_checked": "2026-11-27"
+  "demand_checked": "2026-11-28"
  },
  {
   "id": "grisly-pear-8pm-2027-01-05",
@@ -3849,7 +3554,7 @@
   "tier": "special",
   "featured": false,
   "demand": null,
-  "demand_checked": "2026-11-27"
+  "demand_checked": "2026-11-28"
  },
  {
   "id": "yurie-collins-nycc-2027-01-06",
@@ -3879,7 +3584,7 @@
    "kind": "dated event flyer"
   },
   "demand": null,
-  "demand_checked": "2026-11-27",
+  "demand_checked": "2026-11-28",
   "verification_note": "The New York Comedy Club Upper West Side event page gives Wednesday January 6 at 7pm, $30.85 GA with fees and $47.15 premium seating, 16+, a $20 per-person minimum in the showroom, and all sales final. The room's own page says the Monsters of Tokyo US tour sold out multiple cities and that this is her first-ever US solo headlining tour. It prints no end time, so ends_at is an estimate."
  },
  {
@@ -3911,7 +3616,7 @@
   "tier": "special",
   "featured": false,
   "demand": null,
-  "demand_checked": "2026-11-27"
+  "demand_checked": "2026-11-28"
  },
  {
   "id": "comedia-criolla-nycc-2027-01-10",
@@ -3934,7 +3639,7 @@
   "tier": "special",
   "featured": false,
   "demand": null,
-  "demand_checked": "2026-11-27"
+  "demand_checked": "2026-11-28"
  },
  {
   "id": "jessica-kirson-nycc-2027-01-12",
@@ -3957,6 +3662,6 @@
   "tier": "special",
   "featured": false,
   "demand": null,
-  "demand_checked": "2026-11-27"
+  "demand_checked": "2026-11-28"
  }
 ]
